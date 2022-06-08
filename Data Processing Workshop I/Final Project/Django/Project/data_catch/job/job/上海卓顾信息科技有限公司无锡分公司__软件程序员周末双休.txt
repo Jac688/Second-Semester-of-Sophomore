@@ -1,0 +1,1 @@
+{'company_name': '上海卓顾信息科技有限公司无锡分公司', 'job_name': '软件程序员周末双休', 'geography': '无锡-梁溪区', 'bonus': ['五险一金', '带薪年假', '周末双休', '节日福利'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/126734798.html?rc=03'}

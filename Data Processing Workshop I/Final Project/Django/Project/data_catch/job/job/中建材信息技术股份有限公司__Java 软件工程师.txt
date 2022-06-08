@@ -1,0 +1,1 @@
+{'company_name': '中建材信息技术股份有限公司', 'job_name': 'Java 软件工程师', 'geography': '北京-丰台区', 'bonus': ['五险一金', '通讯补贴', '补充医疗保险', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128523692.html?rc=03'}

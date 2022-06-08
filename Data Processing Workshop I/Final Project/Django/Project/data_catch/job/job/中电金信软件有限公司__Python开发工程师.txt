@@ -1,0 +1,1 @@
+{'company_name': '中电金信软件有限公司', 'job_name': 'Python开发工程师', 'geography': '深圳-南山区', 'bonus': ['转正机会', '轻松', '愉悦'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131903014.html?rc=03'}

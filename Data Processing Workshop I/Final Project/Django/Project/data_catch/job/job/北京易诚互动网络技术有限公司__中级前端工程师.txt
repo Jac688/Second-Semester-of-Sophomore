@@ -1,0 +1,1 @@
+{'company_name': '北京易诚互动网络技术有限公司', 'job_name': '中级前端工程师', 'geography': '南昌-青山湖区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/130621743.html?rc=03'}

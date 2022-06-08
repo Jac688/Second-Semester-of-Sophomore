@@ -1,0 +1,1 @@
+{'company_name': '上海惠程信息科技有限公司', 'job_name': 'CAE二次开发工程师同时招收实习生', 'geography': '上海', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/109526515.html?rc=03'}

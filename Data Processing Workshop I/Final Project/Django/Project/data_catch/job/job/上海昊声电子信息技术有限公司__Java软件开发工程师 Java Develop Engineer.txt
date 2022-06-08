@@ -1,0 +1,1 @@
+{'company_name': '上海昊声电子信息技术有限公司', 'job_name': 'Java软件开发工程师 Java Develop Engineer', 'geography': '昆山', 'bonus': ['做五休二', '带薪年假', '五险一金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/126635035.html?rc=03'}

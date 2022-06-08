@@ -1,0 +1,1 @@
+{'company_name': '北京三信时代信息公司', 'job_name': 'Android即时通信开发工程师', 'geography': '北京', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129987861.html?rc=03'}

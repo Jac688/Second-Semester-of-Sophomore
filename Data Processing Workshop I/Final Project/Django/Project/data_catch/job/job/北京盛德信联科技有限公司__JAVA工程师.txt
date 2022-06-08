@@ -1,0 +1,1 @@
+{'company_name': '北京盛德信联科技有限公司', 'job_name': 'JAVA工程师', 'geography': '北京-朝阳区', 'bonus': ['通讯补贴', '五险一金', '餐饮补贴', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/73147450.html?rc=03'}

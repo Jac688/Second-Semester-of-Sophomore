@@ -1,0 +1,1 @@
+{'company_name': '圣戈班研发上海有限公司', 'job_name': 'Data Science Engineer', 'geography': '上海-闵行区', 'bonus': ['免费班车', '免费午餐', '世界500强', '补充医疗保险'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126266535.html?rc=03'}

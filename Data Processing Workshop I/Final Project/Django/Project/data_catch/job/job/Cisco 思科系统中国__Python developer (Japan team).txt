@@ -1,0 +1,1 @@
+{'company_name': 'Cisco 思科系统中国', 'job_name': 'Python developer (Japan team)', 'geography': '大连', 'bonus': ['弹性工作', '带薪年假', '绩效奖金', '节日福利'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/dalian/132145997.html?rc=03'}

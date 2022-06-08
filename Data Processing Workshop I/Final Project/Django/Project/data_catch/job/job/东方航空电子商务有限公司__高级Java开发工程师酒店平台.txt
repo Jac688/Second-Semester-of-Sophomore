@@ -1,0 +1,1 @@
+{'company_name': '东方航空电子商务有限公司', 'job_name': '高级Java开发工程师酒店平台', 'geography': '上海-闵行区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126157399.html?rc=03'}

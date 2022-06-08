@@ -1,0 +1,1 @@
+{'company_name': '广东省百越职业培训学院', 'job_name': '网站运营网站编辑网站管理 大小周+越秀', 'geography': '广州-越秀区', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴', '弹性工作'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127901909.html?rc=03'}

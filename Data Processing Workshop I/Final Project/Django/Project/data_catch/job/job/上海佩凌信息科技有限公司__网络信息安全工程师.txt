@@ -1,0 +1,1 @@
+{'company_name': '上海佩凌信息科技有限公司', 'job_name': '网络信息安全工程师', 'geography': '上海-黄浦区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121847754.html?rc=03'}

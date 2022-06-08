@@ -1,0 +1,1 @@
+{'company_name': '北京乐智才云信息科技有限公司', 'job_name': '大数据运维工程师0111', 'geography': '北京', 'bonus': ['年底双薪', '交通补助', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128318602.html?rc=03'}

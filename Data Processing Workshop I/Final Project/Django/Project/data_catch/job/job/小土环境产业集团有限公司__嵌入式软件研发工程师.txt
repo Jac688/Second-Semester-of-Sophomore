@@ -1,0 +1,1 @@
+{'company_name': '小土环境产业集团有限公司', 'job_name': '嵌入式软件研发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '弹性工作', '早九晚六', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129109395.html?rc=03'}

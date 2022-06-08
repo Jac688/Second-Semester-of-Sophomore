@@ -1,0 +1,1 @@
+{'company_name': '中科物栖江苏科技有限公司', 'job_name': '芯片验证工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130937847.html?rc=03'}

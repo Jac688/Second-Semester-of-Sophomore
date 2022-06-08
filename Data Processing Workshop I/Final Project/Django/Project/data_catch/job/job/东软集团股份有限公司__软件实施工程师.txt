@@ -1,0 +1,1 @@
+{'company_name': '东软集团股份有限公司', 'job_name': '软件实施工程师', 'geography': '杭州-上城区', 'bonus': ['绩效奖金', '定期体检', '弹性工作', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/118738223.html?rc=03'}

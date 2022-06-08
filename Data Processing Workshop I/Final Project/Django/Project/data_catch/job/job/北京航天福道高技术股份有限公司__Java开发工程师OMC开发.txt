@@ -1,0 +1,1 @@
+{'company_name': '北京航天福道高技术股份有限公司', 'job_name': 'Java开发工程师OMC开发', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '加班补贴'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131106164.html?rc=03'}

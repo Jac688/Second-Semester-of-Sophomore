@@ -1,0 +1,1 @@
+{'company_name': '北京华风超越科技有限公司', 'job_name': '预测系统模型分析员', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/61611239.html?rc=03'}

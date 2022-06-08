@@ -1,0 +1,1 @@
+{'company_name': '上海运道科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '西安-高新技术产业开发区', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '补充公积金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xian/132255566.html?rc=03'}

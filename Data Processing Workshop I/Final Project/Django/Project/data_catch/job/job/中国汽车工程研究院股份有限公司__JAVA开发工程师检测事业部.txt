@@ -1,0 +1,1 @@
+{'company_name': '中国汽车工程研究院股份有限公司', 'job_name': 'JAVA开发工程师检测事业部', 'geography': '重庆-渝北区', 'bonus': ['周末双休', '带薪年假', '免费班车', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/128796583.html?rc=03'}

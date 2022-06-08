@@ -1,0 +1,1 @@
+{'company_name': 'TCL金融控股集团', 'job_name': '高级运维工程师', 'geography': '惠州-惠城区', 'bonus': ['免费班车', '五险一金', '员工旅游', '交通补贴'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/127913971.html?rc=03'}

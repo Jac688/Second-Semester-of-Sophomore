@@ -1,0 +1,1 @@
+{'company_name': '广州弘亚数控机械股份有限公司', 'job_name': 'C++软件开发工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130652923.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州宾爱生物科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-白云区', 'bonus': ['绩效奖金', '全勤奖', '国外游', '补充医疗保险'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131138291.html?rc=03'}

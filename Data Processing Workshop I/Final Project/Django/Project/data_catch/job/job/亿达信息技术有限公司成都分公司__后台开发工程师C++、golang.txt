@@ -1,0 +1,1 @@
+{'company_name': '亿达信息技术有限公司成都分公司', 'job_name': '后台开发工程师C++、golang', 'geography': '成都-高新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/122525141.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州合优网络科技有限公司', 'job_name': 'PHP程序员', 'geography': '广州', 'bonus': ['专业培训', '五险', '转正机会', '团队建设'], 'salary': 0.25, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122229082.html?rc=03'}

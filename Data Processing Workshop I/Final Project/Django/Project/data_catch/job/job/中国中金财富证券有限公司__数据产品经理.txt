@@ -1,0 +1,1 @@
+{'company_name': '中国中金财富证券有限公司', 'job_name': '数据产品经理', 'geography': '北京', 'bonus': ['绩效奖金', '带薪年假', '通讯津贴', '午餐补助'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128163276.html?rc=03'}

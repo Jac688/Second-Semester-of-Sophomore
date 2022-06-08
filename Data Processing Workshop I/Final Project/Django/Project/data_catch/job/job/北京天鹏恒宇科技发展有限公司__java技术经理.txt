@@ -1,0 +1,1 @@
+{'company_name': '北京天鹏恒宇科技发展有限公司', 'job_name': 'java技术经理', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '带薪年假'], 'salary': 2.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126278708.html?rc=03'}

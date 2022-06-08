@@ -1,0 +1,1 @@
+{'company_name': '广州诚易二手车经纪服务有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-花都区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123133975.html?rc=03'}

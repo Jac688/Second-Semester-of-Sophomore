@@ -1,0 +1,1 @@
+{'company_name': '天津北方恒业电气技术有限公司', 'job_name': 'C#软件开发工程师', 'geography': '天津-南开区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/115696764.html?rc=03'}

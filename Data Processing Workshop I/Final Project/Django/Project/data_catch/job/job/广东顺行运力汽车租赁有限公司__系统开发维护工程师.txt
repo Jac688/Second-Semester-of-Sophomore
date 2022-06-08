@@ -1,0 +1,1 @@
+{'company_name': '广东顺行运力汽车租赁有限公司', 'job_name': '系统开发维护工程师', 'geography': '佛山-顺德区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/128430566.html?rc=03'}

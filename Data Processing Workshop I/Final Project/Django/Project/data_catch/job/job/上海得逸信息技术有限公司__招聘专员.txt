@@ -1,0 +1,1 @@
+{'company_name': '上海得逸信息技术有限公司', 'job_name': '招聘专员', 'geography': '异地招聘', 'bonus': ['五险一金', '定期体检', '补充医疗保险', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131730993.html?rc=03'}

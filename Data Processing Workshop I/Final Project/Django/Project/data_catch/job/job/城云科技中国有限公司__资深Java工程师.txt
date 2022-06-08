@@ -1,0 +1,1 @@
+{'company_name': '城云科技中国有限公司', 'job_name': '资深Java工程师', 'geography': '杭州', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/78668753.html?rc=03'}

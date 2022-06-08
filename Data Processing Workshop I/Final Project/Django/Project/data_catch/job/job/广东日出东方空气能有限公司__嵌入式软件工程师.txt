@@ -1,0 +1,1 @@
+{'company_name': '广东日出东方空气能有限公司', 'job_name': '嵌入式软件工程师', 'geography': '佛山', 'bonus': ['五险一金', '带薪年假', '绩效奖金', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/132074135.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州市西荔电力技术发展有限公司', 'job_name': '中间件运维工程师', 'geography': '广州-天河区', 'bonus': ['周末双休', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129532994.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东乐美智家环境科技股份有限公司', 'job_name': '嵌入式软件工程师', 'geography': '异地招聘', 'bonus': ['绩效奖金', '年终奖金', '出国机会', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/120479327.html?rc=03'}

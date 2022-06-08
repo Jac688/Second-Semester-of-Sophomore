@@ -1,0 +1,1 @@
+{'company_name': '上海东蒙机械工程设备有限公司', 'job_name': '网站技术SEO专员网站运营专员网络推广', 'geography': '上海-奉贤区', 'bonus': ['餐饮补贴', '节日福利', '住房补贴', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120236867.html?rc=03'}

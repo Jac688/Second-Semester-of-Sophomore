@@ -1,0 +1,1 @@
+{'company_name': '北京威标至远科技发展有限公司', 'job_name': '飞行控制软件开发及测试工程师', 'geography': '北京-丰台区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128272948.html?rc=03'}

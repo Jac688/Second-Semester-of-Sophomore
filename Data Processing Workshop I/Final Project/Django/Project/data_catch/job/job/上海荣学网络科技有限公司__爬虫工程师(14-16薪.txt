@@ -1,0 +1,1 @@
+{'company_name': '上海荣学网络科技有限公司', 'job_name': '爬虫工程师(14-16薪', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '绩效奖金', '股票期权', '零食下午茶'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129354620.html?rc=03'}

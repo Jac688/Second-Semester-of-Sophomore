@@ -1,0 +1,1 @@
+{'company_name': '云图数字视觉科技杭州有限公司', 'job_name': '图形软件工程师', 'geography': '杭州-余杭区', 'bonus': ['做五休二', '五险一金', '绩效奖金', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127567867.html?rc=03'}

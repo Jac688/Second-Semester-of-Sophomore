@@ -1,0 +1,1 @@
+{'company_name': '宁波智讯联科科技有限公司', 'job_name': '初级开发工程师', 'geography': '异地招聘', 'bonus': ['年终奖金', '周末双休', '免费午餐', '团队活动'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132248947.html?rc=03'}

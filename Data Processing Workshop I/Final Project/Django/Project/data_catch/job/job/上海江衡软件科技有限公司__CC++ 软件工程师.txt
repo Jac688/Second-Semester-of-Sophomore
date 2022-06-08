@@ -1,0 +1,1 @@
+{'company_name': '上海江衡软件科技有限公司', 'job_name': 'CC++ 软件工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/82875901.html?rc=03'}

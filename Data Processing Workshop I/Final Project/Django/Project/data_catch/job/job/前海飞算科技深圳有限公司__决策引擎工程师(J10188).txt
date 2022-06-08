@@ -1,0 +1,1 @@
+{'company_name': '前海飞算科技深圳有限公司', 'job_name': '决策引擎工程师(J10188)', 'geography': '深圳-南山区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130570828.html?rc=03'}

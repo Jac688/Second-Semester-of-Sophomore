@@ -1,0 +1,1 @@
+{'company_name': '东方蓝天钛金科技有限公司', 'job_name': '系统开发岗', 'geography': '烟台', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/yantai/123164529.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州飞人网络科技有限公司', 'job_name': '技术经理', 'geography': '广州-越秀区', 'bonus': ['绩效奖金', '下午茶', '社保六险', '周末双休'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128733314.html?rc=03'}

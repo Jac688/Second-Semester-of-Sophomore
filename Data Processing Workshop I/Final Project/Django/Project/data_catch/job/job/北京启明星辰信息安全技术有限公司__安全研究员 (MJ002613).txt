@@ -1,0 +1,1 @@
+{'company_name': '北京启明星辰信息安全技术有限公司', 'job_name': '安全研究员 (MJ002613)', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131732952.html?rc=03'}

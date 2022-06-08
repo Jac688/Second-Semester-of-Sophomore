@@ -1,0 +1,1 @@
+{'company_name': '东莞市金仙峰实业有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-南山区', 'bonus': ['全勤奖', '绩效奖金', '年终奖金', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/122750842.html?rc=03'}

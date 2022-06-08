@@ -1,0 +1,1 @@
+{'company_name': '南京优玛软件科技有限公司', 'job_name': 'JAVA 开发工程师', 'geography': '南京-鼓楼区', 'bonus': ['五险一金', '免费班车', '定期体检', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129777816.html?rc=03'}

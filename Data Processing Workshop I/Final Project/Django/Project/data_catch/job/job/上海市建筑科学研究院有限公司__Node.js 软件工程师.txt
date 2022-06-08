@@ -1,0 +1,1 @@
+{'company_name': '上海市建筑科学研究院有限公司', 'job_name': 'Node.js 软件工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130681578.html?rc=03'}

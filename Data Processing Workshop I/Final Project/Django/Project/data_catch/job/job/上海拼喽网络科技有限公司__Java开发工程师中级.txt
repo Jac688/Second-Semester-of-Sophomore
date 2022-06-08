@@ -1,0 +1,1 @@
+{'company_name': '上海拼喽网络科技有限公司', 'job_name': 'Java开发工程师中级', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '弹性工作'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127132179.html?rc=03'}

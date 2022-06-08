@@ -1,0 +1,1 @@
+{'company_name': '大连信雅达软件有限公司', 'job_name': '运维工程师—上海连通技术', 'geography': '上海', 'bonus': [], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128873528.html?rc=03'}

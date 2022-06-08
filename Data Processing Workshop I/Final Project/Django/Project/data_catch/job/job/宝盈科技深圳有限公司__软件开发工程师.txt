@@ -1,0 +1,1 @@
+{'company_name': '宝盈科技深圳有限公司', 'job_name': '软件开发工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '交通补贴'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130976086.html?rc=03'}

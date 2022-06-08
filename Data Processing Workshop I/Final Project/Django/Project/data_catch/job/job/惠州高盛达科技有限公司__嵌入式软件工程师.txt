@@ -1,0 +1,1 @@
+{'company_name': '惠州高盛达科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '惠州', 'bonus': ['绩效奖金', '五险一金', '补充医疗保险', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/60619177.html?rc=03'}

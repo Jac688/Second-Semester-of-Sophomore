@@ -1,0 +1,1 @@
+{'company_name': '广西道畅网络科技有限公司', 'job_name': 'Java开发实习生', 'geography': '南宁-西乡塘区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/nanning/130850850.html?rc=03'}

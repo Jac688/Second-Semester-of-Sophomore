@@ -1,0 +1,1 @@
+{'company_name': '广州君海网络科技有限公司', 'job_name': 'Android开发工程师', 'geography': '广州-海珠区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130487135.html?rc=03'}

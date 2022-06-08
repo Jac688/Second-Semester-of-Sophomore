@@ -1,0 +1,1 @@
+{'company_name': '安徽地势坤光电科技有限公司', 'job_name': 'C++开发工程师', 'geography': '合肥-肥西县', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '周末双休'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/hefei/131441012.html?rc=03'}

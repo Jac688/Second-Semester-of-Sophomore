@@ -1,0 +1,1 @@
+{'company_name': '和原贸易上海有限公司', 'job_name': '系统整合应用工程师RF方向', 'geography': '杭州-江干区', 'bonus': ['五险一金', '员工旅游', '定期体检', '14薪'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/126753092.html?rc=03'}

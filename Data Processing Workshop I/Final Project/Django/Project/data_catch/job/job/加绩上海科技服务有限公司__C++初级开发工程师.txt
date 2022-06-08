@@ -1,0 +1,1 @@
+{'company_name': '加绩上海科技服务有限公司', 'job_name': 'C++初级开发工程师', 'geography': '上海-浦东新区', 'bonus': ['补充医疗保险', '五险一金', '员工旅游', '专业培训'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131437596.html?rc=03'}

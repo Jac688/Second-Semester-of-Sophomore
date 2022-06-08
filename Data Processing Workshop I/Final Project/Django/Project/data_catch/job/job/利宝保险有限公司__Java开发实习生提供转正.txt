@@ -1,0 +1,1 @@
+{'company_name': '利宝保险有限公司', 'job_name': 'Java开发实习生提供转正', 'geography': '重庆', 'bonus': [], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/108813101.html?rc=03'}

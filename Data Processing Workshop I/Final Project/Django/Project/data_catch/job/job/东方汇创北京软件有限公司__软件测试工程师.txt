@@ -1,0 +1,1 @@
+{'company_name': '东方汇创北京软件有限公司', 'job_name': '软件测试工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131823946.html?rc=03'}

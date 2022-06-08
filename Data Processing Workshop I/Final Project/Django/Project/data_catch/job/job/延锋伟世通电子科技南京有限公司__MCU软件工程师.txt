@@ -1,0 +1,1 @@
+{'company_name': '延锋伟世通电子科技南京有限公司', 'job_name': 'MCU软件工程师', 'geography': '南京', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129182201.html?rc=03'}

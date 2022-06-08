@@ -1,0 +1,1 @@
+{'company_name': '季华实验室', 'job_name': '软件开发测试技术支撑岗新型显示装备团队', 'geography': '佛山-南海区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/127419652.html?rc=03'}

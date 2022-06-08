@@ -1,0 +1,1 @@
+{'company_name': '傲基科技股份有限公司', 'job_name': 'Python工程师', 'geography': '深圳-龙岗区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127832756.html?rc=03'}

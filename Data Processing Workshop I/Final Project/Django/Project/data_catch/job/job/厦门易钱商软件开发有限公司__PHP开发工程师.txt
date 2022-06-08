@@ -1,0 +1,1 @@
+{'company_name': '厦门易钱商软件开发有限公司', 'job_name': 'PHP开发工程师', 'geography': '长沙-开福区', 'bonus': ['绩效奖金', '年终奖金', '通讯补贴', '交通补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/changsha/130084373.html?rc=03'}

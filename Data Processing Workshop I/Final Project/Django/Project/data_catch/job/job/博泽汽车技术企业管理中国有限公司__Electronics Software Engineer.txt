@@ -1,0 +1,1 @@
+{'company_name': '博泽汽车技术企业管理中国有限公司', 'job_name': 'Electronics Software Engineer', 'geography': '上海-嘉定区', 'bonus': ['免费班车', '免费工作餐', '五险一金', '年终奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127752546.html?rc=03'}

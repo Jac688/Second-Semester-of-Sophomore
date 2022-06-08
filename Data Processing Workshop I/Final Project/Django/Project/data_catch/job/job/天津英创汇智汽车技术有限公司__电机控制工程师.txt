@@ -1,0 +1,1 @@
+{'company_name': '天津英创汇智汽车技术有限公司', 'job_name': '电机控制工程师', 'geography': '天津-武清区', 'bonus': ['绩效奖金', '年终奖金', '项目奖金', '免费工作餐'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131369851.html?rc=03'}

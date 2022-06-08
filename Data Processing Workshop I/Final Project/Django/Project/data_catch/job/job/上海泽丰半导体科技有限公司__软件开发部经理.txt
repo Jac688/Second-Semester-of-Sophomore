@@ -1,0 +1,1 @@
+{'company_name': '上海泽丰半导体科技有限公司', 'job_name': '软件开发部经理', 'geography': '上海-浦东新区', 'bonus': ['员工旅游', '通讯补贴', '年终奖金', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130295826.html?rc=03'}

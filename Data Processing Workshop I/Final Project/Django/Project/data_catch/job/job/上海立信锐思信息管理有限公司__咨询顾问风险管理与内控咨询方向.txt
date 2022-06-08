@@ -1,0 +1,1 @@
+{'company_name': '上海立信锐思信息管理有限公司', 'job_name': '咨询顾问风险管理与内控咨询方向', 'geography': '杭州-江干区', 'bonus': ['专业培训', '五险一金', '员工旅游', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/124892704.html?rc=03'}

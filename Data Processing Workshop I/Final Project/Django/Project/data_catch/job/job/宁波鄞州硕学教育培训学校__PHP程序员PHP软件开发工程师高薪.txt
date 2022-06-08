@@ -1,0 +1,1 @@
+{'company_name': '宁波鄞州硕学教育培训学校', 'job_name': 'PHP程序员PHP软件开发工程师高薪', 'geography': '宁波-海曙区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/81933340.html?rc=03'}

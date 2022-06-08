@@ -1,0 +1,1 @@
+{'company_name': '塞力斯医疗科技集团股份有限公司', 'job_name': '高级Java开发工程师', 'geography': '天津-河西区', 'bonus': ['五险一金', '绩效奖金', '年终奖金'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130949139.html?rc=03'}

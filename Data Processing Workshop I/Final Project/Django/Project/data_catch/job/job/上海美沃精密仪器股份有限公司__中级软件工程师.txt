@@ -1,0 +1,1 @@
+{'company_name': '上海美沃精密仪器股份有限公司', 'job_name': '中级软件工程师', 'geography': '上海-闵行区', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123721641.html?rc=03'}

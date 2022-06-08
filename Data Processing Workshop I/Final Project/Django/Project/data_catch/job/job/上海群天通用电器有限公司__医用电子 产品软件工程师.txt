@@ -1,0 +1,1 @@
+{'company_name': '上海群天通用电器有限公司', 'job_name': '医用电子 产品软件工程师', 'geography': '济南', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/98314239.html?rc=03'}

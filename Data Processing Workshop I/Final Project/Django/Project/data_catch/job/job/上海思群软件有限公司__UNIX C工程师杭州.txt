@@ -1,0 +1,1 @@
+{'company_name': '上海思群软件有限公司', 'job_name': 'UNIX C工程师杭州', 'geography': '杭州-上城区', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/103635451.html?rc=03'}

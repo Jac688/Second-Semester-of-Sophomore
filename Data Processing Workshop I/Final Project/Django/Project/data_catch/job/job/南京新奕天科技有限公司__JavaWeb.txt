@@ -1,0 +1,1 @@
+{'company_name': '南京新奕天科技有限公司', 'job_name': 'JavaWeb', 'geography': '南京', 'bonus': ['绩效奖金', '餐饮补贴', '包住宿', '高温补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/92872885.html?rc=03'}

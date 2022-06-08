@@ -1,0 +1,1 @@
+{'company_name': '中建材信息技术股份有限公司', 'job_name': '架构师-大数据', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '年终奖金'], 'salary': 3.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131485157.html?rc=03'}

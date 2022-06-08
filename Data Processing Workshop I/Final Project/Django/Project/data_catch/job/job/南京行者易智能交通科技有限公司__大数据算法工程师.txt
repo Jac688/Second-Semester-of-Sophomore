@@ -1,0 +1,1 @@
+{'company_name': '南京行者易智能交通科技有限公司', 'job_name': '大数据算法工程师', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129412224.html?rc=03'}

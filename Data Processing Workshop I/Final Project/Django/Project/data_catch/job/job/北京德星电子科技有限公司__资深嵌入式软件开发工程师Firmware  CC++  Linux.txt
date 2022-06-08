@@ -1,0 +1,1 @@
+{'company_name': '北京德星电子科技有限公司', 'job_name': '资深嵌入式软件开发工程师Firmware  CC++  Linux', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130711938.html?rc=03'}

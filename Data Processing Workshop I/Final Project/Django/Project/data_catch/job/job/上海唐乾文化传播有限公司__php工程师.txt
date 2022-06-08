@@ -1,0 +1,1 @@
+{'company_name': '上海唐乾文化传播有限公司', 'job_name': 'php工程师', 'geography': '上海-浦东新区', 'bonus': ['补充医疗保险', '免费班车', '定期体检', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125096428.html?rc=03'}

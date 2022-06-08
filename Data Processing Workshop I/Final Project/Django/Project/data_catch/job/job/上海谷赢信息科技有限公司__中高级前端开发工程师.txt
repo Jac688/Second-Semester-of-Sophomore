@@ -1,0 +1,1 @@
+{'company_name': '上海谷赢信息科技有限公司', 'job_name': '中高级前端开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130078853.html?rc=03'}

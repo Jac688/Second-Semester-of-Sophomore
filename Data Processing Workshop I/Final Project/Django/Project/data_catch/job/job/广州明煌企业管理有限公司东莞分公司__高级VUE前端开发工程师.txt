@@ -1,0 +1,1 @@
+{'company_name': '广州明煌企业管理有限公司东莞分公司', 'job_name': '高级VUE前端开发工程师', 'geography': '杭州-西湖区', 'bonus': ['绩效奖金', '弹性工作', '13薪'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132344278.html?rc=03'}

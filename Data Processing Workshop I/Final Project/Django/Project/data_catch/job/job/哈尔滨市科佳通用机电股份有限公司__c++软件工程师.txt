@@ -1,0 +1,1 @@
+{'company_name': '哈尔滨市科佳通用机电股份有限公司', 'job_name': 'c++软件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '周末双休', '免费班车', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128804937.html?rc=03'}

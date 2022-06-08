@@ -1,0 +1,1 @@
+{'company_name': '广州博纳信息技术有限公司', 'job_name': '实施项目经理-大数据', 'geography': '海口', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/haikou/128272871.html?rc=03'}

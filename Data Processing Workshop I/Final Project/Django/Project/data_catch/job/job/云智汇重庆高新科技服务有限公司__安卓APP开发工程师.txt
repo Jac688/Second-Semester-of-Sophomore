@@ -1,0 +1,1 @@
+{'company_name': '云智汇重庆高新科技服务有限公司', 'job_name': '安卓APP开发工程师', 'geography': '重庆', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/121977124.html?rc=03'}

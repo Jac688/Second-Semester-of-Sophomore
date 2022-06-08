@@ -1,0 +1,1 @@
+{'company_name': '俐玛精密测量技术苏州有限公司', 'job_name': '模拟集成电路测试研发工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '带薪年假'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131480753.html?rc=03'}

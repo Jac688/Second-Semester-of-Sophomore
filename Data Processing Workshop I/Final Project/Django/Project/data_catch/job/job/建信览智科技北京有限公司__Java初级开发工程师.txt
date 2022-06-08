@@ -1,0 +1,1 @@
+{'company_name': '建信览智科技北京有限公司', 'job_name': 'Java初级开发工程师', 'geography': '成都-青羊区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131634770.html?rc=03'}

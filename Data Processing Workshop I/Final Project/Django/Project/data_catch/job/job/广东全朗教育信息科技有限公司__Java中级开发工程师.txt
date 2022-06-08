@@ -1,0 +1,1 @@
+{'company_name': '广东全朗教育信息科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '广州-番禺区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '全勤奖'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/115421620.html?rc=03'}

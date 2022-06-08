@@ -1,0 +1,1 @@
+{'company_name': '山东海格尔信息技术股份有限公司', 'job_name': '研发总监', 'geography': '烟台', 'bonus': ['五险一金', '免费班车', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/yantai/131941278.html?rc=03'}

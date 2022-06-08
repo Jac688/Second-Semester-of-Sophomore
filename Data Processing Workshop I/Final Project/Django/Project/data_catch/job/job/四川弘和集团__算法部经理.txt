@@ -1,0 +1,1 @@
+{'company_name': '四川弘和集团', 'job_name': '算法部经理', 'geography': '成都-武侯区', 'bonus': ['周末双休', '带薪年假', '五险一金', '股票期权'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/120081752.html?rc=03'}

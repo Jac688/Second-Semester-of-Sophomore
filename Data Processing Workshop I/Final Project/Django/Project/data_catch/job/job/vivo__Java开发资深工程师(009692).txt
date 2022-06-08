@@ -1,0 +1,1 @@
+{'company_name': 'vivo', 'job_name': 'Java开发资深工程师(009692)', 'geography': '深圳-宝安区', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128036700.html?rc=03'}

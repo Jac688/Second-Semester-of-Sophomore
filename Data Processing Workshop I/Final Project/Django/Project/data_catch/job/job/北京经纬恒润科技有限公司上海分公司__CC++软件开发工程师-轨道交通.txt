@@ -1,0 +1,1 @@
+{'company_name': '北京经纬恒润科技有限公司上海分公司', 'job_name': 'CC++软件开发工程师-轨道交通', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128943195.html?rc=03'}

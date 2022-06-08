@@ -1,0 +1,1 @@
+{'company_name': 'RingCentral铃盛', 'job_name': '高级测试工程师音视频项目', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '免费班车', '交通补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131861984.html?rc=03'}

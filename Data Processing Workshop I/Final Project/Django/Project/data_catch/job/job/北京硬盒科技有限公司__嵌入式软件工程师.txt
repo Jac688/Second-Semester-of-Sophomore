@@ -1,0 +1,1 @@
+{'company_name': '北京硬盒科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '做五休二', '周末双休', '节日福利'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128590506.html?rc=03'}

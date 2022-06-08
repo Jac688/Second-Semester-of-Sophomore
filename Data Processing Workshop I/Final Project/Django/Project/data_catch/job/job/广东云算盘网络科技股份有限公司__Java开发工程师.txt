@@ -1,0 +1,1 @@
+{'company_name': '广东云算盘网络科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-白云区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125399406.html?rc=03'}

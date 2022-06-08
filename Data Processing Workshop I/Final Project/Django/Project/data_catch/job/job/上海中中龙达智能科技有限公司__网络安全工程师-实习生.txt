@@ -1,0 +1,1 @@
+{'company_name': '上海中中龙达智能科技有限公司', 'job_name': '网络安全工程师-实习生', 'geography': '上海-浦东新区', 'bonus': ['餐饮补贴', '带薪年假', '五险一金', '周末双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131814742.html?rc=03'}

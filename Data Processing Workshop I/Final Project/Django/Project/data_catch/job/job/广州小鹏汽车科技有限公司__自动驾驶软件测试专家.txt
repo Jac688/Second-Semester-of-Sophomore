@@ -1,0 +1,1 @@
+{'company_name': '广州小鹏汽车科技有限公司', 'job_name': '自动驾驶软件测试专家', 'geography': '北京-海淀区', 'bonus': ['年终奖金', '餐饮补贴', '弹性工作', '五险一金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130533021.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '亚德诺半导体技术上海有限公司', 'job_name': 'Digital Verification Engineer', 'geography': '北京-海淀区', 'bonus': ['500强公司'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131131932.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '恒大新能源汽车集团', 'job_name': '大数据开发工程师', 'geography': '上海-松江区', 'bonus': ['世界500强', '互联网', '五险一金', '补充公积金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131527245.html?rc=03'}

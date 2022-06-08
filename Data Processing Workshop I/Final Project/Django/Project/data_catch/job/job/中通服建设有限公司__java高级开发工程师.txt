@@ -1,0 +1,1 @@
+{'company_name': '中通服建设有限公司', 'job_name': 'java高级开发工程师', 'geography': '广州-越秀区', 'bonus': ['五险一金', '定期体检', '专业培训', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131749700.html?rc=03'}

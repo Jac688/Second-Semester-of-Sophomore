@@ -1,0 +1,1 @@
+{'company_name': '印孚瑟斯技术中国有限公司', 'job_name': '云平台开发-阿里云', 'geography': '广州-天河区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131789273.html?rc=03'}

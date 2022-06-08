@@ -1,0 +1,1 @@
+{'company_name': '上海中商商业征信有限公司', 'job_name': '.NET软件开发后端工程师', 'geography': '上海-长宁区', 'bonus': ['做五休二', '五险一金', '绩效奖金', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/113657917.html?rc=03'}

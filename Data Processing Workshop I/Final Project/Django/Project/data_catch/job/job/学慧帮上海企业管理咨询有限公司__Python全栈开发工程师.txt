@@ -1,0 +1,1 @@
+{'company_name': '学慧帮上海企业管理咨询有限公司', 'job_name': 'Python全栈开发工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '补充医疗保险'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126052088.html?rc=03'}

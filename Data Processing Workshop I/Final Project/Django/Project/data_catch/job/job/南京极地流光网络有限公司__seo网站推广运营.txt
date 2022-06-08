@@ -1,0 +1,1 @@
+{'company_name': '南京极地流光网络有限公司', 'job_name': 'seo网站推广运营', 'geography': '南京-雨花台区', 'bonus': ['五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130773939.html?rc=03'}

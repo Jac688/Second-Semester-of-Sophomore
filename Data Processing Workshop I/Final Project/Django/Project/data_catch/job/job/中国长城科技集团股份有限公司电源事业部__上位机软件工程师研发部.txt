@@ -1,0 +1,1 @@
+{'company_name': '中国长城科技集团股份有限公司电源事业部', 'job_name': '上位机软件工程师研发部', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '绩效奖金', '免费班车', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/110905234.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东百思佳博人力资源有限公司', 'job_name': '上位机工程师', 'geography': '东莞-东城区', 'bonus': ['五险一金', '包吃包住'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/132302778.html?rc=03'}

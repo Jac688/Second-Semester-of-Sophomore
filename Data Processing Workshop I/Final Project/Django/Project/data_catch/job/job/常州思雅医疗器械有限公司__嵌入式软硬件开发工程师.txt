@@ -1,0 +1,1 @@
+{'company_name': '常州思雅医疗器械有限公司', 'job_name': '嵌入式软硬件开发工程师', 'geography': '常州', 'bonus': ['五险一金', '免费班车', '员工旅游', '餐饮补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/58981157.html?rc=03'}

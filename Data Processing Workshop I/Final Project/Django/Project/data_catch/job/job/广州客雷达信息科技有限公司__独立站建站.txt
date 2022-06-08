@@ -1,0 +1,1 @@
+{'company_name': '广州客雷达信息科技有限公司', 'job_name': '独立站建站', 'geography': '广州-海珠区', 'bonus': ['社会保险', '周末双休', '绩效奖金', '公司活动'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129670970.html?rc=03'}

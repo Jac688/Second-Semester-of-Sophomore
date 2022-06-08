@@ -1,0 +1,1 @@
+{'company_name': '上海津石医药科技有限公司', 'job_name': '临床数据管理经理高级专员(J15638)', 'geography': '北京', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128650838.html?rc=03'}

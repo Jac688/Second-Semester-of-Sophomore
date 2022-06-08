@@ -1,0 +1,1 @@
+{'company_name': '好未来教育原学而思教育)', 'job_name': 'PHP实习生', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129585084.html?rc=03'}

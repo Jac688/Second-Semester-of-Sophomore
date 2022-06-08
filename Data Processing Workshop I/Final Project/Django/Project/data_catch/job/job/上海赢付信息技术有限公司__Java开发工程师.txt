@@ -1,0 +1,1 @@
+{'company_name': '上海赢付信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-浦东新区', 'bonus': ['做五休二', '全勤奖', '专业培训', '节日福利'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130544004.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海阿特麦家居用品有限公司', 'job_name': '全栈工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '节日福利'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127416550.html?rc=03'}

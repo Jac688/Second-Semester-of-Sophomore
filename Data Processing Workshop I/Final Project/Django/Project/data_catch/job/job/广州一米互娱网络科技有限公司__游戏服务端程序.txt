@@ -1,0 +1,1 @@
+{'company_name': '广州一米互娱网络科技有限公司', 'job_name': '游戏服务端程序', 'geography': '广州-天河区', 'bonus': ['五险一金', '定期体检', '年终奖金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/110610566.html?rc=03'}

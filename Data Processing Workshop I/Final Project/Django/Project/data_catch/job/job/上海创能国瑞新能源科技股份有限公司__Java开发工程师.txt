@@ -1,0 +1,1 @@
+{'company_name': '上海创能国瑞新能源科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '专业培训', '绩效奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128881417.html?rc=03'}

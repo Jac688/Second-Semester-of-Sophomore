@@ -1,0 +1,1 @@
+{'company_name': '云腾九州科技北京有限公司', 'job_name': '数据模型开发工程师', 'geography': '北京', 'bonus': ['五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128944048.html?rc=03'}

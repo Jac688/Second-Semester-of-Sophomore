@@ -1,0 +1,1 @@
+{'company_name': '山东中和慧明信息科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '济南-市中区', 'bonus': ['五险一金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/132014839.html?rc=03'}

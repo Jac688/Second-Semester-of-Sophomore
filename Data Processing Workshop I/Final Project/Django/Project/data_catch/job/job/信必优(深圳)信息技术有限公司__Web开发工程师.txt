@@ -1,0 +1,1 @@
+{'company_name': '信必优(深圳)信息技术有限公司', 'job_name': 'Web开发工程师', 'geography': '深圳-南山区', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127473364.html?rc=03'}

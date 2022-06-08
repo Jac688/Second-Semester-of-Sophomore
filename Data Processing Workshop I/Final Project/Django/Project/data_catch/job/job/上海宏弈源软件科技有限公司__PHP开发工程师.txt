@@ -1,0 +1,1 @@
+{'company_name': '上海宏弈源软件科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124810586.html?rc=03'}

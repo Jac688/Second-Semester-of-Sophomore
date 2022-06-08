@@ -1,0 +1,1 @@
+{'company_name': '中国移动通信集团设计院有限公司山东分公司', 'job_name': '软件开发工程师', 'geography': '济南-高新区', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/jinan/110585299.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东岭南通股份有限公司', 'job_name': 'Java开发工程师交通支付系统', 'geography': '广州-越秀区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/117778076.html?rc=03'}

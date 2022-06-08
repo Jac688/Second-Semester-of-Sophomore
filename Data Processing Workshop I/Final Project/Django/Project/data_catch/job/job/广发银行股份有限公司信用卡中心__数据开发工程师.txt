@@ -1,0 +1,1 @@
+{'company_name': '广发银行股份有限公司信用卡中心', 'job_name': '数据开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132003632.html?rc=03'}

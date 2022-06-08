@@ -1,0 +1,1 @@
+{'company_name': '上海霖晏医疗科技有限公司', 'job_name': 'C++软件开发工程师', 'geography': '上海-浦东新区', 'bonus': ['做五休二', '周末双休', '五险一金', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124520064.html?rc=03'}

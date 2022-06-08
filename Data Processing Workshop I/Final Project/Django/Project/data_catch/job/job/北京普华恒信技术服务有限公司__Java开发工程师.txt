@@ -1,0 +1,1 @@
+{'company_name': '北京普华恒信技术服务有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130379094.html?rc=03'}

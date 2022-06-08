@@ -1,0 +1,1 @@
+{'company_name': '中科软股教育科技北京股份有限公司济南分公司', 'job_name': 'Java研发工程师', 'geography': '济南', 'bonus': ['员工旅游', '绩效奖金', '年终奖金', '股票期权'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/jinan/118418339.html?rc=03'}

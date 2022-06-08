@@ -1,0 +1,1 @@
+{'company_name': '山东车润通讯科技有限公司', 'job_name': '后端开发工程师', 'geography': '济南-历下区', 'bonus': ['周末双休', '法定节假日', '提供午餐'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/jinan/129572319.html?rc=03'}

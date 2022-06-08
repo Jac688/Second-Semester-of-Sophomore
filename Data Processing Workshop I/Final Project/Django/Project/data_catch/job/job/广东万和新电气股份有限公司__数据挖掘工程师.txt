@@ -1,0 +1,1 @@
+{'company_name': '广东万和新电气股份有限公司', 'job_name': '数据挖掘工程师', 'geography': '佛山-顺德区', 'bonus': ['交通补贴', '绩效奖金', '五险一金', '员工旅游'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/foshan/124715781.html?rc=03'}

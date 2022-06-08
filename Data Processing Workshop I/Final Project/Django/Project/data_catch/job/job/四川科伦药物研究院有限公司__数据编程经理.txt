@@ -1,0 +1,1 @@
+{'company_name': '四川科伦药物研究院有限公司', 'job_name': '数据编程经理', 'geography': '成都-温江区', 'bonus': ['五险一金', '免费班车', '员工旅游', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129018020.html?rc=03'}

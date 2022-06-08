@@ -1,0 +1,1 @@
+{'company_name': '中国特种设备检验协会', 'job_name': '云平台开发工程师1名', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '年终奖金', '补充医疗保险', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130526988.html?rc=03'}

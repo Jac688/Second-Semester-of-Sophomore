@@ -1,0 +1,1 @@
+{'company_name': '北京先进数通信息技术股份公司', 'job_name': 'java开发工程师海口', 'geography': '海口-龙华区', 'bonus': ['五险一金', '定期体检', '年终奖金', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/haikou/128056124.html?rc=03'}

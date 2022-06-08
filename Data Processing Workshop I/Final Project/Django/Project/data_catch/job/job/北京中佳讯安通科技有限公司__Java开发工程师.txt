@@ -1,0 +1,1 @@
+{'company_name': '北京中佳讯安通科技有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127033623.html?rc=03'}

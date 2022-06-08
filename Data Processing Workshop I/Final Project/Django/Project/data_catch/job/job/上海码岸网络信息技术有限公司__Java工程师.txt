@@ -1,0 +1,1 @@
+{'company_name': '上海码岸网络信息技术有限公司', 'job_name': 'Java工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131877424.html?rc=03'}

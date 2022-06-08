@@ -1,0 +1,1 @@
+{'company_name': '优摩登软件开发深圳有限公司', 'job_name': 'JAVA工程师', 'geography': '深圳', 'bonus': ['五险一金', '员工旅游', '周六双休', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/71649629.html?rc=03'}

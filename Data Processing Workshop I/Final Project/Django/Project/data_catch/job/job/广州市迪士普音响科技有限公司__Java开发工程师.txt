@@ -1,0 +1,1 @@
+{'company_name': '广州市迪士普音响科技有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-白云区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129323447.html?rc=03'}

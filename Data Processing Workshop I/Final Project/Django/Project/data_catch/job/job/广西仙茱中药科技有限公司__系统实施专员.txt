@@ -1,0 +1,1 @@
+{'company_name': '广西仙茱中药科技有限公司', 'job_name': '系统实施专员', 'geography': '南宁', 'bonus': [], 'salary': 0.17, 'detail_url': 'https://msearch.51job.com/jobs/nanning/127926969.html?rc=03'}

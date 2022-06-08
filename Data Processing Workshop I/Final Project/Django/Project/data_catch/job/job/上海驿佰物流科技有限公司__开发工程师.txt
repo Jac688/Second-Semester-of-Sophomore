@@ -1,0 +1,1 @@
+{'company_name': '上海驿佰物流科技有限公司', 'job_name': '开发工程师', 'geography': '上海-青浦区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124149120.html?rc=03'}

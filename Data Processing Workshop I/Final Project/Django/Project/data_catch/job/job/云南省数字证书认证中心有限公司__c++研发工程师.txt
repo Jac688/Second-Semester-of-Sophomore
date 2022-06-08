@@ -1,0 +1,1 @@
+{'company_name': '云南省数字证书认证中心有限公司', 'job_name': 'c++研发工程师', 'geography': '昆明-西山区', 'bonus': ['五险一金', '绩效奖金', '带薪年假', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/kunming/123558007.html?rc=03'}

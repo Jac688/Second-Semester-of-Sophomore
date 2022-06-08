@@ -1,0 +1,1 @@
+{'company_name': '华盟科技咨询深圳有限公司', 'job_name': 'RPA开发工程师', 'geography': '深圳-南山区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130967284.html?rc=03'}

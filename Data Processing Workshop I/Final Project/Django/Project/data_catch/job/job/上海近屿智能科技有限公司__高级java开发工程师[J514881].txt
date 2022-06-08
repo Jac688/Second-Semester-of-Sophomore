@@ -1,0 +1,1 @@
+{'company_name': '上海近屿智能科技有限公司', 'job_name': '高级java开发工程师[J514881]', 'geography': '上海-徐汇区', 'bonus': ['弹性工作', '带薪年假', '绩效奖金', '年底双薪'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132172748.html?rc=03'}

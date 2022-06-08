@@ -1,0 +1,1 @@
+{'company_name': '北京燕京电子有限公司', 'job_name': '电子测试仪器应用工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128995655.html?rc=03'}

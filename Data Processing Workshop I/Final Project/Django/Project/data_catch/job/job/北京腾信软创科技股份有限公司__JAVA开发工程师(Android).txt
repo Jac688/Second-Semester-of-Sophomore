@@ -1,0 +1,1 @@
+{'company_name': '北京腾信软创科技股份有限公司', 'job_name': 'JAVA开发工程师(Android)', 'geography': '深圳-福田区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124722938.html?rc=03'}

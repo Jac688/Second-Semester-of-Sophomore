@@ -1,0 +1,1 @@
+{'company_name': '合肥科威尔电源系统股份有限公司', 'job_name': '软件开发工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131628576.html?rc=03'}

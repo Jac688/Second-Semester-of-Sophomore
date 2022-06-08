@@ -1,0 +1,1 @@
+{'company_name': '上海网鱼信息科技有限公司', 'job_name': '资深C++研发工程师(J10211)', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119031218.html?rc=03'}

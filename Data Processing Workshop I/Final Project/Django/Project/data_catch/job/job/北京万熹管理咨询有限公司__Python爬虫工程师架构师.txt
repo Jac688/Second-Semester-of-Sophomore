@@ -1,0 +1,1 @@
+{'company_name': '北京万熹管理咨询有限公司', 'job_name': 'Python爬虫工程师架构师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132262781.html?rc=03'}

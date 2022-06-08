@@ -1,0 +1,1 @@
+{'company_name': '上海三日企业管理有限公司', 'job_name': 'PHP开发工程师 - onsite', 'geography': '上海-闵行区', 'bonus': ['带薪年假', '年终奖金', '绩效奖金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130928614.html?rc=03'}

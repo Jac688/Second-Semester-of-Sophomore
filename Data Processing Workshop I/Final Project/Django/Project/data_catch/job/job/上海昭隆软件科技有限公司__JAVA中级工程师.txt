@@ -1,0 +1,1 @@
+{'company_name': '上海昭隆软件科技有限公司', 'job_name': 'JAVA中级工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127183138.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中建八局第三建设有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-栖霞区', 'bonus': ['五险一金', '绩效奖金', '过节费', '高温费'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131286804.html?rc=03'}

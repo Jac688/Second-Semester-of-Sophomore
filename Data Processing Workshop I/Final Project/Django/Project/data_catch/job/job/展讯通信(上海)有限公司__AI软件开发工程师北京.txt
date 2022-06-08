@@ -1,0 +1,1 @@
+{'company_name': '展讯通信(上海)有限公司', 'job_name': 'AI软件开发工程师北京', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124377404.html?rc=03'}

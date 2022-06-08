@@ -1,0 +1,1 @@
+{'company_name': '印链智能科技江苏有限公司', 'job_name': 'PHP开发工程师', 'geography': '苏州-姑苏区', 'bonus': ['五险一金', '年终奖金', '通讯补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/132132710.html?rc=03'}

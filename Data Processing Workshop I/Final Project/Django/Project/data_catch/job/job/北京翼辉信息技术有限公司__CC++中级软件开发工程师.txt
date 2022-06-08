@@ -1,0 +1,1 @@
+{'company_name': '北京翼辉信息技术有限公司', 'job_name': 'CC++中级软件开发工程师', 'geography': '北京', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 2.1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129357791.html?rc=03'}

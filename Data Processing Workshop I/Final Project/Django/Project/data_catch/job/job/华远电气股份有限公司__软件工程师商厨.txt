@@ -1,0 +1,1 @@
+{'company_name': '华远电气股份有限公司', 'job_name': '软件工程师商厨', 'geography': '深圳-南山区', 'bonus': ['五险一金', '弹性工作', '定期体检', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125733543.html?rc=03'}

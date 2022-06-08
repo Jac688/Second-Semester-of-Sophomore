@@ -1,0 +1,1 @@
+{'company_name': '国电南京自动化股份有限公司', 'job_name': '渗透测试工程师', 'geography': '南京', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131581132.html?rc=03'}

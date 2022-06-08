@@ -1,0 +1,1 @@
+{'company_name': '恒大童世界集团', 'job_name': '软件工程师web高级工程师方向', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '补充医疗保险', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130445488.html?rc=03'}

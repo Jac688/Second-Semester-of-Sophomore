@@ -1,0 +1,1 @@
+{'company_name': '亚信在线BIU', 'job_name': 'Java高级开发工程师', 'geography': '合肥-蜀山区', 'bonus': ['五险一金', '弹性工作', '周末双休', '生日福利'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hefei/131503082.html?rc=03'}

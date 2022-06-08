@@ -1,0 +1,1 @@
+{'company_name': '华雁智能科技集团股份有限公司', 'job_name': 'Java系统架构师', 'geography': '成都-高新区', 'bonus': ['周末双休', '五险一金', '绩效奖金', '节日福利'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127567978.html?rc=03'}

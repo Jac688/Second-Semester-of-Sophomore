@@ -1,0 +1,1 @@
+{'company_name': '四川深瑞视科技有限公司', 'job_name': '深度视觉算法工程师', 'geography': '成都-武侯区', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/106345612.html?rc=03'}

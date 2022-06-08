@@ -1,0 +1,1 @@
+{'company_name': '丰田互联北京科技开发有限公司广州分公司', 'job_name': '软件运维经理', 'geography': '北京-朝阳区', 'bonus': ['周末双休', '带薪年假', '五险一金', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129055254.html?rc=03'}

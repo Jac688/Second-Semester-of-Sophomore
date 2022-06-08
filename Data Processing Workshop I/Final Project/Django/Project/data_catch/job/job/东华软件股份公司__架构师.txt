@@ -1,0 +1,1 @@
+{'company_name': '东华软件股份公司', 'job_name': '架构师', 'geography': '泰安', 'bonus': ['五险一金', '餐饮补贴', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/taian/131650981.html?rc=03'}

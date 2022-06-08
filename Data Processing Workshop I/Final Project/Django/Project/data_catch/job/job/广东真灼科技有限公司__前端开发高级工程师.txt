@@ -1,0 +1,1 @@
+{'company_name': '广东真灼科技有限公司', 'job_name': '前端开发高级工程师', 'geography': '湛江', 'bonus': ['专业培训', '弹性工作', '年终奖金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhanjiang/126039641.html?rc=03'}

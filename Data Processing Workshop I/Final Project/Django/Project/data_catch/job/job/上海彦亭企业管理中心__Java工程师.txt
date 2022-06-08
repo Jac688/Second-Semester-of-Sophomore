@@ -1,0 +1,1 @@
+{'company_name': '上海彦亭企业管理中心', 'job_name': 'Java工程师', 'geography': '北京-海淀区', 'bonus': ['五险', '做五休二'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124298659.html?rc=03'}

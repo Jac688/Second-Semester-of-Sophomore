@@ -1,0 +1,1 @@
+{'company_name': '东莞市奥海科技股份有限公司', 'job_name': 'JAVA工程师(东莞塘厦工作，免费提供食宿', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/116856495.html?rc=03'}

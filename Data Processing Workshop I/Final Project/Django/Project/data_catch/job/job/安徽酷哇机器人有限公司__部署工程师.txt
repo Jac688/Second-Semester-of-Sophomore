@@ -1,0 +1,1 @@
+{'company_name': '安徽酷哇机器人有限公司', 'job_name': '部署工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '绩效奖金', '定期体检', '周末双休'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130001723.html?rc=03'}

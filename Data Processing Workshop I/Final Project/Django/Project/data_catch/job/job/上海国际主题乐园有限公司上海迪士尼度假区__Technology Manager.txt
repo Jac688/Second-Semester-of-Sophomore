@@ -1,0 +1,1 @@
+{'company_name': '上海国际主题乐园有限公司上海迪士尼度假区', 'job_name': 'Technology Manager', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '定期体检', '免费班车', '年终奖金'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130689694.html?rc=03'}

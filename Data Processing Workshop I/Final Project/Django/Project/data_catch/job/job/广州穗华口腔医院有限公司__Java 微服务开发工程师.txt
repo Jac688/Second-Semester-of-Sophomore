@@ -1,0 +1,1 @@
+{'company_name': '广州穗华口腔医院有限公司', 'job_name': 'Java 微服务开发工程师', 'geography': '广州-天河区', 'bonus': ['专业培训', '定期体检', '绩效奖金', '年终奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125548887.html?rc=03'}

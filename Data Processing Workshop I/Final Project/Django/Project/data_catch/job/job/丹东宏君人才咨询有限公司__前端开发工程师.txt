@@ -1,0 +1,1 @@
+{'company_name': '丹东宏君人才咨询有限公司', 'job_name': '前端开发工程师', 'geography': '重庆-渝中区', 'bonus': ['五险一金', '年终双薪', '周末双休', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/132196794.html?rc=03'}

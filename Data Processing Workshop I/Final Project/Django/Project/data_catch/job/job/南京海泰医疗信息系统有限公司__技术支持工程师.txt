@@ -1,0 +1,1 @@
+{'company_name': '南京海泰医疗信息系统有限公司', 'job_name': '技术支持工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '定期体检'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jining/109435939.html?rc=03'}

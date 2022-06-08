@@ -1,0 +1,1 @@
+{'company_name': '广东德润管理咨询有限公司', 'job_name': 'Python开发工程师RPA', 'geography': '广州-天河区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130029431.html?rc=03'}

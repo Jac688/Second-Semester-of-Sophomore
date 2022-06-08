@@ -1,0 +1,1 @@
+{'company_name': '天津自如生活科技有限公司', 'job_name': '高级收益分析师', 'geography': '天津', 'bonus': ['五险一金', '弹性工作', '绩效奖金', '住房补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130597281.html?rc=03'}

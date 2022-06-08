@@ -1,0 +1,1 @@
+{'company_name': '广东全娱科技有限公司', 'job_name': 'C++开发工程师', 'geography': '广州-番禺区', 'bonus': ['餐饮补贴', '绩效奖金', '年终奖金', '五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126326783.html?rc=03'}

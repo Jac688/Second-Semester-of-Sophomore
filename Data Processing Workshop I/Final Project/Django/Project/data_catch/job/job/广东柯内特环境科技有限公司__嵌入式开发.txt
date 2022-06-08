@@ -1,0 +1,1 @@
+{'company_name': '广东柯内特环境科技有限公司', 'job_name': '嵌入式开发', 'geography': '佛山', 'bonus': ['带薪年假', '包吃', '绩效奖金', '全勤奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/123765934.html?rc=03'}

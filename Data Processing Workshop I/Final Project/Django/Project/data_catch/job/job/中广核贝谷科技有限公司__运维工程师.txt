@@ -1,0 +1,1 @@
+{'company_name': '中广核贝谷科技有限公司', 'job_name': '运维工程师', 'geography': '深圳-福田区', 'bonus': ['带薪年假', '绩效奖金', '节日福利', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/120001300.html?rc=03'}

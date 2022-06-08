@@ -1,0 +1,1 @@
+{'company_name': '中山市美图塑料工业有限公司', 'job_name': 'java工程师后端开发工程师', 'geography': '中山', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/125894944.html?rc=03'}

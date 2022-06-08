@@ -1,0 +1,1 @@
+{'company_name': '世芯电子上海有限公司', 'job_name': 'Engineer', 'geography': '无锡-滨湖区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '年终奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/122570352.html?rc=03'}

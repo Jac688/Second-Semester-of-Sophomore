@@ -1,0 +1,1 @@
+{'company_name': '富通天下浙江运营中心', 'job_name': 'Java开发工程师', 'geography': '杭州-拱墅区', 'bonus': ['五险一金', '员工旅游', '专业培训', '周末双休'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/110350816.html?rc=03'}

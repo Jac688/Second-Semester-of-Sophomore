@@ -1,0 +1,1 @@
+{'company_name': '宁波麦博韦尔移动电话有限公司', 'job_name': '软件测试工程师', 'geography': '宁波', 'bonus': [], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131548433.html?rc=03'}

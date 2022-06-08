@@ -1,0 +1,1 @@
+{'company_name': '天津南开创元信息技术有限公司', 'job_name': '对日开发TL', 'geography': '天津', 'bonus': ['五险一金', '年终奖金', '出国机会', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/119868232.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中联集团教育科技有限公司', 'job_name': '软件功能测试高级工程师', 'geography': '北京-西城区', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128384498.html?rc=03'}

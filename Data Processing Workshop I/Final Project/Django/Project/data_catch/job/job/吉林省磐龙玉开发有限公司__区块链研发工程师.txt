@@ -1,0 +1,1 @@
+{'company_name': '吉林省磐龙玉开发有限公司', 'job_name': '区块链研发工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '绩效奖金', '提供三餐'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131705835.html?rc=03'}

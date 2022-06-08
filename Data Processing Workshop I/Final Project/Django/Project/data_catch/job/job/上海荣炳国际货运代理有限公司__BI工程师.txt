@@ -1,0 +1,1 @@
+{'company_name': '上海荣炳国际货运代理有限公司', 'job_name': 'BI工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '免费停车'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128074634.html?rc=03'}

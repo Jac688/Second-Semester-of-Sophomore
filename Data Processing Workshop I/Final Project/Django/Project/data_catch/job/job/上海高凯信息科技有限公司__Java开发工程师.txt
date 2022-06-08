@@ -1,0 +1,1 @@
+{'company_name': '上海高凯信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-杨浦区', 'bonus': ['绩效奖金', '五险一金', '员工旅游', '定期体检'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/105851089.html?rc=03'}

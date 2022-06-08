@@ -1,0 +1,1 @@
+{'company_name': 'Cadence(南京凯鼎电子科技有限公司)', 'job_name': '高级设计工程师 - PDK  CAD', 'geography': '南京-浦口区', 'bonus': ['发展空间大', '技术领先', '五险一金', '补充医疗保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129167304.html?rc=03'}

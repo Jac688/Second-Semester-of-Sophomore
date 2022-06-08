@@ -1,0 +1,1 @@
+{'company_name': '喔唛咔车链重庆信息科技有限公司', 'job_name': '项目经理', 'geography': '重庆-江北区', 'bonus': ['员工旅游', '餐饮补贴', '年终奖金', '出国机会'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/132340507.html?rc=03'}

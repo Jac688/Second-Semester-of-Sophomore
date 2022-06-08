@@ -1,0 +1,1 @@
+{'company_name': '凯通科技股份有限公司', 'job_name': 'Java中级开发工程师北京', 'geography': '北京-西城区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/116410191.html?rc=03'}

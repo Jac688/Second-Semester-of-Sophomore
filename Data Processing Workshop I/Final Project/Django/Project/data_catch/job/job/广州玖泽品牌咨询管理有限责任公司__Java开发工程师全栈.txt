@@ -1,0 +1,1 @@
+{'company_name': '广州玖泽品牌咨询管理有限责任公司', 'job_name': 'Java开发工程师全栈', 'geography': '广州-番禺区', 'bonus': ['节日福利', '专业培训', '五险一金', '补充医疗保险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127598320.html?rc=03'}

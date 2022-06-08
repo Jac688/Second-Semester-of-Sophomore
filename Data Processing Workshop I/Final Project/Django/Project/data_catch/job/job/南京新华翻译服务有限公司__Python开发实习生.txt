@@ -1,0 +1,1 @@
+{'company_name': '南京新华翻译服务有限公司', 'job_name': 'Python开发实习生', 'geography': '南京', 'bonus': ['绩效奖金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132123108.html?rc=03'}

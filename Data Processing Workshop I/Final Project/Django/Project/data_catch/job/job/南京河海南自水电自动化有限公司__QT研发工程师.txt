@@ -1,0 +1,1 @@
+{'company_name': '南京河海南自水电自动化有限公司', 'job_name': 'QT研发工程师', 'geography': '南京-浦口区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128186211.html?rc=03'}

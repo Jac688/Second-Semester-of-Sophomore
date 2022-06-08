@@ -1,0 +1,1 @@
+{'company_name': '天津易客大数据服务有限公司', 'job_name': 'PHP开发工程师', 'geography': '天津-河西区', 'bonus': ['包住宿', '五险一金', '带薪年假', '包吃'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131544232.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '嘉兴智行物联网技术有限公司', 'job_name': '资深软件开发工程师java发向', 'geography': '嘉兴', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/105932160.html?rc=03'}

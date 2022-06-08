@@ -1,0 +1,1 @@
+{'company_name': '上海佳点机电有限公司', 'job_name': '单片机开发工程师', 'geography': '上海', 'bonus': ['做五休二', '年终奖金', '免费工作餐', '提供住宿'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/115324565.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'HCL Technologies (Shanghai) Limited', 'job_name': 'Software Develop Engineer', 'geography': '苏州', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130168734.html?rc=03'}

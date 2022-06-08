@@ -1,0 +1,1 @@
+{'company_name': '常州普适信息科技有限公司', 'job_name': '资深工程师', 'geography': '湖州-吴兴区', 'bonus': ['五险一金', '周末双休', '餐饮补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/huzhou/129556190.html?rc=03'}

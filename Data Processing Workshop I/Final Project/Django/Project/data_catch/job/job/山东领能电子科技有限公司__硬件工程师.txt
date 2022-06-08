@@ -1,0 +1,1 @@
+{'company_name': '山东领能电子科技有限公司', 'job_name': '硬件工程师', 'geography': '济南-高新区', 'bonus': ['五险一金', '十三薪', '项目奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/113039918.html?rc=03'}

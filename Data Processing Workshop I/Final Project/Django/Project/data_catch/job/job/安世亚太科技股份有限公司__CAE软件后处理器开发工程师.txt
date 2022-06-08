@@ -1,0 +1,1 @@
+{'company_name': '安世亚太科技股份有限公司', 'job_name': 'CAE软件后处理器开发工程师', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130564600.html?rc=03'}

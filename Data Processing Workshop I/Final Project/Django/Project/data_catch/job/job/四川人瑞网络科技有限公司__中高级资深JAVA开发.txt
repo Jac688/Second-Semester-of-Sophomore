@@ -1,0 +1,1 @@
+{'company_name': '四川人瑞网络科技有限公司', 'job_name': '中高级资深JAVA开发', 'geography': '杭州-余杭区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130515519.html?rc=03'}

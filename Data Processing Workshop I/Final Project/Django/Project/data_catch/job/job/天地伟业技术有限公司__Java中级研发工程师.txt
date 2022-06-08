@@ -1,0 +1,1 @@
+{'company_name': '天地伟业技术有限公司', 'job_name': 'Java中级研发工程师', 'geography': '天津-西青区', 'bonus': ['五险一金', '年底双薪', '绩效奖金', '股票期权'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/119913414.html?rc=03'}

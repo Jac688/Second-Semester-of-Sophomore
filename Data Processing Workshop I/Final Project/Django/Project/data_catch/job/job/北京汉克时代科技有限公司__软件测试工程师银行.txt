@@ -1,0 +1,1 @@
+{'company_name': '北京汉克时代科技有限公司', 'job_name': '软件测试工程师银行', 'geography': '杭州-西湖区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/124551630.html?rc=03'}

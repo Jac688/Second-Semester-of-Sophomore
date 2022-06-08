@@ -1,0 +1,1 @@
+{'company_name': '广州市卓为信息技术有限公司', 'job_name': 'Java开发西城区', 'geography': '北京-西城区', 'bonus': ['周末双休', '双薪', '团队大', '牛人多'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131604639.html?rc=03'}

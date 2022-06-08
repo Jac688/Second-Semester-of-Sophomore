@@ -1,0 +1,1 @@
+{'company_name': '南京邢天网络技术有限公司', 'job_name': '驱动工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '周末双休', '弹性工作', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127324874.html?rc=03'}

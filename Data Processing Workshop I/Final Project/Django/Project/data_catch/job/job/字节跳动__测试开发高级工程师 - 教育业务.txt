@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '测试开发高级工程师 - 教育业务', 'geography': '上海', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '团队氛围好'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130492994.html?rc=03'}

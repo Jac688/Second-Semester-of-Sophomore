@@ -1,0 +1,1 @@
+{'company_name': '上海博泰悦臻电子设备制造有限公司', 'job_name': 'TboxV2X软件工程师(J7M51)', 'geography': '上海', 'bonus': ['五险一金', '扁平管理', '餐补', '补充医疗保险'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121891020.html?rc=03'}

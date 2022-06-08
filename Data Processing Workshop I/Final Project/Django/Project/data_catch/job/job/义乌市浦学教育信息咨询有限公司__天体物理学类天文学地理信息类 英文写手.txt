@@ -1,0 +1,1 @@
+{'company_name': '义乌市浦学教育信息咨询有限公司', 'job_name': '天体物理学类天文学地理信息类 英文写手', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130130781.html?rc=03'}

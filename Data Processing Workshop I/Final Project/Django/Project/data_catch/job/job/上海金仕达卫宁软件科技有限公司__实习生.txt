@@ -1,0 +1,1 @@
+{'company_name': '上海金仕达卫宁软件科技有限公司', 'job_name': '实习生', 'geography': '重庆', 'bonus': ['五险一金', '弹性工作', '定期体检', '通讯补贴'], 'salary': 0.35, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131756271.html?rc=03'}

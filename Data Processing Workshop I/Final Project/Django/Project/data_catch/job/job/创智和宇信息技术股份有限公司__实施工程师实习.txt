@@ -1,0 +1,1 @@
+{'company_name': '创智和宇信息技术股份有限公司', 'job_name': '实施工程师实习', 'geography': '海口-美兰区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/haikou/132080263.html?rc=03'}

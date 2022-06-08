@@ -1,0 +1,1 @@
+{'company_name': '上海永达汽车集团有限公司', 'job_name': '系统运维工程师', 'geography': '上海-普陀区', 'bonus': ['带薪年假', '五险一金', '提供午餐'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130804194.html?rc=03'}

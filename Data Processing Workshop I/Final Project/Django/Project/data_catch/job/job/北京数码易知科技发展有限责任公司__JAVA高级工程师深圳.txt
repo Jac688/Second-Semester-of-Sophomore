@@ -1,0 +1,1 @@
+{'company_name': '北京数码易知科技发展有限责任公司', 'job_name': 'JAVA高级工程师深圳', 'geography': '深圳-南山区', 'bonus': ['补充医疗保险', '专业培训', '绩效奖金', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130743408.html?rc=03'}

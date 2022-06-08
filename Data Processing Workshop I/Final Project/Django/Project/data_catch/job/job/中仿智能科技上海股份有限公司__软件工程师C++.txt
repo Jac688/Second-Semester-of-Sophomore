@@ -1,0 +1,1 @@
+{'company_name': '中仿智能科技上海股份有限公司', 'job_name': '软件工程师C++', 'geography': '上海-松江区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131713515.html?rc=03'}

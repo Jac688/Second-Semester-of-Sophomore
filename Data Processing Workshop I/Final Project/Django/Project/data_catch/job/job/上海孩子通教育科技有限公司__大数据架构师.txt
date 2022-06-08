@@ -1,0 +1,1 @@
+{'company_name': '上海孩子通教育科技有限公司', 'job_name': '大数据架构师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131861496.html?rc=03'}

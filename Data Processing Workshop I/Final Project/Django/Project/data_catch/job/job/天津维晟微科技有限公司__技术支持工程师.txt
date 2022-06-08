@@ -1,0 +1,1 @@
+{'company_name': '天津维晟微科技有限公司', 'job_name': '技术支持工程师', 'geography': '天津-滨海新区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129791105.html?rc=03'}

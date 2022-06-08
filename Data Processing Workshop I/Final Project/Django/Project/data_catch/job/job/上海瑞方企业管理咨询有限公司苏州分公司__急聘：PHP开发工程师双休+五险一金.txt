@@ -1,0 +1,1 @@
+{'company_name': '上海瑞方企业管理咨询有限公司苏州分公司', 'job_name': '急聘：PHP开发工程师双休+五险一金', 'geography': '苏州-高新区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '上五休二'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/118485749.html?rc=03'}

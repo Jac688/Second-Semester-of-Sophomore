@@ -1,0 +1,1 @@
+{'company_name': '北京光辉力成医药有限公司', 'job_name': '生物信息工程师', 'geography': '北京-昌平区', 'bonus': ['定期体检', '员工旅游', '出国机会', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/108339417.html?rc=03'}

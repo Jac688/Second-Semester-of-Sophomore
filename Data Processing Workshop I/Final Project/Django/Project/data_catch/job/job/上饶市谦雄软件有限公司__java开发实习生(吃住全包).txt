@@ -1,0 +1,1 @@
+{'company_name': '上饶市谦雄软件有限公司', 'job_name': 'java开发实习生(吃住全包)', 'geography': '上饶', 'bonus': ['五险', '包吃包住', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shangrao/131503504.html?rc=03'}

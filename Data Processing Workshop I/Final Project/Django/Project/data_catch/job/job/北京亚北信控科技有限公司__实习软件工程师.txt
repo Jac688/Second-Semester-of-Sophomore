@@ -1,0 +1,1 @@
+{'company_name': '北京亚北信控科技有限公司', 'job_name': '实习软件工程师', 'geography': '北京-海淀区', 'bonus': ['通讯补贴', '弹性工作', '交通补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126345780.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川宝贝爱孕婴用品推广中心', 'job_name': '技术主管JAVA', 'geography': '成都-金牛区', 'bonus': ['带薪年假', '工龄工资', '五险一金', '年底双薪'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131303403.html?rc=03'}

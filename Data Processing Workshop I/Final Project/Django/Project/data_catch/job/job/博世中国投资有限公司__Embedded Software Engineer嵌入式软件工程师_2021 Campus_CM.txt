@@ -1,0 +1,1 @@
+{'company_name': '博世中国投资有限公司', 'job_name': 'Embedded Software Engineer嵌入式软件工程师_2021 Campus_CM', 'geography': '上海', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127355429.html?rc=03'}

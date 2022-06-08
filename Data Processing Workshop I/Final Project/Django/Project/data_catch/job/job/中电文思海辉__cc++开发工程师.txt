@@ -1,0 +1,1 @@
+{'company_name': '中电文思海辉', 'job_name': 'cc++开发工程师', 'geography': '成都', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/123407547.html?rc=03'}

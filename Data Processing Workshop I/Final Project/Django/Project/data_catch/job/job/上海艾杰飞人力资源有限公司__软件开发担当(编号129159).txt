@@ -1,0 +1,1 @@
+{'company_name': '上海艾杰飞人力资源有限公司', 'job_name': '软件开发担当(编号129159)', 'geography': '北京', 'bonus': ['五险一金', '国家法定休假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130226369.html?rc=03'}

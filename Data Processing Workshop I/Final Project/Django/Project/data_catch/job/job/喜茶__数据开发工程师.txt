@@ -1,0 +1,1 @@
+{'company_name': '喜茶', 'job_name': '数据开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '弹性工作', '定期体检'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130339781.html?rc=03'}

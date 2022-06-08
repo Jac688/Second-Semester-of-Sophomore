@@ -1,0 +1,1 @@
+{'company_name': '上海红耶国际贸易有限公司', 'job_name': 'H5前端开发', 'geography': '上海', 'bonus': [], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/77472980.html?rc=03'}

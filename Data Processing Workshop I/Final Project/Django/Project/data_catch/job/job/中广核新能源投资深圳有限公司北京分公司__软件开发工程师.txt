@@ -1,0 +1,1 @@
+{'company_name': '中广核新能源投资深圳有限公司北京分公司', 'job_name': '软件开发工程师', 'geography': '北京-丰台区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/116743500.html?rc=03'}

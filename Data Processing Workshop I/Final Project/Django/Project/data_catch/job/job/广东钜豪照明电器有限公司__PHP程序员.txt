@@ -1,0 +1,1 @@
+{'company_name': '广东钜豪照明电器有限公司', 'job_name': 'PHP程序员', 'geography': '佛山-禅城区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/123142468.html?rc=03'}

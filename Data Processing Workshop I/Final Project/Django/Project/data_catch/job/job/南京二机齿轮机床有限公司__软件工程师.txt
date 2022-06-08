@@ -1,0 +1,1 @@
+{'company_name': '南京二机齿轮机床有限公司', 'job_name': '软件工程师', 'geography': '南京-江宁区', 'bonus': ['做五休二', '交通补贴', '周末双休', '免费班车'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128446991.html?rc=03'}

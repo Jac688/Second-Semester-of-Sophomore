@@ -1,0 +1,1 @@
+{'company_name': '广州昊森供应链管理有限公司', 'job_name': '小程序开发工程师', 'geography': '广州-增城区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131584462.html?rc=03'}

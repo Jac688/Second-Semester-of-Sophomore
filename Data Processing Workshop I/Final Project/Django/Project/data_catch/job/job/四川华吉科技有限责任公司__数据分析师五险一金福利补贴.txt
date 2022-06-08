@@ -1,0 +1,1 @@
+{'company_name': '四川华吉科技有限责任公司', 'job_name': '数据分析师五险一金福利补贴', 'geography': '成都-郫都区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127417452.html?rc=03'}

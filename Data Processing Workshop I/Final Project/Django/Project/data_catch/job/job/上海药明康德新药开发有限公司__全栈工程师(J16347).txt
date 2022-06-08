@@ -1,0 +1,1 @@
+{'company_name': '上海药明康德新药开发有限公司', 'job_name': '全栈工程师(J16347)', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132150414.html?rc=03'}

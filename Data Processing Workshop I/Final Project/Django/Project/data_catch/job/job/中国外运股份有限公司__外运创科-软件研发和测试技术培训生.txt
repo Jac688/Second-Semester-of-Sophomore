@@ -1,0 +1,1 @@
+{'company_name': '中国外运股份有限公司', 'job_name': '外运创科-软件研发和测试技术培训生', 'geography': '北京', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130626715.html?rc=03'}

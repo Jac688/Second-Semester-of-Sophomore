@@ -1,0 +1,1 @@
+{'company_name': '广州多益网络股份有限公司', 'job_name': '互联网产品研发工程师校招', 'geography': '广州-黄埔区', 'bonus': ['互联网百强'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128093425.html?rc=03'}

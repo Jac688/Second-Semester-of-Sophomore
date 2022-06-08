@@ -1,0 +1,1 @@
+{'company_name': '上海帜讯信息技术股份有限公司', 'job_name': 'Java开发工程师云计算', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '专业培训', '交通补贴', '员工旅游'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130288102.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '山东智和创信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '济南-历下区', 'bonus': ['周末双休', '五险一金', '节日福利', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131361446.html?rc=03'}

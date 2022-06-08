@@ -1,0 +1,1 @@
+{'company_name': '上海集成电路装备材料产业创新中心有限公司', 'job_name': '资深计算与存储系统工程师', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '交通补贴'], 'salary': 2.08, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131801085.html?rc=03'}

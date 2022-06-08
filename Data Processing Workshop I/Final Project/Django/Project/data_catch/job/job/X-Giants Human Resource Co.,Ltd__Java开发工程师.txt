@@ -1,0 +1,1 @@
+{'company_name': 'X-Giants Human Resource Co.,Ltd', 'job_name': 'Java开发工程师', 'geography': '厦门-湖里区', 'bonus': ['五险一金', '补充医疗保险', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/132034800.html?rc=03'}

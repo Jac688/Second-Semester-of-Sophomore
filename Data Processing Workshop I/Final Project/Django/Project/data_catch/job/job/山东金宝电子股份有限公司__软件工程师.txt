@@ -1,0 +1,1 @@
+{'company_name': '山东金宝电子股份有限公司', 'job_name': '软件工程师', 'geography': '烟台-招远市', 'bonus': ['五险一金', '免费班车', '员工旅游', '专业培训'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/yantai/131216660.html?rc=03'}

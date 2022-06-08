@@ -1,0 +1,1 @@
+{'company_name': '四川炜麒科技股份有限公司', 'job_name': 'python后端工程师', 'geography': '成都-双流区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '股票期权'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131277714.html?rc=03'}

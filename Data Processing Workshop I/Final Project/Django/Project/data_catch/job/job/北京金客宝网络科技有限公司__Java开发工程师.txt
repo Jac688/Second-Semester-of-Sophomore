@@ -1,0 +1,1 @@
+{'company_name': '北京金客宝网络科技有限公司', 'job_name': 'Java开发工程师', 'geography': '连云港-海州区', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/lianyungang/130872767.html?rc=03'}

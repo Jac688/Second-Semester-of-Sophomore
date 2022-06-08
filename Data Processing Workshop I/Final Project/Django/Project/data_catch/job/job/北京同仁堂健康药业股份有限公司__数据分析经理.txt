@@ -1,0 +1,1 @@
+{'company_name': '北京同仁堂健康药业股份有限公司', 'job_name': '数据分析经理', 'geography': '北京-大兴区', 'bonus': ['五险一金', '专业培训', '定期体检', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130386639.html?rc=03'}

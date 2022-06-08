@@ -1,0 +1,1 @@
+{'company_name': '亚信科技CMC', 'job_name': '高级软件工程师', 'geography': '杭州-西湖区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129544033.html?rc=03'}

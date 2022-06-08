@@ -1,0 +1,1 @@
+{'company_name': '惠州大亚湾鸿通电子有限公司', 'job_name': '测试软件开发高级工程师', 'geography': '惠州', 'bonus': ['带薪年假', '五险一金', '包吃', '包三餐'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/115547511.html?rc=03'}

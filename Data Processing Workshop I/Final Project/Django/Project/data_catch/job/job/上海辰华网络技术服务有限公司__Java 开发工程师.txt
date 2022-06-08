@@ -1,0 +1,1 @@
+{'company_name': '上海辰华网络技术服务有限公司', 'job_name': 'Java 开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121074423.html?rc=03'}

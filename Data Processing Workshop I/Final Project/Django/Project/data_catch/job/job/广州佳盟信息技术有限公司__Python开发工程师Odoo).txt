@@ -1,0 +1,1 @@
+{'company_name': '广州佳盟信息技术有限公司', 'job_name': 'Python开发工程师Odoo)', 'geography': '广州-天河区', 'bonus': ['五险一金', '周末双休', '绩效奖金', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127114930.html?rc=03'}

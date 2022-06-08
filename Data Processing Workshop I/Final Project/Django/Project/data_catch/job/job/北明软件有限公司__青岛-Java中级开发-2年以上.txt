@@ -1,0 +1,1 @@
+{'company_name': '北明软件有限公司', 'job_name': '青岛-Java中级开发-2年以上', 'geography': '青岛-崂山区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/123108576.html?rc=03'}

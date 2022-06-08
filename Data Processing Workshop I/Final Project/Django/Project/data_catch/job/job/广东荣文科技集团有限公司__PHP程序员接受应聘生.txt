@@ -1,0 +1,1 @@
+{'company_name': '广东荣文科技集团有限公司', 'job_name': 'PHP程序员接受应聘生', 'geography': '东莞-松山湖区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/96586150.html?rc=03'}

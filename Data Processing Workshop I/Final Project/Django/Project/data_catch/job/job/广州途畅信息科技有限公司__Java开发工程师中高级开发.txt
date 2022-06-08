@@ -1,0 +1,1 @@
+{'company_name': '广州途畅信息科技有限公司', 'job_name': 'Java开发工程师中高级开发', 'geography': '广州-天河区', 'bonus': ['周末双休', '项目奖金', '员工旅游', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129709406.html?rc=03'}

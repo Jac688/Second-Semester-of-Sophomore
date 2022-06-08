@@ -1,0 +1,1 @@
+{'company_name': '共轨之家', 'job_name': '逆向工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '人工智能', '技术前沿', '氛围热情'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129002707.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海融芯计算机科技有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-浦东新区', 'bonus': ['13薪', '五险一金', '员工旅游', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119420304.html?rc=03'}

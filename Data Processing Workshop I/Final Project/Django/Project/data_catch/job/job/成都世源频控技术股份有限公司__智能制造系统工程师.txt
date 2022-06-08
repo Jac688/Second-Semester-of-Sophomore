@@ -1,0 +1,1 @@
+{'company_name': '成都世源频控技术股份有限公司', 'job_name': '智能制造系统工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126288615.html?rc=03'}

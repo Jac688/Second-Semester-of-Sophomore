@@ -1,0 +1,1 @@
+{'company_name': '上海才扬软件科技有限公司', 'job_name': 'JAVA开发工程师济南', 'geography': '济南', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/128910358.html?rc=03'}

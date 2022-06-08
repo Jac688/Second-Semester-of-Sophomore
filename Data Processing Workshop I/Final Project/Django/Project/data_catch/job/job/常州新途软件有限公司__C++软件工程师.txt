@@ -1,0 +1,1 @@
+{'company_name': '常州新途软件有限公司', 'job_name': 'C++软件工程师', 'geography': '常州', 'bonus': ['五险一金', '员工旅游', '交通补贴', '专业培训'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/121380809.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '启佳通讯(昆山)有限公司', 'job_name': 'AI人工智能开发主管', 'geography': '昆山', 'bonus': ['五险一金', '绩效奖金', '节日福利', '免费班车'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/132170533.html?rc=03'}

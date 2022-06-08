@@ -1,0 +1,1 @@
+{'company_name': '广州科米文化传播有限公司', 'job_name': 'UE4程序', 'geography': '广州-天河区', 'bonus': ['周末双休', '弹性工作', '五险一金', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123161642.html?rc=03'}

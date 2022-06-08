@@ -1,0 +1,1 @@
+{'company_name': '山东亚微软件股份有限公司', 'job_name': 'JAVA经理', 'geography': '济南-历下区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/jinan/128003406.html?rc=03'}

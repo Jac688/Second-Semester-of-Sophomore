@@ -1,0 +1,1 @@
+{'company_name': '大连成者科技有限公司', 'job_name': 'C++高级开发工程师', 'geography': '大连-甘井子区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '员工旅游'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/dalian/132136657.html?rc=03'}

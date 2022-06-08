@@ -1,0 +1,1 @@
+{'company_name': '北京劳雷物理探测仪器有限公司', 'job_name': 'C++软件工程师-提供住宿', 'geography': '北京-朝阳区', 'bonus': ['免费班车', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/115342369.html?rc=03'}

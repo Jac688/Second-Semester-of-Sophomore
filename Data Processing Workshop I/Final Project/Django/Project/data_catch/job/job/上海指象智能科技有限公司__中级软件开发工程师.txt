@@ -1,0 +1,1 @@
+{'company_name': '上海指象智能科技有限公司', 'job_name': '中级软件开发工程师', 'geography': '上海-嘉定区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/113435526.html?rc=03'}

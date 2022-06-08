@@ -1,0 +1,1 @@
+{'company_name': '上海天数智芯半导体有限公司', 'job_name': '软件工程师-性能', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '定期体检'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132092033.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广西南宁童程童美科技有限公司', 'job_name': '教学主管--五险一金', 'geography': '南宁-江南区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/103439824.html?rc=03'}

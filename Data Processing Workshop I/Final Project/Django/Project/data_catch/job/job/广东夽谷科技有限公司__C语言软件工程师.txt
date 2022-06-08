@@ -1,0 +1,1 @@
+{'company_name': '广东夽谷科技有限公司', 'job_name': 'C语言软件工程师', 'geography': '广州-天河区', 'bonus': ['员工旅游', '年终奖金', '节日福利', '周末双休'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127043344.html?rc=03'}

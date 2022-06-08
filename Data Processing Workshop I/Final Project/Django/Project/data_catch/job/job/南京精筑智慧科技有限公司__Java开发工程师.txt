@@ -1,0 +1,1 @@
+{'company_name': '南京精筑智慧科技有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-秦淮区', 'bonus': ['做五休二', '带薪年假', '五险一金', '包吃'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130711898.html?rc=03'}

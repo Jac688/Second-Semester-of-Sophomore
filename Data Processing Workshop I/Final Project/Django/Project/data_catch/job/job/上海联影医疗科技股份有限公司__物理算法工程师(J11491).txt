@@ -1,0 +1,1 @@
+{'company_name': '上海联影医疗科技股份有限公司', 'job_name': '物理算法工程师(J11491)', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129207803.html?rc=03'}

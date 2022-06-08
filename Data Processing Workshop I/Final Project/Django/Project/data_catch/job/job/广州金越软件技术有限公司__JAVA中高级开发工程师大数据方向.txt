@@ -1,0 +1,1 @@
+{'company_name': '广州金越软件技术有限公司', 'job_name': 'JAVA中高级开发工程师大数据方向', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '年终奖金'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131939331.html?rc=03'}

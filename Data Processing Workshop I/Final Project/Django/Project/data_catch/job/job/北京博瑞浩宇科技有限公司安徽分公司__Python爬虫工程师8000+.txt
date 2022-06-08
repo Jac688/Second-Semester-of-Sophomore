@@ -1,0 +1,1 @@
+{'company_name': '北京博瑞浩宇科技有限公司安徽分公司', 'job_name': 'Python爬虫工程师8000+', 'geography': '合肥-蜀山区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hefei/131470323.html?rc=03'}

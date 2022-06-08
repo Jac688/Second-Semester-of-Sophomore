@@ -1,0 +1,1 @@
+{'company_name': '广东京能科技集团有限公司', 'job_name': '嵌入式软件工程师', 'geography': '东莞-松山湖区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/117791791.html?rc=03'}

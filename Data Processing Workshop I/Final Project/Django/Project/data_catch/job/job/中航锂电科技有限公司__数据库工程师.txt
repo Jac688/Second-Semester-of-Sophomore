@@ -1,0 +1,1 @@
+{'company_name': '中航锂电科技有限公司', 'job_name': '数据库工程师', 'geography': '常州', 'bonus': ['五险一金', '免费班车', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/113792680.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海摩旗投资管理', 'job_name': 'C++软件程序员', 'geography': '上海-闵行区', 'bonus': ['补充公积金', '交通补贴', '通讯补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117767995.html?rc=03'}

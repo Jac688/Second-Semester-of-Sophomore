@@ -1,0 +1,1 @@
+{'company_name': '惠州市广工大物联网协同创新研究院有限公司', 'job_name': 'Java开发工程师', 'geography': '惠州', 'bonus': ['周末双休', '五险一金', '定期体检', '7小时工作制'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/131534722.html?rc=03'}

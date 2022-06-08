@@ -1,0 +1,1 @@
+{'company_name': '四三九九网络股份有限公司', 'job_name': '游戏服务端主程', 'geography': '厦门', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/127743157.html?rc=03'}

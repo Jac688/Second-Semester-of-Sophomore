@@ -1,0 +1,1 @@
+{'company_name': '威凯检测技术有限公司', 'job_name': '科技项目执行', 'geography': '广州', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129806985.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海鹿奔科技有限公司', 'job_name': 'Web前端开发工程师', 'geography': '无锡-无锡新区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '弹性工作'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/131617867.html?rc=03'}

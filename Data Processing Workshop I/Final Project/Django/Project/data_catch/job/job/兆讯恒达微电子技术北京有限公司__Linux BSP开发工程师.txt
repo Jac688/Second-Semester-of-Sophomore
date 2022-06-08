@@ -1,0 +1,1 @@
+{'company_name': '兆讯恒达微电子技术北京有限公司', 'job_name': 'Linux BSP开发工程师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131920693.html?rc=03'}

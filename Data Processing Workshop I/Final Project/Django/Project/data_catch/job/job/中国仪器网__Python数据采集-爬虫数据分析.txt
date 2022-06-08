@@ -1,0 +1,1 @@
+{'company_name': '中国仪器网', 'job_name': 'Python数据采集-爬虫数据分析', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131799548.html?rc=03'}

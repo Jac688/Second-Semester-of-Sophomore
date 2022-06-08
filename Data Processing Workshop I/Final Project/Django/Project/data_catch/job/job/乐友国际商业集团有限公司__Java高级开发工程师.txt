@@ -1,0 +1,1 @@
+{'company_name': '乐友国际商业集团有限公司', 'job_name': 'Java高级开发工程师', 'geography': '北京', 'bonus': ['五险一金', '做五休二', '节日福利'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125164414.html?rc=03'}

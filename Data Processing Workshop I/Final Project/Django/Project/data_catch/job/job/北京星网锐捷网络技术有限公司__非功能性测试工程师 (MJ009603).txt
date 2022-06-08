@@ -1,0 +1,1 @@
+{'company_name': '北京星网锐捷网络技术有限公司', 'job_name': '非功能性测试工程师 (MJ009603)', 'geography': '福州-闽侯县', 'bonus': [], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/130819502.html?rc=03'}

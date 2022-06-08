@@ -1,0 +1,1 @@
+{'company_name': '万博时代深圳科技有限公司', 'job_name': 'web前端开发跨境电商erp)', 'geography': '深圳-龙华区', 'bonus': ['全勤奖', '节日福利', '带薪年假', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125712440.html?rc=03'}

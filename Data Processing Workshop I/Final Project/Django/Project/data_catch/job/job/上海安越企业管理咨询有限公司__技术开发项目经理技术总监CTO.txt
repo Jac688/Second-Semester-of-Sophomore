@@ -1,0 +1,1 @@
+{'company_name': '上海安越企业管理咨询有限公司', 'job_name': '技术开发项目经理技术总监CTO', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '节日福利'], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130596830.html?rc=03'}

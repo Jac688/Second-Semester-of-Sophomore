@@ -1,0 +1,1 @@
+{'company_name': '广州千野商务服务有限公司', 'job_name': '软件工程师Java方向，10-18k', 'geography': '广州', 'bonus': ['五险一金', '带薪年假', '节日福利', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132294422.html?rc=03'}

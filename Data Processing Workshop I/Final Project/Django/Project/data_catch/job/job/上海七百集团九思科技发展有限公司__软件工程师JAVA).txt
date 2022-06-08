@@ -1,0 +1,1 @@
+{'company_name': '上海七百集团九思科技发展有限公司', 'job_name': '软件工程师JAVA)', 'geography': '上海-长宁区', 'bonus': ['五险一金', '绩效奖金', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/66475402.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州奕至家居科技有限公司', 'job_name': '物料控制工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '节假日福利', '员工团建', '包吃'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129338544.html?rc=03'}

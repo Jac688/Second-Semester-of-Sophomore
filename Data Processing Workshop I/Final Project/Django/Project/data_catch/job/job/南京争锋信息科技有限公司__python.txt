@@ -1,0 +1,1 @@
+{'company_name': '南京争锋信息科技有限公司', 'job_name': 'python', 'geography': '南京', 'bonus': ['专业培训', '年终奖金', '股票期权', '定期体检'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129677816.html?rc=03'}

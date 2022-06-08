@@ -1,0 +1,1 @@
+{'company_name': '中飞赛维智能科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-高新区', 'bonus': ['五险', '全勤奖', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/121506787.html?rc=03'}

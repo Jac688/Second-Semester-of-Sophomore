@@ -1,0 +1,1 @@
+{'company_name': '上海均行信息科技有限公司', 'job_name': '系统运维工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127762986.html?rc=03'}

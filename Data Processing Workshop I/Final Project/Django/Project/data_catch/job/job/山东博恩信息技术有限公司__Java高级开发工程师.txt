@@ -1,0 +1,1 @@
+{'company_name': '山东博恩信息技术有限公司', 'job_name': 'Java高级开发工程师', 'geography': '济南-历下区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130478646.html?rc=03'}

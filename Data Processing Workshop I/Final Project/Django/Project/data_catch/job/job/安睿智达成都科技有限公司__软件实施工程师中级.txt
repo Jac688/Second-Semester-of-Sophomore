@@ -1,0 +1,1 @@
+{'company_name': '安睿智达成都科技有限公司', 'job_name': '软件实施工程师中级', 'geography': '成都-新津县', 'bonus': ['五险一金', '交通补贴', '定期体检', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124710139.html?rc=03'}

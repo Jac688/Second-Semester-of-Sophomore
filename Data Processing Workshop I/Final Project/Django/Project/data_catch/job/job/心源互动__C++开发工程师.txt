@@ -1,0 +1,1 @@
+{'company_name': '心源互动', 'job_name': 'C++开发工程师', 'geography': '广州-海珠区', 'bonus': ['五险一金', '员工旅游', '免费三餐', '下午茶点心'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131604372.html?rc=03'}

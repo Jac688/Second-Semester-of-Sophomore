@@ -1,0 +1,1 @@
+{'company_name': '亚信在线BIU', 'job_name': '高级java工程师', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '弹性工作', '周末双休', '生日福利'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131495283.html?rc=03'}

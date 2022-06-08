@@ -1,0 +1,1 @@
+{'company_name': '广州可鼎自动化设备有限公司', 'job_name': '软件工程师大小周包吃住', 'geography': '广州', 'bonus': ['绩效奖金', '年终奖金', '五险一金', '补充医疗保险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127831731.html?rc=03'}

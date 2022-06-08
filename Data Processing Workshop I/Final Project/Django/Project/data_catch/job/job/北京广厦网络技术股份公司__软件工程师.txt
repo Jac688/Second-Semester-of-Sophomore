@@ -1,0 +1,1 @@
+{'company_name': '北京广厦网络技术股份公司', 'job_name': '软件工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '员工旅游', '专业培训', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123301137.html?rc=03'}

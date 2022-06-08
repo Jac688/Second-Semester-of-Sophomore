@@ -1,0 +1,1 @@
+{'company_name': '南京佳建网络有限公司', 'job_name': '无锡linux系统运维工程师', 'geography': '无锡-无锡新区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/109902733.html?rc=03'}

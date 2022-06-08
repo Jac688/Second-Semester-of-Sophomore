@@ -1,0 +1,1 @@
+{'company_name': '北京东蓝数码科技有限公司宁波分公司', 'job_name': 'Java开发工程师', 'geography': '宁波-鄞州区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/120906169.html?rc=03'}

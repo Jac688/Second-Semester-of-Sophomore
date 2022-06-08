@@ -1,0 +1,1 @@
+{'company_name': '光洋电子无锡有限公司', 'job_name': '上位机软件工程师', 'geography': '无锡', 'bonus': ['五险一金', '免费班车', '员工旅游', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/131488294.html?rc=03'}

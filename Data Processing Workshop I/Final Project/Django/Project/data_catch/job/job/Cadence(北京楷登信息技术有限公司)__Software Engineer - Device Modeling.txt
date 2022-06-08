@@ -1,0 +1,1 @@
+{'company_name': 'Cadence(北京楷登信息技术有限公司)', 'job_name': 'Software Engineer - Device Modeling', 'geography': '北京-东城区', 'bonus': ['五险一金', '专业培训', '补充医疗保险', '补充公积金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131960720.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海华夏邓白氏商业信息咨询有限公司', 'job_name': 'Products & Implementation Specialist 软件工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '专业培训'], 'salary': 2.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132308067.html?rc=03'}

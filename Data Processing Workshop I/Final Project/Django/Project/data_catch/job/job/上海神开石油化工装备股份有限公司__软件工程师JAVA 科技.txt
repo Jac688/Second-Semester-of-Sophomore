@@ -1,0 +1,1 @@
+{'company_name': '上海神开石油化工装备股份有限公司', 'job_name': '软件工程师JAVA 科技', 'geography': '上海-闵行区', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126696860.html?rc=03'}

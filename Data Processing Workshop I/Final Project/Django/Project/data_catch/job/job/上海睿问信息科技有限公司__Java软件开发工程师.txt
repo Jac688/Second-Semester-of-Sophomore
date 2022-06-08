@@ -1,0 +1,1 @@
+{'company_name': '上海睿问信息科技有限公司', 'job_name': 'Java软件开发工程师', 'geography': '上海', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129007116.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州市讯方信息科技有限公司', 'job_name': '大数据运维工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '专业培训'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130143509.html?rc=03'}

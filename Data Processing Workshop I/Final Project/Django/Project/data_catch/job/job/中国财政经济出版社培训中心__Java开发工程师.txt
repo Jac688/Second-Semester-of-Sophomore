@@ -1,0 +1,1 @@
+{'company_name': '中国财政经济出版社培训中心', 'job_name': 'Java开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/69312942.html?rc=03'}

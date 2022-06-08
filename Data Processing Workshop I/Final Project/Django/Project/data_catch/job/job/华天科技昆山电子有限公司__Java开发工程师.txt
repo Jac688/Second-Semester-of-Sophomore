@@ -1,0 +1,1 @@
+{'company_name': '华天科技昆山电子有限公司', 'job_name': 'Java开发工程师', 'geography': '昆山', 'bonus': ['年终奖金', '免费住宿', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/110301994.html?rc=03'}

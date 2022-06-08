@@ -1,0 +1,1 @@
+{'company_name': '广州遥聚智能科技有限公司', 'job_name': 'IPFSFilecoin 售前工程师', 'geography': '广州-越秀区', 'bonus': ['五险一金', '一年13薪'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131435717.html?rc=03'}

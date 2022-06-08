@@ -1,0 +1,1 @@
+{'company_name': '南京睿帆软件科技有限公司', 'job_name': 'java开发工程师', 'geography': '南京', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130971279.html?rc=03'}

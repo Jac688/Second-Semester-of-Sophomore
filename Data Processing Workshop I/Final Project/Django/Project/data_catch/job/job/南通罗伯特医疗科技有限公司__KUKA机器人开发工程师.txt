@@ -1,0 +1,1 @@
+{'company_name': '南通罗伯特医疗科技有限公司', 'job_name': 'KUKA机器人开发工程师', 'geography': '北京-石景山区', 'bonus': ['五险一金', '带薪年假', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131613492.html?rc=03'}

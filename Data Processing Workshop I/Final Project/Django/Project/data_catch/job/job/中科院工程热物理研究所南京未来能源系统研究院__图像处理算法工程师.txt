@@ -1,0 +1,1 @@
+{'company_name': '中科院工程热物理研究所南京未来能源系统研究院', 'job_name': '图像处理算法工程师', 'geography': '南京-江宁区', 'bonus': [], 'salary': 1.17, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/126535712.html?rc=03'}

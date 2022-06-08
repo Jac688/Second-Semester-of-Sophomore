@@ -1,0 +1,1 @@
+{'company_name': '北京国遥新天地信息技术有限公司', 'job_name': 'C++开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '补充公积金', '员工旅游', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130069278.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海影创信息科技有限公司', 'job_name': '安卓驱动开发', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127045500.html?rc=03'}

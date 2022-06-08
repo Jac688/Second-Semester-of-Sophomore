@@ -1,0 +1,1 @@
+{'company_name': '北京赛博兴安科技有限公司', 'job_name': '系统架构师', 'geography': '北京-昌平区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/117326899.html?rc=03'}

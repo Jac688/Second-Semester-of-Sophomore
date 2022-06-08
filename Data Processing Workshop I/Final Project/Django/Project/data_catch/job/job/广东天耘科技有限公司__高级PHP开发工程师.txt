@@ -1,0 +1,1 @@
+{'company_name': '广东天耘科技有限公司', 'job_name': '高级PHP开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/127111317.html?rc=03'}

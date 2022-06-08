@@ -1,0 +1,1 @@
+{'company_name': '山东良福制药有限公司', 'job_name': 'IT管理员梁山', 'geography': '济宁', 'bonus': ['五险一金', '绩效奖金', '专业培训', '节日福利'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/jining/128996420.html?rc=03'}

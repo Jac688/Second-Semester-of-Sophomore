@@ -1,0 +1,1 @@
+{'company_name': '中青联盟大数据研究北京有限公司', 'job_name': '全栈工程师', 'geography': '北京-东城区', 'bonus': ['五险一金', '部门分成激励', '公司分成激励', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121794465.html?rc=03'}

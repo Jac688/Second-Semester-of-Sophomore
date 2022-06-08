@@ -1,0 +1,1 @@
+{'company_name': '哈尔滨鲲鹏云科技发展有限公司', 'job_name': 'PHP开发工程助理', 'geography': '哈尔滨-南岗区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '年终奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/harbin/124280206.html?rc=03'}

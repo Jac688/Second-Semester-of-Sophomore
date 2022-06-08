@@ -1,0 +1,1 @@
+{'company_name': '宁波申江控股集团有限公司', 'job_name': '文件加密算法工程师申江万国', 'geography': '宁波', 'bonus': ['免费班车', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128437190.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国电子科技集团公司第三十二研究所', 'job_name': '高级嵌入式软件研发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '专业培训'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128583232.html?rc=03'}

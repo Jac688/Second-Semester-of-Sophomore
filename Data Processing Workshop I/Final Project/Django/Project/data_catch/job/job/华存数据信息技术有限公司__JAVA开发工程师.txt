@@ -1,0 +1,1 @@
+{'company_name': '华存数据信息技术有限公司', 'job_name': 'JAVA开发工程师', 'geography': '上海', 'bonus': ['五险一金', '带薪年假', '绩效奖金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121022148.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州飞歌汽车音响有限公司', 'job_name': '底层驱动工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '节日福利', '定期体检', '定期团建'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122816107.html?rc=03'}

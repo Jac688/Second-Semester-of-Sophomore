@@ -1,0 +1,1 @@
+{'company_name': '中电科风华信息装备股份有限公司', 'job_name': '软件PLC、C++ 自动控制 研发', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130678683.html?rc=03'}

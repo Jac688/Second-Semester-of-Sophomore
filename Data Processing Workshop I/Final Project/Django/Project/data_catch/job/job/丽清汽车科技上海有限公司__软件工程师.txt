@@ -1,0 +1,1 @@
+{'company_name': '丽清汽车科技上海有限公司', 'job_name': '软件工程师', 'geography': '上海-嘉定区', 'bonus': ['绩效奖金', '五险一金', '员工旅游', '专业培训'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124679367.html?rc=03'}

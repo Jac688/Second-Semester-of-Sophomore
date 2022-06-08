@@ -1,0 +1,1 @@
+{'company_name': '北京汉克时代科技有限公司', 'job_name': 'Java开发工程师珠海+远程面试', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '定期体检', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126871165.html?rc=03'}

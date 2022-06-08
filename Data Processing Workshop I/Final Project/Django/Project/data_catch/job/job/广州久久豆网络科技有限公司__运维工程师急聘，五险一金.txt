@@ -1,0 +1,1 @@
+{'company_name': '广州久久豆网络科技有限公司', 'job_name': '运维工程师急聘，五险一金', 'geography': '广州-天河区', 'bonus': ['五险一金', '餐饮补贴', '全勤奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127536510.html?rc=03'}

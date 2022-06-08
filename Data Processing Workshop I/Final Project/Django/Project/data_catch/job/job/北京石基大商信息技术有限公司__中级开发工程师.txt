@@ -1,0 +1,1 @@
+{'company_name': '北京石基大商信息技术有限公司', 'job_name': '中级开发工程师', 'geography': '济南-市中区', 'bonus': ['五险一金', '通讯补贴', '定期体检', '带薪年假'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130985238.html?rc=03'}

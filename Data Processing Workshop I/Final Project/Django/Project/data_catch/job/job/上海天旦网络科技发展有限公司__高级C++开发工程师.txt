@@ -1,0 +1,1 @@
+{'company_name': '上海天旦网络科技发展有限公司', 'job_name': '高级C++开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/75587184.html?rc=03'}

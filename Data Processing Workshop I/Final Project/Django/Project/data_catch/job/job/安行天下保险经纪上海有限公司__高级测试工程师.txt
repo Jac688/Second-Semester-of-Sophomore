@@ -1,0 +1,1 @@
+{'company_name': '安行天下保险经纪上海有限公司', 'job_name': '高级测试工程师', 'geography': '上海', 'bonus': ['五险一金', '绩效奖金', '带薪年假', '带薪病假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131223620.html?rc=03'}

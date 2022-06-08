@@ -1,0 +1,1 @@
+{'company_name': '完美世界北京总部完美时空', 'job_name': '游戏JAVA服务器开发工程师二次元项目', 'geography': '北京', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129741173.html?rc=03'}

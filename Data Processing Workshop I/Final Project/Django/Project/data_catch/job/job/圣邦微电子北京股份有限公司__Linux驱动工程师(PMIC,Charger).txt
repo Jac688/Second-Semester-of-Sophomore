@@ -1,0 +1,1 @@
+{'company_name': '圣邦微电子北京股份有限公司', 'job_name': 'Linux驱动工程师(PMIC,Charger)', 'geography': '北京', 'bonus': ['五险一金', '员工旅游', '年终奖金', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129851068.html?rc=03'}

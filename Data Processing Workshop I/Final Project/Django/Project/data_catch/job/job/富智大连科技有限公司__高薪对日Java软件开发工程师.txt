@@ -1,0 +1,1 @@
+{'company_name': '富智大连科技有限公司', 'job_name': '高薪对日Java软件开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '弹性工作'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130875556.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海宝存信息科技有限公司', 'job_name': '软件工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '股票期权', '弹性工作', '补充医疗保险'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130917932.html?rc=03'}

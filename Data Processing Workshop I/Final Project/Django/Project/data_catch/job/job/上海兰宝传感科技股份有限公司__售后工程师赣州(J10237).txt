@@ -1,0 +1,1 @@
+{'company_name': '上海兰宝传感科技股份有限公司', 'job_name': '售后工程师赣州(J10237)', 'geography': '异地招聘', 'bonus': ['交通补贴', '专业培训', '业绩奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ganzhou/130568420.html?rc=03'}

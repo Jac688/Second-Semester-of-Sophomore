@@ -1,0 +1,1 @@
+{'company_name': '天马微电子股份有限公司', 'job_name': 'JAVA开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127572192.html?rc=03'}

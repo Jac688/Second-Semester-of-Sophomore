@@ -1,0 +1,1 @@
+{'company_name': '山东浪潮云服务信息科技有限公司', 'job_name': '平台开发工程师', 'geography': '济南-历下区', 'bonus': ['五险一金', '绩效奖金', '专业培训', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131242341.html?rc=03'}

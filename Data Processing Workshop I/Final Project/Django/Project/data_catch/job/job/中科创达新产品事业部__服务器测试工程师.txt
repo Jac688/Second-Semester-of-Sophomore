@@ -1,0 +1,1 @@
+{'company_name': '中科创达新产品事业部', 'job_name': '服务器测试工程师', 'geography': '北京-东城区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131712156.html?rc=03'}

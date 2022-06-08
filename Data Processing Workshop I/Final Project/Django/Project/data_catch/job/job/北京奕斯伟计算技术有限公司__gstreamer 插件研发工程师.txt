@@ -1,0 +1,1 @@
+{'company_name': '北京奕斯伟计算技术有限公司', 'job_name': 'gstreamer 插件研发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131791481.html?rc=03'}

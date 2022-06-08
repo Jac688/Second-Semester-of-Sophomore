@@ -1,0 +1,1 @@
+{'company_name': '广东小牛软件科技有限公司', 'job_name': '软件开发助理', 'geography': '东莞-莞城区', 'bonus': [], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/126250766.html?rc=03'}

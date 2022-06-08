@@ -1,0 +1,1 @@
+{'company_name': '常州奇远网络科技有限公司', 'job_name': 'Java开发工程师', 'geography': '常州-天宁区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/132115420.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海湿腾电器有限公司', 'job_name': '物联网工程师', 'geography': '上海', 'bonus': ['餐饮补贴', '绩效奖金', '专业培训', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131073607.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京民基悠步信息技术有限公司', 'job_name': '软件开发工程师CC++', 'geography': '南京-栖霞区', 'bonus': [], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130475784.html?rc=03'}

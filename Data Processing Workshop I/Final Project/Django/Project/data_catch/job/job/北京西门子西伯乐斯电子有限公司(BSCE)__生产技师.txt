@@ -1,0 +1,1 @@
+{'company_name': '北京西门子西伯乐斯电子有限公司(BSCE)', 'job_name': '生产技师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '弹性工作'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129838482.html?rc=03'}

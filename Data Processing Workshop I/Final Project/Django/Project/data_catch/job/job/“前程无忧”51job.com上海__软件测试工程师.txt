@@ -1,0 +1,1 @@
+{'company_name': '“前程无忧”51job.com上海', 'job_name': '软件测试工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '定期体检'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129161572.html?rc=03'}

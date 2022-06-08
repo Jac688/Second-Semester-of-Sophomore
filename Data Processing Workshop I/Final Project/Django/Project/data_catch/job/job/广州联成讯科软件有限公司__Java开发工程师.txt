@@ -1,0 +1,1 @@
+{'company_name': '广州联成讯科软件有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-番禺区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/107434904.html?rc=03'}

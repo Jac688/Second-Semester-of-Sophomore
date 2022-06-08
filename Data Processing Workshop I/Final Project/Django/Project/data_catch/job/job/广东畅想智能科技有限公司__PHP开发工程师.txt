@@ -1,0 +1,1 @@
+{'company_name': '广东畅想智能科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-白云区', 'bonus': ['带薪年假', '五险一金', '通讯补贴', '员工旅游'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128018711.html?rc=03'}

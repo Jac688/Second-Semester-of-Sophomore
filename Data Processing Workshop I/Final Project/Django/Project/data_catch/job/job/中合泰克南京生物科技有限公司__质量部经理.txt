@@ -1,0 +1,1 @@
+{'company_name': '中合泰克南京生物科技有限公司', 'job_name': '质量部经理', 'geography': '南京-六合区', 'bonus': ['五险一金', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128894095.html?rc=03'}

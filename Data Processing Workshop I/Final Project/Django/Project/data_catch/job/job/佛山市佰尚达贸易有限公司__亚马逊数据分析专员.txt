@@ -1,0 +1,1 @@
+{'company_name': '佛山市佰尚达贸易有限公司', 'job_name': '亚马逊数据分析专员', 'geography': '佛山-顺德区', 'bonus': ['五险', '员工旅游', '年终奖金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/130417202.html?rc=03'}

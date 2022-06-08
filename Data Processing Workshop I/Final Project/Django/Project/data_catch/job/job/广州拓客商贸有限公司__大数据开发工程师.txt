@@ -1,0 +1,1 @@
+{'company_name': '广州拓客商贸有限公司', 'job_name': '大数据开发工程师', 'geography': '广州-白云区', 'bonus': ['包吃', '绩效奖金', '带薪年假', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129913267.html?rc=03'}

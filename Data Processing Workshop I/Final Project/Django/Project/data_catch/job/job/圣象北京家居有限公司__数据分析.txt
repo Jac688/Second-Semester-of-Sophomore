@@ -1,0 +1,1 @@
+{'company_name': '圣象北京家居有限公司', 'job_name': '数据分析', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131235640.html?rc=03'}

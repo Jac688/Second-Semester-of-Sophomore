@@ -1,0 +1,1 @@
+{'company_name': '上海亿盟信息技术开发有限公司', 'job_name': 'JAVA高级软件工程师-安亭', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '弹性工作', '员工旅游', '免费班车'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/47500373.html?rc=03'}

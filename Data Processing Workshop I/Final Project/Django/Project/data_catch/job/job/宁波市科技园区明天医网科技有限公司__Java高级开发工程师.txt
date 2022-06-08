@@ -1,0 +1,1 @@
+{'company_name': '宁波市科技园区明天医网科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '杭州', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '专业培训'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/125054288.html?rc=03'}

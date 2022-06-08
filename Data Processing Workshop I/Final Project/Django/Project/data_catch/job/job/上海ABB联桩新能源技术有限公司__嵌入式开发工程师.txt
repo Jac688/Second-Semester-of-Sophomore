@@ -1,0 +1,1 @@
+{'company_name': '上海ABB联桩新能源技术有限公司', 'job_name': '嵌入式开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117129405.html?rc=03'}

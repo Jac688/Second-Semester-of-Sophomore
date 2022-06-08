@@ -1,0 +1,1 @@
+{'company_name': '宁波市天天红利房地产信息咨询有限公司', 'job_name': 'PHP开发工程师五险一金+周末双休', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '节日福利', '餐饮补贴', '高温补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131311149.html?rc=03'}

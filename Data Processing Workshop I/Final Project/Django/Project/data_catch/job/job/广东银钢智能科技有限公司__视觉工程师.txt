@@ -1,0 +1,1 @@
+{'company_name': '广东银钢智能科技有限公司', 'job_name': '视觉工程师', 'geography': '东莞-寮步镇', 'bonus': ['绩效奖金', '全勤奖', '节日福利', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131942137.html?rc=03'}

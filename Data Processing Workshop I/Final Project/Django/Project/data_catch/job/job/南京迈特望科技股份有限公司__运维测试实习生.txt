@@ -1,0 +1,1 @@
+{'company_name': '南京迈特望科技股份有限公司', 'job_name': '运维测试实习生', 'geography': '济南-市中区', 'bonus': [], 'salary': 0.25, 'detail_url': 'https://msearch.51job.com/jobs/jinan/126940957.html?rc=03'}

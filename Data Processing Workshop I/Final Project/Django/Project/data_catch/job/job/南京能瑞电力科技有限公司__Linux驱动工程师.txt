@@ -1,0 +1,1 @@
+{'company_name': '南京能瑞电力科技有限公司', 'job_name': 'Linux驱动工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '免费班车', '年终奖金', '包吃包住'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/120458366.html?rc=03'}

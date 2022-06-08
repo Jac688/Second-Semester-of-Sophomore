@@ -1,0 +1,1 @@
+{'company_name': '北京建工集团有限责任公司', 'job_name': '开发工程师后端开发', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124950911.html?rc=03'}

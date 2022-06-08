@@ -1,0 +1,1 @@
+{'company_name': '上海盛付通电子支付服务有限公司', 'job_name': '运维工程师', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124402157.html?rc=03'}

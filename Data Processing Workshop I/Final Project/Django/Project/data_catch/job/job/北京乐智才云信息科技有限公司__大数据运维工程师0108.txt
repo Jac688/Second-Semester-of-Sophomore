@@ -1,0 +1,1 @@
+{'company_name': '北京乐智才云信息科技有限公司', 'job_name': '大数据运维工程师0108', 'geography': '异地招聘', 'bonus': ['年底双薪', '绩效奖金', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128251903.html?rc=03'}

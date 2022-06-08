@@ -1,0 +1,1 @@
+{'company_name': '中邮永安上海资产管理有限公司', 'job_name': 'FOF基金产品研究员', 'geography': '杭州-上城区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/125436499.html?rc=03'}

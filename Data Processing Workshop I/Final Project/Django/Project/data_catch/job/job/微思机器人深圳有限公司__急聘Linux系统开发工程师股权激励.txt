@@ -1,0 +1,1 @@
+{'company_name': '微思机器人深圳有限公司', 'job_name': '急聘Linux系统开发工程师股权激励', 'geography': '深圳', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131203751.html?rc=03'}

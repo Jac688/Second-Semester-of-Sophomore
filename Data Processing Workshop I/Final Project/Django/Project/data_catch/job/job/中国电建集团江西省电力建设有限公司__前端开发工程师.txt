@@ -1,0 +1,1 @@
+{'company_name': '中国电建集团江西省电力建设有限公司', 'job_name': '前端开发工程师', 'geography': '南昌-青云谱区', 'bonus': ['五险一金', '绩效奖金', '弹性工作', '三节福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/124057286.html?rc=03'}

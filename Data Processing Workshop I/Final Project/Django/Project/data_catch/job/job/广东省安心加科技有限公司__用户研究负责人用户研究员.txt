@@ -1,0 +1,1 @@
+{'company_name': '广东省安心加科技有限公司', 'job_name': '用户研究负责人用户研究员', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129661363.html?rc=03'}

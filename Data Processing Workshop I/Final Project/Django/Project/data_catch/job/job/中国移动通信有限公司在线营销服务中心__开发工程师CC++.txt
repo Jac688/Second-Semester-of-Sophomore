@@ -1,0 +1,1 @@
+{'company_name': '中国移动通信有限公司在线营销服务中心', 'job_name': '开发工程师CC++', 'geography': '北京-西城区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131024159.html?rc=03'}

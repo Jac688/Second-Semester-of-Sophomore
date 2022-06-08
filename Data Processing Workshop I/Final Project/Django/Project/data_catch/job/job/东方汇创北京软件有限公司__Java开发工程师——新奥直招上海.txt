@@ -1,0 +1,1 @@
+{'company_name': '东方汇创北京软件有限公司', 'job_name': 'Java开发工程师——新奥直招上海', 'geography': '苏州-吴江区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130965066.html?rc=03'}

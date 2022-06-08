@@ -1,0 +1,1 @@
+{'company_name': '东软集团股份有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-雨花台区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129818354.html?rc=03'}

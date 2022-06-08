@@ -1,0 +1,1 @@
+{'company_name': '中山涛美远东日用制品有限公司', 'job_name': '审计专员', 'geography': '中山-南头镇', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '免费班车'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/132319370.html?rc=03'}

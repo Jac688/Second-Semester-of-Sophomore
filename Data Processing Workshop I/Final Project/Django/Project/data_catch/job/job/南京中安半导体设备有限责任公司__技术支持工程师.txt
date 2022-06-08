@@ -1,0 +1,1 @@
+{'company_name': '南京中安半导体设备有限责任公司', 'job_name': '技术支持工程师', 'geography': '南京-江北新区', 'bonus': ['五险一金', '年终奖金', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130372063.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京红色火焰科技有限公司', 'job_name': 'iOS音视频开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130419915.html?rc=03'}

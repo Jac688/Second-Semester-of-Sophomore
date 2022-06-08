@@ -1,0 +1,1 @@
+{'company_name': '中软国际科技服务有限公司', 'job_name': 'C++开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '年终奖金', '年轻团队', '上市企业'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126025308.html?rc=03'}

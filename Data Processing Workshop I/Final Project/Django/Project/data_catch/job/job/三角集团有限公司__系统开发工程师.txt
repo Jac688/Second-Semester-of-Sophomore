@@ -1,0 +1,1 @@
+{'company_name': '三角集团有限公司', 'job_name': '系统开发工程师', 'geography': '威海', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/weihai/125524558.html?rc=03'}

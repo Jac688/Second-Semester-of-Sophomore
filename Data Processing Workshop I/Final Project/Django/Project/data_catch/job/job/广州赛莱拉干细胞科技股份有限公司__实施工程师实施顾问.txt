@@ -1,0 +1,1 @@
+{'company_name': '广州赛莱拉干细胞科技股份有限公司', 'job_name': '实施工程师实施顾问', 'geography': '广州-海珠区', 'bonus': ['五险一金', '带薪年假', '办公环境好', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129311961.html?rc=03'}

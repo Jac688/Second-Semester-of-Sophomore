@@ -1,0 +1,1 @@
+{'company_name': '中集冷云北京供应链管理有限公司', 'job_name': '研发工程师', 'geography': '北京-顺义区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127632521.html?rc=03'}

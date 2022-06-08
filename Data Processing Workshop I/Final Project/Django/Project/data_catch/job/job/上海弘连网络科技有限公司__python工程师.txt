@@ -1,0 +1,1 @@
+{'company_name': '上海弘连网络科技有限公司', 'job_name': 'python工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '弹性工作', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129203253.html?rc=03'}

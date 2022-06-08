@@ -1,0 +1,1 @@
+{'company_name': '北京棣南新宇科技有限公司', 'job_name': 'Python高级开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/94990357.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京深睿博联科技有限责任公司', 'job_name': 'JAVA开发-可接受应届', 'geography': '杭州-余杭区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132140098.html?rc=03'}

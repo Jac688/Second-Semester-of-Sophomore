@@ -1,0 +1,1 @@
+{'company_name': '广东海露实业股份有限公司', 'job_name': 'NET后端', 'geography': '广州-荔湾区', 'bonus': ['周末双休', '五险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130415891.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州市昊志机电股份有限公司', 'job_name': '电子工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130107332.html?rc=03'}

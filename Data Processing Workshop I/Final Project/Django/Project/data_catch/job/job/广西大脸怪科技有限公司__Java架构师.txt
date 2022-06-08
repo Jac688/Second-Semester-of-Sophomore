@@ -1,0 +1,1 @@
+{'company_name': '广西大脸怪科技有限公司', 'job_name': 'Java架构师', 'geography': '南宁-西乡塘区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanning/131902870.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京新意互动广告有限公司', 'job_name': '后端研发工程师(J11629)', 'geography': '北京-海淀区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131825893.html?rc=03'}

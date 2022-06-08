@@ -1,0 +1,1 @@
+{'company_name': '华润双鹤药业股份有限公司-营销管理中心', 'job_name': 'IT信息技术专员', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '绩效奖金', '交通补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/122667361.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京亿赛通科技发展有限责任公司', 'job_name': 'Java开发工程师', 'geography': '北京', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '定期体检'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129185652.html?rc=03'}

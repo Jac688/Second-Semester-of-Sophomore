@@ -1,0 +1,1 @@
+{'company_name': '奥拓思维深圳软件有限公司', 'job_name': 'Java中级研发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129604584.html?rc=03'}

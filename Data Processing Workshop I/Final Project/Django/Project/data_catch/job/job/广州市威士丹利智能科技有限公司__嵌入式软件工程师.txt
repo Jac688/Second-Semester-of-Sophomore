@@ -1,0 +1,1 @@
+{'company_name': '广州市威士丹利智能科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '惠州-惠城区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/128254743.html?rc=03'}

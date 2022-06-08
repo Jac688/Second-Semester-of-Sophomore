@@ -1,0 +1,1 @@
+{'company_name': '上海盖讯信息技术有限公司', 'job_name': 'Java软件工程师', 'geography': '上海', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '餐饮补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/85266320.html?rc=03'}

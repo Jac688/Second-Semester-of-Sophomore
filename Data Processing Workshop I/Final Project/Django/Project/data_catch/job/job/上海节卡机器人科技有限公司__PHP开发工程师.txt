@@ -1,0 +1,1 @@
+{'company_name': '上海节卡机器人科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '常州', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/127239874.html?rc=03'}

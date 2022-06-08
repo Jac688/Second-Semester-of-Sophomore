@@ -1,0 +1,1 @@
+{'company_name': '中科寒武纪科技股份有限公司', 'job_name': '数字后端工程师-南京', 'geography': '南京', 'bonus': ['五险一金', '年终奖金', '弹性工作', '定期体检'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132069776.html?rc=03'}

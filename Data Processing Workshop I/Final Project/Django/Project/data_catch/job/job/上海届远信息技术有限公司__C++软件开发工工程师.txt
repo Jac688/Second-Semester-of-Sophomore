@@ -1,0 +1,1 @@
+{'company_name': '上海届远信息技术有限公司', 'job_name': 'C++软件开发工工程师', 'geography': '上海-宝山区', 'bonus': ['五险一金', '年终奖金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/41991684.html?rc=03'}

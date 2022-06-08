@@ -1,0 +1,1 @@
+{'company_name': '上海泛微网络科技股份有限公司', 'job_name': '自动化测试工程师', 'geography': '成都', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130540165.html?rc=03'}

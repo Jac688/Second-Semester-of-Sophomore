@@ -1,0 +1,1 @@
+{'company_name': '广州志广信息科技有限公司', 'job_name': '软件测试工程师双休', 'geography': '广州-白云区', 'bonus': ['五险一金', '节日福利', '全勤奖', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123972428.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国电信集团号百信息服务有限公司', 'job_name': '前端开发web端VUEreact安卓和IOS各一人智能连接部-外包', 'geography': '上海', 'bonus': [], 'salary': 2.99, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129102974.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海每联每信息技术有限公司大连分公司', 'job_name': 'senior Python 开发工程师', 'geography': '大连-沙河口区', 'bonus': ['五险一金', '节日福利', '带薪年假', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dalian/128160478.html?rc=03'}

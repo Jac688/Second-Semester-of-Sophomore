@@ -1,0 +1,1 @@
+{'company_name': '北京德星电子科技有限公司', 'job_name': '急聘网络软件开发工程师CC++ 网络协议', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/117207245.html?rc=03'}

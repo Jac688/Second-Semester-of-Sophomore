@@ -1,0 +1,1 @@
+{'company_name': '广东砖本教育信息科技有限公司', 'job_name': 'PHP程序员', 'geography': '阳江', 'bonus': ['绩效奖金', '五险一金', '员工旅游', '年终奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/yangjiang/129247144.html?rc=03'}

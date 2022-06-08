@@ -1,0 +1,1 @@
+{'company_name': '广州市卓为信息技术有限公司', 'job_name': '性能测试琶洲地铁', 'geography': '广州-海珠区', 'bonus': ['团队大', '技术牛人多', '头部企业', '双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131481523.html?rc=03'}

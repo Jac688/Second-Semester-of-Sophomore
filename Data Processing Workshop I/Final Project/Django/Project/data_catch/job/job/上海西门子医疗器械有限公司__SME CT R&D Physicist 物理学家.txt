@@ -1,0 +1,1 @@
+{'company_name': '上海西门子医疗器械有限公司', 'job_name': 'SME CT R&D Physicist 物理学家', 'geography': '上海-浦东新区', 'bonus': ['餐饮补贴', '通勤班车', '外企500强', '实习证明'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131945806.html?rc=03'}

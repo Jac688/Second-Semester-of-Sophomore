@@ -1,0 +1,1 @@
+{'company_name': '徐州媛小野跨境电子商务发展有限公司', 'job_name': '运维工程师', 'geography': '徐州-鼓楼区', 'bonus': ['全勤奖', '加班补贴', '年终奖金', '带薪休假'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/131641943.html?rc=03'}

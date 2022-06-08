@@ -1,0 +1,1 @@
+{'company_name': '广西米沙网络科技有限公司', 'job_name': 'Java软件开发工程师', 'geography': '南宁-西乡塘区', 'bonus': ['五险一金', '定期体检', '出差补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/131893144.html?rc=03'}

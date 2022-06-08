@@ -1,0 +1,1 @@
+{'company_name': '山东申启信息技术有限公司', 'job_name': '售前售后技术支持工程师', 'geography': '济南', 'bonus': ['定期体检', '年终奖金', '专业培训', '通讯补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/127291560.html?rc=03'}

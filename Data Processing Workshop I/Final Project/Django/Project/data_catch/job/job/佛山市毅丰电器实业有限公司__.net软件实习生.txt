@@ -1,0 +1,1 @@
+{'company_name': '佛山市毅丰电器实业有限公司', 'job_name': '.net软件实习生', 'geography': '佛山', 'bonus': ['五险', '单双休', '包住', '餐补'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/foshan/125982682.html?rc=03'}

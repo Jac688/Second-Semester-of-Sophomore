@@ -1,0 +1,1 @@
+{'company_name': '厦门北星博辉科技有限公司', 'job_name': 'Python开发工程师', 'geography': '厦门-湖里区', 'bonus': ['周末双休', '五险一金', '免费班车', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/125775883.html?rc=03'}

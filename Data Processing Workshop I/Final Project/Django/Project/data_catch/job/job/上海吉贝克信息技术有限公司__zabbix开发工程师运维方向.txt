@@ -1,0 +1,1 @@
+{'company_name': '上海吉贝克信息技术有限公司', 'job_name': 'zabbix开发工程师运维方向', 'geography': '无锡-锡山区', 'bonus': ['五险一金', '专业培训', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/128763763.html?rc=03'}

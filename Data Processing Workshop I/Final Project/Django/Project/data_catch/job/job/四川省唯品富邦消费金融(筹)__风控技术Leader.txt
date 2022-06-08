@@ -1,0 +1,1 @@
+{'company_name': '四川省唯品富邦消费金融(筹)', 'job_name': '风控技术Leader', 'geography': '成都', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127373603.html?rc=03'}

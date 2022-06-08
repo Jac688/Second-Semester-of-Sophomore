@@ -1,0 +1,1 @@
+{'company_name': '常州第二电子仪器有限公司', 'job_name': '嵌入式软件工程师', 'geography': '常州-钟楼区', 'bonus': ['绩效奖金', '节日福利', '专业培训', '带薪年假'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/123318041.html?rc=03'}

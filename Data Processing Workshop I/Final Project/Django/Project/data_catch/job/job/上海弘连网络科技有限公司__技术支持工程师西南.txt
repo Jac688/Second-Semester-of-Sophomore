@@ -1,0 +1,1 @@
+{'company_name': '上海弘连网络科技有限公司', 'job_name': '技术支持工程师西南', 'geography': '成都-青羊区', 'bonus': ['五险一金', '弹性工作', '年终奖金', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/121125268.html?rc=03'}

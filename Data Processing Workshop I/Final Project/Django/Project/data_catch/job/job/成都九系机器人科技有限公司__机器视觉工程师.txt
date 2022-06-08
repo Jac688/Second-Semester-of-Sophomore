@@ -1,0 +1,1 @@
+{'company_name': '成都九系机器人科技有限公司', 'job_name': '机器视觉工程师', 'geography': '成都-温江区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/103002752.html?rc=03'}

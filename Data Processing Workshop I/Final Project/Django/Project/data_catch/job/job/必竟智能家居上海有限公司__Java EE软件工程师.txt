@@ -1,0 +1,1 @@
+{'company_name': '必竟智能家居上海有限公司', 'job_name': 'Java EE软件工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '带薪年假', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130487459.html?rc=03'}

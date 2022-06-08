@@ -1,0 +1,1 @@
+{'company_name': '上海旺田信息技术有限公司', 'job_name': '软件实施工程师', 'geography': '上海-浦东新区', 'bonus': ['餐饮补贴', '专业培训', '免费班车', '员工旅游'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/111141415.html?rc=03'}

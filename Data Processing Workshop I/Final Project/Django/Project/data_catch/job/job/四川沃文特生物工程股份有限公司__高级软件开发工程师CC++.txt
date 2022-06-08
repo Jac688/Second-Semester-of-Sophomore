@@ -1,0 +1,1 @@
+{'company_name': '四川沃文特生物工程股份有限公司', 'job_name': '高级软件开发工程师CC++', 'geography': '成都-高新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131834518.html?rc=03'}

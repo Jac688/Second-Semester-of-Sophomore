@@ -1,0 +1,1 @@
+{'company_name': '南京美慧软件有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127980251.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海君枫珠宝首饰有限公司成都分公司', 'job_name': '高级java开发工程师', 'geography': '成都-高新区', 'bonus': ['周末双休', '五险一金', '节日福利', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/122384294.html?rc=03'}

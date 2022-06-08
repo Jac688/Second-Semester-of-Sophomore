@@ -1,0 +1,1 @@
+{'company_name': '上海宝信软件股份有限公司湛江分公司', 'job_name': '软件工程师JAVA', 'geography': '湛江', 'bonus': ['五险一金', '专业培训', '年终奖金', '交通补贴'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/zhanjiang/131590369.html?rc=03'}

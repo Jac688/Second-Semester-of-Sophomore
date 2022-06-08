@@ -1,0 +1,1 @@
+{'company_name': '东华软件股份公司', 'job_name': '资深java工程师', 'geography': '济南', 'bonus': ['三险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131007284.html?rc=03'}

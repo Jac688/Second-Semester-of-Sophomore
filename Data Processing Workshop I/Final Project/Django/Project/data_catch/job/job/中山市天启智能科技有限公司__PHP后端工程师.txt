@@ -1,0 +1,1 @@
+{'company_name': '中山市天启智能科技有限公司', 'job_name': 'PHP后端工程师', 'geography': '中山', 'bonus': ['员工旅游', '年终奖金', '提供住宿', '补充医疗保险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/110336568.html?rc=03'}

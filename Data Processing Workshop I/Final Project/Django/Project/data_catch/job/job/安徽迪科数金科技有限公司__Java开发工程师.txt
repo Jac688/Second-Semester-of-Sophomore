@@ -1,0 +1,1 @@
+{'company_name': '安徽迪科数金科技有限公司', 'job_name': 'Java开发工程师', 'geography': '合肥', 'bonus': ['五险一金', '绩效奖金', '包住宿', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hefei/129468500.html?rc=03'}

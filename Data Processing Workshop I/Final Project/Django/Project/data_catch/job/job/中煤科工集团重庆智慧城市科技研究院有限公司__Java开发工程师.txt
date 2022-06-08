@@ -1,0 +1,1 @@
+{'company_name': '中煤科工集团重庆智慧城市科技研究院有限公司', 'job_name': 'Java开发工程师', 'geography': '重庆-渝北区', 'bonus': ['补充医疗保险', '餐饮补贴', '专业培训', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131196175.html?rc=03'}

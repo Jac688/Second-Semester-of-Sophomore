@@ -1,0 +1,1 @@
+{'company_name': '万得深圳公司创真科技', 'job_name': '高级Java工程师大数据，数据挖掘TJ0010', 'geography': '苏州', 'bonus': ['周末双休', '弹性工作', '带薪年假', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/126895877.html?rc=03'}

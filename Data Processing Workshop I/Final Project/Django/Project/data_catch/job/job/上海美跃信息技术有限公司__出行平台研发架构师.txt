@@ -1,0 +1,1 @@
+{'company_name': '上海美跃信息技术有限公司', 'job_name': '出行平台研发架构师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124013971.html?rc=03'}

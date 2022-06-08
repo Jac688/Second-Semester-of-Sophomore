@@ -1,0 +1,1 @@
+{'company_name': '亿磐', 'job_name': 'Senior Software Engineer (HWTE SW)', 'geography': '上海-徐汇区', 'bonus': ['专业培训', '弹性工作', '五险一金', '补充医疗保险'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131944955.html?rc=03'}

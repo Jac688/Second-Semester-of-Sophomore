@@ -1,0 +1,1 @@
+{'company_name': '大连朝华工程机械有限公司', 'job_name': 'PHP全栈工程师', 'geography': '大连-沙河口区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '员工旅游'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/dalian/132116241.html?rc=03'}

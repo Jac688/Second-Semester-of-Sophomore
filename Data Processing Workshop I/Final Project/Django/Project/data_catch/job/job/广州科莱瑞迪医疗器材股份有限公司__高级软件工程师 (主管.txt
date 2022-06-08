@@ -1,0 +1,1 @@
+{'company_name': '广州科莱瑞迪医疗器材股份有限公司', 'job_name': '高级软件工程师 (主管', 'geography': '广州-黄埔区', 'bonus': ['年终奖金', '五险一金', '专业培训', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/112289442.html?rc=03'}

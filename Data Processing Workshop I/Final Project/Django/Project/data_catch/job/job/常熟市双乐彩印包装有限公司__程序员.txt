@@ -1,0 +1,1 @@
+{'company_name': '常熟市双乐彩印包装有限公司', 'job_name': '程序员', 'geography': '异地招聘', 'bonus': ['提供宿舍', '提供工作餐', '五险一金', '做五休二'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128686823.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京瑞达恒建筑咨询有限公司上海分公司', 'job_name': 'Ruby开发工程师本公司招聘', 'geography': '上海-黄浦区', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126012560.html?rc=03'}

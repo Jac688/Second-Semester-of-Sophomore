@@ -1,0 +1,1 @@
+{'company_name': '吉致汽车金融有限公司', 'job_name': '基础平台工程师', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '专业培训'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131370136.html?rc=03'}

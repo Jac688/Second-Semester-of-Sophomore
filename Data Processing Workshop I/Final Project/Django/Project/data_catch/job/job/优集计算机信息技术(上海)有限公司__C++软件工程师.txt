@@ -1,0 +1,1 @@
+{'company_name': '优集计算机信息技术(上海)有限公司', 'job_name': 'C++软件工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '专业培训', '通讯补贴', '带薪休假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124289591.html?rc=03'}

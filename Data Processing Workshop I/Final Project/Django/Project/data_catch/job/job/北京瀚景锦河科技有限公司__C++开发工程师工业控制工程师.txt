@@ -1,0 +1,1 @@
+{'company_name': '北京瀚景锦河科技有限公司', 'job_name': 'C++开发工程师工业控制工程师', 'geography': '哈尔滨-南岗区', 'bonus': ['五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/harbin/124394466.html?rc=03'}

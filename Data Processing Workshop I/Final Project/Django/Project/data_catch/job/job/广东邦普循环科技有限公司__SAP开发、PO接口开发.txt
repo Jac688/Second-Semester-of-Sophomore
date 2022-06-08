@@ -1,0 +1,1 @@
+{'company_name': '广东邦普循环科技有限公司', 'job_name': 'SAP开发、PO接口开发', 'geography': '佛山-三水区', 'bonus': ['五险一金', '定期体检', '包吃包住', '年底双薪'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/132142927.html?rc=03'}

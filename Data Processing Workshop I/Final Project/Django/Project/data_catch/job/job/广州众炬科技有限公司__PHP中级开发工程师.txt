@@ -1,0 +1,1 @@
+{'company_name': '广州众炬科技有限公司', 'job_name': 'PHP中级开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '定期体检', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130822700.html?rc=03'}

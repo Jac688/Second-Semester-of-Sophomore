@@ -1,0 +1,1 @@
+{'company_name': 'Costco开市客', 'job_name': 'JAVA Developer-Java开发工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131581814.html?rc=03'}

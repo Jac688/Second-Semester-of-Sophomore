@@ -1,0 +1,1 @@
+{'company_name': '广东库迪二机激光装备有限公司', 'job_name': 'C#开发工程师', 'geography': '佛山-顺德区', 'bonus': ['员工旅游', '餐饮补贴', '专业培训', '宿舍'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/128652588.html?rc=03'}

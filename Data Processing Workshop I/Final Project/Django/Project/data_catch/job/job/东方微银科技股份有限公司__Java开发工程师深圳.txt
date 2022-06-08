@@ -1,0 +1,1 @@
+{'company_name': '东方微银科技股份有限公司', 'job_name': 'Java开发工程师深圳', 'geography': '深圳-罗湖区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/118722733.html?rc=03'}

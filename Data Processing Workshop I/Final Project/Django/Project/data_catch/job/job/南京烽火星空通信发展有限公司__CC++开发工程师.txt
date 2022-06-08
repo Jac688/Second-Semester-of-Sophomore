@@ -1,0 +1,1 @@
+{'company_name': '南京烽火星空通信发展有限公司', 'job_name': 'CC++开发工程师', 'geography': '南京-建邺区', 'bonus': ['六险一金', '年底双薪', '餐饮补贴', '交通补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/78852018.html?rc=03'}

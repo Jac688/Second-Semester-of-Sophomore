@@ -1,0 +1,1 @@
+{'company_name': '上海微凌信息科技有限公司', 'job_name': '数字化平台开发工程师java', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '专业培训', '股票期权', '项目奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120824664.html?rc=03'}

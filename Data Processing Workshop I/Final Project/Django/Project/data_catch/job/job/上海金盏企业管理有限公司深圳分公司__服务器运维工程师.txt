@@ -1,0 +1,1 @@
+{'company_name': '上海金盏企业管理有限公司深圳分公司', 'job_name': '服务器运维工程师', 'geography': '深圳-福田区', 'bonus': ['带薪年假', '五险一金', '周末双休', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130665620.html?rc=03'}

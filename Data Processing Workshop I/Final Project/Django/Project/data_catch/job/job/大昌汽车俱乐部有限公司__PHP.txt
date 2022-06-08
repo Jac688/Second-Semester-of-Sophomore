@@ -1,0 +1,1 @@
+{'company_name': '大昌汽车俱乐部有限公司', 'job_name': 'PHP', 'geography': '金华-金东区', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴', '高温补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinhua/122822634.html?rc=03'}

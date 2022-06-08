@@ -1,0 +1,1 @@
+{'company_name': '广西纵深供应链管理有限责任公司', 'job_name': 'java软件开发', 'geography': '南宁', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanning/114630830.html?rc=03'}

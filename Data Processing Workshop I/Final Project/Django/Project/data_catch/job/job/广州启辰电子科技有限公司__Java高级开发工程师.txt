@@ -1,0 +1,1 @@
+{'company_name': '广州启辰电子科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128879973.html?rc=03'}

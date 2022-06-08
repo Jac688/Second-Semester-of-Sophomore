@@ -1,0 +1,1 @@
+{'company_name': '宁波小白微金融服务外包有限公司', 'job_name': 'C++软件开发工程师', 'geography': '宁波-高新区', 'bonus': ['五险一金', '餐饮补贴', '员工旅游', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129769802.html?rc=03'}

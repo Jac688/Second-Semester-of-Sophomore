@@ -1,0 +1,1 @@
+{'company_name': '中国建筑第八工程局有限公司南方分公司', 'job_name': 'Java开发工程师', 'geography': '深圳', 'bonus': ['专业培训', '定期体检', '五险', '包吃'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131142016.html?rc=03'}

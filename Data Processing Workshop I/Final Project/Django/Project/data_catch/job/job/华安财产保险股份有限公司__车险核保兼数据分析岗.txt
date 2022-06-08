@@ -1,0 +1,1 @@
+{'company_name': '华安财产保险股份有限公司', 'job_name': '车险核保兼数据分析岗', 'geography': '杭州', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/122399807.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天维尔信息科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131818401.html?rc=03'}

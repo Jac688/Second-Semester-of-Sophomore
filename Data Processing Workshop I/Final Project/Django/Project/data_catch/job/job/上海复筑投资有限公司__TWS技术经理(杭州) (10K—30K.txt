@@ -1,0 +1,1 @@
+{'company_name': '上海复筑投资有限公司', 'job_name': 'TWS技术经理(杭州) (10K—30K', 'geography': '杭州-滨江区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131987366.html?rc=03'}

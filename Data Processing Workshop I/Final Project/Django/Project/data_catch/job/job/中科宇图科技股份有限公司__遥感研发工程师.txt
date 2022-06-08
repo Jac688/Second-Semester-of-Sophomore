@@ -1,0 +1,1 @@
+{'company_name': '中科宇图科技股份有限公司', 'job_name': '遥感研发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130414624.html?rc=03'}

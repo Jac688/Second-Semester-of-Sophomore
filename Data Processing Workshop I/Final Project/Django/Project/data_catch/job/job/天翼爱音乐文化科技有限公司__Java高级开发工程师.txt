@@ -1,0 +1,1 @@
+{'company_name': '天翼爱音乐文化科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '广州-越秀区', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132329259.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国科技出版传媒股份有限公司', 'job_name': '结构化排版软件JAVA、JS二次研发工程师', 'geography': '北京', 'bonus': ['六险两金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124811592.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海合合信息科技股份有限公司', 'job_name': 'C++软件开发工程师', 'geography': '上海-静安区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132019289.html?rc=03'}

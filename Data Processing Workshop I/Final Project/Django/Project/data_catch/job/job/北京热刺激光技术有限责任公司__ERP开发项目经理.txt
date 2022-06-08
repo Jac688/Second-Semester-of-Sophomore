@@ -1,0 +1,1 @@
+{'company_name': '北京热刺激光技术有限责任公司', 'job_name': 'ERP开发项目经理', 'geography': '北京-朝阳区', 'bonus': ['带薪年假', '五险一金', '节日福利', '包吃'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/109757003.html?rc=03'}

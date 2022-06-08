@@ -1,0 +1,1 @@
+{'company_name': '广东华智科技有限公司', 'job_name': '对日软件工程师', 'geography': '广州-黄埔区', 'bonus': ['补充公积金', '五险一金', '专业培训', '出国机会'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122115651.html?rc=03'}

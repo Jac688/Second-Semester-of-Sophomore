@@ -1,0 +1,1 @@
+{'company_name': '北京绿都畅达科技发展有限责任公司', 'job_name': '软件设计师', 'geography': '北京-平谷区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129476437.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京品驰医疗设备有限公司', 'job_name': '安卓开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130526606.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '东吴期货有限公司', 'job_name': '软件开发工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '定期体检', '做五休二', '带薪年假'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/114955616.html?rc=03'}

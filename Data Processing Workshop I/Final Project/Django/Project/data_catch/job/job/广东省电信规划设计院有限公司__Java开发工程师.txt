@@ -1,0 +1,1 @@
+{'company_name': '广东省电信规划设计院有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-虹口区', 'bonus': ['通讯补贴', '带薪年假', '年终奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132069844.html?rc=03'}

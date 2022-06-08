@@ -1,0 +1,1 @@
+{'company_name': '天津红日药业股份有限公司总部', 'job_name': 'SAP运维工程师- QM实施顾问(J13026)', 'geography': '天津-武清区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130364032.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '山东邦启电子技术有限公司', 'job_name': '高级Java软件工程师', 'geography': '济南-历下区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131353189.html?rc=03'}

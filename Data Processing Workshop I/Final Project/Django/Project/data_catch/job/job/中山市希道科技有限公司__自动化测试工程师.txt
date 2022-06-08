@@ -1,0 +1,1 @@
+{'company_name': '中山市希道科技有限公司', 'job_name': '自动化测试工程师', 'geography': '中山', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/128317710.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中科微至智能制造科技江苏股份有限公司', 'job_name': '图像算法工程师', 'geography': '无锡-锡山区', 'bonus': ['做五休二', '五险一金', '餐饮补贴', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/120109564.html?rc=03'}

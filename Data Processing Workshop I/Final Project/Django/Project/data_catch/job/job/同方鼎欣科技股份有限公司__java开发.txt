@@ -1,0 +1,1 @@
+{'company_name': '同方鼎欣科技股份有限公司', 'job_name': 'java开发', 'geography': '天津-滨海新区', 'bonus': ['五险一金', '专业培训', '补充医疗保险', '定期体检'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129403961.html?rc=03'}

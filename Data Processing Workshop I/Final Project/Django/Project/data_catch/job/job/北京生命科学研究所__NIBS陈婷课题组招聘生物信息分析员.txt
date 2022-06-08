@@ -1,0 +1,1 @@
+{'company_name': '北京生命科学研究所', 'job_name': 'NIBS陈婷课题组招聘生物信息分析员', 'geography': '北京-昌平区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131730147.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海优创信息技术有限公司', 'job_name': 'NX开发工程师', 'geography': '上海-静安区', 'bonus': ['五险一金', '定期体检', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121763012.html?rc=03'}

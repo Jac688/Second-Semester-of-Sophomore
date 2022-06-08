@@ -1,0 +1,1 @@
+{'company_name': '库卡中国-瑞仕格', 'job_name': '驻场软件工程师外包', 'geography': '北京', 'bonus': ['五险一金', '年终奖金', '定期体检'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128615557.html?rc=03'}

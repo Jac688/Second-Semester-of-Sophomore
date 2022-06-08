@@ -1,0 +1,1 @@
+{'company_name': '安徽卓智教育科技有限责任公司', 'job_name': '中高级Java工程师', 'geography': '福州-闽侯县', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/128086698.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海高重信息科技有限公司', 'job_name': '测试高级工程师', 'geography': '青岛-市北区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/130658764.html?rc=03'}

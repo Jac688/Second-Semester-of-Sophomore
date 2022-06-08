@@ -1,0 +1,1 @@
+{'company_name': '上海华虹宏力半导体制造有限公司', 'job_name': 'CIM工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119066414.html?rc=03'}

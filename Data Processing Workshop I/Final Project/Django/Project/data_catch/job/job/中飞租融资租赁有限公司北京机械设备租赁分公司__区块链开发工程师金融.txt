@@ -1,0 +1,1 @@
+{'company_name': '中飞租融资租赁有限公司北京机械设备租赁分公司', 'job_name': '区块链开发工程师金融', 'geography': '深圳-罗湖区', 'bonus': ['五险一金', '绩效奖金', '带薪年假', '节日福利'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130512100.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东迅维信息产业股份有限公司', 'job_name': '深度学习算法工程师', 'geography': '成都-武侯区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/117224211.html?rc=03'}

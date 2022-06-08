@@ -1,0 +1,1 @@
+{'company_name': '优车库网络科技发展深圳有限公司', 'job_name': 'ETL工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '补充医疗保险', '全勤奖', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129562383.html?rc=03'}

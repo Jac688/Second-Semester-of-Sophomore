@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '测试开发工程师 — 抖音服务端方向', 'geography': '上海', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130772357.html?rc=03'}

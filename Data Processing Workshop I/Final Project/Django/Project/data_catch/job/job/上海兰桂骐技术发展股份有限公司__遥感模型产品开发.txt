@@ -1,0 +1,1 @@
+{'company_name': '上海兰桂骐技术发展股份有限公司', 'job_name': '遥感模型产品开发', 'geography': '上海-杨浦区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121410641.html?rc=03'}

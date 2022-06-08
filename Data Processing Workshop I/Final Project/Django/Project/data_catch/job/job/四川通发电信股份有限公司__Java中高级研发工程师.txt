@@ -1,0 +1,1 @@
+{'company_name': '四川通发电信股份有限公司', 'job_name': 'Java中高级研发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '过节福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130476241.html?rc=03'}

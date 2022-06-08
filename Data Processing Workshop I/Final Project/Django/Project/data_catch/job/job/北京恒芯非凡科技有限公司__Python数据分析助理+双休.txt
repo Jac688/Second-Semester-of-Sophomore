@@ -1,0 +1,1 @@
+{'company_name': '北京恒芯非凡科技有限公司', 'job_name': 'Python数据分析助理+双休', 'geography': '深圳-宝安区', 'bonus': ['定期体检', '绩效奖金', '年终奖金', '五险一金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131151713.html?rc=03'}

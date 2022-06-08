@@ -1,0 +1,1 @@
+{'company_name': '上海海能信息科技有限公司', 'job_name': '软件测试工程师包住', 'geography': '上海', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125532585.html?rc=03'}

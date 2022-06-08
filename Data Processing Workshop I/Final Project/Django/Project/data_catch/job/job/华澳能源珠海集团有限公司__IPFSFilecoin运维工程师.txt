@@ -1,0 +1,1 @@
+{'company_name': '华澳能源珠海集团有限公司', 'job_name': 'IPFSFilecoin运维工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '绩效奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130322589.html?rc=03'}

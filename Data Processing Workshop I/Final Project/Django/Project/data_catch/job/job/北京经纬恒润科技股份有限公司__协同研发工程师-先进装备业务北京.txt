@@ -1,0 +1,1 @@
+{'company_name': '北京经纬恒润科技股份有限公司', 'job_name': '协同研发工程师-先进装备业务北京', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131559142.html?rc=03'}

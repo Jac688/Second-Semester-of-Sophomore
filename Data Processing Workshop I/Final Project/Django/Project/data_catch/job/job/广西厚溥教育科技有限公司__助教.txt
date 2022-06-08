@@ -1,0 +1,1 @@
+{'company_name': '广西厚溥教育科技有限公司', 'job_name': '助教', 'geography': '梧州', 'bonus': ['弹性工作', '年终奖金', '绩效奖金', '专业培训'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/wuzhou/129955325.html?rc=03'}

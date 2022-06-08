@@ -1,0 +1,1 @@
+{'company_name': '康宝宝厦门信息技术有限公司', 'job_name': 'JAVA初级开发工程师', 'geography': '福州', 'bonus': ['交通补贴', '通讯补贴', '弹性工作'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/117661842.html?rc=03'}

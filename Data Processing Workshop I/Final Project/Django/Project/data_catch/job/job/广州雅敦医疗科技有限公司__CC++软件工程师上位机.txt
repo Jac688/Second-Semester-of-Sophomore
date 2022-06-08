@@ -1,0 +1,1 @@
+{'company_name': '广州雅敦医疗科技有限公司', 'job_name': 'CC++软件工程师上位机', 'geography': '广州-南沙区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129145240.html?rc=03'}

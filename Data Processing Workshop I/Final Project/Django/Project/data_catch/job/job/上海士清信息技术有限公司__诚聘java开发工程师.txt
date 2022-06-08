@@ -1,0 +1,1 @@
+{'company_name': '上海士清信息技术有限公司', 'job_name': '诚聘java开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/117035014.html?rc=03'}

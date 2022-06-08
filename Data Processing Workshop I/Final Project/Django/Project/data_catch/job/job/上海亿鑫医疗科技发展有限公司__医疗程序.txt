@@ -1,0 +1,1 @@
+{'company_name': '上海亿鑫医疗科技发展有限公司', 'job_name': '医疗程序', 'geography': '上海-虹口区', 'bonus': ['专业培训', '提供食宿', '带薪年假', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/103785979.html?rc=03'}

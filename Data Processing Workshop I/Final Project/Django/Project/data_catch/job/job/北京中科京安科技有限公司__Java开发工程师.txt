@@ -1,0 +1,1 @@
+{'company_name': '北京中科京安科技有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '弹性工作', '出差补助', '公司重点项目'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130654248.html?rc=03'}

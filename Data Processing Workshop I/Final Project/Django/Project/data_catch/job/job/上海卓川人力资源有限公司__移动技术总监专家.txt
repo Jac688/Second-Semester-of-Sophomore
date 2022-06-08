@@ -1,0 +1,1 @@
+{'company_name': '上海卓川人力资源有限公司', 'job_name': '移动技术总监专家', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '专业培训', '员工旅游', '绩效奖金'], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129578794.html?rc=03'}

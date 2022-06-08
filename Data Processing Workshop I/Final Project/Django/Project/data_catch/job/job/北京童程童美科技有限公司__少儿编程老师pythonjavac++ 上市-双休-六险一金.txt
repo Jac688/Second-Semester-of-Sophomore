@@ -1,0 +1,1 @@
+{'company_name': '北京童程童美科技有限公司', 'job_name': '少儿编程老师pythonjavac++ 上市-双休-六险一金', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '股票期权', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131295860.html?rc=03'}

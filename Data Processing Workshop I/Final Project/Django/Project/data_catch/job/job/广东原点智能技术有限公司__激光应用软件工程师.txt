@@ -1,0 +1,1 @@
+{'company_name': '广东原点智能技术有限公司', 'job_name': '激光应用软件工程师', 'geography': '佛山-南海区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129368198.html?rc=03'}

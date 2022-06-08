@@ -1,0 +1,1 @@
+{'company_name': '北京厚德交通科技股份有限公司', 'job_name': '网站运维工程师', 'geography': '北京-通州区', 'bonus': ['绩效奖金', '年度涨薪', '定期体检', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128291970.html?rc=03'}

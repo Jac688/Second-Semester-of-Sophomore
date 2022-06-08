@@ -1,0 +1,1 @@
+{'company_name': '上海云谏能源科技有限公司', 'job_name': 'Java开发工程师', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '补充公积金', '年终奖金', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129705298.html?rc=03'}

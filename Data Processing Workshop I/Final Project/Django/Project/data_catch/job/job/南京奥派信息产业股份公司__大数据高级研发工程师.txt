@@ -1,0 +1,1 @@
+{'company_name': '南京奥派信息产业股份公司', 'job_name': '大数据高级研发工程师', 'geography': '南京-雨花台区', 'bonus': ['周末双休', '带薪年假', '五险一金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127588130.html?rc=03'}

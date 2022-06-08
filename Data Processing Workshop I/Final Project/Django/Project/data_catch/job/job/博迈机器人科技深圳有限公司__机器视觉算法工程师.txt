@@ -1,0 +1,1 @@
+{'company_name': '博迈机器人科技深圳有限公司', 'job_name': '机器视觉算法工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '免费班车', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129123334.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '亿泰和信息技术上海有限公司', 'job_name': '计算机人才应届生亦可', 'geography': '汕头', 'bonus': ['专业培训', '定期体检', '餐饮补贴', '年终奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/shantou/69266073.html?rc=03'}

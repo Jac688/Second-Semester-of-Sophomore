@@ -1,0 +1,1 @@
+{'company_name': '华网慧业成都科技有限公司', 'job_name': '数据运维工程师驻场', 'geography': '成都-高新区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129332002.html?rc=03'}

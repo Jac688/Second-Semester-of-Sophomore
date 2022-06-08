@@ -1,0 +1,1 @@
+{'company_name': '上海天正智能数据服务有限公司', 'job_name': 'JAVA工程师(J10043)', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129129163.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '努比亚技术有限公司', 'job_name': 'Java高级开发工程师', 'geography': '福州', 'bonus': ['五险一金', '免费班车', '定期体检', '员工旅游'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/131099651.html?rc=03'}

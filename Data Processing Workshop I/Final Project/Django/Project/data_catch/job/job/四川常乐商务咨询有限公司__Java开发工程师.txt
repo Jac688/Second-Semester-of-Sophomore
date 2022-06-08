@@ -1,0 +1,1 @@
+{'company_name': '四川常乐商务咨询有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-高新区', 'bonus': ['绩效奖金', '周末双休', '五险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131634615.html?rc=03'}

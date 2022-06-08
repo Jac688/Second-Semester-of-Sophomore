@@ -1,0 +1,1 @@
+{'company_name': '天津市环智新能源技术有限公司', 'job_name': 'EAP', 'geography': '天津-滨海新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/125262037.html?rc=03'}

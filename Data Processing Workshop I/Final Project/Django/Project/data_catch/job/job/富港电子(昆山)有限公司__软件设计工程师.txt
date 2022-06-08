@@ -1,0 +1,1 @@
+{'company_name': '富港电子(昆山)有限公司', 'job_name': '软件设计工程师', 'geography': '昆山', 'bonus': ['五险一金', '绩效奖金', '年终奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/126105892.html?rc=03'}

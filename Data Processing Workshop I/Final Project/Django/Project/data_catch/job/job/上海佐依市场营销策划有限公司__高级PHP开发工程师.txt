@@ -1,0 +1,1 @@
+{'company_name': '上海佐依市场营销策划有限公司', 'job_name': '高级PHP开发工程师', 'geography': '上海-静安区', 'bonus': ['五险一金', '绩效奖金', '员工旅游'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/70245822.html?rc=03'}

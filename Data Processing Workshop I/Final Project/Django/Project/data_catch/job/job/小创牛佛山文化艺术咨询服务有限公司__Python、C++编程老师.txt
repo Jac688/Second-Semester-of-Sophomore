@@ -1,0 +1,1 @@
+{'company_name': '小创牛佛山文化艺术咨询服务有限公司', 'job_name': 'Python、C++编程老师', 'geography': '异地招聘', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123604147.html?rc=03'}

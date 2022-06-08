@@ -1,0 +1,1 @@
+{'company_name': '国家超级计算无锡中心', 'job_name': '高级开发工程师', 'geography': '无锡-滨湖区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/128469094.html?rc=03'}

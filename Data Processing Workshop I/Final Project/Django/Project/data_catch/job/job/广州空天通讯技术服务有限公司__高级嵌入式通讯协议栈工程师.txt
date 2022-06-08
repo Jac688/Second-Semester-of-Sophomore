@@ -1,0 +1,1 @@
+{'company_name': '广州空天通讯技术服务有限公司', 'job_name': '高级嵌入式通讯协议栈工程师', 'geography': '广州-越秀区', 'bonus': ['五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128908568.html?rc=03'}

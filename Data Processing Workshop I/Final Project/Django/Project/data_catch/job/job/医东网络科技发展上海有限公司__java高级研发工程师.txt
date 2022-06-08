@@ -1,0 +1,1 @@
+{'company_name': '医东网络科技发展上海有限公司', 'job_name': 'java高级研发工程师', 'geography': '上海-虹口区', 'bonus': ['年终奖金', '节日福利', '项目奖金', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125651414.html?rc=03'}

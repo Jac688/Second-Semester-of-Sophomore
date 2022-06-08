@@ -1,0 +1,1 @@
+{'company_name': '广州海运集团房地产开发有限公司', 'job_name': 'PHP后端开发工程师', 'geography': '广州-海珠区', 'bonus': ['周末双休', '包吃', '绩效奖金', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/116642245.html?rc=03'}

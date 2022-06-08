@@ -1,0 +1,1 @@
+{'company_name': '上海中正达广基金销售有限公司', 'job_name': 'Java工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充公积金', '定期体检', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131394220.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '恒生电子股份有限公司', 'job_name': 'JAVA开发工程师-资管资管运营', 'geography': '北京', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128306605.html?rc=03'}

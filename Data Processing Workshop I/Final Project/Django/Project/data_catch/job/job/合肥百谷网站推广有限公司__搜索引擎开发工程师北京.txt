@@ -1,0 +1,1 @@
+{'company_name': '合肥百谷网站推广有限公司', 'job_name': '搜索引擎开发工程师北京', 'geography': '北京', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130762596.html?rc=03'}

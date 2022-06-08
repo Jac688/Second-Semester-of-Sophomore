@@ -1,0 +1,1 @@
+{'company_name': '山东申启信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '济南', 'bonus': ['绩效奖金', '节日福利', '专业培训', '交通补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/124858018.html?rc=03'}

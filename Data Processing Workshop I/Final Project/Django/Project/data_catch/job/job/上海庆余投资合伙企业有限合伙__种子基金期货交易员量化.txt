@@ -1,0 +1,1 @@
+{'company_name': '上海庆余投资合伙企业有限合伙', 'job_name': '种子基金期货交易员量化', 'geography': '广州', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123966018.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中芯维康医疗科技重庆有限责任公司', 'job_name': 'AI算法工程师sc', 'geography': '重庆-江北区', 'bonus': ['五险一金', '定期体检', '包吃包住', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/119510939.html?rc=03'}

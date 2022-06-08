@@ -1,0 +1,1 @@
+{'company_name': '成都乐创自动化技术股份有限公司', 'job_name': '伺服驱动软件开发工程师', 'geography': '成都', 'bonus': ['带薪年假', '五险一金', '交通补贴', '年度体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/121322481.html?rc=03'}

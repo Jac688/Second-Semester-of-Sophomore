@@ -1,0 +1,1 @@
+{'company_name': '上海川瑞软件科技有限公司', 'job_name': 'Java 工程师', 'geography': '上海-普陀区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/60622136.html?rc=03'}

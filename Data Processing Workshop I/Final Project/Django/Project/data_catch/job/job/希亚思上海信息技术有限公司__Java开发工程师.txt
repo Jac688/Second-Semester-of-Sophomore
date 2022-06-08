@@ -1,0 +1,1 @@
+{'company_name': '希亚思上海信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/100550455.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '合肥宾智信息科技有限公司', 'job_name': 'SEOSEM专员主管经理', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '免费班车', '专业培训', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/132009734.html?rc=03'}

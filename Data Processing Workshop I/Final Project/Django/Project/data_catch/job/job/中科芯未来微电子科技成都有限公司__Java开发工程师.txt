@@ -1,0 +1,1 @@
+{'company_name': '中科芯未来微电子科技成都有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-双流区', 'bonus': ['周末双休', '五险一金', '餐饮补贴', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127491231.html?rc=03'}

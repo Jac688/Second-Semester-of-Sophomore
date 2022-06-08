@@ -1,0 +1,1 @@
+{'company_name': '北京创新世纪生化科技发展有限公司', 'job_name': '单片机开发工程师', 'geography': '北京-朝阳区', 'bonus': ['交通补贴', '绩效奖金', '年终奖金', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/82593453.html?rc=03'}

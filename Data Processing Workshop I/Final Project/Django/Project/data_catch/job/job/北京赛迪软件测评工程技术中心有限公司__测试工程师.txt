@@ -1,0 +1,1 @@
+{'company_name': '北京赛迪软件测评工程技术中心有限公司', 'job_name': '测试工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128073840.html?rc=03'}

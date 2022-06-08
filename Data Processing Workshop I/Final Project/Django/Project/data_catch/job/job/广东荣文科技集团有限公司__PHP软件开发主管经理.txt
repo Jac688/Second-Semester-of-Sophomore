@@ -1,0 +1,1 @@
+{'company_name': '广东荣文科技集团有限公司', 'job_name': 'PHP软件开发主管经理', 'geography': '东莞', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/93309114.html?rc=03'}

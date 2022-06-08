@@ -1,0 +1,1 @@
+{'company_name': '中免集团三亚市内免税店有限公司', 'job_name': '运维专员电商', 'geography': '异地招聘', 'bonus': ['五险一金', '免费班车', '交通补贴', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/hainansheng/125976159.html?rc=03'}

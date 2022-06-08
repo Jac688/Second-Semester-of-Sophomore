@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后端研发工程师-内容安全-抖音直播', 'geography': '北京', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '五险一金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130630555.html?rc=03'}

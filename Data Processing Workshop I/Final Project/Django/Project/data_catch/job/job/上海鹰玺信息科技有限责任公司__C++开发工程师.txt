@@ -1,0 +1,1 @@
+{'company_name': '上海鹰玺信息科技有限责任公司', 'job_name': 'C++开发工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131992910.html?rc=03'}

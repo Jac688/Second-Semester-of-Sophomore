@@ -1,0 +1,1 @@
+{'company_name': '上海飞冠网络科技有限公司', 'job_name': 'PHPASP软件工程师程序员网站开发工程师项目经理', 'geography': '上海-松江区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131622013.html?rc=03'}

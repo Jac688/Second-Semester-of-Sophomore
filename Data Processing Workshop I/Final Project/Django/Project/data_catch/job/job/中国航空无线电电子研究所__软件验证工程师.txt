@@ -1,0 +1,1 @@
+{'company_name': '中国航空无线电电子研究所', 'job_name': '软件验证工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131512756.html?rc=03'}

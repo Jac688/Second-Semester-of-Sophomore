@@ -1,0 +1,1 @@
+{'company_name': '中电福富信息科技有限公司', 'job_name': 'JAVA开发工程师-厦门', 'geography': '厦门', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/74652492.html?rc=03'}

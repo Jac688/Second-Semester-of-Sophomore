@@ -1,0 +1,1 @@
+{'company_name': '广州市云伯汇医疗科技有限公司', 'job_name': '网店运营助理', 'geography': '广州-从化区', 'bonus': ['专业培训', '绩效奖金', '年终奖金', '餐饮补贴'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129620097.html?rc=03'}

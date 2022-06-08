@@ -1,0 +1,1 @@
+{'company_name': '广州华南教育科技发展有限公司', 'job_name': 'Java高级开发工程师', 'geography': '广州', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132240756.html?rc=03'}

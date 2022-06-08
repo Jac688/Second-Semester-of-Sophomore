@@ -1,0 +1,1 @@
+{'company_name': '上海同道信息技术有限公司', 'job_name': 'JAVA开发工程师广州分公司', 'geography': '广州-白云区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130933607.html?rc=03'}

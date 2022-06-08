@@ -1,0 +1,1 @@
+{'company_name': '上海同界数据科技股份有限公司', 'job_name': '爬虫开发工程师', 'geography': '上海-静安区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127331630.html?rc=03'}

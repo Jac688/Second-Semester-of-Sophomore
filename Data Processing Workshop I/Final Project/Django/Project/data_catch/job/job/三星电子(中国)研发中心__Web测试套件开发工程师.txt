@@ -1,0 +1,1 @@
+{'company_name': '三星电子(中国)研发中心', 'job_name': 'Web测试套件开发工程师', 'geography': '南京', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130971408.html?rc=03'}

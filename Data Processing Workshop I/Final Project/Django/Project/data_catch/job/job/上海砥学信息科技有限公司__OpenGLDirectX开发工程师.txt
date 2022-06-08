@@ -1,0 +1,1 @@
+{'company_name': '上海砥学信息科技有限公司', 'job_name': 'OpenGLDirectX开发工程师', 'geography': '珠海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/125805737.html?rc=03'}

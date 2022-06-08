@@ -1,0 +1,1 @@
+{'company_name': '北京万维盈创科技发展有限公司', 'job_name': '嵌入式软件开发工程师杭州', 'geography': '杭州-余杭区', 'bonus': ['年终奖金', '定期体检', '专业培训', '交通补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/126438412.html?rc=03'}

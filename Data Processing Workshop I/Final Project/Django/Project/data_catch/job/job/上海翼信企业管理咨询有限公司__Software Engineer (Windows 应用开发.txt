@@ -1,0 +1,1 @@
+{'company_name': '上海翼信企业管理咨询有限公司', 'job_name': 'Software Engineer (Windows 应用开发', 'geography': '上海', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132053892.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '图特斯工具技术常州有限公司', 'job_name': '软件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '定期体检'], 'salary': 0.93, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131759102.html?rc=03'}

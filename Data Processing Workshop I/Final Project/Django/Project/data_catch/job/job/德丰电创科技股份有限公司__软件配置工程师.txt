@@ -1,0 +1,1 @@
+{'company_name': '德丰电创科技股份有限公司', 'job_name': '软件配置工程师', 'geography': '东莞-洪梅镇', 'bonus': ['五险一金', '补充公积金', '免费班车', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/120914769.html?rc=03'}

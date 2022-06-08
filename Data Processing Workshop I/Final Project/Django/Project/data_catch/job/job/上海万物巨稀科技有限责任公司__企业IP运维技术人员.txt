@@ -1,0 +1,1 @@
+{'company_name': '上海万物巨稀科技有限责任公司', 'job_name': '企业IP运维技术人员', 'geography': '上海-闵行区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131803741.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '云南翡翠王朝网络科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '昆明-五华区', 'bonus': ['五险一金', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/kunming/124639731.html?rc=03'}

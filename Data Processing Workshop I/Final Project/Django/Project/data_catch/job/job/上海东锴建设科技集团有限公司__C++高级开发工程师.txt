@@ -1,0 +1,1 @@
+{'company_name': '上海东锴建设科技集团有限公司', 'job_name': 'C++高级开发工程师', 'geography': '上海-虹口区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126190324.html?rc=03'}

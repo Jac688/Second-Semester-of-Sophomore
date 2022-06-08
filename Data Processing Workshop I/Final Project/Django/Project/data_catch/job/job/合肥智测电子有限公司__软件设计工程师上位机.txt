@@ -1,0 +1,1 @@
+{'company_name': '合肥智测电子有限公司', 'job_name': '软件设计工程师上位机', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125724595.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州深科信科技信息咨询有限公司', 'job_name': 'PHP开发工程师区块链方向', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '免费班车', '员工旅游', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/103046964.html?rc=03'}

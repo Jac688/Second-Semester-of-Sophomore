@@ -1,0 +1,1 @@
+{'company_name': '四川东山华盛企业管理有限公司', 'job_name': 'Java开发工程师', 'geography': '成都', 'bonus': ['弹性工作', '带薪年假', '绩效奖金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/113900334.html?rc=03'}

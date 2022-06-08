@@ -1,0 +1,1 @@
+{'company_name': '北京集顺工程咨询有限公司', 'job_name': '算法工程师-研发方向', 'geography': '北京', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129810318.html?rc=03'}

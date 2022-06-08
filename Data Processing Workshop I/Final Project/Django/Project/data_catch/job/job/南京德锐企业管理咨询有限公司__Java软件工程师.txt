@@ -1,0 +1,1 @@
+{'company_name': '南京德锐企业管理咨询有限公司', 'job_name': 'Java软件工程师', 'geography': '南京', 'bonus': [], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131937036.html?rc=03'}

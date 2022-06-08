@@ -1,0 +1,1 @@
+{'company_name': '上海网新恒天软件有限公司', 'job_name': 'C++开发工程师', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '专业培训'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131131839.html?rc=03'}

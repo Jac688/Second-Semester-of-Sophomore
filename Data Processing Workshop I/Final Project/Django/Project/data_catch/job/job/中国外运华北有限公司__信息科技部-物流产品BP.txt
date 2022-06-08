@@ -1,0 +1,1 @@
+{'company_name': '中国外运华北有限公司', 'job_name': '信息科技部-物流产品BP', 'geography': '天津-和平区', 'bonus': ['五险一金', '节日福利', '防暑降温', '采暖补贴'], 'salary': 1.17, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131801548.html?rc=03'}

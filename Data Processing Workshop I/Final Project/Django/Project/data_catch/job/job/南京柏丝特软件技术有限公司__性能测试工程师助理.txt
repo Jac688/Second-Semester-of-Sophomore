@@ -1,0 +1,1 @@
+{'company_name': '南京柏丝特软件技术有限公司', 'job_name': '性能测试工程师助理', 'geography': '南京-江宁区', 'bonus': ['五险一金', '绩效奖金', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/124358757.html?rc=03'}

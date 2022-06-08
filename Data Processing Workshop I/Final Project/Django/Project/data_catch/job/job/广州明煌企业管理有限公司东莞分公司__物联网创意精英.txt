@@ -1,0 +1,1 @@
+{'company_name': '广州明煌企业管理有限公司东莞分公司', 'job_name': '物联网创意精英', 'geography': '深圳-南山区', 'bonus': ['五险一金', '周末双休', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132353219.html?rc=03'}

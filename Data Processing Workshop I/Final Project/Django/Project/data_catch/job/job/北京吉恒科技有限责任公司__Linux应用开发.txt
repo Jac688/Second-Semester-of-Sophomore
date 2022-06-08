@@ -1,0 +1,1 @@
+{'company_name': '北京吉恒科技有限责任公司', 'job_name': 'Linux应用开发', 'geography': '无锡', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/75665836.html?rc=03'}

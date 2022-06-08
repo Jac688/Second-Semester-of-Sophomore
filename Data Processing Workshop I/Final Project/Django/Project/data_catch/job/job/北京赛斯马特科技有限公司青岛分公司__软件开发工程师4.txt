@@ -1,0 +1,1 @@
+{'company_name': '北京赛斯马特科技有限公司青岛分公司', 'job_name': '软件开发工程师4', 'geography': '青岛-市北区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/132055569.html?rc=03'}

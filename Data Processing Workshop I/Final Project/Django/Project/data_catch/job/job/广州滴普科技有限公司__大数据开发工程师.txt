@@ -1,0 +1,1 @@
+{'company_name': '广州滴普科技有限公司', 'job_name': '大数据开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '交通补贴', '弹性工作', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128046841.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京日冲软件股份有限公司', 'job_name': 'C++开发工程师', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '节日福利', '生日福利', '团队活动'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/122203294.html?rc=03'}

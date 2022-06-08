@@ -1,0 +1,1 @@
+{'company_name': '广西松宇企业投资集团有限公司', 'job_name': '软件开发工程师', 'geography': '南宁', 'bonus': ['餐饮补贴', '绩效奖金', '通讯补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanning/129174624.html?rc=03'}

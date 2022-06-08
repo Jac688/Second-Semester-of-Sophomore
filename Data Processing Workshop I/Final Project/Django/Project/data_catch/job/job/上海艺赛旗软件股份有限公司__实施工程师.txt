@@ -1,0 +1,1 @@
+{'company_name': '上海艺赛旗软件股份有限公司', 'job_name': '实施工程师', 'geography': '深圳', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/122789499.html?rc=03'}

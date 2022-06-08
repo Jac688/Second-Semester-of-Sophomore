@@ -1,0 +1,1 @@
+{'company_name': '广东旭龙物联科技股份有限公司', 'job_name': '嵌入式软件工程师Linux方向上市公司+双休', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/98385017.html?rc=03'}

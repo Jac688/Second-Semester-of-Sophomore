@@ -1,0 +1,1 @@
+{'company_name': '华南高等研究院佛山', 'job_name': 'C++开发工程师', 'geography': '佛山-顺德区', 'bonus': ['五险一金', '补充公积金', '餐饮补贴', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/126214547.html?rc=03'}

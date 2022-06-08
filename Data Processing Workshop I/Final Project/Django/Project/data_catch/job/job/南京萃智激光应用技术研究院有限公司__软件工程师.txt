@@ -1,0 +1,1 @@
+{'company_name': '南京萃智激光应用技术研究院有限公司', 'job_name': '软件工程师', 'geography': '南京-栖霞区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131139253.html?rc=03'}

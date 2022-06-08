@@ -1,0 +1,1 @@
+{'company_name': '上海瑞车信息科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127231382.html?rc=03'}

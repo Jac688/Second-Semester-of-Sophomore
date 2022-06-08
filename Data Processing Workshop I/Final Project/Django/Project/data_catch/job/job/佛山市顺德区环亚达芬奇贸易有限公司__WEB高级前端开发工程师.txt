@@ -1,0 +1,1 @@
+{'company_name': '佛山市顺德区环亚达芬奇贸易有限公司', 'job_name': 'WEB高级前端开发工程师', 'geography': '佛山-顺德区', 'bonus': ['餐饮补贴', '员工旅游', '做满一年双粮', '社保'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131580554.html?rc=03'}

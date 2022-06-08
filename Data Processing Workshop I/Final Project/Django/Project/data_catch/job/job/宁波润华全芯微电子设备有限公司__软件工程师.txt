@@ -1,0 +1,1 @@
+{'company_name': '宁波润华全芯微电子设备有限公司', 'job_name': '软件工程师', 'geography': '宁波-余姚市', 'bonus': ['五险一金', '专业培训', '全勤奖', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/113224109.html?rc=03'}

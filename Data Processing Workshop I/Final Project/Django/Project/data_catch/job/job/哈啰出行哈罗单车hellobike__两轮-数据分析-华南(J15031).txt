@@ -1,0 +1,1 @@
+{'company_name': '哈啰出行哈罗单车hellobike', 'job_name': '两轮-数据分析-华南(J15031)', 'geography': '广州-越秀区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132243359.html?rc=03'}

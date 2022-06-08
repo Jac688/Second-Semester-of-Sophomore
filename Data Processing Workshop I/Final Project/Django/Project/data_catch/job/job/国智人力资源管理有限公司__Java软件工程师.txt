@@ -1,0 +1,1 @@
+{'company_name': '国智人力资源管理有限公司', 'job_name': 'Java软件工程师', 'geography': '深圳-龙岗区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124615519.html?rc=03'}

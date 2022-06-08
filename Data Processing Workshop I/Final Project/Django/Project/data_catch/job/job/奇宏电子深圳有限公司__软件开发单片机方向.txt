@@ -1,0 +1,1 @@
+{'company_name': '奇宏电子深圳有限公司', 'job_name': '软件开发单片机方向', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '年终奖金', '定期体检', '周末双休'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124218697.html?rc=03'}

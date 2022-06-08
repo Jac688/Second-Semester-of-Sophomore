@@ -1,0 +1,1 @@
+{'company_name': '广州市钱大妈农产品有限公司', 'job_name': 'Java开发工程师新零售 (MJ000069)', 'geography': '广州-海珠区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131324533.html?rc=03'}

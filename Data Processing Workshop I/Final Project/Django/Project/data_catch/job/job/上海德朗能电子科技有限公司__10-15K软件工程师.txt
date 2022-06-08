@@ -1,0 +1,1 @@
+{'company_name': '上海德朗能电子科技有限公司', 'job_name': '10-15K软件工程师', 'geography': '上海-奉贤区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126809985.html?rc=03'}

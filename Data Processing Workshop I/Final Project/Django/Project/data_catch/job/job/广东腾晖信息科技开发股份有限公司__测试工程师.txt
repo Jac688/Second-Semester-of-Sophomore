@@ -1,0 +1,1 @@
+{'company_name': '广东腾晖信息科技开发股份有限公司', 'job_name': '测试工程师', 'geography': '珠海', 'bonus': ['弹性工作', '定期体检', '绩效奖金', '餐补'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/132091886.html?rc=03'}

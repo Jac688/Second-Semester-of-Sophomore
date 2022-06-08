@@ -1,0 +1,1 @@
+{'company_name': '宝矿控股集团有限公司', 'job_name': '财务主管财务分析  数据分析', 'geography': '上海', 'bonus': ['五险一金', '工作餐', '年终奖金', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124031849.html?rc=03'}

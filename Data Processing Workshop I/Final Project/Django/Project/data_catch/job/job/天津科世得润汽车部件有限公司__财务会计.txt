@@ -1,0 +1,1 @@
+{'company_name': '天津科世得润汽车部件有限公司', 'job_name': '财务会计', 'geography': '天津-西青区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128068771.html?rc=03'}

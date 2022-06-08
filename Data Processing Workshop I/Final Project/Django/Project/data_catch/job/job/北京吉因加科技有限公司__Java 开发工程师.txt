@@ -1,0 +1,1 @@
+{'company_name': '北京吉因加科技有限公司', 'job_name': 'Java 开发工程师', 'geography': '深圳-坪山区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/123166076.html?rc=03'}

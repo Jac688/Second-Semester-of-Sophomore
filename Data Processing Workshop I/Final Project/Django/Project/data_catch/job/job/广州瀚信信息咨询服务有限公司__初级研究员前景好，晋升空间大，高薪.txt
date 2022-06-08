@@ -1,0 +1,1 @@
+{'company_name': '广州瀚信信息咨询服务有限公司', 'job_name': '初级研究员前景好，晋升空间大，高薪', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '专业培训', '弹性工作'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128017988.html?rc=03'}

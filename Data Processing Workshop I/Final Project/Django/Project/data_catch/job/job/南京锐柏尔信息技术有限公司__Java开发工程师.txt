@@ -1,0 +1,1 @@
+{'company_name': '南京锐柏尔信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '出差补贴', '节日福利', '涨薪制度'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130995343.html?rc=03'}

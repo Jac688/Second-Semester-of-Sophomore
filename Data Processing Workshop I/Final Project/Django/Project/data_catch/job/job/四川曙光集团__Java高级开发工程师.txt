@@ -1,0 +1,1 @@
+{'company_name': '四川曙光集团', 'job_name': 'Java高级开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '交通补贴', '办公环境好', '带薪年假'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126833610.html?rc=03'}

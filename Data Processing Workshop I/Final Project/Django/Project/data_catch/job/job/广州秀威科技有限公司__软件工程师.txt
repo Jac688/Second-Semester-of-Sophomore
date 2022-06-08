@@ -1,0 +1,1 @@
+{'company_name': '广州秀威科技有限公司', 'job_name': '软件工程师', 'geography': '惠州-惠城区', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/129951147.html?rc=03'}

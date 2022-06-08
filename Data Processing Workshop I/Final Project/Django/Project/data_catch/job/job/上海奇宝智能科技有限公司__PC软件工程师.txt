@@ -1,0 +1,1 @@
+{'company_name': '上海奇宝智能科技有限公司', 'job_name': 'PC软件工程师', 'geography': '上海', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '股票期权'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131704859.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国科学院上海高等研究院', 'job_name': '加速器控制软件开发', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128787634.html?rc=03'}

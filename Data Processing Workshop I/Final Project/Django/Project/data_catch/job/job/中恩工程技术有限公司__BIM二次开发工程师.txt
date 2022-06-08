@@ -1,0 +1,1 @@
+{'company_name': '中恩工程技术有限公司', 'job_name': 'BIM二次开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130341065.html?rc=03'}

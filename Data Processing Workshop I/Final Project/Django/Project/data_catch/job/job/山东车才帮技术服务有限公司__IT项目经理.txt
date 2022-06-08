@@ -1,0 +1,1 @@
+{'company_name': '山东车才帮技术服务有限公司', 'job_name': 'IT项目经理', 'geography': '济南-历城区', 'bonus': ['五险一金', '餐饮补贴', '员工旅游', '通讯补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131871543.html?rc=03'}

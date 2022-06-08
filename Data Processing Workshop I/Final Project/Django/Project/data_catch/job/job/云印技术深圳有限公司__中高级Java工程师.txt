@@ -1,0 +1,1 @@
+{'company_name': '云印技术深圳有限公司', 'job_name': '中高级Java工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/fujiansheng/130826521.html?rc=03'}

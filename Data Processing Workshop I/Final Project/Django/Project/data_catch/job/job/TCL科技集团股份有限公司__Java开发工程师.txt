@@ -1,0 +1,1 @@
+{'company_name': 'TCL科技集团股份有限公司', 'job_name': 'Java开发工程师', 'geography': '惠州', 'bonus': ['年底双薪', '绩效奖金', '五险一金', '通讯补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/130741389.html?rc=03'}

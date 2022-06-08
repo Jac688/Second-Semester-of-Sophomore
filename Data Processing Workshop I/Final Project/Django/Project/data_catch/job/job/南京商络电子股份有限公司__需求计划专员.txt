@@ -1,0 +1,1 @@
+{'company_name': '南京商络电子股份有限公司', 'job_name': '需求计划专员', 'geography': '南京', 'bonus': ['周末双休', '餐饮补贴', '交通补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130623840.html?rc=03'}

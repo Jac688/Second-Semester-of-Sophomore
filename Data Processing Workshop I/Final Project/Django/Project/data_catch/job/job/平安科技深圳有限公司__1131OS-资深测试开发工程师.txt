@@ -1,0 +1,1 @@
+{'company_name': '平安科技深圳有限公司', 'job_name': '1131OS-资深测试开发工程师', 'geography': '成都-锦江区', 'bonus': ['五险一金', '绩效奖金', '带薪年假', '定期体检'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128033781.html?rc=03'}

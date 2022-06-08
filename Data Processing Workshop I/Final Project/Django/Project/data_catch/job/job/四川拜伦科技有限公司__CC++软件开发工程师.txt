@@ -1,0 +1,1 @@
+{'company_name': '四川拜伦科技有限公司', 'job_name': 'CC++软件开发工程师', 'geography': '成都-金牛区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126145914.html?rc=03'}

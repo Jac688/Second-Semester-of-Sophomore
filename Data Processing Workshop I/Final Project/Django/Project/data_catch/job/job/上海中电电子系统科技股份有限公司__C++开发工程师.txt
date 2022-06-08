@@ -1,0 +1,1 @@
+{'company_name': '上海中电电子系统科技股份有限公司', 'job_name': 'C++开发工程师', 'geography': '杭州-拱墅区', 'bonus': ['五险一金', '通讯补贴', '年终奖金', '交通补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/114152767.html?rc=03'}

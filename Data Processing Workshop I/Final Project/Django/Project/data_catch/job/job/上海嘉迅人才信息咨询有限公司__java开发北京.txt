@@ -1,0 +1,1 @@
+{'company_name': '上海嘉迅人才信息咨询有限公司', 'job_name': 'java开发北京', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127210569.html?rc=03'}

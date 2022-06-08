@@ -1,0 +1,1 @@
+{'company_name': '南京雅宸众联电力技术有限公司', 'job_name': '电力软件开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127393864.html?rc=03'}

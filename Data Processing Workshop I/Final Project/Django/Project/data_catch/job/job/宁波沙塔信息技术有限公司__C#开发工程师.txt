@@ -1,0 +1,1 @@
+{'company_name': '宁波沙塔信息技术有限公司', 'job_name': 'C#开发工程师', 'geography': '宁波-高新区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/114795341.html?rc=03'}

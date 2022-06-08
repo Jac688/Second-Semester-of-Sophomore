@@ -1,0 +1,1 @@
+{'company_name': '上海科梁信息工程股份有限公司', 'job_name': 'C++软件工程师', 'geography': '上海-徐汇区', 'bonus': ['年终奖金', '绩效奖金', '节日福利', '餐饮补贴'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121954465.html?rc=03'}

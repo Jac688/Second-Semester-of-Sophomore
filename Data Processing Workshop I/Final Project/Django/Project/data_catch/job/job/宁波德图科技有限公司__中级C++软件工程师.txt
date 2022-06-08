@@ -1,0 +1,1 @@
+{'company_name': '宁波德图科技有限公司', 'job_name': '中级C++软件工程师', 'geography': '宁波-北仑区', 'bonus': ['周末双休', '节日福利', '五险一金', '股票期权'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131499388.html?rc=03'}

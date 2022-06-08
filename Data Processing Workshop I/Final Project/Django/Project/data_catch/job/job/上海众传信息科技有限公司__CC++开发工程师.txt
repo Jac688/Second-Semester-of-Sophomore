@@ -1,0 +1,1 @@
+{'company_name': '上海众传信息科技有限公司', 'job_name': 'CC++开发工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '弹性工作', '年终奖金', '股票期权'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131737696.html?rc=03'}

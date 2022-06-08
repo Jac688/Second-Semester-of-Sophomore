@@ -1,0 +1,1 @@
+{'company_name': '上海庆科信息技术有限公司', 'job_name': 'python开发工程师', 'geography': '上海-普陀区', 'bonus': ['餐饮补贴', '定期体检', '弹性工作', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/73713389.html?rc=03'}

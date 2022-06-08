@@ -1,0 +1,1 @@
+{'company_name': '佛山市飞星视听设备厂', 'job_name': '嵌入式软件工程师', 'geography': '佛山-禅城区', 'bonus': ['五险一金', '补充公积金', '餐饮补贴', '通讯补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/126781351.html?rc=03'}

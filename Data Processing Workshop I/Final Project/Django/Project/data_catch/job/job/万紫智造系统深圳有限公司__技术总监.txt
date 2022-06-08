@@ -1,0 +1,1 @@
+{'company_name': '万紫智造系统深圳有限公司', 'job_name': '技术总监', 'geography': '重庆-南岸区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131558199.html?rc=03'}

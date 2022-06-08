@@ -1,0 +1,1 @@
+{'company_name': '北京百悟科技有限公司', 'job_name': 'Java开发工程师', 'geography': '北京', 'bonus': ['交通补贴', '餐饮补贴', '绩效奖金', '六险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126523752.html?rc=03'}

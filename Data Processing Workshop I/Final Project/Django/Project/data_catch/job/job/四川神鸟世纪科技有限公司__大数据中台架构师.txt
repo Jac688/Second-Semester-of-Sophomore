@@ -1,0 +1,1 @@
+{'company_name': '四川神鸟世纪科技有限公司', 'job_name': '大数据中台架构师', 'geography': '成都-金牛区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128137085.html?rc=03'}

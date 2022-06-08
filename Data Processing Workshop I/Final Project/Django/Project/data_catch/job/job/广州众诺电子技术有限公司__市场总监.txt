@@ -1,0 +1,1 @@
+{'company_name': '广州众诺电子技术有限公司', 'job_name': '市场总监', 'geography': '广州-黄埔区', 'bonus': ['年终分红', '股权', '期权', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130231859.html?rc=03'}

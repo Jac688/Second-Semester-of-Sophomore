@@ -1,0 +1,1 @@
+{'company_name': '北京南天软件有限公司', 'job_name': '软件开发工程师本二2003', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131542223.html?rc=03'}

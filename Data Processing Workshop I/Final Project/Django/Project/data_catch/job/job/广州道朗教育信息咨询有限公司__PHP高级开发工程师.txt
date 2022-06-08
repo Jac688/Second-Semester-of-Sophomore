@@ -1,0 +1,1 @@
+{'company_name': '广州道朗教育信息咨询有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '广州', 'bonus': ['员工旅游', '专业培训', '年终奖金', '年轻化团队'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128925636.html?rc=03'}

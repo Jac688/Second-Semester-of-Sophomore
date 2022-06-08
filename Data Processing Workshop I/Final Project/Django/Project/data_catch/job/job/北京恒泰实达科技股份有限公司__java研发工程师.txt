@@ -1,0 +1,1 @@
+{'company_name': '北京恒泰实达科技股份有限公司', 'job_name': 'java研发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '定期体检', '绩效奖金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130098923.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东瑞图万方科技股份有限公司', 'job_name': '高级Java开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '通讯补贴', '周末双休', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128964436.html?rc=03'}

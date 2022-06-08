@@ -1,0 +1,1 @@
+{'company_name': '南京邦奇自动变速箱有限公司', 'job_name': 'Test rig engineer台架测试工程师', 'geography': '南京-栖霞区', 'bonus': ['周末双休', '带薪年假', '五险一金', '包吃'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/101242065.html?rc=03'}

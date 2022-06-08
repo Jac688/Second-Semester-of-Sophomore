@@ -1,0 +1,1 @@
+{'company_name': '天津鲲鹏信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '天津-滨海新区', 'bonus': ['五险一金', '专业培训', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129568148.html?rc=03'}

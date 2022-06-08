@@ -1,0 +1,1 @@
+{'company_name': '北京亚控科技发展有限公司', 'job_name': 'C++高级开发工程师北京', 'geography': '北京', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴', '定期体检'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131264783.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '抖音直播服务端核心研发工程师-基础架构', 'geography': '深圳', 'bonus': ['下午茶', '六险一金', '晋升空间大', '扁平管理'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129813963.html?rc=03'}

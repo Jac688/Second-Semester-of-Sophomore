@@ -1,0 +1,1 @@
+{'company_name': '中智成都签证服务有限公司', 'job_name': '科研单位—软件设计师', 'geography': '成都-青羊区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129408202.html?rc=03'}

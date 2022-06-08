@@ -1,0 +1,1 @@
+{'company_name': '云度新能源汽车股份有限公司', 'job_name': '大数据开发工程师', 'geography': '深圳-南山区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128850486.html?rc=03'}

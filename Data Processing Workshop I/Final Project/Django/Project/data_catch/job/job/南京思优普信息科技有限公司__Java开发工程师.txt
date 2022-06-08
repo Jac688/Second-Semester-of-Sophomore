@@ -1,0 +1,1 @@
+{'company_name': '南京思优普信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '交通补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132207990.html?rc=03'}

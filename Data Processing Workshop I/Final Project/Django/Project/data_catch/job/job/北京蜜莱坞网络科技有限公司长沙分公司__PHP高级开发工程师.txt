@@ -1,0 +1,1 @@
+{'company_name': '北京蜜莱坞网络科技有限公司长沙分公司', 'job_name': 'PHP高级开发工程师', 'geography': '长沙', 'bonus': ['餐饮补贴', '五险一金', '节日福利', '做五休二'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/changsha/128497297.html?rc=03'}

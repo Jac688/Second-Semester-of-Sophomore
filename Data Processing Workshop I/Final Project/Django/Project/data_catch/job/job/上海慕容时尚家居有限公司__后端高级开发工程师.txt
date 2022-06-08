@@ -1,0 +1,1 @@
+{'company_name': '上海慕容时尚家居有限公司', 'job_name': '后端高级开发工程师', 'geography': '上海-杨浦区', 'bonus': ['上市公司', '地铁周边', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128999071.html?rc=03'}

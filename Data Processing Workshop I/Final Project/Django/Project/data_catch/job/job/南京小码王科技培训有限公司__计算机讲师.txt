@@ -1,0 +1,1 @@
+{'company_name': '南京小码王科技培训有限公司', 'job_name': '计算机讲师', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130701178.html?rc=03'}

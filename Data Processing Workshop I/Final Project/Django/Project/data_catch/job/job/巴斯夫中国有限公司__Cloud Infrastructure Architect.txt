@@ -1,0 +1,1 @@
+{'company_name': '巴斯夫中国有限公司', 'job_name': 'Cloud Infrastructure Architect', 'geography': '南京-秦淮区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131230855.html?rc=03'}

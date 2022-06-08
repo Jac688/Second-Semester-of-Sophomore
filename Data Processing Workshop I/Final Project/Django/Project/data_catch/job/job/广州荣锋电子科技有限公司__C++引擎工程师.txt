@@ -1,0 +1,1 @@
+{'company_name': '广州荣锋电子科技有限公司', 'job_name': 'C++引擎工程师', 'geography': '深圳', 'bonus': ['股票期权', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130800852.html?rc=03'}

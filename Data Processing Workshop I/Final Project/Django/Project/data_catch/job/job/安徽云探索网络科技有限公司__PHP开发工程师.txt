@@ -1,0 +1,1 @@
+{'company_name': '安徽云探索网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '合肥-蜀山区', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/hefei/127861800.html?rc=03'}

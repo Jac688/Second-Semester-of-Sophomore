@@ -1,0 +1,1 @@
+{'company_name': '宝龙酒店', 'job_name': 'IT系统运维经理酒店电商互联网', 'geography': '上海-闵行区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130734952.html?rc=03'}

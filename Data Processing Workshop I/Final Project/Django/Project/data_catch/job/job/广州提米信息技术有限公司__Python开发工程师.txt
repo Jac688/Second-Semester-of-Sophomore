@@ -1,0 +1,1 @@
+{'company_name': '广州提米信息技术有限公司', 'job_name': 'Python开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '年终奖金', '周末双休'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131756006.html?rc=03'}

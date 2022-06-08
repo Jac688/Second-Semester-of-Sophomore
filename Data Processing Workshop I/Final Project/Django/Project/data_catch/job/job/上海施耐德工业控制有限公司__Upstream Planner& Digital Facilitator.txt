@@ -1,0 +1,1 @@
+{'company_name': '上海施耐德工业控制有限公司', 'job_name': 'Upstream Planner& Digital Facilitator', 'geography': '上海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128714214.html?rc=03'}

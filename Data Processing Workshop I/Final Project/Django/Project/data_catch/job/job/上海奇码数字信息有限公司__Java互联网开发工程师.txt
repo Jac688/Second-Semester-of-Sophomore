@@ -1,0 +1,1 @@
+{'company_name': '上海奇码数字信息有限公司', 'job_name': 'Java互联网开发工程师', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/82292806.html?rc=03'}

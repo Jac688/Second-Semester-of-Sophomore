@@ -1,0 +1,1 @@
+{'company_name': '上海天正软件有限公司', 'job_name': '初级Java工程师 J10087', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '专业培训'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132077999.html?rc=03'}

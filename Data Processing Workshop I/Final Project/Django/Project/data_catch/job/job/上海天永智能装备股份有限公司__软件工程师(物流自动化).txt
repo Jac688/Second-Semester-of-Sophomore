@@ -1,0 +1,1 @@
+{'company_name': '上海天永智能装备股份有限公司', 'job_name': '软件工程师(物流自动化)', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '免费班车', '员工旅游', '交通补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127816499.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州市宏意星计算机系统服务有限公司', 'job_name': '北京-服务器运维Windows和Microsoft Azure', 'geography': '北京', 'bonus': ['五险一金', '带薪年假', '节日福利'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130977778.html?rc=03'}

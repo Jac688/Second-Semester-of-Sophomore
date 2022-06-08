@@ -1,0 +1,1 @@
+{'company_name': '上海锐澳RIO酒业营销有限公司', 'job_name': '数据分析经理', 'geography': '上海', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123848004.html?rc=03'}

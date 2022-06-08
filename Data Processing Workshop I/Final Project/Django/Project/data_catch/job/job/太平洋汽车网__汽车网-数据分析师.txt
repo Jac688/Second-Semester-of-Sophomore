@@ -1,0 +1,1 @@
+{'company_name': '太平洋汽车网', 'job_name': '汽车网-数据分析师', 'geography': '广州', 'bonus': ['五险一金', '免费班车', '员工旅游', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124967571.html?rc=03'}

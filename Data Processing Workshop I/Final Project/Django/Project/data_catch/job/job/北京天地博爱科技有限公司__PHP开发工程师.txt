@@ -1,0 +1,1 @@
+{'company_name': '北京天地博爱科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131188315.html?rc=03'}

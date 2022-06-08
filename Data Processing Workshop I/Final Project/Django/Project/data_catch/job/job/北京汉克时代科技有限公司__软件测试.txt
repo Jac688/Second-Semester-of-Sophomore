@@ -1,0 +1,1 @@
+{'company_name': '北京汉克时代科技有限公司', 'job_name': '软件测试', 'geography': '杭州-西湖区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/125273398.html?rc=03'}

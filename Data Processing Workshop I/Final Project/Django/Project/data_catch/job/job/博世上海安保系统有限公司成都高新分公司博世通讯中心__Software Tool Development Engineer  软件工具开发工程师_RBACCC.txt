@@ -1,0 +1,1 @@
+{'company_name': '博世上海安保系统有限公司成都高新分公司博世通讯中心', 'job_name': 'Software Tool Development Engineer  软件工具开发工程师_RBACCC', 'geography': '苏州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/127465585.html?rc=03'}

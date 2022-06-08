@@ -1,0 +1,1 @@
+{'company_name': '宁波电子口岸有限公司', 'job_name': '高级Java软件开发工程师', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '绩效奖金', '定期体检', '通讯补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131410813.html?rc=03'}

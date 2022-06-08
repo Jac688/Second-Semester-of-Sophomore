@@ -1,0 +1,1 @@
+{'company_name': '墨奇科技北京有限公司', 'job_name': '软件工程师 - C++ 开发', 'geography': '北京', 'bonus': [], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129431066.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海菁淇信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-长宁区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130300801.html?rc=03'}

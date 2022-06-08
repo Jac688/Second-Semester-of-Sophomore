@@ -1,0 +1,1 @@
+{'company_name': '上海贝瑞佳母婴专护服务股份有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121080672.html?rc=03'}

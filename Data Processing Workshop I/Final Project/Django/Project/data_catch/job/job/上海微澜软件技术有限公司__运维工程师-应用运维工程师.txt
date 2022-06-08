@@ -1,0 +1,1 @@
+{'company_name': '上海微澜软件技术有限公司', 'job_name': '运维工程师-应用运维工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130267761.html?rc=03'}

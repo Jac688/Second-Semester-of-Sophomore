@@ -1,0 +1,1 @@
+{'company_name': '上海云间半导体科技股份有限公司', 'job_name': '软件开发工程师', 'geography': '上海', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/102264907.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京信普达系统工程有限公司', 'job_name': '实施工程师', 'geography': '天津', 'bonus': ['五险一金', '专业培训', '定期体检', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130064766.html?rc=03'}

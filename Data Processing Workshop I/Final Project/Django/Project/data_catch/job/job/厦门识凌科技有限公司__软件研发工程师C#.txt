@@ -1,0 +1,1 @@
+{'company_name': '厦门识凌科技有限公司', 'job_name': '软件研发工程师C#', 'geography': '厦门', 'bonus': ['参与项目奖励', '五险一金', '员工旅游', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/99091692.html?rc=03'}

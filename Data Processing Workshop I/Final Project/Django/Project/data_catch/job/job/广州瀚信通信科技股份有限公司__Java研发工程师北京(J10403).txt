@@ -1,0 +1,1 @@
+{'company_name': '广州瀚信通信科技股份有限公司', 'job_name': 'Java研发工程师北京(J10403)', 'geography': '北京-海淀区', 'bonus': ['周末双休', '五险一金', '节日福利', '高温补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130569732.html?rc=03'}

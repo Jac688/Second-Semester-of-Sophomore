@@ -1,0 +1,1 @@
+{'company_name': '上海纵立软件技术有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/97851879.html?rc=03'}

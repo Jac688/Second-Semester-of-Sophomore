@@ -1,0 +1,1 @@
+{'company_name': '宁波均胜群英汽车系统股份有限公司', 'job_name': '软件开发工程师2021届', 'geography': '异地招聘', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125795186.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京中科江南信息技术股份有限公司', 'job_name': 'C++高级开发工程师北京入职', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127578633.html?rc=03'}

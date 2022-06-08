@@ -1,0 +1,1 @@
+{'company_name': '上海鹏越惊虹信息技术发展有限公司', 'job_name': '渗透测试代码审计工程师', 'geography': '上海', 'bonus': ['五险一金', '通讯补贴', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/100889153.html?rc=03'}

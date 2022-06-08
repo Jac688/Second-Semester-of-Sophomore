@@ -1,0 +1,1 @@
+{'company_name': '广东凯捷商业数据处理服务有限公司', 'job_name': 'RPA Developer Intern 软件开发实习生', 'geography': '佛山', 'bonus': ['免费班车', '专业培训', '弹性工作'], 'salary': 0.25, 'detail_url': 'https://msearch.51job.com/jobs/foshan/95444624.html?rc=03'}

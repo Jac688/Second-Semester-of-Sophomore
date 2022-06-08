@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后端(资深)开发工程师 - 增长中台', 'geography': '上海', 'bonus': ['下午茶', '六险一金', '股票期权', '团队氛围好'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123753841.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京兰亭数字科技有限公司', 'job_name': '测试工程师', 'geography': '杭州-江干区', 'bonus': ['五险一金', '周末双休', '弹性工作'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128972802.html?rc=03'}

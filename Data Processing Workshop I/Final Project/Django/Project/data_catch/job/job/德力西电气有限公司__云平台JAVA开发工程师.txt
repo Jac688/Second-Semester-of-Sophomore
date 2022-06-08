@@ -1,0 +1,1 @@
+{'company_name': '德力西电气有限公司', 'job_name': '云平台JAVA开发工程师', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '年终奖金', '定期体检', '周末双休'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132066083.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海舢舟信息科技合伙企业普通合伙', 'job_name': 'Java中级开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '年终奖金', '弹性工作', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130811476.html?rc=03'}

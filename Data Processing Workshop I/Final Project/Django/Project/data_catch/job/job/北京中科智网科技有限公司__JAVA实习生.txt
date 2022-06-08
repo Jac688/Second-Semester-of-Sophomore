@@ -1,0 +1,1 @@
+{'company_name': '北京中科智网科技有限公司', 'job_name': 'JAVA实习生', 'geography': '北京-海淀区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126845683.html?rc=03'}

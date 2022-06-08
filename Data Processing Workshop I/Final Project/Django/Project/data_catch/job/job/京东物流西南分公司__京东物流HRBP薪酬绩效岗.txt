@@ -1,0 +1,1 @@
+{'company_name': '京东物流西南分公司', 'job_name': '京东物流HRBP薪酬绩效岗', 'geography': '重庆-巴南区', 'bonus': ['年终奖金', '周末双休', '餐饮补贴', '补充医疗保险'], 'salary': 0.55, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129815738.html?rc=03'}

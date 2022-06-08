@@ -1,0 +1,1 @@
+{'company_name': '广州亿速云计算有限公司', 'job_name': '高级PHP 开发工程师', 'geography': '广州-越秀区', 'bonus': ['五险一金', '绩效奖金', '弹性工作', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/107630323.html?rc=03'}

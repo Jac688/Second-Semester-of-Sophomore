@@ -1,0 +1,1 @@
+{'company_name': '万亿运营深圳科技有限责任公司', 'job_name': 'JAVA资深后端工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/112753385.html?rc=03'}

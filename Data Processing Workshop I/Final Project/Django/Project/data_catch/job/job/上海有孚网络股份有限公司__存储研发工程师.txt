@@ -1,0 +1,1 @@
+{'company_name': '上海有孚网络股份有限公司', 'job_name': '存储研发工程师', 'geography': '上海', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128899954.html?rc=03'}

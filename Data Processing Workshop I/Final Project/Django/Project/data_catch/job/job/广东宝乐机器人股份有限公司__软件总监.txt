@@ -1,0 +1,1 @@
+{'company_name': '广东宝乐机器人股份有限公司', 'job_name': '软件总监', 'geography': '广州-番禺区', 'bonus': ['五险一金', '专业培训', '出国机会', '绩效奖金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128040862.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海古猿科技有限公司', 'job_name': 'Java开发(B站F', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '节假日福利', '补充医疗保险', '免费体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131661518.html?rc=03'}

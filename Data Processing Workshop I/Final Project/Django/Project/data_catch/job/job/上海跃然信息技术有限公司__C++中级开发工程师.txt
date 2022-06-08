@@ -1,0 +1,1 @@
+{'company_name': '上海跃然信息技术有限公司', 'job_name': 'C++中级开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '弹性工作', '年终奖金', '股票期权'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131600136.html?rc=03'}

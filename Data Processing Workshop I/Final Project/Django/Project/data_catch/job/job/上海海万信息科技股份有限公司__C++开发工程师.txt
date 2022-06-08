@@ -1,0 +1,1 @@
+{'company_name': '上海海万信息科技股份有限公司', 'job_name': 'C++开发工程师', 'geography': '无锡-无锡新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/130313690.html?rc=03'}

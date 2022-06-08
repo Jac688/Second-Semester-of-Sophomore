@@ -1,0 +1,1 @@
+{'company_name': '北京华锐视点数字科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '太原-小店区', 'bonus': ['绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/taiyuan/124573875.html?rc=03'}

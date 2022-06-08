@@ -1,0 +1,1 @@
+{'company_name': '威盛电子上海有限公司', 'job_name': 'C++开发工程师', 'geography': '上海-浦东新区', 'bonus': ['弹性工作', '商业保险', '补充公积金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131490579.html?rc=03'}

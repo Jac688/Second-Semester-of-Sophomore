@@ -1,0 +1,1 @@
+{'company_name': '广东圣大电子有限公司', 'job_name': '软件工程师QT方向', 'geography': '佛山', 'bonus': ['五险一金', '年终奖金', '饭堂，宿舍', '大小周工作制'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/132352939.html?rc=03'}

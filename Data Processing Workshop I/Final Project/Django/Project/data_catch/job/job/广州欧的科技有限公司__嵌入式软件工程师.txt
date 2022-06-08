@@ -1,0 +1,1 @@
+{'company_name': '广州欧的科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '广州-白云区', 'bonus': ['绩效奖金', '全勤奖', '节日福利', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/113679437.html?rc=03'}

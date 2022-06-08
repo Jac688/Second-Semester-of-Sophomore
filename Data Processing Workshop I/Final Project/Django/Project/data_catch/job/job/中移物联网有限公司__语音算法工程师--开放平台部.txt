@@ -1,0 +1,1 @@
+{'company_name': '中移物联网有限公司', 'job_name': '语音算法工程师--开放平台部', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/113330907.html?rc=03'}

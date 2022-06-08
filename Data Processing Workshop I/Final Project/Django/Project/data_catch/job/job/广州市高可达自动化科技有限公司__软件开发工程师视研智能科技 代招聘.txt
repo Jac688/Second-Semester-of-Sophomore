@@ -1,0 +1,1 @@
+{'company_name': '广州市高可达自动化科技有限公司', 'job_name': '软件开发工程师视研智能科技 代招聘', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '交通补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/127740826.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京迈特望科技股份有限公司', 'job_name': 'Java开发工程师xm', 'geography': '厦门-思明区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/131834149.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '亚信科技CMC', 'job_name': 'Java高级开发工程师，技术主管', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '通讯补贴', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131026944.html?rc=03'}

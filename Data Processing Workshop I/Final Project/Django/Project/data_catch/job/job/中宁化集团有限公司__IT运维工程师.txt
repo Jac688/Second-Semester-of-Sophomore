@@ -1,0 +1,1 @@
+{'company_name': '中宁化集团有限公司', 'job_name': 'IT运维工程师', 'geography': '宁波-鄞州区', 'bonus': ['节日福利', '五险一金', '周末双休'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/132343191.html?rc=03'}

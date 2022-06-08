@@ -1,0 +1,1 @@
+{'company_name': '上海瑞禾通讯技术有限公司', 'job_name': '福州45G后台优化工程师', 'geography': '福州-闽侯县', 'bonus': ['包住', '定期体检', '五险一金', '补充医疗保险'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/131123786.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州咨元信息科技有限公司', 'job_name': '软件测试工程师', 'geography': '成都', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '弹性工作'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/123936164.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州碧软信息科技有限公司', 'job_name': '后端开发工程师', 'geography': '佛山-顺德区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/128727881.html?rc=03'}

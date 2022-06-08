@@ -1,0 +1,1 @@
+{'company_name': '北京国双科技有限公司', 'job_name': 'GO开发工程师', 'geography': '深圳', 'bonus': ['补充医疗保险', '绩效奖金', '五险一金', '带薪年假'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131774019.html?rc=03'}

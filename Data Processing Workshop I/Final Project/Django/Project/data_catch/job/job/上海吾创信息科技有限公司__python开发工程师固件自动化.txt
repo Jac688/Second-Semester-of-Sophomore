@@ -1,0 +1,1 @@
+{'company_name': '上海吾创信息科技有限公司', 'job_name': 'python开发工程师固件自动化', 'geography': '上海-杨浦区', 'bonus': ['带薪年假', '五险一金', '节日福利', '周末双休'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130736603.html?rc=03'}

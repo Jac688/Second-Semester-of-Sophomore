@@ -1,0 +1,1 @@
+{'company_name': '上海同驭汽车科技有限公司', 'job_name': '底层软件工程师', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/106138079.html?rc=03'}

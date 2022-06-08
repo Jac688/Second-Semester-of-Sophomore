@@ -1,0 +1,1 @@
+{'company_name': '广州中国科学院软件应用技术研究所', 'job_name': '技术服务工程师中科实数', 'geography': '北京-海淀区', 'bonus': ['年终奖金', '绩效奖金', '五险一金', '定期体检'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129054083.html?rc=03'}

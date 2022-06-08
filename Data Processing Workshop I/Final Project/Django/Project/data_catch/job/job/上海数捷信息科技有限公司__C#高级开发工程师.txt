@@ -1,0 +1,1 @@
+{'company_name': '上海数捷信息科技有限公司', 'job_name': 'C#高级开发工程师', 'geography': '上海-浦东新区', 'bonus': ['弹性工作', '餐饮补贴', '下午茶', '节日关怀'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123532291.html?rc=03'}

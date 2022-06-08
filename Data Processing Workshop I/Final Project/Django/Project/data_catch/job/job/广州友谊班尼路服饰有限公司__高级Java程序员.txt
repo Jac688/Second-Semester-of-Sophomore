@@ -1,0 +1,1 @@
+{'company_name': '广州友谊班尼路服饰有限公司', 'job_name': '高级Java程序员', 'geography': '广州', 'bonus': ['五险一金', '补充医疗保险', '周末双休', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124730626.html?rc=03'}

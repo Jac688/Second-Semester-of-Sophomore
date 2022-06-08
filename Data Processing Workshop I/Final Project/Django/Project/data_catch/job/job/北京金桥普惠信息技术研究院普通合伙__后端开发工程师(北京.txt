@@ -1,0 +1,1 @@
+{'company_name': '北京金桥普惠信息技术研究院普通合伙', 'job_name': '后端开发工程师(北京', 'geography': '天津-西青区', 'bonus': [], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130638909.html?rc=03'}

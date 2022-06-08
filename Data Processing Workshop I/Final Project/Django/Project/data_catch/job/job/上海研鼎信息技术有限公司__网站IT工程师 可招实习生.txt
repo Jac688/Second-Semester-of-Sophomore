@@ -1,0 +1,1 @@
+{'company_name': '上海研鼎信息技术有限公司', 'job_name': '网站IT工程师 可招实习生', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '做五休二', '带薪年假', '周末双休'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122388133.html?rc=03'}

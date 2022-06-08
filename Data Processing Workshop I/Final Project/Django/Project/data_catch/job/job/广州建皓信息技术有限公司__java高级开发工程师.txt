@@ -1,0 +1,1 @@
+{'company_name': '广州建皓信息技术有限公司', 'job_name': 'java高级开发工程师', 'geography': '佛山-南海区', 'bonus': ['周末双休', '五险一金', '包吃'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/125060211.html?rc=03'}

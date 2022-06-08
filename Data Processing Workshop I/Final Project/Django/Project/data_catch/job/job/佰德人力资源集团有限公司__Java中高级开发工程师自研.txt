@@ -1,0 +1,1 @@
+{'company_name': '佰德人力资源集团有限公司', 'job_name': 'Java中高级开发工程师自研', 'geography': '南京-鼓楼区', 'bonus': ['五险一金', '绩效奖金'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129722560.html?rc=03'}

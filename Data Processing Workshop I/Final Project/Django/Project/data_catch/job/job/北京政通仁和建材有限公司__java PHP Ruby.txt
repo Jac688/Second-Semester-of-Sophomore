@@ -1,0 +1,1 @@
+{'company_name': '北京政通仁和建材有限公司', 'job_name': 'java PHP Ruby', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/115311419.html?rc=03'}

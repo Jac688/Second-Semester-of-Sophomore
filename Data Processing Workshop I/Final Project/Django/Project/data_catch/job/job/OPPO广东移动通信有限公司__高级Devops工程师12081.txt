@@ -1,0 +1,1 @@
+{'company_name': 'OPPO广东移动通信有限公司', 'job_name': '高级Devops工程师12081', 'geography': '成都-武侯区', 'bonus': ['股票期权', '绩效奖金', '带薪年假', '交通补助'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130653979.html?rc=03'}

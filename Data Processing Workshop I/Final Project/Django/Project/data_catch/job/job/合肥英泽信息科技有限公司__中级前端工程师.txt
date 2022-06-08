@@ -1,0 +1,1 @@
+{'company_name': '合肥英泽信息科技有限公司', 'job_name': '中级前端工程师', 'geography': '北京-西城区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131886813.html?rc=03'}

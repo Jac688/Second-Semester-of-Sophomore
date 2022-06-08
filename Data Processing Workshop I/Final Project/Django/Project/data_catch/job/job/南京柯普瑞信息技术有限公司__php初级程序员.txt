@@ -1,0 +1,1 @@
+{'company_name': '南京柯普瑞信息技术有限公司', 'job_name': 'php初级程序员', 'geography': '南京', 'bonus': ['五险一金', '员工旅游', '免费班车', '年终奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/94326510.html?rc=03'}

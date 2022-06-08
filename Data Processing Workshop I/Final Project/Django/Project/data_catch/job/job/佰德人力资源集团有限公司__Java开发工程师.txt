@@ -1,0 +1,1 @@
+{'company_name': '佰德人力资源集团有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129214378.html?rc=03'}

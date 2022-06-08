@@ -1,0 +1,1 @@
+{'company_name': '上海致物通信科技有限公司', 'job_name': 'Linux驱动软件工程师', 'geography': '上海-黄浦区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/53326358.html?rc=03'}

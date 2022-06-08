@@ -1,0 +1,1 @@
+{'company_name': '北京捷世智通科技股份有限公司', 'job_name': '软件工程师', 'geography': '北京-丰台区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131597328.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波君莱电器有限公司', 'job_name': '单片机开发工程师(包住)', 'geography': '宁波-余姚市', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/123618163.html?rc=03'}

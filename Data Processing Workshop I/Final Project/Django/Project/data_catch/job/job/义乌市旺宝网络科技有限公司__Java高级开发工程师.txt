@@ -1,0 +1,1 @@
+{'company_name': '义乌市旺宝网络科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '台州-仙居县', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/taizhoue/127763822.html?rc=03'}

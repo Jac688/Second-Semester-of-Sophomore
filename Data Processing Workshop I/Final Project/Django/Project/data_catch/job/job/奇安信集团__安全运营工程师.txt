@@ -1,0 +1,1 @@
+{'company_name': '奇安信集团', 'job_name': '安全运营工程师', 'geography': '珠海-珠海高新区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/126191102.html?rc=03'}

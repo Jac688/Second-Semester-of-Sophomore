@@ -1,0 +1,1 @@
+{'company_name': '慕思健康睡眠股份有限公司', 'job_name': 'JAVA高级架构师', 'geography': '异地招聘', 'bonus': ['包吃住', '绩效奖金', '五险一金', '专业培训'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128450612.html?rc=03'}

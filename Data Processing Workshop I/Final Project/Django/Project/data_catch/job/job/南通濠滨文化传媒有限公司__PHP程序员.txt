@@ -1,0 +1,1 @@
+{'company_name': '南通濠滨文化传媒有限公司', 'job_name': 'PHP程序员', 'geography': '南通', 'bonus': ['年终奖金', '员工旅游', '绩效奖金', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nantong/104762974.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京捷希科技有限公司', 'job_name': '射频测试工程师3GPP', 'geography': '南京-玄武区', 'bonus': ['五险一金', '绩效奖金', '定期体检', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130999372.html?rc=03'}

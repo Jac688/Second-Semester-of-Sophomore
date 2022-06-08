@@ -1,0 +1,1 @@
+{'company_name': '合树科技上海有限公司', 'job_name': '前端开发工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/129572355.html?rc=03'}

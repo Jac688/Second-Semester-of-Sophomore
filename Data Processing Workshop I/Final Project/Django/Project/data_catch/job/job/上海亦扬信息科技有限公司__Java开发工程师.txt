@@ -1,0 +1,1 @@
+{'company_name': '上海亦扬信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '盐城-亭湖区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '年终奖金'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/yancheng/131930769.html?rc=03'}

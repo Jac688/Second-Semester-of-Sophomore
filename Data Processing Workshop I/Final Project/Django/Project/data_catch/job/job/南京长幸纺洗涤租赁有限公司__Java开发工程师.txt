@@ -1,0 +1,1 @@
+{'company_name': '南京长幸纺洗涤租赁有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-江北新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130157906.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '参数信息技术佛山有限公司', 'job_name': 'C++开发工程师', 'geography': '佛山-禅城区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/119766689.html?rc=03'}

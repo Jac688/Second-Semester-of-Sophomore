@@ -1,0 +1,1 @@
+{'company_name': '山东省软件评测中心', 'job_name': '初级研发工程师', 'geography': '济南', 'bonus': ['五险一金', '绩效奖金', '专业培训', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130374717.html?rc=03'}

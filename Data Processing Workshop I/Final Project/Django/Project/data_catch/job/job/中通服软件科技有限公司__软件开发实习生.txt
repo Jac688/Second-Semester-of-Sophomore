@@ -1,0 +1,1 @@
+{'company_name': '中通服软件科技有限公司', 'job_name': '软件开发实习生', 'geography': '南宁', 'bonus': ['餐饮补贴', '补充公积金', '通讯补贴', '绩效奖金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/nanning/130955745.html?rc=03'}

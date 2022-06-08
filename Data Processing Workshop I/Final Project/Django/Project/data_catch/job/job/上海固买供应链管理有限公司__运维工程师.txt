@@ -1,0 +1,1 @@
+{'company_name': '上海固买供应链管理有限公司', 'job_name': '运维工程师', 'geography': '徐州', 'bonus': ['做五休二', '带薪年假', '五险一金', '节日福利'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/113297334.html?rc=03'}

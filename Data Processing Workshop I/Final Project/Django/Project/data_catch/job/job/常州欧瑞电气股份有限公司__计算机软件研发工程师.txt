@@ -1,0 +1,1 @@
+{'company_name': '常州欧瑞电气股份有限公司', 'job_name': '计算机软件研发工程师', 'geography': '常州-武进区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/117860887.html?rc=03'}

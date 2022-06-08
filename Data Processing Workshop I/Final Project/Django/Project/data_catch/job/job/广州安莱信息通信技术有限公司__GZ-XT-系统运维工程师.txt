@@ -1,0 +1,1 @@
+{'company_name': '广州安莱信息通信技术有限公司', 'job_name': 'GZ-XT-系统运维工程师', 'geography': '广州-越秀区', 'bonus': ['五险一金', '节日福利', '专业培训', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130121947.html?rc=03'}

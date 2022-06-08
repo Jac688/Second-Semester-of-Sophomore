@@ -1,0 +1,1 @@
+{'company_name': '万得信息技术股份有限公司', 'job_name': '资深C++软件工程师(TE0002)', 'geography': '苏州', 'bonus': ['周末双休', '弹性工作', '带薪年假', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/126896589.html?rc=03'}

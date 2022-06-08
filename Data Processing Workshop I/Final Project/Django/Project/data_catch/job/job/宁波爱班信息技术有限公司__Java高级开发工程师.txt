@@ -1,0 +1,1 @@
+{'company_name': '宁波爱班信息技术有限公司', 'job_name': 'Java高级开发工程师', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 0.08, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/78286777.html?rc=03'}

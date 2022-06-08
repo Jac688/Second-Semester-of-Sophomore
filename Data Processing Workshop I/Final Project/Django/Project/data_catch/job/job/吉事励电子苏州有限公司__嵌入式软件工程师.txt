@@ -1,0 +1,1 @@
+{'company_name': '吉事励电子苏州有限公司', 'job_name': '嵌入式软件工程师', 'geography': '苏州-高新区', 'bonus': ['五险一金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/111178598.html?rc=03'}

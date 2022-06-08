@@ -1,0 +1,1 @@
+{'company_name': '北京威尔赢管理咨询有限公司', 'job_name': '课程销售顾问', 'geography': '北京-顺义区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130065538.html?rc=03'}

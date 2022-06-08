@@ -1,0 +1,1 @@
+{'company_name': '佳都新太科技股份有限公司', 'job_name': '数据科学家智能运维算法专家', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '餐饮补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128472612.html?rc=03'}

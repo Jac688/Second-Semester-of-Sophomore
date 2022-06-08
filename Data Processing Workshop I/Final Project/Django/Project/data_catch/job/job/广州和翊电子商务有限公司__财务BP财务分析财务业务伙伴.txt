@@ -1,0 +1,1 @@
+{'company_name': '广州和翊电子商务有限公司', 'job_name': '财务BP财务分析财务业务伙伴', 'geography': '广州-白云区', 'bonus': ['全勤奖', '餐饮补贴', '带薪年假', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129794229.html?rc=03'}

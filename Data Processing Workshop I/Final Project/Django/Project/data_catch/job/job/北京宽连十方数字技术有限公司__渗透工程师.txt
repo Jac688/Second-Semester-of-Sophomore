@@ -1,0 +1,1 @@
+{'company_name': '北京宽连十方数字技术有限公司', 'job_name': '渗透工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129841457.html?rc=03'}

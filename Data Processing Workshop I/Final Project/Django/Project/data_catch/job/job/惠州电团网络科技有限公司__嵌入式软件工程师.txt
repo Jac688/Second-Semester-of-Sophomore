@@ -1,0 +1,1 @@
+{'company_name': '惠州电团网络科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129113199.html?rc=03'}

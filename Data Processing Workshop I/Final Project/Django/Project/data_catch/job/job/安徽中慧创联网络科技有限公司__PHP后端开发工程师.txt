@@ -1,0 +1,1 @@
+{'company_name': '安徽中慧创联网络科技有限公司', 'job_name': 'PHP后端开发工程师', 'geography': '安庆', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/anqing/131651043.html?rc=03'}

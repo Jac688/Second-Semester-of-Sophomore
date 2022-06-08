@@ -1,0 +1,1 @@
+{'company_name': '南京宁汇智能科技有限公司', 'job_name': '高级嵌入式软件开发工程师', 'geography': '南京-江宁区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/117378844.html?rc=03'}

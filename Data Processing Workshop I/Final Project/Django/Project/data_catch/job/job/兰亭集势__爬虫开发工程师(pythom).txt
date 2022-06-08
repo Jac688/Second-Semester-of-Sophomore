@@ -1,0 +1,1 @@
+{'company_name': '兰亭集势', 'job_name': '爬虫开发工程师(pythom)', 'geography': '成都', 'bonus': [], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124821730.html?rc=03'}

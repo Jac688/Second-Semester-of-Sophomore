@@ -1,0 +1,1 @@
+{'company_name': '三七互娱', 'job_name': 'JAVA服务端主程', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/127052459.html?rc=03'}

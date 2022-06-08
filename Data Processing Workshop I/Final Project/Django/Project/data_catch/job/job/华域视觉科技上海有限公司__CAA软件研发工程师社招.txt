@@ -1,0 +1,1 @@
+{'company_name': '华域视觉科技上海有限公司', 'job_name': 'CAA软件研发工程师社招', 'geography': '上海', 'bonus': ['五险一金', '专业培训', '定期体检', '周末双休'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130723158.html?rc=03'}

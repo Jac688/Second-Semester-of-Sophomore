@@ -1,0 +1,1 @@
+{'company_name': '南宁艾科普实验设备有限责任公司', 'job_name': 'PHP开发工程师急聘', 'geography': '南宁', 'bonus': ['员工旅游', '专业培训', '年终奖金', '带薪年假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/115609515.html?rc=03'}

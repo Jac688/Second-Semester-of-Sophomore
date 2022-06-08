@@ -1,0 +1,1 @@
+{'company_name': '中科院软件研究所南京软件技术研究院', 'job_name': '1.Python后端开发工程师', 'geography': '南京', 'bonus': ['五险一金', '定期体检', '绩效奖金', '年底双薪'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130844062.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '厦门银行股份有限公司', 'job_name': '总行信息技术部——技术架构岗', 'geography': '厦门', 'bonus': ['五险一金', '定期体检', '年终奖金', '健身俱乐部'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/130598822.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '云南白药集团股份有限公司', 'job_name': '高级测试工程师', 'geography': '上海', 'bonus': ['五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127629876.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '常州华威电子有限公司', 'job_name': 'Java开发工程师(富烯科技)', 'geography': '常州-武进区', 'bonus': ['节日福利', '年终奖金', '包住宿', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/126159309.html?rc=03'}

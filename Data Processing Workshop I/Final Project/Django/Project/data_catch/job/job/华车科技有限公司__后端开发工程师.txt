@@ -1,0 +1,1 @@
+{'company_name': '华车科技有限公司', 'job_name': '后端开发工程师', 'geography': '佛山-禅城区', 'bonus': ['带薪年假', '五险一金', '餐饮补贴', '专业培训'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/foshan/130692972.html?rc=03'}

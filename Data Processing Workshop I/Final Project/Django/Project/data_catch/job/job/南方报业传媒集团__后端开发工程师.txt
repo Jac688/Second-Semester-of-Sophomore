@@ -1,0 +1,1 @@
+{'company_name': '南方报业传媒集团', 'job_name': '后端开发工程师', 'geography': '广州', 'bonus': ['五险一金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131752405.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '成都亚复玉科技有限公司', 'job_name': '初级Java开发工程师', 'geography': '成都-锦江区', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129467730.html?rc=03'}

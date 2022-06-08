@@ -1,0 +1,1 @@
+{'company_name': '南京奇蛙智能科技有限公司', 'job_name': 'JAVA工程师', 'geography': '南京', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/117973780.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京前鹏信息科技有限公司', 'job_name': 'java中级开发人员', 'geography': '南京-鼓楼区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132010775.html?rc=03'}

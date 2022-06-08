@@ -1,0 +1,1 @@
+{'company_name': '北京时代亿信科技股份有限公司', 'job_name': '高级软件开发工程师Java', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/75922291.html?rc=03'}

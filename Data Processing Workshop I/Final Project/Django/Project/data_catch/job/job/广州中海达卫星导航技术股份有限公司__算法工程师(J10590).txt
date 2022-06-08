@@ -1,0 +1,1 @@
+{'company_name': '广州中海达卫星导航技术股份有限公司', 'job_name': '算法工程师(J10590)', 'geography': '北京', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130470688.html?rc=03'}

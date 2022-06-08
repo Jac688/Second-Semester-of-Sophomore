@@ -1,0 +1,1 @@
+{'company_name': '宁波机智网络科技有限公司', 'job_name': '软件测试工程师', 'geography': '宁波-鄞州区', 'bonus': ['餐饮补贴', '专业培训', '节日福利', '高温补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/132281510.html?rc=03'}

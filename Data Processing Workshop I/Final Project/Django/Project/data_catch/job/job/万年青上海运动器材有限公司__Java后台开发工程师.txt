@@ -1,0 +1,1 @@
+{'company_name': '万年青上海运动器材有限公司', 'job_name': 'Java后台开发工程师', 'geography': '上海-青浦区', 'bonus': ['五险一金', '做五休二', '工作餐', '员工宿舍'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121216351.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波颐博科技有限公司', 'job_name': 'JAVA开发工程师', 'geography': '宁波', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '专业培训'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/53267288.html?rc=03'}

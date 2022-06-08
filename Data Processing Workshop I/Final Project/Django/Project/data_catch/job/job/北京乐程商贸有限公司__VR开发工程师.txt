@@ -1,0 +1,1 @@
+{'company_name': '北京乐程商贸有限公司', 'job_name': 'VR开发工程师', 'geography': '北京-朝阳区', 'bonus': ['周末双休', '带薪年假', '五险一金', '弹性工作'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131964925.html?rc=03'}

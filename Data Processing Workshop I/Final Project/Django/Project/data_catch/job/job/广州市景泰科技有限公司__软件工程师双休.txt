@@ -1,0 +1,1 @@
+{'company_name': '广州市景泰科技有限公司', 'job_name': '软件工程师双休', 'geography': '异地招聘', 'bonus': ['周末双休', '五险一金', '员工旅游', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132321417.html?rc=03'}

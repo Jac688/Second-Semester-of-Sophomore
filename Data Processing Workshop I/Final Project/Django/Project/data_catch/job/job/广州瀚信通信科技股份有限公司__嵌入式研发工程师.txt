@@ -1,0 +1,1 @@
+{'company_name': '广州瀚信通信科技股份有限公司', 'job_name': '嵌入式研发工程师', 'geography': '广州', 'bonus': ['周末双休', '五险一金', '节日福利', '高温补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129300196.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海至纯系统集成有限公司', 'job_name': 'JAVA软件工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130461114.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京中科泰佳电子科技有限公司', 'job_name': 'QT开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130604312.html?rc=03'}

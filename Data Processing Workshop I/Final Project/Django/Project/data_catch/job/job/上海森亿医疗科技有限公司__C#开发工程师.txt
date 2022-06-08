@@ -1,0 +1,1 @@
+{'company_name': '上海森亿医疗科技有限公司', 'job_name': 'C#开发工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130032416.html?rc=03'}

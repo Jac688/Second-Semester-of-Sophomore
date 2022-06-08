@@ -1,0 +1,1 @@
+{'company_name': '中国科学院生物与化学交叉研究中心', 'job_name': '方燕姗课题组研究助理', 'geography': '上海-浦东新区', 'bonus': ['人才公寓', '五险一金', '补充公积金', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/62509979.html?rc=03'}

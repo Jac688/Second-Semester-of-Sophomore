@@ -1,0 +1,1 @@
+{'company_name': '广州游雁网络科技有限公司', 'job_name': 'Java游戏服务端开发工程师', 'geography': '广州-天河区', 'bonus': ['员工旅游', '弹性工作', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/121096391.html?rc=03'}

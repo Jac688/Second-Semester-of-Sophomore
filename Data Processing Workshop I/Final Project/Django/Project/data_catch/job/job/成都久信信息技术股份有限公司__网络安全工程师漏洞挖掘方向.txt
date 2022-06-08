@@ -1,0 +1,1 @@
+{'company_name': '成都久信信息技术股份有限公司', 'job_name': '网络安全工程师漏洞挖掘方向', 'geography': '成都', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132039706.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '三盟科技股份有限公司', 'job_name': '大数据研发总监', 'geography': '广州-海珠区', 'bonus': ['五险一金', '周末双休', '带薪年假', '绩效奖金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130774474.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京青云科技股份有限公司', 'job_name': '后端工程师-C++成都', 'geography': '成都', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129943398.html?rc=03'}

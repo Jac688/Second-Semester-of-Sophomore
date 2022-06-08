@@ -1,0 +1,1 @@
+{'company_name': '大富科技安徽股份有限公司沙井分公司', 'job_name': 'Java高级开发工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130998482.html?rc=03'}

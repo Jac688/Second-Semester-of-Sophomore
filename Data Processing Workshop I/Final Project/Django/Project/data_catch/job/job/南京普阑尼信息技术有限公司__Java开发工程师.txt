@@ -1,0 +1,1 @@
+{'company_name': '南京普阑尼信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-玄武区', 'bonus': ['五险一金', '全勤奖', '节日福利', '交通补贴'], 'salary': 0.54, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131766965.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海泰锌智能科技有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/106822057.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '史塔克工业装备山东有限公司', 'job_name': 'C#C++软件工程师机器视觉', 'geography': '青岛-市北区', 'bonus': ['五险一金', '定期体检', '员工旅游', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/124703871.html?rc=03'}

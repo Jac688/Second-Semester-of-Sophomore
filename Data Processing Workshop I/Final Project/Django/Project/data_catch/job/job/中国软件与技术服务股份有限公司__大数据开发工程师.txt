@@ -1,0 +1,1 @@
+{'company_name': '中国软件与技术服务股份有限公司', 'job_name': '大数据开发工程师', 'geography': '北京-丰台区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131682862.html?rc=03'}

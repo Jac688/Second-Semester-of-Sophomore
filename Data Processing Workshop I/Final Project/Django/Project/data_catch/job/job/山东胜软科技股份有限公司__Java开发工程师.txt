@@ -1,0 +1,1 @@
+{'company_name': '山东胜软科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-天府新区', 'bonus': ['专业培训', '弹性工作', '绩效奖金', '员工旅游'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129046608.html?rc=03'}

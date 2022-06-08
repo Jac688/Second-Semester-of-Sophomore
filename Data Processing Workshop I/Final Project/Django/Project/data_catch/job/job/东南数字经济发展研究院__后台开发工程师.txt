@@ -1,0 +1,1 @@
+{'company_name': '东南数字经济发展研究院', 'job_name': '后台开发工程师', 'geography': '异地招聘', 'bonus': ['绩效奖金', '年终奖金', '五险一金', '出国机会'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/wenzhou/131190875.html?rc=03'}

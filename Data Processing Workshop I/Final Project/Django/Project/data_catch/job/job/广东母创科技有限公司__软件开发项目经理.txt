@@ -1,0 +1,1 @@
+{'company_name': '广东母创科技有限公司', 'job_name': '软件开发项目经理', 'geography': '异地招聘', 'bonus': ['社保', '专业培训', '出国机会', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129909595.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东乐心医疗电子股份有限公司', 'job_name': '嵌入式软件工程师DFM方向', 'geography': '中山', 'bonus': ['周末双休', '五险一金', '带薪年假', '有提成'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/127025167.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '佛山市科华智缝设备有限公司', 'job_name': '软件工程 运动控制类', 'geography': '异地招聘', 'bonus': [], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/126484822.html?rc=03'}

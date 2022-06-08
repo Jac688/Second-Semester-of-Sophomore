@@ -1,0 +1,1 @@
+{'company_name': '广州职康防护技术服务有限公司', 'job_name': '后端开发工程师', 'geography': '广州-海珠区', 'bonus': ['专业培训', '购买社保', '员工旅游', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123477955.html?rc=03'}

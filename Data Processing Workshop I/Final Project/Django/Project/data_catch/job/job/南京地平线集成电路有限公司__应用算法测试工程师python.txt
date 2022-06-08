@@ -1,0 +1,1 @@
+{'company_name': '南京地平线集成电路有限公司', 'job_name': '应用算法测试工程师python', 'geography': '南京-栖霞区', 'bonus': ['人工智能', '发展空间大', '带薪年假', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131326965.html?rc=03'}

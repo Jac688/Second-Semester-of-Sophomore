@@ -1,0 +1,1 @@
+{'company_name': '成都中亚通茂科技股份有限公司', 'job_name': 'QT高级开发工程师', 'geography': '成都', 'bonus': ['上市公司', '周末双休', '带薪年假', '年终奖金'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131457628.html?rc=03'}

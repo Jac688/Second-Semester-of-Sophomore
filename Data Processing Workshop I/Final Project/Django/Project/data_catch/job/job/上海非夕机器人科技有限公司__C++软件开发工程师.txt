@@ -1,0 +1,1 @@
+{'company_name': '上海非夕机器人科技有限公司', 'job_name': 'C++软件开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '年终奖金', '弹性工作', '硅谷团队'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127273052.html?rc=03'}

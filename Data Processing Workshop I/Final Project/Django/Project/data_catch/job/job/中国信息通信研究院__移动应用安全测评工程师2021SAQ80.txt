@@ -1,0 +1,1 @@
+{'company_name': '中国信息通信研究院', 'job_name': '移动应用安全测评工程师2021SAQ80', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129086731.html?rc=03'}

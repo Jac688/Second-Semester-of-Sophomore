@@ -1,0 +1,1 @@
+{'company_name': '北京中航安为科技有限公司', 'job_name': 'QTC++开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '出国机会', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124986820.html?rc=03'}

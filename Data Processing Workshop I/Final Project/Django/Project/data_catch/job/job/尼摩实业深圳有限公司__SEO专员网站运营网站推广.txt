@@ -1,0 +1,1 @@
+{'company_name': '尼摩实业深圳有限公司', 'job_name': 'SEO专员网站运营网站推广', 'geography': '深圳-龙华区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130460914.html?rc=03'}

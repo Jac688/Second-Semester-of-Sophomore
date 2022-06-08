@@ -1,0 +1,1 @@
+{'company_name': '上海润和信息技术服务有限公司', 'job_name': 'python工程师', 'geography': '上海-浦东新区', 'bonus': ['补充医疗保险', '五险一金', '免费班车', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126140398.html?rc=03'}

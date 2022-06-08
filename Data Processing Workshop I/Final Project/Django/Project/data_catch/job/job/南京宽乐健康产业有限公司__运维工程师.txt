@@ -1,0 +1,1 @@
+{'company_name': '南京宽乐健康产业有限公司', 'job_name': '运维工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '免费班车', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127090960.html?rc=03'}

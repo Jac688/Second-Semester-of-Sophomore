@@ -1,0 +1,1 @@
+{'company_name': '北京东方天澳科技发展有限公司', 'job_name': '技术支持工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131009805.html?rc=03'}

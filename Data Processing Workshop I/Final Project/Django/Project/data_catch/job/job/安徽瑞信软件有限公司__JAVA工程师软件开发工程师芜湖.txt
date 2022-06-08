@@ -1,0 +1,1 @@
+{'company_name': '安徽瑞信软件有限公司', 'job_name': 'JAVA工程师软件开发工程师芜湖', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '员工旅游', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/119137711.html?rc=03'}

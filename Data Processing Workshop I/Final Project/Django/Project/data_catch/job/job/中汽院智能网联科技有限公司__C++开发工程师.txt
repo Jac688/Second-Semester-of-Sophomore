@@ -1,0 +1,1 @@
+{'company_name': '中汽院智能网联科技有限公司', 'job_name': 'C++开发工程师', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '免费班车'], 'salary': 1.08, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129963839.html?rc=03'}

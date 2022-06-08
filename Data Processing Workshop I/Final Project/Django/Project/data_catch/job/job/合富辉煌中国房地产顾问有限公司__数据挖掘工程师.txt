@@ -1,0 +1,1 @@
+{'company_name': '合富辉煌中国房地产顾问有限公司', 'job_name': '数据挖掘工程师', 'geography': '广州', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130862686.html?rc=03'}

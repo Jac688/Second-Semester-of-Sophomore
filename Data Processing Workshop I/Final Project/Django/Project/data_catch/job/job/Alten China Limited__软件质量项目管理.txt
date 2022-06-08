@@ -1,0 +1,1 @@
+{'company_name': 'Alten China Limited', 'job_name': '软件质量项目管理', 'geography': '重庆-渝北区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/130933872.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波敢为互联网科技有限公司', 'job_name': '全栈工程师 Full-stack EngineerIT Partner', 'geography': '异地招聘', 'bonus': ['弹性工作', '目标奖金', '绩效奖金', '专业培训'], 'salary': 0.29, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124539421.html?rc=03'}

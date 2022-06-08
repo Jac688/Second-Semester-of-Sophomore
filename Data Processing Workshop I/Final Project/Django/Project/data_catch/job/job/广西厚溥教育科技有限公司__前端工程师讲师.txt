@@ -1,0 +1,1 @@
+{'company_name': '广西厚溥教育科技有限公司', 'job_name': '前端工程师讲师', 'geography': '梧州', 'bonus': ['年终奖金', '绩效奖金', '员工活动', '五险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wuzhou/115940485.html?rc=03'}

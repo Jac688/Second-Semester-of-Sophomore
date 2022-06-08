@@ -1,0 +1,1 @@
+{'company_name': '上海申北爱信诺航天信息有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/113655612.html?rc=03'}

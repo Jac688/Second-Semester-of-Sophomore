@@ -1,0 +1,1 @@
+{'company_name': '北京开科唯识技术股份有限公司', 'job_name': 'Java中级开发工程师', 'geography': '无锡-锡山区', 'bonus': ['五险一金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/132169036.html?rc=03'}

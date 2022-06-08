@@ -1,0 +1,1 @@
+{'company_name': '华南师训文化产业服务广州有限公司', 'job_name': 'java后端工程师  急招双休+入职买社保+地铁旁边', 'geography': '广州-番禺区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127279569.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京广厦网络技术股份公司', 'job_name': '研发工程师', 'geography': '北京', 'bonus': ['五险一金', '员工旅游', '专业培训', '出国机会'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131051570.html?rc=03'}

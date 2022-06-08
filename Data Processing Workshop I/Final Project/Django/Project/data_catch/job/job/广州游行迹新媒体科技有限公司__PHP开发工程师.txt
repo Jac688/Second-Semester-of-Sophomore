@@ -1,0 +1,1 @@
+{'company_name': '广州游行迹新媒体科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-越秀区', 'bonus': ['五险一金', '周末双休', '节日福利', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129561358.html?rc=03'}

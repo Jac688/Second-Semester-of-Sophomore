@@ -1,0 +1,1 @@
+{'company_name': '大宇宙信息创造中国有限公司', 'job_name': '高级软件开发工程师 对日', 'geography': '天津-南开区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/97628995.html?rc=03'}

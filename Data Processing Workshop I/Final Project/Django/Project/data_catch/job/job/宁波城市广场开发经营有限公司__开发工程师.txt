@@ -1,0 +1,1 @@
+{'company_name': '宁波城市广场开发经营有限公司', 'job_name': '开发工程师', 'geography': '宁波-海曙区', 'bonus': ['五险一金', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131361197.html?rc=03'}

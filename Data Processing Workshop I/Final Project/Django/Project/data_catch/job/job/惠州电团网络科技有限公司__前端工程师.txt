@@ -1,0 +1,1 @@
+{'company_name': '惠州电团网络科技有限公司', 'job_name': '前端工程师', 'geography': '惠州-惠阳区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/124835459.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '奈雪的茶', 'job_name': '数据分析师', 'geography': '北京-朝阳区', 'bonus': ['员工旅游', '年终奖金', '五险', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126998085.html?rc=03'}

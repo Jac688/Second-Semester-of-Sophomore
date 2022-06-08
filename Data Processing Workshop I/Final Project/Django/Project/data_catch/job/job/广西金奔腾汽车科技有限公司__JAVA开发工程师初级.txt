@@ -1,0 +1,1 @@
+{'company_name': '广西金奔腾汽车科技有限公司', 'job_name': 'JAVA开发工程师初级', 'geography': '异地招聘', 'bonus': ['餐饮补贴', '员工旅游', '定期体检', '五险'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangxi/128983776.html?rc=03'}

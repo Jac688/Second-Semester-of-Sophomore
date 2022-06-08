@@ -1,0 +1,1 @@
+{'company_name': '上海恩方信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '嘉兴', 'bonus': ['绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/125925129.html?rc=03'}

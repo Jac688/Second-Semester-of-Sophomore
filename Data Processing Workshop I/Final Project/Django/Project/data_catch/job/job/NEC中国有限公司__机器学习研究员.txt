@@ -1,0 +1,1 @@
+{'company_name': 'NEC中国有限公司', 'job_name': '机器学习研究员', 'geography': '北京-朝阳区', 'bonus': ['做五休二', '五险一金', '带薪年假', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/115798980.html?rc=03'}

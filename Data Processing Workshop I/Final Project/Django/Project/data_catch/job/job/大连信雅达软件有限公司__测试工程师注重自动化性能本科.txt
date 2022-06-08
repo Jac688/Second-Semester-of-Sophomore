@@ -1,0 +1,1 @@
+{'company_name': '大连信雅达软件有限公司', 'job_name': '测试工程师注重自动化性能本科', 'geography': '杭州-上城区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128877736.html?rc=03'}

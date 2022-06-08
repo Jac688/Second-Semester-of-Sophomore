@@ -1,0 +1,1 @@
+{'company_name': '广州一棵大树贸易有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-番禺区', 'bonus': ['员工旅游', '绩效奖金', '年终奖金', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126740703.html?rc=03'}

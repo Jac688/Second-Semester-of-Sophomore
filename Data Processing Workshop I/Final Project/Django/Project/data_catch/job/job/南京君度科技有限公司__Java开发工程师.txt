@@ -1,0 +1,1 @@
+{'company_name': '南京君度科技有限公司', 'job_name': 'Java开发工程师', 'geography': '南京', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130971760.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京市朝阳区人力资源服务促进会', 'job_name': '测试开发实习生', 'geography': '北京', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129722372.html?rc=03'}

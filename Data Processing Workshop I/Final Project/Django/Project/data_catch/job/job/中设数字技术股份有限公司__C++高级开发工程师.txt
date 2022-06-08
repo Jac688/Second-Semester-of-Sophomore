@@ -1,0 +1,1 @@
+{'company_name': '中设数字技术股份有限公司', 'job_name': 'C++高级开发工程师', 'geography': '武汉', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/126595547.html?rc=03'}

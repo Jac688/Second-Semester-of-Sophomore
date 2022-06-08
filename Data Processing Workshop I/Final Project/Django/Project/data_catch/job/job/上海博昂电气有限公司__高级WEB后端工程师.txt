@@ -1,0 +1,1 @@
+{'company_name': '上海博昂电气有限公司', 'job_name': '高级WEB后端工程师', 'geography': '上海-金山区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/107033175.html?rc=03'}

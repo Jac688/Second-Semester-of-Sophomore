@@ -1,0 +1,1 @@
+{'company_name': '山东融为信息科技有限公司', 'job_name': '项目经理双休六险一金绩效奖金', 'geography': '济南-高新区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/129394572.html?rc=03'}

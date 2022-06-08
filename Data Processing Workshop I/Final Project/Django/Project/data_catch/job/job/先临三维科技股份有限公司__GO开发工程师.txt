@@ -1,0 +1,1 @@
+{'company_name': '先临三维科技股份有限公司', 'job_name': 'GO开发工程师', 'geography': '杭州-萧山区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/108577302.html?rc=03'}

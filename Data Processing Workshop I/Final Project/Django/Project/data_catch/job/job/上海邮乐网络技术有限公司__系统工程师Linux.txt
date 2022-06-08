@@ -1,0 +1,1 @@
+{'company_name': '上海邮乐网络技术有限公司', 'job_name': '系统工程师Linux', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/77870355.html?rc=03'}

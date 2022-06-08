@@ -1,0 +1,1 @@
+{'company_name': '中联重科建筑起重机械分公司', 'job_name': '营销管理运营经理西南', 'geography': '成都-武侯区', 'bonus': ['五险一金', '免费班车', '定期体检', '包吃'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131356063.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京令才科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '合肥-包河区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hefei/132001504.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '功力机器有限公司', 'job_name': 'JAVA工程师山东产研智能电机研究院有限公司', 'geography': '淄博', 'bonus': ['五险一金', '免费班车', '包住宿', '节日福利'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/zibo/130741640.html?rc=03'}

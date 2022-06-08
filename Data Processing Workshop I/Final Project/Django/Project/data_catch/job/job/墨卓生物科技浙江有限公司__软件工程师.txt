@@ -1,0 +1,1 @@
+{'company_name': '墨卓生物科技浙江有限公司', 'job_name': '软件工程师', 'geography': '嘉兴-桐乡市', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/128723351.html?rc=03'}

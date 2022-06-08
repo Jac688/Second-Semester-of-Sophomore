@@ -1,0 +1,1 @@
+{'company_name': '东华医为科技有限公司', 'job_name': '大数据基础软件高级开发工程师', 'geography': '天津', 'bonus': ['补充医疗保险', '定期体检', '弹性工作', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/122390682.html?rc=03'}

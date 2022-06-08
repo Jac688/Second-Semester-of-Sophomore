@@ -1,0 +1,1 @@
+{'company_name': '成都中联华睿人工智能科技有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-高新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129782441.html?rc=03'}

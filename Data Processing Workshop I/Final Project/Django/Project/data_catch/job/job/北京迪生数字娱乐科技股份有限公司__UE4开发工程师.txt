@@ -1,0 +1,1 @@
+{'company_name': '北京迪生数字娱乐科技股份有限公司', 'job_name': 'UE4开发工程师', 'geography': '北京-石景山区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/122268061.html?rc=03'}

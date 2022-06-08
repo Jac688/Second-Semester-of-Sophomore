@@ -1,0 +1,1 @@
+{'company_name': '广东小器点科技有限公司', 'job_name': 'Java开发工程师熵云子公司', 'geography': '佛山-顺德区', 'bonus': ['加班补贴', '绩效奖金', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131817322.html?rc=03'}

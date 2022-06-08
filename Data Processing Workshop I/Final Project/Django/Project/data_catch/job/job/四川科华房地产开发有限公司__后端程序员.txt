@@ -1,0 +1,1 @@
+{'company_name': '四川科华房地产开发有限公司', 'job_name': '后端程序员', 'geography': '成都-高新区', 'bonus': ['周末双休', '绩效奖金'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/122737879.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海塔人网络科技股份有限公司', 'job_name': '合金H5 C++研发工程师', 'geography': '上海-浦东新区', 'bonus': ['员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/111746148.html?rc=03'}

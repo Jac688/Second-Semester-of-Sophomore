@@ -1,0 +1,1 @@
+{'company_name': '四川联通——雅安市分公司', 'job_name': '互联网营销策划', 'geography': '雅安', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/yaan/129450616.html?rc=03'}

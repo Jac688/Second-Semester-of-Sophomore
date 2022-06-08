@@ -1,0 +1,1 @@
+{'company_name': '创业慧康科技股份有限公司', 'job_name': '高级JAVA程序员-溧水区招', 'geography': '南京-溧水区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/85970725.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海吉祥航空股份有限公司', 'job_name': '后端开发工程师JAVA', 'geography': '上海-闵行区', 'bonus': ['五险一金', '定期体检', '免费班车', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129441079.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州创力信息科技有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '广州-番禺区', 'bonus': ['员工旅游', '餐饮补贴', '五险一金', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/100657609.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '东莞市丹威智能科技有限公司', 'job_name': 'C++软件开发工程师', 'geography': '东莞-大朗镇', 'bonus': ['五险一金', '年终奖金', '员工旅游', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/124459934.html?rc=03'}

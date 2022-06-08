@@ -1,0 +1,1 @@
+{'company_name': '四川高金实业集团有限公司', 'job_name': '数据分析师(J10441)', 'geography': '成都', 'bonus': ['年终奖金', '做五休二', '朝九晚五', '五险一金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131601309.html?rc=03'}

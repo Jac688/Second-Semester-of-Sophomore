@@ -1,0 +1,1 @@
+{'company_name': '五矿经易期货有限公司', 'job_name': '期权量化做市交易员深圳总部', 'geography': '深圳', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129614822.html?rc=03'}

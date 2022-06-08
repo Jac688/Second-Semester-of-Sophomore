@@ -1,0 +1,1 @@
+{'company_name': '国海良时期货有限公司', 'job_name': '信用风险管理岗', 'geography': '杭州', 'bonus': ['五险一金', '绩效奖金', '专业培训', '定期体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128425710.html?rc=03'}

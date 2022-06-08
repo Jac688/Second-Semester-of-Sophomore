@@ -1,0 +1,1 @@
+{'company_name': '东莞成铭电子有限公司', 'job_name': '运维开发工程师', 'geography': '东莞', 'bonus': ['餐饮补贴', '绩效奖金', '专业培训', '五險'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/126686079.html?rc=03'}

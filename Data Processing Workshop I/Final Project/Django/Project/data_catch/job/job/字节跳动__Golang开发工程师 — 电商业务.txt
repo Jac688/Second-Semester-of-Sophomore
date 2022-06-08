@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': 'Golang开发工程师 — 电商业务', 'geography': '北京', 'bonus': ['六险一金', '弹性工作', '租房补贴', '免费三餐'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125050175.html?rc=03'}

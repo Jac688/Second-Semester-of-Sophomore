@@ -1,0 +1,1 @@
+{'company_name': '广东观一文化传播有限公司', 'job_name': 'Java后台开发工程师', 'geography': '广州-南沙区', 'bonus': ['高额提成', '周末双休', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130215117.html?rc=03'}

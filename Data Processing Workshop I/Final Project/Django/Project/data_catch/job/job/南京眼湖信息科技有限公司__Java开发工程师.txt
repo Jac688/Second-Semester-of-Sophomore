@@ -1,0 +1,1 @@
+{'company_name': '南京眼湖信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-栖霞区', 'bonus': ['五险一金', '弹性工作', '定期体检', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/82046689.html?rc=03'}

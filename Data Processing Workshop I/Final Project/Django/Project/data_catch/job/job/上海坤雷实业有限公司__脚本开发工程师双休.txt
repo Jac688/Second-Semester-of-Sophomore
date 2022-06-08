@@ -1,0 +1,1 @@
+{'company_name': '上海坤雷实业有限公司', 'job_name': '脚本开发工程师双休', 'geography': '上海-长宁区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/115810347.html?rc=03'}

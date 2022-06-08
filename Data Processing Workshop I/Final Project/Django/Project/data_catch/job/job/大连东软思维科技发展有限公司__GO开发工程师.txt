@@ -1,0 +1,1 @@
+{'company_name': '大连东软思维科技发展有限公司', 'job_name': 'GO开发工程师', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '年终奖金', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127125753.html?rc=03'}

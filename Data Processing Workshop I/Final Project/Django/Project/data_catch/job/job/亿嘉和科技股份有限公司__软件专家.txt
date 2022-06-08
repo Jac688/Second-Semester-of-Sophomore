@@ -1,0 +1,1 @@
+{'company_name': '亿嘉和科技股份有限公司', 'job_name': '软件专家', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '绩效奖金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131747633.html?rc=03'}

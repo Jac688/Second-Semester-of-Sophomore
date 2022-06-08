@@ -1,0 +1,1 @@
+{'company_name': '南京悦能智能科技有限公司', 'job_name': 'java开发工程师外派重庆半年学习', 'geography': '异地招聘', 'bonus': ['做五休二', '周末双休', '包住宿', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131613717.html?rc=03'}

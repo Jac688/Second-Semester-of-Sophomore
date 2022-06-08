@@ -1,0 +1,1 @@
+{'company_name': '广州市番禺祈福新邨房地产有限公司', 'job_name': '网络工程师', 'geography': '广州', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131419693.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海复深蓝软件股份有限公司', 'job_name': '自动化测试工程师15，江苏张家港', 'geography': '张家港', 'bonus': ['绩效奖金', '带薪年假', '五险一金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhangjiagang/126464674.html?rc=03'}

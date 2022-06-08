@@ -1,0 +1,1 @@
+{'company_name': '善理通益信息科技深圳有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '弹性工作', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130885880.html?rc=03'}

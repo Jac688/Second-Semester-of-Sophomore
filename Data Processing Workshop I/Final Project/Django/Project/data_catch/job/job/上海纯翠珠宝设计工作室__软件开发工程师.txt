@@ -1,0 +1,1 @@
+{'company_name': '上海纯翠珠宝设计工作室', 'job_name': '软件开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '免费班车', '专业培训', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/108733530.html?rc=03'}

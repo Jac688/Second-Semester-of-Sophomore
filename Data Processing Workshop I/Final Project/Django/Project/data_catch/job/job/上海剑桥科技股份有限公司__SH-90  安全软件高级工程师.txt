@@ -1,0 +1,1 @@
+{'company_name': '上海剑桥科技股份有限公司', 'job_name': 'SH-90  安全软件高级工程师', 'geography': '上海', 'bonus': ['补充医疗保险', '员工旅游', '年终奖金', '定期体检'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/107654613.html?rc=03'}

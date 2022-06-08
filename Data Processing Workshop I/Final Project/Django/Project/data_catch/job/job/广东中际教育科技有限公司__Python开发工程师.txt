@@ -1,0 +1,1 @@
+{'company_name': '广东中际教育科技有限公司', 'job_name': 'Python开发工程师', 'geography': '广州', 'bonus': ['专业培训', '五险一金', '绩效奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123089331.html?rc=03'}

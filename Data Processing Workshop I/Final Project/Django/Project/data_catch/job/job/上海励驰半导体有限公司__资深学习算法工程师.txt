@@ -1,0 +1,1 @@
+{'company_name': '上海励驰半导体有限公司', 'job_name': '资深学习算法工程师', 'geography': '北京', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129403218.html?rc=03'}

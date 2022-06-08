@@ -1,0 +1,1 @@
+{'company_name': '上海肇观电子科技有限公司', 'job_name': '嵌入式软件AE工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '员工旅游'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127455979.html?rc=03'}

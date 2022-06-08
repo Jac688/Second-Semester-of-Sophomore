@@ -1,0 +1,1 @@
+{'company_name': '厦门通通超软件科技有限公司', 'job_name': 'Java开发工程师', 'geography': '厦门-思明区', 'bonus': ['五险一金', '带薪年假', '周末双休', '年底双薪'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/129734024.html?rc=03'}

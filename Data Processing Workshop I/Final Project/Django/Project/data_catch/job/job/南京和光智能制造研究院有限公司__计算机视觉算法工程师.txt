@@ -1,0 +1,1 @@
+{'company_name': '南京和光智能制造研究院有限公司', 'job_name': '计算机视觉算法工程师', 'geography': '南京-栖霞区', 'bonus': ['员工旅游', '五险一金', '出国机会', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131883287.html?rc=03'}

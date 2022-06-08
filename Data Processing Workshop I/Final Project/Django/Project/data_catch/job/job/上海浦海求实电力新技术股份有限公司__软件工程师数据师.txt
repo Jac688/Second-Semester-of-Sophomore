@@ -1,0 +1,1 @@
+{'company_name': '上海浦海求实电力新技术股份有限公司', 'job_name': '软件工程师数据师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '员工食堂', '生日礼物', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126273730.html?rc=03'}

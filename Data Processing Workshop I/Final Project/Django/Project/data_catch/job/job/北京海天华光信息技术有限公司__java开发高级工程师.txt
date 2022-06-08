@@ -1,0 +1,1 @@
+{'company_name': '北京海天华光信息技术有限公司', 'job_name': 'java开发高级工程师', 'geography': '北京-石景山区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/50804220.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '常州科睿达信息科技有限公司', 'job_name': 'Java开发工程师上海语祯', 'geography': '上海-闵行区', 'bonus': ['五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132210011.html?rc=03'}

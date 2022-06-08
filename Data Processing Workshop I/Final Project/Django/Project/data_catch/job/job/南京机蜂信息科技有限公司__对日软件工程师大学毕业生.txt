@@ -1,0 +1,1 @@
+{'company_name': '南京机蜂信息科技有限公司', 'job_name': '对日软件工程师大学毕业生', 'geography': '异地招聘', 'bonus': ['五险一金', '交通补贴', '出国机会', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/128008759.html?rc=03'}

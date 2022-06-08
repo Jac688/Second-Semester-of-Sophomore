@@ -1,0 +1,1 @@
+{'company_name': '兴英数位科技深圳有限公司', 'job_name': 'BIOS软件资深工程师', 'geography': '深圳', 'bonus': ['周末双休', '五险一金', '全勤奖', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129742024.html?rc=03'}

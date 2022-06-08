@@ -1,0 +1,1 @@
+{'company_name': '惠州广顺网络科技有限公司', 'job_name': '招聘Java工程师', 'geography': '成都-武侯区', 'bonus': ['周末双休', '出差补助', '生日慰问金', '交通补助'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130646636.html?rc=03'}

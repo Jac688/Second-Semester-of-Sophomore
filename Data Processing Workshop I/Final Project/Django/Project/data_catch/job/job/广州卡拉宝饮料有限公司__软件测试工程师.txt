@@ -1,0 +1,1 @@
+{'company_name': '广州卡拉宝饮料有限公司', 'job_name': '软件测试工程师', 'geography': '成都-青羊区', 'bonus': [], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131845295.html?rc=03'}

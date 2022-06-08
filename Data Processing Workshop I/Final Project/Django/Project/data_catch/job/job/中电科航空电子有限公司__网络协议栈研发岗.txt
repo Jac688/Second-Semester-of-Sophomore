@@ -1,0 +1,1 @@
+{'company_name': '中电科航空电子有限公司', 'job_name': '网络协议栈研发岗', 'geography': '成都', 'bonus': ['五险一金', '定期体检', '专业培训', '餐补'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130371059.html?rc=03'}

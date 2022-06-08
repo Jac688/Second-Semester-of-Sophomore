@@ -1,0 +1,1 @@
+{'company_name': '上海邮瞬通供应链管理有限公司', 'job_name': '数据分析师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '专业培训', '周末双休', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131479902.html?rc=03'}

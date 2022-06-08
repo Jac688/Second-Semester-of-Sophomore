@@ -1,0 +1,1 @@
+{'company_name': '广州善融科技有限公司', 'job_name': 'java初级开发包吃住+双休', 'geography': '广州-天河区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '免费班车'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127798092.html?rc=03'}

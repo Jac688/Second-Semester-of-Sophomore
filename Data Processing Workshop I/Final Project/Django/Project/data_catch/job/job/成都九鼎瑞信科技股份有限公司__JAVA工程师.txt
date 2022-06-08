@@ -1,0 +1,1 @@
+{'company_name': '成都九鼎瑞信科技股份有限公司', 'job_name': 'JAVA工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '周末双休', '定期体检', '带薪年假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131300654.html?rc=03'}

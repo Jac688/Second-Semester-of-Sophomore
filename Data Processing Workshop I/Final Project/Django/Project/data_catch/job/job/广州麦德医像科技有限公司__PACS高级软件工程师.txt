@@ -1,0 +1,1 @@
+{'company_name': '广州麦德医像科技有限公司', 'job_name': 'PACS高级软件工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/41253737.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '富晟沃博克斯新能源汽车充电技术苏州有限公司', 'job_name': 'Industrialization Engineer', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '专业培训', '年终奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130021783.html?rc=03'}

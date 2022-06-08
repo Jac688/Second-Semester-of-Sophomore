@@ -1,0 +1,1 @@
+{'company_name': '广州海际宠物贸易有限公司', 'job_name': 'BI数据分析师', 'geography': '广州-番禺区', 'bonus': ['通讯补贴', '员工旅游', '交通补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127006881.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '启德教育集团', 'job_name': '全栈开发工程师', 'geography': '广州-越秀区', 'bonus': ['五险一金', '专业培训', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131437202.html?rc=03'}

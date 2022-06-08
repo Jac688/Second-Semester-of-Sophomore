@@ -1,0 +1,1 @@
+{'company_name': '众创网武汉科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '武汉-江岸区', 'bonus': ['五险一金', '年终奖金', '周末双休', '带薪年假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/100841906.html?rc=03'}

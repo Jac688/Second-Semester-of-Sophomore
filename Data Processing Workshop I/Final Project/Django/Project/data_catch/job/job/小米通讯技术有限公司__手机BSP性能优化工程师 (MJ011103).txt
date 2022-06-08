@@ -1,0 +1,1 @@
+{'company_name': '小米通讯技术有限公司', 'job_name': '手机BSP性能优化工程师 (MJ011103)', 'geography': '深圳-南山区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129938394.html?rc=03'}

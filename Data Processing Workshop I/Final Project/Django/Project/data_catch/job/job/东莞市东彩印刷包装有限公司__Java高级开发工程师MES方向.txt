@@ -1,0 +1,1 @@
+{'company_name': '东莞市东彩印刷包装有限公司', 'job_name': 'Java高级开发工程师MES方向', 'geography': '异地招聘', 'bonus': ['五险一金', '专业培训', '出国机会', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/119627833.html?rc=03'}

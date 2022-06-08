@@ -1,0 +1,1 @@
+{'company_name': '华夏弘康北京国际心理健康咨询有限公司', 'job_name': 'php工程师', 'geography': '北京-石景山区', 'bonus': ['五险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126209864.html?rc=03'}

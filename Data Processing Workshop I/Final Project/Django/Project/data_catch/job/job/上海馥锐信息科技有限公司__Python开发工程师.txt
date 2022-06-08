@@ -1,0 +1,1 @@
+{'company_name': '上海馥锐信息科技有限公司', 'job_name': 'Python开发工程师', 'geography': '上海-普陀区', 'bonus': ['14-16薪'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131264985.html?rc=03'}

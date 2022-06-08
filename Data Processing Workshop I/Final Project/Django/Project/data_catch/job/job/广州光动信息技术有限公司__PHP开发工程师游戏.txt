@@ -1,0 +1,1 @@
+{'company_name': '广州光动信息技术有限公司', 'job_name': 'PHP开发工程师游戏', 'geography': '广州-天河区', 'bonus': ['五险一金', '包餐', '下午茶', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129888312.html?rc=03'}

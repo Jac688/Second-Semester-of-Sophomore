@@ -1,0 +1,1 @@
+{'company_name': '广东云顺通科技信息有限公司', 'job_name': '高级软件测试工程师测试主管测试组长', 'geography': '异地招聘', 'bonus': ['餐饮补贴', '专业培训', '弹性工作', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131968100.html?rc=03'}

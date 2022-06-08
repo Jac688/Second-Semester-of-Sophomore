@@ -1,0 +1,1 @@
+{'company_name': '上海诚格安全防护用品有限公司', 'job_name': 'SEO搜索引擎优化 网络推广', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '免费班车', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/94695059.html?rc=03'}

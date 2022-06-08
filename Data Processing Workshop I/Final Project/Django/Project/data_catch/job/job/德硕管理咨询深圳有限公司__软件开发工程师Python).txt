@@ -1,0 +1,1 @@
+{'company_name': '德硕管理咨询深圳有限公司', 'job_name': '软件开发工程师Python)', 'geography': '深圳-福田区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '出国机会'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/112699718.html?rc=03'}

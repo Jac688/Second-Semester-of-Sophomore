@@ -1,0 +1,1 @@
+{'company_name': '广州佳禾科技股份有限公司', 'job_name': 'Java中级开发工程师', 'geography': '广州-天河区', 'bonus': ['周末双休', '餐饮补贴', '绩效奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127765557.html?rc=03'}

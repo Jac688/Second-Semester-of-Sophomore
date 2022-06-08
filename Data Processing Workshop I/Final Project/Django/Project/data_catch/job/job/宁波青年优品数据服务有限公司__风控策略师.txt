@@ -1,0 +1,1 @@
+{'company_name': '宁波青年优品数据服务有限公司', 'job_name': '风控策略师', 'geography': '异地招聘', 'bonus': ['五险一金', '弹性工作', '年终奖金', '员工旅游'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131757967.html?rc=03'}

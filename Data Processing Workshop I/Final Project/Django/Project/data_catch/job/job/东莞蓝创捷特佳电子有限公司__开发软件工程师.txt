@@ -1,0 +1,1 @@
+{'company_name': '东莞蓝创捷特佳电子有限公司', 'job_name': '开发软件工程师', 'geography': '东莞-常平镇', 'bonus': ['五险一金', '员工旅游', '年终奖金', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/91058005.html?rc=03'}

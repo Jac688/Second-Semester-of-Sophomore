@@ -1,0 +1,1 @@
+{'company_name': '四川长虹网络科技有限责任公司', 'job_name': '物联网软件开发(001162)绵阳', 'geography': '绵阳', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/mianyang/124917361.html?rc=03'}

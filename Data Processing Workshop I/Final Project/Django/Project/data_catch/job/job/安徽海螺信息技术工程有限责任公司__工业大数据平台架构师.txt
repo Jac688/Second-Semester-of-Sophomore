@@ -1,0 +1,1 @@
+{'company_name': '安徽海螺信息技术工程有限责任公司', 'job_name': '工业大数据平台架构师', 'geography': '上海-嘉定区', 'bonus': ['补充医疗保险', '绩效奖金', '年终奖金', '定期体检'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132139340.html?rc=03'}

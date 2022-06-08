@@ -1,0 +1,1 @@
+{'company_name': '广州市金人投资管理有限公司', 'job_name': '物联网开发工程师', 'geography': '广州-天河区', 'bonus': ['社保', '绩效奖金', '节日福利', '不定时加薪'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/96888333.html?rc=03'}

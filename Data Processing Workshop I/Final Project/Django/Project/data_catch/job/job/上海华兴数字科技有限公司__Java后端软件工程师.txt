@@ -1,0 +1,1 @@
+{'company_name': '上海华兴数字科技有限公司', 'job_name': 'Java后端软件工程师', 'geography': '昆山', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/109546562.html?rc=03'}

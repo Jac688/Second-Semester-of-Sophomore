@@ -1,0 +1,1 @@
+{'company_name': '京信通信系统控股有限公司', 'job_name': '自动控制产品开发工程师', 'geography': '南京-秦淮区', 'bonus': [], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129543177.html?rc=03'}

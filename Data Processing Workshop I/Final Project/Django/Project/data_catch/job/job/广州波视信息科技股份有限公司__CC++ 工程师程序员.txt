@@ -1,0 +1,1 @@
+{'company_name': '广州波视信息科技股份有限公司', 'job_name': 'CC++ 工程师程序员', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '交通补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/75271757.html?rc=03'}

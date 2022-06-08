@@ -1,0 +1,1 @@
+{'company_name': '东华软件股份公司', 'job_name': '乌鲁木齐中级软件开发工程师Javacc++', 'geography': '乌鲁木齐-沙依巴克区', 'bonus': ['五险一金', '专业培训', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/urumqi/126913252.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京天融信科技有限公司', 'job_name': '测试工程师云计算容器方向深圳(J12260)', 'geography': '深圳-南山区', 'bonus': ['交通补贴', '餐饮补贴', '五险一金', '补充医疗保险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129400834.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京ABB电气传动系统有限公司', 'job_name': 'SW architect(78593254)', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131857682.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '慧咨环球中国信息技术有限公司', 'job_name': '软件工程师(JavaC++等语言可转)', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '专业培训', '餐饮补贴', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130991409.html?rc=03'}

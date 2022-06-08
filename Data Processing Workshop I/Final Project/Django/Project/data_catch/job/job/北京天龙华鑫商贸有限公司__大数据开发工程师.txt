@@ -1,0 +1,1 @@
+{'company_name': '北京天龙华鑫商贸有限公司', 'job_name': '大数据开发工程师', 'geography': '北京-东城区', 'bonus': ['年终奖金', '带薪年假', '五险一金', '通讯补贴'], 'salary': 5.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121141323.html?rc=03'}

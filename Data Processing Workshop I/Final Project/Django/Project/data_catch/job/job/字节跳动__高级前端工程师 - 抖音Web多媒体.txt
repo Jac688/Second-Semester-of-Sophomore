@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '高级前端工程师 - 抖音Web多媒体', 'geography': '上海', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '股票期权'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130088098.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京易科腾信息技术有限公司', 'job_name': '高级软件工程师', 'geography': '广州-天河区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127866475.html?rc=03'}

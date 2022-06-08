@@ -1,0 +1,1 @@
+{'company_name': '上海芒宇信息科技股份有限公司', 'job_name': '软件测试主管', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '员工旅游', '定期体检', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130007352.html?rc=03'}

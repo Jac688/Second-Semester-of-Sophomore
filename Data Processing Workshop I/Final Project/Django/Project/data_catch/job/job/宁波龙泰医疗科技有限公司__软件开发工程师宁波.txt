@@ -1,0 +1,1 @@
+{'company_name': '宁波龙泰医疗科技有限公司', 'job_name': '软件开发工程师宁波', 'geography': '宁波', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130519926.html?rc=03'}

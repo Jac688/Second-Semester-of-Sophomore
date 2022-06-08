@@ -1,0 +1,1 @@
+{'company_name': '佰倬信息科技有限责任公司', 'job_name': '高级软件工程师', 'geography': '无锡-梁溪区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/130557634.html?rc=03'}

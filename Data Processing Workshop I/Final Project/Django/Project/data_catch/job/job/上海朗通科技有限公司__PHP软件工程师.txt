@@ -1,0 +1,1 @@
+{'company_name': '上海朗通科技有限公司', 'job_name': 'PHP软件工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '免费班车', '员工旅游', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/111684412.html?rc=03'}

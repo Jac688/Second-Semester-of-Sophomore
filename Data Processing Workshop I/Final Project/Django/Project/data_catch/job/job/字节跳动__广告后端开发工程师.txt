@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '广告后端开发工程师', 'geography': '北京', 'bonus': ['团队氛围好', '晋升空间大', '租房补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131053473.html?rc=03'}

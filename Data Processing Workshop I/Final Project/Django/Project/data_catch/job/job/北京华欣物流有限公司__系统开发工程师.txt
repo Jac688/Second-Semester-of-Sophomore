@@ -1,0 +1,1 @@
+{'company_name': '北京华欣物流有限公司', 'job_name': '系统开发工程师', 'geography': '北京-朝阳区', 'bonus': ['商业险', '专业培训', '五险一金', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/116809191.html?rc=03'}

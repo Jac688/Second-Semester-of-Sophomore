@@ -1,0 +1,1 @@
+{'company_name': '四川有瑞科技有限公司', 'job_name': '数据分析咨询顾问高级咨询顾问', 'geography': '成都-高新区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128616574.html?rc=03'}

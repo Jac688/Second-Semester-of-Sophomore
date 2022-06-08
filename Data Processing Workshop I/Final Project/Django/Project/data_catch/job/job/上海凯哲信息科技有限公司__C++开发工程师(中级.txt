@@ -1,0 +1,1 @@
+{'company_name': '上海凯哲信息科技有限公司', 'job_name': 'C++开发工程师(中级', 'geography': '上海', 'bonus': ['绩效奖金', '年终奖金', '五险一金', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128975743.html?rc=03'}

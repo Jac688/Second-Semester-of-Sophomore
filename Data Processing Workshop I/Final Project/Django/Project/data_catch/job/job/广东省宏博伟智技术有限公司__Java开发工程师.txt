@@ -1,0 +1,1 @@
+{'company_name': '广东省宏博伟智技术有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-龙岗区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '出国机会'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128588634.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '大连必捷必信息技术有限公司', 'job_name': 'Python高级开发工程师本社', 'geography': '大连-高新园区', 'bonus': ['五险一金', '交通补贴', '定期体检', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dalian/124141710.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京御芯微科技有限公司', 'job_name': '视频编解码算法工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/109837801.html?rc=03'}

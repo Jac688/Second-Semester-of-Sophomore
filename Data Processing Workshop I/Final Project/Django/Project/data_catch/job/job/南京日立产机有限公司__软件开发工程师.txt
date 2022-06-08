@@ -1,0 +1,1 @@
+{'company_name': '南京日立产机有限公司', 'job_name': '软件开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '定期体检', '一年14薪', '员工旅游'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132195740.html?rc=03'}

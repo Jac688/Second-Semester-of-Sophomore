@@ -1,0 +1,1 @@
+{'company_name': '北京微播易科技股份有限公司', 'job_name': '大数据工程师 (MJ000159)', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128747504.html?rc=03'}

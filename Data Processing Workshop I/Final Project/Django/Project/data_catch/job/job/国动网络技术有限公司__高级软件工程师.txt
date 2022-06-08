@@ -1,0 +1,1 @@
+{'company_name': '国动网络技术有限公司', 'job_name': '高级软件工程师', 'geography': '无锡-滨湖区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/125714587.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海农业信息有限公司', 'job_name': '项目部java开发工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '餐饮补贴', '节日福利', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122117133.html?rc=03'}

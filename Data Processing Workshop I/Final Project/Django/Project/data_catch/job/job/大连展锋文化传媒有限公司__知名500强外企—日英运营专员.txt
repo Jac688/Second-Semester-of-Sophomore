@@ -1,0 +1,1 @@
+{'company_name': '大连展锋文化传媒有限公司', 'job_name': '知名500强外企—日英运营专员', 'geography': '北京', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128629391.html?rc=03'}

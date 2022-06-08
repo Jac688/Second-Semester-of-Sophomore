@@ -1,0 +1,1 @@
+{'company_name': '广东顺德农村商业银行股份有限公司', 'job_name': '云平台开发工程师高级', 'geography': '佛山', 'bonus': ['绩效奖金', '专业培训', '六险二金', '定期体检'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131780679.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海亿业网络科技发展有限公司', 'job_name': 'C语言高级开发工程师', 'geography': '上海-浦东新区', 'bonus': ['绩效奖金', '专业培训', '补充医疗保险', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123271726.html?rc=03'}

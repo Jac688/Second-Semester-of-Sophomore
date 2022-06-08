@@ -1,0 +1,1 @@
+{'company_name': '上海复筑投资有限公司', 'job_name': 'TWS技术经理(杭州)', 'geography': '深圳-福田区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131646264.html?rc=03'}

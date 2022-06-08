@@ -1,0 +1,1 @@
+{'company_name': '南京七宝机器人技术有限公司', 'job_name': '软件开发工程师系统', 'geography': '南京', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/111456882.html?rc=03'}

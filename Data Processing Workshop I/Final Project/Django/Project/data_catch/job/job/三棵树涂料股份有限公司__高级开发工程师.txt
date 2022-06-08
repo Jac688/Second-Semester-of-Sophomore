@@ -1,0 +1,1 @@
+{'company_name': '三棵树涂料股份有限公司', 'job_name': '高级开发工程师', 'geography': '莆田', 'bonus': ['五险一金', '专业培训', '年终奖金', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/putian/130577327.html?rc=03'}

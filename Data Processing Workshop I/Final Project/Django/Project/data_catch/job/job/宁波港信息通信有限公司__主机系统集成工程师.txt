@@ -1,0 +1,1 @@
+{'company_name': '宁波港信息通信有限公司', 'job_name': '主机系统集成工程师', 'geography': '宁波-北仑区', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125896426.html?rc=03'}

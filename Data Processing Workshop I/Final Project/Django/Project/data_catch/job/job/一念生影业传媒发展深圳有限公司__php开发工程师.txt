@@ -1,0 +1,1 @@
+{'company_name': '一念生影业传媒发展深圳有限公司', 'job_name': 'php开发工程师', 'geography': '深圳-宝安区', 'bonus': ['五险', '绩效奖金', '弹性工作', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131765729.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京星网宇达科技股份有限公司', 'job_name': '嵌入式软件工程师应届硕士可落户', 'geography': '北京-大兴区', 'bonus': ['包住宿', '周末双休', '带薪年假', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/105303548.html?rc=03'}

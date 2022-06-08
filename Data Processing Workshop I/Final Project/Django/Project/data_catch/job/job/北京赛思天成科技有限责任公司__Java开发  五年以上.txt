@@ -1,0 +1,1 @@
+{'company_name': '北京赛思天成科技有限责任公司', 'job_name': 'Java开发  五年以上', 'geography': '北京', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '交通补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/76474957.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京中庆现代技术股份有限公司湖北分公司', 'job_name': '嵌入式软件工程师', 'geography': '北京-海淀区', 'bonus': ['弹性工作', '节日福利', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129942220.html?rc=03'}

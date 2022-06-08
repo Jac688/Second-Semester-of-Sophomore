@@ -1,0 +1,1 @@
+{'company_name': '嘉兴精思课外辅导有限公司', 'job_name': '少儿编程老师专职都可', 'geography': '嘉兴-南湖区', 'bonus': [], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/126548796.html?rc=03'}

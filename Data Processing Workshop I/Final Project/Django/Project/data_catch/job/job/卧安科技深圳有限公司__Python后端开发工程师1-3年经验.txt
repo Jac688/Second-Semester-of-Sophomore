@@ -1,0 +1,1 @@
+{'company_name': '卧安科技深圳有限公司', 'job_name': 'Python后端开发工程师1-3年经验', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '弹性工作'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132346108.html?rc=03'}

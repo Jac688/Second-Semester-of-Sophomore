@@ -1,0 +1,1 @@
+{'company_name': '北京数字认证股份有限公司', 'job_name': '项目经理重庆G00073', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/117387974.html?rc=03'}

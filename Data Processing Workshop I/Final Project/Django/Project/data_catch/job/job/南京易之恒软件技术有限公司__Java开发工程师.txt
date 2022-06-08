@@ -1,0 +1,1 @@
+{'company_name': '南京易之恒软件技术有限公司', 'job_name': 'Java开发工程师', 'geography': '南京', 'bonus': ['五险一金', '员工旅游', '专业培训', '弹性工作'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129432685.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '同方知网北京技术有限公司', 'job_name': 'Python研发工程师', 'geography': '北京', 'bonus': ['带薪年假', '五险一金', '周末双休', '补充医疗保险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124073001.html?rc=03'}

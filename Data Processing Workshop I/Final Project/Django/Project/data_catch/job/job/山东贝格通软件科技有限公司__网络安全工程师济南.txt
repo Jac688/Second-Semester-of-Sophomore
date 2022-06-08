@@ -1,0 +1,1 @@
+{'company_name': '山东贝格通软件科技有限公司', 'job_name': '网络安全工程师济南', 'geography': '济南-历下区', 'bonus': ['专业培训', '周末双休', '绩效奖金', '年终奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130999478.html?rc=03'}

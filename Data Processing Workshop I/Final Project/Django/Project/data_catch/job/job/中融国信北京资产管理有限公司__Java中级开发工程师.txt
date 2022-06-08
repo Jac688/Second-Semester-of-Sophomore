@@ -1,0 +1,1 @@
+{'company_name': '中融国信北京资产管理有限公司', 'job_name': 'Java中级开发工程师', 'geography': '郑州', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/zhengzhou/124091421.html?rc=03'}

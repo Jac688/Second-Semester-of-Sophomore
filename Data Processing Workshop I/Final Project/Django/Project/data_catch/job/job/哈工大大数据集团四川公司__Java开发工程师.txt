@@ -1,0 +1,1 @@
+{'company_name': '哈工大大数据集团四川公司', 'job_name': 'Java开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125712909.html?rc=03'}

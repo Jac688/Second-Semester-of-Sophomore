@@ -1,0 +1,1 @@
+{'company_name': '上海俊豪国际货物运输代理有限公司', 'job_name': '程序员', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '节日福利', '餐饮补贴', '高温补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126499269.html?rc=03'}

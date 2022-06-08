@@ -1,0 +1,1 @@
+{'company_name': '南京华瓯电子科技有限公司', 'job_name': 'Java开发工程师', 'geography': '泰州-海陵区', 'bonus': ['五险一金', '专业培训', '餐饮补贴', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/taizhou/132004875.html?rc=03'}

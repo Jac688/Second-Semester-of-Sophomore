@@ -1,0 +1,1 @@
+{'company_name': '北京来也网络科技有限公司', 'job_name': '资深后端开发工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129856924.html?rc=03'}

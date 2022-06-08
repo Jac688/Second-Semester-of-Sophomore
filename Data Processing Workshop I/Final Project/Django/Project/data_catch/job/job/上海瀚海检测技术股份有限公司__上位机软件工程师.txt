@@ -1,0 +1,1 @@
+{'company_name': '上海瀚海检测技术股份有限公司', 'job_name': '上位机软件工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124019430.html?rc=03'}

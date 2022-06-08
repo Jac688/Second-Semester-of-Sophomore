@@ -1,0 +1,1 @@
+{'company_name': '上海平欣电子科技有限公司', 'job_name': 'java 开发工程师初、中成都', 'geography': '成都', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/91801996.html?rc=03'}

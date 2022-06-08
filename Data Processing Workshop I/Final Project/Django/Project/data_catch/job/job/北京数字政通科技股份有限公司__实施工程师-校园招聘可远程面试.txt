@@ -1,0 +1,1 @@
+{'company_name': '北京数字政通科技股份有限公司', 'job_name': '实施工程师-校园招聘可远程面试', 'geography': '济南', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '定期体检'], 'salary': 0.65, 'detail_url': 'https://msearch.51job.com/jobs/jinan/127383894.html?rc=03'}

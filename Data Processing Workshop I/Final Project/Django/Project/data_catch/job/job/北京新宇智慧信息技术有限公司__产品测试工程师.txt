@@ -1,0 +1,1 @@
+{'company_name': '北京新宇智慧信息技术有限公司', 'job_name': '产品测试工程师', 'geography': '厦门', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/130083751.html?rc=03'}

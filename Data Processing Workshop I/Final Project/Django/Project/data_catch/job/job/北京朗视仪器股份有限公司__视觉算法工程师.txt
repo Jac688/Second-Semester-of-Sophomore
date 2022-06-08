@@ -1,0 +1,1 @@
+{'company_name': '北京朗视仪器股份有限公司', 'job_name': '视觉算法工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/117825086.html?rc=03'}

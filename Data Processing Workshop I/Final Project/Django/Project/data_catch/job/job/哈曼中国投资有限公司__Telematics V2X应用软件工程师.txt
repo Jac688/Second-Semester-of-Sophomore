@@ -1,0 +1,1 @@
+{'company_name': '哈曼中国投资有限公司', 'job_name': 'Telematics V2X应用软件工程师', 'geography': '成都-龙泉驿区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '交通补贴'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131312200.html?rc=03'}

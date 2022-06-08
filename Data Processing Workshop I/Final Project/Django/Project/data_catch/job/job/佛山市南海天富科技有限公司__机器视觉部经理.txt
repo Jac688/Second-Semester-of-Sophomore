@@ -1,0 +1,1 @@
+{'company_name': '佛山市南海天富科技有限公司', 'job_name': '机器视觉部经理', 'geography': '佛山-南海区', 'bonus': ['员工旅游', '绩效奖金', '年终奖金', '免费班车'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129003802.html?rc=03'}

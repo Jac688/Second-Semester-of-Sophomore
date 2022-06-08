@@ -1,0 +1,1 @@
+{'company_name': 'vivo', 'job_name': '显示框架工程师(010157)', 'geography': '杭州-西湖区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128768912.html?rc=03'}

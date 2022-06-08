@@ -1,0 +1,1 @@
+{'company_name': '广州汇智通信技术有限公司', 'job_name': '软件测试工程师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '员工旅游'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/110845784.html?rc=03'}

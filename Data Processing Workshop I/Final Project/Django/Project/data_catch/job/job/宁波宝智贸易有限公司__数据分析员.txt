@@ -1,0 +1,1 @@
+{'company_name': '宁波宝智贸易有限公司', 'job_name': '数据分析员', 'geography': '宁波-慈溪市', 'bonus': ['年终奖金', '员工旅游', '弹性工作', '五险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125625294.html?rc=03'}

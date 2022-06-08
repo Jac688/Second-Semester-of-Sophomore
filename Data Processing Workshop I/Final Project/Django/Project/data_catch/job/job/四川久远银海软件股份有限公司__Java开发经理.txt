@@ -1,0 +1,1 @@
+{'company_name': '四川久远银海软件股份有限公司', 'job_name': 'Java开发经理', 'geography': '南宁-青秀区', 'bonus': ['五险一金', '定期体检', '周末双休', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanning/129542945.html?rc=03'}

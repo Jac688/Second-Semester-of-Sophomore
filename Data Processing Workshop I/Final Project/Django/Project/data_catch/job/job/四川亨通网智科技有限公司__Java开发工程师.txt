@@ -1,0 +1,1 @@
+{'company_name': '四川亨通网智科技有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127981096.html?rc=03'}

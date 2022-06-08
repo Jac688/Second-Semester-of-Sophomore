@@ -1,0 +1,1 @@
+{'company_name': '大连东软思维科技发展有限公司', 'job_name': 'JAVA开发人工智能方向', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132105733.html?rc=03'}

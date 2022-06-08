@@ -1,0 +1,1 @@
+{'company_name': '天津长峰海维电子技术有限公司', 'job_name': 'Java开发工程师', 'geography': '天津-河西区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/121082816.html?rc=03'}

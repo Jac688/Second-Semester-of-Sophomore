@@ -1,0 +1,1 @@
+{'company_name': '宁波迦南智能电气股份有限公司', 'job_name': '软件工程师', 'geography': '宁波-慈溪市', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130643991.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中电文思海辉', 'job_name': '测试工程师', 'geography': '北京', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121933526.html?rc=03'}

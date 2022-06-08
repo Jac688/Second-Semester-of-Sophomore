@@ -1,0 +1,1 @@
+{'company_name': '广州长步道光电科技有限公司', 'job_name': 'Labview工程师', 'geography': '广州-番禺区', 'bonus': ['周末双休', '带薪年假', '五险一金', '全勤奖'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124249943.html?rc=03'}

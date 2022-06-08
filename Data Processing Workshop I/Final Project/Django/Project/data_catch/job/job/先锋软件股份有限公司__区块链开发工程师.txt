@@ -1,0 +1,1 @@
+{'company_name': '先锋软件股份有限公司', 'job_name': '区块链开发工程师', 'geography': '南昌-新建区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/131128187.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '史陶比尔杭州精密机械电子有限公司', 'job_name': '机器视觉算法工程师下沙外企', 'geography': '杭州', 'bonus': ['六险二金', '10天带薪年假', '年终奖', '专业培训'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128161526.html?rc=03'}

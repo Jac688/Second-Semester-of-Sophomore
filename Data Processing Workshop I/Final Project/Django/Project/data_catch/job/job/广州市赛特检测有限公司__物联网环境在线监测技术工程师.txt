@@ -1,0 +1,1 @@
+{'company_name': '广州市赛特检测有限公司', 'job_name': '物联网环境在线监测技术工程师', 'geography': '广州-天河区', 'bonus': ['员工旅游', '五险一金', '年终奖金', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122196361.html?rc=03'}

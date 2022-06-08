@@ -1,0 +1,1 @@
+{'company_name': '四川乐飞光电科技有限公司', 'job_name': '电气自动化岗', 'geography': '乐山', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '带薪休假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/leshan/120074718.html?rc=03'}

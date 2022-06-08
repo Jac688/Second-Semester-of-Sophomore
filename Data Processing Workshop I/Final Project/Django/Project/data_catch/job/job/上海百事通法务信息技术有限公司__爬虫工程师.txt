@@ -1,0 +1,1 @@
+{'company_name': '上海百事通法务信息技术有限公司', 'job_name': '爬虫工程师', 'geography': '上海', 'bonus': ['五险一金', '年终奖金', '弹性工作', '专业培训'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130535081.html?rc=03'}

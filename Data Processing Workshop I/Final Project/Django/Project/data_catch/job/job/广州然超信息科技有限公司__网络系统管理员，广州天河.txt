@@ -1,0 +1,1 @@
+{'company_name': '广州然超信息科技有限公司', 'job_name': '网络系统管理员，广州天河', 'geography': '广州', 'bonus': ['绩效奖金', '周末双休', '通讯补贴', '交通补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130107805.html?rc=03'}

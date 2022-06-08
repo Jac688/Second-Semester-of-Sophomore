@@ -1,0 +1,1 @@
+{'company_name': '四川兴和营造建设工程有限公司', 'job_name': '信息技术管理工程师集团公司岗', 'geography': '成都', 'bonus': ['周末双休', '带薪年假', '五险一金', '绩效奖金'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129552908.html?rc=03'}

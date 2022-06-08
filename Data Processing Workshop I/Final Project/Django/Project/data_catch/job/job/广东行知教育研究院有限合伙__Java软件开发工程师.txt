@@ -1,0 +1,1 @@
+{'company_name': '广东行知教育研究院有限合伙', 'job_name': 'Java软件开发工程师', 'geography': '中山', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/128957618.html?rc=03'}

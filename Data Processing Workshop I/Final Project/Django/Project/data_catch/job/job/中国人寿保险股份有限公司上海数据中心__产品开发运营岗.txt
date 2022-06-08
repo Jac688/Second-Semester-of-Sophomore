@@ -1,0 +1,1 @@
+{'company_name': '中国人寿保险股份有限公司上海数据中心', 'job_name': '产品开发运营岗', 'geography': '北京-海淀区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130261922.html?rc=03'}

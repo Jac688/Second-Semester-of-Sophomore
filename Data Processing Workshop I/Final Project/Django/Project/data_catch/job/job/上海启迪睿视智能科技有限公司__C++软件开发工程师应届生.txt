@@ -1,0 +1,1 @@
+{'company_name': '上海启迪睿视智能科技有限公司', 'job_name': 'C++软件开发工程师应届生', 'geography': '郑州-郑东新区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '员工旅游'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/zhengzhou/124751444.html?rc=03'}

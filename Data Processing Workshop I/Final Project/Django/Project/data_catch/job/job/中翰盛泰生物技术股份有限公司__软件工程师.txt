@@ -1,0 +1,1 @@
+{'company_name': '中翰盛泰生物技术股份有限公司', 'job_name': '软件工程师', 'geography': '杭州-余杭区', 'bonus': ['五险一金', '节日福利', '交通补贴', '餐饮补贴'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/104403258.html?rc=03'}

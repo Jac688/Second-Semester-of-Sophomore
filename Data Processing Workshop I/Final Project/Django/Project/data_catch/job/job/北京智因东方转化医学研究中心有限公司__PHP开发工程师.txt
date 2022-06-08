@@ -1,0 +1,1 @@
+{'company_name': '北京智因东方转化医学研究中心有限公司', 'job_name': 'PHP开发工程师', 'geography': '北京-大兴区', 'bonus': ['周末双休', '五险一金', '餐饮补贴', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128931013.html?rc=03'}

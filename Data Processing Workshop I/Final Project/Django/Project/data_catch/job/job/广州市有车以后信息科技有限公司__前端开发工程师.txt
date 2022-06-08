@@ -1,0 +1,1 @@
+{'company_name': '广州市有车以后信息科技有限公司', 'job_name': '前端开发工程师', 'geography': '广州-海珠区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126150634.html?rc=03'}

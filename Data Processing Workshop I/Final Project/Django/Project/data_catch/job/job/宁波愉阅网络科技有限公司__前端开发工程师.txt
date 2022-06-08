@@ -1,0 +1,1 @@
+{'company_name': '宁波愉阅网络科技有限公司', 'job_name': '前端开发工程师', 'geography': '宁波-镇海区', 'bonus': ['五险一金', '员工旅游', '周末双休', '全勤奖'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131071763.html?rc=03'}

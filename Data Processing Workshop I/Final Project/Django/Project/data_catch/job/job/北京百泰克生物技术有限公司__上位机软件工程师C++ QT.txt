@@ -1,0 +1,1 @@
+{'company_name': '北京百泰克生物技术有限公司', 'job_name': '上位机软件工程师C++ QT', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130003315.html?rc=03'}

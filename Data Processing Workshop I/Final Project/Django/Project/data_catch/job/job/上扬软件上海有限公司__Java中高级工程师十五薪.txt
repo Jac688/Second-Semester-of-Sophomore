@@ -1,0 +1,1 @@
+{'company_name': '上扬软件上海有限公司', 'job_name': 'Java中高级工程师十五薪', 'geography': '成都', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/123316442.html?rc=03'}

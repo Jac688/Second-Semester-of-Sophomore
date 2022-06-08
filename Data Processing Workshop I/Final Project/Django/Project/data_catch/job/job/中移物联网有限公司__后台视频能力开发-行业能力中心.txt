@@ -1,0 +1,1 @@
+{'company_name': '中移物联网有限公司', 'job_name': '后台视频能力开发-行业能力中心', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128765534.html?rc=03'}

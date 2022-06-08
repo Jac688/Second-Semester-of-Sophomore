@@ -1,0 +1,1 @@
+{'company_name': '一宠上海健康科技有限公司', 'job_name': '系统架构师', 'geography': '上海-杨浦区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126777778.html?rc=03'}

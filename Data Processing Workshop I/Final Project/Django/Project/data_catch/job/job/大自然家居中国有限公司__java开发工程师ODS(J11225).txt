@@ -1,0 +1,1 @@
+{'company_name': '大自然家居中国有限公司', 'job_name': 'java开发工程师ODS(J11225)', 'geography': '佛山-顺德区', 'bonus': ['节日福利', '定期体检', '五险一金', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/130771305.html?rc=03'}

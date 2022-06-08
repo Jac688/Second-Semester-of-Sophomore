@@ -1,0 +1,1 @@
+{'company_name': '中通服创发科技有限责任公司', 'job_name': 'Java开发工程师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/124608826.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '恒大充电通科技有限公司', 'job_name': '技术支持工程师java', 'geography': '杭州-萧山区', 'bonus': ['五险一金', '500强', '专业培训', '餐饮补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129988077.html?rc=03'}

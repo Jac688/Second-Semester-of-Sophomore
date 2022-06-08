@@ -1,0 +1,1 @@
+{'company_name': '上海事成软件股份有限公司', 'job_name': 'Java高级开发工程师', 'geography': '苏州-相城区', 'bonus': ['五险一金', '交通补贴', '年终奖金', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/129027719.html?rc=03'}

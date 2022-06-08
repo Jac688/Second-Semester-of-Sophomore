@@ -1,0 +1,1 @@
+{'company_name': '北明软件有限公司', 'job_name': '高级架构师', 'geography': '北京-石景山区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131536814.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中科创达软件股份有限公司', 'job_name': '安卓开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '弹性工作', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/sichuansheng/126743754.html?rc=03'}

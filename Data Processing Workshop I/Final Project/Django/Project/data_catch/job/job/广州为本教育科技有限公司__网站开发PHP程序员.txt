@@ -1,0 +1,1 @@
+{'company_name': '广州为本教育科技有限公司', 'job_name': '网站开发PHP程序员', 'geography': '广州-越秀区', 'bonus': ['节日福利', '生日福利', '五险', '带薪年假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124037923.html?rc=03'}

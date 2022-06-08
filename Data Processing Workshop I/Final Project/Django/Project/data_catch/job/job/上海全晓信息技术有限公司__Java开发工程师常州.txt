@@ -1,0 +1,1 @@
+{'company_name': '上海全晓信息技术有限公司', 'job_name': 'Java开发工程师常州', 'geography': '常州-新北区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/129972404.html?rc=03'}

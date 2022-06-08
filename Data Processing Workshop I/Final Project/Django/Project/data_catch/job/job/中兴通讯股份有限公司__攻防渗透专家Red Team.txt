@@ -1,0 +1,1 @@
+{'company_name': '中兴通讯股份有限公司', 'job_name': '攻防渗透专家Red Team', 'geography': '深圳-南山区', 'bonus': ['五险一金', '定期体检', '带薪年假', '绩效奖金'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131316564.html?rc=03'}

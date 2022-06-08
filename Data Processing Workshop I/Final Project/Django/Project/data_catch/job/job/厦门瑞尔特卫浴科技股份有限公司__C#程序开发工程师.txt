@@ -1,0 +1,1 @@
+{'company_name': '厦门瑞尔特卫浴科技股份有限公司', 'job_name': 'C#程序开发工程师', 'geography': '厦门', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/115722728.html?rc=03'}

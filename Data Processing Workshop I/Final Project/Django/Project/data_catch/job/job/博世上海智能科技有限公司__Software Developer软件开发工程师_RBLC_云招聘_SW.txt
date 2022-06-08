@@ -1,0 +1,1 @@
+{'company_name': '博世上海智能科技有限公司', 'job_name': 'Software Developer软件开发工程师_RBLC_云招聘_SW', 'geography': '上海', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128587964.html?rc=03'}

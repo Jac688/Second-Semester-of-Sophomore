@@ -1,0 +1,1 @@
+{'company_name': '安徽佐标智能科技有限公司', 'job_name': 'C++开发工程师', 'geography': '芜湖-鸠江区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhu/128711550.html?rc=03'}

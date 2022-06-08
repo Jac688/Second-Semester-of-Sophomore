@@ -1,0 +1,1 @@
+{'company_name': '帕克奇科技杭州有限公司', 'job_name': 'HMI电气工程师', 'geography': '杭州-余杭区', 'bonus': ['弹性工作', '早九晚五', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132251653.html?rc=03'}

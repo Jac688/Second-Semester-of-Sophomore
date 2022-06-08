@@ -1,0 +1,1 @@
+{'company_name': '成都世纪星成网络科技有限责任公司', 'job_name': 'Android开发工程师', 'geography': '成都-武侯区', 'bonus': ['包工作餐', '五险齐全', '专业培训', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129810549.html?rc=03'}

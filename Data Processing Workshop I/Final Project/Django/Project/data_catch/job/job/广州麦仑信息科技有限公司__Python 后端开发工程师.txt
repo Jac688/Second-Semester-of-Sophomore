@@ -1,0 +1,1 @@
+{'company_name': '广州麦仑信息科技有限公司', 'job_name': 'Python 后端开发工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '年终奖金', '补充医疗保险', '包餐'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/120830152.html?rc=03'}

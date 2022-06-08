@@ -1,0 +1,1 @@
+{'company_name': '上海毅翃软件开发有限公司', 'job_name': 'Java中级开发工程师', 'geography': '上海-松江区', 'bonus': [], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/108610540.html?rc=03'}

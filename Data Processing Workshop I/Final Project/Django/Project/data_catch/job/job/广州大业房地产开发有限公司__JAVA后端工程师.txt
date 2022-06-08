@@ -1,0 +1,1 @@
+{'company_name': '广州大业房地产开发有限公司', 'job_name': 'JAVA后端工程师', 'geography': '广州-天河区', 'bonus': [], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131535391.html?rc=03'}

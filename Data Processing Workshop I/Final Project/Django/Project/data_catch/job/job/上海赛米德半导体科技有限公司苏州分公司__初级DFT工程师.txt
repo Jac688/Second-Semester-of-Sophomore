@@ -1,0 +1,1 @@
+{'company_name': '上海赛米德半导体科技有限公司苏州分公司', 'job_name': '初级DFT工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128869904.html?rc=03'}

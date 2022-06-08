@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '服务端高级工程师架构师-抖音电商', 'geography': '杭州', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '股票期权'], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131810731.html?rc=03'}

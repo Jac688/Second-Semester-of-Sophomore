@@ -1,0 +1,1 @@
+{'company_name': '上海师翔网络科技有限公司', 'job_name': 'Python后端开发工程师', 'geography': '上海-静安区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131500180.html?rc=03'}

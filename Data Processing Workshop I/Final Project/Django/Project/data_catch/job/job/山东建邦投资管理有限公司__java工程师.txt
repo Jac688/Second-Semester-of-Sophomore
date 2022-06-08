@@ -1,0 +1,1 @@
+{'company_name': '山东建邦投资管理有限公司', 'job_name': 'java工程师', 'geography': '青岛-市南区', 'bonus': ['交通补贴', '通讯补贴', '绩效奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/131746825.html?rc=03'}

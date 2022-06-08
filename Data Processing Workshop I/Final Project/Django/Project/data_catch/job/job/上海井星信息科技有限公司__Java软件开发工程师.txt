@@ -1,0 +1,1 @@
+{'company_name': '上海井星信息科技有限公司', 'job_name': 'Java软件开发工程师', 'geography': '上海', 'bonus': ['定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/68649728.html?rc=03'}

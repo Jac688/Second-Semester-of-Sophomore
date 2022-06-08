@@ -1,0 +1,1 @@
+{'company_name': '京东商城', 'job_name': '经营分析岗重庆超体店', 'geography': '重庆-江北区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/114483761.html?rc=03'}

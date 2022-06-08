@@ -1,0 +1,1 @@
+{'company_name': '中国电信集团号百信息服务有限公司', 'job_name': '大数据开发工程师', 'geography': '上海-虹口区', 'bonus': ['弹性工作', '职业前景'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127404708.html?rc=03'}

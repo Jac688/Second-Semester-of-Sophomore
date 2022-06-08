@@ -1,0 +1,1 @@
+{'company_name': '上海中正达广基金销售有限公司', 'job_name': 'PHP中级开发工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/101827712.html?rc=03'}

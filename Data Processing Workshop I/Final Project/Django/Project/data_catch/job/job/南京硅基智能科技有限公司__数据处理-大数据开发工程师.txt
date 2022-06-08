@@ -1,0 +1,1 @@
+{'company_name': '南京硅基智能科技有限公司', 'job_name': '数据处理-大数据开发工程师', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131739269.html?rc=03'}

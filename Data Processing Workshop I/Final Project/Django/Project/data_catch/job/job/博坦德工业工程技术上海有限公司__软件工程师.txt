@@ -1,0 +1,1 @@
+{'company_name': '博坦德工业工程技术上海有限公司', 'job_name': '软件工程师', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124643565.html?rc=03'}

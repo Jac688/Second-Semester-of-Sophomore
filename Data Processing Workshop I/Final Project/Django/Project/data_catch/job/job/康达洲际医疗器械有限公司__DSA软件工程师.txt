@@ -1,0 +1,1 @@
+{'company_name': '康达洲际医疗器械有限公司', 'job_name': 'DSA软件工程师', 'geography': '宁波-北仑区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/122528185.html?rc=03'}

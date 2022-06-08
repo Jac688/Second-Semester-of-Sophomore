@@ -1,0 +1,1 @@
+{'company_name': '宁波舜宇智能科技有限公司', 'job_name': 'Linux驱动工程师', 'geography': '宁波-余姚市', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/122871168.html?rc=03'}

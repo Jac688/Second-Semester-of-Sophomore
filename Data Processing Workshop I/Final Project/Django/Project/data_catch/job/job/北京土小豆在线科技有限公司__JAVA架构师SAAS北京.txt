@@ -1,0 +1,1 @@
+{'company_name': '北京土小豆在线科技有限公司', 'job_name': 'JAVA架构师SAAS北京', 'geography': '北京-海淀区', 'bonus': [], 'salary': 3.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131777695.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南宁零度网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '南宁', 'bonus': ['全勤奖', '五险', '节日福利', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/99194598.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '哈工大机器人合肥国际创新研究院', 'job_name': 'C++软件开发工程师人工智能工业互联网', 'geography': '合肥-经开区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '定期体检'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/hefei/131995031.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中嘉康德有限公司', 'job_name': 'Java开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124707971.html?rc=03'}

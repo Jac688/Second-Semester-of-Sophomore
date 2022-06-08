@@ -1,0 +1,1 @@
+{'company_name': '南宁市视点网络信息有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '南宁', 'bonus': ['员工旅游', '专业培训', '绩效奖金', '项目提成'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/131810850.html?rc=03'}

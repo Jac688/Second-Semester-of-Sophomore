@@ -1,0 +1,1 @@
+{'company_name': '中国航空服务有限公司', 'job_name': 'Java开发工程师', 'geography': '北京', 'bonus': ['五险一金', '员工旅游', '定期体检', '补充医疗保险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132194979.html?rc=03'}

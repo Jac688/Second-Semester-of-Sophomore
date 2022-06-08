@@ -1,0 +1,1 @@
+{'company_name': '山东祺瑞升软件有限公司', 'job_name': 'Windchill开发顾问', 'geography': '济南-历下区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/123806703.html?rc=03'}

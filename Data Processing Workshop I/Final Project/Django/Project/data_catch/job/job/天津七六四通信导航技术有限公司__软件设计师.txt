@@ -1,0 +1,1 @@
+{'company_name': '天津七六四通信导航技术有限公司', 'job_name': '软件设计师', 'geography': '天津', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/75399642.html?rc=03'}

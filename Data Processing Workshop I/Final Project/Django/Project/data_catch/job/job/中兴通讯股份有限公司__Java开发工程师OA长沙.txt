@@ -1,0 +1,1 @@
+{'company_name': '中兴通讯股份有限公司', 'job_name': 'Java开发工程师OA长沙', 'geography': '长沙', 'bonus': [], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/changsha/131455076.html?rc=03'}

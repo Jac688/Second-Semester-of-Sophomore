@@ -1,0 +1,1 @@
+{'company_name': '恩立经济咨询深圳有限公司', 'job_name': 'AME-Technical Program Manager', 'geography': '深圳-宝安区', 'bonus': ['年终奖金', '包住宿', '带薪年假', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/122442127.html?rc=03'}

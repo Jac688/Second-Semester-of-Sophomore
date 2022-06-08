@@ -1,0 +1,1 @@
+{'company_name': 'Topgames', 'job_name': '《50万顶薪》资深数据中台研发工程师01', 'geography': '广州', 'bonus': ['五险一金', '弹性工作', '周末双休', '包吃'], 'salary': 20.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129288427.html?rc=03'}

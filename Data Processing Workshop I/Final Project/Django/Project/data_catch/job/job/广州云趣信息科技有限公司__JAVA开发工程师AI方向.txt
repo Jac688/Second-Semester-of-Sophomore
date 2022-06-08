@@ -1,0 +1,1 @@
+{'company_name': '广州云趣信息科技有限公司', 'job_name': 'JAVA开发工程师AI方向', 'geography': '广州-天河区', 'bonus': ['五险一金', '周末双休', '带薪年假', '项目奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/121665392.html?rc=03'}

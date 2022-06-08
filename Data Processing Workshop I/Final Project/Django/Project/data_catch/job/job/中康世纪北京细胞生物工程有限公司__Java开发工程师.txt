@@ -1,0 +1,1 @@
+{'company_name': '中康世纪北京细胞生物工程有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-通州区', 'bonus': ['周末双休', '五险一金', '全勤奖', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130108464.html?rc=03'}

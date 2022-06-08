@@ -1,0 +1,1 @@
+{'company_name': '宁波市龙锦进出口有限公司', 'job_name': 'C++老师老板旗下培训学校', 'geography': '宁波', 'bonus': ['五险一金', '员工旅游', '交通补贴', '通讯补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/124997625.html?rc=03'}

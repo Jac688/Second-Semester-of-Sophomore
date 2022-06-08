@@ -1,0 +1,1 @@
+{'company_name': '四川杰通交通科技有限公司', 'job_name': 'JAVA开发工程师-后端开发', 'geography': '成都-高新区', 'bonus': ['五险一金', '节日福利', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128246990.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东纳睿雷达科技股份有限公司', 'job_name': '数据算法工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '假日福利'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127866610.html?rc=03'}

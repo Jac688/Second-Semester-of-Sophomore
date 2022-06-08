@@ -1,0 +1,1 @@
+{'company_name': '上海溢修瑜珈管理有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-静安区', 'bonus': ['五险一金', '带薪年假', '包住宿', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128082422.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '成都中安电气有限公司', 'job_name': 'cc++研发工程师', 'geography': '成都-金牛区', 'bonus': ['五险一金', '周末双休', '节假日休', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131449810.html?rc=03'}

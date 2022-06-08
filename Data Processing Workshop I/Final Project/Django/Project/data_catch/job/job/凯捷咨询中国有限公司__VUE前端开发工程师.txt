@@ -1,0 +1,1 @@
+{'company_name': '凯捷咨询中国有限公司', 'job_name': 'VUE前端开发工程师', 'geography': '北京-通州区', 'bonus': [], 'salary': 1.9, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129958127.html?rc=03'}

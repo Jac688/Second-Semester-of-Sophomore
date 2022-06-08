@@ -1,0 +1,1 @@
+{'company_name': '成都中嘉微视科技有限公司', 'job_name': '软件助理工程师', 'geography': '成都-郫都区', 'bonus': ['五险一金', '免费班车', '定期体检', '定期团建'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127032539.html?rc=03'}

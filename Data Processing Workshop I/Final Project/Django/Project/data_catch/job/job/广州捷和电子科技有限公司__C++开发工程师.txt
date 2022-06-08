@@ -1,0 +1,1 @@
+{'company_name': '广州捷和电子科技有限公司', 'job_name': 'C++开发工程师', 'geography': '广州-荔湾区', 'bonus': ['年终奖金', '绩效奖金', '五险', '住房补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126278294.html?rc=03'}

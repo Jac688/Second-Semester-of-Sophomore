@@ -1,0 +1,1 @@
+{'company_name': '宁波杉工智能安全科技股份有限公司', 'job_name': '高级JAVA开发工程师研发方向', 'geography': '宁波-海曙区', 'bonus': ['五险一金', '周末双休', '餐饮补贴', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/126523688.html?rc=03'}

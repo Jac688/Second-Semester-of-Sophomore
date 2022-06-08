@@ -1,0 +1,1 @@
+{'company_name': '上海工业自动化仪表研究院有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '补充公积金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/104702472.html?rc=03'}

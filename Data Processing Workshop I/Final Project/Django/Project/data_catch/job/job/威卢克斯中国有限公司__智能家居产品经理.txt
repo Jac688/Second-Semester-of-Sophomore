@@ -1,0 +1,1 @@
+{'company_name': '威卢克斯中国有限公司', 'job_name': '智能家居产品经理', 'geography': '异地招聘', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126990191.html?rc=03'}

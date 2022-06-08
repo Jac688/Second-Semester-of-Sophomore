@@ -1,0 +1,1 @@
+{'company_name': '四川华美紫馨医学美容医院有限公司', 'job_name': 'PHP开发工程师', 'geography': '成都-高新区', 'bonus': ['员工旅游', '专业培训', '绩效奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/121770109.html?rc=03'}

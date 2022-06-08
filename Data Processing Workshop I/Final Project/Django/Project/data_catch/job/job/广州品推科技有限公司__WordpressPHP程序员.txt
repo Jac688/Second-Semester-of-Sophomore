@@ -1,0 +1,1 @@
+{'company_name': '广州品推科技有限公司', 'job_name': 'WordpressPHP程序员', 'geography': '广州-白云区', 'bonus': ['交通补贴', '住房补贴', '高提成', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/87450007.html?rc=03'}

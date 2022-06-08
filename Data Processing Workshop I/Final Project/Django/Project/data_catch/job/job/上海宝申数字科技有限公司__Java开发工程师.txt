@@ -1,0 +1,1 @@
+{'company_name': '上海宝申数字科技有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130349428.html?rc=03'}

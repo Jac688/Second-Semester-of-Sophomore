@@ -1,0 +1,1 @@
+{'company_name': '上海抱朴信息技术有限公司', 'job_name': 'Web开发工程师', 'geography': '上海', 'bonus': ['养生文化', '私厨阿姨', '零食常备', '节日福利'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119601147.html?rc=03'}

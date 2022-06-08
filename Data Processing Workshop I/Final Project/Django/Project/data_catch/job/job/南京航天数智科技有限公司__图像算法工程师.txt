@@ -1,0 +1,1 @@
+{'company_name': '南京航天数智科技有限公司', 'job_name': '图像算法工程师', 'geography': '南京', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130972107.html?rc=03'}

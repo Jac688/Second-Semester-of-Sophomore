@@ -1,0 +1,1 @@
+{'company_name': '上海天用唯勤软件技术有限公司', 'job_name': 'Java开发工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '绩效奖金', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/105204760.html?rc=03'}

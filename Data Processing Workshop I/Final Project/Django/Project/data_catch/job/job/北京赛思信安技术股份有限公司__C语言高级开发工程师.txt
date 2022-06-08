@@ -1,0 +1,1 @@
+{'company_name': '北京赛思信安技术股份有限公司', 'job_name': 'C语言高级开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '年终奖金', '定期体检', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131035931.html?rc=03'}

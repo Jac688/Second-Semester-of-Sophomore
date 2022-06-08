@@ -1,0 +1,1 @@
+{'company_name': '悦锦软件系统(上海)有限公司', 'job_name': 'JAVA中级高级开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充公积金', '员工旅游', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125252278.html?rc=03'}

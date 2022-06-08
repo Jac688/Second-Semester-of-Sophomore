@@ -1,0 +1,1 @@
+{'company_name': '南京智慧航空研究院有限公司', 'job_name': '软件开发系统架构师', 'geography': '南京-秦淮区', 'bonus': ['周末双休', '弹性工作', '带薪年假', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131491981.html?rc=03'}

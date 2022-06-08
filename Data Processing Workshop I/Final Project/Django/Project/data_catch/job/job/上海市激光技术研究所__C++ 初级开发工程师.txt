@@ -1,0 +1,1 @@
+{'company_name': '上海市激光技术研究所', 'job_name': 'C++ 初级开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充公积金', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130764582.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川知周科技有限责任公司', 'job_name': 'C C++ 软件工程师模拟仿真', 'geography': '成都-高新区', 'bonus': ['五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/66487075.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京弘毅知行科技有限公司', 'job_name': '新蓝传媒诚聘golang开发工程师', 'geography': '杭州-萧山区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127270503.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海金榜智能科技有限公司', 'job_name': 'C++开发工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '员工旅游'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129735891.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京才华科技集团有限公司', 'job_name': 'JAVA服务器开发', 'geography': '南京-栖霞区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/123954459.html?rc=03'}

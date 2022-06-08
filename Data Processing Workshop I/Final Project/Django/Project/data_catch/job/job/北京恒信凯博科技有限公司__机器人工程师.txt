@@ -1,0 +1,1 @@
+{'company_name': '北京恒信凯博科技有限公司', 'job_name': '机器人工程师', 'geography': '北京-通州区', 'bonus': [], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128892667.html?rc=03'}

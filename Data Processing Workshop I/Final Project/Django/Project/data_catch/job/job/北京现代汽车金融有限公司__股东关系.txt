@@ -1,0 +1,1 @@
+{'company_name': '北京现代汽车金融有限公司', 'job_name': '股东关系', 'geography': '北京', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130958015.html?rc=03'}

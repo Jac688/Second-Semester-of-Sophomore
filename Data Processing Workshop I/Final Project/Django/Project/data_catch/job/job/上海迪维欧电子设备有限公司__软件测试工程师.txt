@@ -1,0 +1,1 @@
+{'company_name': '上海迪维欧电子设备有限公司', 'job_name': '软件测试工程师', 'geography': '上海-徐汇区', 'bonus': ['周末双休', '带薪年假', '五险一金', '每年调薪'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/108968779.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '厦门狄耐克智能科技股份有限公司', 'job_name': '智能研发-Android工程师2021应届生', 'geography': '异地招聘', 'bonus': ['五险一金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/125834716.html?rc=03'}

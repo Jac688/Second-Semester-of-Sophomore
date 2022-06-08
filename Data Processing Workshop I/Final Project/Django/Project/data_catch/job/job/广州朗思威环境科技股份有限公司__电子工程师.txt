@@ -1,0 +1,1 @@
+{'company_name': '广州朗思威环境科技股份有限公司', 'job_name': '电子工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/92283073.html?rc=03'}

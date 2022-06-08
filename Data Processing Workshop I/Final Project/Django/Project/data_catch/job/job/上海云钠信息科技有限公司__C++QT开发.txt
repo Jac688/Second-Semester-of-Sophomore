@@ -1,0 +1,1 @@
+{'company_name': '上海云钠信息科技有限公司', 'job_name': 'C++QT开发', 'geography': '上海-闵行区', 'bonus': ['五险一金', '弹性工作', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127926651.html?rc=03'}

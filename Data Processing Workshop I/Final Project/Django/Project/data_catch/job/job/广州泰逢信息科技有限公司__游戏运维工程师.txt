@@ -1,0 +1,1 @@
+{'company_name': '广州泰逢信息科技有限公司', 'job_name': '游戏运维工程师', 'geography': '广州-天河区', 'bonus': ['包三餐', '五险一金', '年底双薪', '项目奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124047565.html?rc=03'}

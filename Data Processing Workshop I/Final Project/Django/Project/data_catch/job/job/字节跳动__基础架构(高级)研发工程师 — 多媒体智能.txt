@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '基础架构(高级)研发工程师 — 多媒体智能', 'geography': '杭州', 'bonus': ['六险一金', '股票期权', '大牛带队', '晋升空间大'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/120228894.html?rc=03'}

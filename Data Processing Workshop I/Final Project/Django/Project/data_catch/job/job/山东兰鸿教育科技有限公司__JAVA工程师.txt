@@ -1,0 +1,1 @@
+{'company_name': '山东兰鸿教育科技有限公司', 'job_name': 'JAVA工程师', 'geography': '潍坊-奎文区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/weifang/132302202.html?rc=03'}

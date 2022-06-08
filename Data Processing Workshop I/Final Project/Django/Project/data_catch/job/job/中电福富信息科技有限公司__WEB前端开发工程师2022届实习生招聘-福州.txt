@@ -1,0 +1,1 @@
+{'company_name': '中电福富信息科技有限公司', 'job_name': 'WEB前端开发工程师2022届实习生招聘-福州', 'geography': '福州', 'bonus': ['餐饮补贴'], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/131771216.html?rc=03'}

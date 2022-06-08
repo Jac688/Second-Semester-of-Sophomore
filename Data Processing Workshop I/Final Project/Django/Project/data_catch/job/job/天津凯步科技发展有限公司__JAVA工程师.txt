@@ -1,0 +1,1 @@
+{'company_name': '天津凯步科技发展有限公司', 'job_name': 'JAVA工程师', 'geography': '天津-红桥区', 'bonus': ['五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/96013022.html?rc=03'}

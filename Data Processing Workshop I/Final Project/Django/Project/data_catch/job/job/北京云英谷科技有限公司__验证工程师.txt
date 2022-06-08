@@ -1,0 +1,1 @@
+{'company_name': '北京云英谷科技有限公司', 'job_name': '验证工程师', 'geography': '北京-海淀区', 'bonus': ['六险一金', '双休+年假', '年度调薪', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/86478901.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州市点易资讯科技有限公司', 'job_name': '服务器运维工程师', 'geography': '广州-番禺区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127273669.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京捷升通达信息技术有限公司', 'job_name': '车辆控制工程师', 'geography': '北京-丰台区', 'bonus': ['餐饮补贴', '年终奖金', '六险一金', '定期团建'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130712932.html?rc=03'}

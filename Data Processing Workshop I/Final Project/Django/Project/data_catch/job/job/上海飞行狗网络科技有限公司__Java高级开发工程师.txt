@@ -1,0 +1,1 @@
+{'company_name': '上海飞行狗网络科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '成都-武侯区', 'bonus': ['五险', '绩效奖金', '员工旅游', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130777286.html?rc=03'}

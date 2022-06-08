@@ -1,0 +1,1 @@
+{'company_name': '上海速擎软件有限公司', 'job_name': 'Java开发工程师项目经理方向', 'geography': '北京', 'bonus': ['周末双休', '弹性工作', '五险一金', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129026526.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '乐鑫信息科技上海股份有限公司', 'job_name': 'IC 设计工程师MAC', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '补充公积金', '员工旅游', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/117764469.html?rc=03'}

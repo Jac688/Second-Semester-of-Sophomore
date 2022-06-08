@@ -1,0 +1,1 @@
+{'company_name': '北京盛安德科技发展有限公司秦皇岛分公司', 'job_name': 'PHP Magento二次开发', 'geography': '秦皇岛', 'bonus': ['五险一金', '补充公积金', '员工旅游', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/qinhuangdao/131518510.html?rc=03'}

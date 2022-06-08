@@ -1,0 +1,1 @@
+{'company_name': '中国福州外轮代理有限公司', 'job_name': '国企C#手机APP前端开发工程师', 'geography': '福州-鼓楼区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/128728907.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '徐州芒旭软件科技有限公司', 'job_name': 'Web开发工程师双休、五险一金', 'geography': '徐州', 'bonus': ['五险一金', '周末双休', '加班补贴', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/126250608.html?rc=03'}

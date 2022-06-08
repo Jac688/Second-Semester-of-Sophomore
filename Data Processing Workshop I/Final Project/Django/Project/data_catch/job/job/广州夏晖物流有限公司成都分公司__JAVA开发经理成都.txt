@@ -1,0 +1,1 @@
+{'company_name': '广州夏晖物流有限公司成都分公司', 'job_name': 'JAVA开发经理成都', 'geography': '成都-双流区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '餐饮补贴'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129717611.html?rc=03'}

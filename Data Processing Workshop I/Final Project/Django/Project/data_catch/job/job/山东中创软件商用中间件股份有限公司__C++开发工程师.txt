@@ -1,0 +1,1 @@
+{'company_name': '山东中创软件商用中间件股份有限公司', 'job_name': 'C++开发工程师', 'geography': '济南-历下区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130621063.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后端开发工程师-抖音今日头条西瓜视频', 'geography': '北京', 'bonus': ['租房补贴', '免费三餐', '六险一金', '扁平管理'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/120258038.html?rc=03'}

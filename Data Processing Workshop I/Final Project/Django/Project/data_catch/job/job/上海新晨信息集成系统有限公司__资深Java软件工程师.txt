@@ -1,0 +1,1 @@
+{'company_name': '上海新晨信息集成系统有限公司', 'job_name': '资深Java软件工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '交通补贴'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128972683.html?rc=03'}

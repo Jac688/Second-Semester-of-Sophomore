@@ -1,0 +1,1 @@
+{'company_name': '小土环境产业集团有限公司', 'job_name': '高级Java工程师', 'geography': '成都-高新区', 'bonus': ['早九晚六', '周末双休', '试用期公积金', '试用期社保'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125762334.html?rc=03'}

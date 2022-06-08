@@ -1,0 +1,1 @@
+{'company_name': '北京金鸿睿信息科技有限公司', 'job_name': '技术支持工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125063144.html?rc=03'}

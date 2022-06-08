@@ -1,0 +1,1 @@
+{'company_name': '广州市斯睿特智能科技有限公司', 'job_name': '算法工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '弹性工作', '定期体检', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/132038782.html?rc=03'}

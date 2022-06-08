@@ -1,0 +1,1 @@
+{'company_name': '上海艾杰飞人力资源有限公司', 'job_name': '日企技术经理(编号127219) 英语必须', 'geography': '上海', 'bonus': ['国家法定休假', '五险一金', '带薪年假'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128450368.html?rc=03'}

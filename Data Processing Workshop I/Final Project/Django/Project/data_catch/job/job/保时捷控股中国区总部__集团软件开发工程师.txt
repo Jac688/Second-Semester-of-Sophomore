@@ -1,0 +1,1 @@
+{'company_name': '保时捷控股中国区总部', 'job_name': '集团软件开发工程师', 'geography': '杭州-滨江区', 'bonus': ['做五休二', '带薪年假', '五险一金', '绩效奖金'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130497356.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '山东心悦灵科贸有限公司', 'job_name': 'Java高级开发工程师', 'geography': '济南', 'bonus': ['通讯补贴', '住房补贴', '餐饮补贴', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/126815187.html?rc=03'}

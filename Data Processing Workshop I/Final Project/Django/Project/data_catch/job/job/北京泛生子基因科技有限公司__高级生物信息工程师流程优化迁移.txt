@@ -1,0 +1,1 @@
+{'company_name': '北京泛生子基因科技有限公司', 'job_name': '高级生物信息工程师流程优化迁移', 'geography': '北京-昌平区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '餐饮补贴'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/beijing/118121635.html?rc=03'}

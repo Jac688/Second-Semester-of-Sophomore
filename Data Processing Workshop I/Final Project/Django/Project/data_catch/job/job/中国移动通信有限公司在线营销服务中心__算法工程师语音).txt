@@ -1,0 +1,1 @@
+{'company_name': '中国移动通信有限公司在线营销服务中心', 'job_name': '算法工程师语音)', 'geography': '北京-西城区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131053727.html?rc=03'}

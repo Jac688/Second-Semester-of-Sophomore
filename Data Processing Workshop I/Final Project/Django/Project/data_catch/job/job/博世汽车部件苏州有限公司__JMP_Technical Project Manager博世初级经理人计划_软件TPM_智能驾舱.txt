@@ -1,0 +1,1 @@
+{'company_name': '博世汽车部件苏州有限公司', 'job_name': 'JMP_Technical Project Manager博世初级经理人计划_软件TPM_智能驾舱', 'geography': '上海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127594723.html?rc=03'}

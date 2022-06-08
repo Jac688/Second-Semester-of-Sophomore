@@ -1,0 +1,1 @@
+{'company_name': '上海中汇亿达金融信息技术有限公司', 'job_name': '大数据开发专员', 'geography': '上海-浦东新区', 'bonus': ['带薪年假', '五险一金', '专业培训', '补充公积金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132089916.html?rc=03'}

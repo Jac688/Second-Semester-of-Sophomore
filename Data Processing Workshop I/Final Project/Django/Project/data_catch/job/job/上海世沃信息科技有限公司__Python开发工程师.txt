@@ -1,0 +1,1 @@
+{'company_name': '上海世沃信息科技有限公司', 'job_name': 'Python开发工程师', 'geography': '成都', 'bonus': ['周末双休', '带薪年假', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131856831.html?rc=03'}

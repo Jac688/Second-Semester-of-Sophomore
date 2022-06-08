@@ -1,0 +1,1 @@
+{'company_name': '丽水市星际通电子有限公司', 'job_name': 'Unity3d开发工程师', 'geography': '丽水', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '股票期权'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/lishui/132036238.html?rc=03'}

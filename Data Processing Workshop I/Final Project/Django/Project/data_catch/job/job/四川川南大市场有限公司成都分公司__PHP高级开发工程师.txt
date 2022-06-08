@@ -1,0 +1,1 @@
+{'company_name': '四川川南大市场有限公司成都分公司', 'job_name': 'PHP高级开发工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '专业培训', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131341788.html?rc=03'}

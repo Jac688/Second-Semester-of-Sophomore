@@ -1,0 +1,1 @@
+{'company_name': '兆恒电脑科技上海有限公司广州分公司', 'job_name': 'Java开发工程师', 'geography': '上海-徐汇区', 'bonus': ['周末双休', '五险一金', '带薪年假', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/99184535.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京探索者软件股份有限公司', 'job_name': '钢结构专业软件研发工程师', 'geography': '北京', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/86746206.html?rc=03'}

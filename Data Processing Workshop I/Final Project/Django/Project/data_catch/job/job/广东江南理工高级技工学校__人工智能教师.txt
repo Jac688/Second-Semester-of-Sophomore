@@ -1,0 +1,1 @@
+{'company_name': '广东江南理工高级技工学校', 'job_name': '人工智能教师', 'geography': '广州-白云区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127103203.html?rc=03'}

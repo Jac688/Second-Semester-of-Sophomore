@@ -1,0 +1,1 @@
+{'company_name': '四川天正信息科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '成都-高新区', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/109910978.html?rc=03'}

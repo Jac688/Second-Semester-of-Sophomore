@@ -1,0 +1,1 @@
+{'company_name': '名匠工坊建筑技术服务云南有限公司', 'job_name': 'PHP开发工程师', 'geography': '昆明-呈贡区', 'bonus': ['周末双休', '带薪年假', '五险一金', '全勤奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/kunming/129015871.html?rc=03'}

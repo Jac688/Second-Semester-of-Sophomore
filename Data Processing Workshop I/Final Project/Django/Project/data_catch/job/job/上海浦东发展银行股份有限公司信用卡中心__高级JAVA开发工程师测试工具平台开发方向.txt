@@ -1,0 +1,1 @@
+{'company_name': '上海浦东发展银行股份有限公司信用卡中心', 'job_name': '高级JAVA开发工程师测试工具平台开发方向', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131888550.html?rc=03'}

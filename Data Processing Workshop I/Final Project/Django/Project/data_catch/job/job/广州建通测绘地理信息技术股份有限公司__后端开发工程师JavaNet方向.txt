@@ -1,0 +1,1 @@
+{'company_name': '广州建通测绘地理信息技术股份有限公司', 'job_name': '后端开发工程师JavaNet方向', 'geography': '广州-天河区', 'bonus': ['周末双休', '五险一金', '绩效奖金', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/116345115.html?rc=03'}

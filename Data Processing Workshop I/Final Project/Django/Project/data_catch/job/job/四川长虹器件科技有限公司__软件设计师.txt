@@ -1,0 +1,1 @@
+{'company_name': '四川长虹器件科技有限公司', 'job_name': '软件设计师', 'geography': '绵阳', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/mianyang/126448163.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海派能能源科技股份有限公司', 'job_name': 'WINDOWS软件开发工程师', 'geography': '上海', 'bonus': ['餐饮补贴', '年终奖金', '定期体检', '绩效奖金'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126279359.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海庆科信息技术有限公司', 'job_name': '嵌入式开发工程师', 'geography': '上海-普陀区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/81581165.html?rc=03'}

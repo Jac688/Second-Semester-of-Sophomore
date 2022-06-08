@@ -1,0 +1,1 @@
+{'company_name': '上海天正智能数据服务有限公司', 'job_name': '数据库开发工程师(J10042)', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129128321.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '得力集团有限公司', 'job_name': '硬件测试工程师', 'geography': '宁波-宁海县', 'bonus': ['五险一金', '免费班车', '专业培训', '包吃住'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131963295.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '成都丰火新创科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '成都-双流区', 'bonus': ['包住宿', '全勤奖', '绩效奖金', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/120780272.html?rc=03'}

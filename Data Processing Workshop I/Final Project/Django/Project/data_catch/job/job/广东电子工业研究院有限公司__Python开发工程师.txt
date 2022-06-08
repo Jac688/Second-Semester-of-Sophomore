@@ -1,0 +1,1 @@
+{'company_name': '广东电子工业研究院有限公司', 'job_name': 'Python开发工程师', 'geography': '东莞-松山湖区', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/127412721.html?rc=03'}

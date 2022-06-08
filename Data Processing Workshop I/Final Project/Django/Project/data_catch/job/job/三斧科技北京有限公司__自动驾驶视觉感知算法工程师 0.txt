@@ -1,0 +1,1 @@
+{'company_name': '三斧科技北京有限公司', 'job_name': '自动驾驶视觉感知算法工程师 0', 'geography': '异地招聘', 'bonus': ['五险一金', '专业培训', '生日福利', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/126498542.html?rc=03'}

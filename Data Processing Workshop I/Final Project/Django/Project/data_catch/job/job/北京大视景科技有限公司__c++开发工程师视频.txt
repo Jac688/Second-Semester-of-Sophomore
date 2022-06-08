@@ -1,0 +1,1 @@
+{'company_name': '北京大视景科技有限公司', 'job_name': 'c++开发工程师视频', 'geography': '武汉-洪山区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/130364198.html?rc=03'}

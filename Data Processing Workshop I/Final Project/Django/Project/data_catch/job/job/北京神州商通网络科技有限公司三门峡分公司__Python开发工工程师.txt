@@ -1,0 +1,1 @@
+{'company_name': '北京神州商通网络科技有限公司三门峡分公司', 'job_name': 'Python开发工工程师', 'geography': '三门峡', 'bonus': ['五险', '周末双休', '节假日休', '绩效奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/sanmenxia/123888011.html?rc=03'}

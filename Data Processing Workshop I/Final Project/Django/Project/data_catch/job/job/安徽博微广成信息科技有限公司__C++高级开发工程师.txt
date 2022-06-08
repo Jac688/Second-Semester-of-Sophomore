@@ -1,0 +1,1 @@
+{'company_name': '安徽博微广成信息科技有限公司', 'job_name': 'C++高级开发工程师', 'geography': '合肥', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hefei/91001008.html?rc=03'}

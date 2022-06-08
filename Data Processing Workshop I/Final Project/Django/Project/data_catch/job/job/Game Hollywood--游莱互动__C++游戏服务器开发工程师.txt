@@ -1,0 +1,1 @@
+{'company_name': 'Game Hollywood--游莱互动', 'job_name': 'C++游戏服务器开发工程师', 'geography': '广州-海珠区', 'bonus': ['五险一金', '周末双休', '餐饮补贴', '交通补贴'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/103174752.html?rc=03'}

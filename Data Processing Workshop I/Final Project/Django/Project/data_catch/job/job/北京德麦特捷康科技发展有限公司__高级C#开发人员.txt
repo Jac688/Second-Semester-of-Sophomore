@@ -1,0 +1,1 @@
+{'company_name': '北京德麦特捷康科技发展有限公司', 'job_name': '高级C#开发人员', 'geography': '北京-房山区', 'bonus': ['五险一金', '绩效奖金', '定期体检', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/99790312.html?rc=03'}

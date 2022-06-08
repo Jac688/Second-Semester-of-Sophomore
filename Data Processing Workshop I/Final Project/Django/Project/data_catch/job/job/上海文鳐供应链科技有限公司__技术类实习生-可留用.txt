@@ -1,0 +1,1 @@
+{'company_name': '上海文鳐供应链科技有限公司', 'job_name': '技术类实习生-可留用', 'geography': '杭州-余杭区', 'bonus': ['弹性工作'], 'salary': 0.35, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131805379.html?rc=03'}

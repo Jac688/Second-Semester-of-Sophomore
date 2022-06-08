@@ -1,0 +1,1 @@
+{'company_name': '四川成榕信息技术有限公司', 'job_name': '软件工程师(4-4.5K+社保+提供员工宿舍、午餐)', 'geography': '成都-武侯区', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130330012.html?rc=03'}

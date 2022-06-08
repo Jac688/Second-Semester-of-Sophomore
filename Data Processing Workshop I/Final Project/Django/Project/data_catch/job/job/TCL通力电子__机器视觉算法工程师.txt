@@ -1,0 +1,1 @@
+{'company_name': 'TCL通力电子', 'job_name': '机器视觉算法工程师', 'geography': '惠州', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/131837845.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '服务端技术负责人-中台架构', 'geography': '杭州', 'bonus': ['六险一金', '租房补贴', '健身瑜伽', '过亿用户'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/119109955.html?rc=03'}

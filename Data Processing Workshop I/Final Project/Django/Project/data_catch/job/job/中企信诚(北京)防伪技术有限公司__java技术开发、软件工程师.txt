@@ -1,0 +1,1 @@
+{'company_name': '中企信诚(北京)防伪技术有限公司', 'job_name': 'java技术开发、软件工程师', 'geography': '北京-大兴区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/115934184.html?rc=03'}

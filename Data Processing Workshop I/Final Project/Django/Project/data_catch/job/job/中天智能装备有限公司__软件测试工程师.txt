@@ -1,0 +1,1 @@
+{'company_name': '中天智能装备有限公司', 'job_name': '软件测试工程师', 'geography': '南通-崇川区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nantong/128290104.html?rc=03'}

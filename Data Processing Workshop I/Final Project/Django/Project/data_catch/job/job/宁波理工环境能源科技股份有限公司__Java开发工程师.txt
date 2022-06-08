@@ -1,0 +1,1 @@
+{'company_name': '宁波理工环境能源科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '宁波', 'bonus': ['五险一金', '年终奖金', '餐饮补贴', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128242967.html?rc=03'}

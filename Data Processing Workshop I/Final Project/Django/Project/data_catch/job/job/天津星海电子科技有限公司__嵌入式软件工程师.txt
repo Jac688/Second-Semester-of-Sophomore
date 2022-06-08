@@ -1,0 +1,1 @@
+{'company_name': '天津星海电子科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '天津-东丽区', 'bonus': ['五险一金', '节日福利', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128356239.html?rc=03'}

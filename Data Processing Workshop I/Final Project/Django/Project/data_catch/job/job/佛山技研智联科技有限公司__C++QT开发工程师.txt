@@ -1,0 +1,1 @@
+{'company_name': '佛山技研智联科技有限公司', 'job_name': 'C++QT开发工程师', 'geography': '佛山-禅城区', 'bonus': ['五险一金', '员工旅游', '弹性工作', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/130587807.html?rc=03'}

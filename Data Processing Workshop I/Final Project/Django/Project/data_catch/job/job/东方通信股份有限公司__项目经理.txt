@@ -1,0 +1,1 @@
+{'company_name': '东方通信股份有限公司', 'job_name': '项目经理', 'geography': '异地招聘', 'bonus': ['周末双休', '弹性工作', '五险一金', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132122405.html?rc=03'}

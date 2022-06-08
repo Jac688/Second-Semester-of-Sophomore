@@ -1,0 +1,1 @@
+{'company_name': '北京华捷艾米科技有限公司', 'job_name': 'bsp驱动工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130211178.html?rc=03'}

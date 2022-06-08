@@ -1,0 +1,1 @@
+{'company_name': '思博科技上海SPOTO IT人才培训机构', 'job_name': '运维工程师', 'geography': '福州-闽侯县', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/131499592.html?rc=03'}

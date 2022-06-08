@@ -1,0 +1,1 @@
+{'company_name': '广州茂绿环保科技有限公司', 'job_name': 'Python高级开发工程师', 'geography': '广州-花都区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132347362.html?rc=03'}

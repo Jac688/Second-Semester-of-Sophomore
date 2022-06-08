@@ -1,0 +1,1 @@
+{'company_name': '常州第四无线电厂有限公司', 'job_name': '软件设计师', 'geography': '常州', 'bonus': ['五险一金', '专业培训', '年终奖金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/129110190.html?rc=03'}

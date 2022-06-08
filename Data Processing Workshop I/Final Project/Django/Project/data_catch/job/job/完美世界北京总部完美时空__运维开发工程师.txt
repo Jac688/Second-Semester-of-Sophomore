@@ -1,0 +1,1 @@
+{'company_name': '完美世界北京总部完美时空', 'job_name': '运维开发工程师', 'geography': '北京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128543980.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '德图仪表深圳有限公司', 'job_name': '高级 APP 开发-Senior APP Developer', 'geography': '深圳-光明新区', 'bonus': ['五险一金', '员工旅游', '专业培训', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130137413.html?rc=03'}

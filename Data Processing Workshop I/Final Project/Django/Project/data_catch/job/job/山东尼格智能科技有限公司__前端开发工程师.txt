@@ -1,0 +1,1 @@
+{'company_name': '山东尼格智能科技有限公司', 'job_name': '前端开发工程师', 'geography': '济南-历城区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131484856.html?rc=03'}

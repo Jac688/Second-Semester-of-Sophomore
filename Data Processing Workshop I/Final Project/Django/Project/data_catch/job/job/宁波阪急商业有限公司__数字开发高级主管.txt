@@ -1,0 +1,1 @@
+{'company_name': '宁波阪急商业有限公司', 'job_name': '数字开发高级主管', 'geography': '宁波', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '年终奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/126613703.html?rc=03'}

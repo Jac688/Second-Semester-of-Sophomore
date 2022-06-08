@@ -1,0 +1,1 @@
+{'company_name': '南京市中云数科科技服务有限公司', 'job_name': '软件测试开发', 'geography': '杭州-西湖区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131689770.html?rc=03'}

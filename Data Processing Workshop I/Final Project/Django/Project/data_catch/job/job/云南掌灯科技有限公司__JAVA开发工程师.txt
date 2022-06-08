@@ -1,0 +1,1 @@
+{'company_name': '云南掌灯科技有限公司', 'job_name': 'JAVA开发工程师', 'geography': '昆明-西山区', 'bonus': ['五险一金', '周末双休', '专业培训', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/kunming/131515527.html?rc=03'}

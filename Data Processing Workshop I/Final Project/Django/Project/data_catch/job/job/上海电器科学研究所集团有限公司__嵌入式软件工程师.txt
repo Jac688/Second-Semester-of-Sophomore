@@ -1,0 +1,1 @@
+{'company_name': '上海电器科学研究所集团有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海-普陀区', 'bonus': ['加班少', '落户加分', '业绩增长稳定', '领导80后'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119462389.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北海石基信息技术有限公司', 'job_name': 'JAVA开发工程师', 'geography': '北海', 'bonus': [], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/beihai/100159218.html?rc=03'}

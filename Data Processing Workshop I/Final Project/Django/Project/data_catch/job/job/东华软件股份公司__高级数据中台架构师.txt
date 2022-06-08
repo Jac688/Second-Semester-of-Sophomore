@@ -1,0 +1,1 @@
+{'company_name': '东华软件股份公司', 'job_name': '高级数据中台架构师', 'geography': '青岛', 'bonus': ['五险一金', '通讯补贴', '带薪年假', '周末双休'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/129617285.html?rc=03'}

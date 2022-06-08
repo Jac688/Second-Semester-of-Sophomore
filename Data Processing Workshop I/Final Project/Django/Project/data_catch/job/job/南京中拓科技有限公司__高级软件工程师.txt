@@ -1,0 +1,1 @@
+{'company_name': '南京中拓科技有限公司', 'job_name': '高级软件工程师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '餐饮补贴', '员工旅游', '交通补贴'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129815902.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京贝斯平云科技有限公司', 'job_name': '运维工程师(外派)', 'geography': '上海', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130498438.html?rc=03'}

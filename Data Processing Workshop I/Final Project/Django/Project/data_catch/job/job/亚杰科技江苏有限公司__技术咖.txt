@@ -1,0 +1,1 @@
+{'company_name': '亚杰科技江苏有限公司', 'job_name': '技术咖', 'geography': '北京-大兴区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '补充医疗保险'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125769763.html?rc=03'}

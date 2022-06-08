@@ -1,0 +1,1 @@
+{'company_name': '世纪新讯科技(南京)有限公司', 'job_name': '.net 程序员', 'geography': '南京-秦淮区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128588379.html?rc=03'}

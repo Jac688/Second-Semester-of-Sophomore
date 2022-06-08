@@ -1,0 +1,1 @@
+{'company_name': '宁波六道创意咨询有限公司', 'job_name': '嵌入式软件工程师医疗设备', 'geography': '宁波', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/126912522.html?rc=03'}

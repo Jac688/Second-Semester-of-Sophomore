@@ -1,0 +1,1 @@
+{'company_name': '厦门银行股份有限公司', 'job_name': '总行资金营运中心——量化交易程序员中级', 'geography': '厦门', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/121560297.html?rc=03'}

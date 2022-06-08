@@ -1,0 +1,1 @@
+{'company_name': '上海五蕴信息科技有限公司', 'job_name': 'PHP架构师Magento', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '定期体检'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/114135384.html?rc=03'}

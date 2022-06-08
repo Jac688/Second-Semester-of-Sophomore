@@ -1,0 +1,1 @@
+{'company_name': '成都九威全然科技有限公司', 'job_name': '大数据开发工程师助理', 'geography': '成都-高新区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '补充医疗保险'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124390174.html?rc=03'}

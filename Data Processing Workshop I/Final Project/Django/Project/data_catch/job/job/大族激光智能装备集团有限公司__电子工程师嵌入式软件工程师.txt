@@ -1,0 +1,1 @@
+{'company_name': '大族激光智能装备集团有限公司', 'job_name': '电子工程师嵌入式软件工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '定期体检', '专业培训', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126256006.html?rc=03'}

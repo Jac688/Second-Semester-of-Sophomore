@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '基础架构高级工程师 — 云计算存储系统架构', 'geography': '上海', 'bonus': ['六险一金', '租房补贴', '下午茶', '用户过亿'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128659591.html?rc=03'}

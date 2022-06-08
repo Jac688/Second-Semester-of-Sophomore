@@ -1,0 +1,1 @@
+{'company_name': '北京优诺信创科技有限公司', 'job_name': 'C++软件开发工程师', 'geography': '西安-高新技术产业开发区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/xian/118955208.html?rc=03'}

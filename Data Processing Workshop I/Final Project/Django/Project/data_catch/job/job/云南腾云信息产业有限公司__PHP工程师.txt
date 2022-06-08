@@ -1,0 +1,1 @@
+{'company_name': '云南腾云信息产业有限公司', 'job_name': 'PHP工程师', 'geography': '昆明', 'bonus': ['员工旅游', '绩效奖金', '专业培训', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/kunming/124657727.html?rc=03'}

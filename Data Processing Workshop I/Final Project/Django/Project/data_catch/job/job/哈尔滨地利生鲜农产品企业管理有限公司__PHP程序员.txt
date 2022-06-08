@@ -1,0 +1,1 @@
+{'company_name': '哈尔滨地利生鲜农产品企业管理有限公司', 'job_name': 'PHP程序员', 'geography': '异地招聘', 'bonus': ['包三餐', '包住宿', '绩效奖金', '全勤奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/heilongjiangsheng/129400191.html?rc=03'}

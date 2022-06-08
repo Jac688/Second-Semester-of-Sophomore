@@ -1,0 +1,1 @@
+{'company_name': '上海银马科技有限公司', 'job_name': '资深软件开发工程师+C++', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '绩效奖金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131722433.html?rc=03'}

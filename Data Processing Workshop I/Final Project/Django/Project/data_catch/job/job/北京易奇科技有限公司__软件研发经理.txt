@@ -1,0 +1,1 @@
+{'company_name': '北京易奇科技有限公司', 'job_name': '软件研发经理', 'geography': '北京-东城区', 'bonus': ['五险一金', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127269691.html?rc=03'}

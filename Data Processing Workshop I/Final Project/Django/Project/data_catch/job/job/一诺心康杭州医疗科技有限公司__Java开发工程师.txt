@@ -1,0 +1,1 @@
+{'company_name': '一诺心康杭州医疗科技有限公司', 'job_name': 'Java开发工程师', 'geography': '杭州-滨江区', 'bonus': ['周末双休', '弹性工作', '五险一金', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/122077224.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州恒康伟业教育科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '广州-海珠区', 'bonus': ['做五休二', '专业培训', '五险一金', '餐饮补贴'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127018197.html?rc=03'}

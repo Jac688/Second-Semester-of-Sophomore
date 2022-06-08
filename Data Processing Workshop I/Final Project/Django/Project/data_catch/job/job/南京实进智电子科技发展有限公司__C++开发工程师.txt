@@ -1,0 +1,1 @@
+{'company_name': '南京实进智电子科技发展有限公司', 'job_name': 'C++开发工程师', 'geography': '南京-玄武区', 'bonus': ['五险一金', '交通补贴', '员工旅游', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/126724110.html?rc=03'}

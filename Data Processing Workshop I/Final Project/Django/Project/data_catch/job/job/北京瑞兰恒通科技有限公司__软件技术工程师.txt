@@ -1,0 +1,1 @@
+{'company_name': '北京瑞兰恒通科技有限公司', 'job_name': '软件技术工程师', 'geography': '北京', 'bonus': [], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/122511484.html?rc=03'}

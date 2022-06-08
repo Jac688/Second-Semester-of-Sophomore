@@ -1,0 +1,1 @@
+{'company_name': '惠州晟兴网络科技有限公司', 'job_name': '0号计划基础平台研发专家', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '十三薪', '年终奖', '期权'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131659235.html?rc=03'}

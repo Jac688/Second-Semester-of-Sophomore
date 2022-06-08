@@ -1,0 +1,1 @@
+{'company_name': '天津先进技术研究院', 'job_name': '云安全方向研发人员', 'geography': '天津', 'bonus': ['五险一金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/132105981.html?rc=03'}

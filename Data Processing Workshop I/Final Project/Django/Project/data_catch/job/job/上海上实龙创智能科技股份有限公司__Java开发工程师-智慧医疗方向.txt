@@ -1,0 +1,1 @@
+{'company_name': '上海上实龙创智能科技股份有限公司', 'job_name': 'Java开发工程师-智慧医疗方向', 'geography': '杭州-江干区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/126067090.html?rc=03'}

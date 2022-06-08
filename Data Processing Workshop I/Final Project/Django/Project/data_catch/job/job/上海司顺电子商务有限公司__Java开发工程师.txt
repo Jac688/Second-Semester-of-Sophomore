@@ -1,0 +1,1 @@
+{'company_name': '上海司顺电子商务有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132026492.html?rc=03'}

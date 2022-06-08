@@ -1,0 +1,1 @@
+{'company_name': '南京众仓科技有限公司', 'job_name': 'SLAM算法工程师', 'geography': '南京-栖霞区', 'bonus': ['周末双休', '五险一金', '餐饮补贴', '通讯补贴'], 'salary': 1.75, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/114252493.html?rc=03'}

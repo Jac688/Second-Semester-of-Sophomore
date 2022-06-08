@@ -1,0 +1,1 @@
+{'company_name': '中腾信金融信息服务上海有限公司', 'job_name': 'Java中级开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '定期体检', '补充医疗保险', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127937424.html?rc=03'}

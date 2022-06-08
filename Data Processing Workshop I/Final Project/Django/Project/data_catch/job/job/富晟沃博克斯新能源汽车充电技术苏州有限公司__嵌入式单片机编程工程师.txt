@@ -1,0 +1,1 @@
+{'company_name': '富晟沃博克斯新能源汽车充电技术苏州有限公司', 'job_name': '嵌入式单片机编程工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '专业培训', '年终奖金', '工作餐'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/123343996.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京搜狐新媒体信息技术有限公司', 'job_name': 'CC++开发工程师(视频商业)', 'geography': '北京', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130625510.html?rc=03'}

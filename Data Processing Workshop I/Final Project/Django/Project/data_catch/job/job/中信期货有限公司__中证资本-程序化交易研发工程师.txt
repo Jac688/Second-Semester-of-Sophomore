@@ -1,0 +1,1 @@
+{'company_name': '中信期货有限公司', 'job_name': '中证资本-程序化交易研发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '绩效奖金', '餐补', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121071016.html?rc=03'}

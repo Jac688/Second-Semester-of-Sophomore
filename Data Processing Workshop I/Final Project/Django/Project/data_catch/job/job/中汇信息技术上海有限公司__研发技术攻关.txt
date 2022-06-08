@@ -1,0 +1,1 @@
+{'company_name': '中汇信息技术上海有限公司', 'job_name': '研发技术攻关', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '免费班车'], 'salary': 3.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129760272.html?rc=03'}

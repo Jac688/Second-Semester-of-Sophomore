@@ -1,0 +1,1 @@
+{'company_name': '北京志翔科技股份有限公司', 'job_name': 'python开发工程师浙江', 'geography': '杭州-余杭区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131508518.html?rc=03'}

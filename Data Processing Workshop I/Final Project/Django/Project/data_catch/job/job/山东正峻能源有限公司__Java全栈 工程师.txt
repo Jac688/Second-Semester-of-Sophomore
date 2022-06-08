@@ -1,0 +1,1 @@
+{'company_name': '山东正峻能源有限公司', 'job_name': 'Java全栈 工程师', 'geography': '济南-历下区', 'bonus': ['五险一金', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130427655.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京众志好活科技有限公司', 'job_name': '大数据风控经理', 'geography': '北京-东城区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131617111.html?rc=03'}

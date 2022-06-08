@@ -1,0 +1,1 @@
+{'company_name': '北京宝德恒瑞科技有限公司', 'job_name': 'C++高级开发工程师', 'geography': '北京-昌平区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/118789512.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '常州富兴机电有限公司', 'job_name': '伺服上位机软件工程师', 'geography': '异地招聘', 'bonus': ['带薪年假', '五险一金', '包吃', '全勤奖'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/130357648.html?rc=03'}

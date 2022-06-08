@@ -1,0 +1,1 @@
+{'company_name': '广州论德投资管理有限公司', 'job_name': 'PHP全栈开发工程师8000-1.8万', 'geography': '广州-白云区', 'bonus': [], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130713657.html?rc=03'}

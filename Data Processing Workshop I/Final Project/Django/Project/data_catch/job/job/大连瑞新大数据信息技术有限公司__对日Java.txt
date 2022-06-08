@@ -1,0 +1,1 @@
+{'company_name': '大连瑞新大数据信息技术有限公司', 'job_name': '对日Java', 'geography': '大连-中山区', 'bonus': ['五险一金', '通讯补贴', '年终奖金', '绩效奖金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/dalian/132305998.html?rc=03'}

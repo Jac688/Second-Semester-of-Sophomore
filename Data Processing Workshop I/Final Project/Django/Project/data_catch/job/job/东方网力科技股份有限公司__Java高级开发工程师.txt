@@ -1,0 +1,1 @@
+{'company_name': '东方网力科技股份有限公司', 'job_name': 'Java高级开发工程师', 'geography': '南京', 'bonus': ['绩效奖金', '年终奖金', '股票期权', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/112204744.html?rc=03'}

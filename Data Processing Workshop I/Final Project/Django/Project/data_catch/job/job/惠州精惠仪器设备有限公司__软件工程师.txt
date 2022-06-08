@@ -1,0 +1,1 @@
+{'company_name': '惠州精惠仪器设备有限公司', 'job_name': '软件工程师', 'geography': '惠州', 'bonus': ['五险', '包吃包住', '专业培训', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/129890906.html?rc=03'}

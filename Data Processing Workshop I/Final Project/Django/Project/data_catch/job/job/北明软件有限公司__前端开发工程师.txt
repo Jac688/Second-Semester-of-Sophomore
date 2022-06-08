@@ -1,0 +1,1 @@
+{'company_name': '北明软件有限公司', 'job_name': '前端开发工程师', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '定期体检', '电脑补助', '补充医疗保险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129264459.html?rc=03'}

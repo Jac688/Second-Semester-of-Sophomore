@@ -1,0 +1,1 @@
+{'company_name': '广州市佰斯网络科技有限公司', 'job_name': 'PHP程序员', 'geography': '广州', 'bonus': ['大小周', '绩效奖金', '全勤奖', '节日福利'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125533520.html?rc=03'}

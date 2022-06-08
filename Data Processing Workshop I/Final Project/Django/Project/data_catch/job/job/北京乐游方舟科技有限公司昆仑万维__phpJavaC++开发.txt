@@ -1,0 +1,1 @@
+{'company_name': '北京乐游方舟科技有限公司昆仑万维', 'job_name': 'phpJavaC++开发', 'geography': '北京', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129720812.html?rc=03'}

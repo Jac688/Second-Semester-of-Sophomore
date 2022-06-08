@@ -1,0 +1,1 @@
+{'company_name': '三一重机有限公司', 'job_name': 'C#开发资深工程师', 'geography': '异地招聘', 'bonus': ['绩效奖金', '节日福利', '餐饮补贴', '加班补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/130818667.html?rc=03'}

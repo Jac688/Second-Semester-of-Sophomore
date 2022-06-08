@@ -1,0 +1,1 @@
+{'company_name': '51job校园招聘', 'job_name': '长虹丨嵌入式系统软件开发', 'geography': '成都', 'bonus': [], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130981136.html?rc=03'}

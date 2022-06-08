@@ -1,0 +1,1 @@
+{'company_name': '上海翼萨实业有限公司', 'job_name': '全栈工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '绩效奖金', '做五休二', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119444271.html?rc=03'}

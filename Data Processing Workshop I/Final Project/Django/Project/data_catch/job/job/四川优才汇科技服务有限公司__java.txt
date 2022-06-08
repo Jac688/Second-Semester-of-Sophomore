@@ -1,0 +1,1 @@
+{'company_name': '四川优才汇科技服务有限公司', 'job_name': 'java', 'geography': '成都-武侯区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132309233.html?rc=03'}

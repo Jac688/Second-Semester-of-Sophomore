@@ -1,0 +1,1 @@
+{'company_name': '亿达信息技术有限公司成都分公司', 'job_name': 'AI产品助理', 'geography': '成都-高新区', 'bonus': ['五险一金', '年底双薪', '加班补助', '带薪年假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132303233.html?rc=03'}

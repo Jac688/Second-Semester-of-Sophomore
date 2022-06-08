@@ -1,0 +1,1 @@
+{'company_name': '上海盒马网络科技有限公司', 'job_name': '盒马-联营管理专员-杭州 (MJ004733)', 'geography': '杭州-余杭区', 'bonus': ['绩效奖金', '餐饮补贴', '带薪年假', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127883406.html?rc=03'}

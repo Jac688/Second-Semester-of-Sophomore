@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': 'python开发工程师', 'geography': '北京', 'bonus': ['六险一金', '股票期权', '弹性工作', '免费三餐'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121428436.html?rc=03'}

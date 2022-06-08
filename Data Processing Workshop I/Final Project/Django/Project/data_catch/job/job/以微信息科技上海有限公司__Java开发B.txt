@@ -1,0 +1,1 @@
+{'company_name': '以微信息科技上海有限公司', 'job_name': 'Java开发B', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130917156.html?rc=03'}

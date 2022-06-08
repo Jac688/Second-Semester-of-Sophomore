@@ -1,0 +1,1 @@
+{'company_name': '上海鸣煌网络科技集团有限公司', 'job_name': '音视频开发经验，c++，c编程语言', 'geography': '上海-青浦区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '专业培训'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130491016.html?rc=03'}

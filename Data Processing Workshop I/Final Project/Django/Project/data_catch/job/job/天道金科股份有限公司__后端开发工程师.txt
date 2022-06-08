@@ -1,0 +1,1 @@
+{'company_name': '天道金科股份有限公司', 'job_name': '后端开发工程师', 'geography': '杭州', 'bonus': [], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130659891.html?rc=03'}

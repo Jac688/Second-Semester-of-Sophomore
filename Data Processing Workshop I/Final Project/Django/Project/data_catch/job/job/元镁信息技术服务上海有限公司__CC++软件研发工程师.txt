@@ -1,0 +1,1 @@
+{'company_name': '元镁信息技术服务上海有限公司', 'job_name': 'CC++软件研发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '绩效奖金', '通讯补贴', '带薪年假'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123706184.html?rc=03'}

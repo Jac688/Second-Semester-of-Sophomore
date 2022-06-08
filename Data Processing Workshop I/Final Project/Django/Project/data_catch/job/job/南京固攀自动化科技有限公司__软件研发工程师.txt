@@ -1,0 +1,1 @@
+{'company_name': '南京固攀自动化科技有限公司', 'job_name': '软件研发工程师', 'geography': '南京-浦口区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/106375514.html?rc=03'}

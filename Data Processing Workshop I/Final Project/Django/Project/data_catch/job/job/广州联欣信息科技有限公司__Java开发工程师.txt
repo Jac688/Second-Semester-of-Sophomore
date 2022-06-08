@@ -1,0 +1,1 @@
+{'company_name': '广州联欣信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '广州', 'bonus': ['社保', '商业保险', '员工旅游', '餐饮补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130287268.html?rc=03'}

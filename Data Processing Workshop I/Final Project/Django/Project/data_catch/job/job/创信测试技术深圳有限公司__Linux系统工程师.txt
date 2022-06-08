@@ -1,0 +1,1 @@
+{'company_name': '创信测试技术深圳有限公司', 'job_name': 'Linux系统工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '加班补贴', '年终奖金', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/123762303.html?rc=03'}

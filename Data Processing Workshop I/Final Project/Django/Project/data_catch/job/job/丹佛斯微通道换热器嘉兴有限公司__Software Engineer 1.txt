@@ -1,0 +1,1 @@
+{'company_name': '丹佛斯微通道换热器嘉兴有限公司', 'job_name': 'Software Engineer 1', 'geography': '嘉兴', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/128602067.html?rc=03'}

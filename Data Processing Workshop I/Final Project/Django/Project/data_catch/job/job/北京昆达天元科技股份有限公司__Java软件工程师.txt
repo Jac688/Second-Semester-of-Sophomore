@@ -1,0 +1,1 @@
+{'company_name': '北京昆达天元科技股份有限公司', 'job_name': 'Java软件工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123825020.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '云迪互联科技杭州有限公司', 'job_name': 'Python开发工程师', 'geography': '杭州-西湖区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/126438119.html?rc=03'}

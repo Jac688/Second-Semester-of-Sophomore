@@ -1,0 +1,1 @@
+{'company_name': '山东普罗维登斯教育科技有限公司', 'job_name': 'javaPython编程讲师', 'geography': '济南-高新区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/117380197.html?rc=03'}

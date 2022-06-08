@@ -1,0 +1,1 @@
+{'company_name': '同方佰宜科技北京有限公司', 'job_name': '高级软件工程师智能控制', 'geography': '北京-朝阳区', 'bonus': ['绩效奖金', '五险一金', '通讯补贴', '餐饮补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/74554439.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京万维盈创科技发展有限公司', 'job_name': 'JAVA开发工程师杭州', 'geography': '杭州-余杭区', 'bonus': ['年终奖金', '员工旅游', '定期体检', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/126438328.html?rc=03'}

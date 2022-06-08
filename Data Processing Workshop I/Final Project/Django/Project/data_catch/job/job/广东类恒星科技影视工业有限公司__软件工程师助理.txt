@@ -1,0 +1,1 @@
+{'company_name': '广东类恒星科技影视工业有限公司', 'job_name': '软件工程师助理', 'geography': '江门', 'bonus': ['购社保', '出国机会', '补充商业险', '节假日福利'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/jiangmen/126623362.html?rc=03'}

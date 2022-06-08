@@ -1,0 +1,1 @@
+{'company_name': '北京的卢深视科技有限公司', 'job_name': 'FAE应用工程师人脸识别', 'geography': '深圳-南山区', 'bonus': ['带薪年假', '包住宿', '绩效奖金', '节日福利'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131789901.html?rc=03'}

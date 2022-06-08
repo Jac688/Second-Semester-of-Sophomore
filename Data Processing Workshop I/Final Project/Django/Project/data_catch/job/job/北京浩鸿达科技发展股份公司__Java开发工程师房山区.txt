@@ -1,0 +1,1 @@
+{'company_name': '北京浩鸿达科技发展股份公司', 'job_name': 'Java开发工程师房山区', 'geography': '北京-房山区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131684876.html?rc=03'}

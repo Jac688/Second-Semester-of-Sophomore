@@ -1,0 +1,1 @@
+{'company_name': '天信仪表集团有限公司', 'job_name': '嵌软工程师', 'geography': '温州-苍南县', 'bonus': ['五险一金', '免费班车', '专业培训', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wenzhou/127037063.html?rc=03'}

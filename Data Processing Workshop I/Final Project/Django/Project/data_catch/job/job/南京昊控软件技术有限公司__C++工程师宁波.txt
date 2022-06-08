@@ -1,0 +1,1 @@
+{'company_name': '南京昊控软件技术有限公司', 'job_name': 'C++工程师宁波', 'geography': '宁波-奉化区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129385140.html?rc=03'}

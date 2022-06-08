@@ -1,0 +1,1 @@
+{'company_name': '云从科技', 'job_name': 'UE4-TA技术美术', 'geography': '成都', 'bonus': ['弹性工作', '餐补', '节日福利', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128236994.html?rc=03'}

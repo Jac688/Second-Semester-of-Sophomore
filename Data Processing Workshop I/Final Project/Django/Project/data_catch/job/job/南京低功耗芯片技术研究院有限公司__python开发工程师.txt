@@ -1,0 +1,1 @@
+{'company_name': '南京低功耗芯片技术研究院有限公司', 'job_name': 'python开发工程师', 'geography': '南京-江北新区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129734263.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '佛山市顺德区诚芯环境科技有限公司', 'job_name': '物联网软件工程师', 'geography': '佛山-顺德区', 'bonus': ['带薪年假', '全勤奖', '节日福利', '提供食宿'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/128088771.html?rc=03'}

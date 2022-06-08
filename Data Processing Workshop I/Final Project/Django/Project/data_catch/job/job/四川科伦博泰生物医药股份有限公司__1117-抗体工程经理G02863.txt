@@ -1,0 +1,1 @@
+{'company_name': '四川科伦博泰生物医药股份有限公司', 'job_name': '1117-抗体工程经理G02863', 'geography': '成都-温江区', 'bonus': ['周末双休', '五险一金', '包吃', '包住宿'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131999380.html?rc=03'}

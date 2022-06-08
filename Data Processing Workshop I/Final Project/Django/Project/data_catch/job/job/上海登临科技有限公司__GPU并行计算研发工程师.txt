@@ -1,0 +1,1 @@
+{'company_name': '上海登临科技有限公司', 'job_name': 'GPU并行计算研发工程师', 'geography': '成都-高新区', 'bonus': ['补充医疗保险', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.33, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/116578373.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京中卫信软件科技股份有限公司', 'job_name': '软件实施工程师', 'geography': '重庆-南岸区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 0.75, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129748375.html?rc=03'}

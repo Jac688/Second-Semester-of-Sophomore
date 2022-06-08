@@ -1,0 +1,1 @@
+{'company_name': '义乌市雅菲妮饰品有限公司', 'job_name': 'Java高级开发工程师', 'geography': '杭州-西湖区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/124360010.html?rc=03'}

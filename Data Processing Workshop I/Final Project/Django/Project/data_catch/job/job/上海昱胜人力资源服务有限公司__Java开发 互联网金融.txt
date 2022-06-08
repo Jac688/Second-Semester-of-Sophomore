@@ -1,0 +1,1 @@
+{'company_name': '上海昱胜人力资源服务有限公司', 'job_name': 'Java开发 互联网金融', 'geography': '上海-虹口区', 'bonus': ['五险一金', '节日福利', '专业培训', '绩效奖金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131847321.html?rc=03'}

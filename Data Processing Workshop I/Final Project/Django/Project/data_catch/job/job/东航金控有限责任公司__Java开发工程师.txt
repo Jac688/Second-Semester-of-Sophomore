@@ -1,0 +1,1 @@
+{'company_name': '东航金控有限责任公司', 'job_name': 'Java开发工程师', 'geography': '上海', 'bonus': ['餐饮补贴', '五险一金', '补充公积金', '年终奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/114494072.html?rc=03'}

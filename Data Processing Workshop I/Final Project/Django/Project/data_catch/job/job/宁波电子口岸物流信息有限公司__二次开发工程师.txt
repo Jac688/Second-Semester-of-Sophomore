@@ -1,0 +1,1 @@
+{'company_name': '宁波电子口岸物流信息有限公司', 'job_name': '二次开发工程师', 'geography': '宁波-鄞州区', 'bonus': [], 'salary': 0.58, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129485393.html?rc=03'}

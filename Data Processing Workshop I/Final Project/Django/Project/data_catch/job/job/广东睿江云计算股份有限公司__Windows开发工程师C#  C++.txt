@@ -1,0 +1,1 @@
+{'company_name': '广东睿江云计算股份有限公司', 'job_name': 'Windows开发工程师C#  C++', 'geography': '佛山-禅城区', 'bonus': ['周末双休', '带薪年假', '五险一金', '包住宿'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/124486998.html?rc=03'}

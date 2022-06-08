@@ -1,0 +1,1 @@
+{'company_name': '上海古道商务咨询有限公司', 'job_name': 'PHP中级开发工程师', 'geography': '上海-静安区', 'bonus': ['五险一金', '年终奖金', '弹性工作', '团建'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129994798.html?rc=03'}

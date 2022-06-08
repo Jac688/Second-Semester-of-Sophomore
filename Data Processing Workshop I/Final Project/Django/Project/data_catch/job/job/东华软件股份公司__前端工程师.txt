@@ -1,0 +1,1 @@
+{'company_name': '东华软件股份公司', 'job_name': '前端工程师', 'geography': '济南', 'bonus': ['三险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131278246.html?rc=03'}

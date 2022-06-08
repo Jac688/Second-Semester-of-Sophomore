@@ -1,0 +1,1 @@
+{'company_name': '丹东宏君人才咨询有限公司', 'job_name': '课程研发经理', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '年终双薪', '交通补贴', '餐饮补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129141678.html?rc=03'}

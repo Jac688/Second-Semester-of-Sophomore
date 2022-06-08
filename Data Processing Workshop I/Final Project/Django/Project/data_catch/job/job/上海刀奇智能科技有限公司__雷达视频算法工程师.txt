@@ -1,0 +1,1 @@
+{'company_name': '上海刀奇智能科技有限公司', 'job_name': '雷达视频算法工程师', 'geography': '上海-松江区', 'bonus': ['弹性工作', '五险一金', '补充医疗保险', '专业培训'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129672733.html?rc=03'}

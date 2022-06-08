@@ -1,0 +1,1 @@
+{'company_name': '北京百师联盟信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-房山区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126643567.html?rc=03'}

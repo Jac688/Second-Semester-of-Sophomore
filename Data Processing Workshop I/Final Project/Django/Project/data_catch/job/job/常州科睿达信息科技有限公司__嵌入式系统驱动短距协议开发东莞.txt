@@ -1,0 +1,1 @@
+{'company_name': '常州科睿达信息科技有限公司', 'job_name': '嵌入式系统驱动短距协议开发东莞', 'geography': '东莞-松山湖区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131827678.html?rc=03'}

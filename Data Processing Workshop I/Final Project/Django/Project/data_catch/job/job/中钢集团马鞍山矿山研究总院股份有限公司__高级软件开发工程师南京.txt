@@ -1,0 +1,1 @@
+{'company_name': '中钢集团马鞍山矿山研究总院股份有限公司', 'job_name': '高级软件开发工程师南京', 'geography': '异地招聘', 'bonus': ['五险一金', '交通补贴', '员工旅游', '年终奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128421687.html?rc=03'}

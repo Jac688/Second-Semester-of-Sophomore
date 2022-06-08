@@ -1,0 +1,1 @@
+{'company_name': '仲晨天津人力资源管理有限公司', 'job_name': '嵌入式硬件工程师', 'geography': '天津-西青区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/132217409.html?rc=03'}

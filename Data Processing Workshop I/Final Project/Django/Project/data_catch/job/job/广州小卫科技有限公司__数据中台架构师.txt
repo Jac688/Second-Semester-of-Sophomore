@@ -1,0 +1,1 @@
+{'company_name': '广州小卫科技有限公司', 'job_name': '数据中台架构师', 'geography': '广州-海珠区', 'bonus': ['做五休二', '带薪年假', '五险一金', '加班补贴'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132316115.html?rc=03'}

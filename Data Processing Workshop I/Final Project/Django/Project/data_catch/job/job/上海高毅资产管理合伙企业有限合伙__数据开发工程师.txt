@@ -1,0 +1,1 @@
+{'company_name': '上海高毅资产管理合伙企业有限合伙', 'job_name': '数据开发工程师', 'geography': '上海-浦东新区', 'bonus': ['工作环境佳', '发展空间大', '绩效奖金', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131988265.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京福尔利自动化技术有限公司', 'job_name': '工控工程师  双休', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '员工旅游', '专业培训', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129166284.html?rc=03'}

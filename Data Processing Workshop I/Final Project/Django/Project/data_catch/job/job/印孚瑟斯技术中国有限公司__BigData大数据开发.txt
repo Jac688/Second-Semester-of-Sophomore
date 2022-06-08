@@ -1,0 +1,1 @@
+{'company_name': '印孚瑟斯技术中国有限公司', 'job_name': 'BigData大数据开发', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '餐饮补贴'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132027583.html?rc=03'}

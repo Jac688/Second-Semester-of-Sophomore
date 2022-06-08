@@ -1,0 +1,1 @@
+{'company_name': '北京中安科技发展有限公司', 'job_name': 'JAVA软件开发中级工程师', 'geography': '福州-鼓楼区', 'bonus': ['员工旅游', '年终奖金', '绩效奖金', '五险'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/67936119.html?rc=03'}

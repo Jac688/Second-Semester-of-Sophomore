@@ -1,0 +1,1 @@
+{'company_name': '优合集团有限公司', 'job_name': '测试工程师', 'geography': '深圳', 'bonus': ['五险一金', '年终奖金', '国外旅游', '团建活动'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/121643547.html?rc=03'}

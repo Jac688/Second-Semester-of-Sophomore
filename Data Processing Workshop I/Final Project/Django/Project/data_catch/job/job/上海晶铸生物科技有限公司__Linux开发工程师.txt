@@ -1,0 +1,1 @@
+{'company_name': '上海晶铸生物科技有限公司', 'job_name': 'Linux开发工程师', 'geography': '嘉兴-嘉善县', 'bonus': ['年终奖金', '五险一金', '员工旅游', '出国机会'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/129177353.html?rc=03'}

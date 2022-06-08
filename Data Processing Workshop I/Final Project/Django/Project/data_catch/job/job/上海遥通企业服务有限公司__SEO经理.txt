@@ -1,0 +1,1 @@
+{'company_name': '上海遥通企业服务有限公司', 'job_name': 'SEO经理', 'geography': '上海-静安区', 'bonus': ['五险一金', '带薪年假', '周末双休', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132259424.html?rc=03'}

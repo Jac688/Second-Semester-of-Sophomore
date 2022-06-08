@@ -1,0 +1,1 @@
+{'company_name': '好实再物联网服务深圳有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132335495.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '嘉兴智行物联网技术有限公司', 'job_name': '运维工程师', 'geography': '嘉兴', 'bonus': ['周末双休', '餐饮补贴', '带薪年假', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/131033236.html?rc=03'}

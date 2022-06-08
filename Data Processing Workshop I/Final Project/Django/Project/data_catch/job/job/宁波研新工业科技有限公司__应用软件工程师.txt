@@ -1,0 +1,1 @@
+{'company_name': '宁波研新工业科技有限公司', 'job_name': '应用软件工程师', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/115997522.html?rc=03'}

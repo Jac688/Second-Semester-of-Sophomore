@@ -1,0 +1,1 @@
+{'company_name': '成都中思远信息技术有限公司', 'job_name': '软件技术研发总监软件架构师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131117497.html?rc=03'}

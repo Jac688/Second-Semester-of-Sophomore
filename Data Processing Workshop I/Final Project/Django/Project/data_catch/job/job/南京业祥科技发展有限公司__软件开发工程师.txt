@@ -1,0 +1,1 @@
+{'company_name': '南京业祥科技发展有限公司', 'job_name': '软件开发工程师', 'geography': '南京-六合区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '通讯补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125244251.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '人民数字科技产业有限公司', 'job_name': '后台开发工程师', 'geography': '北京', 'bonus': ['节日福利', '周末双休', '做五休二'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130720931.html?rc=03'}

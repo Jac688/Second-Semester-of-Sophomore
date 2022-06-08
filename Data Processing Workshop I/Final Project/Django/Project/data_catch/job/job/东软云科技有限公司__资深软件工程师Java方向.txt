@@ -1,0 +1,1 @@
+{'company_name': '东软云科技有限公司', 'job_name': '资深软件工程师Java方向', 'geography': '沈阳-浑南区', 'bonus': ['周末双休', '五险一金', '补充医疗保险', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenyang/132259090.html?rc=03'}

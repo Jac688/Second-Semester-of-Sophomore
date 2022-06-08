@@ -1,0 +1,1 @@
+{'company_name': '奥孚教育', 'job_name': '前端开发工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '节日福利', '年终奖金', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130224716.html?rc=03'}

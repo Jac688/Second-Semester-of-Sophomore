@@ -1,0 +1,1 @@
+{'company_name': '南京德塔金数据科技有限公司', 'job_name': 'Java开发工程师', 'geography': '南京', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/110273502.html?rc=03'}

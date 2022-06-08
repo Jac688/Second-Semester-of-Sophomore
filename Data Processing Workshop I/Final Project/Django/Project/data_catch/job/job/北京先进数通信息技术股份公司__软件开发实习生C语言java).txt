@@ -1,0 +1,1 @@
+{'company_name': '北京先进数通信息技术股份公司', 'job_name': '软件开发实习生C语言java)', 'geography': '桂林', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '年终奖金'], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/guilin/104419262.html?rc=03'}

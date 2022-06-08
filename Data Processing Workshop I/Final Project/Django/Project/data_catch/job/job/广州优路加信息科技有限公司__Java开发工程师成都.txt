@@ -1,0 +1,1 @@
+{'company_name': '广州优路加信息科技有限公司', 'job_name': 'Java开发工程师成都', 'geography': '成都-成华区', 'bonus': ['六险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131906434.html?rc=03'}

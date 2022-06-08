@@ -1,0 +1,1 @@
+{'company_name': '嘉兴百盛信息科技有限公司', 'job_name': '.NET、 JAVA开发工程师初级', 'geography': '嘉兴', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/126880856.html?rc=03'}

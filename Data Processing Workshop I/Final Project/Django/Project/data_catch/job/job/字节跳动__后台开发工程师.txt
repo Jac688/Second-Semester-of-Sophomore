@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后台开发工程师', 'geography': '深圳', 'bonus': ['六险一金', '弹性工作', '免费三餐', '餐补'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/105198451.html?rc=03'}

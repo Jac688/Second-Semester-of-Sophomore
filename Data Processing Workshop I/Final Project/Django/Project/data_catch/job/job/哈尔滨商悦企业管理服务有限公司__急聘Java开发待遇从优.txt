@@ -1,0 +1,1 @@
+{'company_name': '哈尔滨商悦企业管理服务有限公司', 'job_name': '急聘Java开发待遇从优', 'geography': '南京-江宁区', 'bonus': ['五险一金', '周末双休', '加班补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130636172.html?rc=03'}

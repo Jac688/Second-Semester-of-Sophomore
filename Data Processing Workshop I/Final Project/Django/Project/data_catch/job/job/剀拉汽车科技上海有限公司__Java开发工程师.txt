@@ -1,0 +1,1 @@
+{'company_name': '剀拉汽车科技上海有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-奉贤区', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130856110.html?rc=03'}

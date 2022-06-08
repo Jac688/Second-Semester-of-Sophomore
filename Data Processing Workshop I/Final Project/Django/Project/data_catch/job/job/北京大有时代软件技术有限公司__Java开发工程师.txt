@@ -1,0 +1,1 @@
+{'company_name': '北京大有时代软件技术有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-昌平区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128629096.html?rc=03'}

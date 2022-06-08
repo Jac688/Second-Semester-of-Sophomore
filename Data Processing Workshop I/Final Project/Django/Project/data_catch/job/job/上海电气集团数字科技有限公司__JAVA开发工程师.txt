@@ -1,0 +1,1 @@
+{'company_name': '上海电气集团数字科技有限公司', 'job_name': 'JAVA开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131506826.html?rc=03'}

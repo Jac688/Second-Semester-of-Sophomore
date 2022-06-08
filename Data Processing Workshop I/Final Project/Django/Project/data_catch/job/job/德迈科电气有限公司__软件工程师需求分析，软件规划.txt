@@ -1,0 +1,1 @@
+{'company_name': '德迈科电气有限公司', 'job_name': '软件工程师需求分析，软件规划', 'geography': '昆山', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/119985332.html?rc=03'}

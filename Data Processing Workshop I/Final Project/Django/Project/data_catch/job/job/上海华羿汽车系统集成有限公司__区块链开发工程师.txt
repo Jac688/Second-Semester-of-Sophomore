@@ -1,0 +1,1 @@
+{'company_name': '上海华羿汽车系统集成有限公司', 'job_name': '区块链开发工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '餐饮补贴', '带薪年假', '带薪病假'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124078360.html?rc=03'}

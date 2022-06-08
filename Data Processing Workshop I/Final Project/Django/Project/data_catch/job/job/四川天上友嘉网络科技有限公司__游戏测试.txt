@@ -1,0 +1,1 @@
+{'company_name': '四川天上友嘉网络科技有限公司', 'job_name': '游戏测试', 'geography': '成都', 'bonus': ['带薪年假', '五险一金', '包吃', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/108980277.html?rc=03'}

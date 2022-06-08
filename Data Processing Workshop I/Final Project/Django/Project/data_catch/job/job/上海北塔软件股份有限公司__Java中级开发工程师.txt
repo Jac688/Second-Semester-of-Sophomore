@@ -1,0 +1,1 @@
+{'company_name': '上海北塔软件股份有限公司', 'job_name': 'Java中级开发工程师', 'geography': '上海', 'bonus': ['五险一金', '绩效奖金', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128170481.html?rc=03'}

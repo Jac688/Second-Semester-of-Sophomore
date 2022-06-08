@@ -1,0 +1,1 @@
+{'company_name': '博世中国投资有限公司', 'job_name': 'JMP_I4.0 Consultant for Manufacturing 博世初级经理人计划_生产制造工业4.0顾问', 'geography': '杭州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127903269.html?rc=03'}

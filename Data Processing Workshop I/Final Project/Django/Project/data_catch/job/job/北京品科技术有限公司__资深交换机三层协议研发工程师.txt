@@ -1,0 +1,1 @@
+{'company_name': '北京品科技术有限公司', 'job_name': '资深交换机三层协议研发工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130573330.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海岑顶通信电子有限公司', 'job_name': 'CC++软件工程师', 'geography': '上海-静安区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130470900.html?rc=03'}

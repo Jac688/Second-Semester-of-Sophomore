@@ -1,0 +1,1 @@
+{'company_name': '广州常胜电商贸易有限公司', 'job_name': 'Java初级开发工程师', 'geography': '广州-越秀区', 'bonus': ['五险一金', '全勤奖', '绩效奖金', '住房补贴'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131550783.html?rc=03'}

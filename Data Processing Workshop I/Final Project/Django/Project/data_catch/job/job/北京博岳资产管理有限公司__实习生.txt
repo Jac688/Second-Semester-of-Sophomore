@@ -1,0 +1,1 @@
+{'company_name': '北京博岳资产管理有限公司', 'job_name': '实习生', 'geography': '北京-海淀区', 'bonus': ['绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129271113.html?rc=03'}

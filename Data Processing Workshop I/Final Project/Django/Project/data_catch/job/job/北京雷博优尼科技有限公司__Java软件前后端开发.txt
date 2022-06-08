@@ -1,0 +1,1 @@
+{'company_name': '北京雷博优尼科技有限公司', 'job_name': 'Java软件前后端开发', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129377953.html?rc=03'}

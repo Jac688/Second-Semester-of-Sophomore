@@ -1,0 +1,1 @@
+{'company_name': '一宠上海健康科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '定期体检', '带薪年假', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130298804.html?rc=03'}

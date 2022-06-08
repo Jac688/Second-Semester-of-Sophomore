@@ -1,0 +1,1 @@
+{'company_name': '恒瑞医药-上海盛迪医药有限公司', 'job_name': 'SAS程序员高级', 'geography': '南京-鼓楼区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127501886.html?rc=03'}

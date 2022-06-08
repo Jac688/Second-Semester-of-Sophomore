@@ -1,0 +1,1 @@
+{'company_name': '北京鲸鹳科技有限公司', 'job_name': '系统运维工程师中高级', 'geography': '北京-东城区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125991596.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '安徽天元通信发展有限公司', 'job_name': 'Java高级开发工程师', 'geography': '福州-闽侯县', 'bonus': ['交通补贴', '通讯补贴', '专业培训', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/131006185.html?rc=03'}

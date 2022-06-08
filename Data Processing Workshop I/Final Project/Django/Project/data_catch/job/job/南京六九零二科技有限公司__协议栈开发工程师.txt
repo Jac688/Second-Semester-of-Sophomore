@@ -1,0 +1,1 @@
+{'company_name': '南京六九零二科技有限公司', 'job_name': '协议栈开发工程师', 'geography': '南京', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '股票期权'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131675884.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'CXA Group', 'job_name': '前端工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '定期体检', '年终奖金', '补充医疗保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123236841.html?rc=03'}

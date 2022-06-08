@@ -1,0 +1,1 @@
+{'company_name': '上海百力格生物技术有限公司', 'job_name': 'IT工程师', 'geography': '上海-松江区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130805690.html?rc=03'}

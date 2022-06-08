@@ -1,0 +1,1 @@
+{'company_name': '中航宝胜智能技术上海有限公司', 'job_name': 'Java资深开发工程师', 'geography': '扬州-广陵区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/yangzhou/131197332.html?rc=03'}

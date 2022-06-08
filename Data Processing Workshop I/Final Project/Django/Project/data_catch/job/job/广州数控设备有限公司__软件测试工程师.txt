@@ -1,0 +1,1 @@
+{'company_name': '广州数控设备有限公司', 'job_name': '软件测试工程师', 'geography': '广州', 'bonus': ['员工班车', '定期体检', '专业培训', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129821663.html?rc=03'}

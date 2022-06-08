@@ -1,0 +1,1 @@
+{'company_name': '广东艾科智泊科技股份有限公司', 'job_name': 'Linux C++软件工程师', 'geography': '佛山', 'bonus': ['周末双休', '带薪年假', '五险一金', '交通补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/foshan/114322247.html?rc=03'}

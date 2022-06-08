@@ -1,0 +1,1 @@
+{'company_name': '北京征和科技有限公司', 'job_name': '项目经理—JAVA方向', 'geography': '北京-东城区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/95684751.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海云鱼智能科技有限公司', 'job_name': 'FPGA工程师', 'geography': '苏州-姑苏区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/119667021.html?rc=03'}

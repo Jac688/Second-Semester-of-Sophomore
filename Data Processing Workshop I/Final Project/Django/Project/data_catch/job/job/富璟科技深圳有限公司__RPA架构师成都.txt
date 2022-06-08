@@ -1,0 +1,1 @@
+{'company_name': '富璟科技深圳有限公司', 'job_name': 'RPA架构师成都', 'geography': '成都-高新区', 'bonus': ['五险一金', '年终奖金', '弹性工作', '早餐牛奶'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131651527.html?rc=03'}

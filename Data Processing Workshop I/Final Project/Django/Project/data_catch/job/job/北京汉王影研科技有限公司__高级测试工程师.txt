@@ -1,0 +1,1 @@
+{'company_name': '北京汉王影研科技有限公司', 'job_name': '高级测试工程师', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124480384.html?rc=03'}

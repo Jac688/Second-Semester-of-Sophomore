@@ -1,0 +1,1 @@
+{'company_name': '小乔科技', 'job_name': '前端开发工程师', 'geography': '上海-闵行区', 'bonus': ['员工旅游', '绩效奖金', '弹性工作', '五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130715081.html?rc=03'}

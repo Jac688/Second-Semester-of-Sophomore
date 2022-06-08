@@ -1,0 +1,1 @@
+{'company_name': '上海睿芽教育科技有限公司', 'job_name': 'Java初级开发工程师', 'geography': '南昌-青山湖区', 'bonus': ['员工旅游', '绩效奖金', '五险', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/122318527.html?rc=03'}

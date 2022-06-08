@@ -1,0 +1,1 @@
+{'company_name': '宁波理工环境能源科技股份有限公司', 'job_name': 'CC++工程师', 'geography': '宁波', 'bonus': ['五险一金', '年终奖金', '通讯补贴', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/126850766.html?rc=03'}

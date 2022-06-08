@@ -1,0 +1,1 @@
+{'company_name': '哲库科技上海有限公司', 'job_name': 'SoC CPU Design Engineer8549', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '免费班车', '交通补贴', '绩效奖金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131520714.html?rc=03'}

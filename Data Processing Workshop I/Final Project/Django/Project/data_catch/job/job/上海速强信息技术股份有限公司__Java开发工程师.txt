@@ -1,0 +1,1 @@
+{'company_name': '上海速强信息技术股份有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-丰台区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127082666.html?rc=03'}

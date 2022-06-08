@@ -1,0 +1,1 @@
+{'company_name': '上海才历网络有限公司', 'job_name': 'Web前端开发工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/114351420.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '徐州市中博教育培训中心', 'job_name': '云计算教员', 'geography': '徐州-云龙区', 'bonus': ['带薪年假', '餐饮补贴', '节日福利', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/127421049.html?rc=03'}

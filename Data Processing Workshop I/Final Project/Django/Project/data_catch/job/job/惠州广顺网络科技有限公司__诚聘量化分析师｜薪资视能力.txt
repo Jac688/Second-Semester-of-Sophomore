@@ -1,0 +1,1 @@
+{'company_name': '惠州广顺网络科技有限公司', 'job_name': '诚聘量化分析师｜薪资视能力', 'geography': '成都-武侯区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130534161.html?rc=03'}

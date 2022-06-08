@@ -1,0 +1,1 @@
+{'company_name': '上海宏邦知识产权代理有限公司', 'job_name': '软著工程师懂研发，不加班', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131364291.html?rc=03'}

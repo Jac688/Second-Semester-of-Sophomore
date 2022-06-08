@@ -1,0 +1,1 @@
+{'company_name': '云南赶马网络有限公司', 'job_name': 'PHP', 'geography': '昆明-五华区', 'bonus': ['专业培训'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/kunming/132201000.html?rc=03'}

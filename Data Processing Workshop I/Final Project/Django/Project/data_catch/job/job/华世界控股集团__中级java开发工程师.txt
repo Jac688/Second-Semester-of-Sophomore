@@ -1,0 +1,1 @@
+{'company_name': '华世界控股集团', 'job_name': '中级java开发工程师', 'geography': '深圳-龙岗区', 'bonus': ['五险一金', '员工宿舍', '员工活动', '健身俱乐部'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129652542.html?rc=03'}

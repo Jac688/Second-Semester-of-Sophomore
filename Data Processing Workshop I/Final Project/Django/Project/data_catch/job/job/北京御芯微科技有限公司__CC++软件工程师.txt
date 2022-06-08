@@ -1,0 +1,1 @@
+{'company_name': '北京御芯微科技有限公司', 'job_name': 'CC++软件工程师', 'geography': '重庆-沙坪坝区', 'bonus': ['五险一金', '专业培训', '出国机会', '年终奖金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/130820491.html?rc=03'}

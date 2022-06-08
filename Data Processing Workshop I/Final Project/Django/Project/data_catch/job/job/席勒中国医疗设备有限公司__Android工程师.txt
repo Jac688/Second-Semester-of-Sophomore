@@ -1,0 +1,1 @@
+{'company_name': '席勒中国医疗设备有限公司', 'job_name': 'Android工程师', 'geography': '天津', 'bonus': ['五险一金', '定期体检', '周末双休', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128404161.html?rc=03'}

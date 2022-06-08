@@ -1,0 +1,1 @@
+{'company_name': '北京艾芯集成电路设计有限公司', 'job_name': '集成电路IC前端设计工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127671345.html?rc=03'}

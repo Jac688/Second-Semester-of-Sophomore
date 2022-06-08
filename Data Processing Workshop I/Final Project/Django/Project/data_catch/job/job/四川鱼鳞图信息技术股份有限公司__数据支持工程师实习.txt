@@ -1,0 +1,1 @@
+{'company_name': '四川鱼鳞图信息技术股份有限公司', 'job_name': '数据支持工程师实习', 'geography': '成都-金牛区', 'bonus': ['五险一金', '节日福利', '带薪年假', '年终奖金'], 'salary': 0.35, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129436610.html?rc=03'}

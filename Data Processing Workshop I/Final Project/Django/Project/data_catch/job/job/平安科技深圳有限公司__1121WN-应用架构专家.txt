@@ -1,0 +1,1 @@
+{'company_name': '平安科技深圳有限公司', 'job_name': '1121WN-应用架构专家', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '节日福利', '带薪年假'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/119136788.html?rc=03'}

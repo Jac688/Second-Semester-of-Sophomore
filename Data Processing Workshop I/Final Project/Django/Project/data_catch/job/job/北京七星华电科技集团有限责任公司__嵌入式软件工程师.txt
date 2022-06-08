@@ -1,0 +1,1 @@
+{'company_name': '北京七星华电科技集团有限责任公司', 'job_name': '嵌入式软件工程师', 'geography': '北京-朝阳区', 'bonus': ['定期体检', '五险一金', '高温补贴', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131235710.html?rc=03'}

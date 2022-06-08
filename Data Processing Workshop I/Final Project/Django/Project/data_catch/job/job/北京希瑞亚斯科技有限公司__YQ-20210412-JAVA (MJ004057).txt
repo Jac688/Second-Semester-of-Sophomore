@@ -1,0 +1,1 @@
+{'company_name': '北京希瑞亚斯科技有限公司', 'job_name': 'YQ-20210412-JAVA (MJ004057)', 'geography': '北京-海淀区', 'bonus': ['周末双休', '节日福利'], 'salary': 11.1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131009116.html?rc=03'}

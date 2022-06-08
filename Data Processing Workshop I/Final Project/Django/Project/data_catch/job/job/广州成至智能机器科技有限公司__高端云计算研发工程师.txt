@@ -1,0 +1,1 @@
+{'company_name': '广州成至智能机器科技有限公司', 'job_name': '高端云计算研发工程师', 'geography': '广州-天河区', 'bonus': ['专业培训', '住宿水电全免', '行业前景广阔', '项目绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123520217.html?rc=03'}

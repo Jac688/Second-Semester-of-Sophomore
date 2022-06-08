@@ -1,0 +1,1 @@
+{'company_name': '工保科技浙江有限公司', 'job_name': '技术支持工程师', 'geography': '杭州-滨江区', 'bonus': ['带薪年假', '周末双休', '五险一金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132251941.html?rc=03'}

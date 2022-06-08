@@ -1,0 +1,1 @@
+{'company_name': '广州荔支网络技术有限公司', 'job_name': 'NLP算法工程师  (MJ000969)', 'geography': '北京-朝阳区', 'bonus': ['员工旅游', '免费三餐', '绩效奖金', '定期体检'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131811968.html?rc=03'}

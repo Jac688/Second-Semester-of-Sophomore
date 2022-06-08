@@ -1,0 +1,1 @@
+{'company_name': '中电海康无锡科技有限公司', 'job_name': '微系统协同平台软件运维工程师', 'geography': '无锡', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/124492853.html?rc=03'}

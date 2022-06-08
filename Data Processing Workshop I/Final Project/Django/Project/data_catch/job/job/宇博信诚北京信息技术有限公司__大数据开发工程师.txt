@@ -1,0 +1,1 @@
+{'company_name': '宇博信诚北京信息技术有限公司', 'job_name': '大数据开发工程师', 'geography': '杭州', 'bonus': ['五险一金', '员工旅游', '定期体检', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/99874921.html?rc=03'}

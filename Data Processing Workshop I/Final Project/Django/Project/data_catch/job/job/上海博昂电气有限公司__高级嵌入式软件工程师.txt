@@ -1,0 +1,1 @@
+{'company_name': '上海博昂电气有限公司', 'job_name': '高级嵌入式软件工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131266132.html?rc=03'}

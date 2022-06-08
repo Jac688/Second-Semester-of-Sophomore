@@ -1,0 +1,1 @@
+{'company_name': '元气森林北京食品科技集团有限公司', 'job_name': '高级Java开发工程师 (MJ001260)', 'geography': '北京-朝阳区', 'bonus': ['弹性工作', '周末双休', '包吃', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132329190.html?rc=03'}

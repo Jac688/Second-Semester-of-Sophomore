@@ -1,0 +1,1 @@
+{'company_name': '上海思群软件有限公司', 'job_name': 'UNIX C工程师温州', 'geography': '温州', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '定期体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/wenzhou/103636452.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海泰辑软件有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '股票期权', '绩效奖金', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129361317.html?rc=03'}

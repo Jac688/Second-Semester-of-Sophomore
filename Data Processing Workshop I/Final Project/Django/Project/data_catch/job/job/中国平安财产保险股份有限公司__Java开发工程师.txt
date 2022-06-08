@@ -1,0 +1,1 @@
+{'company_name': '中国平安财产保险股份有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127878256.html?rc=03'}

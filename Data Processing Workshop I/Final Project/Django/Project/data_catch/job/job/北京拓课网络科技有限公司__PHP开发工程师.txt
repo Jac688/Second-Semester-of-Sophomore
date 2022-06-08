@@ -1,0 +1,1 @@
+{'company_name': '北京拓课网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '武汉-东湖新技术产业开发区', 'bonus': ['五险一金', '周末双休', '餐饮补贴', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/130001280.html?rc=03'}

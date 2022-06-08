@@ -1,0 +1,1 @@
+{'company_name': '东莞市嘉佰达电子科技有限公司', 'job_name': 'BMS嵌入式软件工程师', 'geography': '深圳-龙华区', 'bonus': ['绩效奖金', '年终奖金', '员工旅游', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/120487257.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '山东知味轩食品有限公司', 'job_name': '软件实施工程师', 'geography': '潍坊-寒亭区', 'bonus': ['周末双休', '带薪年假', '包吃', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/weifang/130574043.html?rc=03'}

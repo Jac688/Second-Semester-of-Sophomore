@@ -1,0 +1,1 @@
+{'company_name': '中信集团河南有限公司', 'job_name': 'Web前端开发实习生', 'geography': '广州-天河区', 'bonus': [], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131177017.html?rc=03'}

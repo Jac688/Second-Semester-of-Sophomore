@@ -1,0 +1,1 @@
+{'company_name': '广州慈康生物科技有限公司', 'job_name': '网络推广专员', 'geography': '广州-花都区', 'bonus': ['五险一金', '大小周', '绩效奖金', '定期体检'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132027652.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州思泰信息技术有限公司', 'job_name': '嵌入式软件工程师', 'geography': '广州-番禺区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '弹性工作'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123109289.html?rc=03'}

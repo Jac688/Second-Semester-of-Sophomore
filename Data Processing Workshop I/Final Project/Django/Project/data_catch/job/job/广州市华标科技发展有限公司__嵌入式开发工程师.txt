@@ -1,0 +1,1 @@
+{'company_name': '广州市华标科技发展有限公司', 'job_name': '嵌入式开发工程师', 'geography': '广州-天河区', 'bonus': ['免费班车', '定期体检', '股票期权', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/100483343.html?rc=03'}

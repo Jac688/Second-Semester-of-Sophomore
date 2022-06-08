@@ -1,0 +1,1 @@
+{'company_name': '同方股份有限公司', 'job_name': '网络安全工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/116320131.html?rc=03'}

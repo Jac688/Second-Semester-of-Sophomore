@@ -1,0 +1,1 @@
+{'company_name': '信必优(深圳)信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-龙泉驿区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131970050.html?rc=03'}

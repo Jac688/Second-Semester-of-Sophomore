@@ -1,0 +1,1 @@
+{'company_name': '广州仓实信息科技有限公司', 'job_name': 'Java开发经理', 'geography': '广州-越秀区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131974956.html?rc=03'}

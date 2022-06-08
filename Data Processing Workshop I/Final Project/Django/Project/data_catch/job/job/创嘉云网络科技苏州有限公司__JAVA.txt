@@ -1,0 +1,1 @@
+{'company_name': '创嘉云网络科技苏州有限公司', 'job_name': 'JAVA', 'geography': '苏州-高新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131401972.html?rc=03'}

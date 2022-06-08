@@ -1,0 +1,1 @@
+{'company_name': '广州信维电子科技股份有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '免费班车', '员工旅游', '交通补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131269871.html?rc=03'}

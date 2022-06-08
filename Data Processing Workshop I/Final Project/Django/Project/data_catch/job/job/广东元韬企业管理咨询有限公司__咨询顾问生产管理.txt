@@ -1,0 +1,1 @@
+{'company_name': '广东元韬企业管理咨询有限公司', 'job_name': '咨询顾问生产管理', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129887150.html?rc=03'}

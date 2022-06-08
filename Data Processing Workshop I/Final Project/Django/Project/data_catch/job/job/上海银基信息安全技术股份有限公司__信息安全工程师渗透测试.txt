@@ -1,0 +1,1 @@
+{'company_name': '上海银基信息安全技术股份有限公司', 'job_name': '信息安全工程师渗透测试', 'geography': '南京', 'bonus': ['五险一金', '员工旅游', '股票期权', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128788276.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京朗仪物联网技术有限公司', 'job_name': '高级软件开发工程师    前端', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130713140.html?rc=03'}

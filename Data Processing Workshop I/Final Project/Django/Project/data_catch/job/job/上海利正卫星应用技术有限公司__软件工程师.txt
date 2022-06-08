@@ -1,0 +1,1 @@
+{'company_name': '上海利正卫星应用技术有限公司', 'job_name': '软件工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '员工旅游', '专业培训', '交通补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/75672122.html?rc=03'}

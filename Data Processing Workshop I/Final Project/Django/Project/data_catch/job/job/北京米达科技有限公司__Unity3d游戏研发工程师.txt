@@ -1,0 +1,1 @@
+{'company_name': '北京米达科技有限公司', 'job_name': 'Unity3d游戏研发工程师', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130907397.html?rc=03'}

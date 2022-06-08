@@ -1,0 +1,1 @@
+{'company_name': '上海凯哲信息科技有限公司', 'job_name': 'PHP软件开发工程师', 'geography': '上海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129631834.html?rc=03'}

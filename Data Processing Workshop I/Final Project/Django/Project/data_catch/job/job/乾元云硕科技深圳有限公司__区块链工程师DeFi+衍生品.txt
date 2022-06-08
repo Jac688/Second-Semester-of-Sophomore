@@ -1,0 +1,1 @@
+{'company_name': '乾元云硕科技深圳有限公司', 'job_name': '区块链工程师DeFi+衍生品', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '员工旅游', '定期体检', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128190489.html?rc=03'}

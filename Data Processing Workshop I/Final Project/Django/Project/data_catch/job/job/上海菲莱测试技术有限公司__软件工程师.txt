@@ -1,0 +1,1 @@
+{'company_name': '上海菲莱测试技术有限公司', 'job_name': '软件工程师', 'geography': '无锡-无锡新区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/129136693.html?rc=03'}

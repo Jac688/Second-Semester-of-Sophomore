@@ -1,0 +1,1 @@
+{'company_name': '平安证券股份有限公司', 'job_name': '05415O-AI算法工程师 (量化策略方向', 'geography': '深圳-福田区', 'bonus': ['五险一金', '绩效奖金', '年终分红', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132339233.html?rc=03'}

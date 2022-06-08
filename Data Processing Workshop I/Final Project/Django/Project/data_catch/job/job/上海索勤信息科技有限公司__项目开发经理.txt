@@ -1,0 +1,1 @@
+{'company_name': '上海索勤信息科技有限公司', 'job_name': '项目开发经理', 'geography': '上海', 'bonus': [], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/100039749.html?rc=03'}

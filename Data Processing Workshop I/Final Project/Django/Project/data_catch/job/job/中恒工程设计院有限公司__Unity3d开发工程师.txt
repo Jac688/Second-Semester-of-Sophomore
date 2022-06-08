@@ -1,0 +1,1 @@
+{'company_name': '中恒工程设计院有限公司', 'job_name': 'Unity3d开发工程师', 'geography': '成都', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132310970.html?rc=03'}

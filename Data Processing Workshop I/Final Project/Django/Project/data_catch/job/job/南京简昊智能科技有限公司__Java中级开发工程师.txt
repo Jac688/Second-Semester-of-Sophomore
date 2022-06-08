@@ -1,0 +1,1 @@
+{'company_name': '南京简昊智能科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '常州-武进区', 'bonus': ['年终奖金', '五险一金', '周末双休', '朝九晚六'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/131664612.html?rc=03'}

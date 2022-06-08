@@ -1,0 +1,1 @@
+{'company_name': '上海音智达信息技术有限公司', 'job_name': '大数据开发', 'geography': '青岛-市北区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/131847503.html?rc=03'}

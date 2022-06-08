@@ -1,0 +1,1 @@
+{'company_name': '兰洋宁波科技有限公司', 'job_name': '嵌入式工程师', 'geography': '宁波-鄞州区', 'bonus': ['弹性工作', '绩效奖金', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130319743.html?rc=03'}

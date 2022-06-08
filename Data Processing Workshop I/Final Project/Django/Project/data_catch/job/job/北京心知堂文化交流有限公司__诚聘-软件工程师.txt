@@ -1,0 +1,1 @@
+{'company_name': '北京心知堂文化交流有限公司', 'job_name': '诚聘-软件工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '员工旅游', '周末双休', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125490936.html?rc=03'}

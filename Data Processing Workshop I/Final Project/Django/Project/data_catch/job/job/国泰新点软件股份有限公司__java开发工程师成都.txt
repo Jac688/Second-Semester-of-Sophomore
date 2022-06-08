@@ -1,0 +1,1 @@
+{'company_name': '国泰新点软件股份有限公司', 'job_name': 'java开发工程师成都', 'geography': '成都-武侯区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/101173161.html?rc=03'}

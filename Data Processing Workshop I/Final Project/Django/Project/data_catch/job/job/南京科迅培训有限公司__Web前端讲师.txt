@@ -1,0 +1,1 @@
+{'company_name': '南京科迅培训有限公司', 'job_name': 'Web前端讲师', 'geography': '南京-建邺区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/126234393.html?rc=03'}

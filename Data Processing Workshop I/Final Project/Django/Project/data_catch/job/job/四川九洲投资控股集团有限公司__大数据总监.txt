@@ -1,0 +1,1 @@
+{'company_name': '四川九洲投资控股集团有限公司', 'job_name': '大数据总监', 'geography': '异地招聘', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128591462.html?rc=03'}

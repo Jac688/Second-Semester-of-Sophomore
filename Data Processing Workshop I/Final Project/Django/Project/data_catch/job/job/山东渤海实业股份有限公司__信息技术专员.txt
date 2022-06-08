@@ -1,0 +1,1 @@
+{'company_name': '山东渤海实业股份有限公司', 'job_name': '信息技术专员', 'geography': '异地招聘', 'bonus': ['五险一金', '包吃', '包住宿', '免费班车'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/jinan/128912009.html?rc=03'}

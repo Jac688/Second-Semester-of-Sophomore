@@ -1,0 +1,1 @@
+{'company_name': '广州四三九九信息科技有限公司', 'job_name': '广告投放平台架构师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '绩效奖金'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129223837.html?rc=03'}

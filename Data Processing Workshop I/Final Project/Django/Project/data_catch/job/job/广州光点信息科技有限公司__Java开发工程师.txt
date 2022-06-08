@@ -1,0 +1,1 @@
+{'company_name': '广州光点信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-虹口区', 'bonus': ['五险一金', '周末双休', '加班补助', '年终奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129177817.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '嘉兴景焱智能装备技术有限公司', 'job_name': '软件工程师', 'geography': '嘉兴', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/130587445.html?rc=03'}

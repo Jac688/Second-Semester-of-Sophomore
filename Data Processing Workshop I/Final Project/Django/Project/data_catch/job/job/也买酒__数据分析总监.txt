@@ -1,0 +1,1 @@
+{'company_name': '也买酒', 'job_name': '数据分析总监', 'geography': '北京-大兴区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127707437.html?rc=03'}

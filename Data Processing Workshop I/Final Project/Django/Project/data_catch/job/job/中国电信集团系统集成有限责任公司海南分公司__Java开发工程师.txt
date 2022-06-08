@@ -1,0 +1,1 @@
+{'company_name': '中国电信集团系统集成有限责任公司海南分公司', 'job_name': 'Java开发工程师', 'geography': '海口-龙华区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/haikou/127352845.html?rc=03'}

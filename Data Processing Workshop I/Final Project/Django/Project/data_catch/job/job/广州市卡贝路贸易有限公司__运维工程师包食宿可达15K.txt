@@ -1,0 +1,1 @@
+{'company_name': '广州市卡贝路贸易有限公司', 'job_name': '运维工程师包食宿可达15K', 'geography': '广州-花都区', 'bonus': ['五险一金', '员工旅游', '带薪年假', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131493557.html?rc=03'}

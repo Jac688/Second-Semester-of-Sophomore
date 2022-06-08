@@ -1,0 +1,1 @@
+{'company_name': '上海水金网络科技有限公司', 'job_name': 'QT开发工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127679604.html?rc=03'}

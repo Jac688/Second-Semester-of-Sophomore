@@ -1,0 +1,1 @@
+{'company_name': '南京讯汇科技发展有限公司', 'job_name': '深度学习算法工程师', 'geography': '常州-新北区', 'bonus': ['五险一金', '定期体检', '员工旅游', '补充医疗保险'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/131304236.html?rc=03'}

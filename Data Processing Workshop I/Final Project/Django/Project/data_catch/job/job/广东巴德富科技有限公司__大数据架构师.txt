@@ -1,0 +1,1 @@
+{'company_name': '广东巴德富科技有限公司', 'job_name': '大数据架构师', 'geography': '佛山-顺德区', 'bonus': ['定期体检', '年终奖金', '节日福利', '五险一金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/126128306.html?rc=03'}

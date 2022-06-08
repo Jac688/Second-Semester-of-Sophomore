@@ -1,0 +1,1 @@
+{'company_name': '南京坦道信息科技有限公司', 'job_name': '数据库开发实施', 'geography': '成都-青羊区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126668528.html?rc=03'}

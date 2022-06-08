@@ -1,0 +1,1 @@
+{'company_name': '上海阜坤信息科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '济南-历下区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131981067.html?rc=03'}

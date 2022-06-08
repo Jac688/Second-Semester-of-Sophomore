@@ -1,0 +1,1 @@
+{'company_name': '同方鼎欣科技股份有限公司', 'job_name': 'Web前端开发工程师', 'geography': '成都-天府新区', 'bonus': ['五险一金', '专业培训', '补充医疗保险', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129404967.html?rc=03'}

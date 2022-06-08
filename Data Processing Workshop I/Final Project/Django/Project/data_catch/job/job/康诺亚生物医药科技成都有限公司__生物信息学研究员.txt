@@ -1,0 +1,1 @@
+{'company_name': '康诺亚生物医药科技成都有限公司', 'job_name': '生物信息学研究员', 'geography': '成都-双流区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131784847.html?rc=03'}

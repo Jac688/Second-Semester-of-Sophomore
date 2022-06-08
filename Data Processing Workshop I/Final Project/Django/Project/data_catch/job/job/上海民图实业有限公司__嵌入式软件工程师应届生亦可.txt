@@ -1,0 +1,1 @@
+{'company_name': '上海民图实业有限公司', 'job_name': '嵌入式软件工程师应届生亦可', 'geography': '上海-奉贤区', 'bonus': ['五险一金', '年底双薪', '绩效奖金', '带薪年假'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129188206.html?rc=03'}

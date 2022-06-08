@@ -1,0 +1,1 @@
+{'company_name': '华杰工程咨询有限公司中南分公司', 'job_name': 'Java开发工程师代招聘', 'geography': '北京-西城区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129971712.html?rc=03'}

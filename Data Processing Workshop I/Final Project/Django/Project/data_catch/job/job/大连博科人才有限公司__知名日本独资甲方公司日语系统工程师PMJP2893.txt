@@ -1,0 +1,1 @@
+{'company_name': '大连博科人才有限公司', 'job_name': '知名日本独资甲方公司日语系统工程师PMJP2893', 'geography': '北京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/74582238.html?rc=03'}

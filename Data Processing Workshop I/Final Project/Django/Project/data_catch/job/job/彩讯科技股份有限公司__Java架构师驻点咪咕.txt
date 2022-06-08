@@ -1,0 +1,1 @@
+{'company_name': '彩讯科技股份有限公司', 'job_name': 'Java架构师驻点咪咕', 'geography': '厦门', 'bonus': ['上市公司', '自有大厦', '大牛带队', '周末双休'], 'salary': 1.7, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/128228979.html?rc=03'}

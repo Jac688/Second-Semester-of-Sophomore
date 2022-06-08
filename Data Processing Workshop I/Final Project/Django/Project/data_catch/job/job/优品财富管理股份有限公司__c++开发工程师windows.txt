@@ -1,0 +1,1 @@
+{'company_name': '优品财富管理股份有限公司', 'job_name': 'c++开发工程师windows', 'geography': '武汉-江夏区', 'bonus': ['五险一金', '年终奖金', '员工旅游', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/101145295.html?rc=03'}

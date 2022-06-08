@@ -1,0 +1,1 @@
+{'company_name': '宁波纳新人力资源服务有限公司', 'job_name': 'IT经理', 'geography': '宁波', 'bonus': ['五险一金', '绩效奖金', '员工旅游', '专业培训'], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/126621468.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '华勤技术股份有限公司', 'job_name': 'Linux驱动开发工程师(J12258)', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131072990.html?rc=03'}

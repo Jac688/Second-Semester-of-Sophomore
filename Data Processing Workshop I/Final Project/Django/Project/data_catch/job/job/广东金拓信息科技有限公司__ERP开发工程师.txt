@@ -1,0 +1,1 @@
+{'company_name': '广东金拓信息科技有限公司', 'job_name': 'ERP开发工程师', 'geography': '东莞-南城区', 'bonus': ['五险一金', '专业培训', '节日福利', '全勤奖'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/122091752.html?rc=03'}

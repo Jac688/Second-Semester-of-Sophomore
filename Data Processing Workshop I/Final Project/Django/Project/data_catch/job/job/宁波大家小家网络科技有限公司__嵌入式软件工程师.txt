@@ -1,0 +1,1 @@
+{'company_name': '宁波大家小家网络科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '杭州-江干区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '队伍团建'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/112479633.html?rc=03'}

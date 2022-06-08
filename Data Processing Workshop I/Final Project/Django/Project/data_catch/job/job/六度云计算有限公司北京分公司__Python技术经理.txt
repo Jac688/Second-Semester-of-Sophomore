@@ -1,0 +1,1 @@
+{'company_name': '六度云计算有限公司北京分公司', 'job_name': 'Python技术经理', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '绩效奖金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/132001417.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'SHEIN', 'job_name': '高级JAVA开发工程师 (MJ002416)', 'geography': '深圳-南山区', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131731488.html?rc=03'}

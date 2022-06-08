@@ -1,0 +1,1 @@
+{'company_name': '上海诺力智能科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '湖州', 'bonus': ['五险一金', '绩效奖金', '年终分红', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/huzhou/130634295.html?rc=03'}

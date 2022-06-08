@@ -1,0 +1,1 @@
+{'company_name': '南京金伯珠资产管理有限公司', 'job_name': 'IT工程师', 'geography': '南京-建邺区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/111470872.html?rc=03'}

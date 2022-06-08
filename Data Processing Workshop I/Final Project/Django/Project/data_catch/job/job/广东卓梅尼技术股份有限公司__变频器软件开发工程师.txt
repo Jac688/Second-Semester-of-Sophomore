@@ -1,0 +1,1 @@
+{'company_name': '广东卓梅尼技术股份有限公司', 'job_name': '变频器软件开发工程师', 'geography': '中山-西区', 'bonus': ['五险一金', '员工旅游', '专业培训', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/124545129.html?rc=03'}

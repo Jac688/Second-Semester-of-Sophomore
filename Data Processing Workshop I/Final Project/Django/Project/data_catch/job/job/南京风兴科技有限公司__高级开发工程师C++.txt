@@ -1,0 +1,1 @@
+{'company_name': '南京风兴科技有限公司', 'job_name': '高级开发工程师C++', 'geography': '南京-江北新区', 'bonus': ['五险一金', '员工旅游', '弹性工作', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130577379.html?rc=03'}

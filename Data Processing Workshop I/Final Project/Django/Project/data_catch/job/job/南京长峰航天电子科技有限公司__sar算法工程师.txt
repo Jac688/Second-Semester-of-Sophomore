@@ -1,0 +1,1 @@
+{'company_name': '南京长峰航天电子科技有限公司', 'job_name': 'sar算法工程师', 'geography': '南京-浦口区', 'bonus': ['带薪年假', '五险一金', '高温补贴', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/123013967.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京安证通信息科技股份有限公司', 'job_name': '高级实施工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131182525.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北极星云空间技术股份有限公司', 'job_name': '应用架构师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130371557.html?rc=03'}

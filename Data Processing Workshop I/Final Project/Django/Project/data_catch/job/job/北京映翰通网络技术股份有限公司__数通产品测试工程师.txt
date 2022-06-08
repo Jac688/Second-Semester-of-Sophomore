@@ -1,0 +1,1 @@
+{'company_name': '北京映翰通网络技术股份有限公司', 'job_name': '数通产品测试工程师', 'geography': '成都-高新区', 'bonus': [], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131816804.html?rc=03'}

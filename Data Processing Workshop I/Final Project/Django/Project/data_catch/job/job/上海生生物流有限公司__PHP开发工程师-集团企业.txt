@@ -1,0 +1,1 @@
+{'company_name': '上海生生物流有限公司', 'job_name': 'PHP开发工程师-集团企业', 'geography': '上海-长宁区', 'bonus': ['五险一金', '绩效奖金', '带薪年假', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131885054.html?rc=03'}

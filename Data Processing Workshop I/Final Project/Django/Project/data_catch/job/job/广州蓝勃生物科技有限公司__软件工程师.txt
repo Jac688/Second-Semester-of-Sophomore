@@ -1,0 +1,1 @@
+{'company_name': '广州蓝勃生物科技有限公司', 'job_name': '软件工程师', 'geography': '镇江', 'bonus': ['五险一金', '定期体检', '年终奖金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/zhenjiang/116695565.html?rc=03'}

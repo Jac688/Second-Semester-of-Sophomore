@@ -1,0 +1,1 @@
+{'company_name': '成都中医大银海眼科医院股份有限公司', 'job_name': '前端软件开发人员', 'geography': '成都-金牛区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132284852.html?rc=03'}

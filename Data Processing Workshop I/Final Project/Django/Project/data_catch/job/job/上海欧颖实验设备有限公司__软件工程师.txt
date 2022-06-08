@@ -1,0 +1,1 @@
+{'company_name': '上海欧颖实验设备有限公司', 'job_name': '软件工程师', 'geography': '上海-松江区', 'bonus': ['周末双休', '五险一金', '节日福利', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128085791.html?rc=03'}

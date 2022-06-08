@@ -1,0 +1,1 @@
+{'company_name': '南京南大尚城软件科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '南京-江北新区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/124981348.html?rc=03'}

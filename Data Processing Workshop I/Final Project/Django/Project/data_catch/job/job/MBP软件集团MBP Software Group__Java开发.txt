@@ -1,0 +1,1 @@
+{'company_name': 'MBP软件集团MBP Software Group', 'job_name': 'Java开发', 'geography': '上海-浦东新区', 'bonus': ['年终奖金', '定期体检', '五险一金', '补充公积金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131217962.html?rc=03'}

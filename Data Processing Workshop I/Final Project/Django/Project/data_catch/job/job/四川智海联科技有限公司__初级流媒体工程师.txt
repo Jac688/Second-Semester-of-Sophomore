@@ -1,0 +1,1 @@
+{'company_name': '四川智海联科技有限公司', 'job_name': '初级流媒体工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '弹性工作'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132125890.html?rc=03'}

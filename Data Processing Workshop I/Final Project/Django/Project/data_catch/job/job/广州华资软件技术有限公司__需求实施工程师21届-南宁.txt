@@ -1,0 +1,1 @@
+{'company_name': '广州华资软件技术有限公司', 'job_name': '需求实施工程师21届-南宁', 'geography': '南宁', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '年终奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanning/130376360.html?rc=03'}

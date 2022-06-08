@@ -1,0 +1,1 @@
+{'company_name': '亿磐', 'job_name': 'Software Test Automation Engineer', 'geography': '深圳', 'bonus': ['专业培训', '弹性工作', '五险一金', '补充医疗保险'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/115492432.html?rc=03'}

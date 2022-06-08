@@ -1,0 +1,1 @@
+{'company_name': '信必优(深圳)信息技术有限公司', 'job_name': 'C++开发工程师', 'geography': '广州-天河区', 'bonus': [], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127578374.html?rc=03'}

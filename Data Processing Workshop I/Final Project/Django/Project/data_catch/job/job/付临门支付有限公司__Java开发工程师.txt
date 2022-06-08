@@ -1,0 +1,1 @@
+{'company_name': '付临门支付有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-徐汇区', 'bonus': ['绩效奖金', '年终奖金', '员工旅游', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/85871307.html?rc=03'}

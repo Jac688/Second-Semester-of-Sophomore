@@ -1,0 +1,1 @@
+{'company_name': '南京轨道交通系统工程有限公司', 'job_name': '应用开发工程师', 'geography': '南京', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/120299475.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京帮众信息技术有限公司', 'job_name': 'JAVA开发工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/121641217.html?rc=03'}

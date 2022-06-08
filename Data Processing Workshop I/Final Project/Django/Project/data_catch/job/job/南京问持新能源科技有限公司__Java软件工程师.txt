@@ -1,0 +1,1 @@
+{'company_name': '南京问持新能源科技有限公司', 'job_name': 'Java软件工程师', 'geography': '南京-鼓楼区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125546850.html?rc=03'}

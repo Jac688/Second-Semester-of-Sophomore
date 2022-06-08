@@ -1,0 +1,1 @@
+{'company_name': '上海紫竹人力资源服务有限公司', 'job_name': '会山科技-Java开发工程师后端', 'geography': '上海-闵行区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129732291.html?rc=03'}

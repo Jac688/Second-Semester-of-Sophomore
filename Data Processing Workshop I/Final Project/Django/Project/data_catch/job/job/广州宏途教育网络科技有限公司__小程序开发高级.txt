@@ -1,0 +1,1 @@
+{'company_name': '广州宏途教育网络科技有限公司', 'job_name': '小程序开发高级', 'geography': '广州-黄埔区', 'bonus': ['免费班车', '员工旅游', '周末双休', '六险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128740333.html?rc=03'}

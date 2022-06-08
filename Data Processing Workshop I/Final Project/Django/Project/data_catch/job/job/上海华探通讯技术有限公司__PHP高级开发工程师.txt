@@ -1,0 +1,1 @@
+{'company_name': '上海华探通讯技术有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '上海', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '节日福利'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127992544.html?rc=03'}

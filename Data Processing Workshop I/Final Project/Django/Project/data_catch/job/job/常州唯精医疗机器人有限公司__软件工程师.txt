@@ -1,0 +1,1 @@
+{'company_name': '常州唯精医疗机器人有限公司', 'job_name': '软件工程师', 'geography': '常州-钟楼区', 'bonus': ['五险一金', '年终奖金', '定期体检', '信任尊重'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/131270565.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京中宸微电子有限公司', 'job_name': '嵌入式软件工程师总工办', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '周末双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130610006.html?rc=03'}

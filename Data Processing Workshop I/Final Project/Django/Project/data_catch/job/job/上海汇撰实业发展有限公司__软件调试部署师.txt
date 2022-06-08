@@ -1,0 +1,1 @@
+{'company_name': '上海汇撰实业发展有限公司', 'job_name': '软件调试部署师', 'geography': '上海-奉贤区', 'bonus': ['年终奖金', '周末双休', '节日福利', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125642141.html?rc=03'}

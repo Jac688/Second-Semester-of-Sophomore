@@ -1,0 +1,1 @@
+{'company_name': '上海索辰信息科技股份有限公司', 'job_name': '可视化开发', 'geography': '绵阳', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/mianyang/130398329.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '创业慧康科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '惠州-惠阳区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '交通补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/131821076.html?rc=03'}

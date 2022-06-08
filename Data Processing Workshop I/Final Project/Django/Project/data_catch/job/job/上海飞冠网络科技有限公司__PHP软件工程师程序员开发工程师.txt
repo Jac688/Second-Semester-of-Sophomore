@@ -1,0 +1,1 @@
+{'company_name': '上海飞冠网络科技有限公司', 'job_name': 'PHP软件工程师程序员开发工程师', 'geography': '上海-松江区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131303540.html?rc=03'}

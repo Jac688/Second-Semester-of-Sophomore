@@ -1,0 +1,1 @@
+{'company_name': '外资500强金融机构', 'job_name': 'Java高级开发工程师', 'geography': '广州', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '绩效奖金'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132200814.html?rc=03'}

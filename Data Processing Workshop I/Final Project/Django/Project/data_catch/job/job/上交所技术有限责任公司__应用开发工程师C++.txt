@@ -1,0 +1,1 @@
+{'company_name': '上交所技术有限责任公司', 'job_name': '应用开发工程师C++', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125245212.html?rc=03'}

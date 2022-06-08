@@ -1,0 +1,1 @@
+{'company_name': '上海领坚网络科技有限公司', 'job_name': 'java服务端程序员', 'geography': '上海-杨浦区', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125039934.html?rc=03'}

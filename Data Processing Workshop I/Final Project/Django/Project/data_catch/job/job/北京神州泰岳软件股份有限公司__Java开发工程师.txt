@@ -1,0 +1,1 @@
+{'company_name': '北京神州泰岳软件股份有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-昌平区', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127590850.html?rc=03'}

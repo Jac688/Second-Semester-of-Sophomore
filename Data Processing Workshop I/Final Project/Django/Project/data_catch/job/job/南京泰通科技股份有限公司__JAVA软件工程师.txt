@@ -1,0 +1,1 @@
+{'company_name': '南京泰通科技股份有限公司', 'job_name': 'JAVA软件工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125787071.html?rc=03'}

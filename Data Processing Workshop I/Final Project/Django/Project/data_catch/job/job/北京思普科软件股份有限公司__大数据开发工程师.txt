@@ -1,0 +1,1 @@
+{'company_name': '北京思普科软件股份有限公司', 'job_name': '大数据开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '补充医疗保险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127752782.html?rc=03'}

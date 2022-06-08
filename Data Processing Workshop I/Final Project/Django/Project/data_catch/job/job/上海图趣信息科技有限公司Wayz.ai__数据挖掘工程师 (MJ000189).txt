@@ -1,0 +1,1 @@
+{'company_name': '上海图趣信息科技有限公司Wayz.ai', 'job_name': '数据挖掘工程师 (MJ000189)', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132222370.html?rc=03'}

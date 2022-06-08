@@ -1,0 +1,1 @@
+{'company_name': '宁波胜维德赫华翔汽车镜有限公司', 'job_name': 'IT专员', 'geography': '重庆-九龙坡区', 'bonus': ['五险一金', '通讯补贴', '专业培训', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129426041.html?rc=03'}

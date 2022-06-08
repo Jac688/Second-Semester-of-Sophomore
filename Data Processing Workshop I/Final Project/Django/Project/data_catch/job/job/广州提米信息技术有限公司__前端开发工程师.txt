@@ -1,0 +1,1 @@
+{'company_name': '广州提米信息技术有限公司', 'job_name': '前端开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '年终奖金', '商业保险'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/130044222.html?rc=03'}

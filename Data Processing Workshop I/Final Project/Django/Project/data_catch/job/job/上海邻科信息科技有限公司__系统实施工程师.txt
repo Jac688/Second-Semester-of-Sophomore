@@ -1,0 +1,1 @@
+{'company_name': '上海邻科信息科技有限公司', 'job_name': '系统实施工程师', 'geography': '苏州-姑苏区', 'bonus': ['五险一金', '员工旅游'], 'salary': 0.55, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/112390659.html?rc=03'}

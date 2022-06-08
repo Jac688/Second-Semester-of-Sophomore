@@ -1,0 +1,1 @@
+{'company_name': '三斧科技北京有限公司', 'job_name': 'adas高级调度算法研发工程师', 'geography': '北京-丰台区', 'bonus': ['五险一金', '专业培训', '带薪年假', '年终奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128026744.html?rc=03'}

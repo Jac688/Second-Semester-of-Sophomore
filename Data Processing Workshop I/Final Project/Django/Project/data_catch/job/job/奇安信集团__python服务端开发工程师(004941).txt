@@ -1,0 +1,1 @@
+{'company_name': '奇安信集团', 'job_name': 'python服务端开发工程师(004941)', 'geography': '武汉-洪山区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/131815149.html?rc=03'}

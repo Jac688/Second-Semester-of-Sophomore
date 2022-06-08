@@ -1,0 +1,1 @@
+{'company_name': '上海国轩新能源有限公司', 'job_name': 'BMS底层开发工程师', 'geography': '上海', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121018643.html?rc=03'}

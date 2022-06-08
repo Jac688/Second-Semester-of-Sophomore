@@ -1,0 +1,1 @@
+{'company_name': '北京中科核安科技有限公司', 'job_name': '算法工程师', 'geography': '北京-海淀区', 'bonus': ['员工旅游', '专业培训', '年终奖金', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129957478.html?rc=03'}

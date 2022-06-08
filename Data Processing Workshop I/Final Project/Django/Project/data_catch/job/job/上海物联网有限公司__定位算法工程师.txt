@@ -1,0 +1,1 @@
+{'company_name': '上海物联网有限公司', 'job_name': '定位算法工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127372867.html?rc=03'}

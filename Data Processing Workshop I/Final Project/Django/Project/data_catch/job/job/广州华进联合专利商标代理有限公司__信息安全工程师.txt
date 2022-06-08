@@ -1,0 +1,1 @@
+{'company_name': '广州华进联合专利商标代理有限公司', 'job_name': '信息安全工程师', 'geography': '广州-天河区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132122439.html?rc=03'}

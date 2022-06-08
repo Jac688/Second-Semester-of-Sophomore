@@ -1,0 +1,1 @@
+{'company_name': '四川阿泰因机器人智能装备有限公司', 'job_name': 'C++开发工程师', 'geography': '成都-天府新区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '加班补助'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131518824.html?rc=03'}

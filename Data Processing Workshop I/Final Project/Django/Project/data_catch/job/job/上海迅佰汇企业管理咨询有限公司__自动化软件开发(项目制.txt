@@ -1,0 +1,1 @@
+{'company_name': '上海迅佰汇企业管理咨询有限公司', 'job_name': '自动化软件开发(项目制', 'geography': '常州-武进区', 'bonus': ['五险一金', '商业保险', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/131252774.html?rc=03'}

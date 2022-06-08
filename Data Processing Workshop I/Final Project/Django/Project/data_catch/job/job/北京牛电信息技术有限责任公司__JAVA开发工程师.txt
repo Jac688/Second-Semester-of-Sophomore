@@ -1,0 +1,1 @@
+{'company_name': '北京牛电信息技术有限责任公司', 'job_name': 'JAVA开发工程师', 'geography': '北京-昌平区', 'bonus': ['五险一金', '带薪年假', '补充医疗保险', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129532221.html?rc=03'}

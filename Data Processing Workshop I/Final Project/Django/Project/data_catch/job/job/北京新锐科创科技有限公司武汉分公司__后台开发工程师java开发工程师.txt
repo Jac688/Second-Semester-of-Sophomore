@@ -1,0 +1,1 @@
+{'company_name': '北京新锐科创科技有限公司武汉分公司', 'job_name': '后台开发工程师java开发工程师', 'geography': '武汉-东湖新技术产业开发区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/132235379.html?rc=03'}

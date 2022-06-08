@@ -1,0 +1,1 @@
+{'company_name': '北京万维盈创科技发展有限公司', 'job_name': '研发项目经理Linux方向', 'geography': '北京-昌平区', 'bonus': ['年终奖金', '员工旅游', '定期体检', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129047884.html?rc=03'}

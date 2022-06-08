@@ -1,0 +1,1 @@
+{'company_name': '广州航新航空科技股份有限公司', 'job_name': 'JAVA工程师系统工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '员工旅游'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127304756.html?rc=03'}

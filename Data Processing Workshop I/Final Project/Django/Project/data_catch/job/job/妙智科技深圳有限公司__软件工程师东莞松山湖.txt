@@ -1,0 +1,1 @@
+{'company_name': '妙智科技深圳有限公司', 'job_name': '软件工程师东莞松山湖', 'geography': '异地招聘', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129747235.html?rc=03'}

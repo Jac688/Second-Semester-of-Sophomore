@@ -1,0 +1,1 @@
+{'company_name': '广州九尾信息科技有限公司', 'job_name': 'Java开发工程师偏大数据方向', 'geography': '广州-番禺区', 'bonus': ['五险一金', '股票期权', '年终奖金', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129830302.html?rc=03'}

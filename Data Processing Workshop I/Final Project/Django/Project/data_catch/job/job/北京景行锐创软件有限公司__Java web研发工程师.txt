@@ -1,0 +1,1 @@
+{'company_name': '北京景行锐创软件有限公司', 'job_name': 'Java web研发工程师', 'geography': '成都-高新区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/123912937.html?rc=03'}

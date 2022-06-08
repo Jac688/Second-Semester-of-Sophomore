@@ -1,0 +1,1 @@
+{'company_name': '北京瑞亚达科技有限公司', 'job_name': 'CFD工程师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130831536.html?rc=03'}

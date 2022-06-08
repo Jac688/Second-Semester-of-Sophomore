@@ -1,0 +1,1 @@
+{'company_name': '医渡云北京技术有限公司', 'job_name': 'Java开发工程师(J11202)', 'geography': '北京-海淀区', 'bonus': ['弹性工作', '餐饮补贴', '五险一金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131878100.html?rc=03'}

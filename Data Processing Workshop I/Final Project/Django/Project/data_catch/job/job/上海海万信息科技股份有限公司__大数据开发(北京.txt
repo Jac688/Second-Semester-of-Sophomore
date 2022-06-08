@@ -1,0 +1,1 @@
+{'company_name': '上海海万信息科技股份有限公司', 'job_name': '大数据开发(北京', 'geography': '北京-西城区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131711211.html?rc=03'}

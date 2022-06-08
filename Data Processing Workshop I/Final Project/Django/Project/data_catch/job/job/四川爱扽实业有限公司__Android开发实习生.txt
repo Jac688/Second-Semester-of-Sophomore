@@ -1,0 +1,1 @@
+{'company_name': '四川爱扽实业有限公司', 'job_name': 'Android开发实习生', 'geography': '成都-高新区', 'bonus': ['五险一金', '绩效奖金', '股票期权'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126425824.html?rc=03'}

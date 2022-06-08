@@ -1,0 +1,1 @@
+{'company_name': '合肥市信同信息科技有限公司', 'job_name': 'QT  C++软件工程师', 'geography': '合肥-高新区', 'bonus': ['员工旅游', '年终奖金', '补充医疗保险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hefei/120315240.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海丰申医疗科技股份有限公司', 'job_name': 'WEB前端开发工程师前端UI工程师', 'geography': '上海-浦东新区', 'bonus': ['周末双休', '带薪年假', '绩效奖金', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123234324.html?rc=03'}

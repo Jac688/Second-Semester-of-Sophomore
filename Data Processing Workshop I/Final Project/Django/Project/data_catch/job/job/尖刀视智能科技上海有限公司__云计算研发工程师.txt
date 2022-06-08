@@ -1,0 +1,1 @@
+{'company_name': '尖刀视智能科技上海有限公司', 'job_name': '云计算研发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '专业培训'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132354110.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海华力微电子有限公司', 'job_name': 'CIM开发资深主任级工程师 c++c#Java', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/59132791.html?rc=03'}

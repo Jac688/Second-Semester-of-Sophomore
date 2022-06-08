@@ -1,0 +1,1 @@
+{'company_name': '广州广电运通金融电子股份有限公司', 'job_name': '软件工程师-工程方向-北京', 'geography': '北京', 'bonus': ['五险一金', '免费班车', '员工旅游', '餐饮补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130535023.html?rc=03'}

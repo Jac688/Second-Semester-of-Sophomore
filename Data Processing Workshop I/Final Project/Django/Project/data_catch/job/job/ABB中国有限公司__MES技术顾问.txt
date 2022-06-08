@@ -1,0 +1,1 @@
+{'company_name': 'ABB中国有限公司', 'job_name': 'MES技术顾问', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126670514.html?rc=03'}

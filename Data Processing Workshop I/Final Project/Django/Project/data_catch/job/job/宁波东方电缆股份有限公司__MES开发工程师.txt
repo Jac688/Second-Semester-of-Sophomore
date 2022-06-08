@@ -1,0 +1,1 @@
+{'company_name': '宁波东方电缆股份有限公司', 'job_name': 'MES开发工程师', 'geography': '宁波-北仑区', 'bonus': ['周末双休', '五险一金', '节日福利', '专业培训'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/126076262.html?rc=03'}

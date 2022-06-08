@@ -1,0 +1,1 @@
+{'company_name': '北京迪基透科技有限公司', 'job_name': 'TCM实施工程师', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '工作餐'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/122719707.html?rc=03'}

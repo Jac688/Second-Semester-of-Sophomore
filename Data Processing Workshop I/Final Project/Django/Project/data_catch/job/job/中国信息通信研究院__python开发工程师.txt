@@ -1,0 +1,1 @@
+{'company_name': '中国信息通信研究院', 'job_name': 'python开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129176446.html?rc=03'}

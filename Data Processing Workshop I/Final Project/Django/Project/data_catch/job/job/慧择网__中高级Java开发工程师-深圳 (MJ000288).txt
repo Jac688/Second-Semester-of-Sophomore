@@ -1,0 +1,1 @@
+{'company_name': '慧择网', 'job_name': '中高级Java开发工程师-深圳 (MJ000288)', 'geography': '异地招聘', 'bonus': ['员工旅游', '专业培训', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130703420.html?rc=03'}

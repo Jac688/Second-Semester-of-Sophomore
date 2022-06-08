@@ -1,0 +1,1 @@
+{'company_name': '广西南宁正和兴房地产经纪有限公司', 'job_name': 'PHP开发工程师', 'geography': '南宁-良庆区', 'bonus': ['绩效奖金', '专业培训', '员工旅游', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/130093078.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波图锐自动化设备有限公司', 'job_name': 'AI高级工程师', 'geography': '宁波-北仑区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/120601125.html?rc=03'}

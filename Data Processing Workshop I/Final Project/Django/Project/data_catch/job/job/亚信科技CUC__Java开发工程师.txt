@@ -1,0 +1,1 @@
+{'company_name': '亚信科技CUC', 'job_name': 'Java开发工程师', 'geography': '大连-高新园区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/dalian/132055803.html?rc=03'}

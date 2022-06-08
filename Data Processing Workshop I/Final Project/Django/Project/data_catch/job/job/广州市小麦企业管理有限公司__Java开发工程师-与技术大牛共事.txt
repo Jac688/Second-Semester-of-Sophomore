@@ -1,0 +1,1 @@
+{'company_name': '广州市小麦企业管理有限公司', 'job_name': 'Java开发工程师-与技术大牛共事', 'geography': '郑州-管城回族区', 'bonus': ['老板好', '朝阳行业好', '发展空间巨大', '团队氛围好'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhengzhou/129917447.html?rc=03'}

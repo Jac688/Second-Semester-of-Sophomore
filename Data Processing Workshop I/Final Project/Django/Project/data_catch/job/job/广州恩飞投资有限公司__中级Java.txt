@@ -1,0 +1,1 @@
+{'company_name': '广州恩飞投资有限公司', 'job_name': '中级Java', 'geography': '广州-越秀区', 'bonus': ['五险一金', '餐饮补贴', '补充医疗保险', '补充公积金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129867054.html?rc=03'}

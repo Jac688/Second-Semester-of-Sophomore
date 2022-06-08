@@ -1,0 +1,1 @@
+{'company_name': '北京旷视科技有限公司', 'job_name': '算法研究员', 'geography': '异地招聘', 'bonus': ['周末双休', '五险一金', '餐饮补贴', '弹性工作'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130962030.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京经纬恒润科技股份有限公司', 'job_name': '智能驾驶算法工程师天津', 'geography': '天津', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129734849.html?rc=03'}

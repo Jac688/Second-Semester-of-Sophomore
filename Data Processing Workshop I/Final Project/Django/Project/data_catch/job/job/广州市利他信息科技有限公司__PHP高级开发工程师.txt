@@ -1,0 +1,1 @@
+{'company_name': '广州市利他信息科技有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '广州-白云区', 'bonus': ['六险一金', '绩效奖金', '带薪年假', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129630945.html?rc=03'}

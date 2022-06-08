@@ -1,0 +1,1 @@
+{'company_name': '上海珺才企业管理咨询有限公司', 'job_name': '嵌入式软件工程师日企', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '出国机会', '专业培训', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130956418.html?rc=03'}

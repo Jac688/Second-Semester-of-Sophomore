@@ -1,0 +1,1 @@
+{'company_name': '安永中国企业咨询有限公司', 'job_name': 'Tax - 前端后台数据 工程师', 'geography': '上海', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124700913.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海联和金融信息服务有限公司', 'job_name': 'FOF基金研究员', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '定期聚餐'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130273119.html?rc=03'}

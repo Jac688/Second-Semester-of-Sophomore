@@ -1,0 +1,1 @@
+{'company_name': '广东伟邦科技股份有限公司', 'job_name': '后端开发工程师应届', 'geography': '佛山', 'bonus': ['周末双休', '五险一金', '员工旅游', '专业培训'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/foshan/132109199.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天津市恒奥科技发展有限公司', 'job_name': '电子电路工程师', 'geography': '天津', 'bonus': ['周末双休', '五险一金', '包吃', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/126604797.html?rc=03'}

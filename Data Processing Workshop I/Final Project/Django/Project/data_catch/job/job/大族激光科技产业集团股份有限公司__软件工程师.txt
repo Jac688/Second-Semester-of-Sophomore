@@ -1,0 +1,1 @@
+{'company_name': '大族激光科技产业集团股份有限公司', 'job_name': '软件工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/122453356.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州飞歌汽车音响有限公司', 'job_name': '嵌入式软件工程师重庆', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '周末双休', '13薪'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131188043.html?rc=03'}

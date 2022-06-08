@@ -1,0 +1,1 @@
+{'company_name': '南宁市迈越软件有限责任公司', 'job_name': '软件实施工程师', 'geography': '南宁', 'bonus': ['员工旅游', '通讯补贴', '交通补贴', '专业培训'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanning/118187431.html?rc=03'}

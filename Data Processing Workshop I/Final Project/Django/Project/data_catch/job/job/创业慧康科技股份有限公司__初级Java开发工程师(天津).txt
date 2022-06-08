@@ -1,0 +1,1 @@
+{'company_name': '创业慧康科技股份有限公司', 'job_name': '初级Java开发工程师(天津)', 'geography': '天津-和平区', 'bonus': ['交通补贴', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128535131.html?rc=03'}

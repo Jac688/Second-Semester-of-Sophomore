@@ -1,0 +1,1 @@
+{'company_name': '广州帝诺科技有限公司', 'job_name': 'Java开发工程师周末双休8K以上', 'geography': '广州-天河区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年底双薪'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130848995.html?rc=03'}

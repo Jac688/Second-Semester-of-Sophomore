@@ -1,0 +1,1 @@
+{'company_name': '宁波维科新能源科技有限公司', 'job_name': 'bms软件开发', 'geography': '宁波-北仑区', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130030619.html?rc=03'}

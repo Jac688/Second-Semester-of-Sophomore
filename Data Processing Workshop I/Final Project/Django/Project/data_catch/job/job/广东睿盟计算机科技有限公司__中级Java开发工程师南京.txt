@@ -1,0 +1,1 @@
+{'company_name': '广东睿盟计算机科技有限公司', 'job_name': '中级Java开发工程师南京', 'geography': '南京-鼓楼区', 'bonus': ['年终奖金', '餐饮补贴', '周末双休', '全勤奖'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/123652374.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京棣南新宇科技有限公司', 'job_name': '软件开发工程师——C++，C方向', 'geography': '北京-海淀区', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/93561891.html?rc=03'}

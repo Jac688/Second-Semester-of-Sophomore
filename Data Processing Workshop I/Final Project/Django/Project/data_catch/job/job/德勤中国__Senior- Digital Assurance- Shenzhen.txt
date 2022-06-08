@@ -1,0 +1,1 @@
+{'company_name': '德勤中国', 'job_name': 'Senior- Digital Assurance- Shenzhen', 'geography': '深圳', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124703044.html?rc=03'}

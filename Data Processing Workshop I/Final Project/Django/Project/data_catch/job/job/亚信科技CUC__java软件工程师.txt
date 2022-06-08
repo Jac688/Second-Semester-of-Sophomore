@@ -1,0 +1,1 @@
+{'company_name': '亚信科技CUC', 'job_name': 'java软件工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '通讯补贴', '补充医疗保险', '补充公积金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131847354.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京高升数据系统有限公司', 'job_name': '测试工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '周末双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130523521.html?rc=03'}

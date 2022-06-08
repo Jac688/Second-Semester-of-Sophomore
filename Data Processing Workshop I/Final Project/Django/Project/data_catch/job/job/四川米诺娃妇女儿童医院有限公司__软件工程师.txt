@@ -1,0 +1,1 @@
+{'company_name': '四川米诺娃妇女儿童医院有限公司', 'job_name': '软件工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '绩效奖金', '工作餐', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130913143.html?rc=03'}

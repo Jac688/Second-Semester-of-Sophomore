@@ -1,0 +1,1 @@
+{'company_name': '中电科蓉威电子技术有限公司', 'job_name': '嵌入式软件高级设计师-新', 'geography': '异地招聘', 'bonus': ['补充医疗保险', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/sichuansheng/127889571.html?rc=03'}

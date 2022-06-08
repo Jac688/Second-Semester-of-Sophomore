@@ -1,0 +1,1 @@
+{'company_name': '南京华苏科技有限公司北京分公司', 'job_name': '系统运维工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132048540.html?rc=03'}

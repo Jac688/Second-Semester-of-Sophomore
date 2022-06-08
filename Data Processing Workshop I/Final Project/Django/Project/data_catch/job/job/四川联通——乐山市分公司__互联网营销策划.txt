@@ -1,0 +1,1 @@
+{'company_name': '四川联通——乐山市分公司', 'job_name': '互联网营销策划', 'geography': '乐山', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/leshan/129450523.html?rc=03'}

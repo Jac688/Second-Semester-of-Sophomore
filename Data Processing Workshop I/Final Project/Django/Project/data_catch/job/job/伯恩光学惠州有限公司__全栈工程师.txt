@@ -1,0 +1,1 @@
+{'company_name': '伯恩光学惠州有限公司', 'job_name': '全栈工程师', 'geography': '异地招聘', 'bonus': ['带薪年假', '包住', '五险', '免费班车'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129590799.html?rc=03'}

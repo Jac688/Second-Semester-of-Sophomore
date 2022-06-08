@@ -1,0 +1,1 @@
+{'company_name': '山东泰盈科技有限公司', 'job_name': '高级前端工程师', 'geography': '泰安', 'bonus': ['五险一金', '绩效奖金', '全勤奖', '节日福利'], 'salary': 0.35, 'detail_url': 'https://msearch.51job.com/jobs/taian/125294287.html?rc=03'}

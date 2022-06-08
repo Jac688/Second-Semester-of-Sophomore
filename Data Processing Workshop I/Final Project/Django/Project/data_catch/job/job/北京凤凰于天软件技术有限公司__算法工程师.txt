@@ -1,0 +1,1 @@
+{'company_name': '北京凤凰于天软件技术有限公司', 'job_name': '算法工程师', 'geography': '北京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129456867.html?rc=03'}

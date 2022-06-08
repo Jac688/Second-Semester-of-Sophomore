@@ -1,0 +1,1 @@
+{'company_name': '上海复深蓝软件股份有限公司', 'job_name': '性能测试工程师', 'geography': '天津-东丽区', 'bonus': ['五险一金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129464277.html?rc=03'}

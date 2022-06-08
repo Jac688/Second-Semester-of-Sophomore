@@ -1,0 +1,1 @@
+{'company_name': '上海勤达科技有限公司', 'job_name': '嵌入式软件底层驱动开发', 'geography': '苏州-工业园区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/132277250.html?rc=03'}

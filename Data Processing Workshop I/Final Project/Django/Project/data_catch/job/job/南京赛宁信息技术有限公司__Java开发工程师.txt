@@ -1,0 +1,1 @@
+{'company_name': '南京赛宁信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125262178.html?rc=03'}

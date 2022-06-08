@@ -1,0 +1,1 @@
+{'company_name': '快克智能装备股份有限公司', 'job_name': '机器视觉算法工程师', 'geography': '常州-武进区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/77191468.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '克劳丽化妆品股份有限公司系隆力奇子公司', 'job_name': 'Java开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '免费住宿', '免费班车', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/132030314.html?rc=03'}

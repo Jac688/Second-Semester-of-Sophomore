@@ -1,0 +1,1 @@
+{'company_name': '仁卅信息科技上海有限公司', 'job_name': '嵌入式软件测试工程师', 'geography': '成都-金牛区', 'bonus': ['五险一金', '免费班车', '年终奖金', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128208917.html?rc=03'}

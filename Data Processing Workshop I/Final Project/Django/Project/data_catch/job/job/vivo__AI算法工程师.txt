@@ -1,0 +1,1 @@
+{'company_name': 'vivo', 'job_name': 'AI算法工程师', 'geography': '杭州-余杭区', 'bonus': ['全勤奖', '节日福利', '餐饮补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128827182.html?rc=03'}

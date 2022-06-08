@@ -1,0 +1,1 @@
+{'company_name': '嬴彻科技上海有限公司', 'job_name': '软件开发工程师 Python', 'geography': '上海-杨浦区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128649694.html?rc=03'}

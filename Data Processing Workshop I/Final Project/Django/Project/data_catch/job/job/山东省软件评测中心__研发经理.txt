@@ -1,0 +1,1 @@
+{'company_name': '山东省软件评测中心', 'job_name': '研发经理', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '专业培训', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/126279273.html?rc=03'}

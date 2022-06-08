@@ -1,0 +1,1 @@
+{'company_name': '上海畅联智融通讯科技有限公司', 'job_name': 'SCM Engineer 软件配置管理工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130135862.html?rc=03'}

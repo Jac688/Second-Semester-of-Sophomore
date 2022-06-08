@@ -1,0 +1,1 @@
+{'company_name': '中国科协培训和人才服务中心', 'job_name': '评审系统管理员', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131518945.html?rc=03'}

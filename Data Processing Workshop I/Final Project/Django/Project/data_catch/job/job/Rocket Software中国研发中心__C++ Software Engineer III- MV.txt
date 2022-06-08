@@ -1,0 +1,1 @@
+{'company_name': 'Rocket Software中国研发中心', 'job_name': 'C++ Software Engineer III- MV', 'geography': '大连', 'bonus': ['五险一金', '专业培训', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dalian/114198212.html?rc=03'}

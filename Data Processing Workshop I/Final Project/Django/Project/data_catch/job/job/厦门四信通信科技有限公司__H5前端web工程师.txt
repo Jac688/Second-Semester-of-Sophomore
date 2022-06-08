@@ -1,0 +1,1 @@
+{'company_name': '厦门四信通信科技有限公司', 'job_name': 'H5前端web工程师', 'geography': '厦门-集美区', 'bonus': ['六险一金', '周末双休', '节日福利', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/131387043.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '九河信息技术上海有限公司', 'job_name': '高级服务端开发工程师', 'geography': '上海-徐汇区', 'bonus': ['弹性工作', '带薪年假', '五险一金', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127878530.html?rc=03'}

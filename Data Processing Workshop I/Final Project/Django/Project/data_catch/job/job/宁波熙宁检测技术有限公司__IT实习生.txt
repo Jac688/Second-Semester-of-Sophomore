@@ -1,0 +1,1 @@
+{'company_name': '宁波熙宁检测技术有限公司', 'job_name': 'IT实习生', 'geography': '异地招聘', 'bonus': ['年终奖金', '五险一金', '交通补贴', '餐饮补贴'], 'salary': 0.35, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125982574.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广西日月星网络科技有限公司', 'job_name': 'web前端开发', 'geography': '南宁-江南区', 'bonus': ['绩效奖金', '年终奖金', '五险', '周末双休'], 'salary': 0.35, 'detail_url': 'https://msearch.51job.com/jobs/nanning/122913786.html?rc=03'}

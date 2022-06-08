@@ -1,0 +1,1 @@
+{'company_name': '上海海得控制系统股份有限公司', 'job_name': '控制平台软件工程师-电力行业', 'geography': '嘉兴', 'bonus': ['五险一金', '免费班车', '员工旅游', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/123212303.html?rc=03'}

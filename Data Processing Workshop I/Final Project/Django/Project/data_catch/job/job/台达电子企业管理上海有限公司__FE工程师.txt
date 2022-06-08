@@ -1,0 +1,1 @@
+{'company_name': '台达电子企业管理上海有限公司', 'job_name': 'FE工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '带薪年假', '餐饮补贴', '免费班车'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128084486.html?rc=03'}

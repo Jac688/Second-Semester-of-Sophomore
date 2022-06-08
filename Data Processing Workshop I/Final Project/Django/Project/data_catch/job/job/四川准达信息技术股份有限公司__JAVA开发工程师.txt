@@ -1,0 +1,1 @@
+{'company_name': '四川准达信息技术股份有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳', 'bonus': ['带薪年假', '五险一金', '定期体检', '工作餐'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/123192829.html?rc=03'}

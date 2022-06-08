@@ -1,0 +1,1 @@
+{'company_name': '四衡商务信息咨询上海有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '每年多次调薪', '公司计划上市', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127862007.html?rc=03'}

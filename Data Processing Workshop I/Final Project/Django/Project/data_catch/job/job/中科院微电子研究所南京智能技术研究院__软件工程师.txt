@@ -1,0 +1,1 @@
+{'company_name': '中科院微电子研究所南京智能技术研究院', 'job_name': '软件工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131779681.html?rc=03'}

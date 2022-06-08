@@ -1,0 +1,1 @@
+{'company_name': '南京药石科技股份有限公司', 'job_name': '人工智能研发工程师', 'geography': '南京-浦口区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '绩效奖金'], 'salary': 2.08, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131978421.html?rc=03'}

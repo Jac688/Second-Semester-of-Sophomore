@@ -1,0 +1,1 @@
+{'company_name': '安徽清达云计算有限公司', 'job_name': 'java高级开发工程师(产品方向)', 'geography': '合肥-蜀山区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hefei/130782410.html?rc=03'}

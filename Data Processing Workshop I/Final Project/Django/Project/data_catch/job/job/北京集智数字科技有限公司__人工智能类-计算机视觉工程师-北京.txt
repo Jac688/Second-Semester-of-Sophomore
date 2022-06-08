@@ -1,0 +1,1 @@
+{'company_name': '北京集智数字科技有限公司', 'job_name': '人工智能类-计算机视觉工程师-北京', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124252924.html?rc=03'}

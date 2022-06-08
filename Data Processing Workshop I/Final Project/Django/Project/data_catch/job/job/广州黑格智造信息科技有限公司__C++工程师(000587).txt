@@ -1,0 +1,1 @@
+{'company_name': '广州黑格智造信息科技有限公司', 'job_name': 'C++工程师(000587)', 'geography': '广州-黄埔区', 'bonus': ['补充医疗保险', '员工旅游', '免费班车', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131408170.html?rc=03'}

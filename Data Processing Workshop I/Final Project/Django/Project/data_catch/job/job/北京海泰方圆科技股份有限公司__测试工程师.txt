@@ -1,0 +1,1 @@
+{'company_name': '北京海泰方圆科技股份有限公司', 'job_name': '测试工程师', 'geography': '北京', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124258768.html?rc=03'}

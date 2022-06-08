@@ -1,0 +1,1 @@
+{'company_name': '南京信息技术研究院', 'job_name': '质量控制-测试开发软件(G1-1)', 'geography': '南京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125709964.html?rc=03'}

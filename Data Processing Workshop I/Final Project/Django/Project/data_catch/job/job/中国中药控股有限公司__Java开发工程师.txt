@@ -1,0 +1,1 @@
+{'company_name': '中国中药控股有限公司', 'job_name': 'Java开发工程师', 'geography': '佛山', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '专业培训'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/foshan/92501577.html?rc=03'}

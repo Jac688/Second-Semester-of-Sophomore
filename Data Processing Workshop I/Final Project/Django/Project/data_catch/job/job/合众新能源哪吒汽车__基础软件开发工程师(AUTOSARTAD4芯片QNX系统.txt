@@ -1,0 +1,1 @@
+{'company_name': '合众新能源哪吒汽车', 'job_name': '基础软件开发工程师(AUTOSARTAD4芯片QNX系统', 'geography': '嘉兴', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/125621209.html?rc=03'}

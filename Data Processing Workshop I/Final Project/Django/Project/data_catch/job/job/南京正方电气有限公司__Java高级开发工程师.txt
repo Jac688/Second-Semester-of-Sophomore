@@ -1,0 +1,1 @@
+{'company_name': '南京正方电气有限公司', 'job_name': 'Java高级开发工程师', 'geography': '南京-江北新区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/126396927.html?rc=03'}

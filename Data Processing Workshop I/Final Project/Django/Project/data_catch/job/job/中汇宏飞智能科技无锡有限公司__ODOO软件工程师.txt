@@ -1,0 +1,1 @@
+{'company_name': '中汇宏飞智能科技无锡有限公司', 'job_name': 'ODOO软件工程师', 'geography': '无锡-滨湖区', 'bonus': ['餐饮补贴', '周末双休', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/125081589.html?rc=03'}

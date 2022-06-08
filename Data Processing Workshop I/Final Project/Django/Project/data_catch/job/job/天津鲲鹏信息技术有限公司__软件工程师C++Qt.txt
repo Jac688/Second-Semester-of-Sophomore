@@ -1,0 +1,1 @@
+{'company_name': '天津鲲鹏信息技术有限公司', 'job_name': '软件工程师C++Qt', 'geography': '长沙-开福区', 'bonus': ['五险一金', '专业培训', '定期体检', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/changsha/131227283.html?rc=03'}

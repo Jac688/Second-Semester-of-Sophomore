@@ -1,0 +1,1 @@
+{'company_name': '广州瑞修得信息科技有限公司', 'job_name': '大数据架构师(图库方向)', 'geography': '广州-天河区', 'bonus': ['五险一金', '周末双休', '专业培训'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128845127.html?rc=03'}

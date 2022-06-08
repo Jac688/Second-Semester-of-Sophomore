@@ -1,0 +1,1 @@
+{'company_name': '上海宝曼企业管理咨询有限公司', 'job_name': 'Java开发工程师', 'geography': '上海', 'bonus': ['员工旅游', '专业培训', '定期体检', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119091546.html?rc=03'}

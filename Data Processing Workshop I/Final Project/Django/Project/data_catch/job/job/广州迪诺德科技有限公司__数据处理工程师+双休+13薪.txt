@@ -1,0 +1,1 @@
+{'company_name': '广州迪诺德科技有限公司', 'job_name': '数据处理工程师+双休+13薪', 'geography': '广州-天河区', 'bonus': ['五险一金', '补充公积金', '员工旅游', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131552154.html?rc=03'}

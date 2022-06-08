@@ -1,0 +1,1 @@
+{'company_name': '中电金信软件有限公司', 'job_name': '配置管理工程师', 'geography': '北京-西城区', 'bonus': ['五险一金', '定期体检', '补充医疗保险', '工龄假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128457620.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京能科瑞元数字技术有限公司', 'job_name': '接口自动化测试python', 'geography': '南京-雨花台区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130129859.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南宁市思索科贸有限公司', 'job_name': 'Java开发工程师', 'geography': '南宁', 'bonus': ['五险一金', '弹性工作', '年终奖金', '绩效奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/nanning/99368097.html?rc=03'}

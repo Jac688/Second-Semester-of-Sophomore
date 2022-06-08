@@ -1,0 +1,1 @@
+{'company_name': '安世亚太增材制造有限公司', 'job_name': 'CC++开发工程师', 'geography': '杭州-萧山区', 'bonus': ['五险一金', '员工旅游', '定期体检', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129527151.html?rc=03'}

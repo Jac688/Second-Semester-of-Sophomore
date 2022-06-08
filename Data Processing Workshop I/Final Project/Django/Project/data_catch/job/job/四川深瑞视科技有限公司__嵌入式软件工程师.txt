@@ -1,0 +1,1 @@
+{'company_name': '四川深瑞视科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '异地招聘', 'bonus': ['周末双休', '下午茶', '节日福利', '六险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/sichuansheng/128126238.html?rc=03'}

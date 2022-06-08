@@ -1,0 +1,1 @@
+{'company_name': '大连隆基信息技术有限公司', 'job_name': 'RPA开发工程师项目经理', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125774089.html?rc=03'}

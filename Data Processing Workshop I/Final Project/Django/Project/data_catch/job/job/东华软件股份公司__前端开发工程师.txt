@@ -1,0 +1,1 @@
+{'company_name': '东华软件股份公司', 'job_name': '前端开发工程师', 'geography': '菏泽', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '通讯补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/heze/130643394.html?rc=03'}

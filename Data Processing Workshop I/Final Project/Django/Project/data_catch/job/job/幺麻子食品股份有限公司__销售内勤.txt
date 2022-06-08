@@ -1,0 +1,1 @@
+{'company_name': '幺麻子食品股份有限公司', 'job_name': '销售内勤', 'geography': '成都-高新区', 'bonus': ['出国机会', '餐饮补贴', '通讯补贴', '交通补贴'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129254886.html?rc=03'}

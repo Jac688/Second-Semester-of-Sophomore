@@ -1,0 +1,1 @@
+{'company_name': '广联达', 'job_name': 'Java架构-研发管理', 'geography': '北京', 'bonus': [], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128583410.html?rc=03'}

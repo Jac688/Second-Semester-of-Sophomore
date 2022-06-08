@@ -1,0 +1,1 @@
+{'company_name': '上海南洋万邦软件技术有限公司', 'job_name': 'JAVA中级工程师南洋道客', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129492859.html?rc=03'}

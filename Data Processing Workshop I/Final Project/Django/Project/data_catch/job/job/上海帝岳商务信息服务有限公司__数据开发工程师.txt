@@ -1,0 +1,1 @@
+{'company_name': '上海帝岳商务信息服务有限公司', 'job_name': '数据开发工程师', 'geography': '上海-宝山区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129997599.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东亚太天能科技股份有限公司', 'job_name': 'Java初级开发工程师', 'geography': '广州-番禺区', 'bonus': ['餐饮补贴', '节日福利', '专业培训', '可口午餐'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129141625.html?rc=03'}

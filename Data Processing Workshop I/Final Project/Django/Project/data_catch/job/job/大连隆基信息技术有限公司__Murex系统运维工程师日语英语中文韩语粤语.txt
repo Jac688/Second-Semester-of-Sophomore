@@ -1,0 +1,1 @@
+{'company_name': '大连隆基信息技术有限公司', 'job_name': 'Murex系统运维工程师日语英语中文韩语粤语', 'geography': '杭州', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/122744779.html?rc=03'}

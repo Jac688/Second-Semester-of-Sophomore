@@ -1,0 +1,1 @@
+{'company_name': '北斗天地股份有限公司', 'job_name': 'Java开发工程师', 'geography': '青岛-黄岛区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/129263676.html?rc=03'}

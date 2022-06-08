@@ -1,0 +1,1 @@
+{'company_name': '中科芯集成电路有限公司南京分公司', 'job_name': '物联网平台开发工程师南京', 'geography': '南京', 'bonus': ['五险一金', '专业培训', '年终奖金', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/119816395.html?rc=03'}

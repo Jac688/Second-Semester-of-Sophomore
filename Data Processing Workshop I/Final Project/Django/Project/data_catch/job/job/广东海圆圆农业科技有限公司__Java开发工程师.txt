@@ -1,0 +1,1 @@
+{'company_name': '广东海圆圆农业科技有限公司', 'job_name': 'Java开发工程师', 'geography': '佛山', 'bonus': ['员工旅游', '社保', '带薪年假', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131980225.html?rc=03'}

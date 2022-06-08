@@ -1,0 +1,1 @@
+{'company_name': '中煤科工重庆设计研究院集团有限公司', 'job_name': '后端JAVA工程师智信中心', 'geography': '重庆-渝中区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/130975016.html?rc=03'}

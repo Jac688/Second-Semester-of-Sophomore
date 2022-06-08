@@ -1,0 +1,1 @@
+{'company_name': '北京快鱼电子股份公司', 'job_name': '音频算法优化移植工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '带薪年假', '弹性工作', '周末双休'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/98886318.html?rc=03'}

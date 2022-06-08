@@ -1,0 +1,1 @@
+{'company_name': '北京中石伟业科技股份有限公司', 'job_name': '电源研发工程师招聘要求应届毕业生', 'geography': '北京-大兴区', 'bonus': ['五险一金', '定期体检', '专业培训', '免费班车'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131715031.html?rc=03'}

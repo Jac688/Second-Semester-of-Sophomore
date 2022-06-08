@@ -1,0 +1,1 @@
+{'company_name': '山石网科通信技术股份有限公司', 'job_name': 'java开发工程师(J10366)', 'geography': '苏州', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '绩效奖金'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/127524244.html?rc=03'}

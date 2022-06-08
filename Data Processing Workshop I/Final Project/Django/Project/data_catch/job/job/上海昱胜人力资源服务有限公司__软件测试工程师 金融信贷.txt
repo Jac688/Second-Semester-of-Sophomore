@@ -1,0 +1,1 @@
+{'company_name': '上海昱胜人力资源服务有限公司', 'job_name': '软件测试工程师 金融信贷', 'geography': '北京-西城区', 'bonus': ['五险一金', '节日福利', '专业培训', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131847722.html?rc=03'}

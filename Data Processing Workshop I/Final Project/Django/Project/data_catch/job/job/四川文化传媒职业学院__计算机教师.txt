@@ -1,0 +1,1 @@
+{'company_name': '四川文化传媒职业学院', 'job_name': '计算机教师', 'geography': '异地招聘', 'bonus': ['五险一金', '股票期权', '绩效奖金', '专业培训'], 'salary': 0.35, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/118158235.html?rc=03'}

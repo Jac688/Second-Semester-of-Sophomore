@@ -1,0 +1,1 @@
+{'company_name': '常州威材新材料科技有限公司', 'job_name': 'IT高阶工程师', 'geography': '南通', 'bonus': ['做五休二', '节日福利', '周末双休', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nantong/131440118.html?rc=03'}

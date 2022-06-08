@@ -1,0 +1,1 @@
+{'company_name': '上海悦闻信息技术有限公司', 'job_name': 'Java开发工程师高级', 'geography': '上海-闵行区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '专业培训'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130218050.html?rc=03'}

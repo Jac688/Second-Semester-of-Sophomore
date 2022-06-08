@@ -1,0 +1,1 @@
+{'company_name': '南京富士通南大软件技术有限公司', 'job_name': '软件工程师(C++MFC)-江阴', 'geography': '无锡-江阴市', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/70663233.html?rc=03'}

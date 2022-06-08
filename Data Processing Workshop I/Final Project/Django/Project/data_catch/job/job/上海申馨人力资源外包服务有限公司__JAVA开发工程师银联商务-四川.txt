@@ -1,0 +1,1 @@
+{'company_name': '上海申馨人力资源外包服务有限公司', 'job_name': 'JAVA开发工程师银联商务-四川', 'geography': '成都-都江堰市', 'bonus': ['五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129968394.html?rc=03'}

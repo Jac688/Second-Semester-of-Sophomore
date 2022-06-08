@@ -1,0 +1,1 @@
+{'company_name': '宁波太平鸟风尚男装有限公司', 'job_name': '数据分析师G00696', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131752275.html?rc=03'}

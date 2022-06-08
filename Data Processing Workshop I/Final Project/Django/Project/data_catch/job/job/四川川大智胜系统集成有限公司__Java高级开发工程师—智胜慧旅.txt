@@ -1,0 +1,1 @@
+{'company_name': '四川川大智胜系统集成有限公司', 'job_name': 'Java高级开发工程师—智胜慧旅', 'geography': '成都-武侯区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '定期体检'], 'salary': 1.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/91389514.html?rc=03'}

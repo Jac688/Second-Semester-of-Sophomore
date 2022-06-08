@@ -1,0 +1,1 @@
+{'company_name': 'A.O.史密斯中国', 'job_name': 'Java开发工程师', 'geography': '南京-栖霞区', 'bonus': ['员工旅游', '绩效奖金', '专业培训', '定期体检'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131708282.html?rc=03'}

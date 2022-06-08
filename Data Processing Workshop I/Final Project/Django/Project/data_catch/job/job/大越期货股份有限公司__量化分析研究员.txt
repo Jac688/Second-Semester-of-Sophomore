@@ -1,0 +1,1 @@
+{'company_name': '大越期货股份有限公司', 'job_name': '量化分析研究员', 'geography': '杭州', 'bonus': ['五险一金', '员工旅游', '定期体检'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127080165.html?rc=03'}

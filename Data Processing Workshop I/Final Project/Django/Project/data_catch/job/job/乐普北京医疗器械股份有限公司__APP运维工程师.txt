@@ -1,0 +1,1 @@
+{'company_name': '乐普北京医疗器械股份有限公司', 'job_name': 'APP运维工程师', 'geography': '北京-昌平区', 'bonus': ['节日福利', '通信补助', '定期体检', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131152031.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '德勤中国', 'job_name': 'Senior - Audit Innovation (Python Develop) - Shanghai', 'geography': '上海', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123499387.html?rc=03'}

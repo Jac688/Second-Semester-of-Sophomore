@@ -1,0 +1,1 @@
+{'company_name': '北京星网锐捷网络技术有限公司', 'job_name': 'Linux后端开发工程师 (MJ009669)', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131212221.html?rc=03'}

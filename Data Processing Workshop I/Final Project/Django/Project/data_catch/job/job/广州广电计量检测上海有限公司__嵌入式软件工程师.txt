@@ -1,0 +1,1 @@
+{'company_name': '广州广电计量检测上海有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海', 'bonus': ['周末双休', '五险一金', '带薪年假', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131655040.html?rc=03'}

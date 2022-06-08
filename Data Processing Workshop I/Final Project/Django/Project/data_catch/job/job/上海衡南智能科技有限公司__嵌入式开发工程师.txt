@@ -1,0 +1,1 @@
+{'company_name': '上海衡南智能科技有限公司', 'job_name': '嵌入式开发工程师', 'geography': '上海', 'bonus': [], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128424122.html?rc=03'}

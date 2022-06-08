@@ -1,0 +1,1 @@
+{'company_name': '北京华夏威科软件技术有限公司', 'job_name': 'Windows平台C++高级研发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '年终奖金', '通讯补贴', '餐饮补贴'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126532879.html?rc=03'}

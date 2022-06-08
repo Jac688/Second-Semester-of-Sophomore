@@ -1,0 +1,1 @@
+{'company_name': '奥托立夫中国汽车安全系统有限公司', 'job_name': 'Automation Engineer -Vision视觉检验', 'geography': '南通', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/nantong/126365798.html?rc=03'}

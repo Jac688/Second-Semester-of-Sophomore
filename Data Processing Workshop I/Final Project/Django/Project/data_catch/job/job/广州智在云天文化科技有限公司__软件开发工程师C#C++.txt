@@ -1,0 +1,1 @@
+{'company_name': '广州智在云天文化科技有限公司', 'job_name': '软件开发工程师C#C++', 'geography': '广州-海珠区', 'bonus': ['五险一金', '交通补贴', '专业培训', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/116571728.html?rc=03'}

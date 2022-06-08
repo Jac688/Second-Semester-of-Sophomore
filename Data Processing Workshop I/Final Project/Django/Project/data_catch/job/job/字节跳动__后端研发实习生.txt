@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后端研发实习生', 'geography': '上海', 'bonus': ['下午茶', '团队氛围好', '用户过亿', '大牛带队'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126356440.html?rc=03'}

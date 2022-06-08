@@ -1,0 +1,1 @@
+{'company_name': '广州云辉塑料包装容器有限公司', 'job_name': '网络推广SEO专员', 'geography': '广州-白云区', 'bonus': ['包吃', '全勤奖', '节日福利', '社会保险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/111950940.html?rc=03'}

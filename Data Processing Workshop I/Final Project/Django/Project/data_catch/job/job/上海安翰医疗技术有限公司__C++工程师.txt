@@ -1,0 +1,1 @@
+{'company_name': '上海安翰医疗技术有限公司', 'job_name': 'C++工程师', 'geography': '无锡', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/130763650.html?rc=03'}

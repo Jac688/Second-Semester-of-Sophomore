@@ -1,0 +1,1 @@
+{'company_name': '惠州帆声智创科技有限公司', 'job_name': '系统集成工程师', 'geography': '惠州', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/118971376.html?rc=03'}

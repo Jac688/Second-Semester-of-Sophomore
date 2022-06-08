@@ -1,0 +1,1 @@
+{'company_name': '东莞韬略运动器材有限公司', 'job_name': 'MES工程师', 'geography': '惠州-博罗县', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '全勤奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/127673562.html?rc=03'}

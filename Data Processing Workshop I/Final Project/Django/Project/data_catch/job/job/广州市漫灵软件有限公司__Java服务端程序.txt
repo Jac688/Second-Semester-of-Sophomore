@@ -1,0 +1,1 @@
+{'company_name': '广州市漫灵软件有限公司', 'job_name': 'Java服务端程序', 'geography': '广州', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/85205518.html?rc=03'}

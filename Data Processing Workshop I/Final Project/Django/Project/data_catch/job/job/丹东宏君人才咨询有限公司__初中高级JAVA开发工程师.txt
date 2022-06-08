@@ -1,0 +1,1 @@
+{'company_name': '丹东宏君人才咨询有限公司', 'job_name': '初中高级JAVA开发工程师', 'geography': '济南-历下区', 'bonus': ['五险一金', '包吃包住', '周末双休', '年终双薪'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131935600.html?rc=03'}

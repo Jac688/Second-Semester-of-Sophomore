@@ -1,0 +1,1 @@
+{'company_name': '中富通集团股份有限公司', 'job_name': 'Java开发工程师', 'geography': '福州', 'bonus': ['五险一金', '弹性工作', '定期体检', '周末双休'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/130833295.html?rc=03'}

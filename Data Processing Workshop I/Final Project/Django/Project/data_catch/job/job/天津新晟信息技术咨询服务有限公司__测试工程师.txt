@@ -1,0 +1,1 @@
+{'company_name': '天津新晟信息技术咨询服务有限公司', 'job_name': '测试工程师', 'geography': '北京-朝阳区', 'bonus': ['餐饮补贴', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132184963.html?rc=03'}

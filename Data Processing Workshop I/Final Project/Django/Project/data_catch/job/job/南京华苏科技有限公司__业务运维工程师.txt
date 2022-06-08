@@ -1,0 +1,1 @@
+{'company_name': '南京华苏科技有限公司', 'job_name': '业务运维工程师', 'geography': '天津-和平区', 'bonus': ['五险一金', '通讯补贴', '专业培训', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131912938.html?rc=03'}

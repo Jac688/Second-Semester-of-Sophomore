@@ -1,0 +1,1 @@
+{'company_name': '北京博科测试系统股份有限公司', 'job_name': '软件工程师c#', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/107373398.html?rc=03'}

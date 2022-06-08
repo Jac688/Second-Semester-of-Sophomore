@@ -1,0 +1,1 @@
+{'company_name': '宁波小遛共享信息科技有限公司', 'job_name': '大数据架构师', 'geography': '杭州-江干区', 'bonus': ['团建', '全勤奖', '五险', '节假日福利'], 'salary': 2.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129933004.html?rc=03'}

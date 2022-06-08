@@ -1,0 +1,1 @@
+{'company_name': '塔塔信息技术中国股份有限公司', 'job_name': 'Python Engineer', 'geography': '南京-鼓楼区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132274322.html?rc=03'}

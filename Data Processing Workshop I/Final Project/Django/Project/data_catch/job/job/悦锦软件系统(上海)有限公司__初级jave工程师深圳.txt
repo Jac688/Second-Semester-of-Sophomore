@@ -1,0 +1,1 @@
+{'company_name': '悦锦软件系统(上海)有限公司', 'job_name': '初级jave工程师深圳', 'geography': '深圳-罗湖区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131440617.html?rc=03'}

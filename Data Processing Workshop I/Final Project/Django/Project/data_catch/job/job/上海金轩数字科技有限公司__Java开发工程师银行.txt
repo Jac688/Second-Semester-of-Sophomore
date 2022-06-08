@@ -1,0 +1,1 @@
+{'company_name': '上海金轩数字科技有限公司', 'job_name': 'Java开发工程师银行', 'geography': '杭州-拱墅区', 'bonus': ['五险一金', '年终奖金', '专业培训', '定期聚餐'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131325379.html?rc=03'}

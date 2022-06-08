@@ -1,0 +1,1 @@
+{'company_name': '上海奉先电子科技有限公司', 'job_name': '005-高级嵌入式软件工程师', 'geography': '上海-宝山区', 'bonus': ['五险一金', '年终奖金', '弹性工作', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/103301164.html?rc=03'}

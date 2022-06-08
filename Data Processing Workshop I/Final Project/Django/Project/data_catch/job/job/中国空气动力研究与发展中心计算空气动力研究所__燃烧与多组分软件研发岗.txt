@@ -1,0 +1,1 @@
+{'company_name': '中国空气动力研究与发展中心计算空气动力研究所', 'job_name': '燃烧与多组分软件研发岗', 'geography': '成都-天府新区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '通讯补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130259794.html?rc=03'}

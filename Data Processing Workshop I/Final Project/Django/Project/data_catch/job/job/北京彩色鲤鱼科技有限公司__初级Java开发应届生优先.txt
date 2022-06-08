@@ -1,0 +1,1 @@
+{'company_name': '北京彩色鲤鱼科技有限公司', 'job_name': '初级Java开发应届生优先', 'geography': '异地招聘', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125941615.html?rc=03'}

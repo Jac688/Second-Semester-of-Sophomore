@@ -1,0 +1,1 @@
+{'company_name': '大唐移动通信设备有限公司', 'job_name': 'AI算法工程师(J10284)', 'geography': '北京-海淀区', 'bonus': ['餐饮补贴', '五险一金', '补充医疗保险', '员工旅游'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129133306.html?rc=03'}

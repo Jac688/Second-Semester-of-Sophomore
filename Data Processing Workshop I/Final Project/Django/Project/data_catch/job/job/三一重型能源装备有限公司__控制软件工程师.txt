@@ -1,0 +1,1 @@
+{'company_name': '三一重型能源装备有限公司', 'job_name': '控制软件工程师', 'geography': '北京-昌平区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132178960.html?rc=03'}

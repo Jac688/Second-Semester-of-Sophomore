@@ -1,0 +1,1 @@
+{'company_name': '北京联世科技有限公司', 'job_name': 'C#、Java开发工程师', 'geography': '北京-西城区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131884119.html?rc=03'}

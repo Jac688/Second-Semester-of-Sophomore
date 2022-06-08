@@ -1,0 +1,1 @@
+{'company_name': '可成科技宿迁有限公司', 'job_name': '资讯软件助工工程师', 'geography': '宿迁', 'bonus': ['五险一金', '交通补贴', '定期体检', '员工旅游'], 'salary': 0.48, 'detail_url': 'https://msearch.51job.com/jobs/suqian/131957155.html?rc=03'}

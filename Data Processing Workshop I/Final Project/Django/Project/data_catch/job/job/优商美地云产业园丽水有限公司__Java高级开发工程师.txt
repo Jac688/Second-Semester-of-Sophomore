@@ -1,0 +1,1 @@
+{'company_name': '优商美地云产业园丽水有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127710669.html?rc=03'}

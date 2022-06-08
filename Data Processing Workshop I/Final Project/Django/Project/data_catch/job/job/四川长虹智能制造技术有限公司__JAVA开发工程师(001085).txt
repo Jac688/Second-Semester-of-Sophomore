@@ -1,0 +1,1 @@
+{'company_name': '四川长虹智能制造技术有限公司', 'job_name': 'JAVA开发工程师(001085)', 'geography': '绵阳', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/mianyang/124861729.html?rc=03'}

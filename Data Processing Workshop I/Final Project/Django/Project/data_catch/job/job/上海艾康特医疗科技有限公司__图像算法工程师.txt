@@ -1,0 +1,1 @@
+{'company_name': '上海艾康特医疗科技有限公司', 'job_name': '图像算法工程师', 'geography': '杭州-余杭区', 'bonus': ['五险一金', '员工旅游', '定期体检', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132168956.html?rc=03'}

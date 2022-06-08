@@ -1,0 +1,1 @@
+{'company_name': '万邦工程管理咨询有限公司', 'job_name': '弱电智能化项目负责人', 'geography': '杭州-江干区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/117049830.html?rc=03'}

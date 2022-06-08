@@ -1,0 +1,1 @@
+{'company_name': '上海中企人力资源咨询有限公司', 'job_name': '软件研发产品经理', 'geography': '杭州', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128499645.html?rc=03'}

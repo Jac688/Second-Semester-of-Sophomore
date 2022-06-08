@@ -1,0 +1,1 @@
+{'company_name': '广州艾儿智能科技有限公司', 'job_name': '初级H5游戏服务端开发', 'geography': '广州-天河区', 'bonus': ['五险一金', '弹性工作', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/121456782.html?rc=03'}

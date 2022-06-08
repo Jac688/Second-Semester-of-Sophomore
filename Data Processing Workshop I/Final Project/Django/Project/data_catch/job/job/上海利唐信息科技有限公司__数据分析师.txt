@@ -1,0 +1,1 @@
+{'company_name': '上海利唐信息科技有限公司', 'job_name': '数据分析师', 'geography': '苏州-工业园区', 'bonus': ['带薪年假', '带薪病假', '节日福利', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131756293.html?rc=03'}

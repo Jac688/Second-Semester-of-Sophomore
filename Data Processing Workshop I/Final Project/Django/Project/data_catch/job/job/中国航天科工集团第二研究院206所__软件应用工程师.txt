@@ -1,0 +1,1 @@
+{'company_name': '中国航天科工集团第二研究院206所', 'job_name': '软件应用工程师', 'geography': '北京', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132102860.html?rc=03'}

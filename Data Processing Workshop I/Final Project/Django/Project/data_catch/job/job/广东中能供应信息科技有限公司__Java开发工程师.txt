@@ -1,0 +1,1 @@
+{'company_name': '广东中能供应信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '定期体检', '员工旅游', '下午茶'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126645090.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '急速国际物流科技深圳有限公司', 'job_name': 'PHP后端开发工程师', 'geography': '深圳-龙岗区', 'bonus': ['年终奖金', '弹性工作', '社保', '朝九晚六'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131428570.html?rc=03'}

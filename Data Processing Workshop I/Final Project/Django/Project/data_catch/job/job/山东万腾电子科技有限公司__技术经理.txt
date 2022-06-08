@@ -1,0 +1,1 @@
+{'company_name': '山东万腾电子科技有限公司', 'job_name': '技术经理', 'geography': '济南-高新区', 'bonus': ['五险一金', '绩效奖金', '周末双休'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/jinan/118455996.html?rc=03'}

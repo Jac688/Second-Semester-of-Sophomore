@@ -1,0 +1,1 @@
+{'company_name': '云从科技', 'job_name': 'AI数据技术经理', 'geography': '重庆', 'bonus': ['五险一金', '专业培训', '弹性工作', '定期体检'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/125361895.html?rc=03'}

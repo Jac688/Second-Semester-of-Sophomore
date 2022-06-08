@@ -1,0 +1,1 @@
+{'company_name': '安徽汇鑫电子有限公司', 'job_name': 'C++高级软件开发工程师', 'geography': '合肥-高新区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hefei/130804360.html?rc=03'}

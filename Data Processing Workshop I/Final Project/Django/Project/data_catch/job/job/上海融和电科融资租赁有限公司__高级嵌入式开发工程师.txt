@@ -1,0 +1,1 @@
+{'company_name': '上海融和电科融资租赁有限公司', 'job_name': '高级嵌入式开发工程师', 'geography': '上海-黄浦区', 'bonus': ['绩效奖金', '年终奖金', '五险一金', '补充医疗保险'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131032357.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '三益天津精密机械股份有限公司', 'job_name': '.NET开发工程师', 'geography': '天津-西青区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '通讯补贴'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/121994102.html?rc=03'}

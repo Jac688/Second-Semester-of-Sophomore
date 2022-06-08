@@ -1,0 +1,1 @@
+{'company_name': '巨人通力电梯有限公司', 'job_name': '物联网支持工程师', 'geography': '湖州', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '年终奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/huzhou/125158350.html?rc=03'}

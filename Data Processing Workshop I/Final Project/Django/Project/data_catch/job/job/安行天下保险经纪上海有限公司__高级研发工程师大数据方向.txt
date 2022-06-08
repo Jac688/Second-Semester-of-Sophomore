@@ -1,0 +1,1 @@
+{'company_name': '安行天下保险经纪上海有限公司', 'job_name': '高级研发工程师大数据方向', 'geography': '上海', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129978212.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '安美集团', 'job_name': '前端开发工程师', 'geography': '东莞', 'bonus': ['包吃包住', '5.5天制', '带薪年假', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130802318.html?rc=03'}

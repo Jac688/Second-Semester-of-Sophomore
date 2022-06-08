@@ -1,0 +1,1 @@
+{'company_name': '三替集团有限公司', 'job_name': 'java开发工程师', 'geography': '杭州-西湖区', 'bonus': ['节日福利', '高温补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131694155.html?rc=03'}

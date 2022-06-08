@@ -1,0 +1,1 @@
+{'company_name': '广州要玩娱乐网络技术股份有限公司', 'job_name': 'Java服务端程序员', 'geography': '广州-海珠区', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '餐饮补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/72646429.html?rc=03'}

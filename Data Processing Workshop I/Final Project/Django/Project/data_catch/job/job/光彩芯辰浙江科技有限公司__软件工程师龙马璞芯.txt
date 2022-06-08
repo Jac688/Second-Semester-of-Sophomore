@@ -1,0 +1,1 @@
+{'company_name': '光彩芯辰浙江科技有限公司', 'job_name': '软件工程师龙马璞芯', 'geography': '苏州-高新区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130716452.html?rc=03'}

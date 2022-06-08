@@ -1,0 +1,1 @@
+{'company_name': '南京玻璃纤维研究设计院有限公司', 'job_name': '算法分析师', 'geography': '南京', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '专业培训'], 'salary': 9.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/124020782.html?rc=03'}

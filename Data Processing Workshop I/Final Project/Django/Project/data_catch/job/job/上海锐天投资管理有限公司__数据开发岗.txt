@@ -1,0 +1,1 @@
+{'company_name': '上海锐天投资管理有限公司', 'job_name': '数据开发岗', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124042728.html?rc=03'}

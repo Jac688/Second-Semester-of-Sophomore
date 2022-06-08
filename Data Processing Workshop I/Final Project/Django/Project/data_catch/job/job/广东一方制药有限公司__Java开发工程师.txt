@@ -1,0 +1,1 @@
+{'company_name': '广东一方制药有限公司', 'job_name': 'Java开发工程师', 'geography': '佛山', 'bonus': ['五险一金', '定期体检', '专业培训', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/121633631.html?rc=03'}

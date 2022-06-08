@@ -1,0 +1,1 @@
+{'company_name': '上海复星高科技集团有限公司', 'job_name': '高级java开发工程师星益健康', 'geography': '上海-虹口区', 'bonus': ['五险一金', '补充公积金', '交通补贴', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131910893.html?rc=03'}

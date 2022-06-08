@@ -1,0 +1,1 @@
+{'company_name': '中国联合网络通信有限公司珠海市分公司', 'job_name': 'Python后端开发', 'geography': '珠海-香洲区', 'bonus': ['五险一金', '商业意外险', '重疾险', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/131056322.html?rc=03'}

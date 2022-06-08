@@ -1,0 +1,1 @@
+{'company_name': '北京万普瑞能源技术有限公司', 'job_name': '人工智能开发工程师', 'geography': '重庆-沙坪坝区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/128844890.html?rc=03'}

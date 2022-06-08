@@ -1,0 +1,1 @@
+{'company_name': '延锋科技', 'job_name': '初级算法工程师延锋科技', 'geography': '上海', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123913452.html?rc=03'}

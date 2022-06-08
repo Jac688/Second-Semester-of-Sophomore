@@ -1,0 +1,1 @@
+{'company_name': '宁波捷诚企业咨询管理有限公司', 'job_name': '嵌入式软件工程师', 'geography': '宁波-象山县', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131695382.html?rc=03'}

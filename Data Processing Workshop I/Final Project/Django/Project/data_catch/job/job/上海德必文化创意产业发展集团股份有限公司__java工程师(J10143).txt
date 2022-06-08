@@ -1,0 +1,1 @@
+{'company_name': '上海德必文化创意产业发展集团股份有限公司', 'job_name': 'java工程师(J10143)', 'geography': '上海-长宁区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131356884.html?rc=03'}

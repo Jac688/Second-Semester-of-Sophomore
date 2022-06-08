@@ -1,0 +1,1 @@
+{'company_name': '宁波鑫义信息科技有限公司', 'job_name': '测试工程师', 'geography': '宁波-高新区', 'bonus': ['员工旅游', '定期体检', '周末双休', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128780534.html?rc=03'}

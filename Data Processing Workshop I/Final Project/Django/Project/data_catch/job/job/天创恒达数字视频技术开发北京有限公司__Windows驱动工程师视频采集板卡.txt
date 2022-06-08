@@ -1,0 +1,1 @@
+{'company_name': '天创恒达数字视频技术开发北京有限公司', 'job_name': 'Windows驱动工程师视频采集板卡', 'geography': '北京-海淀区', 'bonus': ['年终奖金', '绩效奖金', '五险一金', '节日福利'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131834349.html?rc=03'}

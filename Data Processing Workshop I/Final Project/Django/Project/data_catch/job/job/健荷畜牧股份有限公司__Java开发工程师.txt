@@ -1,0 +1,1 @@
+{'company_name': '健荷畜牧股份有限公司', 'job_name': 'Java开发工程师', 'geography': '徐州', 'bonus': ['交通补贴', '餐饮补贴', '五险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/131937850.html?rc=03'}

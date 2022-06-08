@@ -1,0 +1,1 @@
+{'company_name': '亚马逊中国', 'job_name': '技术培训讲师', 'geography': '北京-朝阳区', 'bonus': ['股票期权', '专业培训', '餐饮补贴', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128733310.html?rc=03'}

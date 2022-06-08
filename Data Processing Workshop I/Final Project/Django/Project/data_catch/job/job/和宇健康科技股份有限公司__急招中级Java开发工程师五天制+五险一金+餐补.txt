@@ -1,0 +1,1 @@
+{'company_name': '和宇健康科技股份有限公司', 'job_name': '急招中级Java开发工程师五天制+五险一金+餐补', 'geography': '广州-天河区', 'bonus': ['餐饮补贴', '五险一金', '全勤奖', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132327775.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国婚博会', 'job_name': '高级薪酬绩效专员', 'geography': '北京-海淀区', 'bonus': ['五险一金', '全勤奖', '周末双休', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130239089.html?rc=03'}

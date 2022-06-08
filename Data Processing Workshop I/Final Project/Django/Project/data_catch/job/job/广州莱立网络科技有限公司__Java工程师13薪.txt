@@ -1,0 +1,1 @@
+{'company_name': '广州莱立网络科技有限公司', 'job_name': 'Java工程师13薪', 'geography': '广州-黄埔区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126968764.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海银科创展投资集团有限公司', 'job_name': 'java开发工程师', 'geography': '上海-青浦区', 'bonus': ['补充医疗保险', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131032727.html?rc=03'}

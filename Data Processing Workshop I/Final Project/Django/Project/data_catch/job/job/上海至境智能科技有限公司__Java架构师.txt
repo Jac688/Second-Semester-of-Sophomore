@@ -1,0 +1,1 @@
+{'company_name': '上海至境智能科技有限公司', 'job_name': 'Java架构师', 'geography': '上海-奉贤区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '弹性工作'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126298329.html?rc=03'}

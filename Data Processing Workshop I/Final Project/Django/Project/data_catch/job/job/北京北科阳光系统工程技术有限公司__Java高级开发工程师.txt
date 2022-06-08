@@ -1,0 +1,1 @@
+{'company_name': '北京北科阳光系统工程技术有限公司', 'job_name': 'Java高级开发工程师', 'geography': '石家庄-裕华区', 'bonus': ['餐饮补贴', '周末双休', '社会保险', '补充医疗保险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shijiazhuang/130853262.html?rc=03'}

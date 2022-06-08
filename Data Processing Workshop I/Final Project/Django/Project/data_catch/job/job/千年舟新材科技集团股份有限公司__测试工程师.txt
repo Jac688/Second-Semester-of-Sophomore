@@ -1,0 +1,1 @@
+{'company_name': '千年舟新材科技集团股份有限公司', 'job_name': '测试工程师', 'geography': '杭州-余杭区', 'bonus': ['通讯补贴', '定期体检', '餐饮补贴', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129235830.html?rc=03'}

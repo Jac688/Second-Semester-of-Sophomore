@@ -1,0 +1,1 @@
+{'company_name': '北京融为科技有限公司成都分公司', 'job_name': '软件设计工程师北京', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '健身房'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126394368.html?rc=03'}

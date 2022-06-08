@@ -1,0 +1,1 @@
+{'company_name': '上海复深蓝软件股份有限公司', 'job_name': '中高级Java工程师金融04', 'geography': '深圳-福田区', 'bonus': ['五险一金', '年终奖金', '交通补贴'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130235887.html?rc=03'}

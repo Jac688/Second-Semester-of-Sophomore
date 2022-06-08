@@ -1,0 +1,1 @@
+{'company_name': '广州佳时达软件股份有限公司', 'job_name': 'iOS开发工程师', 'geography': '广州-天河区', 'bonus': ['绩效奖金', '五险一金', '定期体检', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128041138.html?rc=03'}

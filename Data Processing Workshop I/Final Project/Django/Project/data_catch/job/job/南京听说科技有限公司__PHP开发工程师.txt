@@ -1,0 +1,1 @@
+{'company_name': '南京听说科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '南京-玄武区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130334599.html?rc=03'}

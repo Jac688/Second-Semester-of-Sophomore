@@ -1,0 +1,1 @@
+{'company_name': '北京讯腾智慧科技股份有限公司', 'job_name': '需求分析工程师产品工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '年终奖金', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132187149.html?rc=03'}

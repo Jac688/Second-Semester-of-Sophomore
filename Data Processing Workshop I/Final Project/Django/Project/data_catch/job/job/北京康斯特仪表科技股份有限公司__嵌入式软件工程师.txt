@@ -1,0 +1,1 @@
+{'company_name': '北京康斯特仪表科技股份有限公司', 'job_name': '嵌入式软件工程师', 'geography': '北京', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/45033468.html?rc=03'}

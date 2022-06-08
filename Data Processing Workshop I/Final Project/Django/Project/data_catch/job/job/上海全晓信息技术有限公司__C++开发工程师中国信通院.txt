@@ -1,0 +1,1 @@
+{'company_name': '上海全晓信息技术有限公司', 'job_name': 'C++开发工程师中国信通院', 'geography': '北京', 'bonus': [], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130244445.html?rc=03'}

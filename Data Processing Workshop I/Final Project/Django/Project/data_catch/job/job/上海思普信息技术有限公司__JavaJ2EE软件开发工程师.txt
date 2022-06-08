@@ -1,0 +1,1 @@
+{'company_name': '上海思普信息技术有限公司', 'job_name': 'JavaJ2EE软件开发工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/44221557.html?rc=03'}

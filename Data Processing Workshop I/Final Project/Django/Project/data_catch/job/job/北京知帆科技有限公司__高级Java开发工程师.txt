@@ -1,0 +1,1 @@
+{'company_name': '北京知帆科技有限公司', 'job_name': '高级Java开发工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125562817.html?rc=03'}

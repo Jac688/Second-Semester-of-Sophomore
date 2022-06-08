@@ -1,0 +1,1 @@
+{'company_name': '上海巍立智能科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127544734.html?rc=03'}

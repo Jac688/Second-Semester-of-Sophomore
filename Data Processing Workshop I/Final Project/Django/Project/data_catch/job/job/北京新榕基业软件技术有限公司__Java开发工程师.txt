@@ -1,0 +1,1 @@
+{'company_name': '北京新榕基业软件技术有限公司', 'job_name': 'Java开发工程师', 'geography': '青岛-崂山区', 'bonus': ['五险一金', '带薪年假'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/132278552.html?rc=03'}

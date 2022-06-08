@@ -1,0 +1,1 @@
+{'company_name': '内蒙古光大股权投资管理有限公司', 'job_name': '嵌入式硬件工程师', 'geography': '北京-大兴区', 'bonus': ['周末双休', '带薪年假', '五险一金', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131148909.html?rc=03'}

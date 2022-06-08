@@ -1,0 +1,1 @@
+{'company_name': '大连蓝海时代信息技术有限公司', 'job_name': '后端开发工程师-Java&PHP-英语本社', 'geography': '大连-高新园区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dalian/130038903.html?rc=03'}

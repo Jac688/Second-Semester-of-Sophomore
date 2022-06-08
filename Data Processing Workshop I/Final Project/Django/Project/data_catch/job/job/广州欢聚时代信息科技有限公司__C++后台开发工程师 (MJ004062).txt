@@ -1,0 +1,1 @@
+{'company_name': '广州欢聚时代信息科技有限公司', 'job_name': 'C++后台开发工程师 (MJ004062)', 'geography': '广州-番禺区', 'bonus': [], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132278854.html?rc=03'}

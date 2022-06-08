@@ -1,0 +1,1 @@
+{'company_name': '中国电信广西公司', 'job_name': '软件研发梧州分公司', 'geography': '梧州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/wuzhou/129231807.html?rc=03'}

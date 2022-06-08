@@ -1,0 +1,1 @@
+{'company_name': '上海汽车集团股份有限公司商用车技术中心', 'job_name': 'SWEA-08-车载数据架构工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '交通补贴', '年终奖金', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131724398.html?rc=03'}

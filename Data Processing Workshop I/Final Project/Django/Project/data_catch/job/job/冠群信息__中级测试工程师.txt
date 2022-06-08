@@ -1,0 +1,1 @@
+{'company_name': '冠群信息', 'job_name': '中级测试工程师', 'geography': '南京-江北新区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131189693.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海蓝凡网络科技股份有限公司', 'job_name': '数据中台运维工程师', 'geography': '北京-西城区', 'bonus': ['五险一金', '交通补贴', '年终奖金', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131882914.html?rc=03'}

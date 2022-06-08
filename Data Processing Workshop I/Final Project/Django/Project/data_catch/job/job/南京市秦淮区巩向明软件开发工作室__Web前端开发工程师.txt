@@ -1,0 +1,1 @@
+{'company_name': '南京市秦淮区巩向明软件开发工作室', 'job_name': 'Web前端开发工程师', 'geography': '南京-雨花台区', 'bonus': ['交通补贴', '专业培训', '餐饮补贴', '员工旅游'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/121894843.html?rc=03'}

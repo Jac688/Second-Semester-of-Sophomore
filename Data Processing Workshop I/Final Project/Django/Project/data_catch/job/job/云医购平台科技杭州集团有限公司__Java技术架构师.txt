@@ -1,0 +1,1 @@
+{'company_name': '云医购平台科技杭州集团有限公司', 'job_name': 'Java技术架构师', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128275583.html?rc=03'}

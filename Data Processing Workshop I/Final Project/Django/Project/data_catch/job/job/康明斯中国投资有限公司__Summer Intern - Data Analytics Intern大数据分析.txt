@@ -1,0 +1,1 @@
+{'company_name': '康明斯中国投资有限公司', 'job_name': 'Summer Intern - Data Analytics Intern大数据分析', 'geography': '北京', 'bonus': [], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130174294.html?rc=03'}

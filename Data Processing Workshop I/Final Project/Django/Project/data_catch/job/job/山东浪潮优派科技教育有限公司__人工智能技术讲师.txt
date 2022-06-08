@@ -1,0 +1,1 @@
+{'company_name': '山东浪潮优派科技教育有限公司', 'job_name': '人工智能技术讲师', 'geography': '济南', 'bonus': ['五险一金', '年终奖金', '定期体检', '商业保险'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130130365.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '张家港电子口岸有限公司', 'job_name': 'java软件工程师', 'geography': '张家港', 'bonus': ['五险一金', '定期体检', '员工旅游', '餐饮补贴'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/zhangjiagang/85636790.html?rc=03'}

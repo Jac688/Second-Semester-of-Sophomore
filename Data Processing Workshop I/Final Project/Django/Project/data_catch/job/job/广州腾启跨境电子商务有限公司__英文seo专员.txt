@@ -1,0 +1,1 @@
+{'company_name': '广州腾启跨境电子商务有限公司', 'job_name': '英文seo专员', 'geography': '广州-番禺区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131777362.html?rc=03'}

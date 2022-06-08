@@ -1,0 +1,1 @@
+{'company_name': '中智沃达北京电力科技有限公司', 'job_name': 'C语言软件开发', 'geography': '南京-玄武区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '出差补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128277589.html?rc=03'}

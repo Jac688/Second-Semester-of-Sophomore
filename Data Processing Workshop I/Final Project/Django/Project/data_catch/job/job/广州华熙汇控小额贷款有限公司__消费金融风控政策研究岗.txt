@@ -1,0 +1,1 @@
+{'company_name': '广州华熙汇控小额贷款有限公司', 'job_name': '消费金融风控政策研究岗', 'geography': '广州-越秀区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130587989.html?rc=03'}

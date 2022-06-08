@@ -1,0 +1,1 @@
+{'company_name': '图丰信息成都有限责任公司', 'job_name': 'Node.js开发工程师', 'geography': '成都-金牛区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129545825.html?rc=03'}

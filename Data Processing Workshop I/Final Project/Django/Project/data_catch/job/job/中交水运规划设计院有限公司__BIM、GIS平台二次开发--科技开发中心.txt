@@ -1,0 +1,1 @@
+{'company_name': '中交水运规划设计院有限公司', 'job_name': 'BIM、GIS平台二次开发--科技开发中心', 'geography': '北京', 'bonus': ['餐饮补贴', '绩效奖金', '年终奖金', '五险一金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124299291.html?rc=03'}

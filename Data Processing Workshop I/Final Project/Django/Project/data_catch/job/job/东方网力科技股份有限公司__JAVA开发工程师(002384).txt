@@ -1,0 +1,1 @@
+{'company_name': '东方网力科技股份有限公司', 'job_name': 'JAVA开发工程师(002384)', 'geography': '上海-静安区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122231395.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '悦锦软件系统(上海)有限公司', 'job_name': 'JAVA中级开发工程师深圳', 'geography': '深圳-罗湖区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '年终奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/86894712.html?rc=03'}

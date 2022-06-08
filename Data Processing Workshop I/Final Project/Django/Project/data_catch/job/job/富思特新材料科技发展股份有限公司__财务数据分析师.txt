@@ -1,0 +1,1 @@
+{'company_name': '富思特新材料科技发展股份有限公司', 'job_name': '财务数据分析师', 'geography': '北京-通州区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132030789.html?rc=03'}

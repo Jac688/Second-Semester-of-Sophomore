@@ -1,0 +1,1 @@
+{'company_name': '广东红餐科技有限公司', 'job_name': '研究副总监', 'geography': '广州-海珠区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129205033.html?rc=03'}

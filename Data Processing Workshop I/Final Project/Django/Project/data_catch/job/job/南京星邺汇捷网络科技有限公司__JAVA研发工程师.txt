@@ -1,0 +1,1 @@
+{'company_name': '南京星邺汇捷网络科技有限公司', 'job_name': 'JAVA研发工程师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '专业培训', '定期体检', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129607389.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '信雅达科技股份有限公司', 'job_name': '风险咨询顾问风险建模方向', 'geography': '杭州', 'bonus': ['五险一金', '交通补贴', '年终奖金', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132243627.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海星联智创智能科技股份有限公司', 'job_name': '嵌入式开发工程师', 'geography': '苏州', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128617993.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京万慧达知识产权代理有限公司', 'job_name': 'Java后台开发工程师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '年终奖金'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124340060.html?rc=03'}

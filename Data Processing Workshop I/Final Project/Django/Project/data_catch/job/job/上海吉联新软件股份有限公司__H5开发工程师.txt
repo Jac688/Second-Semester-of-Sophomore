@@ -1,0 +1,1 @@
+{'company_name': '上海吉联新软件股份有限公司', 'job_name': 'H5开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '年终奖金', '员工旅游', '出国机会'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/110667760.html?rc=03'}

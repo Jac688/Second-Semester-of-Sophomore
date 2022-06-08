@@ -1,0 +1,1 @@
+{'company_name': '上海绝配柔性供应链服务有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-青浦区', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '全勤奖'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131465170.html?rc=03'}

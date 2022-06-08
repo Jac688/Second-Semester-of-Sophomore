@@ -1,0 +1,1 @@
+{'company_name': '亚信科技CMC', 'job_name': 'Java高级开发工程师', 'geography': '长沙-芙蓉区', 'bonus': ['五险一金', '通讯补贴', '补充医疗保险', '补充公积金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/changsha/126123777.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州网融信息技术有限公司', 'job_name': '区块链应用开发工程师Fisco-bcos方向', 'geography': '广州-海珠区', 'bonus': ['定期体检', '周末双休', '节日福利', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128029255.html?rc=03'}

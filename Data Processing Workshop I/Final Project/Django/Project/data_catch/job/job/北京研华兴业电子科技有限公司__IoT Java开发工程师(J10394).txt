@@ -1,0 +1,1 @@
+{'company_name': '北京研华兴业电子科技有限公司', 'job_name': 'IoT Java开发工程师(J10394)', 'geography': '深圳-南山区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128654262.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '云南元淳投资有限公司', 'job_name': '程序化交易系统开发员', 'geography': '无锡-滨湖区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/132246060.html?rc=03'}

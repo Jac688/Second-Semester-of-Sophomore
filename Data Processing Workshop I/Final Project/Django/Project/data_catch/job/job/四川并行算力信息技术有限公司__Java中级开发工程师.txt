@@ -1,0 +1,1 @@
+{'company_name': '四川并行算力信息技术有限公司', 'job_name': 'Java中级开发工程师', 'geography': '成都-青羊区', 'bonus': ['补充医疗保险', '年终奖金', '专业培训', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127349963.html?rc=03'}

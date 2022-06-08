@@ -1,0 +1,1 @@
+{'company_name': '中电烽友信息技术武汉有限公司', 'job_name': 'C++QT工程师初、中级', 'geography': '武汉', 'bonus': ['五险一金', '专业培训', '员工旅游', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/125367242.html?rc=03'}

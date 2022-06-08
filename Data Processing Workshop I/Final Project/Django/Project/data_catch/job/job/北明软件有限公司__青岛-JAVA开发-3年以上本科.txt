@@ -1,0 +1,1 @@
+{'company_name': '北明软件有限公司', 'job_name': '青岛-JAVA开发-3年以上本科', 'geography': '青岛', 'bonus': ['五险一金', '定期体检', '电脑补助', '补充医疗保险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/131136037.html?rc=03'}

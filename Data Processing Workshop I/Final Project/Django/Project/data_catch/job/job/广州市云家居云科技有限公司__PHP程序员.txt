@@ -1,0 +1,1 @@
+{'company_name': '广州市云家居云科技有限公司', 'job_name': 'PHP程序员', 'geography': '广州-番禺区', 'bonus': ['五险一金', '年终奖金', '专业培训', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129406709.html?rc=03'}

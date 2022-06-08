@@ -1,0 +1,1 @@
+{'company_name': '广州点聚信息科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-天河区', 'bonus': ['带薪年假', '五险', '全勤奖', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130375835.html?rc=03'}

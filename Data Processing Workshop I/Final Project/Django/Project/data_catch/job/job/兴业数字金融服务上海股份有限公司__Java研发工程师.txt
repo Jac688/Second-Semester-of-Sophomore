@@ -1,0 +1,1 @@
+{'company_name': '兴业数字金融服务上海股份有限公司', 'job_name': 'Java研发工程师', 'geography': '福州-马尾区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/129487396.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海大角星信息科技有限公司', 'job_name': '运维经理', 'geography': '上海-闵行区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 2.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126264730.html?rc=03'}

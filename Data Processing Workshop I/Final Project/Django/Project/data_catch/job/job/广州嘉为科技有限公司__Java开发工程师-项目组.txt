@@ -1,0 +1,1 @@
+{'company_name': '广州嘉为科技有限公司', 'job_name': 'Java开发工程师-项目组', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131153324.html?rc=03'}

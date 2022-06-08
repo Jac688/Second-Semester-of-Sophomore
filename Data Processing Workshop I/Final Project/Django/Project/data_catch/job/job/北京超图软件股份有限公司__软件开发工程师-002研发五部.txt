@@ -1,0 +1,1 @@
+{'company_name': '北京超图软件股份有限公司', 'job_name': '软件开发工程师-002研发五部', 'geography': '成都-双流区', 'bonus': ['五险一金', '补充医疗保险', '股票期权', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131589762.html?rc=03'}

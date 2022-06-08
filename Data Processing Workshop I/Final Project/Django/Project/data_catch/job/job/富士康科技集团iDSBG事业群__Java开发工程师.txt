@@ -1,0 +1,1 @@
+{'company_name': '富士康科技集团iDSBG事业群', 'job_name': 'Java开发工程师', 'geography': '深圳-龙华区', 'bonus': ['五险一金', '定期体检', '绩效奖金', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130182044.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川书亦餐饮管理有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-武侯区', 'bonus': ['绩效奖金', '全勤奖', '工龄工资', '每年多次调薪'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131592622.html?rc=03'}

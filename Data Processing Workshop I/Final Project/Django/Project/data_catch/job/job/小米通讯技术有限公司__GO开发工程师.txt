@@ -1,0 +1,1 @@
+{'company_name': '小米通讯技术有限公司', 'job_name': 'GO开发工程师', 'geography': '北京', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131955791.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '徐州市华网信息科技有限公司', 'job_name': 'Java开发', 'geography': '徐州', 'bonus': ['员工旅游', '绩效奖金', '五险', '周末双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/50354024.html?rc=03'}

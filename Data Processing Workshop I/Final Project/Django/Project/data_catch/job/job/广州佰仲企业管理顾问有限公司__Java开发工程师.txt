@@ -1,0 +1,1 @@
+{'company_name': '广州佰仲企业管理顾问有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-黄埔区', 'bonus': ['年终奖金', '弹性工作', '绩效奖金', '五险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126501886.html?rc=03'}

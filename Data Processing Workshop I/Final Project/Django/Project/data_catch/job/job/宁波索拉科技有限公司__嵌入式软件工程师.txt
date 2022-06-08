@@ -1,0 +1,1 @@
+{'company_name': '宁波索拉科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '宁波-奉化区', 'bonus': [], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125701950.html?rc=03'}

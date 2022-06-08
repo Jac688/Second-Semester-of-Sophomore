@@ -1,0 +1,1 @@
+{'company_name': '中兴软件技术南昌有限公司', 'job_name': 'Java中级开发工程师', 'geography': '南昌', 'bonus': ['五险一金', '年终奖金', '周末双休', '法定节假日'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/123253413.html?rc=03'}

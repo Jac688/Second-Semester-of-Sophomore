@@ -1,0 +1,1 @@
+{'company_name': '唯智信息技术上海股份有限公司', 'job_name': 'Java初级开发工程师1', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '员工旅游', '专业培训', '出国机会'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131177357.html?rc=03'}

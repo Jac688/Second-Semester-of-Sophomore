@@ -1,0 +1,1 @@
+{'company_name': '徐州赛诚网络服务有限公司', 'job_name': '程序员', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '全勤奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131075435.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海矩子科技股份有限公司', 'job_name': 'AI图像算法工程师', 'geography': '苏州', 'bonus': ['绩效奖金', '五险一金', '员工旅游', '出国机会'], 'salary': 1.17, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/122713113.html?rc=03'}

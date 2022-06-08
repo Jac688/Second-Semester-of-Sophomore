@@ -1,0 +1,1 @@
+{'company_name': '广州高新兴机器人有限公司', 'job_name': 'Java开发工程师(J11746)', 'geography': '广州-黄埔区', 'bonus': ['包吃包住', '股票期权', '年终奖金', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131955061.html?rc=03'}

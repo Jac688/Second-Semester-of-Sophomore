@@ -1,0 +1,1 @@
+{'company_name': '广州市玄武无线科技股份有限公司', 'job_name': '中高级Java开发工程师即信产品事业部', 'geography': '广州', 'bonus': ['五险一金', '专业培训', '年终奖金', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/114110658.html?rc=03'}

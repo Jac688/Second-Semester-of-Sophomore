@@ -1,0 +1,1 @@
+{'company_name': '华云数通科技北京有限公司', 'job_name': '大数据开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '免费班车', '交通补贴', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125303284.html?rc=03'}

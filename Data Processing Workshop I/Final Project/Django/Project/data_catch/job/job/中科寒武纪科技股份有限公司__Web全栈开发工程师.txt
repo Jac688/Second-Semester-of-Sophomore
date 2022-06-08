@@ -1,0 +1,1 @@
+{'company_name': '中科寒武纪科技股份有限公司', 'job_name': 'Web全栈开发工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132205045.html?rc=03'}

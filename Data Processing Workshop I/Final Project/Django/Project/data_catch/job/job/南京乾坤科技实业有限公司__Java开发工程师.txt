@@ -1,0 +1,1 @@
+{'company_name': '南京乾坤科技实业有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-鼓楼区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132203858.html?rc=03'}

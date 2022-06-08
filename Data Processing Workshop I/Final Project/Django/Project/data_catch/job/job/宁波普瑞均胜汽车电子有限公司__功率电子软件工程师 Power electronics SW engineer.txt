@@ -1,0 +1,1 @@
+{'company_name': '宁波普瑞均胜汽车电子有限公司', 'job_name': '功率电子软件工程师 Power electronics SW engineer', 'geography': '宁波', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/126337533.html?rc=03'}

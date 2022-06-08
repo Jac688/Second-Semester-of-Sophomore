@@ -1,0 +1,1 @@
+{'company_name': '上海迅筑汽车工程技术有限公司', 'job_name': 'JAVA程序员', 'geography': '上海-黄浦区', 'bonus': ['定期体检', '员工旅游', '五险一金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/68866644.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州好粮品食品有限公司', 'job_name': 'JAVA开发经理单休', 'geography': '广州-白云区', 'bonus': ['补充医疗保险', '绩效奖金', '弹性工作', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131197195.html?rc=03'}

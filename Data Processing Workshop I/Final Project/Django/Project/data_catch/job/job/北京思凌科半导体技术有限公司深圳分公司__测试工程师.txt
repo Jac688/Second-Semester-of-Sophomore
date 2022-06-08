@@ -1,0 +1,1 @@
+{'company_name': '北京思凌科半导体技术有限公司深圳分公司', 'job_name': '测试工程师', 'geography': '深圳-罗湖区', 'bonus': ['五险一金', '带薪年假', '节日福利', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130747479.html?rc=03'}

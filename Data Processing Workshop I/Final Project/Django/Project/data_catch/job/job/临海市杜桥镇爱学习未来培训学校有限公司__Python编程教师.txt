@@ -1,0 +1,1 @@
+{'company_name': '临海市杜桥镇爱学习未来培训学校有限公司', 'job_name': 'Python编程教师', 'geography': '台州-临海市', 'bonus': ['五险', '员工旅游', '通讯补贴', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/taizhoue/122804973.html?rc=03'}

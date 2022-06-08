@@ -1,0 +1,1 @@
+{'company_name': '上海爱数信息技术股份有限公司', 'job_name': '资深技术工程师Splunk日志云', 'geography': '天津', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/123998633.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '惠众信用评级浙江有限公司', 'job_name': '高级前端开发工程师', 'geography': '杭州-上城区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130913502.html?rc=03'}

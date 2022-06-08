@@ -1,0 +1,1 @@
+{'company_name': '四川准达信息技术股份有限公司', 'job_name': '华为400-混合云高阶服务工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '通讯补贴', '年终奖金', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124941732.html?rc=03'}

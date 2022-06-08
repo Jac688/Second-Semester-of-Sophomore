@@ -1,0 +1,1 @@
+{'company_name': '惠州市欧升网络科技有限公司', 'job_name': '诚聘IT技术支持岗', 'geography': '深圳-福田区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132160979.html?rc=03'}

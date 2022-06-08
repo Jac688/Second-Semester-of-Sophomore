@@ -1,0 +1,1 @@
+{'company_name': '广州飞歌汽车音响有限公司', 'job_name': '音视频软件开发主管成都', 'geography': '成都-双流区', 'bonus': ['五险一金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130777084.html?rc=03'}

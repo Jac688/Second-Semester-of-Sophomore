@@ -1,0 +1,1 @@
+{'company_name': '慧择网', 'job_name': '初级Java开发工程师 (MJ000319)', 'geography': '成都-高新区', 'bonus': ['员工旅游', '专业培训', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130575761.html?rc=03'}

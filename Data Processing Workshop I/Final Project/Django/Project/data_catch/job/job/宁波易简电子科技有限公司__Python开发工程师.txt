@@ -1,0 +1,1 @@
+{'company_name': '宁波易简电子科技有限公司', 'job_name': 'Python开发工程师', 'geography': '宁波-鄞州区', 'bonus': ['员工旅游', '绩效奖金', '出国机会', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/115831432.html?rc=03'}

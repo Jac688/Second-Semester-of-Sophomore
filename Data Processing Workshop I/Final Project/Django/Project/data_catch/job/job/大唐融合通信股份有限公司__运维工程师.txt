@@ -1,0 +1,1 @@
+{'company_name': '大唐融合通信股份有限公司', 'job_name': '运维工程师', 'geography': '北京-东城区', 'bonus': ['通讯补贴', '绩效奖金', '餐饮补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130247638.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京中兵智航软件技术有限公司', 'job_name': '运维工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/118973555.html?rc=03'}

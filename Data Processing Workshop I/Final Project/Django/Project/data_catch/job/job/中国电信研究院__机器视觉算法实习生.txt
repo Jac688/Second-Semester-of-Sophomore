@@ -1,0 +1,1 @@
+{'company_name': '中国电信研究院', 'job_name': '机器视觉算法实习生', 'geography': '上海', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127718205.html?rc=03'}

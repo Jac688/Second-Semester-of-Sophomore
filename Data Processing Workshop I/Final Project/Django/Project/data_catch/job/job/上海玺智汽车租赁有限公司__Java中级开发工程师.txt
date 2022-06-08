@@ -1,0 +1,1 @@
+{'company_name': '上海玺智汽车租赁有限公司', 'job_name': 'Java中级开发工程师', 'geography': '上海-普陀区', 'bonus': ['做五休二', '五险一金', '绩效奖金', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123916640.html?rc=03'}

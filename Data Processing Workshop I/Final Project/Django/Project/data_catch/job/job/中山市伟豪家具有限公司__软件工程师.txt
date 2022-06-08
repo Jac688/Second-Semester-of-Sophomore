@@ -1,0 +1,1 @@
+{'company_name': '中山市伟豪家具有限公司', 'job_name': '软件工程师', 'geography': '中山', 'bonus': ['年终奖金', '股票期权', '餐饮补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/117894774.html?rc=03'}

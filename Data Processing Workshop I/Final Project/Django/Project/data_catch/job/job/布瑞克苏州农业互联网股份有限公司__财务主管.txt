@@ -1,0 +1,1 @@
+{'company_name': '布瑞克苏州农业互联网股份有限公司', 'job_name': '财务主管', 'geography': '苏州-相城区', 'bonus': ['五险一金', '专业培训', '周末双休', '定期团建'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128635980.html?rc=03'}

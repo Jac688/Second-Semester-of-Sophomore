@@ -1,0 +1,1 @@
+{'company_name': '北京凝思软件股份有限公司四川分公司', 'job_name': '研发工程师Java后台', 'geography': '成都-高新区', 'bonus': ['五险一金', '周末双休', '带薪年假', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130999600.html?rc=03'}

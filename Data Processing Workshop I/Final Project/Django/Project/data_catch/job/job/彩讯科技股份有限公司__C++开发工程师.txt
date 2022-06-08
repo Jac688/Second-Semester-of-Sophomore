@@ -1,0 +1,1 @@
+{'company_name': '彩讯科技股份有限公司', 'job_name': 'C++开发工程师', 'geography': '深圳', 'bonus': ['上市公司', '自有大厦', '大牛带队', '周末双休'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130113777.html?rc=03'}

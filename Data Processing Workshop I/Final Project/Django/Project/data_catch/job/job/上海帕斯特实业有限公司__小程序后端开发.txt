@@ -1,0 +1,1 @@
+{'company_name': '上海帕斯特实业有限公司', 'job_name': '小程序后端开发', 'geography': '上海-嘉定区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129545649.html?rc=03'}

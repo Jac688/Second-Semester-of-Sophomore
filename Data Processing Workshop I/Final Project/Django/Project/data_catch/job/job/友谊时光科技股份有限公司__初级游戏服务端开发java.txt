@@ -1,0 +1,1 @@
+{'company_name': '友谊时光科技股份有限公司', 'job_name': '初级游戏服务端开发java', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '定期体检', '年终奖金', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/127461887.html?rc=03'}

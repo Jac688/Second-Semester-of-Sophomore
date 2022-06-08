@@ -1,0 +1,1 @@
+{'company_name': '中国食品发酵工业研究院有限公司', 'job_name': '智能消费者研究中心', 'geography': '北京-朝阳区', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129508538.html?rc=03'}

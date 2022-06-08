@@ -1,0 +1,1 @@
+{'company_name': '北京公瑾科技有限公司广州分公司慧算账', 'job_name': 'Python开发工程师', 'geography': '广州-天河区', 'bonus': ['绩效奖金', '年终奖金', '餐饮补贴', '定期体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123214715.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天津先进技术研究院', 'job_name': '图像处理算法工程师', 'geography': '天津', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '定期体检'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/126321289.html?rc=03'}

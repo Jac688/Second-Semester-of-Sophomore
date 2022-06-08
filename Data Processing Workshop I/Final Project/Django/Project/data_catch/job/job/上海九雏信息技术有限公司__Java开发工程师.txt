@@ -1,0 +1,1 @@
+{'company_name': '上海九雏信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '弹性工作', '补充公积金', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131355964.html?rc=03'}

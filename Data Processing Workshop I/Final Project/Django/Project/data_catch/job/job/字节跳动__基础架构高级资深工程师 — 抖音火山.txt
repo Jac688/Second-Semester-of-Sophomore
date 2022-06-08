@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '基础架构高级资深工程师 — 抖音火山', 'geography': '北京', 'bonus': ['股票期权', '租房补贴', '六险一金', '下午茶'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131693191.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '三一重工港机事业部', 'job_name': '软件开发工程师', 'geography': '上海-奉贤区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '绩效奖金'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130835074.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '国基北盛南京科技发展有限公司', 'job_name': '大数据讲师', 'geography': '济南-高新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/124128580.html?rc=03'}

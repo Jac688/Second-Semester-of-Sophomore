@@ -1,0 +1,1 @@
+{'company_name': '上海励能信息技术有限公司', 'job_name': '系统运维工程师', 'geography': '上海-普陀区', 'bonus': ['员工旅游', '五险一金', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131727444.html?rc=03'}

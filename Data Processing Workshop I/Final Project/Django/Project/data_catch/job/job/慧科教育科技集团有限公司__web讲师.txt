@@ -1,0 +1,1 @@
+{'company_name': '慧科教育科技集团有限公司', 'job_name': 'web讲师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '弹性工作', '周末双休'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130636583.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京清华同衡规划设计研究院有限公司', 'job_name': 'Python工程师(J10335)', 'geography': '北京', 'bonus': [], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131459295.html?rc=03'}

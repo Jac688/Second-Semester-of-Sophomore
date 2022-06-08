@@ -1,0 +1,1 @@
+{'company_name': '上海新微技术研发中心有限公司', 'job_name': '生物医学工程师', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127396608.html?rc=03'}

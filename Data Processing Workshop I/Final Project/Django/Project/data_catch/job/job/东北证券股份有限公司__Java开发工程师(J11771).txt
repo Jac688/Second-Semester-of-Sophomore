@@ -1,0 +1,1 @@
+{'company_name': '东北证券股份有限公司', 'job_name': 'Java开发工程师(J11771)', 'geography': '上海', 'bonus': ['五险一金', '专业培训', '年终奖金', '定期体检'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128788869.html?rc=03'}

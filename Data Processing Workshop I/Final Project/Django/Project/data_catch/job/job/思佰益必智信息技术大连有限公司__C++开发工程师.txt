@@ -1,0 +1,1 @@
+{'company_name': '思佰益必智信息技术大连有限公司', 'job_name': 'C++开发工程师', 'geography': '大连', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dalian/126188864.html?rc=03'}

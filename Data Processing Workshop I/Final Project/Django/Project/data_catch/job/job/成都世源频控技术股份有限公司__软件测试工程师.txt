@@ -1,0 +1,1 @@
+{'company_name': '成都世源频控技术股份有限公司', 'job_name': '软件测试工程师', 'geography': '成都-武侯区', 'bonus': ['周末双休', '带薪年假', '全勤奖', '节日福利'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/121919762.html?rc=03'}

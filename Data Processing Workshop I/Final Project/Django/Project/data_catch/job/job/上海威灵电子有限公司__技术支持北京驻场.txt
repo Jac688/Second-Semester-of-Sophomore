@@ -1,0 +1,1 @@
+{'company_name': '上海威灵电子有限公司', 'job_name': '技术支持北京驻场', 'geography': '北京', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '弹性工作'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/119458754.html?rc=03'}

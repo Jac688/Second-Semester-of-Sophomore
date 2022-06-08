@@ -1,0 +1,1 @@
+{'company_name': '天弘东莞科技有限公司', 'job_name': '资深软件工程师Sonic', 'geography': '异地招聘', 'bonus': ['五险一金', '出国机会', '餐饮补贴', '年终奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/130722637.html?rc=03'}

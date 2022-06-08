@@ -1,0 +1,1 @@
+{'company_name': '保定市滕吉智邦软件开发有限公司', 'job_name': 'PHP开发网站建设前段后端', 'geography': '保定', 'bonus': ['弹性工作', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/baoding/130312040.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天地华宇集团', 'job_name': 'Java高级开发工程师-L', 'geography': '上海-青浦区', 'bonus': ['带薪年假', '绩效奖金', '节日福利', '提供食宿'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/102745398.html?rc=03'}

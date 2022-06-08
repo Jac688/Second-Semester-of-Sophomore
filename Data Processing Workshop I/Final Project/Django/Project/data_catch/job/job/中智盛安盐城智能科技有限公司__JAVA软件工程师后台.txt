@@ -1,0 +1,1 @@
+{'company_name': '中智盛安盐城智能科技有限公司', 'job_name': 'JAVA软件工程师后台', 'geography': '深圳-龙岗区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131531419.html?rc=03'}

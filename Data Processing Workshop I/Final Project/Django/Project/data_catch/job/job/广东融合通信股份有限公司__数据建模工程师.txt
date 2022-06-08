@@ -1,0 +1,1 @@
+{'company_name': '广东融合通信股份有限公司', 'job_name': '数据建模工程师', 'geography': '海口-美兰区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/haikou/128492364.html?rc=03'}

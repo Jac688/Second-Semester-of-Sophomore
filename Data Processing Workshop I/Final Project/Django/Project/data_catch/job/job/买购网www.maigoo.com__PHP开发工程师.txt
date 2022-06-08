@@ -1,0 +1,1 @@
+{'company_name': '买购网www.maigoo.com', 'job_name': 'PHP开发工程师', 'geography': '深圳-龙岗区', 'bonus': ['不加班', '年底双薪', '公费旅游', '餐补房补'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132126894.html?rc=03'}

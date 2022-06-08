@@ -1,0 +1,1 @@
+{'company_name': '惠州市宝高网络科技有限公司', 'job_name': '后台开发工程师', 'geography': '异地招聘', 'bonus': ['绩效奖金', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129240742.html?rc=03'}

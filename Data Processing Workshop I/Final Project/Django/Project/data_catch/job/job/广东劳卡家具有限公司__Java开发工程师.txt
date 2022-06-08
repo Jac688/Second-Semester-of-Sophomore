@@ -1,0 +1,1 @@
+{'company_name': '广东劳卡家具有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-花都区', 'bonus': ['免费住宿', '餐饮补贴', '免费班车', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131686768.html?rc=03'}

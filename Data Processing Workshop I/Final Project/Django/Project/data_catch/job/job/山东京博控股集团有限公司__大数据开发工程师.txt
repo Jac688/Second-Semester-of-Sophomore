@@ -1,0 +1,1 @@
+{'company_name': '山东京博控股集团有限公司', 'job_name': '大数据开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131148008.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州乐牛软件科技有限公司', 'job_name': 'PHP开发工程师2021校招', 'geography': '广州-海珠区', 'bonus': ['包三餐', '节日福利', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125021667.html?rc=03'}

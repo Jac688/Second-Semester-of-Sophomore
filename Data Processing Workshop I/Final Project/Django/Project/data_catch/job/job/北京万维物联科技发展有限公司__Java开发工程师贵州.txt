@@ -1,0 +1,1 @@
+{'company_name': '北京万维物联科技发展有限公司', 'job_name': 'Java开发工程师贵州', 'geography': '贵阳-观山湖区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '周末双休'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guiyang/132056005.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '华夏航空股份有限公司', 'job_name': '课程研发工程师初级(J10297)', 'geography': '重庆', 'bonus': ['餐饮补贴', '做五休二', '免费班车', '五险一金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131685260.html?rc=03'}

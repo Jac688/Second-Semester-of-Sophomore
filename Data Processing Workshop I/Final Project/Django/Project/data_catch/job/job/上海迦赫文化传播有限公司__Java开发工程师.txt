@@ -1,0 +1,1 @@
+{'company_name': '上海迦赫文化传播有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-静安区', 'bonus': ['带薪年假', '通讯补贴', '年终奖金', '做五休二'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131369556.html?rc=03'}

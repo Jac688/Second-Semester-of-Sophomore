@@ -1,0 +1,1 @@
+{'company_name': '广东金朋科技有限公司', 'job_name': 'Java架构师', 'geography': '广州-番禺区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '绩效奖金'], 'salary': 2.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130743614.html?rc=03'}

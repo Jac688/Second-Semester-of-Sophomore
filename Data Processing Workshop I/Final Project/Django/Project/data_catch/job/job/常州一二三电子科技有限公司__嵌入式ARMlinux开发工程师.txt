@@ -1,0 +1,1 @@
+{'company_name': '常州一二三电子科技有限公司', 'job_name': '嵌入式ARMlinux开发工程师', 'geography': '常州-溧阳市', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/126814058.html?rc=03'}

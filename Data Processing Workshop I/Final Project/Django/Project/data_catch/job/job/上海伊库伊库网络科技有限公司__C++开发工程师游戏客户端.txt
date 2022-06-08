@@ -1,0 +1,1 @@
+{'company_name': '上海伊库伊库网络科技有限公司', 'job_name': 'C++开发工程师游戏客户端', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '弹性工作', '餐饮补贴', '年终奖金'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122176037.html?rc=03'}

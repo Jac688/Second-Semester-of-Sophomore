@@ -1,0 +1,1 @@
+{'company_name': '上海市宣传系统人才交流中心', 'job_name': 'java后端工程师 上海天下在网春季线上招聘会', 'geography': '上海', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131339122.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海美橙科技信息发展有限公司', 'job_name': 'PHP软件工程师', 'geography': '上海-黄浦区', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130315474.html?rc=03'}

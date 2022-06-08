@@ -1,0 +1,1 @@
+{'company_name': '广东埃文低碳科技股份有限公司', 'job_name': '高级软件架构师', 'geography': '广州-番禺区', 'bonus': ['定期体检', '五险一金', '员工旅游', '餐饮补贴'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127972326.html?rc=03'}

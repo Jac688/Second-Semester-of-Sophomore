@@ -1,0 +1,1 @@
+{'company_name': '广州市三隆包装有限公司', 'job_name': '高薪助理储备干部', 'geography': '昆山', 'bonus': ['周末双休', '包吃', '专业培训', '高温补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/130655624.html?rc=03'}

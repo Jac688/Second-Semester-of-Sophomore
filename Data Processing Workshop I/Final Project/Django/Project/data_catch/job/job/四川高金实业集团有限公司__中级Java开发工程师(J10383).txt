@@ -1,0 +1,1 @@
+{'company_name': '四川高金实业集团有限公司', 'job_name': '中级Java开发工程师(J10383)', 'geography': '成都-高新区', 'bonus': ['带薪年假', '专业培训', '晋升空间大', '入职五险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128705057.html?rc=03'}

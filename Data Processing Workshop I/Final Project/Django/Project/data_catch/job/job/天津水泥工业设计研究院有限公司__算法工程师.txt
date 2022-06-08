@@ -1,0 +1,1 @@
+{'company_name': '天津水泥工业设计研究院有限公司', 'job_name': '算法工程师', 'geography': '天津-北辰区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130817912.html?rc=03'}

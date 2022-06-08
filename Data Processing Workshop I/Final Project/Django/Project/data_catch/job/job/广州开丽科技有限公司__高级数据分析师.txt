@@ -1,0 +1,1 @@
+{'company_name': '广州开丽科技有限公司', 'job_name': '高级数据分析师', 'geography': '广州-白云区', 'bonus': ['通讯补贴', '定期体检', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131326347.html?rc=03'}

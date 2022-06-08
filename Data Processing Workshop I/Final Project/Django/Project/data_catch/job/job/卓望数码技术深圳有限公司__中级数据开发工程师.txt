@@ -1,0 +1,1 @@
+{'company_name': '卓望数码技术深圳有限公司', 'job_name': '中级数据开发工程师', 'geography': '深圳-南山区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131327878.html?rc=03'}

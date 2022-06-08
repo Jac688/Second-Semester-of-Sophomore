@@ -1,0 +1,1 @@
+{'company_name': '上海宝资软件有限公司', 'job_name': '开发C++C#', 'geography': '合肥-庐阳区', 'bonus': ['餐饮补贴', '五险一金', '节日福利', '出差补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hefei/131858237.html?rc=03'}

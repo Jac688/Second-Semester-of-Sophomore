@@ -1,0 +1,1 @@
+{'company_name': '广东中科企航企业管理科技有限公司', 'job_name': '前端开发工程师', 'geography': '东莞-松山湖区', 'bonus': ['通讯补贴', '员工旅游', '交通便利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130643804.html?rc=03'}

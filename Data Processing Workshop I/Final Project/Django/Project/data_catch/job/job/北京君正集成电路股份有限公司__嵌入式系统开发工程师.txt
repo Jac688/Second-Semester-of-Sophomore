@@ -1,0 +1,1 @@
+{'company_name': '北京君正集成电路股份有限公司', 'job_name': '嵌入式系统开发工程师', 'geography': '深圳-坪山区', 'bonus': ['五险一金', '定期体检', '员工旅游', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130715149.html?rc=03'}

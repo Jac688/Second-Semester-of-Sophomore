@@ -1,0 +1,1 @@
+{'company_name': '墨点狗智能科技东莞有限公司', 'job_name': '服务器运维工程师', 'geography': '东莞-南城区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/110349085.html?rc=03'}

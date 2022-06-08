@@ -1,0 +1,1 @@
+{'company_name': '上海咕么信息科技有限公司', 'job_name': 'Python 开发工程师-数据汇聚、爬虫方向', 'geography': '上海', 'bonus': ['周末双休', '全勤奖', '节日福利', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130896530.html?rc=03'}

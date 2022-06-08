@@ -1,0 +1,1 @@
+{'company_name': '广东良策房屋科技有限公司', 'job_name': '数据分析师BI分析师', 'geography': '广州-天河区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128345419.html?rc=03'}

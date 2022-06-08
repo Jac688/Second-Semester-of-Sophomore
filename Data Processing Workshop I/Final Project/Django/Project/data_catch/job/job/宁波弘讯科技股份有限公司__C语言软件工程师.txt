@@ -1,0 +1,1 @@
+{'company_name': '宁波弘讯科技股份有限公司', 'job_name': 'C语言软件工程师', 'geography': '宁波-北仑区', 'bonus': ['周末双休', '带薪年假', '五险一金', '包吃'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127003566.html?rc=03'}

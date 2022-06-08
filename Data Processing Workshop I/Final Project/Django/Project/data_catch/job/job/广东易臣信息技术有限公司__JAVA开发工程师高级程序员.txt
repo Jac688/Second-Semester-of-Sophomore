@@ -1,0 +1,1 @@
+{'company_name': '广东易臣信息技术有限公司', 'job_name': 'JAVA开发工程师高级程序员', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/80791734.html?rc=03'}

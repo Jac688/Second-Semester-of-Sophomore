@@ -1,0 +1,1 @@
+{'company_name': '广州弘信信息科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '广州-番禺区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126885520.html?rc=03'}

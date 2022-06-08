@@ -1,0 +1,1 @@
+{'company_name': '广东天成伟业电子科技有限公司', 'job_name': 'Java开发工程师', 'geography': '惠州', 'bonus': ['年终奖金', '带薪年假', '团队奖励', '工龄奖'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/132057174.html?rc=03'}

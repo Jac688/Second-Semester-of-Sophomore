@@ -1,0 +1,1 @@
+{'company_name': '四川效率源信息安全技术股份有限公司', 'job_name': '投资专员经理', 'geography': '成都-高新区', 'bonus': ['五险一金', '节日福利', '定期体检', '周末双休'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129967540.html?rc=03'}

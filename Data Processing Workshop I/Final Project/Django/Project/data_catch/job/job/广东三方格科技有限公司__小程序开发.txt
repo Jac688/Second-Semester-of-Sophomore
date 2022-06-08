@@ -1,0 +1,1 @@
+{'company_name': '广东三方格科技有限公司', 'job_name': '小程序开发', 'geography': '广州-番禺区', 'bonus': ['专业培训', '五险一金', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132225601.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海致宇信息技术有限公司', 'job_name': 'Java高级开发工程师', 'geography': '天津-河东区', 'bonus': ['员工旅游', '定期体检', '弹性工作', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129564874.html?rc=03'}

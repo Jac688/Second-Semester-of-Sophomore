@@ -1,0 +1,1 @@
+{'company_name': '广州河东科技有限公司', 'job_name': '嵌入式软件开发流媒体方向', 'geography': '广州-番禺区', 'bonus': ['免费班车', '年终奖金', '绩效奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127455309.html?rc=03'}

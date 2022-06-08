@@ -1,0 +1,1 @@
+{'company_name': '成都京成北智能科技有限责任公司', 'job_name': 'Java初级开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴', '弹性工作'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126278816.html?rc=03'}

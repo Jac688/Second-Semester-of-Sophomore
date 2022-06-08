@@ -1,0 +1,1 @@
+{'company_name': '上海勤达科技有限公司', 'job_name': 'Python软件测试工程师', 'geography': '异地招聘', 'bonus': ['周末双休', '弹性工作', '带薪年假', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/jiangsusheng/131181843.html?rc=03'}

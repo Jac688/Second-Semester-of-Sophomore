@@ -1,0 +1,1 @@
+{'company_name': '博世中国投资有限公司', 'job_name': 'Artificial Intelligence Research Engineer人工智能研究工程师_CI', 'geography': '上海', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128204252.html?rc=03'}

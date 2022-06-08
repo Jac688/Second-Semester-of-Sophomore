@@ -1,0 +1,1 @@
+{'company_name': '宽岳医疗', 'job_name': 'C++软件开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130833085.html?rc=03'}

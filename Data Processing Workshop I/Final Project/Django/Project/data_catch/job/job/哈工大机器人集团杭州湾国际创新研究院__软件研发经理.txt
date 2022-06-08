@@ -1,0 +1,1 @@
+{'company_name': '哈工大机器人集团杭州湾国际创新研究院', 'job_name': '软件研发经理', 'geography': '绍兴-上虞区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shaoxing/130852924.html?rc=03'}

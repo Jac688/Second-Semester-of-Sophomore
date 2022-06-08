@@ -1,0 +1,1 @@
+{'company_name': '乐山-菲尼克斯半导体有限公司', 'job_name': '测试工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/luzhou/125425948.html?rc=03'}

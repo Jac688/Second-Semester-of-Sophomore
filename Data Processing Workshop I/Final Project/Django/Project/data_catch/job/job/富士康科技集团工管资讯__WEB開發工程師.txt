@@ -1,0 +1,1 @@
+{'company_name': '富士康科技集团工管资讯', 'job_name': 'WEB開發工程師', 'geography': '深圳-龙华区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/123685754.html?rc=03'}

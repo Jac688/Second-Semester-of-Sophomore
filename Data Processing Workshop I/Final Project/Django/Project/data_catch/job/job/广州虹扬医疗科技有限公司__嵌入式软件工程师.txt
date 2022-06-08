@@ -1,0 +1,1 @@
+{'company_name': '广州虹扬医疗科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '广州-增城区', 'bonus': ['员工旅游', '绩效奖金', '年终奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123862029.html?rc=03'}

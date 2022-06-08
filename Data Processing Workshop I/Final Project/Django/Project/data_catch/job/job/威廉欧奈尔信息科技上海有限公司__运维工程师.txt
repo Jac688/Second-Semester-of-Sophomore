@@ -1,0 +1,1 @@
+{'company_name': '威廉欧奈尔信息科技上海有限公司', 'job_name': '运维工程师', 'geography': '上海-浦东新区', 'bonus': ['周末双休', '弹性工作', '五险一金', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122492593.html?rc=03'}

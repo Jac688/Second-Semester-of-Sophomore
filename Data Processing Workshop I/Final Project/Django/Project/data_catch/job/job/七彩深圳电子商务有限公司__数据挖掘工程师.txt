@@ -1,0 +1,1 @@
+{'company_name': '七彩深圳电子商务有限公司', 'job_name': '数据挖掘工程师', 'geography': '深圳-南山区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130296954.html?rc=03'}

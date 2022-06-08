@@ -1,0 +1,1 @@
+{'company_name': '上海司顺电子商务有限公司', 'job_name': 'BI数据分析师', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '员工旅游', '专业培训', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128747510.html?rc=03'}

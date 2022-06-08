@@ -1,0 +1,1 @@
+{'company_name': '思创医惠科技股份有限公司', 'job_name': 'Java研发工程师CXJS', 'geography': '杭州-滨江区', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132299119.html?rc=03'}

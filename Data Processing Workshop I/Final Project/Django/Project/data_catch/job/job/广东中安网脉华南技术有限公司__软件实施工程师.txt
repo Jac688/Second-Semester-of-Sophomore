@@ -1,0 +1,1 @@
+{'company_name': '广东中安网脉华南技术有限公司', 'job_name': '软件实施工程师', 'geography': '南宁-青秀区', 'bonus': [], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/nanning/130304272.html?rc=03'}

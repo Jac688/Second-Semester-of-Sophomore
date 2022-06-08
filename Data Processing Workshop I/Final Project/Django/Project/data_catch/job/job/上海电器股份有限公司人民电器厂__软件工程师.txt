@@ -1,0 +1,1 @@
+{'company_name': '上海电器股份有限公司人民电器厂', 'job_name': '软件工程师', 'geography': '上海-静安区', 'bonus': ['做五休二', '带薪年假', '绩效奖金', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129123246.html?rc=03'}

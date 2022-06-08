@@ -1,0 +1,1 @@
+{'company_name': '中软国际科技服务有限公司', 'job_name': 'Java开发工程师初、中级', 'geography': '广州-天河区', 'bonus': ['五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132166315.html?rc=03'}

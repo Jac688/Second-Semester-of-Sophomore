@@ -1,0 +1,1 @@
+{'company_name': '太平人寿保险有限公司成都市青羊支公司', 'job_name': '太平人寿四川分公司-个人业务部业务分析岗', 'geography': '成都-高新区', 'bonus': ['周末双休', '带薪年假', '五险一金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127809506.html?rc=03'}

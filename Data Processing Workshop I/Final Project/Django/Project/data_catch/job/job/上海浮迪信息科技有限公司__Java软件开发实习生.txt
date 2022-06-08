@@ -1,0 +1,1 @@
+{'company_name': '上海浮迪信息科技有限公司', 'job_name': 'Java软件开发实习生', 'geography': '苏州-吴中区', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128949310.html?rc=03'}

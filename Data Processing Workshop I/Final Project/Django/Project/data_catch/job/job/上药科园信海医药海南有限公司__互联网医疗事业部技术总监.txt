@@ -1,0 +1,1 @@
+{'company_name': '上药科园信海医药海南有限公司', 'job_name': '互联网医疗事业部技术总监', 'geography': '海口', 'bonus': ['周末双休', '五险一金', '加班补贴', '节日福利'], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/haikou/115343158.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中科博爱北京心理医学研究院', 'job_name': 'Java后台开发工程师', 'geography': '北京', 'bonus': ['交通补贴', '带薪年假', '专业培训', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128780231.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '兴业数字金融服务上海股份有限公司', 'job_name': 'JAVA开发工程师杭州', 'geography': '杭州-拱墅区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131715602.html?rc=03'}

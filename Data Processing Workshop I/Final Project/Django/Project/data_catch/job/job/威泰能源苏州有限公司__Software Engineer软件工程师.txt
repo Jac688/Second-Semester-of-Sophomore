@@ -1,0 +1,1 @@
+{'company_name': '威泰能源苏州有限公司', 'job_name': 'Software Engineer软件工程师', 'geography': '苏州', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/129890120.html?rc=03'}

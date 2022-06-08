@@ -1,0 +1,1 @@
+{'company_name': '广州众教文化传播有限责任公司', 'job_name': '研究助理', 'geography': '广州-越秀区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130821340.html?rc=03'}

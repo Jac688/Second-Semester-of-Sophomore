@@ -1,0 +1,1 @@
+{'company_name': '天津市甄智协尔企业管理咨询有限公司', 'job_name': '日企系统开发工程师', 'geography': '天津', 'bonus': ['五险一金', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128363404.html?rc=03'}

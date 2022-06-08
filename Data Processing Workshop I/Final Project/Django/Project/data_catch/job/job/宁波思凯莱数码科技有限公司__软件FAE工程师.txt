@@ -1,0 +1,1 @@
+{'company_name': '宁波思凯莱数码科技有限公司', 'job_name': '软件FAE工程师', 'geography': '宁波-江北区', 'bonus': ['餐饮补贴', '专业培训', '绩效奖金', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/132032213.html?rc=03'}

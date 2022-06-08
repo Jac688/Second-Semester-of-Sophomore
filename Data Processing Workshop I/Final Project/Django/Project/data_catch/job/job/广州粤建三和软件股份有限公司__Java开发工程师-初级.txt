@@ -1,0 +1,1 @@
+{'company_name': '广州粤建三和软件股份有限公司', 'job_name': 'Java开发工程师-初级', 'geography': '北京-通州区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129600605.html?rc=03'}

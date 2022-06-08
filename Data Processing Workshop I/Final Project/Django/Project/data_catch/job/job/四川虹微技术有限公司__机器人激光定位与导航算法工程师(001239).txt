@@ -1,0 +1,1 @@
+{'company_name': '四川虹微技术有限公司', 'job_name': '机器人激光定位与导航算法工程师(001239)', 'geography': '成都', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125280010.html?rc=03'}

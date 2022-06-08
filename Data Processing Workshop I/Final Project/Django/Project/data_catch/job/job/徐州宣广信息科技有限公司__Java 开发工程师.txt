@@ -1,0 +1,1 @@
+{'company_name': '徐州宣广信息科技有限公司', 'job_name': 'Java 开发工程师', 'geography': '徐州', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/84026606.html?rc=03'}

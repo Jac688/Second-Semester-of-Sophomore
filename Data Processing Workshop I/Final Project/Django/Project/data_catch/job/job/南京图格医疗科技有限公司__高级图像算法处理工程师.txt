@@ -1,0 +1,1 @@
+{'company_name': '南京图格医疗科技有限公司', 'job_name': '高级图像算法处理工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '免费班车', '定期体检', '餐饮补贴'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/112831667.html?rc=03'}

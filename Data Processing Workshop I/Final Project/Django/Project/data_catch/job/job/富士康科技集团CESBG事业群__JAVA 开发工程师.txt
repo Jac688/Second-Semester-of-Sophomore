@@ -1,0 +1,1 @@
+{'company_name': '富士康科技集团CESBG事业群', 'job_name': 'JAVA 开发工程师', 'geography': '天津-东丽区', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/81475788.html?rc=03'}

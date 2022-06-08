@@ -1,0 +1,1 @@
+{'company_name': '南京中汇电气科技有限公司', 'job_name': '电气软件研发工程师', 'geography': '南京', 'bonus': ['五险一金', '年终奖金', '定期体检', '弹性工作'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125986467.html?rc=03'}

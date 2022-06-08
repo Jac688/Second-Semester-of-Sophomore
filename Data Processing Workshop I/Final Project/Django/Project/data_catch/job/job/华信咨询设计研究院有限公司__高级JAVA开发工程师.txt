@@ -1,0 +1,1 @@
+{'company_name': '华信咨询设计研究院有限公司', 'job_name': '高级JAVA开发工程师', 'geography': '杭州', 'bonus': ['五险一金', '加班补贴', '节日福利', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/118414994.html?rc=03'}

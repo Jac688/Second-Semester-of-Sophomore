@@ -1,0 +1,1 @@
+{'company_name': '万科集团物业事业本部', 'job_name': 'Java开发工程师(中级', 'geography': '深圳-福田区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131286929.html?rc=03'}

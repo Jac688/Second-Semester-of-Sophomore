@@ -1,0 +1,1 @@
+{'company_name': '东华医为科技有限公司', 'job_name': '软件开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '定期体检', '年终奖金'], 'salary': 0.16666666666666666, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/121897076.html?rc=03'}

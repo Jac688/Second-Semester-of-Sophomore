@@ -1,0 +1,1 @@
+{'company_name': '广州贝勤网络科技有限公司', 'job_name': 'PHP工程师', 'geography': '广州', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130571518.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '华强方特文化科技集团股份有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '深圳-南山区', 'bonus': [], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130896305.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海启见科技信息技术有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海-青浦区', 'bonus': ['做五休二', '周末双休', '节日福利', '餐饮补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132239731.html?rc=03'}

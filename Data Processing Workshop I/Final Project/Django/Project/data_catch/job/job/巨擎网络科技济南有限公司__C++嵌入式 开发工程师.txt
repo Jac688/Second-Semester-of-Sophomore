@@ -1,0 +1,1 @@
+{'company_name': '巨擎网络科技济南有限公司', 'job_name': 'C++嵌入式 开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '定期体检', '年终奖金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/128972449.html?rc=03'}

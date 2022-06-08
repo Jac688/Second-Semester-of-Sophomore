@@ -1,0 +1,1 @@
+{'company_name': '恩欧凯无锡防振技术有限公司', 'job_name': '智能化工程师', 'geography': '无锡-锡山区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '员工旅游'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/126578225.html?rc=03'}

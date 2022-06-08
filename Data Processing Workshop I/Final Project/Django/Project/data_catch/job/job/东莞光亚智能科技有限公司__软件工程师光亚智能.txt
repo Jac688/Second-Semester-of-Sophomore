@@ -1,0 +1,1 @@
+{'company_name': '东莞光亚智能科技有限公司', 'job_name': '软件工程师光亚智能', 'geography': '东莞', 'bonus': ['包食宿', '社保', '年终奖金', '带薪年假'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/112256356.html?rc=03'}

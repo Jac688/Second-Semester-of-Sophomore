@@ -1,0 +1,1 @@
+{'company_name': '哥弟商元贸易有限公司', 'job_name': '后端负责人JAVA方向', 'geography': '武汉-武昌区', 'bonus': ['员工旅游', '绩效奖金', '弹性工作', '五险'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/131634242.html?rc=03'}

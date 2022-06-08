@@ -1,0 +1,1 @@
+{'company_name': '南京众仓科技有限公司', 'job_name': '高级java开发工程师', 'geography': '南京-栖霞区', 'bonus': ['周末双休', '五险一金', '餐饮补贴', '交通补贴'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/111666615.html?rc=03'}

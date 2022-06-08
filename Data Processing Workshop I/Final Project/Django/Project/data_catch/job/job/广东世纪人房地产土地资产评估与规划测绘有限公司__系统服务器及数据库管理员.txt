@@ -1,0 +1,1 @@
+{'company_name': '广东世纪人房地产土地资产评估与规划测绘有限公司', 'job_name': '系统服务器及数据库管理员', 'geography': '广州-天河区', 'bonus': ['交通补贴', '餐饮补贴', '五险一金', '周末双休'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/82610078.html?rc=03'}

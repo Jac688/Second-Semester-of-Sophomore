@@ -1,0 +1,1 @@
+{'company_name': '中国平安财产保险股份有限公司深圳分公司', 'job_name': '0332RA-人才发展岗', 'geography': '深圳-福田区', 'bonus': ['五险一金', '年终分红', '绩效奖金', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128189049.html?rc=03'}

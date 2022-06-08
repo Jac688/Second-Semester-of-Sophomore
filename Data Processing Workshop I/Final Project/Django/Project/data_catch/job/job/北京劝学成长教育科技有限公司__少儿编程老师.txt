@@ -1,0 +1,1 @@
+{'company_name': '北京劝学成长教育科技有限公司', 'job_name': '少儿编程老师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '弹性工作', '交通补贴', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131787347.html?rc=03'}

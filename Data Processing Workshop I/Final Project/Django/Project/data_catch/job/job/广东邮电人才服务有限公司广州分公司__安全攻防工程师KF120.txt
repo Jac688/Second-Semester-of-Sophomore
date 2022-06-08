@@ -1,0 +1,1 @@
+{'company_name': '广东邮电人才服务有限公司广州分公司', 'job_name': '安全攻防工程师KF120', 'geography': '北京-海淀区', 'bonus': ['五险一金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131316563.html?rc=03'}

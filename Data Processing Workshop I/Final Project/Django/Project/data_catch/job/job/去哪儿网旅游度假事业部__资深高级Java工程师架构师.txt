@@ -1,0 +1,1 @@
+{'company_name': '去哪儿网旅游度假事业部', 'job_name': '资深高级Java工程师架构师', 'geography': '北京-朝阳区', 'bonus': ['绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130791935.html?rc=03'}

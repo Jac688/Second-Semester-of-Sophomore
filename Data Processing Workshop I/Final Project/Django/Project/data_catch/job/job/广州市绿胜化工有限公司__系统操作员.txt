@@ -1,0 +1,1 @@
+{'company_name': '广州市绿胜化工有限公司', 'job_name': '系统操作员', 'geography': '赣州', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/ganzhou/126060191.html?rc=03'}

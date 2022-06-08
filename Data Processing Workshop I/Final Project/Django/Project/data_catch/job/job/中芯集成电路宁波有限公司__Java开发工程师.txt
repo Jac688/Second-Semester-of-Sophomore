@@ -1,0 +1,1 @@
+{'company_name': '中芯集成电路宁波有限公司', 'job_name': 'Java开发工程师', 'geography': '宁波-北仑区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/113778353.html?rc=03'}

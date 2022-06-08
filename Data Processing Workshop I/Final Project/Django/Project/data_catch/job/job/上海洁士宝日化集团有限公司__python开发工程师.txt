@@ -1,0 +1,1 @@
+{'company_name': '上海洁士宝日化集团有限公司', 'job_name': 'python开发工程师', 'geography': '昆山', 'bonus': ['五险一金', '绩效奖金', '全勤奖', '弹性工作'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/126593856.html?rc=03'}

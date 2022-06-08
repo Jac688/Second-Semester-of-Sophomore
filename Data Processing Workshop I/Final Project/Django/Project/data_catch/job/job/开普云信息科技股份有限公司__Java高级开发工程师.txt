@@ -1,0 +1,1 @@
+{'company_name': '开普云信息科技股份有限公司', 'job_name': 'Java高级开发工程师', 'geography': '苏州-姑苏区', 'bonus': ['五险一金', '年终奖金', '周末双休', '生日红包'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/120240465.html?rc=03'}

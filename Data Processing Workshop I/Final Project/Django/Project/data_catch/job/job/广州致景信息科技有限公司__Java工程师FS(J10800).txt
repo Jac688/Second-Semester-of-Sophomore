@@ -1,0 +1,1 @@
+{'company_name': '广州致景信息科技有限公司', 'job_name': 'Java工程师FS(J10800)', 'geography': '广州-海珠区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130977054.html?rc=03'}

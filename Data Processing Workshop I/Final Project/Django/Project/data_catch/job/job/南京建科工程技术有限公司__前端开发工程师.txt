@@ -1,0 +1,1 @@
+{'company_name': '南京建科工程技术有限公司', 'job_name': '前端开发工程师', 'geography': '南京-栖霞区', 'bonus': ['五险一金', '餐饮补贴', '周末双休'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/124067459.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京诺唯赞生物科技股份有限公司', 'job_name': '高级数据库管理员 (MJ000890)', 'geography': '南京-栖霞区', 'bonus': ['五险一金', '弹性工作', '定期体检', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130463310.html?rc=03'}

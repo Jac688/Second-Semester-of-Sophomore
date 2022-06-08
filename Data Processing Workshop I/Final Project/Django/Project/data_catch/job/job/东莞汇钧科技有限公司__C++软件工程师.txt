@@ -1,0 +1,1 @@
+{'company_name': '东莞汇钧科技有限公司', 'job_name': 'C++软件工程师', 'geography': '东莞-厚街镇', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/123627092.html?rc=03'}

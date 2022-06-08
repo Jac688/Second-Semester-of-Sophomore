@@ -1,0 +1,1 @@
+{'company_name': '上海经意实业有限公司', 'job_name': 'Java技术组长', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129209962.html?rc=03'}

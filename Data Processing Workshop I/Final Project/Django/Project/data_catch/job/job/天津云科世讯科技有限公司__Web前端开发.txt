@@ -1,0 +1,1 @@
+{'company_name': '天津云科世讯科技有限公司', 'job_name': 'Web前端开发', 'geography': '天津-北辰区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/102341993.html?rc=03'}

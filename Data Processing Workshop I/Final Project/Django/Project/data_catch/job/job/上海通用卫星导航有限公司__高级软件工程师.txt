@@ -1,0 +1,1 @@
+{'company_name': '上海通用卫星导航有限公司', 'job_name': '高级软件工程师', 'geography': '上海-静安区', 'bonus': ['五险一金', '绩效奖金', '定期体检', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/54119972.html?rc=03'}

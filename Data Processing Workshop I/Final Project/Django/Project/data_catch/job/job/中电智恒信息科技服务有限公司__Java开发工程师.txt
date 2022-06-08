@@ -1,0 +1,1 @@
+{'company_name': '中电智恒信息科技服务有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-鼓楼区', 'bonus': ['五险一金', '全勤奖', '节日福利', '高温补贴'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129596904.html?rc=03'}

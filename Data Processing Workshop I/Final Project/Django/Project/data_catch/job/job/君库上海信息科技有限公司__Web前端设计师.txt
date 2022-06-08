@@ -1,0 +1,1 @@
+{'company_name': '君库上海信息科技有限公司', 'job_name': 'Web前端设计师', 'geography': '上海', 'bonus': ['五险一金', '年终奖金', '弹性工作'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125269552.html?rc=03'}

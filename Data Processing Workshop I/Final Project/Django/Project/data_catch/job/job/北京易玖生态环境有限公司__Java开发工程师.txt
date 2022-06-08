@@ -1,0 +1,1 @@
+{'company_name': '北京易玖生态环境有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-荔湾区', 'bonus': ['五险一金', '员工旅游', '定期体检', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132319871.html?rc=03'}

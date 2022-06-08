@@ -1,0 +1,1 @@
+{'company_name': '中关村人才协会', 'job_name': 'Java开发工程师', 'geography': '北京-海淀区', 'bonus': ['交通补贴', '餐饮补贴', '五险一金', '免费班车'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132076596.html?rc=03'}

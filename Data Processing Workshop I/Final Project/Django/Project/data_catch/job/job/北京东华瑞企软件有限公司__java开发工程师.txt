@@ -1,0 +1,1 @@
+{'company_name': '北京东华瑞企软件有限公司', 'job_name': 'java开发工程师', 'geography': '北京', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127771969.html?rc=03'}

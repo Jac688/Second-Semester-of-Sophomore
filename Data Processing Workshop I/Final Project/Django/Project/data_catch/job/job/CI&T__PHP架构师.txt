@@ -1,0 +1,1 @@
+{'company_name': 'CI&T', 'job_name': 'PHP架构师', 'geography': '宁波', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/103833080.html?rc=03'}

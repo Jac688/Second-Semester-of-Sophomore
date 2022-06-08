@@ -1,0 +1,1 @@
+{'company_name': '奇码杭州教育科技有限公司', 'job_name': 'Scratch编程讲师Python编程讲师', 'geography': '杭州-拱墅区', 'bonus': ['节日福利', '交通补贴', '通讯补贴', '高温补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130148937.html?rc=03'}

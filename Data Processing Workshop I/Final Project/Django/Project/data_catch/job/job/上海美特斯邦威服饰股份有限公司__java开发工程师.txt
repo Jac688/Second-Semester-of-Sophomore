@@ -1,0 +1,1 @@
+{'company_name': '上海美特斯邦威服饰股份有限公司', 'job_name': 'java开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125845065.html?rc=03'}

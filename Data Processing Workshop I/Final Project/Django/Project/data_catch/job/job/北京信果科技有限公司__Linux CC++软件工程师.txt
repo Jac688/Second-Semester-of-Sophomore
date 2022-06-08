@@ -1,0 +1,1 @@
+{'company_name': '北京信果科技有限公司', 'job_name': 'Linux CC++软件工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121613067.html?rc=03'}

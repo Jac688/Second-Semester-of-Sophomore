@@ -1,0 +1,1 @@
+{'company_name': '上海才历网络有限公司', 'job_name': 'Tech Recruiter', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/115563220.html?rc=03'}

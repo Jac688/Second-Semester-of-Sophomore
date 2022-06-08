@@ -1,0 +1,1 @@
+{'company_name': '广东建采网科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '珠海', 'bonus': ['社会保险', '周末双休', '年终奖金', '弹性工作'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/128901113.html?rc=03'}

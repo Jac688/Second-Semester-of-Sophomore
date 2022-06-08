@@ -1,0 +1,1 @@
+{'company_name': '广州市格利网络技术有限公司', 'job_name': '技术经理PHP开发经理', 'geography': '广州-荔湾区', 'bonus': ['节日福利', '餐饮补贴', '五险一金', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125150589.html?rc=03'}

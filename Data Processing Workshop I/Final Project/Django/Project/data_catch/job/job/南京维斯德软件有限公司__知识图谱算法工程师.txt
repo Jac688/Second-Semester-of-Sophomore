@@ -1,0 +1,1 @@
+{'company_name': '南京维斯德软件有限公司', 'job_name': '知识图谱算法工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/117812310.html?rc=03'}

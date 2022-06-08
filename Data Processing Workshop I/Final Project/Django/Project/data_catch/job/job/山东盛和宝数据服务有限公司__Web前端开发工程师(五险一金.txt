@@ -1,0 +1,1 @@
+{'company_name': '山东盛和宝数据服务有限公司', 'job_name': 'Web前端开发工程师(五险一金', 'geography': '济南-历下区', 'bonus': ['五险一金', '周末双休', '包住宿', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130291911.html?rc=03'}

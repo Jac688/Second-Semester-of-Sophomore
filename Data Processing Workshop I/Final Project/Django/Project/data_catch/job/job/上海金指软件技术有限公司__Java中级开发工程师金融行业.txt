@@ -1,0 +1,1 @@
+{'company_name': '上海金指软件技术有限公司', 'job_name': 'Java中级开发工程师金融行业', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/94240104.html?rc=03'}

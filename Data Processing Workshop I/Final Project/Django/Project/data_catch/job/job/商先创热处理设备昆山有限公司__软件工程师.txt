@@ -1,0 +1,1 @@
+{'company_name': '商先创热处理设备昆山有限公司', 'job_name': '软件工程师', 'geography': '昆山', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/125681672.html?rc=03'}

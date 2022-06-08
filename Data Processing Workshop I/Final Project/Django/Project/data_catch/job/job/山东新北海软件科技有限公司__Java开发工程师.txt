@@ -1,0 +1,1 @@
+{'company_name': '山东新北海软件科技有限公司', 'job_name': 'Java开发工程师', 'geography': '潍坊-高新技术开发区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/weifang/131370388.html?rc=03'}

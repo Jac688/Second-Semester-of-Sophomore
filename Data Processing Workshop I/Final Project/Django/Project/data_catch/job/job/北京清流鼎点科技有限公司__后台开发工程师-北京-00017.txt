@@ -1,0 +1,1 @@
+{'company_name': '北京清流鼎点科技有限公司', 'job_name': '后台开发工程师-北京-00017', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '年终奖金'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/beijing/90276552.html?rc=03'}

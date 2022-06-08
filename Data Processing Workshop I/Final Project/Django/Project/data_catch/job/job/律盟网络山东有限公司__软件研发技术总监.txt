@@ -1,0 +1,1 @@
+{'company_name': '律盟网络山东有限公司', 'job_name': '软件研发技术总监', 'geography': '济南-高新区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '员工旅游'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/129941147.html?rc=03'}

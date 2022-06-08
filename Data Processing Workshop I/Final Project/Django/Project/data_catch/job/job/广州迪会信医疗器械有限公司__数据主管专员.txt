@@ -1,0 +1,1 @@
+{'company_name': '广州迪会信医疗器械有限公司', 'job_name': '数据主管专员', 'geography': '广州-越秀区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130748029.html?rc=03'}

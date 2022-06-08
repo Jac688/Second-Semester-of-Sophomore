@@ -1,0 +1,1 @@
+{'company_name': '值耀', 'job_name': '大数据开发工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '弹性工作'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130399672.html?rc=03'}

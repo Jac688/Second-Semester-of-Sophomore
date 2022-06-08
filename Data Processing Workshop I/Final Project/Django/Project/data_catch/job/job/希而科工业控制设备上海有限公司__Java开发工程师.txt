@@ -1,0 +1,1 @@
+{'company_name': '希而科工业控制设备上海有限公司', 'job_name': 'Java开发工程师', 'geography': '上海', 'bonus': ['弹性工作', '五险一金', '定期体检', '公司环境好'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130773625.html?rc=03'}

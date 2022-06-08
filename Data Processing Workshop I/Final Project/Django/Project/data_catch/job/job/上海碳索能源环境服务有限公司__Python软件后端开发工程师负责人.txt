@@ -1,0 +1,1 @@
+{'company_name': '上海碳索能源环境服务有限公司', 'job_name': 'Python软件后端开发工程师负责人', 'geography': '上海-闵行区', 'bonus': ['五险一金', '员工旅游', '专业培训', '出国机会'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129183397.html?rc=03'}

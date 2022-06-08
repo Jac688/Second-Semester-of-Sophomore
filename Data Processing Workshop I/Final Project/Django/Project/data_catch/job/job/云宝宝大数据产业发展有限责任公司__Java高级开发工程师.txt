@@ -1,0 +1,1 @@
+{'company_name': '云宝宝大数据产业发展有限责任公司', 'job_name': 'Java高级开发工程师', 'geography': '南宁', 'bonus': ['年终奖金', '周末双休', '五险', '住房公积金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanning/131782237.html?rc=03'}

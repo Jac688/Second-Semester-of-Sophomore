@@ -1,0 +1,1 @@
+{'company_name': '慧择网', 'job_name': '系统管理岗 (MJ000772)', 'geography': '异地招聘', 'bonus': ['员工旅游', '专业培训', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131083584.html?rc=03'}

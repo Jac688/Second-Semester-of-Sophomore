@@ -1,0 +1,1 @@
+{'company_name': '广东高谷科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '异地招聘', 'bonus': ['五险', '住房补贴', '伙食补贴', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/121900309.html?rc=03'}

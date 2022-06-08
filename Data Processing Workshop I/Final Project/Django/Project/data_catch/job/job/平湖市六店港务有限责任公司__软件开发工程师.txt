@@ -1,0 +1,1 @@
+{'company_name': '平湖市六店港务有限责任公司', 'job_name': '软件开发工程师', 'geography': '嘉兴', 'bonus': ['定期体检', '专业培训', '包住宿', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/132353454.html?rc=03'}

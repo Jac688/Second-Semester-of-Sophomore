@@ -1,0 +1,1 @@
+{'company_name': '上海新炬网络信息技术股份有限公司', 'job_name': 'DB2', 'geography': '南京', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130997134.html?rc=03'}

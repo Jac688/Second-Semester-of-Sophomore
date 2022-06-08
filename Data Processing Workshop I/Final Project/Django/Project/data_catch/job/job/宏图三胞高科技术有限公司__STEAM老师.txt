@@ -1,0 +1,1 @@
+{'company_name': '宏图三胞高科技术有限公司', 'job_name': 'STEAM老师', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/119214117.html?rc=03'}

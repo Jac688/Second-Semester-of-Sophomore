@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后台开发工程师-幸福里', 'geography': '北京', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '五险一金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131242785.html?rc=03'}

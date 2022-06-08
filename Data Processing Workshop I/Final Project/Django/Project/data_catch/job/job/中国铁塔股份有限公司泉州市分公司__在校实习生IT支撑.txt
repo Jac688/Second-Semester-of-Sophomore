@@ -1,0 +1,1 @@
+{'company_name': '中国铁塔股份有限公司泉州市分公司', 'job_name': '在校实习生IT支撑', 'geography': '泉州', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/quanzhou/122281026.html?rc=03'}

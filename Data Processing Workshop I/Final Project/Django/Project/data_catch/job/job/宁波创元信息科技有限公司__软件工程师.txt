@@ -1,0 +1,1 @@
+{'company_name': '宁波创元信息科技有限公司', 'job_name': '软件工程师', 'geography': '宁波-北仑区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '住房补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/124416854.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京蓝色星际科技股份有限公司', 'job_name': 'linux服务器开发C++ 音视频', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130612905.html?rc=03'}

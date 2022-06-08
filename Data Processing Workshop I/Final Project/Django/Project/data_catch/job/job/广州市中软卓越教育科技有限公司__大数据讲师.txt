@@ -1,0 +1,1 @@
+{'company_name': '广州市中软卓越教育科技有限公司', 'job_name': '大数据讲师', 'geography': '广州-白云区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122878656.html?rc=03'}

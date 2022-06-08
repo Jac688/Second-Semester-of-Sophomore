@@ -1,0 +1,1 @@
+{'company_name': '广州市西荔电力技术发展有限公司', 'job_name': '渗透测试工程师', 'geography': '广州-天河区', 'bonus': ['周末双休', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128745315.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州市聚众环保科技有限公司', 'job_name': '销售工程师', 'geography': '广州', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/93270819.html?rc=03'}

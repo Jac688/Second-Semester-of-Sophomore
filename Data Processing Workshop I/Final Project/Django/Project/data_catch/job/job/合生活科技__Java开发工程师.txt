@@ -1,0 +1,1 @@
+{'company_name': '合生活科技', 'job_name': 'Java开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '通讯补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126265041.html?rc=03'}

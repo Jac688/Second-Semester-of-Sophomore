@@ -1,0 +1,1 @@
+{'company_name': '上海新炬网络信息技术股份有限公司', 'job_name': 'Java开发工程师浦电路', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '定期体检', '员工旅游', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130395993.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广西天海信息科技有限公司', 'job_name': '初级Java开发工程师', 'geography': '南宁', 'bonus': ['周末双休', '法定节假日', '奖金', '五险一金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanning/131376527.html?rc=03'}

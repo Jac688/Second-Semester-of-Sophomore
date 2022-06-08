@@ -1,0 +1,1 @@
+{'company_name': '厦门六次方信息技术有限公司', 'job_name': '游戏u3d开发工程师', 'geography': '厦门', 'bonus': ['入职五险一金', '餐饮补贴', '交通补贴', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/131042534.html?rc=03'}

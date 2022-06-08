@@ -1,0 +1,1 @@
+{'company_name': '征图新视江苏科技股份有限公司', 'job_name': '深度学习工程师', 'geography': '常州', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/132129216.html?rc=03'}

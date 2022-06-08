@@ -1,0 +1,1 @@
+{'company_name': '慧勒工程软件上海有限公司', 'job_name': '软件开发工程师21应届生', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '员工旅游'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/127871024.html?rc=03'}

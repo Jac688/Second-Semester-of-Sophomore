@@ -1,0 +1,1 @@
+{'company_name': '华夏城视网络电视股份有限公司', 'job_name': 'PHP开发实习', 'geography': '深圳-南山区', 'bonus': ['实习协议', '工作餐', '意外险', '电视台平台'], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124546936.html?rc=03'}

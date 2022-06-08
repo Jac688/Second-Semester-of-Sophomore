@@ -1,0 +1,1 @@
+{'company_name': '上海庆易自动化设备有限公司', 'job_name': '软件工程师', 'geography': '上海-奉贤区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124598168.html?rc=03'}

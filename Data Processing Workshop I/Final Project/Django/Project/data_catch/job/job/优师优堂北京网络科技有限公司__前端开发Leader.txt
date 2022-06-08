@@ -1,0 +1,1 @@
+{'company_name': '优师优堂北京网络科技有限公司', 'job_name': '前端开发Leader', 'geography': '北京-海淀区', 'bonus': ['绩效奖金', '员工旅游', '年终奖金', '五险一金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131281873.html?rc=03'}

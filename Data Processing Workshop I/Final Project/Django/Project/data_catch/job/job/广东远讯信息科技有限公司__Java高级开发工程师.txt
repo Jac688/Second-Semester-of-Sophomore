@@ -1,0 +1,1 @@
+{'company_name': '广东远讯信息科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '清远-清城区', 'bonus': ['五险', '带薪年假', '节日福利', '下午茶'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/qingyuan/131975078.html?rc=03'}

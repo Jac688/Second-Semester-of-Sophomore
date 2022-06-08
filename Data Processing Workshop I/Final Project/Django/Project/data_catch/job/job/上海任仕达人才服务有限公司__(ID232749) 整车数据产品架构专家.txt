@@ -1,0 +1,1 @@
+{'company_name': '上海任仕达人才服务有限公司', 'job_name': '(ID232749) 整车数据产品架构专家', 'geography': '北京', 'bonus': [], 'salary': 7.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132256242.html?rc=03'}

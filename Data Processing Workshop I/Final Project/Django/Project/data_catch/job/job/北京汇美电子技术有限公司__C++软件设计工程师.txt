@@ -1,0 +1,1 @@
+{'company_name': '北京汇美电子技术有限公司', 'job_name': 'C++软件设计工程师', 'geography': '北京', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/106277066.html?rc=03'}

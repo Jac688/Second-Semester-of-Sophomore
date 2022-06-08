@@ -1,0 +1,1 @@
+{'company_name': '南京榕树自动化系统有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '补充医疗保险'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131754220.html?rc=03'}

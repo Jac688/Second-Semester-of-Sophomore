@@ -1,0 +1,1 @@
+{'company_name': '上海昊嘉信息技术有限公司', 'job_name': 'C++服务端开发', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130105934.html?rc=03'}

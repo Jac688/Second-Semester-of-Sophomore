@@ -1,0 +1,1 @@
+{'company_name': '南京易联阳光信息技术股份有限公司', 'job_name': 'Java中级开发工程师', 'geography': '成都-锦江区', 'bonus': ['五险一金', '专业培训', '年终奖金', '周末双休'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/122537878.html?rc=03'}

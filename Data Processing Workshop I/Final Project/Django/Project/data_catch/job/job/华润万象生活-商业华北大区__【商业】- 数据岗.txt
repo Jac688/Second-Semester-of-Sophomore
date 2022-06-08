@@ -1,0 +1,1 @@
+{'company_name': '华润万象生活-商业华北大区', 'job_name': '【商业】- 数据岗', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124692691.html?rc=03'}

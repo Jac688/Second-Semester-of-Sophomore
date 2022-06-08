@@ -1,0 +1,1 @@
+{'company_name': '恒生电子股份有限公司', 'job_name': 'Java高级开发工程师-财富经纪银行财富管理部', 'geography': '南京-浦口区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129171165.html?rc=03'}

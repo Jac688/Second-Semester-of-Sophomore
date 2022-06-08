@@ -1,0 +1,1 @@
+{'company_name': '北京鼎汉技术集团股份有限公司', 'job_name': '上位机软件工程师', 'geography': '江门-新会区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jiangmen/132047462.html?rc=03'}

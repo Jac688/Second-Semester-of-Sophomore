@@ -1,0 +1,1 @@
+{'company_name': '广东拓思软件科学园有限公司', 'job_name': '高级测试工程师', 'geography': '广州-黄埔区', 'bonus': ['周末双休', '专业培训', '节日补贴', '补充医疗保险'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128863138.html?rc=03'}

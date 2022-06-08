@@ -1,0 +1,1 @@
+{'company_name': '广东立明堂数字文化科技发展有限公司广州分公司', 'job_name': 'Java高级开发工程师', 'geography': '广州-南沙区', 'bonus': [], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129778311.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南充美兴小额贷款有限责任公司', 'job_name': '数据分析师', 'geography': '成都-锦江区', 'bonus': ['周末双休', '带薪年假', '五险一金', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125997128.html?rc=03'}

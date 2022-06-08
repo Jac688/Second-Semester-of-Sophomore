@@ -1,0 +1,1 @@
+{'company_name': '四川飞天星河科技有限公司', 'job_name': 'Android开发工程师', 'geography': '成都-天府新区', 'bonus': ['五险一金', '餐饮补贴', '包午餐', '健身房'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130602271.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川久远银海软件股份有限公司', 'job_name': 'Java中级开发工程师-医保总设', 'geography': '成都-锦江区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/120704860.html?rc=03'}

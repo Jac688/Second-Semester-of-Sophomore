@@ -1,0 +1,1 @@
+{'company_name': '南京畅索软件科技有限公司', 'job_name': 'Camera BSP工程师(CD)(001055)', 'geography': '成都', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130238391.html?rc=03'}

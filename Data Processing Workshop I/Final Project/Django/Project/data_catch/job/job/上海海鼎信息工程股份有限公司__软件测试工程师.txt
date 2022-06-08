@@ -1,0 +1,1 @@
+{'company_name': '上海海鼎信息工程股份有限公司', 'job_name': '软件测试工程师', 'geography': '厦门-思明区', 'bonus': ['五险一金', '弹性工作', '年终奖金', '定期体检'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/122490988.html?rc=03'}

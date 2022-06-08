@@ -1,0 +1,1 @@
+{'company_name': '圆通速递有限公司', 'job_name': 'Python开发工程师', 'geography': '杭州-余杭区', 'bonus': ['五险一金', '绩效奖金', '专业培训', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129159132.html?rc=03'}

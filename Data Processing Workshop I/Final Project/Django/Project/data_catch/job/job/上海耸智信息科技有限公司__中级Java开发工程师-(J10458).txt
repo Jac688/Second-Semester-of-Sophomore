@@ -1,0 +1,1 @@
+{'company_name': '上海耸智信息科技有限公司', 'job_name': '中级Java开发工程师-(J10458)', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '年终奖金', '弹性工作', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129470296.html?rc=03'}

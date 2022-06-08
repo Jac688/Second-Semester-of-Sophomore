@@ -1,0 +1,1 @@
+{'company_name': '南京万鲸网络科技有限公司', 'job_name': '技术总监', 'geography': '南京-建邺区', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131069545.html?rc=03'}

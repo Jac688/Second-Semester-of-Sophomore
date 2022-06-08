@@ -1,0 +1,1 @@
+{'company_name': '广东畅视科技有限公司', 'job_name': '程序员Pythonfortran', 'geography': '广州-天河区', 'bonus': ['员工旅游', '专业培训', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130401821.html?rc=03'}

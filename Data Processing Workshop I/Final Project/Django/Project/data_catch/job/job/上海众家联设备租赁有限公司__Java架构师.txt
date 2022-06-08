@@ -1,0 +1,1 @@
+{'company_name': '上海众家联设备租赁有限公司', 'job_name': 'Java架构师', 'geography': '上海-静安区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '股票期权'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123633900.html?rc=03'}

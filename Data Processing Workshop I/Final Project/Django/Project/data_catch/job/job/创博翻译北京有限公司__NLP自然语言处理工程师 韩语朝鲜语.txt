@@ -1,0 +1,1 @@
+{'company_name': '创博翻译北京有限公司', 'job_name': 'NLP自然语言处理工程师 韩语朝鲜语', 'geography': '北京-朝阳区', 'bonus': ['专业培训', '五险一金', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128808322.html?rc=03'}

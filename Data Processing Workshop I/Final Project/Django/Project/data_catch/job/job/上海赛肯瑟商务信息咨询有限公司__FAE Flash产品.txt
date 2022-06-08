@@ -1,0 +1,1 @@
+{'company_name': '上海赛肯瑟商务信息咨询有限公司', 'job_name': 'FAE Flash产品', 'geography': '苏州-工业园区', 'bonus': ['股票期权', '五险一金', '员工旅游', '交通补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/132352158.html?rc=03'}

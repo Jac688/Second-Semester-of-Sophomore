@@ -1,0 +1,1 @@
+{'company_name': '北明软件有限公司山东分公司', 'job_name': '项目经理高级JAVA工程师', 'geography': '济南-高新区', 'bonus': ['五险一金', '定期体检', '员工旅游', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/115380849.html?rc=03'}

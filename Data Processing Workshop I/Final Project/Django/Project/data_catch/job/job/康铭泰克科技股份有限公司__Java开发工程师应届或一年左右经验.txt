@@ -1,0 +1,1 @@
+{'company_name': '康铭泰克科技股份有限公司', 'job_name': 'Java开发工程师应届或一年左右经验', 'geography': '宁波-鄞州区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129064184.html?rc=03'}

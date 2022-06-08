@@ -1,0 +1,1 @@
+{'company_name': 'UL中国', 'job_name': '高级项目工程师控制器', 'geography': '广州-黄埔区', 'bonus': ['周末双休', '节日福利', '绩效奖金', '年底双薪'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130250918.html?rc=03'}

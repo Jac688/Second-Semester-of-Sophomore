@@ -1,0 +1,1 @@
+{'company_name': '北京格林威尔科技发展有限公司', 'job_name': '嵌入式软件工程师网关', 'geography': '北京-昌平区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125826427.html?rc=03'}

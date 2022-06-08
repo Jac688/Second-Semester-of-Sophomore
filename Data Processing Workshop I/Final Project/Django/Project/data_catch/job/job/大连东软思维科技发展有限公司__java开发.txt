@@ -1,0 +1,1 @@
+{'company_name': '大连东软思维科技发展有限公司', 'job_name': 'java开发', 'geography': '深圳-福田区', 'bonus': ['五险一金', '定期体检', '带薪年假', '节假日福利'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128384571.html?rc=03'}

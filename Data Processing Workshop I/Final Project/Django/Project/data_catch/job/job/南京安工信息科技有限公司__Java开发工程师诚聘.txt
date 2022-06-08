@@ -1,0 +1,1 @@
+{'company_name': '南京安工信息科技有限公司', 'job_name': 'Java开发工程师诚聘', 'geography': '南通-崇川区', 'bonus': ['五险一金', '弹性工作', '年终奖金', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nantong/132054469.html?rc=03'}

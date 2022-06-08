@@ -1,0 +1,1 @@
+{'company_name': '上海吉联新软件股份有限公司', 'job_name': '培训主管', 'geography': '厦门', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/129438149.html?rc=03'}

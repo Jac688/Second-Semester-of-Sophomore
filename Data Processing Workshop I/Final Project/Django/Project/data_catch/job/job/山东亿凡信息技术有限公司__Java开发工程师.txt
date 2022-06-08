@@ -1,0 +1,1 @@
+{'company_name': '山东亿凡信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '枣庄', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/zaozhuang/132330945.html?rc=03'}

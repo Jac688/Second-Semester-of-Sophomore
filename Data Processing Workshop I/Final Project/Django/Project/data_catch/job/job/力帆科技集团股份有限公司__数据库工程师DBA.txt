@@ -1,0 +1,1 @@
+{'company_name': '力帆科技集团股份有限公司', 'job_name': '数据库工程师DBA', 'geography': '重庆-北碚区', 'bonus': ['周末双休', '五险一金', '免费班车', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/132053013.html?rc=03'}

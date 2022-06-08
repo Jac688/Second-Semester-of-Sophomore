@@ -1,0 +1,1 @@
+{'company_name': '上海南天电脑系统有限公司', 'job_name': 'Python爬虫工程师', 'geography': '武汉-洪山区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/130169989.html?rc=03'}

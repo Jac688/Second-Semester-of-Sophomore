@@ -1,0 +1,1 @@
+{'company_name': '上海晨航丰源软件有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122131042.html?rc=03'}

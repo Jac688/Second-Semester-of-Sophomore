@@ -1,0 +1,1 @@
+{'company_name': '北京中星创达科技有限公司', 'job_name': '仪表控制软件工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '周末双休', '节日福利', '创业公司'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125792521.html?rc=03'}

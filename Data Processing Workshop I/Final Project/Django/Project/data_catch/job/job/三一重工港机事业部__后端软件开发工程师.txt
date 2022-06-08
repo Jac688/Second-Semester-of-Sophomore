@@ -1,0 +1,1 @@
+{'company_name': '三一重工港机事业部', 'job_name': '后端软件开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/129980166.html?rc=03'}

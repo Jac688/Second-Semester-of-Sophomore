@@ -1,0 +1,1 @@
+{'company_name': '上海利淘豪斯机器人有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-闵行区', 'bonus': ['交通补贴', '定期团建', '五险一金', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121124634.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海普瑞邦克软件技术有限公司', 'job_name': '软件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '补充公积金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/123584247.html?rc=03'}

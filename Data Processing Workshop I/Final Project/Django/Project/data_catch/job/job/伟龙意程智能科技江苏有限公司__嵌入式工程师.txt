@@ -1,0 +1,1 @@
+{'company_name': '伟龙意程智能科技江苏有限公司', 'job_name': '嵌入式工程师', 'geography': '盐城-东台市', 'bonus': ['五险一金', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/yancheng/132070853.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京益昂通信技术有限公司', 'job_name': '软件应用工程师', 'geography': '南京', 'bonus': ['五险一金', '周末双休', '带薪年假', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/119210449.html?rc=03'}

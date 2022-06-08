@@ -1,0 +1,1 @@
+{'company_name': '中富通集团股份有限公司', 'job_name': '项目经理', 'geography': '福州', 'bonus': ['年终奖金', '五险一金', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/125250999.html?rc=03'}

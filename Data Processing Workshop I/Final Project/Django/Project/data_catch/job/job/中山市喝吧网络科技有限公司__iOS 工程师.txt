@@ -1,0 +1,1 @@
+{'company_name': '中山市喝吧网络科技有限公司', 'job_name': 'iOS 工程师', 'geography': '中山', 'bonus': ['社保'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/107544912.html?rc=03'}

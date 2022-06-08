@@ -1,0 +1,1 @@
+{'company_name': '广州咨元信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '成都', 'bonus': ['五险一金', '通讯补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/96887008.html?rc=03'}

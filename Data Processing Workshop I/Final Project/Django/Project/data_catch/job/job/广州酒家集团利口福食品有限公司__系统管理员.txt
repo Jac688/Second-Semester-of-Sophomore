@@ -1,0 +1,1 @@
+{'company_name': '广州酒家集团利口福食品有限公司', 'job_name': '系统管理员', 'geography': '广州', 'bonus': ['五险一金', '包吃', '免费班车', '节日福利'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125208231.html?rc=03'}

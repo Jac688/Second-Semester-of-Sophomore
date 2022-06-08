@@ -1,0 +1,1 @@
+{'company_name': '中国电信广西公司', 'job_name': '大数据分析区公司企业信息化事业部', 'geography': '南宁', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/nanning/129231613.html?rc=03'}

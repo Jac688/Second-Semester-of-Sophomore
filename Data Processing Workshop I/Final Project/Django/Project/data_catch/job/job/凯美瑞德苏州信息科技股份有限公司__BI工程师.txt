@@ -1,0 +1,1 @@
+{'company_name': '凯美瑞德苏州信息科技股份有限公司', 'job_name': 'BI工程师', 'geography': '深圳-南山区', 'bonus': ['绩效奖金', '股票期权', '员工旅游'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126942863.html?rc=03'}

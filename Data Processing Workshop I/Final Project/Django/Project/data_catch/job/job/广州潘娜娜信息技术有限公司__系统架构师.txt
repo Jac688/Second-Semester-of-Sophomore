@@ -1,0 +1,1 @@
+{'company_name': '广州潘娜娜信息技术有限公司', 'job_name': '系统架构师', 'geography': '广州-白云区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '朝九晚六'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129725548.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海翼得营销策划有限公司', 'job_name': '测试工程师', 'geography': '上海', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '团队建设'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121887069.html?rc=03'}

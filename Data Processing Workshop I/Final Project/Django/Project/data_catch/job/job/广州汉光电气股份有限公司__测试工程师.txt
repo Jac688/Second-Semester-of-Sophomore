@@ -1,0 +1,1 @@
+{'company_name': '广州汉光电气股份有限公司', 'job_name': '测试工程师', 'geography': '广州-荔湾区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/100972505.html?rc=03'}

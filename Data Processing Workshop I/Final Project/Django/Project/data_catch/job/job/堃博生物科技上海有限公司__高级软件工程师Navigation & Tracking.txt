@@ -1,0 +1,1 @@
+{'company_name': '堃博生物科技上海有限公司', 'job_name': '高级软件工程师Navigation & Tracking', 'geography': '深圳-南山区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/117430181.html?rc=03'}

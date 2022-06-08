@@ -1,0 +1,1 @@
+{'company_name': '北京华康达计算机应用技术有限公司', 'job_name': '研发主管', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125834297.html?rc=03'}

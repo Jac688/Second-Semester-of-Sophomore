@@ -1,0 +1,1 @@
+{'company_name': '丹凤眼国际眼部理疗美容连锁机构', 'job_name': 'PHP前端', 'geography': '成都-青羊区', 'bonus': ['带薪年假', '专业培训', '节日福利', '绩效奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130027161.html?rc=03'}

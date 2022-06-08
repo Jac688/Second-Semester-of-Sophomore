@@ -1,0 +1,1 @@
+{'company_name': '上海下吉软件技术中心', 'job_name': 'Java开发工程师', 'geography': '上海-黄浦区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125252246.html?rc=03'}

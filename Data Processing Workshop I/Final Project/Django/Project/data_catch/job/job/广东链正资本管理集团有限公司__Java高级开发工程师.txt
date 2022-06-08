@@ -1,0 +1,1 @@
+{'company_name': '广东链正资本管理集团有限公司', 'job_name': 'Java高级开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '下午茶'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130965489.html?rc=03'}

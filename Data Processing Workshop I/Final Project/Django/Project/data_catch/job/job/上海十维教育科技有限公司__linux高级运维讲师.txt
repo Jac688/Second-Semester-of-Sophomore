@@ -1,0 +1,1 @@
+{'company_name': '上海十维教育科技有限公司', 'job_name': 'linux高级运维讲师', 'geography': '上海-嘉定区', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '加班补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123621410.html?rc=03'}

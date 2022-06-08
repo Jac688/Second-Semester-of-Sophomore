@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': 'DevOps工程师专家--音视频', 'geography': '北京', 'bonus': ['下午茶', '健身瑜伽', '扁平管理', '免费三餐'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131621142.html?rc=03'}

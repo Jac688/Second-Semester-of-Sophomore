@@ -1,0 +1,1 @@
+{'company_name': '上海平欣电子科技有限公司', 'job_name': 'Java开发工程师福州马尾', 'geography': '福州-马尾区', 'bonus': ['五险一金', '免费班车', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/92726504.html?rc=03'}

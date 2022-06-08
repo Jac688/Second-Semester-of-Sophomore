@@ -1,0 +1,1 @@
+{'company_name': 'TCL电子', 'job_name': 'Web前端开发工程师', 'geography': '惠州-仲恺区', 'bonus': ['五险一金', '免费班车', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/113430943.html?rc=03'}

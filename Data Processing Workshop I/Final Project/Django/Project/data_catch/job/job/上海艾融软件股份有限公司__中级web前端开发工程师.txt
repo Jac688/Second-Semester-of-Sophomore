@@ -1,0 +1,1 @@
+{'company_name': '上海艾融软件股份有限公司', 'job_name': '中级web前端开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '法定年休假', '节假日福利'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126867357.html?rc=03'}

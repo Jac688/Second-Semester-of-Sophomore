@@ -1,0 +1,1 @@
+{'company_name': '九江德福科技股份有限公司', 'job_name': '软件开发工程师', 'geography': '九江', 'bonus': ['五险一金', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jiujiang/127475417.html?rc=03'}

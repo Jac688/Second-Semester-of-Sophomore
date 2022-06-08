@@ -1,0 +1,1 @@
+{'company_name': '上海宝信软件股份有限公司海盐分公司', 'job_name': 'JAVA 软件开发工程师', 'geography': '嘉兴', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/47286573.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '九音南京集成电路技术有限公司', 'job_name': '嵌入式应用开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '交通补贴', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129791572.html?rc=03'}

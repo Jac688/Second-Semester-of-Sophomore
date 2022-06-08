@@ -1,0 +1,1 @@
+{'company_name': '悦锦软件系统(上海)有限公司', 'job_name': 'Java高级软件工程师', 'geography': '无锡-无锡新区', 'bonus': ['五险一金', '员工旅游', '弹性工作', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/123378843.html?rc=03'}

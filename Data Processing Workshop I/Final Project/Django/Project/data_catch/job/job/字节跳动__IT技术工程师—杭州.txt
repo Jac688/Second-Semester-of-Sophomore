@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': 'IT技术工程师—杭州', 'geography': '杭州', 'bonus': ['六险一金', '租房补贴', '免费三餐', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/126748628.html?rc=03'}

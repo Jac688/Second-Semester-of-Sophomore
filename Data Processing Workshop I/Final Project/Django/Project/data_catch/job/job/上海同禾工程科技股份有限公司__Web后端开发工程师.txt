@@ -1,0 +1,1 @@
+{'company_name': '上海同禾工程科技股份有限公司', 'job_name': 'Web后端开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '股票期权'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/120454659.html?rc=03'}

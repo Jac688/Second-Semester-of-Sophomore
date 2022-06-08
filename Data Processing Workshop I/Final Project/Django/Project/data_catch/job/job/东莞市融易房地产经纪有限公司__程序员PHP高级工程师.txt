@@ -1,0 +1,1 @@
+{'company_name': '东莞市融易房地产经纪有限公司', 'job_name': '程序员PHP高级工程师', 'geography': '东莞', 'bonus': ['节日福利', '专业培训', '五险一金', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/122012169.html?rc=03'}

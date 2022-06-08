@@ -1,0 +1,1 @@
+{'company_name': '合肥市合趣网络科技有限公司', 'job_name': '软件开发工程师python) Python后端开发工程师', 'geography': '深圳-龙岗区', 'bonus': ['五险', '高温补贴', '住房补贴', '每年多次调薪'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126219487.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '城发智能科技有限公司', 'job_name': 'Java后端开发工程师', 'geography': '杭州-江干区', 'bonus': ['通讯补贴', '餐饮补贴', '专业培训', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127422136.html?rc=03'}

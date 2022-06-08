@@ -1,0 +1,1 @@
+{'company_name': '天津信时通科技有限公司', 'job_name': 'Java高级开发工程师微服务', 'geography': '天津-滨海新区', 'bonus': ['五险一金', '绩效奖金', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/126447532.html?rc=03'}

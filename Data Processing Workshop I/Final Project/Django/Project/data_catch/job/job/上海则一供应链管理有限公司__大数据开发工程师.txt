@@ -1,0 +1,1 @@
+{'company_name': '上海则一供应链管理有限公司', 'job_name': '大数据开发工程师', 'geography': '上海-青浦区', 'bonus': ['五险一金', '带薪年假', '节日福利', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131338175.html?rc=03'}

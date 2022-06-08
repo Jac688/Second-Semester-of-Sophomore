@@ -1,0 +1,1 @@
+{'company_name': '上海融程投资管理有限公司', 'job_name': 'C++软件工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/58789118.html?rc=03'}

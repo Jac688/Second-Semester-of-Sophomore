@@ -1,0 +1,1 @@
+{'company_name': '南京至页科技有限公司', 'job_name': 'web前端开发工程师', 'geography': '南京-鼓楼区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/122497454.html?rc=03'}

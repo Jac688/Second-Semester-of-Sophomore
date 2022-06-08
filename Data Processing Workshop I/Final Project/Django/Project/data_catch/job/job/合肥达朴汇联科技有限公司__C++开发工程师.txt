@@ -1,0 +1,1 @@
+{'company_name': '合肥达朴汇联科技有限公司', 'job_name': 'C++开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '弹性工作', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131742006.html?rc=03'}

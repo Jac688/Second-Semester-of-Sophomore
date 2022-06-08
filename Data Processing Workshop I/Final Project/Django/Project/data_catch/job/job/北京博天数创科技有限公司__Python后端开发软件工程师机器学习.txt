@@ -1,0 +1,1 @@
+{'company_name': '北京博天数创科技有限公司', 'job_name': 'Python后端开发软件工程师机器学习', 'geography': '北京-海淀区', 'bonus': ['五险一金', '14薪'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129754759.html?rc=03'}

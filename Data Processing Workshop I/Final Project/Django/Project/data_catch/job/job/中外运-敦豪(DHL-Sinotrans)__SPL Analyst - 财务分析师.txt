@@ -1,0 +1,1 @@
+{'company_name': '中外运-敦豪(DHL-Sinotrans)', 'job_name': 'SPL Analyst - 财务分析师', 'geography': '上海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131571249.html?rc=03'}

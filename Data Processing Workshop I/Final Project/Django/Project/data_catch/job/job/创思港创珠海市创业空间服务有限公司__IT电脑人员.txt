@@ -1,0 +1,1 @@
+{'company_name': '创思港创珠海市创业空间服务有限公司', 'job_name': 'IT电脑人员', 'geography': '珠海-珠海高新区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/128486778.html?rc=03'}

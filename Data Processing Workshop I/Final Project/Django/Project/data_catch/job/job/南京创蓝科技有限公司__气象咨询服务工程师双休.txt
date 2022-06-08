@@ -1,0 +1,1 @@
+{'company_name': '南京创蓝科技有限公司', 'job_name': '气象咨询服务工程师双休', 'geography': '南京-浦口区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132315424.html?rc=03'}

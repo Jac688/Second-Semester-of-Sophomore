@@ -1,0 +1,1 @@
+{'company_name': '亚信科技CMC', 'job_name': '系统开发工程师', 'geography': '北京-西城区', 'bonus': ['弹性工作', '餐饮补贴', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124662395.html?rc=03'}

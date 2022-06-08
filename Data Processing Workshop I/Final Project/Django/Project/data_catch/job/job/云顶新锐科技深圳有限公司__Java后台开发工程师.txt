@@ -1,0 +1,1 @@
+{'company_name': '云顶新锐科技深圳有限公司', 'job_name': 'Java后台开发工程师', 'geography': '深圳-南山区', 'bonus': ['弹性工作'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131243211.html?rc=03'}

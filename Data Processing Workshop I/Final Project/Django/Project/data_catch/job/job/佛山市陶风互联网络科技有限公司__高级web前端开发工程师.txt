@@ -1,0 +1,1 @@
+{'company_name': '佛山市陶风互联网络科技有限公司', 'job_name': '高级web前端开发工程师', 'geography': '佛山-禅城区', 'bonus': ['周末双休', '五险一金', '加班补贴', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129301113.html?rc=03'}

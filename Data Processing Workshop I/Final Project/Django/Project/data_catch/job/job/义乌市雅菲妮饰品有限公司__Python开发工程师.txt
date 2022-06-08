@@ -1,0 +1,1 @@
+{'company_name': '义乌市雅菲妮饰品有限公司', 'job_name': 'Python开发工程师', 'geography': '杭州-西湖区', 'bonus': ['带薪年假', '全勤奖', '节日福利', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131270797.html?rc=03'}

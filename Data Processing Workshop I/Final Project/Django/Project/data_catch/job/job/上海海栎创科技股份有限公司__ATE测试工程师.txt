@@ -1,0 +1,1 @@
+{'company_name': '上海海栎创科技股份有限公司', 'job_name': 'ATE测试工程师', 'geography': '上海-浦东新区', 'bonus': ['周末双休', '带薪年假', '专业培训', '交通补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125457580.html?rc=03'}

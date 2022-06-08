@@ -1,0 +1,1 @@
+{'company_name': '中芯集成电路制造绍兴有限公司', 'job_name': '.NET开发工程师', 'geography': '浙江省', 'bonus': ['五险一金', '免费班车', '员工旅游', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/120114733.html?rc=03'}

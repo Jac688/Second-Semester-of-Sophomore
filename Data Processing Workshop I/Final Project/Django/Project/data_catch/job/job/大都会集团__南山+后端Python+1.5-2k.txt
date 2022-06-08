@@ -1,0 +1,1 @@
+{'company_name': '大都会集团', 'job_name': '南山+后端Python+1.5-2k', 'geography': '深圳-南山区', 'bonus': ['每年多次调薪', '周末双休', '五险一金', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129867621.html?rc=03'}

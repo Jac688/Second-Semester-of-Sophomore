@@ -1,0 +1,1 @@
+{'company_name': '华润雪花啤酒', 'job_name': '产品经理终端营销系统', 'geography': '北京-东城区', 'bonus': ['带薪年假', '午餐补助', '通讯津贴', '交通补助'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132249651.html?rc=03'}

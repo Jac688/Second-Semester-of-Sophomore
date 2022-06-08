@@ -1,0 +1,1 @@
+{'company_name': '北京紫金支点技术有限公司', 'job_name': '外包运维工程师', 'geography': '北京-西城区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128787276.html?rc=03'}

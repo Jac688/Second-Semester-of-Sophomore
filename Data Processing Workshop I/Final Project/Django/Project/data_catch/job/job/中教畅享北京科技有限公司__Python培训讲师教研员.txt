@@ -1,0 +1,1 @@
+{'company_name': '中教畅享北京科技有限公司', 'job_name': 'Python培训讲师教研员', 'geography': '南京-江宁区', 'bonus': ['五险一金', '通讯补贴', '员工旅游', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131474451.html?rc=03'}

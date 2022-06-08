@@ -1,0 +1,1 @@
+{'company_name': '北京福谦源管理咨询有限公司', 'job_name': 'Java后台工程师', 'geography': '杭州-西湖区', 'bonus': ['优越环境资源', '学习机会', '提供住房', '提供娱乐设施'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129550402.html?rc=03'}

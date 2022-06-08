@@ -1,0 +1,1 @@
+{'company_name': '展讯通信天津有限公司', 'job_name': '多媒体算法工程师音频算法类', 'geography': '天津', 'bonus': ['五险一金', '弹性工作', '绩效奖金', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/123781001.html?rc=03'}

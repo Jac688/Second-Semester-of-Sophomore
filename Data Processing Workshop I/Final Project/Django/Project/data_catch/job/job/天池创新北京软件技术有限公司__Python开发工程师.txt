@@ -1,0 +1,1 @@
+{'company_name': '天池创新北京软件技术有限公司', 'job_name': 'Python开发工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/114711267.html?rc=03'}

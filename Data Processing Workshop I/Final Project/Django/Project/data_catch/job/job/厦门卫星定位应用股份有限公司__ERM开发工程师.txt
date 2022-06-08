@@ -1,0 +1,1 @@
+{'company_name': '厦门卫星定位应用股份有限公司', 'job_name': 'ERM开发工程师', 'geography': '异地招聘', 'bonus': ['做五休二', '带薪年假', '五险一金', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/129858214.html?rc=03'}

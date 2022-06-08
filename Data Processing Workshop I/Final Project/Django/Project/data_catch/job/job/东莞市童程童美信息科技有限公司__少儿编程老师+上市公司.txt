@@ -1,0 +1,1 @@
+{'company_name': '东莞市童程童美信息科技有限公司', 'job_name': '少儿编程老师+上市公司', 'geography': '珠海-香洲区', 'bonus': ['五险一金', '专业培训', '餐饮补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/128358554.html?rc=03'}

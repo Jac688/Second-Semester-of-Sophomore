@@ -1,0 +1,1 @@
+{'company_name': '宁波市人才服务中心', 'job_name': '宁波毛毛雨数字网络科技有限公司', 'geography': '宁波', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131170586.html?rc=03'}

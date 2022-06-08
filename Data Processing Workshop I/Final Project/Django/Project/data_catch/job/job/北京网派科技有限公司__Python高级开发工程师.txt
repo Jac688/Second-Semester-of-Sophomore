@@ -1,0 +1,1 @@
+{'company_name': '北京网派科技有限公司', 'job_name': 'Python高级开发工程师', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131281632.html?rc=03'}

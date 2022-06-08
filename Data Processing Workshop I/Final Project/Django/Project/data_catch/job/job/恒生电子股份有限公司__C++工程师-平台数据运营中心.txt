@@ -1,0 +1,1 @@
+{'company_name': '恒生电子股份有限公司', 'job_name': 'C++工程师-平台数据运营中心', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/124577045.html?rc=03'}

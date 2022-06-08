@@ -1,0 +1,1 @@
+{'company_name': 'IBM China', 'job_name': 'Infrastructure Specialist - Cloud', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '商业医疗保险', '年度体检', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131835620.html?rc=03'}

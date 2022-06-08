@@ -1,0 +1,1 @@
+{'company_name': 'SGS通标标准技术服务有限公司四川分公司', 'job_name': '软件功能安全工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '餐饮补贴', '节日福利', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132161251.html?rc=03'}

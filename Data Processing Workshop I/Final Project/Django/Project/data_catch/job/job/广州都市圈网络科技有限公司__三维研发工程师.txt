@@ -1,0 +1,1 @@
+{'company_name': '广州都市圈网络科技有限公司', 'job_name': '三维研发工程师', 'geography': '无锡', 'bonus': ['五险一金', '员工旅游', '定期体检', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/125781637.html?rc=03'}

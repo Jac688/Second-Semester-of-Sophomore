@@ -1,0 +1,1 @@
+{'company_name': '利尔达科技集团股份有限公司', 'job_name': 'linux驱动工程师 (MJ000405)', 'geography': '杭州-余杭区', 'bonus': ['交通补贴', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132173573.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东永爱医养产业有限公司', 'job_name': '嵌入式开发工程师', 'geography': '佛山-顺德区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/127904865.html?rc=03'}

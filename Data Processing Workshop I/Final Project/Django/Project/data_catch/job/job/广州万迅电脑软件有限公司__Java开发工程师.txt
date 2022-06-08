@@ -1,0 +1,1 @@
+{'company_name': '广州万迅电脑软件有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-越秀区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '通讯补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/121318408.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波保税区瑞丰空气处理设备有限公司', 'job_name': '网页开发程序员', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '交通补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127962056.html?rc=03'}

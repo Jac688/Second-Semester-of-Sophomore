@@ -1,0 +1,1 @@
+{'company_name': '义乌市浦学教育信息咨询有限公司', 'job_name': '计算机软件工程理工科类英文税法审计法律写手', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130130485.html?rc=03'}

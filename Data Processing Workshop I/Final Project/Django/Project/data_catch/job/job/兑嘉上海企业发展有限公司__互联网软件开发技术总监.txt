@@ -1,0 +1,1 @@
+{'company_name': '兑嘉上海企业发展有限公司', 'job_name': '互联网软件开发技术总监', 'geography': '上海-静安区', 'bonus': ['五险一金', '做五休二'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/114389008.html?rc=03'}

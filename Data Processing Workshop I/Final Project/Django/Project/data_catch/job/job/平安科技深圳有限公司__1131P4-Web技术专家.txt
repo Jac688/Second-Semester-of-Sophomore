@@ -1,0 +1,1 @@
+{'company_name': '平安科技深圳有限公司', 'job_name': '1131P4-Web技术专家', 'geography': '深圳-南山区', 'bonus': ['五险一金', '带薪年假', '节日福利', '绩效奖金'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128081941.html?rc=03'}

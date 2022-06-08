@@ -1,0 +1,1 @@
+{'company_name': '南通飞米网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jiangsusheng/121118379.html?rc=03'}

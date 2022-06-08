@@ -1,0 +1,1 @@
+{'company_name': '亚宝药业集团股份有限公司', 'job_name': '数据库管理员SFE', 'geography': '北京-大兴区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '交通补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123841632.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中山市香山教育科技有限公司', 'job_name': '数据运维工程师 (駐澳)', 'geography': '珠海-横琴新区', 'bonus': ['带薪年假'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/123250129.html?rc=03'}

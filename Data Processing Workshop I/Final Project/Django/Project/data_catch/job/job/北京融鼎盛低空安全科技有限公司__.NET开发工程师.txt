@@ -1,0 +1,1 @@
+{'company_name': '北京融鼎盛低空安全科技有限公司', 'job_name': '.NET开发工程师', 'geography': '北京-平谷区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129480128.html?rc=03'}

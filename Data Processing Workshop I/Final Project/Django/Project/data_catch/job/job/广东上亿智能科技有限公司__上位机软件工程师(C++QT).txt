@@ -1,0 +1,1 @@
+{'company_name': '广东上亿智能科技有限公司', 'job_name': '上位机软件工程师(C++QT)', 'geography': '东莞-松山湖区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/72619783.html?rc=03'}

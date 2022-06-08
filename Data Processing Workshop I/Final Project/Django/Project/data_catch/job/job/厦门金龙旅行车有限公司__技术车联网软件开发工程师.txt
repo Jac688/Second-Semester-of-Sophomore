@@ -1,0 +1,1 @@
+{'company_name': '厦门金龙旅行车有限公司', 'job_name': '技术车联网软件开发工程师', 'geography': '厦门', 'bonus': ['五险一金', '免费班车', '专业培训', '定期体检'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/130846916.html?rc=03'}

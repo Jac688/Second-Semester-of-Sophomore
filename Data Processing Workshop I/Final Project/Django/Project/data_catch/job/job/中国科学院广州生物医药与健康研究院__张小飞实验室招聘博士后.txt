@@ -1,0 +1,1 @@
+{'company_name': '中国科学院广州生物医药与健康研究院', 'job_name': '张小飞实验室招聘博士后', 'geography': '广州', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '通讯补贴'], 'salary': 1.42, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/103973205.html?rc=03'}

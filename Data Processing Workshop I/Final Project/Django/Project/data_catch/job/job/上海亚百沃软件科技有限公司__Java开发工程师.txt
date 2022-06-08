@@ -1,0 +1,1 @@
+{'company_name': '上海亚百沃软件科技有限公司', 'job_name': 'Java开发工程师', 'geography': '无锡-无锡新区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/125719816.html?rc=03'}

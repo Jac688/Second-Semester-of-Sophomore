@@ -1,0 +1,1 @@
+{'company_name': '上海创时汽车科技有限公司', 'job_name': '系统架构工程师上海-汽车-智能驾驶', 'geography': '上海-浦东新区', 'bonus': ['补充公积金', '高温津贴', '出国培训', '大牛带队'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119512401.html?rc=03'}

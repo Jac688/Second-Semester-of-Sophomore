@@ -1,0 +1,1 @@
+{'company_name': '国信科河北雄安科技有限责任公司北京分公司', 'job_name': 'Java开发工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128269114.html?rc=03'}

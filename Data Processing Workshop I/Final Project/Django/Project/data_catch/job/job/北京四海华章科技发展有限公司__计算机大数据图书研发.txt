@@ -1,0 +1,1 @@
+{'company_name': '北京四海华章科技发展有限公司', 'job_name': '计算机大数据图书研发', 'geography': '北京-海淀区', 'bonus': ['交通补贴', '餐饮补贴', '五险一金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121557272.html?rc=03'}

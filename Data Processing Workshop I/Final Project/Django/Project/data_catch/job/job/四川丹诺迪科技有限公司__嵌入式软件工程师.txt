@@ -1,0 +1,1 @@
+{'company_name': '四川丹诺迪科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '成都-高新区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124323271.html?rc=03'}

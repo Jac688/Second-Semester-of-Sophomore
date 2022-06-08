@@ -1,0 +1,1 @@
+{'company_name': '上海梅赛德斯奔驰车辆技术有限公司', 'job_name': 'HTML5开发工程师', 'geography': '上海-杨浦区', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131874553.html?rc=03'}

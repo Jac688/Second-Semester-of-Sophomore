@@ -1,0 +1,1 @@
+{'company_name': '圆通速递有限公司', 'job_name': '后端开发工程师Java、Python)', 'geography': '上海-青浦区', 'bonus': ['五险一金', '专业培训', '餐饮补贴', '免费班车'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131634628.html?rc=03'}

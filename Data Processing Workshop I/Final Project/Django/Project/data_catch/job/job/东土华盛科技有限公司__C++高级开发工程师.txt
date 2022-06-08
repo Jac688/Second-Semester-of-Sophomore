@@ -1,0 +1,1 @@
+{'company_name': '东土华盛科技有限公司', 'job_name': 'C++高级开发工程师', 'geography': '武汉-东湖新技术产业开发区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '专业培训'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/132214804.html?rc=03'}

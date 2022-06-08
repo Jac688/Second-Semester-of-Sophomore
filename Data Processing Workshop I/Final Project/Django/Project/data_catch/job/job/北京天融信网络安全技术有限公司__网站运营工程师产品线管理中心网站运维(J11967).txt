@@ -1,0 +1,1 @@
+{'company_name': '北京天融信网络安全技术有限公司', 'job_name': '网站运营工程师产品线管理中心网站运维(J11967)', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129648079.html?rc=03'}

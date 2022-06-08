@@ -1,0 +1,1 @@
+{'company_name': '万马奔腾新能源产业集团有限公司', 'job_name': 'Java高级开发工程师', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128699834.html?rc=03'}

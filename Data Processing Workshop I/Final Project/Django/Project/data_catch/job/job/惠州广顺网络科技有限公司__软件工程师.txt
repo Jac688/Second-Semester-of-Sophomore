@@ -1,0 +1,1 @@
+{'company_name': '惠州广顺网络科技有限公司', 'job_name': '软件工程师', 'geography': '南京-江北新区', 'bonus': ['五险一金', '周末双休', '年底双薪', '出差补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129805972.html?rc=03'}

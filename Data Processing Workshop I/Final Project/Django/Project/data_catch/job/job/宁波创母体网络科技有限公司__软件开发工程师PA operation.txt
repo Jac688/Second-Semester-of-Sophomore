@@ -1,0 +1,1 @@
+{'company_name': '宁波创母体网络科技有限公司', 'job_name': '软件开发工程师PA operation', 'geography': '宁波', 'bonus': ['五险一金', '年终奖金', '带薪年假', '房补'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130751955.html?rc=03'}

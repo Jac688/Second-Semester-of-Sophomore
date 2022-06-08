@@ -1,0 +1,1 @@
+{'company_name': '北京三维天地科技股份有限公司南京分公司', 'job_name': '初中级Java开发工程师(J10732)', 'geography': '南京-雨花台区', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130826061.html?rc=03'}

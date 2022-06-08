@@ -1,0 +1,1 @@
+{'company_name': '东莞联鹏智能装备有限公司', 'job_name': '软件工程师 半导体封测设备研发', 'geography': '东莞-塘厦镇', 'bonus': ['五险一金', '员工旅游', '年终奖金', '包吃住'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/129044944.html?rc=03'}

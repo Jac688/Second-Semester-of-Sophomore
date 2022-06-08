@@ -1,0 +1,1 @@
+{'company_name': '宁波腾日石油化工有限公司', 'job_name': '数据分析员', 'geography': '宁波-镇海区', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125913095.html?rc=03'}

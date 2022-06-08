@@ -1,0 +1,1 @@
+{'company_name': '合肥工大高科信息科技股份有限公司', 'job_name': '软件研发工程师Java开发', 'geography': '合肥', 'bonus': ['五险一金', '员工宿舍', '免费班车', '免费中餐'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hefei/123261860.html?rc=03'}

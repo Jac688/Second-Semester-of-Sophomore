@@ -1,0 +1,1 @@
+{'company_name': '宁波海大物联科技有限公司', 'job_name': 'Linux运维工程师', 'geography': '宁波-高新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/121837729.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京德元通远科技有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-浦东新区', 'bonus': ['绩效奖金', '专业培训', '弹性工作', '节假日福利'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130908384.html?rc=03'}

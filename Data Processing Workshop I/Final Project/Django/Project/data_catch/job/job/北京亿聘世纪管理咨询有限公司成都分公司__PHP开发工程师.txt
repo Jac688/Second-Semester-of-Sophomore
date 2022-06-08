@@ -1,0 +1,1 @@
+{'company_name': '北京亿聘世纪管理咨询有限公司成都分公司', 'job_name': 'PHP开发工程师', 'geography': '成都-武侯区', 'bonus': ['员工旅游', '出国机会', '专业培训', '通讯补贴'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128186371.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京欣网互联网络科技有限公司', 'job_name': 'Java开发工程师', 'geography': '济南-市中区', 'bonus': ['交通补贴', '餐饮补贴', '五险一金', '定期体检'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131431446.html?rc=03'}

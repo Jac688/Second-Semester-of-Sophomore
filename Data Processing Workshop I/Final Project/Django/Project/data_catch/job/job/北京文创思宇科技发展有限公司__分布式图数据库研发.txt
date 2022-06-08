@@ -1,0 +1,1 @@
+{'company_name': '北京文创思宇科技发展有限公司', 'job_name': '分布式图数据库研发', 'geography': '北京-西城区', 'bonus': ['餐饮补贴', '五险一金', '专业培训', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128236370.html?rc=03'}

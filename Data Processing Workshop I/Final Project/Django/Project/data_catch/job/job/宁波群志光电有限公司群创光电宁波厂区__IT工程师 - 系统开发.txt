@@ -1,0 +1,1 @@
+{'company_name': '宁波群志光电有限公司群创光电宁波厂区', 'job_name': 'IT工程师 - 系统开发', 'geography': '宁波-北仑区', 'bonus': ['五险一金', '定期体检', '免费班车', '年终奖金'], 'salary': 0.55, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127447564.html?rc=03'}

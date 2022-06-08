@@ -1,0 +1,1 @@
+{'company_name': '中国电子科技集团公司第五十二研究所', 'job_name': 'QT开发工程师', 'geography': '杭州', 'bonus': ['餐饮补贴', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/108579079.html?rc=03'}

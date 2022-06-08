@@ -1,0 +1,1 @@
+{'company_name': '广东紫晶信息存储技术股份有限公司', 'job_name': 'Java开发工程师Java高级工程师', 'geography': '广州-番禺区', 'bonus': ['五险一金', '餐饮补贴', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/84479256.html?rc=03'}

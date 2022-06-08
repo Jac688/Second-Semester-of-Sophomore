@@ -1,0 +1,1 @@
+{'company_name': '广东柯内特环境科技有限公司', 'job_name': 'ETL开发人员', 'geography': '广州-天河区', 'bonus': ['带薪年假', '包吃', '绩效奖金', '全勤奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125170459.html?rc=03'}

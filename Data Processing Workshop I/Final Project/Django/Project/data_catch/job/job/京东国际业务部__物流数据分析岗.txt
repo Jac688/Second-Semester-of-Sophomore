@@ -1,0 +1,1 @@
+{'company_name': '京东国际业务部', 'job_name': '物流数据分析岗', 'geography': '深圳-南山区', 'bonus': ['五险一金', '做五休二', '带薪年假', '补充医疗保险'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131868156.html?rc=03'}

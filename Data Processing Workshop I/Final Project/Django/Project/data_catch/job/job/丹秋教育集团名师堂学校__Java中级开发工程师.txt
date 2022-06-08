@@ -1,0 +1,1 @@
+{'company_name': '丹秋教育集团名师堂学校', 'job_name': 'Java中级开发工程师', 'geography': '成都-青羊区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130734673.html?rc=03'}

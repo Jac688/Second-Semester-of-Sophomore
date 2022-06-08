@@ -1,0 +1,1 @@
+{'company_name': '上海派普诺管道检测科技发展有限公司', 'job_name': '硬件工程师', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130709260.html?rc=03'}

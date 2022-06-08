@@ -1,0 +1,1 @@
+{'company_name': '中软国际科技服务有限公司', 'job_name': 'Python软件开发', 'geography': '武汉', 'bonus': ['五险一金', '免费班车', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/111724642.html?rc=03'}

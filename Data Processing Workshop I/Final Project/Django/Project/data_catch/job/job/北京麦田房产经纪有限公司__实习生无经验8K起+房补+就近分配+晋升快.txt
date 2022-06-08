@@ -1,0 +1,1 @@
+{'company_name': '北京麦田房产经纪有限公司', 'job_name': '实习生无经验8K起+房补+就近分配+晋升快', 'geography': '北京-昌平区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131833700.html?rc=03'}

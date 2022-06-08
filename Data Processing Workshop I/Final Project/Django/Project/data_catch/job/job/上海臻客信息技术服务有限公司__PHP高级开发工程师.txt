@@ -1,0 +1,1 @@
+{'company_name': '上海臻客信息技术服务有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '上海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/93176930.html?rc=03'}

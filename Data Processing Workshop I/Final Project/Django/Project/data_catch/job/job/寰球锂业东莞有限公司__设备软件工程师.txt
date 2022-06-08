@@ -1,0 +1,1 @@
+{'company_name': '寰球锂业东莞有限公司', 'job_name': '设备软件工程师', 'geography': '东莞-松山湖区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/122588735.html?rc=03'}

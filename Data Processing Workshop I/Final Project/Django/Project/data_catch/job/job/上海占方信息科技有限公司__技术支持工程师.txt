@@ -1,0 +1,1 @@
+{'company_name': '上海占方信息科技有限公司', 'job_name': '技术支持工程师', 'geography': '上海-静安区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121845272.html?rc=03'}

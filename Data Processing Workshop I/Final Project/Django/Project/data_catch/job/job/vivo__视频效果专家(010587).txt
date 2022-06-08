@@ -1,0 +1,1 @@
+{'company_name': 'vivo', 'job_name': '视频效果专家(010587)', 'geography': '上海-浦东新区', 'bonus': ['弹性工作', '奖金丰厚', '各种团建', '团队大牛多'], 'salary': 5.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129746691.html?rc=03'}

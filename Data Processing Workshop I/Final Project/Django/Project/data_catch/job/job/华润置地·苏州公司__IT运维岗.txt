@@ -1,0 +1,1 @@
+{'company_name': '华润置地·苏州公司', 'job_name': 'IT运维岗', 'geography': '苏州-工业园区', 'bonus': ['带薪年假', '通讯补贴', '餐饮补贴', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/129787584.html?rc=03'}

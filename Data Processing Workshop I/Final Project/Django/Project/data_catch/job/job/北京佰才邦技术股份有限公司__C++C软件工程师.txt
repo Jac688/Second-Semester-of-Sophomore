@@ -1,0 +1,1 @@
+{'company_name': '北京佰才邦技术股份有限公司', 'job_name': 'C++C软件工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '员工旅游', '定期体检', '大牛带队'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125617861.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中海油人力资源服务有限公司', 'job_name': '软件开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '定期体检', '专业培训', '补充意外险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132160896.html?rc=03'}

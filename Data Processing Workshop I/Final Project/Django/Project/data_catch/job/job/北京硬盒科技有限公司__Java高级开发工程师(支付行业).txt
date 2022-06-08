@@ -1,0 +1,1 @@
+{'company_name': '北京硬盒科技有限公司', 'job_name': 'Java高级开发工程师(支付行业)', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '做五休二', '周末双休', '节日福利'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130776802.html?rc=03'}

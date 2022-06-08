@@ -1,0 +1,1 @@
+{'company_name': '上海丛数智能科技有限公司', 'job_name': 'java开发需出差', 'geography': '广州', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125412047.html?rc=03'}

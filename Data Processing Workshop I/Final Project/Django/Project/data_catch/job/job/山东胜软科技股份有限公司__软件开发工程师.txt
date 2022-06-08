@@ -1,0 +1,1 @@
+{'company_name': '山东胜软科技股份有限公司', 'job_name': '软件开发工程师', 'geography': '异地招聘', 'bonus': ['专业培训', '弹性工作', '绩效奖金', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/129043238.html?rc=03'}

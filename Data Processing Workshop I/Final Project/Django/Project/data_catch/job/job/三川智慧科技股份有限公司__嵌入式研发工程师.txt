@@ -1,0 +1,1 @@
+{'company_name': '三川智慧科技股份有限公司', 'job_name': '嵌入式研发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125911911.html?rc=03'}

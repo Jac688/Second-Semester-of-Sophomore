@@ -1,0 +1,1 @@
+{'company_name': '常州易控汽车电子股份有限公司', 'job_name': '数据分析师', 'geography': '成都', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125992468.html?rc=03'}

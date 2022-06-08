@@ -1,0 +1,1 @@
+{'company_name': '上海三思电子工程有限公司', 'job_name': 'java 开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '员工旅游', '股票期权', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/95073236.html?rc=03'}

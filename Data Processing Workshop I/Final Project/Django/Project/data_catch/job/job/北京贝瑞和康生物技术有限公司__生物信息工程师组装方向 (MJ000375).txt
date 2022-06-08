@@ -1,0 +1,1 @@
+{'company_name': '北京贝瑞和康生物技术有限公司', 'job_name': '生物信息工程师组装方向 (MJ000375)', 'geography': '北京-昌平区', 'bonus': ['免费班车', '五险一金', '补充医疗保险', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128803089.html?rc=03'}

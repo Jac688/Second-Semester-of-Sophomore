@@ -1,0 +1,1 @@
+{'company_name': '上海科江电子信息技术有限公司', 'job_name': '嵌入式软件工程师C,C++开发', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/101592749.html?rc=03'}

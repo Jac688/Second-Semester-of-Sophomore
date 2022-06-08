@@ -1,0 +1,1 @@
+{'company_name': '哈啰出行哈罗单车hellobike', 'job_name': '两轮-数据分析-江城杭州(J14823)', 'geography': '杭州-余杭区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130134683.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '学透通医疗科技上海有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海-静安区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129098138.html?rc=03'}

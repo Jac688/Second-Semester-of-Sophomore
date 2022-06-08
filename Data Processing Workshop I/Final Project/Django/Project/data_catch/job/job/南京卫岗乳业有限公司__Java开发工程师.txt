@@ -1,0 +1,1 @@
+{'company_name': '南京卫岗乳业有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-江宁区', 'bonus': ['年终奖金', '节日福利', '餐饮补贴', '高温补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131715074.html?rc=03'}

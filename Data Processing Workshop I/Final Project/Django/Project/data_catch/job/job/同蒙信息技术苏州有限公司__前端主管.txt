@@ -1,0 +1,1 @@
+{'company_name': '同蒙信息技术苏州有限公司', 'job_name': '前端主管', 'geography': '无锡-无锡新区', 'bonus': ['五险一金', '交通补贴', '专业培训', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/120978966.html?rc=03'}

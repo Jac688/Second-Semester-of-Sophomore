@@ -1,0 +1,1 @@
+{'company_name': '广州市玄武无线科技股份有限公司', 'job_name': '实施工程师', 'geography': '上海-浦东新区', 'bonus': ['上市公司', '团队年轻', '氛围活跃', '午餐补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132268111.html?rc=03'}

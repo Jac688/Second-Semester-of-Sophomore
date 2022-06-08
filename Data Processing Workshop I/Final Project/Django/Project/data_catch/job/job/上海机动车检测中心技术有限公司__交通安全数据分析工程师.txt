@@ -1,0 +1,1 @@
+{'company_name': '上海机动车检测中心技术有限公司', 'job_name': '交通安全数据分析工程师', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '通讯补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130854892.html?rc=03'}

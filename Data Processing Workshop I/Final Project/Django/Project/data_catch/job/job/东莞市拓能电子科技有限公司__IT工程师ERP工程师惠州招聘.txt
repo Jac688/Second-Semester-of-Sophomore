@@ -1,0 +1,1 @@
+{'company_name': '东莞市拓能电子科技有限公司', 'job_name': 'IT工程师ERP工程师惠州招聘', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/129623650.html?rc=03'}

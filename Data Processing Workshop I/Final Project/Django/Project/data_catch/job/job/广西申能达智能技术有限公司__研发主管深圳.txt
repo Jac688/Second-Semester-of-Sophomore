@@ -1,0 +1,1 @@
+{'company_name': '广西申能达智能技术有限公司', 'job_name': '研发主管深圳', 'geography': '南宁', 'bonus': ['五险一金', '餐饮补贴', '节日福利', '交通补贴'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/nanning/131020047.html?rc=03'}

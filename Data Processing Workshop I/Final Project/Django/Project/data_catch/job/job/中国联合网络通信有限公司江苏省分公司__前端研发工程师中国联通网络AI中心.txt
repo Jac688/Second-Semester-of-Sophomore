@@ -1,0 +1,1 @@
+{'company_name': '中国联合网络通信有限公司江苏省分公司', 'job_name': '前端研发工程师中国联通网络AI中心', 'geography': '南京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/120031722.html?rc=03'}

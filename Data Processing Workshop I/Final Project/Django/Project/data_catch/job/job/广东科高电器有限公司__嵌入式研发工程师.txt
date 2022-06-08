@@ -1,0 +1,1 @@
+{'company_name': '广东科高电器有限公司', 'job_name': '嵌入式研发工程师', 'geography': '佛山', 'bonus': ['五险', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/128755579.html?rc=03'}

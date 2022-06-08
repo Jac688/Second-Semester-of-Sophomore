@@ -1,0 +1,1 @@
+{'company_name': '佛山市禅城区新美高互联网服务部', 'job_name': 'Python开发工程师', 'geography': '佛山-禅城区', 'bonus': ['员工旅游', '绩效奖金', '年终奖金', '周末双休'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/foshan/132246313.html?rc=03'}

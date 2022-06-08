@@ -1,0 +1,1 @@
+{'company_name': '北京格尔国信科技有限公司', 'job_name': '软件开发工程师', 'geography': '上海-静安区', 'bonus': ['五险一金', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/101295061.html?rc=03'}

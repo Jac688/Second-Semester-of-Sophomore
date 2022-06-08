@@ -1,0 +1,1 @@
+{'company_name': '中国铁道科学研究院电子计算技术研究所', 'job_name': 'JAVA工程师机电', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130773136.html?rc=03'}

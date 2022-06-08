@@ -1,0 +1,1 @@
+{'company_name': '德致商成集团有限公司', 'job_name': 'Java开发工程师近地铁口+良好氛围', 'geography': '广州-天河区', 'bonus': ['弹性工作', '全勤奖', '带薪年假', '工龄奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/112453030.html?rc=03'}

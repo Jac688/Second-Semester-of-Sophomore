@@ -1,0 +1,1 @@
+{'company_name': '上海新晨信息集成系统有限公司', 'job_name': 'Python开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132336131.html?rc=03'}

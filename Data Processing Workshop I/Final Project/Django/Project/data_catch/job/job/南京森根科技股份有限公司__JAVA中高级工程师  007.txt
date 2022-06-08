@@ -1,0 +1,1 @@
+{'company_name': '南京森根科技股份有限公司', 'job_name': 'JAVA中高级工程师  007', 'geography': '南京-雨花台区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/123349664.html?rc=03'}

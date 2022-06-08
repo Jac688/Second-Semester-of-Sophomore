@@ -1,0 +1,1 @@
+{'company_name': '北京永泰生物制品有限公司', 'job_name': '开发主管经理(带团队)', 'geography': '北京-大兴区', 'bonus': ['五险一金', '员工旅游', '定期体检', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128622166.html?rc=03'}

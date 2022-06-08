@@ -1,0 +1,1 @@
+{'company_name': '宁波西格玛泰克自动化设备有限公司', 'job_name': '电气工程师五险一金+双休', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '补充公积金', '员工旅游', '交通补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/99053300.html?rc=03'}

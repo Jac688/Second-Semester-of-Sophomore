@@ -1,0 +1,1 @@
+{'company_name': '上海瑞昕科技发展有限公司', 'job_name': '单片机开发工程师', 'geography': '上海-静安区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/40150375.html?rc=03'}

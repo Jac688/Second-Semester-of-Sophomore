@@ -1,0 +1,1 @@
+{'company_name': '德高广告上海申通德高', 'job_name': '全栈工程师Full Stack Engineer - Ux', 'geography': '上海-长宁区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127895210.html?rc=03'}

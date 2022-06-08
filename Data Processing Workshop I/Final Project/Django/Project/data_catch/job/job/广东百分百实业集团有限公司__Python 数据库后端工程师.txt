@@ -1,0 +1,1 @@
+{'company_name': '广东百分百实业集团有限公司', 'job_name': 'Python 数据库后端工程师', 'geography': '东莞-东城区', 'bonus': ['专业培训', '员工旅游', '包住宿', '包三餐'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/128435346.html?rc=03'}

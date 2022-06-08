@@ -1,0 +1,1 @@
+{'company_name': '创业慧康科技股份有限公司', 'job_name': '实施工程师实习生', 'geography': '福州-鼓楼区', 'bonus': ['五险一金', '定期体检', '交通补贴', '餐饮补贴'], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/127169155.html?rc=03'}

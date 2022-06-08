@@ -1,0 +1,1 @@
+{'company_name': '乐聚深圳机器人技术有限公司', 'job_name': '双足步态算法工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/116719854.html?rc=03'}

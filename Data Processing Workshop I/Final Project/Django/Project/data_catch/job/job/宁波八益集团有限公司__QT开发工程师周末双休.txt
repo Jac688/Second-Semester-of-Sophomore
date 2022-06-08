@@ -1,0 +1,1 @@
+{'company_name': '宁波八益集团有限公司', 'job_name': 'QT开发工程师周末双休', 'geography': '宁波', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128311460.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京海鑫科金高科技股份有限公司', 'job_name': '运维工程师', 'geography': '杭州-上城区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/121256290.html?rc=03'}

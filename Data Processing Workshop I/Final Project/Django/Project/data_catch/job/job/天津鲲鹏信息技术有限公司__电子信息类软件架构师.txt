@@ -1,0 +1,1 @@
+{'company_name': '天津鲲鹏信息技术有限公司', 'job_name': '电子信息类软件架构师', 'geography': '异地招聘', 'bonus': ['五险一金', '专业培训', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131228682.html?rc=03'}

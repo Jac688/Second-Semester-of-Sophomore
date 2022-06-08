@@ -1,0 +1,1 @@
+{'company_name': '上海正气信息科技有限公司', 'job_name': 'Java工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '做五休二', '带薪年假', '公司培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127579347.html?rc=03'}

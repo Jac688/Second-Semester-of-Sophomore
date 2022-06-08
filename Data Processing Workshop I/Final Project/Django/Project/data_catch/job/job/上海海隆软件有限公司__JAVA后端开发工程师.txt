@@ -1,0 +1,1 @@
+{'company_name': '上海海隆软件有限公司', 'job_name': 'JAVA后端开发工程师', 'geography': '异地招聘', 'bonus': ['弹性工作', '工作午餐', '做五休二', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/127971483.html?rc=03'}

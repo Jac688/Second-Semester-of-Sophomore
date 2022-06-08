@@ -1,0 +1,1 @@
+{'company_name': '北京辰安科技股份有限公司', 'job_name': '成都-高级java开发(002717)', 'geography': '异地招聘', 'bonus': ['五险一金', '免费班车', '员工旅游', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129967007.html?rc=03'}

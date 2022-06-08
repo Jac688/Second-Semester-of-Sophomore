@@ -1,0 +1,1 @@
+{'company_name': '中英益利资产管理股份有限公司', 'job_name': '风险管理岗', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '定期体检', '补充医疗保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/114597016.html?rc=03'}

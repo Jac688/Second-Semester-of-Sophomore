@@ -1,0 +1,1 @@
+{'company_name': '大连隆基信息技术有限公司', 'job_name': 'C++开发工程师-自主研发', 'geography': '苏州-虎丘区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130293089.html?rc=03'}

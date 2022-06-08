@@ -1,0 +1,1 @@
+{'company_name': '广东飞新达智能设备股份有限公司', 'job_name': '软件工程师', 'geography': '东莞-寮步镇', 'bonus': ['员工旅游', '专业培训', '全勤奖', '节日福利'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/121129555.html?rc=03'}

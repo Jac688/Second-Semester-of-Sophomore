@@ -1,0 +1,1 @@
+{'company_name': '北京赛思信安技术股份有限公司', 'job_name': 'Linux CC++研发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '年终奖金', '定期体检', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130741219.html?rc=03'}

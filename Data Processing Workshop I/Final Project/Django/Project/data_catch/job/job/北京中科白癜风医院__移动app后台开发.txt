@@ -1,0 +1,1 @@
+{'company_name': '北京中科白癜风医院', 'job_name': '移动app后台开发', 'geography': '北京-大兴区', 'bonus': [], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/122262278.html?rc=03'}

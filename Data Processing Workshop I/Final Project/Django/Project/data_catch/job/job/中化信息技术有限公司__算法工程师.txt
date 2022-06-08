@@ -1,0 +1,1 @@
+{'company_name': '中化信息技术有限公司', 'job_name': '算法工程师', 'geography': '北京-西城区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131441181.html?rc=03'}

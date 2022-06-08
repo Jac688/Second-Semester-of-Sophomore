@@ -1,0 +1,1 @@
+{'company_name': '广州高如网络科技有限公司', 'job_name': 'web开发工程师助理', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126407596.html?rc=03'}

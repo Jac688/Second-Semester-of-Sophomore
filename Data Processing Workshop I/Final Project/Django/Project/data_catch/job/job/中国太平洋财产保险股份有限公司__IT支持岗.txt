@@ -1,0 +1,1 @@
+{'company_name': '中国太平洋财产保险股份有限公司', 'job_name': 'IT支持岗', 'geography': '成都-青羊区', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/119064423.html?rc=03'}

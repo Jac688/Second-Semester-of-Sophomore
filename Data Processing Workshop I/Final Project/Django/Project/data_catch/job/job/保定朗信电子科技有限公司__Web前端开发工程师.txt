@@ -1,0 +1,1 @@
+{'company_name': '保定朗信电子科技有限公司', 'job_name': 'Web前端开发工程师', 'geography': '异地招聘', 'bonus': ['周末双休', '五险一金', '节日福利', '通讯补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124153610.html?rc=03'}

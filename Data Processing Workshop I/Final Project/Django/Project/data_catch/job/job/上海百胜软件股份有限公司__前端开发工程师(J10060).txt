@@ -1,0 +1,1 @@
+{'company_name': '上海百胜软件股份有限公司', 'job_name': '前端开发工程师(J10060)', 'geography': '上海', 'bonus': ['五险一金', '补充公积金', '年终奖金', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128116271.html?rc=03'}

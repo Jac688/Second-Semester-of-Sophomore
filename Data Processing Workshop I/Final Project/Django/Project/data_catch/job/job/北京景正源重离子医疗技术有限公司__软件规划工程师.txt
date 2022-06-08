@@ -1,0 +1,1 @@
+{'company_name': '北京景正源重离子医疗技术有限公司', 'job_name': '软件规划工程师', 'geography': '无锡-滨湖区', 'bonus': [], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/127146201.html?rc=03'}

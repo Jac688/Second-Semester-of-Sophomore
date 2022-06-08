@@ -1,0 +1,1 @@
+{'company_name': '上海绯逸信息技术有限公司', 'job_name': 'C++开发工程师', 'geography': '上海-宝山区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131073434.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京中认环宇信息安全技术有限公司', 'job_name': 'PKI产品研发工程师[java]', 'geography': '北京-丰台区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124144586.html?rc=03'}

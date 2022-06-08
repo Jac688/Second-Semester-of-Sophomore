@@ -1,0 +1,1 @@
+{'company_name': '广州睿本信息科技有限公司', 'job_name': '中高级运维工程师', 'geography': '广州-番禺区', 'bonus': ['五险一金', '员工旅游', '股票期权', '年终奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123107978.html?rc=03'}

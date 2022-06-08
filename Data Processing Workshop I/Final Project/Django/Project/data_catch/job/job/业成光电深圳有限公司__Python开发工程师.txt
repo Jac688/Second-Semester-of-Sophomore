@@ -1,0 +1,1 @@
+{'company_name': '业成光电深圳有限公司', 'job_name': 'Python开发工程师', 'geography': '深圳', 'bonus': ['带薪年假', '五险一金', '免费班车', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128920507.html?rc=03'}

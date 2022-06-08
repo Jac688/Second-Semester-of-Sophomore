@@ -1,0 +1,1 @@
+{'company_name': '平安科技深圳有限公司', 'job_name': '11415W-云平台交付技术专家-成都', 'geography': '成都-锦江区', 'bonus': ['五险一金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129815468.html?rc=03'}

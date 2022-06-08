@@ -1,0 +1,1 @@
+{'company_name': 'GE医疗集团', 'job_name': 'Staff Software Engineer 资深软件工程师 R3558806', 'geography': '无锡', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/129914091.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波港信息通信有限公司', 'job_name': '高级C++架构师', 'geography': '宁波-北仑区', 'bonus': ['五险一金', '补充公积金', '免费班车', '员工旅游'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129013208.html?rc=03'}

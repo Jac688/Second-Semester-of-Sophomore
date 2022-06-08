@@ -1,0 +1,1 @@
+{'company_name': '中联重科金融服务公司', 'job_name': '运营分析专员', 'geography': '北京-海淀区', 'bonus': ['五险一金', '通讯补贴', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132046579.html?rc=03'}

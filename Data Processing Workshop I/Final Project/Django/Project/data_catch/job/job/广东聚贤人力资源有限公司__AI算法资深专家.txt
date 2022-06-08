@@ -1,0 +1,1 @@
+{'company_name': '广东聚贤人力资源有限公司', 'job_name': 'AI算法资深专家', 'geography': '异地招聘', 'bonus': ['社保', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 6.67, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/125386120.html?rc=03'}

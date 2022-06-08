@@ -1,0 +1,1 @@
+{'company_name': '上海跳跃互动娱乐发展有限公司', 'job_name': '高级C++服务器端程序', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/116590632.html?rc=03'}

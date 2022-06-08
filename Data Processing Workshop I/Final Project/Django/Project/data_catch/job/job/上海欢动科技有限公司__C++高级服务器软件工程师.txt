@@ -1,0 +1,1 @@
+{'company_name': '上海欢动科技有限公司', 'job_name': 'C++高级服务器软件工程师', 'geography': '上海-浦东新区', 'bonus': ['补充医疗保险', '五险一金', '员工旅游', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128769370.html?rc=03'}

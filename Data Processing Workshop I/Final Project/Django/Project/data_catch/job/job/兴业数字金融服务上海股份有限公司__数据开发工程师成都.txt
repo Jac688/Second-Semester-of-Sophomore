@@ -1,0 +1,1 @@
+{'company_name': '兴业数字金融服务上海股份有限公司', 'job_name': '数据开发工程师成都', 'geography': '成都', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129211628.html?rc=03'}

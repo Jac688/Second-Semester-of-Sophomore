@@ -1,0 +1,1 @@
+{'company_name': 'IBM China', 'job_name': 'Python Developer', 'geography': '深圳-南山区', 'bonus': [], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132237309.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '佛山市南海莉华电子科技有限公司', 'job_name': '区块链高级开发工程师架构师', 'geography': '异地招聘', 'bonus': ['弹性工作', '专业培训', '绩效奖金', '员工旅游'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126569696.html?rc=03'}

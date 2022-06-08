@@ -1,0 +1,1 @@
+{'company_name': '上海清鹤科技股份有限公司', 'job_name': '前端开发工程师', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '快速发展空间'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130373922.html?rc=03'}

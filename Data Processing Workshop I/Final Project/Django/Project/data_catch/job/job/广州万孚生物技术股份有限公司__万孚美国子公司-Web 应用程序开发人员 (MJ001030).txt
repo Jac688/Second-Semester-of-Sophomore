@@ -1,0 +1,1 @@
+{'company_name': '广州万孚生物技术股份有限公司', 'job_name': '万孚美国子公司-Web 应用程序开发人员 (MJ001030)', 'geography': '广州-黄埔区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131932179.html?rc=03'}

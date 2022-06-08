@@ -1,0 +1,1 @@
+{'company_name': '宏陆深圳科技有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-龙岗区', 'bonus': ['五险一金', '转岗晋升', '创业公司', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132024568.html?rc=03'}

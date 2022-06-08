@@ -1,0 +1,1 @@
+{'company_name': '上海华颐医疗器械有限公司', 'job_name': 'VR开发工程师', 'geography': '上海', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126454423.html?rc=03'}

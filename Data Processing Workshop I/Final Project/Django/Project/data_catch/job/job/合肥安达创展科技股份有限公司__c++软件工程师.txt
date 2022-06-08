@@ -1,0 +1,1 @@
+{'company_name': '合肥安达创展科技股份有限公司', 'job_name': 'c++软件工程师', 'geography': '合肥', 'bonus': ['五险一金', '免费班车', '绩效奖金', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hefei/53758525.html?rc=03'}

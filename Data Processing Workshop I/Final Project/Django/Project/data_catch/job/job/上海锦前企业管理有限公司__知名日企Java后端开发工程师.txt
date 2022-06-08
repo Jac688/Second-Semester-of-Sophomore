@@ -1,0 +1,1 @@
+{'company_name': '上海锦前企业管理有限公司', 'job_name': '知名日企Java后端开发工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131893287.html?rc=03'}

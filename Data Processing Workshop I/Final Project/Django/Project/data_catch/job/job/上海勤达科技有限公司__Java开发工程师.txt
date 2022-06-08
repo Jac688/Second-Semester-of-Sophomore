@@ -1,0 +1,1 @@
+{'company_name': '上海勤达科技有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '餐饮补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129693041.html?rc=03'}

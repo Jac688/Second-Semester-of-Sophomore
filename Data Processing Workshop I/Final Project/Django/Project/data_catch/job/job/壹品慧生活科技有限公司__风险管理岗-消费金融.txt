@@ -1,0 +1,1 @@
+{'company_name': '壹品慧生活科技有限公司', 'job_name': '风险管理岗-消费金融', 'geography': '深圳-龙岗区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130651897.html?rc=03'}

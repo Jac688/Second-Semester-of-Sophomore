@@ -1,0 +1,1 @@
+{'company_name': '上海吉联新软件股份有限公司', 'job_name': '高级前端开发工程师', 'geography': '厦门', 'bonus': ['五险一金', '员工旅游', '年终奖金', '福利待遇好'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/124259905.html?rc=03'}

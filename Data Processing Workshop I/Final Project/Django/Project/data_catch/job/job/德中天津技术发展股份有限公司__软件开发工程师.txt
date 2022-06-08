@@ -1,0 +1,1 @@
+{'company_name': '德中天津技术发展股份有限公司', 'job_name': '软件开发工程师', 'geography': '天津', 'bonus': ['五险一金', '年终奖金', '定期体检'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/90191733.html?rc=03'}

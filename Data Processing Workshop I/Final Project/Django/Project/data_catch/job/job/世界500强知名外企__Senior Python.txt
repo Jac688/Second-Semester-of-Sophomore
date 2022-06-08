@@ -1,0 +1,1 @@
+{'company_name': '世界500强知名外企', 'job_name': 'Senior Python', 'geography': '大连-沙河口区', 'bonus': ['五险一金', '专业培训', '补充医疗保险', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dalian/128349556.html?rc=03'}

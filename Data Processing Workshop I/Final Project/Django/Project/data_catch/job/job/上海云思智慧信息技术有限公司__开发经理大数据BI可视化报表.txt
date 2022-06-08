@@ -1,0 +1,1 @@
+{'company_name': '上海云思智慧信息技术有限公司', 'job_name': '开发经理大数据BI可视化报表', 'geography': '上海', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131100742.html?rc=03'}

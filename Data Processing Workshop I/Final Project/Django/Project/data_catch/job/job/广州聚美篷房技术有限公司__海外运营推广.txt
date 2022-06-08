@@ -1,0 +1,1 @@
+{'company_name': '广州聚美篷房技术有限公司', 'job_name': '海外运营推广', 'geography': '广州-南沙区', 'bonus': ['专业培训', '绩效奖金', '带薪年假', '做六休一'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130473693.html?rc=03'}

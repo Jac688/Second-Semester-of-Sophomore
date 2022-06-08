@@ -1,0 +1,1 @@
+{'company_name': '乐观合芯物联网产业无锡有限公司', 'job_name': 'PHP开发工程师', 'geography': '无锡-梁溪区', 'bonus': ['五险一金', '周末双休', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/132107318.html?rc=03'}

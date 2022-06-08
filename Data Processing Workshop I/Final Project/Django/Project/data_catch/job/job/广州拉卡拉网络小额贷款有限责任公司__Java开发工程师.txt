@@ -1,0 +1,1 @@
+{'company_name': '广州拉卡拉网络小额贷款有限责任公司', 'job_name': 'Java开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '绩效奖金', '员工旅游', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/99878326.html?rc=03'}

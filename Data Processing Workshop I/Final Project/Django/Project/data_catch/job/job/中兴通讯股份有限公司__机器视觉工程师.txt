@@ -1,0 +1,1 @@
+{'company_name': '中兴通讯股份有限公司', 'job_name': '机器视觉工程师', 'geography': '天津', 'bonus': ['五险一金', '免费班车', '交通补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/126089705.html?rc=03'}

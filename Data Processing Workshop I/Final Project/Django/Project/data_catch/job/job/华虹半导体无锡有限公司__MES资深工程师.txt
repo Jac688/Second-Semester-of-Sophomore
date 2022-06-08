@@ -1,0 +1,1 @@
+{'company_name': '华虹半导体无锡有限公司', 'job_name': 'MES资深工程师', 'geography': '无锡-无锡新区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '员工旅游'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/100630508.html?rc=03'}

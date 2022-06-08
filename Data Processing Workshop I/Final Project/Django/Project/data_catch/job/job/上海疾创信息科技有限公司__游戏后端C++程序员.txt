@@ -1,0 +1,1 @@
+{'company_name': '上海疾创信息科技有限公司', 'job_name': '游戏后端C++程序员', 'geography': '上海-普陀区', 'bonus': ['五险一金', '餐饮补贴', '全勤奖'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/101455925.html?rc=03'}

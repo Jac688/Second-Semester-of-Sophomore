@@ -1,0 +1,1 @@
+{'company_name': '中国科学院深圳先进技术研究院', 'job_name': 'Java后端开发工程师-合成生物大设施软件设计平台', 'geography': '深圳-南山区', 'bonus': ['餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128742979.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '山东车才帮技术服务有限公司', 'job_name': '运维工程师', 'geography': '青岛-李沧区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '房补'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/127167514.html?rc=03'}

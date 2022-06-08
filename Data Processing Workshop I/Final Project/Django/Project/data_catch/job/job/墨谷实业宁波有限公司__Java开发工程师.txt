@@ -1,0 +1,1 @@
+{'company_name': '墨谷实业宁波有限公司', 'job_name': 'Java开发工程师', 'geography': '宁波-江北区', 'bonus': ['做五休二', '五险一金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131973568.html?rc=03'}

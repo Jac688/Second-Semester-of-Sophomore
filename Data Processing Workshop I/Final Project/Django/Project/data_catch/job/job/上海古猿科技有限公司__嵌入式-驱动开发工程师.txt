@@ -1,0 +1,1 @@
+{'company_name': '上海古猿科技有限公司', 'job_name': '嵌入式-驱动开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '定期体检', '节假日福利'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117633279.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '均胜汽车安全系统上海有限公司', 'job_name': 'Application Software Engineer应用层', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '交通补贴'], 'salary': 2.08, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131810448.html?rc=03'}

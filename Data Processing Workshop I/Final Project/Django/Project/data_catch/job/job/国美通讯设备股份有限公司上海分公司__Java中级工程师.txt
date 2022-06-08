@@ -1,0 +1,1 @@
+{'company_name': '国美通讯设备股份有限公司上海分公司', 'job_name': 'Java中级工程师', 'geography': '上海-松江区', 'bonus': ['五险一金', '周末双休', '绩效奖金', '做五休二'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131342315.html?rc=03'}

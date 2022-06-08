@@ -1,0 +1,1 @@
+{'company_name': '北京热刺激光技术有限责任公司', 'job_name': 'C++QT软件工程师', 'geography': '北京-朝阳区', 'bonus': ['周末双休', '带薪年假', '五险一金', '包吃'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/105212865.html?rc=03'}

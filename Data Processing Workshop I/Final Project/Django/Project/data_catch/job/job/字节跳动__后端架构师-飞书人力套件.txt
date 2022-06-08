@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后端架构师-飞书人力套件', 'geography': '成都', 'bonus': ['大牛带队', '六险一金', '团队氛围好', '股票期权'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/113450199.html?rc=03'}

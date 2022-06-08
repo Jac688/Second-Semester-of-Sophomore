@@ -1,0 +1,1 @@
+{'company_name': '上海烨映微电子科技股份有限公司', 'job_name': '软件工程师', 'geography': '上海-徐汇区', 'bonus': ['带薪年假', '五险一金', '交通补贴', '高温补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130235428.html?rc=03'}

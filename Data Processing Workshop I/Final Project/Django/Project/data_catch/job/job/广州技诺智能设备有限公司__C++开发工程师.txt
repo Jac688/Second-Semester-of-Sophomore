@@ -1,0 +1,1 @@
+{'company_name': '广州技诺智能设备有限公司', 'job_name': 'C++开发工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '免费工作餐', '年终双薪', '月度绩效奖励'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/110684942.html?rc=03'}

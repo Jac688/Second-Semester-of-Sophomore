@@ -1,0 +1,1 @@
+{'company_name': '华采科技北京有限公司', 'job_name': '运营主管', 'geography': '北京', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '节日福利'], 'salary': 0.61, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130148712.html?rc=03'}

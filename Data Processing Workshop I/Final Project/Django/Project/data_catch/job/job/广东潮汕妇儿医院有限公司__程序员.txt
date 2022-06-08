@@ -1,0 +1,1 @@
+{'company_name': '广东潮汕妇儿医院有限公司', 'job_name': '程序员', 'geography': '揭阳', 'bonus': [], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/jieyang/129271833.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '壮都通信股份有限公司', 'job_name': '软件开发工程师', 'geography': '南宁', 'bonus': ['交通补贴', '绩效奖金', '员工旅游', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/126413461.html?rc=03'}

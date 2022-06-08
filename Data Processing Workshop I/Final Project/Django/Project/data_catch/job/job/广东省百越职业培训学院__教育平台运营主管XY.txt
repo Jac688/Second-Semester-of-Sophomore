@@ -1,0 +1,1 @@
+{'company_name': '广东省百越职业培训学院', 'job_name': '教育平台运营主管XY', 'geography': '广州-越秀区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130517779.html?rc=03'}

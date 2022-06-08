@@ -1,0 +1,1 @@
+{'company_name': '南京智水环境科技有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131543376.html?rc=03'}

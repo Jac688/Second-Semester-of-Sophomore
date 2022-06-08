@@ -1,0 +1,1 @@
+{'company_name': '广东云林信息工程技术股份有限公司', 'job_name': 'JAVA开发工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130302379.html?rc=03'}

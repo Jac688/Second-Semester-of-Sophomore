@@ -1,0 +1,1 @@
+{'company_name': '上海龙犀数字科技合伙企业有限合伙', 'job_name': 'Java中级开发(银行间交易系统', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126641066.html?rc=03'}

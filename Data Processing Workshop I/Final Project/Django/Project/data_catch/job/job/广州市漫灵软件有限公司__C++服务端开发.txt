@@ -1,0 +1,1 @@
+{'company_name': '广州市漫灵软件有限公司', 'job_name': 'C++服务端开发', 'geography': '广州', 'bonus': ['五险一金', '出国旅游', '工作餐', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/104592533.html?rc=03'}

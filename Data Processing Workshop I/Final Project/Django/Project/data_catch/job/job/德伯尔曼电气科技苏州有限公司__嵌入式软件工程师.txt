@@ -1,0 +1,1 @@
+{'company_name': '德伯尔曼电气科技苏州有限公司', 'job_name': '嵌入式软件工程师', 'geography': '苏州-工业园区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/122806789.html?rc=03'}

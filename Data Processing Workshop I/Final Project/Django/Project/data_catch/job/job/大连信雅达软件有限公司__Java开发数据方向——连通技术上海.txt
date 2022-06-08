@@ -1,0 +1,1 @@
+{'company_name': '大连信雅达软件有限公司', 'job_name': 'Java开发数据方向——连通技术上海', 'geography': '上海', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128874332.html?rc=03'}

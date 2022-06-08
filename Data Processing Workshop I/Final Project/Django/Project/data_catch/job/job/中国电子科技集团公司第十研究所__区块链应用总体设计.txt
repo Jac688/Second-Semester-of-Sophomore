@@ -1,0 +1,1 @@
+{'company_name': '中国电子科技集团公司第十研究所', 'job_name': '区块链应用总体设计', 'geography': '成都-金牛区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129599497.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '山东德尔智能数码股份有限公司', 'job_name': 'app开发工程师', 'geography': '烟台', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/yantai/124436575.html?rc=03'}

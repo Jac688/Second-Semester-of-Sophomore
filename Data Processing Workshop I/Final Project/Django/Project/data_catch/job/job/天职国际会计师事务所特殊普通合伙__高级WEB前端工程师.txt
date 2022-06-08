@@ -1,0 +1,1 @@
+{'company_name': '天职国际会计师事务所特殊普通合伙', 'job_name': '高级WEB前端工程师', 'geography': '杭州', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/110488153.html?rc=03'}

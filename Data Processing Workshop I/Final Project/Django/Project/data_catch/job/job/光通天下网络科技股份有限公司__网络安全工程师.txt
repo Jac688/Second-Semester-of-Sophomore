@@ -1,0 +1,1 @@
+{'company_name': '光通天下网络科技股份有限公司', 'job_name': '网络安全工程师', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '员工旅游', '定期体检', '补充医疗保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130475114.html?rc=03'}

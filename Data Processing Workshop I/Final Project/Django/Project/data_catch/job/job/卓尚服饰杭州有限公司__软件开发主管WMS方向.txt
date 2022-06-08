@@ -1,0 +1,1 @@
+{'company_name': '卓尚服饰杭州有限公司', 'job_name': '软件开发主管WMS方向', 'geography': '杭州-江干区', 'bonus': ['包住宿', '绩效奖金', '节日福利', '餐饮补贴'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128094921.html?rc=03'}

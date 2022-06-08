@@ -1,0 +1,1 @@
+{'company_name': '东莞德龙健伍电器有限公司', 'job_name': '嵌入式软件工程师', 'geography': '东莞-清溪镇', 'bonus': ['五险一金', '免费体检', '包食宿', '五天八小时'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/129101996.html?rc=03'}

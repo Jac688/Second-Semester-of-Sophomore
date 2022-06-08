@@ -1,0 +1,1 @@
+{'company_name': '广州慧用车信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-越秀区', 'bonus': ['五险一金', '周末双休', '法定假期', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129998865.html?rc=03'}

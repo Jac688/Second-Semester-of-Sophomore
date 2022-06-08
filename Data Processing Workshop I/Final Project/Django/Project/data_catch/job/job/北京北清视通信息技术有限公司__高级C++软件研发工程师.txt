@@ -1,0 +1,1 @@
+{'company_name': '北京北清视通信息技术有限公司', 'job_name': '高级C++软件研发工程师', 'geography': '北京-昌平区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/104304949.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东长青集团股份有限公司', 'job_name': '系统运维工程师', 'geography': '中山', 'bonus': ['五险一金', '绩效奖金', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/132277808.html?rc=03'}

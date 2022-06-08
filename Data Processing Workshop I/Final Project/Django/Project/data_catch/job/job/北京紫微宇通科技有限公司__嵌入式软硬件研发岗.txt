@@ -1,0 +1,1 @@
+{'company_name': '北京紫微宇通科技有限公司', 'job_name': '嵌入式软硬件研发岗', 'geography': '北京-海淀区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126086138.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '国网思极网安科技北京有限公司', 'job_name': 'Linux C C++ 高级研发工程师', 'geography': '北京-昌平区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/119641633.html?rc=03'}

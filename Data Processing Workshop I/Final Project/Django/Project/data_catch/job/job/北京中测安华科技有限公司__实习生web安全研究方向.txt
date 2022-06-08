@@ -1,0 +1,1 @@
+{'company_name': '北京中测安华科技有限公司', 'job_name': '实习生web安全研究方向', 'geography': '北京-海淀区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '年终奖金'], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124444024.html?rc=03'}

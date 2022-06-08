@@ -1,0 +1,1 @@
+{'company_name': 'Polestar China', 'job_name': '物联网应用工程师IOT', 'geography': '重庆', 'bonus': ['做五休二', '补充医疗保险', '补充公积金', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/127179341.html?rc=03'}

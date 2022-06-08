@@ -1,0 +1,1 @@
+{'company_name': '宁波双林汽车部件股份有限公司', 'job_name': '采购分析主管', 'geography': '上海-青浦区', 'bonus': ['做五休二', '五险一金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126406055.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海寅诺实业有限公司', 'job_name': '前端开发工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130619285.html?rc=03'}

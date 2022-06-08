@@ -1,0 +1,1 @@
+{'company_name': '广州市海格洛科技有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '双休', '员工福利齐全', '年终奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/114726587.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京北方新宇信息技术有限公司', 'job_name': '对日高级软件工程师', 'geography': '济南-高新区', 'bonus': ['员工旅游', '出国机会', '年终奖金', '定期体检'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/109493645.html?rc=03'}

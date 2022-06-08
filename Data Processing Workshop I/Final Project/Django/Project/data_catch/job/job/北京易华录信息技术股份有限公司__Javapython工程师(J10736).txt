@@ -1,0 +1,1 @@
+{'company_name': '北京易华录信息技术股份有限公司', 'job_name': 'Javapython工程师(J10736)', 'geography': '无锡-梁溪区', 'bonus': ['包吃', '包住', '社保'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/130653217.html?rc=03'}

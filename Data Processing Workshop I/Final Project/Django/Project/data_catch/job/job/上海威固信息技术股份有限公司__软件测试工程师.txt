@@ -1,0 +1,1 @@
+{'company_name': '上海威固信息技术股份有限公司', 'job_name': '软件测试工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '年终奖金', '专业培训', '做五休二'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126512062.html?rc=03'}

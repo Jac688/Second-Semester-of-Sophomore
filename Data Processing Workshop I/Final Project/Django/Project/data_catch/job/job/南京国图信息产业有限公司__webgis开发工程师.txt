@@ -1,0 +1,1 @@
+{'company_name': '南京国图信息产业有限公司', 'job_name': 'webgis开发工程师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/112347221.html?rc=03'}

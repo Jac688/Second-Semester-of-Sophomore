@@ -1,0 +1,1 @@
+{'company_name': '广东诚安信会计师事务所有限公司东莞分所', 'job_name': 'QT软件工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130514780.html?rc=03'}

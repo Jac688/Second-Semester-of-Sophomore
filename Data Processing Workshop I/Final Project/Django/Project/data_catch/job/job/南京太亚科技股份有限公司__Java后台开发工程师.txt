@@ -1,0 +1,1 @@
+{'company_name': '南京太亚科技股份有限公司', 'job_name': 'Java后台开发工程师', 'geography': '南京-江北新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130574307.html?rc=03'}

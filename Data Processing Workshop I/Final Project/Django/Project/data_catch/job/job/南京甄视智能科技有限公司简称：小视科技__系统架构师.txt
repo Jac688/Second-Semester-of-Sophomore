@@ -1,0 +1,1 @@
+{'company_name': '南京甄视智能科技有限公司简称：小视科技', 'job_name': '系统架构师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '交通补贴', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128372497.html?rc=03'}

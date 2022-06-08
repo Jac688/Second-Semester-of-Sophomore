@@ -1,0 +1,1 @@
+{'company_name': '上海灵动微电子股份有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海-浦东新区', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131346454.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '华鑫证券有限责任公司', 'job_name': '开发工程师', 'geography': '上海-徐汇区', 'bonus': ['周末双休', '五险一金', '餐饮补贴', '住房补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132336869.html?rc=03'}

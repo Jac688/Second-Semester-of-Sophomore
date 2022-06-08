@@ -1,0 +1,1 @@
+{'company_name': '四川华控图形科技有限公司', 'job_name': '初级软件开发工程师C++', 'geography': '成都-成华区', 'bonus': ['五险一金', '定期体检', '专业培训', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/50905969.html?rc=03'}

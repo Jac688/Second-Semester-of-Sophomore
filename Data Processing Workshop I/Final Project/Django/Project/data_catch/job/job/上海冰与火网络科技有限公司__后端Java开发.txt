@@ -1,0 +1,1 @@
+{'company_name': '上海冰与火网络科技有限公司', 'job_name': '后端Java开发', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充公积金', '员工旅游', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131260846.html?rc=03'}

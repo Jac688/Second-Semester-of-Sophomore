@@ -1,0 +1,1 @@
+{'company_name': '宁波市象雄贸易有限公司', 'job_name': '软件开发工程师后端', 'geography': '宁波-江北区', 'bonus': ['绩效奖金', '带薪年假', '年终奖金', '周末双休'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128715808.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '万灵帮桥医疗器械广州有限责任公司', 'job_name': '嵌入式软件工程师', 'geography': '广州-越秀区', 'bonus': ['周末双休', '五险一金', '带薪年假', '全勤奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130842349.html?rc=03'}

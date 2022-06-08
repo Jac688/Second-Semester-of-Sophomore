@@ -1,0 +1,1 @@
+{'company_name': '多彩贵州印象网络传媒股份有限公司', 'job_name': 'PHP程序工程师', 'geography': '毕节', 'bonus': ['餐饮补贴', '五险一金', '年终奖金', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/bijie/130254289.html?rc=03'}

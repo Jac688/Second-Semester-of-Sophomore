@@ -1,0 +1,1 @@
+{'company_name': '北京中公教育科技有限公司', 'job_name': 'IT培训老师', 'geography': '四川省', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/sichuansheng/120079767.html?rc=03'}

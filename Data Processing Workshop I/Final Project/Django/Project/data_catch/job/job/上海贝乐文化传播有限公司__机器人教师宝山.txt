@@ -1,0 +1,1 @@
+{'company_name': '上海贝乐文化传播有限公司', 'job_name': '机器人教师宝山', 'geography': '上海-宝山区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131073213.html?rc=03'}

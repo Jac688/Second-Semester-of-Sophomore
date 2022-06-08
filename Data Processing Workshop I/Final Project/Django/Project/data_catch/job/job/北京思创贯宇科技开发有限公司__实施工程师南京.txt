@@ -1,0 +1,1 @@
+{'company_name': '北京思创贯宇科技开发有限公司', 'job_name': '实施工程师南京', 'geography': '南京', 'bonus': ['五险一金', '专业培训', '绩效奖金', '弹性工作'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/118627901.html?rc=03'}

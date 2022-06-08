@@ -1,0 +1,1 @@
+{'company_name': '德阳科贸职业学院', 'job_name': '软件教师Java方向-急聘', 'geography': '异地招聘', 'bonus': ['免费班车', '包住宿', '包吃', '弹性工作'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/122877191.html?rc=03'}

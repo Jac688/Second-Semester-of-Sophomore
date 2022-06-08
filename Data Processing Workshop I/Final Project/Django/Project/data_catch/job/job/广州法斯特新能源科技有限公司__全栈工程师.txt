@@ -1,0 +1,1 @@
+{'company_name': '广州法斯特新能源科技有限公司', 'job_name': '全栈工程师', 'geography': '广州', 'bonus': ['绩效奖金', '节日福利', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129278115.html?rc=03'}

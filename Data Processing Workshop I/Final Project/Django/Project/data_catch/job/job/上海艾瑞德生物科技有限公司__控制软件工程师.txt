@@ -1,0 +1,1 @@
+{'company_name': '上海艾瑞德生物科技有限公司', 'job_name': '控制软件工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '专业培训', '免费班车', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/93852631.html?rc=03'}

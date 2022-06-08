@@ -1,0 +1,1 @@
+{'company_name': '天津卓信软件开发有限公司', 'job_name': 'Java中级开发工程师', 'geography': '天津-和平区', 'bonus': ['五险一金', '餐饮补贴', '带薪年假', '节日福利'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/116253771.html?rc=03'}

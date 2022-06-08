@@ -1,0 +1,1 @@
+{'company_name': '志成凌云北京科技有限公司', 'job_name': 'C++开发工程师', 'geography': '武汉-武昌区', 'bonus': ['做五休二', '周末双休', '弹性工作', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/124198551.html?rc=03'}

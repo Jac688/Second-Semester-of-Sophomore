@@ -1,0 +1,1 @@
+{'company_name': '上海唯那生物科技有限公司', 'job_name': 'IT信息部经理PHP、Java后端开发部经理', 'geography': '上海-奉贤区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '专业培训'], 'salary': 1.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131262273.html?rc=03'}

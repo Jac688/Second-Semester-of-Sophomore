@@ -1,0 +1,1 @@
+{'company_name': '上海海豚企业征信服务有限公司', 'job_name': 'Java开发工程师', 'geography': '杭州-西湖区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/123904936.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '安通纳斯设备制造苏州有限公司', 'job_name': '软件工程师', 'geography': '苏州', 'bonus': ['做五休二', '带薪年假', '五险一金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130364787.html?rc=03'}

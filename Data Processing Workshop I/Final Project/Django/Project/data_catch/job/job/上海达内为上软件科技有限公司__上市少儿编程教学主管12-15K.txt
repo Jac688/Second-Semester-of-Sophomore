@@ -1,0 +1,1 @@
+{'company_name': '上海达内为上软件科技有限公司', 'job_name': '上市少儿编程教学主管12-15K', 'geography': '成都', 'bonus': ['五险一金', '专业培训', '餐饮补贴', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131336650.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海新前端奕天科技有限公司', 'job_name': '初级软件开发工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '通讯补贴', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130611697.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东铭泰集团有限公司', 'job_name': 'Java开发工程师深圳龙岗', 'geography': '深圳-龙岗区', 'bonus': ['弹性工作', '定期体检', '绩效奖金', '餐补'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129805242.html?rc=03'}

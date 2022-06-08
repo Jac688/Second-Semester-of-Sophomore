@@ -1,0 +1,1 @@
+{'company_name': '上海清鹤科技股份有限公司', 'job_name': 'Python开发工程师北京', 'geography': '北京', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129548883.html?rc=03'}

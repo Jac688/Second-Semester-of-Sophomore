@@ -1,0 +1,1 @@
+{'company_name': '博睿康科技常州股份有限公司', 'job_name': '系统测试工程师', 'geography': '北京-海淀区', 'bonus': ['做五休二', '五险一金', '周末双休', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123791332.html?rc=03'}

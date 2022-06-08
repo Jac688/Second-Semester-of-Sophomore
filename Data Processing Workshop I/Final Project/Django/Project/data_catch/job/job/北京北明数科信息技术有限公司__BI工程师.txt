@@ -1,0 +1,1 @@
+{'company_name': '北京北明数科信息技术有限公司', 'job_name': 'BI工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131540150.html?rc=03'}

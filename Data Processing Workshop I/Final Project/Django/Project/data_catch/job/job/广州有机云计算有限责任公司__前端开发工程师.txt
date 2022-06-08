@@ -1,0 +1,1 @@
+{'company_name': '广州有机云计算有限责任公司', 'job_name': '前端开发工程师', 'geography': '广州-番禺区', 'bonus': ['五险一金', '提成', '绩效奖金', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127244169.html?rc=03'}

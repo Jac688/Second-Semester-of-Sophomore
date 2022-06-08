@@ -1,0 +1,1 @@
+{'company_name': '广东泽银体育文化传播有限公司', 'job_name': 'PHP技术人员', 'geography': '佛山-顺德区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131484971.html?rc=03'}

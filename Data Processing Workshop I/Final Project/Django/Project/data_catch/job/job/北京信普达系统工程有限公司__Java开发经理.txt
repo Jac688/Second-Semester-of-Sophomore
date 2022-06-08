@@ -1,0 +1,1 @@
+{'company_name': '北京信普达系统工程有限公司', 'job_name': 'Java开发经理', 'geography': '北京', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128112950.html?rc=03'}

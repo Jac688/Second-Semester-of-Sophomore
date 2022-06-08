@@ -1,0 +1,1 @@
+{'company_name': '四川省科学城新方舟安防科技有限责任公司', 'job_name': 'Excel专家', 'geography': '成都-高新区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131473791.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海市建筑科学研究院', 'job_name': '软件研发工程师数据集成', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充公积金', '补充医疗保险', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130249769.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '复旦大学类脑研究院', 'job_name': '云平台开发工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '专业培训', '年终奖金', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126448330.html?rc=03'}

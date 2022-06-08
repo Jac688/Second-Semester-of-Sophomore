@@ -1,0 +1,1 @@
+{'company_name': '中国联合网络通信有限公司广东省分公司', 'job_name': '中级数据研发分析岗', 'geography': '广州-天河区', 'bonus': ['五险一金', '补充医疗保险', '重疾保险', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130938587.html?rc=03'}

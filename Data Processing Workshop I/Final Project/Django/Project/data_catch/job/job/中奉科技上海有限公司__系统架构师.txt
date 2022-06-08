@@ -1,0 +1,1 @@
+{'company_name': '中奉科技上海有限公司', 'job_name': '系统架构师', 'geography': '上海-奉贤区', 'bonus': ['五险一金', '免费班车', '员工旅游', '住宿'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132057332.html?rc=03'}

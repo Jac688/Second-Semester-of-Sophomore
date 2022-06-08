@@ -1,0 +1,1 @@
+{'company_name': '北京伟力新世纪科技发展股份有限公司', 'job_name': '研发经理(嵌入式开发方向)', 'geography': '北京-海淀区', 'bonus': ['带薪年假', '五险一金', '包吃', '通讯补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128509611.html?rc=03'}

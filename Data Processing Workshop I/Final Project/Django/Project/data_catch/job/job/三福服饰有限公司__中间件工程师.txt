@@ -1,0 +1,1 @@
+{'company_name': '三福服饰有限公司', 'job_name': '中间件工程师', 'geography': '福州-鼓楼区', 'bonus': ['五险一金', '员工旅游', '员工宿舍', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/129624600.html?rc=03'}

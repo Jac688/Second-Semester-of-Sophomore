@@ -1,0 +1,1 @@
+{'company_name': '凡方数码技术有限公司', 'job_name': 'C++开发工程师', 'geography': '深圳-福田区', 'bonus': ['周末双休', '带薪年假', '五险一金', '包吃'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130884364.html?rc=03'}

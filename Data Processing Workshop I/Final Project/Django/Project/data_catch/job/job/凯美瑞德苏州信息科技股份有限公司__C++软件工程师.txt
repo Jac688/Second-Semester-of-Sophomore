@@ -1,0 +1,1 @@
+{'company_name': '凯美瑞德苏州信息科技股份有限公司', 'job_name': 'C++软件工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '绩效奖金', '股票期权', '员工旅游'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125918618.html?rc=03'}

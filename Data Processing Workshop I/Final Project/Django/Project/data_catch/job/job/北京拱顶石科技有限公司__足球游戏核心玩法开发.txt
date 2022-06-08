@@ -1,0 +1,1 @@
+{'company_name': '北京拱顶石科技有限公司', 'job_name': '足球游戏核心玩法开发', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130117599.html?rc=03'}

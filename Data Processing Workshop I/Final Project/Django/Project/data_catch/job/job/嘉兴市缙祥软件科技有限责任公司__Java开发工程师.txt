@@ -1,0 +1,1 @@
+{'company_name': '嘉兴市缙祥软件科技有限责任公司', 'job_name': 'Java开发工程师', 'geography': '嘉兴', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '专业培训'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/123478976.html?rc=03'}

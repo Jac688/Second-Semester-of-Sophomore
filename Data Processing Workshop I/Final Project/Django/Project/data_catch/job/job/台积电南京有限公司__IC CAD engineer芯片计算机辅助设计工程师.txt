@@ -1,0 +1,1 @@
+{'company_name': '台积电南京有限公司', 'job_name': 'IC CAD engineer芯片计算机辅助设计工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '员工旅游'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/117315924.html?rc=03'}

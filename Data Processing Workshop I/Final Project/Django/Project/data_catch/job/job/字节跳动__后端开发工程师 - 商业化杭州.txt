@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后端开发工程师 - 商业化杭州', 'geography': '杭州', 'bonus': ['扁平管理', '用户过亿', '六险一金', '大牛带队'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/126963535.html?rc=03'}

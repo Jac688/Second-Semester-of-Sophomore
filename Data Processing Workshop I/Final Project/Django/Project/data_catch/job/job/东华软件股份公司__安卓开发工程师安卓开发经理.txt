@@ -1,0 +1,1 @@
+{'company_name': '东华软件股份公司', 'job_name': '安卓开发工程师安卓开发经理', 'geography': '青岛-崂山区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/130645608.html?rc=03'}

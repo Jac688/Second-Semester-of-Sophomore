@@ -1,0 +1,1 @@
+{'company_name': '四川咪嘛网络科技有限公司', 'job_name': '平台开发部经理年薪18-22万', 'geography': '成都', 'bonus': ['弹性工作', '带薪年假', '五险一金', '节日福利'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132272555.html?rc=03'}

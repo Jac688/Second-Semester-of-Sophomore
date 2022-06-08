@@ -1,0 +1,1 @@
+{'company_name': '四川九洲投资控股集团有限公司', 'job_name': 'C++开发工程师(北京)', 'geography': '异地招聘', 'bonus': ['交通补贴', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132275159.html?rc=03'}

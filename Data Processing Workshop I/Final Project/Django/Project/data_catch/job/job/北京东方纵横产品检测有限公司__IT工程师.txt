@@ -1,0 +1,1 @@
+{'company_name': '北京东方纵横产品检测有限公司', 'job_name': 'IT工程师', 'geography': '北京-通州区', 'bonus': ['免费班车', '员工旅游', '交通补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130175178.html?rc=03'}

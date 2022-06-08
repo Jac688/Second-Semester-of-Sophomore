@@ -1,0 +1,1 @@
+{'company_name': '北京中科泛华测控技术有限公司', 'job_name': '应用工程师开发工程师LabVIEW', 'geography': '北京-海淀区', 'bonus': ['五险一金', '周末双休', '绩效奖金', '出差补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124974843.html?rc=03'}

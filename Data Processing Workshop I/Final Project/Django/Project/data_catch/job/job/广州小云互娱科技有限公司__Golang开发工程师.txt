@@ -1,0 +1,1 @@
+{'company_name': '广州小云互娱科技有限公司', 'job_name': 'Golang开发工程师', 'geography': '广州-天河区', 'bonus': ['弹性工作', '绩效奖金', '节日福利', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/121960866.html?rc=03'}

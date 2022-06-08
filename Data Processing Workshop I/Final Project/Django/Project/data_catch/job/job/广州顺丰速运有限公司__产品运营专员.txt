@@ -1,0 +1,1 @@
+{'company_name': '广州顺丰速运有限公司', 'job_name': '产品运营专员', 'geography': '广州-越秀区', 'bonus': ['免费培训', '五险齐全', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130135179.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'NIO蔚来', 'job_name': '测试开发工程师', 'geography': '北京-东城区', 'bonus': ['五险一金', '专业培训', '免费班车', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131584251.html?rc=03'}

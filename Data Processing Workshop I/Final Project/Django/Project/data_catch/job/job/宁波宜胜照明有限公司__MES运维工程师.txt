@@ -1,0 +1,1 @@
+{'company_name': '宁波宜胜照明有限公司', 'job_name': 'MES运维工程师', 'geography': '宁波', 'bonus': ['绩效奖金', '年终奖金', '员工旅游', '免费班车'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/121073808.html?rc=03'}

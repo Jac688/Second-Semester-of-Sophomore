@@ -1,0 +1,1 @@
+{'company_name': '上海安玛思科技有限公司', 'job_name': '物联网后台高级工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '交通补贴', '员工旅游', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124905615.html?rc=03'}

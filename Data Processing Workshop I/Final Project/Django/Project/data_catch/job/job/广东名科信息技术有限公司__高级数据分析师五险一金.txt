@@ -1,0 +1,1 @@
+{'company_name': '广东名科信息技术有限公司', 'job_name': '高级数据分析师五险一金', 'geography': '广州', 'bonus': ['五险一金', '免费健身房', '周末双休', '节日福利'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124037607.html?rc=03'}

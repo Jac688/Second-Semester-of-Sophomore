@@ -1,0 +1,1 @@
+{'company_name': '上海合杰人才服务有限公司', 'job_name': '尚诚金融-运维监控室值班岗 (MJ000462)', 'geography': '上海-长宁区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132210037.html?rc=03'}

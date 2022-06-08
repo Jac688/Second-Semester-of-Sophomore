@@ -1,0 +1,1 @@
+{'company_name': '大连同方软银科技股份有限公司', 'job_name': 'JavaC开发工程师天津', 'geography': '天津-河北区', 'bonus': ['意外伤害险', '餐饮补贴', '年终奖金', '股票期权'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/124356312.html?rc=03'}

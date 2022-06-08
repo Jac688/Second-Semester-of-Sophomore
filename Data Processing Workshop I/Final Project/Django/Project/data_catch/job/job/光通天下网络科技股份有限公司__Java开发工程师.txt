@@ -1,0 +1,1 @@
+{'company_name': '光通天下网络科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/121059946.html?rc=03'}

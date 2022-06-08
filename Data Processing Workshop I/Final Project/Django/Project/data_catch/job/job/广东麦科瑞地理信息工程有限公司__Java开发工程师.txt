@@ -1,0 +1,1 @@
+{'company_name': '广东麦科瑞地理信息工程有限公司', 'job_name': 'Java开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129055234.html?rc=03'}

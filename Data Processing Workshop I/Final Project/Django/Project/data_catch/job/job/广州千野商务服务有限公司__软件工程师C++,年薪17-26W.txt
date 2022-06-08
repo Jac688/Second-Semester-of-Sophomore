@@ -1,0 +1,1 @@
+{'company_name': '广州千野商务服务有限公司', 'job_name': '软件工程师C++,年薪17-26W', 'geography': '上海', 'bonus': ['五险一金', '周末双休', '员工旅游', '年终奖金'], 'salary': 1.42, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130077313.html?rc=03'}

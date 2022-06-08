@@ -1,0 +1,1 @@
+{'company_name': '上海速擎软件有限公司', 'job_name': '运维工程师CMDB', 'geography': '上海', 'bonus': ['五险一金', '专业培训', '节日福利', '晋升空间'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130425060.html?rc=03'}

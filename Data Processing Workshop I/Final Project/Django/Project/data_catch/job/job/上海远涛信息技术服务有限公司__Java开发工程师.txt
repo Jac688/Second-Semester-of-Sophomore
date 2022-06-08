@@ -1,0 +1,1 @@
+{'company_name': '上海远涛信息技术服务有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-丰台区', 'bonus': ['五险一金', '员工旅游', '节日福利', '专业培训'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131974412.html?rc=03'}

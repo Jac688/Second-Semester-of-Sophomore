@@ -1,0 +1,1 @@
+{'company_name': '云教北京科技有限公司', 'job_name': 'JAVA WEB软件工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131233092.html?rc=03'}

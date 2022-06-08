@@ -1,0 +1,1 @@
+{'company_name': '三星数据系统中国有限公司', 'job_name': 'WEB维护开发工程师天津滨海', 'geography': '天津-滨海新区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/122847987.html?rc=03'}

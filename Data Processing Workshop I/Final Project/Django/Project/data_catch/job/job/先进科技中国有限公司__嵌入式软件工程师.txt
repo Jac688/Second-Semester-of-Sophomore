@@ -1,0 +1,1 @@
+{'company_name': '先进科技中国有限公司', 'job_name': '嵌入式软件工程师', 'geography': '成都-高新区', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/64100303.html?rc=03'}

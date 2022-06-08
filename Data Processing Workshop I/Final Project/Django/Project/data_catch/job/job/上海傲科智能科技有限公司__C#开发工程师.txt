@@ -1,0 +1,1 @@
+{'company_name': '上海傲科智能科技有限公司', 'job_name': 'C#开发工程师', 'geography': '上海-普陀区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126850480.html?rc=03'}

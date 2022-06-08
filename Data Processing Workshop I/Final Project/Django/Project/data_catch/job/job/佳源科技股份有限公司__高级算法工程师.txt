@@ -1,0 +1,1 @@
+{'company_name': '佳源科技股份有限公司', 'job_name': '高级算法工程师', 'geography': '南京-雨花台区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130953531.html?rc=03'}

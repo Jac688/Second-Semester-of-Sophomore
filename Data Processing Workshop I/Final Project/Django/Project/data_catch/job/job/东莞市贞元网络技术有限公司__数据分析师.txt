@@ -1,0 +1,1 @@
+{'company_name': '东莞市贞元网络技术有限公司', 'job_name': '数据分析师', 'geography': '东莞-南城区', 'bonus': ['带薪年假', '绩效奖金', '节日福利', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131642696.html?rc=03'}

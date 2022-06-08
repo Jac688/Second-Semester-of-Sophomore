@@ -1,0 +1,1 @@
+{'company_name': '北京政星企业管理有限公司', 'job_name': '8-12k大数据分析师可培养', 'geography': '北京-丰台区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124654973.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南威软件集团', 'job_name': 'Java软件工程师', 'geography': '北京-丰台区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131521822.html?rc=03'}

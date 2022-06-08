@@ -1,0 +1,1 @@
+{'company_name': '世码特北京科技有限公司', 'job_name': '网站开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126994781.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海南芯半导体科技有限公司', 'job_name': '芯片测试工程师', 'geography': '成都-武侯区', 'bonus': ['弹性工作', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124254052.html?rc=03'}

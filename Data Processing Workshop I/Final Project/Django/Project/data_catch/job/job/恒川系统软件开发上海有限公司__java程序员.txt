@@ -1,0 +1,1 @@
+{'company_name': '恒川系统软件开发上海有限公司', 'job_name': 'java程序员', 'geography': '上海-静安区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/64296438.html?rc=03'}

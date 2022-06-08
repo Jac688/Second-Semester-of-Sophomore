@@ -1,0 +1,1 @@
+{'company_name': '上海仁东医学检验所有限公司', 'job_name': 'Java后台开发工程师', 'geography': '上海', 'bonus': ['五险一金', '通讯补贴', '交通补贴', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124661153.html?rc=03'}

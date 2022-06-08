@@ -1,0 +1,1 @@
+{'company_name': '嘉善万顺达电子有限公司', 'job_name': '软体工程师', 'geography': '嘉兴', 'bonus': ['周末双休', '弹性工作', '带薪年假', '五险一金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/130395660.html?rc=03'}

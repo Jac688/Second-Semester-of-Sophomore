@@ -1,0 +1,1 @@
+{'company_name': '埃地沃兹真空泵制造青岛有限公司', 'job_name': 'Manufacturing Engineer - CNC process', 'geography': '青岛-城阳区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/124101321.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '山大地纬软件股份有限公司', 'job_name': '运维工程师-镇江', 'geography': '异地招聘', 'bonus': ['五险一金', '通讯补贴', '绩效奖金', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130895917.html?rc=03'}

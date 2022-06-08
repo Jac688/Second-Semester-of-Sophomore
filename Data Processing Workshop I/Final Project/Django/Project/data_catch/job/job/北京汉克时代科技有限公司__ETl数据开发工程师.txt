@@ -1,0 +1,1 @@
+{'company_name': '北京汉克时代科技有限公司', 'job_name': 'ETl数据开发工程师', 'geography': '成都-锦江区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126772356.html?rc=03'}

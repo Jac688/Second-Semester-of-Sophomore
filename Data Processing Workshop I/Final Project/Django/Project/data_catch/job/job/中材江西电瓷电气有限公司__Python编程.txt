@@ -1,0 +1,1 @@
+{'company_name': '中材江西电瓷电气有限公司', 'job_name': 'Python编程', 'geography': '萍乡', 'bonus': ['五险一金', '专业培训', '年终奖金', '免费班车'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/pingxiang/121439617.html?rc=03'}

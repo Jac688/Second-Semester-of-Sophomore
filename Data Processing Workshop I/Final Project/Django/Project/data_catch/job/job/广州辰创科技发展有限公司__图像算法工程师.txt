@@ -1,0 +1,1 @@
+{'company_name': '广州辰创科技发展有限公司', 'job_name': '图像算法工程师', 'geography': '北京-丰台区', 'bonus': ['五险一金', '绩效奖金', '周末双休', '全勤奖'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131459767.html?rc=03'}

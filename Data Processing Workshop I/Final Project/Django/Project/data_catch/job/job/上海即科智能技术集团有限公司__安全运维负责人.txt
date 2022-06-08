@@ -1,0 +1,1 @@
+{'company_name': '上海即科智能技术集团有限公司', 'job_name': '安全运维负责人', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119465140.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海济物光电技术有限公司', 'job_name': '软件工程师', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '年终奖金'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126289115.html?rc=03'}

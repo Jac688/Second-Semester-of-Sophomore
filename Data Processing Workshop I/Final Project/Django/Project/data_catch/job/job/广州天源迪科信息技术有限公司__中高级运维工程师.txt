@@ -1,0 +1,1 @@
+{'company_name': '广州天源迪科信息技术有限公司', 'job_name': '中高级运维工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125785216.html?rc=03'}

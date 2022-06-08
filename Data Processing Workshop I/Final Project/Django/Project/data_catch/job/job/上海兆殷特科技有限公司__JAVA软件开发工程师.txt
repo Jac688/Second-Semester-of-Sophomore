@@ -1,0 +1,1 @@
+{'company_name': '上海兆殷特科技有限公司', 'job_name': 'JAVA软件开发工程师', 'geography': '深圳', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '固定底薪'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125594867.html?rc=03'}

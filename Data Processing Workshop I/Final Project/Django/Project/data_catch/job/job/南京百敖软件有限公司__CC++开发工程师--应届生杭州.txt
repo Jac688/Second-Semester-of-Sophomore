@@ -1,0 +1,1 @@
+{'company_name': '南京百敖软件有限公司', 'job_name': 'CC++开发工程师--应届生杭州', 'geography': '杭州-滨江区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/126855149.html?rc=03'}

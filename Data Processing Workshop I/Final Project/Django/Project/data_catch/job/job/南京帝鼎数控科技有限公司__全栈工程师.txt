@@ -1,0 +1,1 @@
+{'company_name': '南京帝鼎数控科技有限公司', 'job_name': '全栈工程师', 'geography': '南京', 'bonus': ['年终奖金', '通讯补贴', '绩效奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131087415.html?rc=03'}

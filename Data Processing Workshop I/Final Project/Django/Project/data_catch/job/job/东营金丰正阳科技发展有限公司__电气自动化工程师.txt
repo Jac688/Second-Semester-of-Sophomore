@@ -1,0 +1,1 @@
+{'company_name': '东营金丰正阳科技发展有限公司', 'job_name': '电气自动化工程师', 'geography': '北京-朝阳区', 'bonus': ['年终奖金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130440955.html?rc=03'}

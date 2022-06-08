@@ -1,0 +1,1 @@
+{'company_name': '国研科技集团有限公司', 'job_name': '爬虫工程师高级', 'geography': '北京-东城区', 'bonus': ['待遇面议'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129714426.html?rc=03'}

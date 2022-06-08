@@ -1,0 +1,1 @@
+{'company_name': '广西瀚特信息产业股份有限公司', 'job_name': '软件开发工程师', 'geography': '桂林', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guilin/103306838.html?rc=03'}

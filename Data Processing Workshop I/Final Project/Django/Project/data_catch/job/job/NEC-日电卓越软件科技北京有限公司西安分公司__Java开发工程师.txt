@@ -1,0 +1,1 @@
+{'company_name': 'NEC-日电卓越软件科技北京有限公司西安分公司', 'job_name': 'Java开发工程师', 'geography': '西安-高新技术产业开发区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/xian/129441350.html?rc=03'}

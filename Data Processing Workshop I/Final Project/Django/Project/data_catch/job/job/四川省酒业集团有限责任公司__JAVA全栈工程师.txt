@@ -1,0 +1,1 @@
+{'company_name': '四川省酒业集团有限责任公司', 'job_name': 'JAVA全栈工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '带薪年假', '通讯补贴', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126719879.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川慧威仕科技有限公司', 'job_name': 'Java开发实习生', 'geography': '成都-高新区', 'bonus': ['专业培训', '良好工作氛围'], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132290249.html?rc=03'}

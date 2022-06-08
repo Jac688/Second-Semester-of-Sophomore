@@ -1,0 +1,1 @@
+{'company_name': '北京思汇达电力科技有限公司', 'job_name': '研发人员', 'geography': '北京-密云区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/118607378.html?rc=03'}

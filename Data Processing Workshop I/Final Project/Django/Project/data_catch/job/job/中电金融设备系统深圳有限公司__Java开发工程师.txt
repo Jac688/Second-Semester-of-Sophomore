@@ -1,0 +1,1 @@
+{'company_name': '中电金融设备系统深圳有限公司', 'job_name': 'Java开发工程师', 'geography': '广州', 'bonus': ['餐饮补贴', '交通补贴', '年终奖金', '住宿补助'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131854608.html?rc=03'}

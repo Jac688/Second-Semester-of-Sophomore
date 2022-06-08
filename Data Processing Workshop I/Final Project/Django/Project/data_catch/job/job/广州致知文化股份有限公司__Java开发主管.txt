@@ -1,0 +1,1 @@
+{'company_name': '广州致知文化股份有限公司', 'job_name': 'Java开发主管', 'geography': '广州-天河区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127705046.html?rc=03'}

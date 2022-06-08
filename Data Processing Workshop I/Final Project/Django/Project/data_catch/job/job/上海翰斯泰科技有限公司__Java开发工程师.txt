@@ -1,0 +1,1 @@
+{'company_name': '上海翰斯泰科技有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132305024.html?rc=03'}

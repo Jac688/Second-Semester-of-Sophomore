@@ -1,0 +1,1 @@
+{'company_name': '交通银行信用卡中心', 'job_name': '高级风险分析师', 'geography': '上海', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/112851450.html?rc=03'}

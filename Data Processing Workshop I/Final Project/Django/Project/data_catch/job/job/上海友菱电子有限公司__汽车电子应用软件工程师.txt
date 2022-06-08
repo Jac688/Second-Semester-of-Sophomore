@@ -1,0 +1,1 @@
+{'company_name': '上海友菱电子有限公司', 'job_name': '汽车电子应用软件工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/92300868.html?rc=03'}

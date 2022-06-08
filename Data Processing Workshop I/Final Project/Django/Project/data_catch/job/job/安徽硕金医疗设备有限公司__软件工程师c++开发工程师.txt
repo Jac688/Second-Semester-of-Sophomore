@@ -1,0 +1,1 @@
+{'company_name': '安徽硕金医疗设备有限公司', 'job_name': '软件工程师c++开发工程师', 'geography': '异地招聘', 'bonus': ['周末双休', '五险一金', '绩效奖金', '加班补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127925755.html?rc=03'}

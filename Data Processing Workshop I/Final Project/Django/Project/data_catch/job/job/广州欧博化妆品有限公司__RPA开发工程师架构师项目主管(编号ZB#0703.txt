@@ -1,0 +1,1 @@
+{'company_name': '广州欧博化妆品有限公司', 'job_name': 'RPA开发工程师架构师项目主管(编号ZB#0703', 'geography': '广州-白云区', 'bonus': ['丰富的中晚餐', '专业培训', '包吃'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123392751.html?rc=03'}

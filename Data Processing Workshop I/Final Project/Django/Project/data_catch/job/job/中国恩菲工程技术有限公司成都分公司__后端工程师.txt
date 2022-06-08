@@ -1,0 +1,1 @@
+{'company_name': '中国恩菲工程技术有限公司成都分公司', 'job_name': '后端工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129614030.html?rc=03'}

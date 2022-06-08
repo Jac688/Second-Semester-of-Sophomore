@@ -1,0 +1,1 @@
+{'company_name': '北京数字认证股份有限公司', 'job_name': '实施工程师-重庆', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/119885622.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海协凌人力资源服务有限公司合肥分公司', 'job_name': '某知名互联网金融公司', 'geography': '上海-徐汇区', 'bonus': ['年终奖金', '交通补贴', '带薪年假', '免费班车'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130519135.html?rc=03'}

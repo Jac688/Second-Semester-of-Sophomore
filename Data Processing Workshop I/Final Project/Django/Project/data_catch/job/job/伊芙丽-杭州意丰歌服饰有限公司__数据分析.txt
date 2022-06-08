@@ -1,0 +1,1 @@
+{'company_name': '伊芙丽-杭州意丰歌服饰有限公司', 'job_name': '数据分析', 'geography': '杭州', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '年终奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129157259.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京国网富达科技发展有限责任公司', 'job_name': 'MES产品经理', 'geography': '济南', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130729398.html?rc=03'}

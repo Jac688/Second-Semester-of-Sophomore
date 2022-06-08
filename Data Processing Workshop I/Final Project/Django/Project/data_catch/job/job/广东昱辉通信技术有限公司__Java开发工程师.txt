@@ -1,0 +1,1 @@
+{'company_name': '广东昱辉通信技术有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-天河区', 'bonus': ['绩效奖金', '节假日福利', '团队活动', '五险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126191411.html?rc=03'}

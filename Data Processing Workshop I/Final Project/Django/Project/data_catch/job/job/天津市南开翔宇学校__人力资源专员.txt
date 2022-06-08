@@ -1,0 +1,1 @@
+{'company_name': '天津市南开翔宇学校', 'job_name': '人力资源专员', 'geography': '天津-河西区', 'bonus': ['五险一金', '补充公积金', '餐饮补贴', '定期体检'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128166088.html?rc=03'}

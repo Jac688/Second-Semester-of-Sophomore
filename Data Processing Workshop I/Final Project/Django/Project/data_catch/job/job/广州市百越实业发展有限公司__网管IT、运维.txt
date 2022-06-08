@@ -1,0 +1,1 @@
+{'company_name': '广州市百越实业发展有限公司', 'job_name': '网管IT、运维', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '年终奖金', '带薪年假'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/130192630.html?rc=03'}

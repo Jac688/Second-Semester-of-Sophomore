@@ -1,0 +1,1 @@
+{'company_name': '南京悦爱电子商务有限公司', 'job_name': '数据分析师', 'geography': '南京-雨花台区', 'bonus': ['带薪年假', '包住宿', '绩效奖金', '全勤奖'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132308723.html?rc=03'}

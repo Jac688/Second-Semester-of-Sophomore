@@ -1,0 +1,1 @@
+{'company_name': '上海奥意特信息科技有限公司', 'job_name': 'linux运维工程师+熟悉python', 'geography': '上海', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '弹性工作'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131354766.html?rc=03'}

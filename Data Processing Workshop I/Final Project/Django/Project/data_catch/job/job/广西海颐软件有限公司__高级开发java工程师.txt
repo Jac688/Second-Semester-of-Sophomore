@@ -1,0 +1,1 @@
+{'company_name': '广西海颐软件有限公司', 'job_name': '高级开发java工程师', 'geography': '南宁', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanning/125791001.html?rc=03'}

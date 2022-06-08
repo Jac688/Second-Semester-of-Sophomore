@@ -1,0 +1,1 @@
+{'company_name': '宁波金唐软件有限公司', 'job_name': 'Java高级开发工程师', 'geography': '宁波', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125861485.html?rc=03'}

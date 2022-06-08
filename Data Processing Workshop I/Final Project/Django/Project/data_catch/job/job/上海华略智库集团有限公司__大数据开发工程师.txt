@@ -1,0 +1,1 @@
+{'company_name': '上海华略智库集团有限公司', 'job_name': '大数据开发工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '弹性工作'], 'salary': 2.08, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130305351.html?rc=03'}

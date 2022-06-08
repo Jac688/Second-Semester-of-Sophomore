@@ -1,0 +1,1 @@
+{'company_name': '中国惠普有限公司', 'job_name': 'Sales Operation 数据库方向', 'geography': '上海-浦东新区', 'bonus': ['补充公积金', '五险一金', '专业培训', '绩效奖金'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132304627.html?rc=03'}

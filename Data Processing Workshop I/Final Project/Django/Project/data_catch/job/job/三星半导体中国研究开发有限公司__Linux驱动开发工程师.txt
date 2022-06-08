@@ -1,0 +1,1 @@
+{'company_name': '三星半导体中国研究开发有限公司', 'job_name': 'Linux驱动开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '弹性工作', '14天带薪年假', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131891146.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川远邦益安科技有限公司', 'job_name': '算法工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '定期体检', '股票期权', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128398757.html?rc=03'}

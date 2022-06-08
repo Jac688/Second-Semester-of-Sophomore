@@ -1,0 +1,1 @@
+{'company_name': '北京德鑫泉物联网科技股份有限公司', 'job_name': '应用软件工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131516431.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'IBM China', 'job_name': '应用开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132187298.html?rc=03'}

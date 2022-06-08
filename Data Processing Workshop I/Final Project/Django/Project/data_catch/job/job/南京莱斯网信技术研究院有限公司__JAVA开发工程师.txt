@@ -1,0 +1,1 @@
+{'company_name': '南京莱斯网信技术研究院有限公司', 'job_name': 'JAVA开发工程师', 'geography': '南京-秦淮区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131523186.html?rc=03'}

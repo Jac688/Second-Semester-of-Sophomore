@@ -1,0 +1,1 @@
+{'company_name': '兴业数字金融服务上海股份有限公司', 'job_name': 'java工程师', 'geography': '福州-马尾区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/129692729.html?rc=03'}

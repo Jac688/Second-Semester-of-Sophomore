@@ -1,0 +1,1 @@
+{'company_name': '博世上海安保系统有限公司成都高新分公司博世通讯中心', 'job_name': '全栈软件开发工程师人工智能数据科学应用方向)', 'geography': '上海-长宁区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131861768.html?rc=03'}

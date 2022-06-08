@@ -1,0 +1,1 @@
+{'company_name': '佛山电器照明股份有限公司', 'job_name': '上位机软件工程师PCBA生产车间', 'geography': '佛山-禅城区', 'bonus': ['五险一金', '餐饮补贴', '提供食宿', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/foshan/123558501.html?rc=03'}

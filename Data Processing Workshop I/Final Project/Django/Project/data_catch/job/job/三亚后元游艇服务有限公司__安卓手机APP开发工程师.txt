@@ -1,0 +1,1 @@
+{'company_name': '三亚后元游艇服务有限公司', 'job_name': '安卓手机APP开发工程师', 'geography': '三亚', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/sanya/127593866.html?rc=03'}

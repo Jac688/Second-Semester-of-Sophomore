@@ -1,0 +1,1 @@
+{'company_name': '上海璐柯宏(罗格朗)电子有限公司', 'job_name': '嵌入式软件工程师嵌入式固件', 'geography': '上海-闵行区', 'bonus': ['年底双薪', '商业保险', '专业培训', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117024181.html?rc=03'}

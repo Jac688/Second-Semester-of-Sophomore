@@ -1,0 +1,1 @@
+{'company_name': '佳速投资咨询上海有限公司', 'job_name': '爬虫开发工程师Volia', 'geography': '北京-朝阳区', 'bonus': ['弹性工作', '出国机会', '国际团队'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131536118.html?rc=03'}

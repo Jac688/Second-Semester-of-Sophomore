@@ -1,0 +1,1 @@
+{'company_name': '广东中建普联科技股份有限公司', 'job_name': '高级测试工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '节日福利', '周末双休', '项目奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125126103.html?rc=03'}

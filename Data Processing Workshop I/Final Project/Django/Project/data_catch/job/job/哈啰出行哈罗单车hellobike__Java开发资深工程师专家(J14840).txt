@@ -1,0 +1,1 @@
+{'company_name': '哈啰出行哈罗单车hellobike', 'job_name': 'Java开发资深工程师专家(J14840)', 'geography': '上海-闵行区', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130228100.html?rc=03'}

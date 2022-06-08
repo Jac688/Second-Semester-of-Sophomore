@@ -1,0 +1,1 @@
+{'company_name': '广州创必承信息科技有限公司', 'job_name': 'Java开发工程师(周末双休+七险一金)', 'geography': '广州-海珠区', 'bonus': ['五险一金', '绩效奖金', '定期体检', '补充医疗保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131187519.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '建信览智科技北京有限公司', 'job_name': 'OCR算法工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128962851.html?rc=03'}

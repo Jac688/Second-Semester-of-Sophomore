@@ -1,0 +1,1 @@
+{'company_name': '上海临铠信息技术有限公司', 'job_name': '数据分析师', 'geography': '上海-静安区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131505576.html?rc=03'}

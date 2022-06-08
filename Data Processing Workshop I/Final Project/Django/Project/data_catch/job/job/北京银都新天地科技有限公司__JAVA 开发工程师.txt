@@ -1,0 +1,1 @@
+{'company_name': '北京银都新天地科技有限公司', 'job_name': 'JAVA 开发工程师', 'geography': '无锡-滨湖区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/125800831.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '彩迅工业深圳有限公司', 'job_name': 'IT运维工程师', 'geography': '深圳-南山区', 'bonus': ['节日福利', '五险一金', '专业培训', '包吃包住'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128224798.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京令才科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '北京-通州区', 'bonus': [], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131521088.html?rc=03'}

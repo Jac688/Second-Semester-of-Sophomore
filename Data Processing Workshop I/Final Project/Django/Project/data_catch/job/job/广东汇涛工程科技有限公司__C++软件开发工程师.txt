@@ -1,0 +1,1 @@
+{'company_name': '广东汇涛工程科技有限公司', 'job_name': 'C++软件开发工程师', 'geography': '佛山-顺德区', 'bonus': ['社保', '年终奖金', '中秋双薪', '每年出国游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/113361930.html?rc=03'}

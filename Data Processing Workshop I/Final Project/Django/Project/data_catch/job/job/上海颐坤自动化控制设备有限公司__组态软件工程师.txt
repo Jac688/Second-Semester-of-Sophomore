@@ -1,0 +1,1 @@
+{'company_name': '上海颐坤自动化控制设备有限公司', 'job_name': '组态软件工程师', 'geography': '上海-奉贤区', 'bonus': ['五险一金', '餐饮补贴', '专业培训'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/90182287.html?rc=03'}

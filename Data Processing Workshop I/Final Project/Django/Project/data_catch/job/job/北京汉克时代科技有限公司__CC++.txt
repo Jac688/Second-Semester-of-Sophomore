@@ -1,0 +1,1 @@
+{'company_name': '北京汉克时代科技有限公司', 'job_name': 'CC++', 'geography': '北京-顺义区', 'bonus': ['五险一金', '专业培训', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130903412.html?rc=03'}

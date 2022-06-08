@@ -1,0 +1,1 @@
+{'company_name': '中信网络科技股份有限公司', 'job_name': 'H5前端开发工程师-宁波-00605', 'geography': '宁波-江北区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/110168641.html?rc=03'}

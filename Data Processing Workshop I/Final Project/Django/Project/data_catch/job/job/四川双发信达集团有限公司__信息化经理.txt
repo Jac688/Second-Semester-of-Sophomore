@@ -1,0 +1,1 @@
+{'company_name': '四川双发信达集团有限公司', 'job_name': '信息化经理', 'geography': '成都-武侯区', 'bonus': ['节日福利', '餐饮补贴', '包住宿', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131682740.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海英方软件股份有限公司', 'job_name': '初中级JAVA研发大数据容灾备份脱敏灾备', 'geography': '上海-闵行区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130398856.html?rc=03'}

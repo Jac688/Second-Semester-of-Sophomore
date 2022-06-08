@@ -1,0 +1,1 @@
+{'company_name': '丽宝中国贸易有限公司 CHINA RAINBOW INTERNATIONAL TRADING CO., LIMITED', 'job_name': 'C++开发工程师', 'geography': '常州-新北区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/128653803.html?rc=03'}

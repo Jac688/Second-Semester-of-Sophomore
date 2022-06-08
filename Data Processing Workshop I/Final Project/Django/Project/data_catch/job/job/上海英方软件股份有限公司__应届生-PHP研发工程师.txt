@@ -1,0 +1,1 @@
+{'company_name': '上海英方软件股份有限公司', 'job_name': '应届生-PHP研发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '绩效奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130790803.html?rc=03'}

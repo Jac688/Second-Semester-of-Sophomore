@@ -1,0 +1,1 @@
+{'company_name': '中国仪器网', 'job_name': 'PHP开发经理-PHP开发管理(30-45岁,不加班)', 'geography': '上海-浦东新区', 'bonus': ['做五休二', '包住宿'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/111113602.html?rc=03'}

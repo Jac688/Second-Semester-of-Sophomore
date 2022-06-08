@@ -1,0 +1,1 @@
+{'company_name': '克诺尔商用车系统企业管理上海有限公司', 'job_name': 'Software Developer Engineer(Cyber security)', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '交通补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131357105.html?rc=03'}

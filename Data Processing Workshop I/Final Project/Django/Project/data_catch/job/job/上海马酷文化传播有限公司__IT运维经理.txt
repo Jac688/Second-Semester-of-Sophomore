@@ -1,0 +1,1 @@
+{'company_name': '上海马酷文化传播有限公司', 'job_name': 'IT运维经理', 'geography': '上海-黄浦区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132302596.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '成都世纪顶点科技有限公司', 'job_name': 'C++开发工程师', 'geography': '成都', 'bonus': ['补充医疗保险', '购买六险', '年终奖金', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/118312245.html?rc=03'}

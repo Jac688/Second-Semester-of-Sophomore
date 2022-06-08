@@ -1,0 +1,1 @@
+{'company_name': '宁波意恒智能科技有限公司', 'job_name': 'JAVA软件工程师JAVA编程程序员', 'geography': '宁波', 'bonus': ['专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/123164021.html?rc=03'}

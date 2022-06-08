@@ -1,0 +1,1 @@
+{'company_name': '上海欧普泰科技创业股份有限公司', 'job_name': '无人机检测工程师', 'geography': '苏州-吴江区', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130339289.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州新升商务信息服务有限公司', 'job_name': 'php开发实习生', 'geography': '广州-天河区', 'bonus': ['五险一金', '专业培训', '交通补贴', '年终奖金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129276197.html?rc=03'}

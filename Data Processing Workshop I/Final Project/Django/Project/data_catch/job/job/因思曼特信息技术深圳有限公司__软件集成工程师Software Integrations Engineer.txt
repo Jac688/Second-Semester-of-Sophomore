@@ -1,0 +1,1 @@
+{'company_name': '因思曼特信息技术深圳有限公司', 'job_name': '软件集成工程师Software Integrations Engineer', 'geography': '深圳-南山区', 'bonus': ['员工旅游', '定期体检', '专业培训', '五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131028610.html?rc=03'}

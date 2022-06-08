@@ -1,0 +1,1 @@
+{'company_name': '广东美涂士建材股份有限公司', 'job_name': 'Java高级开发工程师12-20K', 'geography': '佛山-顺德区', 'bonus': ['带薪年假', '五险一金', '包吃', '包住宿'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/127636166.html?rc=03'}

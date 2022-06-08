@@ -1,0 +1,1 @@
+{'company_name': '义乌市贸加进出口有限公司', 'job_name': 'Java开发工程师', 'geography': '义乌', 'bonus': ['绩效奖金', '年终奖金', '五险一金', '员工旅游'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/yiwu/126178745.html?rc=03'}

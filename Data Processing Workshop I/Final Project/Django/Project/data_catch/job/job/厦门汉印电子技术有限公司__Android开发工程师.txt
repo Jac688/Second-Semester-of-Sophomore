@@ -1,0 +1,1 @@
+{'company_name': '厦门汉印电子技术有限公司', 'job_name': 'Android开发工程师', 'geography': '厦门', 'bonus': ['五险一金', '专业培训', '带薪年假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/130801696.html?rc=03'}

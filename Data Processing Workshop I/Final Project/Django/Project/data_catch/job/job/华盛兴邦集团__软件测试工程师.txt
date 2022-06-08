@@ -1,0 +1,1 @@
+{'company_name': '华盛兴邦集团', 'job_name': '软件测试工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '节日福利', '补充医疗保险', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130738238.html?rc=03'}

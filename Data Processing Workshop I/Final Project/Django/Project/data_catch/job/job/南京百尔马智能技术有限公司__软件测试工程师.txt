@@ -1,0 +1,1 @@
+{'company_name': '南京百尔马智能技术有限公司', 'job_name': '软件测试工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131272342.html?rc=03'}

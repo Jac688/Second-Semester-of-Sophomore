@@ -1,0 +1,1 @@
+{'company_name': '广东海启星海洋科技有限公司', 'job_name': '研究员JAVA', 'geography': '广州-番禺区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129024452.html?rc=03'}

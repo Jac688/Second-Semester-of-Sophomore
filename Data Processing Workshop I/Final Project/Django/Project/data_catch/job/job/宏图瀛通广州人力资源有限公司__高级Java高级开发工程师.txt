@@ -1,0 +1,1 @@
+{'company_name': '宏图瀛通广州人力资源有限公司', 'job_name': '高级Java高级开发工程师', 'geography': '宁波', 'bonus': ['带薪年假', '全勤奖', '节日福利', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130439594.html?rc=03'}

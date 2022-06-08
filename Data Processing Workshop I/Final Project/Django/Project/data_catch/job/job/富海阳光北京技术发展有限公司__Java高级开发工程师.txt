@@ -1,0 +1,1 @@
+{'company_name': '富海阳光北京技术发展有限公司', 'job_name': 'Java高级开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '补充公积金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129076807.html?rc=03'}

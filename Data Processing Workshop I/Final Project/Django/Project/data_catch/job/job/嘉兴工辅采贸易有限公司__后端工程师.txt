@@ -1,0 +1,1 @@
+{'company_name': '嘉兴工辅采贸易有限公司', 'job_name': '后端工程师', 'geography': '嘉兴-南湖区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/132319530.html?rc=03'}

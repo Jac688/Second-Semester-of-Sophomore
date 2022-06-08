@@ -1,0 +1,1 @@
+{'company_name': '上海华兴数字科技有限公司', 'job_name': 'Mesh软件工程师', 'geography': '昆山', 'bonus': ['五险一金', '员工旅游', '专业培训', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/130529902.html?rc=03'}

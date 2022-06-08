@@ -1,0 +1,1 @@
+{'company_name': '山东祺瑞升软件有限公司', 'job_name': 'Java开发工程师--1年经验左右', 'geography': '济南-历下区', 'bonus': ['五险一金', '通讯补贴', '员工旅游', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/121904993.html?rc=03'}

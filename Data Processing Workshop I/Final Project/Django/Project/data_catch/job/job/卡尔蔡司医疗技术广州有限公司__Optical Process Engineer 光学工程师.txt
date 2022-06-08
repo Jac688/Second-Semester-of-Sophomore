@@ -1,0 +1,1 @@
+{'company_name': '卡尔蔡司医疗技术广州有限公司', 'job_name': 'Optical Process Engineer 光学工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129138360.html?rc=03'}

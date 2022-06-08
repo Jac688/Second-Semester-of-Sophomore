@@ -1,0 +1,1 @@
+{'company_name': '国麒光电科技天津有限公司', 'job_name': '硬件工程师', 'geography': '天津', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130969280.html?rc=03'}

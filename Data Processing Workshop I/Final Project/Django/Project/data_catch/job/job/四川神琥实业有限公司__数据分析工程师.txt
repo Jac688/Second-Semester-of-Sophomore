@@ -1,0 +1,1 @@
+{'company_name': '四川神琥实业有限公司', 'job_name': '数据分析工程师', 'geography': '成都-天府新区', 'bonus': ['五险一金', '弹性工作', '年终奖金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131900597.html?rc=03'}

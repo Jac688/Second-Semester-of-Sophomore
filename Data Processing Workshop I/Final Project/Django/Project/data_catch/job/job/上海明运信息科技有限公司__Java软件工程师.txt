@@ -1,0 +1,1 @@
+{'company_name': '上海明运信息科技有限公司', 'job_name': 'Java软件工程师', 'geography': '佛山', 'bonus': ['五险一金', '通讯补贴', '定期体检', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/117929642.html?rc=03'}

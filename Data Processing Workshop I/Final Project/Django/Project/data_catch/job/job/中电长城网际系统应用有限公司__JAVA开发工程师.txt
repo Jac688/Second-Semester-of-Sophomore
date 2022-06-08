@@ -1,0 +1,1 @@
+{'company_name': '中电长城网际系统应用有限公司', 'job_name': 'JAVA开发工程师', 'geography': '济南', 'bonus': ['五险一金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/62216776.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海贝锐信息科技股份有限公司', 'job_name': 'Web前端工程师', 'geography': '上海', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131667133.html?rc=03'}

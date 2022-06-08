@@ -1,0 +1,1 @@
+{'company_name': '北京亦庄国际人力资源有限责任公司', 'job_name': '.NET开发工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '年终奖金', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130352585.html?rc=03'}

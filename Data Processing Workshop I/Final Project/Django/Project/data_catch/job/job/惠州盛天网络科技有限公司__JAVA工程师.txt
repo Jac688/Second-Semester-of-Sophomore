@@ -1,0 +1,1 @@
+{'company_name': '惠州盛天网络科技有限公司', 'job_name': 'JAVA工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '周末双休', '年终奖'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128968490.html?rc=03'}

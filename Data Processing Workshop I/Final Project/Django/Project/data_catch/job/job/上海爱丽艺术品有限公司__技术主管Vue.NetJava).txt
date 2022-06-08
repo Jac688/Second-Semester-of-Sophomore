@@ -1,0 +1,1 @@
+{'company_name': '上海爱丽艺术品有限公司', 'job_name': '技术主管Vue.NetJava)', 'geography': '上海-浦东新区', 'bonus': ['带薪年假', '绩效奖金', '节日福利', '年终奖金'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122477719.html?rc=03'}

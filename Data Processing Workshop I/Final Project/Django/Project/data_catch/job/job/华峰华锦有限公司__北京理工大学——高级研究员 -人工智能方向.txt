@@ -1,0 +1,1 @@
+{'company_name': '华峰华锦有限公司', 'job_name': '北京理工大学——高级研究员 -人工智能方向', 'geography': '异地招聘', 'bonus': ['五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/130110050.html?rc=03'}

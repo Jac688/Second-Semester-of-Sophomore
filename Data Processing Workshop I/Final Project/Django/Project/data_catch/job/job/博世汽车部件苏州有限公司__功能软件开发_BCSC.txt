@@ -1,0 +1,1 @@
+{'company_name': '博世汽车部件苏州有限公司', 'job_name': '功能软件开发_BCSC', 'geography': '苏州', 'bonus': ['五险一金', '年终奖金', '定期体检'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/132247464.html?rc=03'}

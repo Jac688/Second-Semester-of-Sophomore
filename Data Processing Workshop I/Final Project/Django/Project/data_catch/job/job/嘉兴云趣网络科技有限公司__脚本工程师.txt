@@ -1,0 +1,1 @@
+{'company_name': '嘉兴云趣网络科技有限公司', 'job_name': '脚本工程师', 'geography': '杭州-萧山区', 'bonus': ['绩效奖金', '年终奖金', '周末双休', '社保'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130959875.html?rc=03'}

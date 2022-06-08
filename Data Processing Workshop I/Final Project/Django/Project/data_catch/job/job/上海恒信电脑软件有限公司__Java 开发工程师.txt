@@ -1,0 +1,1 @@
+{'company_name': '上海恒信电脑软件有限公司', 'job_name': 'Java 开发工程师', 'geography': '上海-普陀区', 'bonus': ['周末双休', '交通补贴', '餐饮补贴', '全勤奖'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129849914.html?rc=03'}

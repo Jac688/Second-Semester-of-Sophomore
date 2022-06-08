@@ -1,0 +1,1 @@
+{'company_name': '丰桔出行北京科技有限公司', 'job_name': '数据运营', 'geography': '北京-顺义区', 'bonus': ['五险一金', '绩效奖金', '节日福利', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131835849.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '博康姆深圳云科技有限公司', 'job_name': 'C++高级开发工程师主管', 'geography': '深圳-龙华区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/123659284.html?rc=03'}

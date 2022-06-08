@@ -1,0 +1,1 @@
+{'company_name': '安康通', 'job_name': '测试工程师', 'geography': '南京-雨花台区', 'bonus': ['绩效奖金', '专业培训', '上市公司', '管理规范'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125843388.html?rc=03'}

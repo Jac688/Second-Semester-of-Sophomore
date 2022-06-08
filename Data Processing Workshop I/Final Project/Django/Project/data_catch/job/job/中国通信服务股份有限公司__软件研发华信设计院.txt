@@ -1,0 +1,1 @@
+{'company_name': '中国通信服务股份有限公司', 'job_name': '软件研发华信设计院', 'geography': '杭州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129231677.html?rc=03'}

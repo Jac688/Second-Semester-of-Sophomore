@@ -1,0 +1,1 @@
+{'company_name': '南斗六星系统集成有限公司', 'job_name': 'Java高级软件开发工程师', 'geography': '武汉', 'bonus': ['五险一金', '员工旅游', '年终奖金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/94194051.html?rc=03'}

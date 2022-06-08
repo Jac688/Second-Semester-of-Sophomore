@@ -1,0 +1,1 @@
+{'company_name': '广东电上店下网络技术有限公司', 'job_name': 'BS前后端工程师', 'geography': '东莞', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/89482528.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '万达信息股份有限公司', 'job_name': '项目经理医疗卫生', 'geography': '重庆', 'bonus': ['五险一金', '补充公积金', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131421879.html?rc=03'}

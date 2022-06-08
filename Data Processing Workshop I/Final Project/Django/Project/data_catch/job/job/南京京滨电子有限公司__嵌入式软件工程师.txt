@@ -1,0 +1,1 @@
+{'company_name': '南京京滨电子有限公司', 'job_name': '嵌入式软件工程师', 'geography': '南京-玄武区', 'bonus': ['弹性工作', '全勤奖', '通讯补贴', '高温补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129013680.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天津市亿人科技发展有限公司', 'job_name': '机房运维工程师实习', 'geography': '天津-红桥区', 'bonus': ['五险一金', '定期体检', '绩效奖金', '专业培训'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129540158.html?rc=03'}

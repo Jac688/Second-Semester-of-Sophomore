@@ -1,0 +1,1 @@
+{'company_name': '上海小聪科技有限公司', 'job_name': '嵌入式研发工程师', 'geography': '上海-嘉定区', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '包吃'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122629057.html?rc=03'}

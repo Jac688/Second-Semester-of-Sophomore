@@ -1,0 +1,1 @@
+{'company_name': '华新水泥技术管理武汉有限公司', 'job_name': 'Java开发工程师', 'geography': '武汉-东湖新技术产业开发区', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/116564165.html?rc=03'}

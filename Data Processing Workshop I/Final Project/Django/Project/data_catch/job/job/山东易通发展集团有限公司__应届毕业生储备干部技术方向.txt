@@ -1,0 +1,1 @@
+{'company_name': '山东易通发展集团有限公司', 'job_name': '应届毕业生储备干部技术方向', 'geography': '济南-高新区', 'bonus': ['餐饮补贴', '通讯补贴', '节日福利', '定期体检'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/jinan/126693838.html?rc=03'}

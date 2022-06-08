@@ -1,0 +1,1 @@
+{'company_name': '广东鑫晟海科技有限公司', 'job_name': 'Java开发工程师', 'geography': '东莞-凤岗镇', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/126506370.html?rc=03'}

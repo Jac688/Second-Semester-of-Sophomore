@@ -1,0 +1,1 @@
+{'company_name': '埃夫特智能装备股份有限公司', 'job_name': '应用软件开发工程师', 'geography': '上海-松江区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131641083.html?rc=03'}

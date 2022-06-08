@@ -1,0 +1,1 @@
+{'company_name': '尚氏广东大数据服务有限公司', 'job_name': '业务推动及数据分析经理', 'geography': '广州-黄埔区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127333692.html?rc=03'}

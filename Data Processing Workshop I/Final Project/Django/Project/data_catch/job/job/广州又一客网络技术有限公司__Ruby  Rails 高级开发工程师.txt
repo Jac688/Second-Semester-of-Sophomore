@@ -1,0 +1,1 @@
+{'company_name': '广州又一客网络技术有限公司', 'job_name': 'Ruby  Rails 高级开发工程师', 'geography': '广州-白云区', 'bonus': ['员工旅游', '绩效奖金', '专业培训', '五险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123931645.html?rc=03'}

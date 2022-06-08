@@ -1,0 +1,1 @@
+{'company_name': '上海七十迈数字科技有限公司', 'job_name': '嵌入式Linux软件工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124936691.html?rc=03'}

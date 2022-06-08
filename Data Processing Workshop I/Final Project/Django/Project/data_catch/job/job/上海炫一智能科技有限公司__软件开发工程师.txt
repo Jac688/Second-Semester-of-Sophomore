@@ -1,0 +1,1 @@
+{'company_name': '上海炫一智能科技有限公司', 'job_name': '软件开发工程师', 'geography': '上海-闵行区', 'bonus': ['补充公积金', '补充医疗保险', '定期体检', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131624320.html?rc=03'}

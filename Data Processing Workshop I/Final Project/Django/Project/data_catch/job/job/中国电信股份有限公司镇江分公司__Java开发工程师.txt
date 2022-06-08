@@ -1,0 +1,1 @@
+{'company_name': '中国电信股份有限公司镇江分公司', 'job_name': 'Java开发工程师', 'geography': '镇江', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhenjiang/131036366.html?rc=03'}

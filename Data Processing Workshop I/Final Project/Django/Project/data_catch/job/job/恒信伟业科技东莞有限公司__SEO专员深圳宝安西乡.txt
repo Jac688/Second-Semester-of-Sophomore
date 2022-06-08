@@ -1,0 +1,1 @@
+{'company_name': '恒信伟业科技东莞有限公司', 'job_name': 'SEO专员深圳宝安西乡', 'geography': '东莞-凤岗镇', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130497292.html?rc=03'}

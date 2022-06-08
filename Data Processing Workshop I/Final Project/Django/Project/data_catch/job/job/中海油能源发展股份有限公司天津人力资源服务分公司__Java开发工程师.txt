@@ -1,0 +1,1 @@
+{'company_name': '中海油能源发展股份有限公司天津人力资源服务分公司', 'job_name': 'Java开发工程师', 'geography': '天津-滨海新区', 'bonus': ['带薪年假', '五险一金', '高温补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129447307.html?rc=03'}

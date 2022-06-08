@@ -1,0 +1,1 @@
+{'company_name': '厦门快快网络科技有限公司', 'job_name': '技术支持工程师', 'geography': '厦门-思明区', 'bonus': ['五险一金', '年终奖金', '弹性工作', '多次调薪机会'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/130289535.html?rc=03'}

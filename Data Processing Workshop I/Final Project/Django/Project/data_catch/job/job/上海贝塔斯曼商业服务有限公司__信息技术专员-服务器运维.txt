@@ -1,0 +1,1 @@
+{'company_name': '上海贝塔斯曼商业服务有限公司', 'job_name': '信息技术专员-服务器运维', 'geography': '上海-静安区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130827877.html?rc=03'}

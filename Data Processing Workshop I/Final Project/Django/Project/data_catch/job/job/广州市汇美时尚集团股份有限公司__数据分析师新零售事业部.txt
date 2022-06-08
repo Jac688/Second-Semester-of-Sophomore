@@ -1,0 +1,1 @@
+{'company_name': '广州市汇美时尚集团股份有限公司', 'job_name': '数据分析师新零售事业部', 'geography': '广州-海珠区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123285563.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京富士通系统工程有限公司', 'job_name': 'CAD软件设计开发工程师', 'geography': '重庆', 'bonus': ['五险一金', '定期体检', '补充医疗保险', '员工旅游'], 'salary': 0.65, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/132178929.html?rc=03'}

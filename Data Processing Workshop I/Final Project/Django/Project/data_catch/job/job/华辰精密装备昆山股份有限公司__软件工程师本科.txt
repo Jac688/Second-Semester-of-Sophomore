@@ -1,0 +1,1 @@
+{'company_name': '华辰精密装备昆山股份有限公司', 'job_name': '软件工程师本科', 'geography': '昆山', 'bonus': ['周末双休', '带薪年假', '节日福利', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/125557115.html?rc=03'}

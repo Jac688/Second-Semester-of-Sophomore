@@ -1,0 +1,1 @@
+{'company_name': '中芯国际集成电路制造(北京)有限公司', 'job_name': 'AI算法工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '餐饮补贴'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130318534.html?rc=03'}

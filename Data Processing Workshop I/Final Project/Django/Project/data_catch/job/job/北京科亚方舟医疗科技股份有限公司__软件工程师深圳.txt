@@ -1,0 +1,1 @@
+{'company_name': '北京科亚方舟医疗科技股份有限公司', 'job_name': '软件工程师深圳', 'geography': '深圳-龙岗区', 'bonus': ['五险一金', '餐饮补贴'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130450675.html?rc=03'}

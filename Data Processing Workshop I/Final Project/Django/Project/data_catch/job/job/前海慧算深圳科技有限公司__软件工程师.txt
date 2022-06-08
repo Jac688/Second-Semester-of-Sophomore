@@ -1,0 +1,1 @@
+{'company_name': '前海慧算深圳科技有限公司', 'job_name': '软件工程师', 'geography': '东莞-清溪镇', 'bonus': ['五险一金', '八小时', '包吃包住', '免费班车'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130531685.html?rc=03'}

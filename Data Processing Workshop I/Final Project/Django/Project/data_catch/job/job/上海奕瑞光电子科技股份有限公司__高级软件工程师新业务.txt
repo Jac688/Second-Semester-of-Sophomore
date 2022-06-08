@@ -1,0 +1,1 @@
+{'company_name': '上海奕瑞光电子科技股份有限公司', 'job_name': '高级软件工程师新业务', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '免费班车'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131417660.html?rc=03'}

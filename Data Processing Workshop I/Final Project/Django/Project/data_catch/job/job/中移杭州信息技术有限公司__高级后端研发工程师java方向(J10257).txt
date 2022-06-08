@@ -1,0 +1,1 @@
+{'company_name': '中移杭州信息技术有限公司', 'job_name': '高级后端研发工程师java方向(J10257)', 'geography': '杭州', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127583763.html?rc=03'}

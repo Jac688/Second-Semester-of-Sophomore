@@ -1,0 +1,1 @@
+{'company_name': '上海剑桥科技股份有限公司', 'job_name': 'SH-185  Firmware engineer', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119880593.html?rc=03'}

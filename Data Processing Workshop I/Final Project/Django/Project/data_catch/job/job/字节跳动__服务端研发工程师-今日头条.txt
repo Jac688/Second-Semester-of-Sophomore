@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '服务端研发工程师-今日头条', 'geography': '广州', 'bonus': ['下午茶', '六险一金', '免费三餐', '弹性工作'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130247360.html?rc=03'}

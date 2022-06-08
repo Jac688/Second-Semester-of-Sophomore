@@ -1,0 +1,1 @@
+{'company_name': '上海贝乐文化传播有限公司', 'job_name': '少儿编程教师', 'geography': '温州-乐清市', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/wenzhou/131908255.html?rc=03'}

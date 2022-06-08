@@ -1,0 +1,1 @@
+{'company_name': '上海商泰汽车信息系统有限公司', 'job_name': '沈阳C++开发工程师', 'geography': '沈阳-沈河区', 'bonus': ['补充医疗保险', '五险一金', '员工旅游', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenyang/128895152.html?rc=03'}

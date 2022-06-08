@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '前端工程师-成都', 'geography': '成都', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '五险一金'], 'salary': 1.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126656194.html?rc=03'}

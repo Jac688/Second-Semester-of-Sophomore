@@ -1,0 +1,1 @@
+{'company_name': '恒为科技上海股份有限公司', 'job_name': 'JAVA软件工程师', 'geography': '无锡', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/123896425.html?rc=03'}

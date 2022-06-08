@@ -1,0 +1,1 @@
+{'company_name': '广州三零卫士信息安全有限公司', 'job_name': '渗透测试工程师', 'geography': '广州-天河区', 'bonus': ['通讯补贴', '年终奖金', '定期体检', '高温补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131712948.html?rc=03'}

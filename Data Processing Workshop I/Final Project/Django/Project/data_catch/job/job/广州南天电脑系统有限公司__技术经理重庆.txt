@@ -1,0 +1,1 @@
+{'company_name': '广州南天电脑系统有限公司', 'job_name': '技术经理重庆', 'geography': '重庆-江北区', 'bonus': ['五险一金', '周末双休', '带薪年假', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/128408208.html?rc=03'}

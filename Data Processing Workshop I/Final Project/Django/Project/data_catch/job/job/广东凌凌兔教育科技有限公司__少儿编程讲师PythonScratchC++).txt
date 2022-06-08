@@ -1,0 +1,1 @@
+{'company_name': '广东凌凌兔教育科技有限公司', 'job_name': '少儿编程讲师PythonScratchC++)', 'geography': '东莞-南城区', 'bonus': ['餐饮补贴', '五险一金', '绩效奖金', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/126128054.html?rc=03'}

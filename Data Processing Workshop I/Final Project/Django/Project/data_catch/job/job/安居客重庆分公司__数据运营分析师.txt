@@ -1,0 +1,1 @@
+{'company_name': '安居客重庆分公司', 'job_name': '数据运营分析师', 'geography': '重庆-渝中区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/125990151.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '保圣那人才服务上海有限公司', 'job_name': '汽车设备公司诚聘IT担当', 'geography': '上海-长宁区', 'bonus': ['五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126202930.html?rc=03'}

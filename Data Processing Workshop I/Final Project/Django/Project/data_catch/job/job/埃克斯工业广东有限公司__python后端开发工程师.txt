@@ -1,0 +1,1 @@
+{'company_name': '埃克斯工业广东有限公司', 'job_name': 'python后端开发工程师', 'geography': '苏州-工业园区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/126860693.html?rc=03'}

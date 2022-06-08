@@ -1,0 +1,1 @@
+{'company_name': '上海快卜新能源科技有限公司', 'job_name': '前端开发工程师', 'geography': '福州-鼓楼区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/126511817.html?rc=03'}

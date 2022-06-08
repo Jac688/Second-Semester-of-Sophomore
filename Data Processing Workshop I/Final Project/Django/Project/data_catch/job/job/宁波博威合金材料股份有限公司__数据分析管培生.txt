@@ -1,0 +1,1 @@
+{'company_name': '宁波博威合金材料股份有限公司', 'job_name': '数据分析管培生', 'geography': '宁波', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130142791.html?rc=03'}

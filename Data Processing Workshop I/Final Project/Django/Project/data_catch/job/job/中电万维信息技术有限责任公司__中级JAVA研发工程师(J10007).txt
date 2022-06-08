@@ -1,0 +1,1 @@
+{'company_name': '中电万维信息技术有限责任公司', 'job_name': '中级JAVA研发工程师(J10007)', 'geography': '异地招聘', 'bonus': ['五险一金', '专业培训', '年终奖金', '防暑费'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/sichuansheng/131653786.html?rc=03'}

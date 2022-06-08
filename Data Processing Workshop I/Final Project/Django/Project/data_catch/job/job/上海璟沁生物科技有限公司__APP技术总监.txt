@@ -1,0 +1,1 @@
+{'company_name': '上海璟沁生物科技有限公司', 'job_name': 'APP技术总监', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126912966.html?rc=03'}

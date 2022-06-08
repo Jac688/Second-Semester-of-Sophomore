@@ -1,0 +1,1 @@
+{'company_name': '广东粤港澳大湾区国家纳米科技创新研究院', 'job_name': '软件工程师纳米医疗器械', 'geography': '广州-黄埔区', 'bonus': ['周末双休', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132308270.html?rc=03'}

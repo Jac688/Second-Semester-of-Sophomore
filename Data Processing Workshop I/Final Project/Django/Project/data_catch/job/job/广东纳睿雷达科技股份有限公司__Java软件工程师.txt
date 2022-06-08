@@ -1,0 +1,1 @@
+{'company_name': '广东纳睿雷达科技股份有限公司', 'job_name': 'Java软件工程师', 'geography': '珠海', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '假日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/127892470.html?rc=03'}

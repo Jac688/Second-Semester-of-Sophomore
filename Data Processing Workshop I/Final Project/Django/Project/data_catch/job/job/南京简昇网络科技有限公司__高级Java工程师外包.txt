@@ -1,0 +1,1 @@
+{'company_name': '南京简昇网络科技有限公司', 'job_name': '高级Java工程师外包', 'geography': '南京-鼓楼区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130298576.html?rc=03'}

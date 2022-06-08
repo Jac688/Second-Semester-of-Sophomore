@@ -1,0 +1,1 @@
+{'company_name': '华通科技有限公司', 'job_name': '数据库运维工程师赣州驻场DBA', 'geography': '赣州-章贡区', 'bonus': ['五险一金', '员工旅游', '定期体检', '周末双休'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/ganzhou/132107923.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州佰业丰食品有限公司', 'job_name': '软件测试工程师', 'geography': '广州-海珠区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125902837.html?rc=03'}

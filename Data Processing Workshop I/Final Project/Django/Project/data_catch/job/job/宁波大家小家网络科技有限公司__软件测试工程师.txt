@@ -1,0 +1,1 @@
+{'company_name': '宁波大家小家网络科技有限公司', 'job_name': '软件测试工程师', 'geography': '杭州-江干区', 'bonus': ['五险', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129272454.html?rc=03'}

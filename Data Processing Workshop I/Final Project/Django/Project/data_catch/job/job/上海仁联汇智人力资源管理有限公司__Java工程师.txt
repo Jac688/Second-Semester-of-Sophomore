@@ -1,0 +1,1 @@
+{'company_name': '上海仁联汇智人力资源管理有限公司', 'job_name': 'Java工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132183544.html?rc=03'}

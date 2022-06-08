@@ -1,0 +1,1 @@
+{'company_name': '上海悟景信息科技有限公司', 'job_name': '后端开发工程师', 'geography': '广州-越秀区', 'bonus': ['五险一金', '绩效奖金', '专业培训', '年终奖金'], 'salary': 1.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130549025.html?rc=03'}

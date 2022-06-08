@@ -1,0 +1,1 @@
+{'company_name': '上海电科智能系统股份有限公司', 'job_name': 'Java高级开发工程师成都', 'geography': '成都-锦江区', 'bonus': ['绩效奖金', '餐饮补贴', '做五休二', '五险一金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130510075.html?rc=03'}

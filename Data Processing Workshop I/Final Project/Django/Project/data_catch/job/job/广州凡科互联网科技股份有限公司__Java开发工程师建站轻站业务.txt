@@ -1,0 +1,1 @@
+{'company_name': '广州凡科互联网科技股份有限公司', 'job_name': 'Java开发工程师建站轻站业务', 'geography': '广州-海珠区', 'bonus': ['节日福利', '带薪年假', '弹性工作', '年度体检'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126340966.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '伯科生物科技有限公司', 'job_name': '生物信息工程师', 'geography': '无锡-锡山区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/123809271.html?rc=03'}

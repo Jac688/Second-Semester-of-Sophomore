@@ -1,0 +1,1 @@
+{'company_name': '思睿星辰教育科技北京有限公司', 'job_name': '乐高老师机器人老师', 'geography': '北京-东城区', 'bonus': ['员工旅游', '绩效奖金', '股票期权', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126010514.html?rc=03'}

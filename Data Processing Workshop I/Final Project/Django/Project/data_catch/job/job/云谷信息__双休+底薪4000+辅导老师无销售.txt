@@ -1,0 +1,1 @@
+{'company_name': '云谷信息', 'job_name': '双休+底薪4000+辅导老师无销售', 'geography': '成都-青羊区', 'bonus': ['做五休二', '绩效奖金', '五险一金', '全勤奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132036792.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海市建筑科学研究院', 'job_name': 'java软件工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130428752.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天津津荣天宇精密机械股份有限公司', 'job_name': '软件工程师', 'geography': '天津-西青区', 'bonus': ['带薪年假', '五险一金', '包住宿', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131547847.html?rc=03'}

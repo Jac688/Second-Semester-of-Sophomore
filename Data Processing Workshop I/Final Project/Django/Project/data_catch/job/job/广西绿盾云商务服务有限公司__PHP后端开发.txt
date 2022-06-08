@@ -1,0 +1,1 @@
+{'company_name': '广西绿盾云商务服务有限公司', 'job_name': 'PHP后端开发', 'geography': '南宁-西乡塘区', 'bonus': ['餐饮补贴', '弹性工作', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanning/131699886.html?rc=03'}

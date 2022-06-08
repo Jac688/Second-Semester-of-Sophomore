@@ -1,0 +1,1 @@
+{'company_name': '多样屋生活用品上海有限公司', 'job_name': 'IT主管-线上&供应链', 'geography': '上海-徐汇区', 'bonus': ['五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125763070.html?rc=03'}

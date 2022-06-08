@@ -1,0 +1,1 @@
+{'company_name': '广州网海渔夫广告有限责任公司', 'job_name': '广告系统技术总监', 'geography': '广州-白云区', 'bonus': ['周末双休', '弹性工作', '专业培训', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131904551.html?rc=03'}

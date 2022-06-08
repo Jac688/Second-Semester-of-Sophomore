@@ -1,0 +1,1 @@
+{'company_name': '上海汇撰实业发展有限公司', 'job_name': '嵌入式软件开发', 'geography': '上海-奉贤区', 'bonus': ['年终奖金', '周末双休', '节日福利', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125717119.html?rc=03'}

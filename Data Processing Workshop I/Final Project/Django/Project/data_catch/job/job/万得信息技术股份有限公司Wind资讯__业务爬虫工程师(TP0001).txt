@@ -1,0 +1,1 @@
+{'company_name': '万得信息技术股份有限公司Wind资讯', 'job_name': '业务爬虫工程师(TP0001)', 'geography': '南京-建邺区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/82406896.html?rc=03'}

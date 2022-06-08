@@ -1,0 +1,1 @@
+{'company_name': '广州天鹏计算机科技有限公司', 'job_name': '医学数据挖掘与分析主管经理', 'geography': '北京', 'bonus': ['绩效奖金', '餐饮补贴', '员工旅游', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124957395.html?rc=03'}

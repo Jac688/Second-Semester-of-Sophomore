@@ -1,0 +1,1 @@
+{'company_name': '安徽汉风环境科技有限公司', 'job_name': 'python工程师爬虫', 'geography': '合肥-滨湖新区', 'bonus': ['节日福利', '全勤奖', '绩效奖金', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hefei/130655042.html?rc=03'}

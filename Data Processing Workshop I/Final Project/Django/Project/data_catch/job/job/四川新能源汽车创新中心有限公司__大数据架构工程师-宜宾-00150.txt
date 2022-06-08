@@ -1,0 +1,1 @@
+{'company_name': '四川新能源汽车创新中心有限公司', 'job_name': '大数据架构工程师-宜宾-00150', 'geography': '宜宾', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/yibin/130622152.html?rc=03'}

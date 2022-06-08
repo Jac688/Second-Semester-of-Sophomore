@@ -1,0 +1,1 @@
+{'company_name': '北京经世万方信息技术有限公司', 'job_name': '能源经济研究员', 'geography': '杭州-江干区', 'bonus': ['五险一金', '年终奖金', '定期体检', '周末双休'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/104563546.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海强生控股股份有限公司', 'job_name': 'JAVA开发工程师强生致行', 'geography': '上海-静安区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128991739.html?rc=03'}

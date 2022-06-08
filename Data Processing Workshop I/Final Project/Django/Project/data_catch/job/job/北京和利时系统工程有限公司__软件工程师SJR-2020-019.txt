@@ -1,0 +1,1 @@
+{'company_name': '北京和利时系统工程有限公司', 'job_name': '软件工程师SJR-2020-019', 'geography': '北京', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '定期体检'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123892960.html?rc=03'}

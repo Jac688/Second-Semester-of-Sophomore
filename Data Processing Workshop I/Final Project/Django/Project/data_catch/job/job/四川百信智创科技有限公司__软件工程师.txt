@@ -1,0 +1,1 @@
+{'company_name': '四川百信智创科技有限公司', 'job_name': '软件工程师', 'geography': '异地招聘', 'bonus': ['周末双休', '餐饮补贴', '五险', '年休'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/sichuansheng/127223757.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京信路威科技股份有限公司', 'job_name': 'IT信息技术员', 'geography': '北京', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131483439.html?rc=03'}

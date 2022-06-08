@@ -1,0 +1,1 @@
+{'company_name': '千家保定房地产经纪有限公司', 'job_name': 'Java开发工程师', 'geography': '唐山', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tangshan/127032950.html?rc=03'}

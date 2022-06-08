@@ -1,0 +1,1 @@
+{'company_name': '凯美瑞德苏州信息科技股份有限公司', 'job_name': 'JAVA开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '餐饮补贴', '员工旅游', '年终奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125987262.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京阿贝斯信息科技有限公司', 'job_name': 'CC++开发电力方向', 'geography': '南京-建邺区', 'bonus': ['五险一金', '交通补贴', '定期体检', '节日福利'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125745740.html?rc=03'}

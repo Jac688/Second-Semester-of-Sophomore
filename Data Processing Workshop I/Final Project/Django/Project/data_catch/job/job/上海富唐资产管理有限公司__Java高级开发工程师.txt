@@ -1,0 +1,1 @@
+{'company_name': '上海富唐资产管理有限公司', 'job_name': 'Java高级开发工程师', 'geography': '北京-西城区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128510377.html?rc=03'}

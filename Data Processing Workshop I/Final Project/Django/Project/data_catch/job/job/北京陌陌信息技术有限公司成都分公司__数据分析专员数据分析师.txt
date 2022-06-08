@@ -1,0 +1,1 @@
+{'company_name': '北京陌陌信息技术有限公司成都分公司', 'job_name': '数据分析专员数据分析师', 'geography': '成都-高新区', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '全勤奖'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/121918203.html?rc=03'}

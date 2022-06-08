@@ -1,0 +1,1 @@
+{'company_name': '广东博钧医疗信息科技有限公司', 'job_name': 'Android开发工程师', 'geography': '赣州', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ganzhou/116894416.html?rc=03'}

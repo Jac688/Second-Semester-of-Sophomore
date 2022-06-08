@@ -1,0 +1,1 @@
+{'company_name': '富士康科技集团CMBU', 'job_name': 'C语言开发工程师', 'geography': '深圳-龙华区', 'bonus': ['专业培训', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/123144492.html?rc=03'}

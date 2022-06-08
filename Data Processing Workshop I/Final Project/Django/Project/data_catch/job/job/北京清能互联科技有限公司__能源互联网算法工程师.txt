@@ -1,0 +1,1 @@
+{'company_name': '北京清能互联科技有限公司', 'job_name': '能源互联网算法工程师', 'geography': '杭州-西湖区', 'bonus': ['周末双休', '带薪年假', '五险一金', '专业培训'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/98839107.html?rc=03'}

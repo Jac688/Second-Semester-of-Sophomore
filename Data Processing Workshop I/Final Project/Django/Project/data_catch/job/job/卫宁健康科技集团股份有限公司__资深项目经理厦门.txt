@@ -1,0 +1,1 @@
+{'company_name': '卫宁健康科技集团股份有限公司', 'job_name': '资深项目经理厦门', 'geography': '厦门', 'bonus': ['通讯补贴', '节日福利', '五险一金', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/125320530.html?rc=03'}

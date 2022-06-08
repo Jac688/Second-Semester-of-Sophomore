@@ -1,0 +1,1 @@
+{'company_name': '广州金越软件技术有限公司', 'job_name': 'Java中高级开发工程师', 'geography': '杭州-余杭区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128587752.html?rc=03'}

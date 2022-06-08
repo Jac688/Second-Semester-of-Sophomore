@@ -1,0 +1,1 @@
+{'company_name': '上海意臣信息科技有限公司', 'job_name': '大数据经理架构师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '年终奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124284308.html?rc=03'}

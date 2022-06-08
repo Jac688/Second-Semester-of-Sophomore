@@ -1,0 +1,1 @@
+{'company_name': '宁波易简电子科技有限公司', 'job_name': 'C++开发工程师需要出差', 'geography': '西安-莲湖区', 'bonus': ['员工旅游', '绩效奖金', '出国机会', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xian/123976417.html?rc=03'}

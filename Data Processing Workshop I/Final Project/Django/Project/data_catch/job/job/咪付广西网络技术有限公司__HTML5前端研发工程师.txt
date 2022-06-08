@@ -1,0 +1,1 @@
+{'company_name': '咪付广西网络技术有限公司', 'job_name': 'HTML5前端研发工程师', 'geography': '南宁', 'bonus': ['交通补贴', '餐饮补贴', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanning/121802310.html?rc=03'}

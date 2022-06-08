@@ -1,0 +1,1 @@
+{'company_name': '上海坤雷实业有限公司', 'job_name': '软件测试实习生', 'geography': '上海-长宁区', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/115808460.html?rc=03'}

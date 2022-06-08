@@ -1,0 +1,1 @@
+{'company_name': '北京华大九天科技股份有限公司', 'job_name': 'C++开发工程师实习', 'geography': '成都-双流区', 'bonus': [], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131874891.html?rc=03'}

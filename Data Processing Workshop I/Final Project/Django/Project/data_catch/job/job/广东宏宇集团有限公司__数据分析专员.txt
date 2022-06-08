@@ -1,0 +1,1 @@
+{'company_name': '广东宏宇集团有限公司', 'job_name': '数据分析专员', 'geography': '佛山-禅城区', 'bonus': ['专业培训', '通讯补贴', '餐饮补贴', '弹性工作'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/126941977.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东艾视智能有限公司', 'job_name': 'QT开发工程师', 'geography': '深圳-宝安区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126562353.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海七十迈数字科技有限公司', 'job_name': 'GUI开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123845896.html?rc=03'}

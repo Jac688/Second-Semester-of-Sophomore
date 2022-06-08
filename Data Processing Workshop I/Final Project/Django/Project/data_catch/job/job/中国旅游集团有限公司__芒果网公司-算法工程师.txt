@@ -1,0 +1,1 @@
+{'company_name': '中国旅游集团有限公司', 'job_name': '芒果网公司-算法工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128644205.html?rc=03'}

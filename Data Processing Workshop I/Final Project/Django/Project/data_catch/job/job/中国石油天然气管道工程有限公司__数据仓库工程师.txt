@@ -1,0 +1,1 @@
+{'company_name': '中国石油天然气管道工程有限公司', 'job_name': '数据仓库工程师', 'geography': '成都', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125337695.html?rc=03'}

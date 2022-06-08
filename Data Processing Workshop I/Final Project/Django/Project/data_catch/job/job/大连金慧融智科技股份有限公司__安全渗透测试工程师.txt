@@ -1,0 +1,1 @@
+{'company_name': '大连金慧融智科技股份有限公司', 'job_name': '安全渗透测试工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '带薪年假', '节日福利', '做一休二'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129120171.html?rc=03'}

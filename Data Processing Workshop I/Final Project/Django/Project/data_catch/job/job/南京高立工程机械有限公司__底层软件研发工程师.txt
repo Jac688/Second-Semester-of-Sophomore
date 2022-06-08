@@ -1,0 +1,1 @@
+{'company_name': '南京高立工程机械有限公司', 'job_name': '底层软件研发工程师', 'geography': '南京-江宁区', 'bonus': ['包三餐', '带薪年假', '免费班车', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131708671.html?rc=03'}

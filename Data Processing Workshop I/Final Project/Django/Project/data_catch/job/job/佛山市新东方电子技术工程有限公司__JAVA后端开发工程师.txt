@@ -1,0 +1,1 @@
+{'company_name': '佛山市新东方电子技术工程有限公司', 'job_name': 'JAVA后端开发工程师', 'geography': '佛山', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/79010321.html?rc=03'}

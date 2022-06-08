@@ -1,0 +1,1 @@
+{'company_name': '上海唯能炬科技有限公司', 'job_name': 'c++软件工程师', 'geography': '上海-宝山区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122079802.html?rc=03'}

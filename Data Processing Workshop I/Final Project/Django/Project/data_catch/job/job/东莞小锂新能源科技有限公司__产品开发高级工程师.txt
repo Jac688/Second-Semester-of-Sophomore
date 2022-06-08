@@ -1,0 +1,1 @@
+{'company_name': '东莞小锂新能源科技有限公司', 'job_name': '产品开发高级工程师', 'geography': '东莞-横沥镇', 'bonus': ['弹性工作', '包吃包住', '五险', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/126548138.html?rc=03'}

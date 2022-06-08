@@ -1,0 +1,1 @@
+{'company_name': '悦锦软件系统(上海)有限公司', 'job_name': 'JAVA中级开发工程师广州', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123970795.html?rc=03'}

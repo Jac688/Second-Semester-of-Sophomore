@@ -1,0 +1,1 @@
+{'company_name': '广州方航企业管理有限公司', 'job_name': '单片机工程师', 'geography': '深圳-宝安区', 'bonus': ['周末双休', '五险一金', '加班补贴', '年底双薪'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132303161.html?rc=03'}

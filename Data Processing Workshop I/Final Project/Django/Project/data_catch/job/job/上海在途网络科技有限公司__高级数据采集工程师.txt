@@ -1,0 +1,1 @@
+{'company_name': '上海在途网络科技有限公司', 'job_name': '高级数据采集工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '年终奖金', '专业培训', '股票期权'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125597290.html?rc=03'}

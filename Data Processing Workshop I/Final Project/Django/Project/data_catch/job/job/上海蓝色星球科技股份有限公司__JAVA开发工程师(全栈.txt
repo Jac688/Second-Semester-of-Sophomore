@@ -1,0 +1,1 @@
+{'company_name': '上海蓝色星球科技股份有限公司', 'job_name': 'JAVA开发工程师(全栈', 'geography': '上海-静安区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/106118403.html?rc=03'}

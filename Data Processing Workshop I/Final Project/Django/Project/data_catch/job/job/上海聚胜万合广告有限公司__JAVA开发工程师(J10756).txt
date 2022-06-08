@@ -1,0 +1,1 @@
+{'company_name': '上海聚胜万合广告有限公司', 'job_name': 'JAVA开发工程师(J10756)', 'geography': '深圳-南山区', 'bonus': ['周末双休', '带薪年假', '五险一金', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131536213.html?rc=03'}

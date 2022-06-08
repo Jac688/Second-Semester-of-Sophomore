@@ -1,0 +1,1 @@
+{'company_name': '宝能物流集团有限公司', 'job_name': 'Java工程师大生鲜', 'geography': '深圳-龙华区', 'bonus': ['管理规范', '上市公司', '发展空间大', '公司规模大'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127874241.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京机敏软件科技有限公司', 'job_name': 'CC++开发工程师', 'geography': '南京', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130972122.html?rc=03'}

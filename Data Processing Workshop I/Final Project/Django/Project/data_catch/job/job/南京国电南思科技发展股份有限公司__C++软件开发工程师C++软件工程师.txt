@@ -1,0 +1,1 @@
+{'company_name': '南京国电南思科技发展股份有限公司', 'job_name': 'C++软件开发工程师C++软件工程师', 'geography': '南京', 'bonus': ['五险一金', '员工旅游', '交通补贴', '通讯补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/73207092.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海海万信息科技股份有限公司', 'job_name': 'java-广发', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '弹性工作', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/foshan/130017131.html?rc=03'}

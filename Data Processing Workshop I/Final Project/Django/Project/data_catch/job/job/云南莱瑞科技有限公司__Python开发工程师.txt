@@ -1,0 +1,1 @@
+{'company_name': '云南莱瑞科技有限公司', 'job_name': 'Python开发工程师', 'geography': '昆明-官渡区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/kunming/127564056.html?rc=03'}

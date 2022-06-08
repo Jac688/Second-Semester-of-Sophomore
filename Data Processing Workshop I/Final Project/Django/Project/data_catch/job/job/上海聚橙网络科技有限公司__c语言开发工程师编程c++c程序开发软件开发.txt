@@ -1,0 +1,1 @@
+{'company_name': '上海聚橙网络科技有限公司', 'job_name': 'c语言开发工程师编程c++c程序开发软件开发', 'geography': '上海-徐汇区', 'bonus': ['待遇可面谈', '周末双休', '五险一金', '定期体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130952401.html?rc=03'}

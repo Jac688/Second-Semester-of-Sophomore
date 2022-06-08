@@ -1,0 +1,1 @@
+{'company_name': '博世电动工具成都有限公司', 'job_name': 'ITM生产IT技术员', 'geography': '成都-蒲江县', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130705466.html?rc=03'}

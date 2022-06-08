@@ -1,0 +1,1 @@
+{'company_name': '北京巨龙嘉丰信息科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '年终奖金', '定期体检', '员工旅游'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130790141.html?rc=03'}

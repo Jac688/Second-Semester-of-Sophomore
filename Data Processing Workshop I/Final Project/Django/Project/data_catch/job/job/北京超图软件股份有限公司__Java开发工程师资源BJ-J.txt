@@ -1,0 +1,1 @@
+{'company_name': '北京超图软件股份有限公司', 'job_name': 'Java开发工程师资源BJ-J', 'geography': '济南-高新区', 'bonus': ['五险一金', '补充医疗保险', '股票期权', '交通补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130938926.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东炬森五金精密制造有限公司', 'job_name': '开发工程师', 'geography': '佛山', 'bonus': ['年终奖金', '绩效奖金', '专业培训', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/foshan/127170374.html?rc=03'}

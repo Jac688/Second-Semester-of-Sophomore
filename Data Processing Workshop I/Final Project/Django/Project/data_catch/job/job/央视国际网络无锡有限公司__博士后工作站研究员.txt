@@ -1,0 +1,1 @@
+{'company_name': '央视国际网络无锡有限公司', 'job_name': '博士后工作站研究员', 'geography': '无锡', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/121055143.html?rc=03'}

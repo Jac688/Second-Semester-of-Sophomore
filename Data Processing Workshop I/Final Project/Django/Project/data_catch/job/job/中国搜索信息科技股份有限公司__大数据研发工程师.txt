@@ -1,0 +1,1 @@
+{'company_name': '中国搜索信息科技股份有限公司', 'job_name': '大数据研发工程师', 'geography': '北京-东城区', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127807266.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海荣涯信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '上海', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '交通补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119704793.html?rc=03'}

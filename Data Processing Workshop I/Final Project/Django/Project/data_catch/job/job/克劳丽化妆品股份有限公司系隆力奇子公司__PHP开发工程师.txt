@@ -1,0 +1,1 @@
+{'company_name': '克劳丽化妆品股份有限公司系隆力奇子公司', 'job_name': 'PHP开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '包住宿', '免费班车', '节日福利'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130980965.html?rc=03'}

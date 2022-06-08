@@ -1,0 +1,1 @@
+{'company_name': '北京捷兴信源信息技术有限公司', 'job_name': 'Android 系统开发工程师', 'geography': '成都-高新区', 'bonus': ['补充公积金', '弹性工作', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131596931.html?rc=03'}

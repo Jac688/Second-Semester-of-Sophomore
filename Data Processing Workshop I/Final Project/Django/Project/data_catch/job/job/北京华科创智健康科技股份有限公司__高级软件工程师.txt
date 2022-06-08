@@ -1,0 +1,1 @@
+{'company_name': '北京华科创智健康科技股份有限公司', 'job_name': '高级软件工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124698003.html?rc=03'}

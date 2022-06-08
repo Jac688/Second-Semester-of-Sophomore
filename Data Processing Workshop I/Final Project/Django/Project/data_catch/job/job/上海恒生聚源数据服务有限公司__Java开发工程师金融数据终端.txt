@@ -1,0 +1,1 @@
+{'company_name': '上海恒生聚源数据服务有限公司', 'job_name': 'Java开发工程师金融数据终端', 'geography': '上海', 'bonus': ['五险一金', '员工旅游', '定期体检', '股票期权'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132303514.html?rc=03'}

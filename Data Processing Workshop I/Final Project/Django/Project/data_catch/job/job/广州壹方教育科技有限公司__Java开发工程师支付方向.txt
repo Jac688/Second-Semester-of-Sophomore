@@ -1,0 +1,1 @@
+{'company_name': '广州壹方教育科技有限公司', 'job_name': 'Java开发工程师支付方向', 'geography': '广州-黄埔区', 'bonus': ['周末双休', '带薪年假', '节日福利', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129150665.html?rc=03'}

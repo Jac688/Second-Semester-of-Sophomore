@@ -1,0 +1,1 @@
+{'company_name': '墨奇科技北京有限公司', 'job_name': '算法工程师 - 深度学习计算机视觉方向', 'geography': '北京', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129434259.html?rc=03'}

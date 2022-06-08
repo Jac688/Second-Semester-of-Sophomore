@@ -1,0 +1,1 @@
+{'company_name': '嵊州市金帝智能厨电有限公司', 'job_name': '智能家居应用工程师', 'geography': '绍兴', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shaoxing/127168058.html?rc=03'}

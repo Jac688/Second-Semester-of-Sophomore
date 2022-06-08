@@ -1,0 +1,1 @@
+{'company_name': '南京科源信息技术有限公司', 'job_name': 'java游戏开发', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '周末双休', '员工旅游', '加班补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127877163.html?rc=03'}

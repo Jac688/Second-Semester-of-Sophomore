@@ -1,0 +1,1 @@
+{'company_name': '广东致胜环保产业集团有限公司', 'job_name': '大数据开发助理工程师', 'geography': '东莞-东城区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/124884612.html?rc=03'}

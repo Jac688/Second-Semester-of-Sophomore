@@ -1,0 +1,1 @@
+{'company_name': '四川中瑞佳星智能技术有限公司', 'job_name': 'PACS系统开发', 'geography': '成都-金牛区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129746974.html?rc=03'}

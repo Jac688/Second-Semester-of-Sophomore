@@ -1,0 +1,1 @@
+{'company_name': '南京海泰医疗信息系统有限公司', 'job_name': '高级研发工程师福州', 'geography': '福州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/126338670.html?rc=03'}

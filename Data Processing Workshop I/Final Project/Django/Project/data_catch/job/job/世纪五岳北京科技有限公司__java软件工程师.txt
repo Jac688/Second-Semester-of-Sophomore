@@ -1,0 +1,1 @@
+{'company_name': '世纪五岳北京科技有限公司', 'job_name': 'java软件工程师', 'geography': '武汉-洪山区', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/131458762.html?rc=03'}

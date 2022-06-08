@@ -1,0 +1,1 @@
+{'company_name': '南京和光智能制造研究院有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-栖霞区', 'bonus': ['五险一金', '出国机会', '股票期权', '年终奖金'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/126465703.html?rc=03'}

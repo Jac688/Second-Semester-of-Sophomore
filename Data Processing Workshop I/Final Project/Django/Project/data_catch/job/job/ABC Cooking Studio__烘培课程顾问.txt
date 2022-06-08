@@ -1,0 +1,1 @@
+{'company_name': 'ABC Cooking Studio', 'job_name': '烘培课程顾问', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '做五休二', '餐饮补贴'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/69942646.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东得胜电子有限公司', 'job_name': 'QT软件开发工程师', 'geography': '深圳', 'bonus': ['五险一金', '绩效奖金', '定期体检', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130228120.html?rc=03'}

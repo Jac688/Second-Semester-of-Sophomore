@@ -1,0 +1,1 @@
+{'company_name': '北京中置科技有限公司', 'job_name': 'Java后端软件工程师', 'geography': '深圳-南山区', 'bonus': ['节日福利', '周末双休', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/123691283.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '富泰华工业深圳有限公司', 'job_name': '数据处理工程师', 'geography': '深圳', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129691281.html?rc=03'}

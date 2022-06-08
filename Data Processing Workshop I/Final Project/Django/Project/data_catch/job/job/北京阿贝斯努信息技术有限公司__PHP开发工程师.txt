@@ -1,0 +1,1 @@
+{'company_name': '北京阿贝斯努信息技术有限公司', 'job_name': 'PHP开发工程师', 'geography': '武汉-洪山区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '周末双休'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/78526382.html?rc=03'}

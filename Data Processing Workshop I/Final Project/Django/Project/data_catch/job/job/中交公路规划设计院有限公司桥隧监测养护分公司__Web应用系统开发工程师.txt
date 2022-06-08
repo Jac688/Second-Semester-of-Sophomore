@@ -1,0 +1,1 @@
+{'company_name': '中交公路规划设计院有限公司桥隧监测养护分公司', 'job_name': 'Web应用系统开发工程师', 'geography': '北京-东城区', 'bonus': ['五险一金', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125102274.html?rc=03'}

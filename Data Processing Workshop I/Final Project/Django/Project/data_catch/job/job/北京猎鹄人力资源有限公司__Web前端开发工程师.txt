@@ -1,0 +1,1 @@
+{'company_name': '北京猎鹄人力资源有限公司', 'job_name': 'Web前端开发工程师', 'geography': '北京-丰台区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132160338.html?rc=03'}

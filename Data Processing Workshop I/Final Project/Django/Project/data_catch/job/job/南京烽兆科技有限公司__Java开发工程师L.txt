@@ -1,0 +1,1 @@
+{'company_name': '南京烽兆科技有限公司', 'job_name': 'Java开发工程师L', 'geography': '北京-朝阳区', 'bonus': ['补充医疗保险', '双休', '五险一金', '季度奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130103256.html?rc=03'}

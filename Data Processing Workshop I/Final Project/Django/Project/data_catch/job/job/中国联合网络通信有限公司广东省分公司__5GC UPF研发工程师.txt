@@ -1,0 +1,1 @@
+{'company_name': '中国联合网络通信有限公司广东省分公司', 'job_name': '5GC UPF研发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '交通补贴'], 'salary': 1.33, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127655097.html?rc=03'}

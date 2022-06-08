@@ -1,0 +1,1 @@
+{'company_name': '广东金添动漫股份有限公司', 'job_name': '软件工程师', 'geography': '东莞-南城区', 'bonus': ['绩效奖金', '节日福利', '定期团建', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130495918.html?rc=03'}

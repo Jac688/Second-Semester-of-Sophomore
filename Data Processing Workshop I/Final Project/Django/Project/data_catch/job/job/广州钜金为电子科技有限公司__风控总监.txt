@@ -1,0 +1,1 @@
+{'company_name': '广州钜金为电子科技有限公司', 'job_name': '风控总监', 'geography': '广州-越秀区', 'bonus': ['周末双休', '带薪年假', '绩效奖金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130615678.html?rc=03'}

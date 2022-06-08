@@ -1,0 +1,1 @@
+{'company_name': '卡特彼勒技术研发中国有限公司', 'job_name': '高级焊接工程师', 'geography': '无锡-无锡新区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/131219823.html?rc=03'}

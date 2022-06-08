@@ -1,0 +1,1 @@
+{'company_name': '南京沃成科技有限公司', 'job_name': '软件技术工程师软件实施工程师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '员工旅游', '专业培训', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/88005312.html?rc=03'}

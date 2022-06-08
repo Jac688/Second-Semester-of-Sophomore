@@ -1,0 +1,1 @@
+{'company_name': '奥卓莱科技集团', 'job_name': '软件开发工程师', 'geography': '上海-松江区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '带薪年假'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117657864.html?rc=03'}

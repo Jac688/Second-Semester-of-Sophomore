@@ -1,0 +1,1 @@
+{'company_name': '上海博达数据通信有限公司', 'job_name': 'WiFi开发工程师', 'geography': '上海-浦东新区', 'bonus': ['年终奖金', '工作午餐', '年休假', '五险一金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129458093.html?rc=03'}

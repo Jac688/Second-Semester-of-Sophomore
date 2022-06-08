@@ -1,0 +1,1 @@
+{'company_name': '四川和芯微电子股份有限公司', 'job_name': '应用软件开发工程师', 'geography': '异地招聘', 'bonus': ['补充医疗保险', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124699538.html?rc=03'}

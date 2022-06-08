@@ -1,0 +1,1 @@
+{'company_name': '南京行者无疆虚拟现实技术股份有限公司', 'job_name': 'Java中级软件开发工程师', 'geography': '南京-江宁区', 'bonus': ['社保', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/114588894.html?rc=03'}

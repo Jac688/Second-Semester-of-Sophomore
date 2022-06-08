@@ -1,0 +1,1 @@
+{'company_name': '南京鼎峯云信息科技有限公司', 'job_name': '网络在线技术维护', 'geography': '南京', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129755617.html?rc=03'}

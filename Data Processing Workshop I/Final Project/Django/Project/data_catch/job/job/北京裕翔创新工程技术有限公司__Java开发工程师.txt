@@ -1,0 +1,1 @@
+{'company_name': '北京裕翔创新工程技术有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-高新区', 'bonus': ['周末双休', '通讯补贴', '交通补贴', '弹性工作'], 'salary': 0.65, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129334793.html?rc=03'}

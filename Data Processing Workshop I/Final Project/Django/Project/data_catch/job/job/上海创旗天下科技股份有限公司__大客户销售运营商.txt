@@ -1,0 +1,1 @@
+{'company_name': '上海创旗天下科技股份有限公司', 'job_name': '大客户销售运营商', 'geography': '北京-海淀区', 'bonus': ['专业培训', '绩效奖金', '餐饮补贴', '加班补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130890609.html?rc=03'}

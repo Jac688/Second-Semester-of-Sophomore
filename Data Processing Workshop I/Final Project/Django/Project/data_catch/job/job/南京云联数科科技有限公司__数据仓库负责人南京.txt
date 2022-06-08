@@ -1,0 +1,1 @@
+{'company_name': '南京云联数科科技有限公司', 'job_name': '数据仓库负责人南京', 'geography': '南京-雨花台区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131315436.html?rc=03'}

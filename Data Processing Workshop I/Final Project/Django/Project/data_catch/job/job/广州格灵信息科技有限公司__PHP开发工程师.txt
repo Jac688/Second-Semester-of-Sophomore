@@ -1,0 +1,1 @@
+{'company_name': '广州格灵信息科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '员工旅游'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/131098085.html?rc=03'}

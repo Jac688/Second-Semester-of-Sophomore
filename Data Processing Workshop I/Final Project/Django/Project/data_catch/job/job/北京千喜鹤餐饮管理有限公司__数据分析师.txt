@@ -1,0 +1,1 @@
+{'company_name': '北京千喜鹤餐饮管理有限公司', 'job_name': '数据分析师', 'geography': '北京', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126030510.html?rc=03'}

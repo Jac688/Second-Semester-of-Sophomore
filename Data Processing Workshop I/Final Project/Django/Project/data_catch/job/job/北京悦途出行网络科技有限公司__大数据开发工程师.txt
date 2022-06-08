@@ -1,0 +1,1 @@
+{'company_name': '北京悦途出行网络科技有限公司', 'job_name': '大数据开发工程师', 'geography': '北京', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128577196.html?rc=03'}

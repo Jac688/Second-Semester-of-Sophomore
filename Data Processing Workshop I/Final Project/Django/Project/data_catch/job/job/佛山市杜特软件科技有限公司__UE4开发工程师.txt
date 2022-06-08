@@ -1,0 +1,1 @@
+{'company_name': '佛山市杜特软件科技有限公司', 'job_name': 'UE4开发工程师', 'geography': '异地招聘', 'bonus': ['绩效奖金', '节日福利', '带薪年假', '加班补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/121796099.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海因致信息科技有限公司', 'job_name': '高级软件工程师java嘉兴', 'geography': '嘉兴-南湖区', 'bonus': ['五险一金', '定期体检', '员工旅游', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/128404959.html?rc=03'}

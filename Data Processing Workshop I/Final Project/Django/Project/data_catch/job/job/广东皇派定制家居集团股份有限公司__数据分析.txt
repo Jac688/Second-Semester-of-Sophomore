@@ -1,0 +1,1 @@
+{'company_name': '广东皇派定制家居集团股份有限公司', 'job_name': '数据分析', 'geography': '佛山-三水区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/130666120.html?rc=03'}

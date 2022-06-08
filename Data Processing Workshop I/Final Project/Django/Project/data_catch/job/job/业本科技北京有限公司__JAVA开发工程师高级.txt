@@ -1,0 +1,1 @@
+{'company_name': '业本科技北京有限公司', 'job_name': 'JAVA开发工程师高级', 'geography': '北京-西城区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128117203.html?rc=03'}

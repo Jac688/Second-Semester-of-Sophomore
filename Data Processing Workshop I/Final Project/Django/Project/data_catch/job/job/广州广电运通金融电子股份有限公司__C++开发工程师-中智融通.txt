@@ -1,0 +1,1 @@
+{'company_name': '广州广电运通金融电子股份有限公司', 'job_name': 'C++开发工程师-中智融通', 'geography': '广州', 'bonus': ['五险一金', '免费班车', '员工旅游', '绩效奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132346164.html?rc=03'}

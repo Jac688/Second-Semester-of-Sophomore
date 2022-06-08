@@ -1,0 +1,1 @@
+{'company_name': '上海恩诺提亚酒业有限公司', 'job_name': '后端开发人员', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126147974.html?rc=03'}

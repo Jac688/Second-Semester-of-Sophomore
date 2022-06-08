@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '多媒体开发工程师', 'geography': '杭州', 'bonus': ['股票期权', '晋升空间大', '团队氛围好', '六险一金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/119224934.html?rc=03'}

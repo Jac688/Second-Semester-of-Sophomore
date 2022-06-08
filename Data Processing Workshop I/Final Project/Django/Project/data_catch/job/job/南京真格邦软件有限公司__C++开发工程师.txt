@@ -1,0 +1,1 @@
+{'company_name': '南京真格邦软件有限公司', 'job_name': 'C++开发工程师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '专业培训', '员工旅游', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132027966.html?rc=03'}

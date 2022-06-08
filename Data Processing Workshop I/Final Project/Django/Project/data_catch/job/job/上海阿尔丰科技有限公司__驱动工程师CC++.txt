@@ -1,0 +1,1 @@
+{'company_name': '上海阿尔丰科技有限公司', 'job_name': '驱动工程师CC++', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125788744.html?rc=03'}

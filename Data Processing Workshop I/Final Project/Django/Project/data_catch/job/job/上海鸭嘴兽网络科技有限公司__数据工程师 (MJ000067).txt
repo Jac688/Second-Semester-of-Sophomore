@@ -1,0 +1,1 @@
+{'company_name': '上海鸭嘴兽网络科技有限公司', 'job_name': '数据工程师 (MJ000067)', 'geography': '上海-宝山区', 'bonus': ['五险一金', '带薪年假', '做五休二', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132092345.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '大连光洋科技集团有限公司', 'job_name': '002JAVA、C++研发工程师', 'geography': '大连', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dalian/130191698.html?rc=03'}

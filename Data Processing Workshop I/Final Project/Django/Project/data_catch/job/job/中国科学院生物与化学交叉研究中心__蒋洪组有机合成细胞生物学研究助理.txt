@@ -1,0 +1,1 @@
+{'company_name': '中国科学院生物与化学交叉研究中心', 'job_name': '蒋洪组有机合成细胞生物学研究助理', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/69902295.html?rc=03'}

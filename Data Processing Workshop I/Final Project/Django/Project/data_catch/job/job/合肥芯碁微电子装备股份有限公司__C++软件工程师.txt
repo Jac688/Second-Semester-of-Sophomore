@@ -1,0 +1,1 @@
+{'company_name': '合肥芯碁微电子装备股份有限公司', 'job_name': 'C++软件工程师', 'geography': '合肥-高新区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hefei/75892751.html?rc=03'}

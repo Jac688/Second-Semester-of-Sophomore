@@ -1,0 +1,1 @@
+{'company_name': '东莞市兆恒机械有限公司', 'job_name': '电器工程师', 'geography': '东莞-东城区', 'bonus': ['包住宿', '包吃', '五险一金', '全勤奖'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131674903.html?rc=03'}

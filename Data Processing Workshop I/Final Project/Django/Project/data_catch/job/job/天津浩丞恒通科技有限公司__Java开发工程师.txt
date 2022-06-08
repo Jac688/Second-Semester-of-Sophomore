@@ -1,0 +1,1 @@
+{'company_name': '天津浩丞恒通科技有限公司', 'job_name': 'Java开发工程师', 'geography': '天津-西青区', 'bonus': ['五险一金', '绩效奖金', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/107551949.html?rc=03'}

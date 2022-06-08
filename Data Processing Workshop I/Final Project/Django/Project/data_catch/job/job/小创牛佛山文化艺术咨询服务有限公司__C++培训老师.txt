@@ -1,0 +1,1 @@
+{'company_name': '小创牛佛山文化艺术咨询服务有限公司', 'job_name': 'C++培训老师', 'geography': '佛山-南海区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/foshan/126559556.html?rc=03'}

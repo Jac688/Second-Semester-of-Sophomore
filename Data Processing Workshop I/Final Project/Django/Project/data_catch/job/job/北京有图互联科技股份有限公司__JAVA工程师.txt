@@ -1,0 +1,1 @@
+{'company_name': '北京有图互联科技股份有限公司', 'job_name': 'JAVA工程师', 'geography': '北京', 'bonus': ['五险一金', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/84300670.html?rc=03'}

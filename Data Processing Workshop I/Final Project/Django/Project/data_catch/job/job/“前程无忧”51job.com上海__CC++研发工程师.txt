@@ -1,0 +1,1 @@
+{'company_name': '“前程无忧”51job.com上海', 'job_name': 'CC++研发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '专业培训', '免费班车', '年终奖金'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/67023942.html?rc=03'}

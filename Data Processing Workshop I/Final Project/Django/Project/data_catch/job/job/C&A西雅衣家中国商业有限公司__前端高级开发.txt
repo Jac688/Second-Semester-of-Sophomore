@@ -1,0 +1,1 @@
+{'company_name': 'C&A西雅衣家中国商业有限公司', 'job_name': '前端高级开发', 'geography': '上海', 'bonus': ['带薪年假', '五险一金', '专业培训', '加班补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131278067.html?rc=03'}

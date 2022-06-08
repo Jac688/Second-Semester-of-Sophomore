@@ -1,0 +1,1 @@
+{'company_name': '上海合杰人才服务有限公司', 'job_name': '阿里HRSSC-数据分析', 'geography': '杭州-余杭区', 'bonus': ['五险一金', '定期体检', '专业培训', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130489475.html?rc=03'}

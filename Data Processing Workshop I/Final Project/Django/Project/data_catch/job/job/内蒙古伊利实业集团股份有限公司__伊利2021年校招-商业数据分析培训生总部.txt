@@ -1,0 +1,1 @@
+{'company_name': '内蒙古伊利实业集团股份有限公司', 'job_name': '伊利2021年校招-商业数据分析培训生总部', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '免费班车', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129906288.html?rc=03'}

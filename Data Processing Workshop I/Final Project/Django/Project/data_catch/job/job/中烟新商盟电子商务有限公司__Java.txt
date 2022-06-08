@@ -1,0 +1,1 @@
+{'company_name': '中烟新商盟电子商务有限公司', 'job_name': 'Java', 'geography': '宁波-江北区', 'bonus': ['包吃', '专业培训', '五险一金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/132047434.html?rc=03'}

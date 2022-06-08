@@ -1,0 +1,1 @@
+{'company_name': '广东江南理工高级技工学校', 'job_name': '计算机网络应用计算机网页设计老师', 'geography': '广州-白云区', 'bonus': ['节日福利', '生日礼品', '年终奖金', '员工旅游'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124073912.html?rc=03'}

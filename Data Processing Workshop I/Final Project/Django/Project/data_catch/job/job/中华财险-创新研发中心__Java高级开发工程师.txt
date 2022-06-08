@@ -1,0 +1,1 @@
+{'company_name': '中华财险-创新研发中心', 'job_name': 'Java高级开发工程师', 'geography': '杭州-拱墅区', 'bonus': [], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/124187747.html?rc=03'}

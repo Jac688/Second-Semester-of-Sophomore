@@ -1,0 +1,1 @@
+{'company_name': '奥林巴斯北京销售服务有限公司', 'job_name': '外企IT-SCRM系统架构岗', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131983328.html?rc=03'}

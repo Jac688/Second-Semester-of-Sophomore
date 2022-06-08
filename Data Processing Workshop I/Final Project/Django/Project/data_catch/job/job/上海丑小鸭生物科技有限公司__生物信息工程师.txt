@@ -1,0 +1,1 @@
+{'company_name': '上海丑小鸭生物科技有限公司', 'job_name': '生物信息工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128980166.html?rc=03'}

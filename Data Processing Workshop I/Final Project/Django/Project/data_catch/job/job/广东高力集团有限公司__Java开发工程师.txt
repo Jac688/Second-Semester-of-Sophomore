@@ -1,0 +1,1 @@
+{'company_name': '广东高力集团有限公司', 'job_name': 'Java开发工程师', 'geography': '佛山', 'bonus': ['社保五险', '年终奖金', '提供住宿', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131149595.html?rc=03'}

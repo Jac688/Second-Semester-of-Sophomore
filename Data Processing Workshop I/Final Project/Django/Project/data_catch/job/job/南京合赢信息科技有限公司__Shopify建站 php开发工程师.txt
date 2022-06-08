@@ -1,0 +1,1 @@
+{'company_name': '南京合赢信息科技有限公司', 'job_name': 'Shopify建站 php开发工程师', 'geography': '南京', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/110505690.html?rc=03'}

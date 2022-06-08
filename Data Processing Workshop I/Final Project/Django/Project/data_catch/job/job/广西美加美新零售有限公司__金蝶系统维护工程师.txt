@@ -1,0 +1,1 @@
+{'company_name': '广西美加美新零售有限公司', 'job_name': '金蝶系统维护工程师', 'geography': '南宁-青秀区', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/130922279.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海润和信息技术服务有限公司', 'job_name': 'java开发金融项目，稳定，平台好', 'geography': '南京-建邺区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132052425.html?rc=03'}

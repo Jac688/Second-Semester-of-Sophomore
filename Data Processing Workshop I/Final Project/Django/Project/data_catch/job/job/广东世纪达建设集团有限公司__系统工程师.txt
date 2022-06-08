@@ -1,0 +1,1 @@
+{'company_name': '广东世纪达建设集团有限公司', 'job_name': '系统工程师', 'geography': '佛山-南海区', 'bonus': ['包吃', '五险一金', '员工旅游', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/120180648.html?rc=03'}

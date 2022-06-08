@@ -1,0 +1,1 @@
+{'company_name': '广东度才子集团有限公司', 'job_name': 'Java开发工程师', 'geography': '东莞-松山湖区', 'bonus': ['五险一金', '员工旅游', '专业培训', '弹性工作'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130842176.html?rc=03'}

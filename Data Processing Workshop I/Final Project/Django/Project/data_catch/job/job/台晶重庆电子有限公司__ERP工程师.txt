@@ -1,0 +1,1 @@
+{'company_name': '台晶重庆电子有限公司', 'job_name': 'ERP工程师', 'geography': '重庆-九龙坡区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 0.38, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/118352817.html?rc=03'}

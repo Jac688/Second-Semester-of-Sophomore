@@ -1,0 +1,1 @@
+{'company_name': '东莞市钰凯精密模具有限公司', 'job_name': '软件工程师深圳', 'geography': '异地招聘', 'bonus': ['五险一金', '年终奖金', '免费食宿', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/128506185.html?rc=03'}

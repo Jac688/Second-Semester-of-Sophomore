@@ -1,0 +1,1 @@
+{'company_name': '北京联科数信科技有限公司', 'job_name': '8k大数据分析师应届岗位', 'geography': '北京-丰台区', 'bonus': ['五险一金', '专业培训', '弹性工作', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124697581.html?rc=03'}

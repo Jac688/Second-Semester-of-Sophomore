@@ -1,0 +1,1 @@
+{'company_name': '优必选苏州科技有限公司', 'job_name': 'C++开发工程师ROS方向', 'geography': '苏州-吴中区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131677951.html?rc=03'}

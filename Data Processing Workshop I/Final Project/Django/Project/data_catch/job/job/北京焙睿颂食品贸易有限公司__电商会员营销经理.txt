@@ -1,0 +1,1 @@
+{'company_name': '北京焙睿颂食品贸易有限公司', 'job_name': '电商会员营销经理', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130851379.html?rc=03'}

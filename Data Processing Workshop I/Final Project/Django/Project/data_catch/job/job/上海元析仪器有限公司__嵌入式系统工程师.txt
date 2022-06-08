@@ -1,0 +1,1 @@
+{'company_name': '上海元析仪器有限公司', 'job_name': '嵌入式系统工程师', 'geography': '上海-松江区', 'bonus': ['员工旅游', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125321570.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中电通商数字技术上海有限公司', 'job_name': '高级系统架构师-Java', 'geography': '重庆-渝中区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129318906.html?rc=03'}

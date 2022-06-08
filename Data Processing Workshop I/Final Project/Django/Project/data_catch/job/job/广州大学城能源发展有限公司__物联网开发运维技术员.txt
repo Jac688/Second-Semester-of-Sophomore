@@ -1,0 +1,1 @@
+{'company_name': '广州大学城能源发展有限公司', 'job_name': '物联网开发运维技术员', 'geography': '广州-番禺区', 'bonus': ['五险一金', '交通补贴', '年终奖金', '补充医疗保险'], 'salary': 1.17, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128870633.html?rc=03'}

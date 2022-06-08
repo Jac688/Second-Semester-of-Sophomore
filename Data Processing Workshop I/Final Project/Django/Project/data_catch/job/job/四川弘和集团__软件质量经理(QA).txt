@@ -1,0 +1,1 @@
+{'company_name': '四川弘和集团', 'job_name': '软件质量经理(QA)', 'geography': '成都-武侯区', 'bonus': ['周末双休', '绩效奖金', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127038955.html?rc=03'}

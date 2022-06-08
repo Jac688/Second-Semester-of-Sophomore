@@ -1,0 +1,1 @@
+{'company_name': '宁波太平鸟时尚服饰股份有限公司', 'job_name': '技术架构师 - JAVA - G00613', 'geography': '宁波-高新区', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129481559.html?rc=03'}

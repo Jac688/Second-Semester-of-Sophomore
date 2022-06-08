@@ -1,0 +1,1 @@
+{'company_name': '惠州飞视捷科技有限公司', 'job_name': '算法工程师', 'geography': '惠州', 'bonus': ['交通补贴', '绩效奖金', '销售提成'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/121544730.html?rc=03'}

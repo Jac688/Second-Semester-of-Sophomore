@@ -1,0 +1,1 @@
+{'company_name': '中科海拓无锡科技有限公司', 'job_name': 'Java开发工程师', 'geography': '无锡-滨湖区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/113768984.html?rc=03'}

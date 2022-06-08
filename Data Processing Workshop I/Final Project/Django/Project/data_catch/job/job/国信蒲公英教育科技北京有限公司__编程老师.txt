@@ -1,0 +1,1 @@
+{'company_name': '国信蒲公英教育科技北京有限公司', 'job_name': '编程老师', 'geography': '北京-昌平区', 'bonus': ['五险一金', '绩效奖金', '周末双休', '节日福利'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131129225.html?rc=03'}

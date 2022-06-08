@@ -1,0 +1,1 @@
+{'company_name': '叠拓信息技术(北京)有限公司成都分公司', 'job_name': '初级软件工程师 CC++', 'geography': '成都-高新区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '出国机会'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/123007657.html?rc=03'}

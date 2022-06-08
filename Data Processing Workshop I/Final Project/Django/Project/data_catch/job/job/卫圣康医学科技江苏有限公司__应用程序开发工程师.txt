@@ -1,0 +1,1 @@
+{'company_name': '卫圣康医学科技江苏有限公司', 'job_name': '应用程序开发工程师', 'geography': '上海-静安区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122232354.html?rc=03'}

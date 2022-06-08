@@ -1,0 +1,1 @@
+{'company_name': '安徽领聚数字技术有限公司', 'job_name': 'PHP开发工程师', 'geography': '合肥-高新区', 'bonus': ['弹性工作', '带薪年假', '五险一金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hefei/128630874.html?rc=03'}

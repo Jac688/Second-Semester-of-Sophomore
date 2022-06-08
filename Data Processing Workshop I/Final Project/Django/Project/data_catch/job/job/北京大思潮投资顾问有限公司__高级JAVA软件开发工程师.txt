@@ -1,0 +1,1 @@
+{'company_name': '北京大思潮投资顾问有限公司', 'job_name': '高级JAVA软件开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128529515.html?rc=03'}

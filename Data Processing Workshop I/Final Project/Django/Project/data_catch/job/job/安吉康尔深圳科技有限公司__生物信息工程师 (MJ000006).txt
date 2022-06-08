@@ -1,0 +1,1 @@
+{'company_name': '安吉康尔深圳科技有限公司', 'job_name': '生物信息工程师 (MJ000006)', 'geography': '深圳-龙华区', 'bonus': ['绩效奖金', '免费班车', '专业培训', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128986135.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '一柏集团有限公司', 'job_name': 'IT主管', 'geography': '福州-鼓楼区', 'bonus': ['周末双休', '五险一金', '全勤奖', '节日福利'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/128867770.html?rc=03'}

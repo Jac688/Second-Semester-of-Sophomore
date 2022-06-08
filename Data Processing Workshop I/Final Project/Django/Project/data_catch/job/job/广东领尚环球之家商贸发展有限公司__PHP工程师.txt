@@ -1,0 +1,1 @@
+{'company_name': '广东领尚环球之家商贸发展有限公司', 'job_name': 'PHP工程师', 'geography': '佛山-顺德区', 'bonus': ['专业培训', '节日福利', '员工旅游', '社会保险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/124000267.html?rc=03'}

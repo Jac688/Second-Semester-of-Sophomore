@@ -1,0 +1,1 @@
+{'company_name': '云南远足科技有限公司', 'job_name': '视觉算法工程师', 'geography': '异地招聘', 'bonus': ['购买五险', '供午餐', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/120262864.html?rc=03'}

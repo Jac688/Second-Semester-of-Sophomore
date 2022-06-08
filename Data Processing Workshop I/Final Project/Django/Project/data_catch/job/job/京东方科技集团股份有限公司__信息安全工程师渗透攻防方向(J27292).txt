@@ -1,0 +1,1 @@
+{'company_name': '京东方科技集团股份有限公司', 'job_name': '信息安全工程师渗透攻防方向(J27292)', 'geography': '北京', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132113509.html?rc=03'}

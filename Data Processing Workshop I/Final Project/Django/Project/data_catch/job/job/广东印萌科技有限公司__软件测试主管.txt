@@ -1,0 +1,1 @@
+{'company_name': '广东印萌科技有限公司', 'job_name': '软件测试主管', 'geography': '广州-番禺区', 'bonus': ['五险一金', '员工活动', '下午茶', '大牛带队'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131729020.html?rc=03'}

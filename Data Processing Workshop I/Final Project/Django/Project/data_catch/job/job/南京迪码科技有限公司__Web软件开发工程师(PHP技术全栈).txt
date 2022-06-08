@@ -1,0 +1,1 @@
+{'company_name': '南京迪码科技有限公司', 'job_name': 'Web软件开发工程师(PHP技术全栈)', 'geography': '南京-鼓楼区', 'bonus': ['14薪', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130797525.html?rc=03'}

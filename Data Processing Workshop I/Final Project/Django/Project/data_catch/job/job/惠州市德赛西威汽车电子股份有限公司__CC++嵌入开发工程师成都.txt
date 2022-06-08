@@ -1,0 +1,1 @@
+{'company_name': '惠州市德赛西威汽车电子股份有限公司', 'job_name': 'CC++嵌入开发工程师成都', 'geography': '成都', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127454376.html?rc=03'}

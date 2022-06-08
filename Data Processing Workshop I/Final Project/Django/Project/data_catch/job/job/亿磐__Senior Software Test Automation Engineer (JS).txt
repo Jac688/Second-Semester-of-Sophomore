@@ -1,0 +1,1 @@
+{'company_name': '亿磐', 'job_name': 'Senior Software Test Automation Engineer (JS)', 'geography': '苏州-工业园区', 'bonus': ['专业培训', '弹性工作', '五险一金', '补充医疗保险'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130449176.html?rc=03'}

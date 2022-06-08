@@ -1,0 +1,1 @@
+{'company_name': '广东优世联合控股集团股份有限公司', 'job_name': 'UE4开发工程师', 'geography': '广州', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '五天工作制'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128539490.html?rc=03'}

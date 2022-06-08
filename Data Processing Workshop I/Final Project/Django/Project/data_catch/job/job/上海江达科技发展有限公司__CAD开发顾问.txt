@@ -1,0 +1,1 @@
+{'company_name': '上海江达科技发展有限公司', 'job_name': 'CAD开发顾问', 'geography': '成都', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128858814.html?rc=03'}

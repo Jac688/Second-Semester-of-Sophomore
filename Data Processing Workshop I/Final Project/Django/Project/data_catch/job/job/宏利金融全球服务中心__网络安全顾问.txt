@@ -1,0 +1,1 @@
+{'company_name': '宏利金融全球服务中心', 'job_name': '网络安全顾问', 'geography': '成都', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130766919.html?rc=03'}

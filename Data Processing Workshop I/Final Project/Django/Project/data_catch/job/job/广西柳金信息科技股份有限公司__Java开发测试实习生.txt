@@ -1,0 +1,1 @@
+{'company_name': '广西柳金信息科技股份有限公司', 'job_name': 'Java开发测试实习生', 'geography': '异地招聘', 'bonus': [], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/guangxi/129369549.html?rc=03'}

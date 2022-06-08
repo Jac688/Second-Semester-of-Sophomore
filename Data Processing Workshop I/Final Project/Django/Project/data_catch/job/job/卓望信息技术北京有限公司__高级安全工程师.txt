@@ -1,0 +1,1 @@
+{'company_name': '卓望信息技术北京有限公司', 'job_name': '高级安全工程师', 'geography': '北京-丰台区', 'bonus': ['中移动控股', '专业培训', '通讯补贴', '补充医疗保险'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128606386.html?rc=03'}

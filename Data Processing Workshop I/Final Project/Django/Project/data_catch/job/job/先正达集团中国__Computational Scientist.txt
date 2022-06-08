@@ -1,0 +1,1 @@
+{'company_name': '先正达集团中国', 'job_name': 'Computational Scientist', 'geography': '北京-昌平区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128178885.html?rc=03'}

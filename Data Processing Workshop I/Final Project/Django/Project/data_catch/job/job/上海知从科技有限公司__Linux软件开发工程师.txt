@@ -1,0 +1,1 @@
+{'company_name': '上海知从科技有限公司', 'job_name': 'Linux软件开发工程师', 'geography': '成都-龙泉驿区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128655864.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京华源泰盟节能设备有限公司', 'job_name': 'JAVA  软件开发工程师', 'geography': '烟台', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/yantai/102281090.html?rc=03'}

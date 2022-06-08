@@ -1,0 +1,1 @@
+{'company_name': '台达电子东莞有限公司', 'job_name': '软体设计资深工程師', 'geography': '东莞', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '专业培训'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131807485.html?rc=03'}

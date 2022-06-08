@@ -1,0 +1,1 @@
+{'company_name': '上海威士顿信息技术股份有限公司', 'job_name': 'Java开发工程师金融行业', 'geography': '合肥-包河区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hefei/129565455.html?rc=03'}

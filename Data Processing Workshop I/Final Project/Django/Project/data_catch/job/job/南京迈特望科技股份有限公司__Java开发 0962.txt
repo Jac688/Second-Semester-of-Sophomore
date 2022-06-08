@@ -1,0 +1,1 @@
+{'company_name': '南京迈特望科技股份有限公司', 'job_name': 'Java开发 0962', 'geography': '上海-静安区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132276996.html?rc=03'}

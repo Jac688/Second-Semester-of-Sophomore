@@ -1,0 +1,1 @@
+{'company_name': '广州市有车以后信息科技有限公司', 'job_name': 'Java初级开发工程师', 'geography': '广州-海珠区', 'bonus': ['员工旅游', '股票期权', '六险一金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131943077.html?rc=03'}

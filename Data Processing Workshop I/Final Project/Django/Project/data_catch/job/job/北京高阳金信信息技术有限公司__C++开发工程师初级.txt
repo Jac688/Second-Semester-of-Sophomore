@@ -1,0 +1,1 @@
+{'company_name': '北京高阳金信信息技术有限公司', 'job_name': 'C++开发工程师初级', 'geography': '北京-海淀区', 'bonus': ['五险一金', '定期体检', '通讯补贴', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132009887.html?rc=03'}

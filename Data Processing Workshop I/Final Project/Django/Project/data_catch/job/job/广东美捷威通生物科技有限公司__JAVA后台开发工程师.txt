@@ -1,0 +1,1 @@
+{'company_name': '广东美捷威通生物科技有限公司', 'job_name': 'JAVA后台开发工程师', 'geography': '广州-黄埔区', 'bonus': ['餐饮补贴', '弹性工作', '通讯补贴', '补充医疗保险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/115144180.html?rc=03'}

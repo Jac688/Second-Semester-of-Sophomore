@@ -1,0 +1,1 @@
+{'company_name': '上海物联网有限公司', 'job_name': 'JAVA后端开发工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127118056.html?rc=03'}

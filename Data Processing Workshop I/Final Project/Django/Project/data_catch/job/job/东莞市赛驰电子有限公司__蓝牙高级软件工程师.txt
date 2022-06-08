@@ -1,0 +1,1 @@
+{'company_name': '东莞市赛驰电子有限公司', 'job_name': '蓝牙高级软件工程师', 'geography': '东莞-长安镇', 'bonus': ['做五休二', '五险一金', '包吃', '免费班车'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131812992.html?rc=03'}

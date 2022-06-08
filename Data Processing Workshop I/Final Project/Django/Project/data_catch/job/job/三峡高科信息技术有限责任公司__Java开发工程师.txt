@@ -1,0 +1,1 @@
+{'company_name': '三峡高科信息技术有限责任公司', 'job_name': 'Java开发工程师', 'geography': '北京', 'bonus': ['五险一金', '专业培训', '年终奖金', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/108018277.html?rc=03'}

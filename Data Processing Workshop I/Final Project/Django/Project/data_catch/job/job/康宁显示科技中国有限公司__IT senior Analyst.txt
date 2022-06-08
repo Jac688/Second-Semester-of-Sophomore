@@ -1,0 +1,1 @@
+{'company_name': '康宁显示科技中国有限公司', 'job_name': 'IT senior Analyst', 'geography': '绵阳-涪城区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/mianyang/128151012.html?rc=03'}

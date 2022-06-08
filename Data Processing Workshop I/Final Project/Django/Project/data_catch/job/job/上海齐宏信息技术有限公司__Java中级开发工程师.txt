@@ -1,0 +1,1 @@
+{'company_name': '上海齐宏信息技术有限公司', 'job_name': 'Java中级开发工程师', 'geography': '苏州-姑苏区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130801057.html?rc=03'}

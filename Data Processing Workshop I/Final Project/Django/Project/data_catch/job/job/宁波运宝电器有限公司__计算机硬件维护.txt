@@ -1,0 +1,1 @@
+{'company_name': '宁波运宝电器有限公司', 'job_name': '计算机硬件维护', 'geography': '宁波-北仑区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127984657.html?rc=03'}

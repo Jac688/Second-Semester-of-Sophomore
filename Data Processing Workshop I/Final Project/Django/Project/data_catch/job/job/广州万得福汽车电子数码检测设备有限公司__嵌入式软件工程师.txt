@@ -1,0 +1,1 @@
+{'company_name': '广州万得福汽车电子数码检测设备有限公司', 'job_name': '嵌入式软件工程师', 'geography': '广州-花都区', 'bonus': ['员工旅游', '年终奖金', '包吃', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129111516.html?rc=03'}

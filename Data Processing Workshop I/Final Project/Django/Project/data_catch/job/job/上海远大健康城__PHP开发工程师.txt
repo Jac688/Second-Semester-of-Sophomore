@@ -1,0 +1,1 @@
+{'company_name': '上海远大健康城', 'job_name': 'PHP开发工程师', 'geography': '上海-青浦区', 'bonus': ['餐饮补贴', '定期体检', '提供宿舍', '医药报销'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131901489.html?rc=03'}

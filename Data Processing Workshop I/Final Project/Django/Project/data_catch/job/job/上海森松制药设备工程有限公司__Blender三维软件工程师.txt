@@ -1,0 +1,1 @@
+{'company_name': '上海森松制药设备工程有限公司', 'job_name': 'Blender三维软件工程师', 'geography': '上海', 'bonus': ['做五休二', '带薪年假', '五险一金', '免费班车'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127944596.html?rc=03'}

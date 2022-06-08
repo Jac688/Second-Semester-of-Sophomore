@@ -1,0 +1,1 @@
+{'company_name': '上海致宇信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129485733.html?rc=03'}

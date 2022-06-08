@@ -1,0 +1,1 @@
+{'company_name': '中国科学院药物创新研究院中山研究院中国科学院药物创新研究院华南分院', 'job_name': '时广森课题组招聘科研助理-日常管理', 'geography': '异地招聘', 'bonus': ['五险一金', '交通补贴', '周末双休', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132076842.html?rc=03'}

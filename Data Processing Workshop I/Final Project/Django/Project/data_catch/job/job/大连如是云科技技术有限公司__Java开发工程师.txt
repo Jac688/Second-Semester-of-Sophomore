@@ -1,0 +1,1 @@
+{'company_name': '大连如是云科技技术有限公司', 'job_name': 'Java开发工程师', 'geography': '无锡-滨湖区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/131724582.html?rc=03'}

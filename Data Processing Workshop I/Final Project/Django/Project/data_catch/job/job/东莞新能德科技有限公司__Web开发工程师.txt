@@ -1,0 +1,1 @@
+{'company_name': '东莞新能德科技有限公司', 'job_name': 'Web开发工程师', 'geography': '东莞-东坑镇', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '专业培训'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/98381497.html?rc=03'}

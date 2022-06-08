@@ -1,0 +1,1 @@
+{'company_name': '忠华集团有限公司', 'job_name': 'Java开发工程师', 'geography': '清远', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/qingyuan/96182761.html?rc=03'}

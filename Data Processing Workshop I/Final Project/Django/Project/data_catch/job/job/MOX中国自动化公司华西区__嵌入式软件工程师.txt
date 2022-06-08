@@ -1,0 +1,1 @@
+{'company_name': 'MOX中国自动化公司华西区', 'job_name': '嵌入式软件工程师', 'geography': '重庆-北碚区', 'bonus': ['五险一金', '通讯补贴', '年终奖金', '周末双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/121956043.html?rc=03'}

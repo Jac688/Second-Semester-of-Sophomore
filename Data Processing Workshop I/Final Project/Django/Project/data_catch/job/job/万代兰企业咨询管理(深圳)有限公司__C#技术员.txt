@@ -1,0 +1,1 @@
+{'company_name': '万代兰企业咨询管理(深圳)有限公司', 'job_name': 'C#技术员', 'geography': '深圳-龙华区', 'bonus': ['带薪年假', '五险一金', '员工旅游', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127702097.html?rc=03'}

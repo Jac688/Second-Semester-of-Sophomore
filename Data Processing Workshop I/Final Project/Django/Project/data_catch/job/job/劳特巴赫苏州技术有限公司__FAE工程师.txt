@@ -1,0 +1,1 @@
+{'company_name': '劳特巴赫苏州技术有限公司', 'job_name': 'FAE工程师', 'geography': '苏州-工业园区', 'bonus': ['餐饮补贴', '专业培训', '弹性工作', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131195371.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京博苑未来管理顾问有限公司', 'job_name': 'Java中级开发工程师', 'geography': '北京-海淀区', 'bonus': ['包吃', '五险一金', '创业公司'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127073778.html?rc=03'}

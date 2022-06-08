@@ -1,0 +1,1 @@
+{'company_name': '北京恒泰实达科技股份有限公司', 'job_name': '测试工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '定期体检', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131998309.html?rc=03'}

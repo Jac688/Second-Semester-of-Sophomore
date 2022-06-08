@@ -1,0 +1,1 @@
+{'company_name': '北京泛生子基因科技有限公司', 'job_name': '高级生物信息工程师临检业务', 'geography': '杭州-下城区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '团队聚餐'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129584663.html?rc=03'}

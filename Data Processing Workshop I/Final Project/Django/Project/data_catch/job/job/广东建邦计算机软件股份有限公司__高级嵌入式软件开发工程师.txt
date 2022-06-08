@@ -1,0 +1,1 @@
+{'company_name': '广东建邦计算机软件股份有限公司', 'job_name': '高级嵌入式软件开发工程师', 'geography': '东莞-东城区', 'bonus': ['员工旅游', '绩效奖金', '通讯补贴', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/78119664.html?rc=03'}

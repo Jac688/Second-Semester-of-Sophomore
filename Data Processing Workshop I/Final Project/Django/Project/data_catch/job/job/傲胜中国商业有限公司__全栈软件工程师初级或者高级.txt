@@ -1,0 +1,1 @@
+{'company_name': '傲胜中国商业有限公司', 'job_name': '全栈软件工程师初级或者高级', 'geography': '上海', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '出国旅游'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124783438.html?rc=03'}

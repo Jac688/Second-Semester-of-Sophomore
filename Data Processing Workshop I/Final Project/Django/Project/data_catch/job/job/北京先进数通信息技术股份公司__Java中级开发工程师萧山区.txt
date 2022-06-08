@@ -1,0 +1,1 @@
+{'company_name': '北京先进数通信息技术股份公司', 'job_name': 'Java中级开发工程师萧山区', 'geography': '杭州', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129785799.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '常州市扬子电子有限公司', 'job_name': '软件工程师', 'geography': '常州', 'bonus': ['员工旅游', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/129628541.html?rc=03'}

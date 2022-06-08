@@ -1,0 +1,1 @@
+{'company_name': '中犹南京智慧城市创新研究院有限公司', 'job_name': '视觉研发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131858785.html?rc=03'}

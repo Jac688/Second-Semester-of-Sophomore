@@ -1,0 +1,1 @@
+{'company_name': '品图锐光科技深圳有限公司', 'job_name': '软件工程师', 'geography': '深圳-龙岗区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127463979.html?rc=03'}

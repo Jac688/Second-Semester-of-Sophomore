@@ -1,0 +1,1 @@
+{'company_name': '北京科兴生物制品有限公司', 'job_name': 'LIMSMES系统工程师', 'geography': '北京', 'bonus': ['七险二金', '绩效奖金', '年度体检', '节日福利'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131994938.html?rc=03'}

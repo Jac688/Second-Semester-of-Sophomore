@@ -1,0 +1,1 @@
+{'company_name': '广东中海南联能源有限公司', 'job_name': '开发工程师', 'geography': '广州', 'bonus': ['五险', '年终奖金', '绩效奖金', '生日会'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131024615.html?rc=03'}

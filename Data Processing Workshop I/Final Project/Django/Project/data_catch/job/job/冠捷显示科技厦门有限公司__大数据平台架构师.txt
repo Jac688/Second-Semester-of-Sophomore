@@ -1,0 +1,1 @@
+{'company_name': '冠捷显示科技厦门有限公司', 'job_name': '大数据平台架构师', 'geography': '厦门', 'bonus': ['五险一金', '通讯补贴', '绩效奖金', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/128304399.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中科彭州智慧产业创新中心有限公司', 'job_name': 'java后端开发工程师', 'geography': '成都-双流区', 'bonus': [], 'salary': 12.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131596469.html?rc=03'}

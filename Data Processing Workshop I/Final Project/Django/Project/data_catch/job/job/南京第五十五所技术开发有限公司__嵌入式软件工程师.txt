@@ -1,0 +1,1 @@
+{'company_name': '南京第五十五所技术开发有限公司', 'job_name': '嵌入式软件工程师', 'geography': '南京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/123320289.html?rc=03'}

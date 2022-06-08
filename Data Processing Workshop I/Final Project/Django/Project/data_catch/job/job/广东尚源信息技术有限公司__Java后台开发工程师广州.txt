@@ -1,0 +1,1 @@
+{'company_name': '广东尚源信息技术有限公司', 'job_name': 'Java后台开发工程师广州', 'geography': '广州-越秀区', 'bonus': ['五险一金', '绩效奖金', '周末双休', '出差补助'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/86079445.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '山东木丁信息技术有限公司', 'job_name': '数据工程师', 'geography': '济南-历城区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '员工旅游'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/jinan/129831325.html?rc=03'}

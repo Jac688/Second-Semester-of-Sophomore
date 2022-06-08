@@ -1,0 +1,1 @@
+{'company_name': '广州检验检测认证集团有限公司', 'job_name': 'WEB开发人员', 'geography': '广州-番禺区', 'bonus': ['五险一金', '绩效奖金', '专业培训', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129986327.html?rc=03'}

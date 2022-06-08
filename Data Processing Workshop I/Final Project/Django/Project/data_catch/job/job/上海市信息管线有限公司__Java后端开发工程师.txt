@@ -1,0 +1,1 @@
+{'company_name': '上海市信息管线有限公司', 'job_name': 'Java后端开发工程师', 'geography': '上海', 'bonus': ['做五休二', '五险一金', '补充医疗保险', '补充公积金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122742427.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'JD京东商城上海分公司', 'job_name': '数据分析岗', 'geography': '上海-嘉定区', 'bonus': ['带薪年假', '五险一金', '包住宿', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131382058.html?rc=03'}

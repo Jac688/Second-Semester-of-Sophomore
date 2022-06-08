@@ -1,0 +1,1 @@
+{'company_name': '上海金脉电子科技有限公司', 'job_name': '软件主管', 'geography': '成都', 'bonus': ['五险一金', '员工旅游', '交通补贴', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124245449.html?rc=03'}

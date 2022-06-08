@@ -1,0 +1,1 @@
+{'company_name': '华域皮尔博格泵技术有限公司', 'job_name': '生产采购工程师  Commodity Purchasing Engineer', 'geography': '上海-宝山区', 'bonus': ['弹性工作', '专业培训', '免费班车', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/109578370.html?rc=03'}

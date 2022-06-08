@@ -1,0 +1,1 @@
+{'company_name': '威海新北洋技术服务有限公司', 'job_name': '售前售后技术支持工程师', 'geography': '威海', 'bonus': ['绩效奖金', '五险一金', '员工旅游', '交通补贴'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/weihai/125159110.html?rc=03'}

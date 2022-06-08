@@ -1,0 +1,1 @@
+{'company_name': '山东威高集团医用高分子制品股份有限公司', 'job_name': '高级软件工程师', 'geography': '苏州-虎丘区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/129990073.html?rc=03'}

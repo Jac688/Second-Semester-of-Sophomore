@@ -1,0 +1,1 @@
+{'company_name': '广州邦讯信息系统有限公司', 'job_name': 'CC++软件工程师', 'geography': '广州-天河区', 'bonus': ['年终奖金', '员工旅游', '免费班车', '专业培训'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132023651.html?rc=03'}

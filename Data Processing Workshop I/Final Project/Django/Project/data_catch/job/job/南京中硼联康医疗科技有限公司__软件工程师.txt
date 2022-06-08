@@ -1,0 +1,1 @@
+{'company_name': '南京中硼联康医疗科技有限公司', 'job_name': '软件工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/113053089.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州铁科智控有限公司', 'job_name': '智能运维研发工程师算法方向', 'geography': '广州-荔湾区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132337770.html?rc=03'}

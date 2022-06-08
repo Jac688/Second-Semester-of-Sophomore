@@ -1,0 +1,1 @@
+{'company_name': '上海斌登企业管理咨询有限公司', 'job_name': 'golang资深架构师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126423542.html?rc=03'}

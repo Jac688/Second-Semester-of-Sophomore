@@ -1,0 +1,1 @@
+{'company_name': '上海晨昆实业有限公司', 'job_name': 'Java开发工程师', 'geography': '重庆-渝北区', 'bonus': ['周末双休', '节日福利', '餐饮补贴', '五险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/120052376.html?rc=03'}

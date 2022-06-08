@@ -1,0 +1,1 @@
+{'company_name': '华夏航空股份有限公司', 'job_name': '业务运维工程师', 'geography': '重庆', 'bonus': ['带薪年假', '五险一金', '专业培训', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/116053914.html?rc=03'}

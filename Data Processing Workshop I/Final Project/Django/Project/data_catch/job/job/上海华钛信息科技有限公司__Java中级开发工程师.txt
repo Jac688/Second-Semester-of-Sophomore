@@ -1,0 +1,1 @@
+{'company_name': '上海华钛信息科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124787580.html?rc=03'}

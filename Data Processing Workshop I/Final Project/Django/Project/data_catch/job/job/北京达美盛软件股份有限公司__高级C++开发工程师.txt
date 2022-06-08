@@ -1,0 +1,1 @@
+{'company_name': '北京达美盛软件股份有限公司', 'job_name': '高级C++开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121342989.html?rc=03'}

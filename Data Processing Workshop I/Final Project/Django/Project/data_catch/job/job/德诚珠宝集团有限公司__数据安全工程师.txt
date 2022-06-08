@@ -1,0 +1,1 @@
+{'company_name': '德诚珠宝集团有限公司', 'job_name': '数据安全工程师', 'geography': '福州-长乐区', 'bonus': ['五险一金', '全勤奖', '包三餐包住宿', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/123271328.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海圆卓网络科技有限公司', 'job_name': '50万年薪求C++', 'geography': '上海-虹口区', 'bonus': ['做五休二', '周末双休', '弹性工作', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125151892.html?rc=03'}

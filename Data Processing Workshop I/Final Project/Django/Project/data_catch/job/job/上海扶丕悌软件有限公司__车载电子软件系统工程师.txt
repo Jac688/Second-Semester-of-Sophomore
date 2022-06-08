@@ -1,0 +1,1 @@
+{'company_name': '上海扶丕悌软件有限公司', 'job_name': '车载电子软件系统工程师', 'geography': '宁波', 'bonus': ['五险一金', '出国机会'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128927925.html?rc=03'}

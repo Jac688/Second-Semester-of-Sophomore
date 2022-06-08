@@ -1,0 +1,1 @@
+{'company_name': '佳都新太科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '年终奖金', '带薪年假', '周末双休'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131187381.html?rc=03'}

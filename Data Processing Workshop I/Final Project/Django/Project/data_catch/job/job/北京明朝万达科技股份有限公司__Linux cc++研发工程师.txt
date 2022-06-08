@@ -1,0 +1,1 @@
+{'company_name': '北京明朝万达科技股份有限公司', 'job_name': 'Linux cc++研发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '员工旅游'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/108499137.html?rc=03'}

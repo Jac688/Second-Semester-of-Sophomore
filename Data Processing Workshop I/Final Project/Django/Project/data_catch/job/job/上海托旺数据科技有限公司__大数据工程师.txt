@@ -1,0 +1,1 @@
+{'company_name': '上海托旺数据科技有限公司', 'job_name': '大数据工程师', 'geography': '上海-长宁区', 'bonus': ['做五休二', '五险一金', '周末双休', '节日福利'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124092535.html?rc=03'}

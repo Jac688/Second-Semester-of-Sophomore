@@ -1,0 +1,1 @@
+{'company_name': '上海伯杰医疗科技有限公司', 'job_name': '软件工程师上位机', 'geography': '上海-奉贤区', 'bonus': ['专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129840559.html?rc=03'}

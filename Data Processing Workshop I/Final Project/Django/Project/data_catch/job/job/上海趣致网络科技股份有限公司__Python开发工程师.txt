@@ -1,0 +1,1 @@
+{'company_name': '上海趣致网络科技股份有限公司', 'job_name': 'Python开发工程师', 'geography': '上海-杨浦区', 'bonus': ['做五休二', '周末双休', '五险一金', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131215499.html?rc=03'}

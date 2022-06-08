@@ -1,0 +1,1 @@
+{'company_name': '上海百胜软件股份有限公司', 'job_name': '实施顾问-杭州(J10128)', 'geography': '杭州-下城区', 'bonus': ['五险一金', '补充公积金', '年终奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127216608.html?rc=03'}

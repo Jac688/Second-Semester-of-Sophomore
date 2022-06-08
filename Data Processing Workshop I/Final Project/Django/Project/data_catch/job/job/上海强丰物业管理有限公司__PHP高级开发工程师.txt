@@ -1,0 +1,1 @@
+{'company_name': '上海强丰物业管理有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '上海-松江区', 'bonus': ['五险一金', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129002149.html?rc=03'}

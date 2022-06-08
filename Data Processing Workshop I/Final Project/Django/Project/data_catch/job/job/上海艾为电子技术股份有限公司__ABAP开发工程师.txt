@@ -1,0 +1,1 @@
+{'company_name': '上海艾为电子技术股份有限公司', 'job_name': 'ABAP开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120243039.html?rc=03'}

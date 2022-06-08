@@ -1,0 +1,1 @@
+{'company_name': '上海闻泰信息技术有限公司', 'job_name': '产品测试开发服务器方向(J11374)', 'geography': '无锡-滨湖区', 'bonus': ['五险一金', '专业培训', '餐饮补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/128836386.html?rc=03'}

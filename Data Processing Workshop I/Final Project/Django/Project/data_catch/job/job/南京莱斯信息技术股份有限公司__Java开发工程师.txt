@@ -1,0 +1,1 @@
+{'company_name': '南京莱斯信息技术股份有限公司', 'job_name': 'Java开发工程师', 'geography': '金华-婺城区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '交通补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinhua/131882481.html?rc=03'}

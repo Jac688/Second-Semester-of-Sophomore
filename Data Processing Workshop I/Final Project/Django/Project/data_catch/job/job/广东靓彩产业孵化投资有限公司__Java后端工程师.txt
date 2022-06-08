@@ -1,0 +1,1 @@
+{'company_name': '广东靓彩产业孵化投资有限公司', 'job_name': 'Java后端工程师', 'geography': '异地招聘', 'bonus': ['包吃包住', '购买社保', '员工旅游', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130190895.html?rc=03'}

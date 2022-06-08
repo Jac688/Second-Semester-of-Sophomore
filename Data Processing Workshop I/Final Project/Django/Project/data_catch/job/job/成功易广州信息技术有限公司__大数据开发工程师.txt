@@ -1,0 +1,1 @@
+{'company_name': '成功易广州信息技术有限公司', 'job_name': '大数据开发工程师', 'geography': '广州-黄埔区', 'bonus': ['周末双休', '带薪年假', '绩效奖金', '全勤奖'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129130213.html?rc=03'}

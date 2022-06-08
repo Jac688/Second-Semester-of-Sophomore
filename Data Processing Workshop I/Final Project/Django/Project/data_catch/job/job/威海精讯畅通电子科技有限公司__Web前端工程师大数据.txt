@@ -1,0 +1,1 @@
+{'company_name': '威海精讯畅通电子科技有限公司', 'job_name': 'Web前端工程师大数据', 'geography': '威海', 'bonus': ['节日福利', '绩效奖金', '全勤奖', '五险一金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/weihai/122185130.html?rc=03'}

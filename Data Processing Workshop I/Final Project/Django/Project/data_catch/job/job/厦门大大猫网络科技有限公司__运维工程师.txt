@@ -1,0 +1,1 @@
+{'company_name': '厦门大大猫网络科技有限公司', 'job_name': '运维工程师', 'geography': '厦门', 'bonus': ['五险一金', '绩效奖金', '员工旅游', '全勤奖'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/93690656.html?rc=03'}

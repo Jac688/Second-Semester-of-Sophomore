@@ -1,0 +1,1 @@
+{'company_name': '嘉利国际控股有限公司', 'job_name': '软件开发应届生', 'geography': '东莞', 'bonus': ['免费班车', '带薪年假', '五险一金', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/127367774.html?rc=03'}

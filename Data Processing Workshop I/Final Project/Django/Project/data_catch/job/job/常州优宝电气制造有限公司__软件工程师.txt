@@ -1,0 +1,1 @@
+{'company_name': '常州优宝电气制造有限公司', 'job_name': '软件工程师', 'geography': '常州', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/123705915.html?rc=03'}

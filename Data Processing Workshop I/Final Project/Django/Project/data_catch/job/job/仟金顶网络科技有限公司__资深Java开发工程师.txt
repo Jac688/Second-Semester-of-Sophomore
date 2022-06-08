@@ -1,0 +1,1 @@
+{'company_name': '仟金顶网络科技有限公司', 'job_name': '资深Java开发工程师', 'geography': '杭州-滨江区', 'bonus': ['周末双休', '弹性工作', '带薪年假', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/106759670.html?rc=03'}

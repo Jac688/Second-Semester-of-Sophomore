@@ -1,0 +1,1 @@
+{'company_name': '广州市聚众环保科技有限公司', 'job_name': '销售经理双休五险', 'geography': '广州-海珠区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/92437568.html?rc=03'}

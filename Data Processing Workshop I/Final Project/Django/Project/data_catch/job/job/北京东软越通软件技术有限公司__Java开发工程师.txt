@@ -1,0 +1,1 @@
+{'company_name': '北京东软越通软件技术有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-海淀区', 'bonus': ['绩效奖金', '带薪年假', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/120527693.html?rc=03'}

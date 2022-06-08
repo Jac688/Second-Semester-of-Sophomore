@@ -1,0 +1,1 @@
+{'company_name': '佛山市南海必得福无纺布有限公司', 'job_name': 'Java开发工程师', 'geography': '佛山', 'bonus': ['带薪年假', '五险一金', '包吃', '包住宿'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/120218794.html?rc=03'}

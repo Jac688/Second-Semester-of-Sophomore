@@ -1,0 +1,1 @@
+{'company_name': '南京博润类脑智能技术有限公司', 'job_name': '算法开发工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131889387.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '佛山市优格科技有限公司', 'job_name': '软件工程师', 'geography': '佛山', 'bonus': ['员工旅游', '购买五险', '周末大小周', '标准8小时制'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/foshan/105826946.html?rc=03'}

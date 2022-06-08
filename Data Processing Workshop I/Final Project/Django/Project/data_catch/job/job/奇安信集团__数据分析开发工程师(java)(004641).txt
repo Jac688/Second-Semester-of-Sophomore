@@ -1,0 +1,1 @@
+{'company_name': '奇安信集团', 'job_name': '数据分析开发工程师(java)(004641)', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130663659.html?rc=03'}

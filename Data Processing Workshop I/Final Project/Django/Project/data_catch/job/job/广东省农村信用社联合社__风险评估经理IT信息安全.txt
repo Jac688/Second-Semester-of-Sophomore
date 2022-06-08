@@ -1,0 +1,1 @@
+{'company_name': '广东省农村信用社联合社', 'job_name': '风险评估经理IT信息安全', 'geography': '广州-海珠区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '绩效奖金'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130576800.html?rc=03'}

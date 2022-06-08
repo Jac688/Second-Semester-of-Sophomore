@@ -1,0 +1,1 @@
+{'company_name': '思科中国有限公司上海分公司', 'job_name': '云平台工具研发部- Java研发工程师- 杭州 -硕士-全职', 'geography': '杭州', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/123959219.html?rc=03'}

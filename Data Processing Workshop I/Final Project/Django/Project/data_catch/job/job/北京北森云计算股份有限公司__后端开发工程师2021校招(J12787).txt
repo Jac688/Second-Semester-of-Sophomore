@@ -1,0 +1,1 @@
+{'company_name': '北京北森云计算股份有限公司', 'job_name': '后端开发工程师2021校招(J12787)', 'geography': '异地招聘', 'bonus': [], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126911893.html?rc=03'}

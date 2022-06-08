@@ -1,0 +1,1 @@
+{'company_name': '上海华钦信息科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-福田区', 'bonus': ['补充医疗保险', '五险一金', '专业培训', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130530459.html?rc=03'}

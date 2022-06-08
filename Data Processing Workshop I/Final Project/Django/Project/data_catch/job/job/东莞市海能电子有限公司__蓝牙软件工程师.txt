@@ -1,0 +1,1 @@
+{'company_name': '东莞市海能电子有限公司', 'job_name': '蓝牙软件工程师', 'geography': '深圳', 'bonus': ['五险一金', '员工活动', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125726441.html?rc=03'}

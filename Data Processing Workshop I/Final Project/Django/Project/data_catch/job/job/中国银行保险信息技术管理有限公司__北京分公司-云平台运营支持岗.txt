@@ -1,0 +1,1 @@
+{'company_name': '中国银行保险信息技术管理有限公司', 'job_name': '北京分公司-云平台运营支持岗', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131346574.html?rc=03'}

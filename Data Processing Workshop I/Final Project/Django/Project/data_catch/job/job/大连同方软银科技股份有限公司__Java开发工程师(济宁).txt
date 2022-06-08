@@ -1,0 +1,1 @@
+{'company_name': '大连同方软银科技股份有限公司', 'job_name': 'Java开发工程师(济宁)', 'geography': '济宁', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jining/122352818.html?rc=03'}

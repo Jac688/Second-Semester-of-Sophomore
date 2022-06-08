@@ -1,0 +1,1 @@
+{'company_name': '北京优创新港科技股份有限公司绵阳分公司', 'job_name': '图像处理算法工程师', 'geography': '绵阳', 'bonus': ['五险一金', '弹性工作', '年终奖金', '绩效奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/mianyang/125417176.html?rc=03'}

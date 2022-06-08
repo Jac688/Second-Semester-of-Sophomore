@@ -1,0 +1,1 @@
+{'company_name': '南京陆加壹智能科技有限公司', 'job_name': '计算机视觉工程师', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '节日福利', '带薪年假', '高温补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127282723.html?rc=03'}

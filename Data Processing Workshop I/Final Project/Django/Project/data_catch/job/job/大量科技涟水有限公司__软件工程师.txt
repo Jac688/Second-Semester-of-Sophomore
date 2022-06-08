@@ -1,0 +1,1 @@
+{'company_name': '大量科技涟水有限公司', 'job_name': '软件工程师', 'geography': '无锡-无锡新区', 'bonus': ['员工旅游', '年终奖金', '周末双休', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/129538348.html?rc=03'}

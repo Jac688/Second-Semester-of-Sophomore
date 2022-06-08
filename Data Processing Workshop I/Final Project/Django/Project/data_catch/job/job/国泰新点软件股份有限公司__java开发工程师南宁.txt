@@ -1,0 +1,1 @@
+{'company_name': '国泰新点软件股份有限公司', 'job_name': 'java开发工程师南宁', 'geography': '南宁', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/100880681.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京东方国信科技股份有限公司', 'job_name': 'Java开发工程师LT4pch(J12463)', 'geography': '重庆', 'bonus': ['五险一金', '年终奖金', '定期体检', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/132004680.html?rc=03'}

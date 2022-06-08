@@ -1,0 +1,1 @@
+{'company_name': '广州智算信息技术有限公司', 'job_name': '大数据开发工程师深圳', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '专业培训', '定期体检', '地铁上盖'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132168984.html?rc=03'}

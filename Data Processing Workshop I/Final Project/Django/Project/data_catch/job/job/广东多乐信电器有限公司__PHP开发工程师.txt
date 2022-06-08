@@ -1,0 +1,1 @@
+{'company_name': '广东多乐信电器有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-荔湾区', 'bonus': ['员工旅游', '绩效奖金', '年终奖金', '社会保险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/118599192.html?rc=03'}

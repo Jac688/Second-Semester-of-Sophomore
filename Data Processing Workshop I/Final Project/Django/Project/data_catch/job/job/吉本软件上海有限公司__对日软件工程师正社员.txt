@@ -1,0 +1,1 @@
+{'company_name': '吉本软件上海有限公司', 'job_name': '对日软件工程师正社员', 'geography': '上海', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120235998.html?rc=03'}

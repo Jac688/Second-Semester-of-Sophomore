@@ -1,0 +1,1 @@
+{'company_name': '广东岭南职业技术学院', 'job_name': '计算机程序设计专业教师—岭南现代技师学院', 'geography': '广州', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '定期体检'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/116816182.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京远特科技股份有限公司深圳分公司', 'job_name': '自动化测试工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130515712.html?rc=03'}

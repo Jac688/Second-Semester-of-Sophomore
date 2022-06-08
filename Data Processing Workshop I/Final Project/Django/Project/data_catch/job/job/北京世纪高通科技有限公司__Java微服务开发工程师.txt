@@ -1,0 +1,1 @@
+{'company_name': '北京世纪高通科技有限公司', 'job_name': 'Java微服务开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131425347.html?rc=03'}

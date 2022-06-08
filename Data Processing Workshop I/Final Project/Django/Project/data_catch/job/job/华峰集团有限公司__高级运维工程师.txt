@@ -1,0 +1,1 @@
+{'company_name': '华峰集团有限公司', 'job_name': '高级运维工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '交通补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/128389658.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海万籁环保科技股份有限公司', 'job_name': 'C++开发工程师', 'geography': '上海-松江区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127834945.html?rc=03'}

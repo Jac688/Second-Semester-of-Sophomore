@@ -1,0 +1,1 @@
+{'company_name': '上海华驿汽车技术有限公司', 'job_name': 'CATIA二次开发', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '加班补贴', '长期稳定', '加班工资'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130722549.html?rc=03'}

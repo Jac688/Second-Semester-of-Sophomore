@@ -1,0 +1,1 @@
+{'company_name': '广东若铂智能机器人有限公司', 'job_name': 'C++QTMFC软件工程师', 'geography': '佛山-南海区', 'bonus': ['五险一金', '餐饮补贴', '出国机会', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/119076342.html?rc=03'}

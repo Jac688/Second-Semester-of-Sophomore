@@ -1,0 +1,1 @@
+{'company_name': '上海乐言科技股份有限公司', 'job_name': 'AI应用工程师Python', 'geography': '上海-长宁区', 'bonus': ['公司氛围好', '免费零食', '五险一金', '补充医疗保险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125159544.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '威海快酷网络教育科技有限公司', 'job_name': 'java开发工程师', 'geography': '威海', 'bonus': ['交通补贴', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/weihai/130498174.html?rc=03'}

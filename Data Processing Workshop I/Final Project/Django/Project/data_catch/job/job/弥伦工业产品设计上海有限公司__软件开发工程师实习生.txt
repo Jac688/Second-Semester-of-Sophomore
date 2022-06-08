@@ -1,0 +1,1 @@
+{'company_name': '弥伦工业产品设计上海有限公司', 'job_name': '软件开发工程师实习生', 'geography': '上海', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132194576.html?rc=03'}

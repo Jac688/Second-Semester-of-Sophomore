@@ -1,0 +1,1 @@
+{'company_name': '上海乾隆高科技有限公司', 'job_name': 'JAVA中级开发工程师成都乾隆', 'geography': '成都', 'bonus': ['周末双休', '五险一金', '带薪年假', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129818424.html?rc=03'}

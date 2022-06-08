@@ -1,0 +1,1 @@
+{'company_name': '北京中创信测科技股份有限公司', 'job_name': 'Java开发工程师南京', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '补充医疗保险', '带薪年假', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125661012.html?rc=03'}

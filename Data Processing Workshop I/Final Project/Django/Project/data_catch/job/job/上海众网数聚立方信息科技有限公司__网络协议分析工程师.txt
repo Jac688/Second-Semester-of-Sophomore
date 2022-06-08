@@ -1,0 +1,1 @@
+{'company_name': '上海众网数聚立方信息科技有限公司', 'job_name': '网络协议分析工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130053263.html?rc=03'}

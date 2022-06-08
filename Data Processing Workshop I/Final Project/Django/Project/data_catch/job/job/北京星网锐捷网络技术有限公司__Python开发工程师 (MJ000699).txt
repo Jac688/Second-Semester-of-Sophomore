@@ -1,0 +1,1 @@
+{'company_name': '北京星网锐捷网络技术有限公司', 'job_name': 'Python开发工程师 (MJ000699)', 'geography': '福州', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/130054367.html?rc=03'}

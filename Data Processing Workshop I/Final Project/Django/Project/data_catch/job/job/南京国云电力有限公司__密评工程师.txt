@@ -1,0 +1,1 @@
+{'company_name': '南京国云电力有限公司', 'job_name': '密评工程师', 'geography': '南京-鼓楼区', 'bonus': ['五险一金', '交通补贴', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/122355302.html?rc=03'}

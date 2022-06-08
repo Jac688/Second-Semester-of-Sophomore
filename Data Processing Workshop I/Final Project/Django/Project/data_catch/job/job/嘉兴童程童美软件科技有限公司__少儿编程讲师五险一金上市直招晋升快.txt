@@ -1,0 +1,1 @@
+{'company_name': '嘉兴童程童美软件科技有限公司', 'job_name': '少儿编程讲师五险一金上市直招晋升快', 'geography': '嘉兴', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '高额提成'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/126859979.html?rc=03'}

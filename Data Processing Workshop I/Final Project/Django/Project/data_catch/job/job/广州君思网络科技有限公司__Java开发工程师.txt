@@ -1,0 +1,1 @@
+{'company_name': '广州君思网络科技有限公司', 'job_name': 'Java开发工程师', 'geography': '佛山', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '包住'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129946959.html?rc=03'}

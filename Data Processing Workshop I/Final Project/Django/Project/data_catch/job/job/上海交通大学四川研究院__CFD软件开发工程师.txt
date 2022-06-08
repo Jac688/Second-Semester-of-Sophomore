@@ -1,0 +1,1 @@
+{'company_name': '上海交通大学四川研究院', 'job_name': 'CFD软件开发工程师', 'geography': '成都-双流区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '定期体检'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128053484.html?rc=03'}

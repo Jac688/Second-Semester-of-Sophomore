@@ -1,0 +1,1 @@
+{'company_name': '北京东方晨旭科技发展有限公司', 'job_name': '嵌入式软件设计师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129119374.html?rc=03'}

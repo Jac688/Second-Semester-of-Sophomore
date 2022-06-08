@@ -1,0 +1,1 @@
+{'company_name': '上海亘岩网络科技有限公司', 'job_name': '项目经理福州', 'geography': '福州', 'bonus': ['五险一金', '员工旅游', '专业培训', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/129958076.html?rc=03'}

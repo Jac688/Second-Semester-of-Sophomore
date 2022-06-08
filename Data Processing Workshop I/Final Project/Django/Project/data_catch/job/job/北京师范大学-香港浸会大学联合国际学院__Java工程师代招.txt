@@ -1,0 +1,1 @@
+{'company_name': '北京师范大学-香港浸会大学联合国际学院', 'job_name': 'Java工程师代招', 'geography': '珠海-珠海高新区', 'bonus': ['带薪年假', '五险一金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/121259468.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海华建电力设备股份有限公司', 'job_name': 'DSP软件工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131135500.html?rc=03'}

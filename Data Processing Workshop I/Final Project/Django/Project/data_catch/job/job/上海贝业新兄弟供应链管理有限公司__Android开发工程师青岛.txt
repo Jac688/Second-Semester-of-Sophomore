@@ -1,0 +1,1 @@
+{'company_name': '上海贝业新兄弟供应链管理有限公司', 'job_name': 'Android开发工程师青岛', 'geography': '青岛', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/131870690.html?rc=03'}

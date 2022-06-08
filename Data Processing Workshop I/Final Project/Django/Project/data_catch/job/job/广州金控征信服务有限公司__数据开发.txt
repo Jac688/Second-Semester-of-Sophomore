@@ -1,0 +1,1 @@
+{'company_name': '广州金控征信服务有限公司', 'job_name': '数据开发', 'geography': '广州-天河区', 'bonus': ['有精致下午茶', '周末双休', '五险一金', '员工旅游'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131135531.html?rc=03'}

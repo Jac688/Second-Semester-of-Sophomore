@@ -1,0 +1,1 @@
+{'company_name': '四川友信立智能科技有限公司', 'job_name': '软件开发项目主管Python&JavaScript', 'geography': '成都-锦江区', 'bonus': ['交通补贴', '通讯补贴', '社保', '股票期权'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/118251895.html?rc=03'}

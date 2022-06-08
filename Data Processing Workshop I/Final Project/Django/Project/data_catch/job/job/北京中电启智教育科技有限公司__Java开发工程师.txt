@@ -1,0 +1,1 @@
+{'company_name': '北京中电启智教育科技有限公司', 'job_name': 'Java开发工程师', 'geography': '无锡-滨湖区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/129362290.html?rc=03'}

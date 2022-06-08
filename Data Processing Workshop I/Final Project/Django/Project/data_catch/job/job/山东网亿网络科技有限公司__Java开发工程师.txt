@@ -1,0 +1,1 @@
+{'company_name': '山东网亿网络科技有限公司', 'job_name': 'Java开发工程师', 'geography': '烟台', 'bonus': ['五险', '绩效奖金', '各种福利', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/yantai/131499740.html?rc=03'}

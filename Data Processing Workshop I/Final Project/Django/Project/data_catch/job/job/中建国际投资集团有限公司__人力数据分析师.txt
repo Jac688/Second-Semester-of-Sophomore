@@ -1,0 +1,1 @@
+{'company_name': '中建国际投资集团有限公司', 'job_name': '人力数据分析师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '绩效奖金', '定期体检', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130454354.html?rc=03'}

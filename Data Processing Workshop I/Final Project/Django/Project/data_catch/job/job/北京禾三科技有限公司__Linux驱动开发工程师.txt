@@ -1,0 +1,1 @@
+{'company_name': '北京禾三科技有限公司', 'job_name': 'Linux驱动开发工程师', 'geography': '成都', 'bonus': ['周末双休', '绩效奖金', '买社保', '全勤奖'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124780340.html?rc=03'}

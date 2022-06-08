@@ -1,0 +1,1 @@
+{'company_name': '北京星网锐捷网络技术有限公司', 'job_name': '新型城域广域网方案研发工程师 (MJ009410)', 'geography': '福州', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/130067560.html?rc=03'}

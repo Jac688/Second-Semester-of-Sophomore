@@ -1,0 +1,1 @@
+{'company_name': '广东长天思源环保科技股份有限公司', 'job_name': '高级web前端开发工程师佛山', 'geography': '佛山', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131111239.html?rc=03'}

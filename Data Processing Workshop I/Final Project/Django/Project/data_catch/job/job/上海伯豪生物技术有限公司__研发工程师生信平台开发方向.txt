@@ -1,0 +1,1 @@
+{'company_name': '上海伯豪生物技术有限公司', 'job_name': '研发工程师生信平台开发方向', 'geography': '上海-浦东新区', 'bonus': ['做五休二', '五险一金', '周末双休', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130574707.html?rc=03'}

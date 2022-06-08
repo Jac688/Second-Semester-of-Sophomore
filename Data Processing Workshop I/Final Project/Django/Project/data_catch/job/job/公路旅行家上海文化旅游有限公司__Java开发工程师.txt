@@ -1,0 +1,1 @@
+{'company_name': '公路旅行家上海文化旅游有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-闵行区', 'bonus': ['员工旅游', '年终奖金', '五险一金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131605963.html?rc=03'}

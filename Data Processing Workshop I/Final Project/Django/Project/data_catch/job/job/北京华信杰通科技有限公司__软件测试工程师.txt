@@ -1,0 +1,1 @@
+{'company_name': '北京华信杰通科技有限公司', 'job_name': '软件测试工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '绩效奖金', '节日福利', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126607685.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京联斯达医药科技发展有限公司', 'job_name': '项目财务分析师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132020990.html?rc=03'}

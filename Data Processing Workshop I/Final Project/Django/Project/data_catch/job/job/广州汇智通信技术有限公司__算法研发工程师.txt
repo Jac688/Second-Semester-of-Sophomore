@@ -1,0 +1,1 @@
+{'company_name': '广州汇智通信技术有限公司', 'job_name': '算法研发工程师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '专业培训'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127603739.html?rc=03'}

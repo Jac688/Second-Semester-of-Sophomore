@@ -1,0 +1,1 @@
+{'company_name': '上锐常州信息技术有限公司', 'job_name': 'Technical Engineer 开发工程师', 'geography': '常州-新北区', 'bonus': ['员工旅游', '专业培训', '年终奖金', '餐饮补贴'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/125658355.html?rc=03'}

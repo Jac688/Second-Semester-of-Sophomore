@@ -1,0 +1,1 @@
+{'company_name': '广东睿盟计算机科技有限公司', 'job_name': '算法工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '定期体检', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124897635.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州市唯景互娱信息科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-海珠区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '员工旅游'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127419568.html?rc=03'}

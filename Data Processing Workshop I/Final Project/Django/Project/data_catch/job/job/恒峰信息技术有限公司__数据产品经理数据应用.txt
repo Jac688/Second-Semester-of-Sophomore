@@ -1,0 +1,1 @@
+{'company_name': '恒峰信息技术有限公司', 'job_name': '数据产品经理数据应用', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127647808.html?rc=03'}

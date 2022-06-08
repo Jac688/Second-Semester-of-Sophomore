@@ -1,0 +1,1 @@
+{'company_name': '宁波市科技园区明天医网科技有限公司', 'job_name': '系统运维工程师', 'geography': '杭州', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/126313857.html?rc=03'}

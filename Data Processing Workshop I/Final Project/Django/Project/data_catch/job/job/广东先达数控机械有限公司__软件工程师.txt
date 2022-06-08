@@ -1,0 +1,1 @@
+{'company_name': '广东先达数控机械有限公司', 'job_name': '软件工程师', 'geography': '佛山', 'bonus': ['员工旅游', '社保', '节日福利', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/127651352.html?rc=03'}

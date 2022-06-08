@@ -1,0 +1,1 @@
+{'company_name': '博世上海安保系统有限公司成都高新分公司博世通讯中心', 'job_name': 'Junior Data Scientist数据科学家成都_SO', 'geography': '成都', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132179686.html?rc=03'}

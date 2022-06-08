@@ -1,0 +1,1 @@
+{'company_name': '北京数字政通科技股份有限公司武汉分公司', 'job_name': '技术支持工程师', 'geography': '成都-武侯区', 'bonus': ['六险一金', '定期体检', '通讯补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131809810.html?rc=03'}

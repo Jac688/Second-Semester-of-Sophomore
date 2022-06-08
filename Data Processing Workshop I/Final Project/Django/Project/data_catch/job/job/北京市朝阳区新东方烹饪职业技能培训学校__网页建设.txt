@@ -1,0 +1,1 @@
+{'company_name': '北京市朝阳区新东方烹饪职业技能培训学校', 'job_name': '网页建设', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127221817.html?rc=03'}

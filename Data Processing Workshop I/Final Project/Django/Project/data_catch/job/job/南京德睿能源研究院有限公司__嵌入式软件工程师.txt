@@ -1,0 +1,1 @@
+{'company_name': '南京德睿能源研究院有限公司', 'job_name': '嵌入式软件工程师', 'geography': '南京-雨花台区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/123907641.html?rc=03'}

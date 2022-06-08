@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': 'IT技术工程师——北京', 'geography': '北京', 'bonus': ['六险一金', '免费三餐', '弹性工作', '租房补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126388191.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广西万象投资有限公司', 'job_name': '诚聘优秀英语翻译文书撰稿人', 'geography': '北京-海淀区', 'bonus': ['居家办公', '工作时间自由'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132328905.html?rc=03'}

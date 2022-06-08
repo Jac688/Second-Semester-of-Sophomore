@@ -1,0 +1,1 @@
+{'company_name': '东方通信股份有限公司', 'job_name': 'LINUX CC++软件工程师', 'geography': '杭州-滨江区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/79418526.html?rc=03'}

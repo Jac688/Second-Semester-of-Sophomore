@@ -1,0 +1,1 @@
+{'company_name': '广州亿家馨食品科技有限公司', 'job_name': '数据分析专员文员', 'geography': '广州-番禺区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127934090.html?rc=03'}

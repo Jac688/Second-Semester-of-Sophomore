@@ -1,0 +1,1 @@
+{'company_name': '四川逸轩品辰旅游集团有限公司', 'job_name': '项目开发经理', 'geography': '成都-武侯区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130697045.html?rc=03'}

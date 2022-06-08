@@ -1,0 +1,1 @@
+{'company_name': '广州泽尔测试技术有限公司', 'job_name': 'java全栈工程师', 'geography': '广州-天河区', 'bonus': ['员工旅游', '年终奖金', '定期体检', '五险一金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129708382.html?rc=03'}

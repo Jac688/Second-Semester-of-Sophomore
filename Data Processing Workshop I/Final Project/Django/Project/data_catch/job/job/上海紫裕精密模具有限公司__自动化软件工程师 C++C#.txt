@@ -1,0 +1,1 @@
+{'company_name': '上海紫裕精密模具有限公司', 'job_name': '自动化软件工程师 C++C#', 'geography': '上海-青浦区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131426265.html?rc=03'}

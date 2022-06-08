@@ -1,0 +1,1 @@
+{'company_name': '广州赛意信息科技股份有限公司', 'job_name': '测试工程师', 'geography': '佛山-顺德区', 'bonus': ['五险一金', '员工旅游', '专业培训', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129269939.html?rc=03'}

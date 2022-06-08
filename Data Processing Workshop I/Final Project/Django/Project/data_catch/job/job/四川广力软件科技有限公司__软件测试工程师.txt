@@ -1,0 +1,1 @@
+{'company_name': '四川广力软件科技有限公司', 'job_name': '软件测试工程师', 'geography': '成都-金牛区', 'bonus': ['员工旅游', '年终奖金', '绩效奖金', '周末双休'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129458731.html?rc=03'}

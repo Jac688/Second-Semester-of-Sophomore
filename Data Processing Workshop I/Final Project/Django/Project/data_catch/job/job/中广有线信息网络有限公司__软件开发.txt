@@ -1,0 +1,1 @@
+{'company_name': '中广有线信息网络有限公司', 'job_name': '软件开发', 'geography': '绍兴-柯桥区', 'bonus': ['五险一金', '年终奖金', '定期体检', '周末双休'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shaoxing/131786037.html?rc=03'}

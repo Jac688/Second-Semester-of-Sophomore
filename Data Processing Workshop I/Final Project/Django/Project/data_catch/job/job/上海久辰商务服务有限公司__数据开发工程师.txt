@@ -1,0 +1,1 @@
+{'company_name': '上海久辰商务服务有限公司', 'job_name': '数据开发工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128322751.html?rc=03'}

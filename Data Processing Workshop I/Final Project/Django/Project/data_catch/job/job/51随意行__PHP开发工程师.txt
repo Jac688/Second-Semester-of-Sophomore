@@ -1,0 +1,1 @@
+{'company_name': '51随意行', 'job_name': 'PHP开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128735024.html?rc=03'}

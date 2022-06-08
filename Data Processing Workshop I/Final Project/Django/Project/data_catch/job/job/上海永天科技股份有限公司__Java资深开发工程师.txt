@@ -1,0 +1,1 @@
+{'company_name': '上海永天科技股份有限公司', 'job_name': 'Java资深开发工程师', 'geography': '上海-青浦区', 'bonus': ['做五休二', '五险一金', '交通补贴', '补充医疗保险'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129901098.html?rc=03'}

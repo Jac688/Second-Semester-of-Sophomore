@@ -1,0 +1,1 @@
+{'company_name': '公安部道路交通安全研究中心', 'job_name': '交通安全数据分析技术研究岗道路室', 'geography': '北京', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/122704861.html?rc=03'}

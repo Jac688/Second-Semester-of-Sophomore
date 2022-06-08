@@ -1,0 +1,1 @@
+{'company_name': '上海爱信诺航芯电子科技有限公司', 'job_name': 'Firmware工程师固件工程师IC验证工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/61605307.html?rc=03'}

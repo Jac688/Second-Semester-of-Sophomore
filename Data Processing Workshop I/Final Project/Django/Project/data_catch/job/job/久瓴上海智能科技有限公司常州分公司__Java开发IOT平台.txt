@@ -1,0 +1,1 @@
+{'company_name': '久瓴上海智能科技有限公司常州分公司', 'job_name': 'Java开发IOT平台', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131875156.html?rc=03'}

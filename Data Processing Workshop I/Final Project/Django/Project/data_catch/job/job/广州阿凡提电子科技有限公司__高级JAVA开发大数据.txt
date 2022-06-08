@@ -1,0 +1,1 @@
+{'company_name': '广州阿凡提电子科技有限公司', 'job_name': '高级JAVA开发大数据', 'geography': '广州', 'bonus': ['六险一金', '弹性工作', '周末双休', '自研平台'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127245181.html?rc=03'}

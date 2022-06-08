@@ -1,0 +1,1 @@
+{'company_name': '中信银行信用卡中心', 'job_name': '分布式架构师(007215)', 'geography': '深圳-福田区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '定期体检'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130180300.html?rc=03'}

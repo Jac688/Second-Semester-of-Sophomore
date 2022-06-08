@@ -1,0 +1,1 @@
+{'company_name': '上海才扬软件科技有限公司', 'job_name': 'JAVA开发工程师成都', 'geography': '成都-武侯区', 'bonus': ['五险一金', '绩效奖金', '出国机会', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/123713091.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北谷电子有限公司', 'job_name': '系统运维工程师', 'geography': '济南-高新区', 'bonus': ['七险一金', '弹性工作', '年终奖金', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131529129.html?rc=03'}

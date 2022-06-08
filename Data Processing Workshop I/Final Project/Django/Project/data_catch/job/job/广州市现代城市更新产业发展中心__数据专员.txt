@@ -1,0 +1,1 @@
+{'company_name': '广州市现代城市更新产业发展中心', 'job_name': '数据专员', 'geography': '广州-白云区', 'bonus': ['周末双休', '五险一金', '员工旅游', '交通补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/116163288.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '恒生电子股份有限公司', 'job_name': '大数据开发工程师技术专家-平台', 'geography': '杭州-滨江区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/126365367.html?rc=03'}

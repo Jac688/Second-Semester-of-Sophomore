@@ -1,0 +1,1 @@
+{'company_name': '广州派瑞餐饮管理有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '广州-越秀区', 'bonus': ['带薪年假', '弹性工作', '团队聚餐', '下午茶'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127121342.html?rc=03'}

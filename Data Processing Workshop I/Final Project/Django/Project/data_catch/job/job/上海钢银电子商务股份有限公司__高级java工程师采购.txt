@@ -1,0 +1,1 @@
+{'company_name': '上海钢银电子商务股份有限公司', 'job_name': '高级java工程师采购', 'geography': '南昌', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '团队拓展'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/108164450.html?rc=03'}

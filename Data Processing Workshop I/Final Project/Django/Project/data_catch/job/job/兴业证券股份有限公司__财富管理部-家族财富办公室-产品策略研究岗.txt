@@ -1,0 +1,1 @@
+{'company_name': '兴业证券股份有限公司', 'job_name': '财富管理部-家族财富办公室-产品策略研究岗', 'geography': '上海-浦东新区', 'bonus': ['五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131965910.html?rc=03'}

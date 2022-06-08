@@ -1,0 +1,1 @@
+{'company_name': '四川宇仁流体工程科技有限公司', 'job_name': '数字化工程师', 'geography': '德阳', 'bonus': ['员工旅游', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/deyang/130574972.html?rc=03'}

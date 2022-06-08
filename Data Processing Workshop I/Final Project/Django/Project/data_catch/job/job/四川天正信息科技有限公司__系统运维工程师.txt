@@ -1,0 +1,1 @@
+{'company_name': '四川天正信息科技有限公司', 'job_name': '系统运维工程师', 'geography': '成都-锦江区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/109637788.html?rc=03'}

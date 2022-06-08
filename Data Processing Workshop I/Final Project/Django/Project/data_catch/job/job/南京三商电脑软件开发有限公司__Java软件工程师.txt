@@ -1,0 +1,1 @@
+{'company_name': '南京三商电脑软件开发有限公司', 'job_name': 'Java软件工程师', 'geography': '南京', 'bonus': ['五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/66620388.html?rc=03'}

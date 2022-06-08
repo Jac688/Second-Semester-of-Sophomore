@@ -1,0 +1,1 @@
+{'company_name': '佛山市三水合成电器实业有限公司', 'job_name': 'Python开发工程师', 'geography': '异地招聘', 'bonus': ['专业培训', '补充医疗保险', '员工旅游', '弹性工作'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/129665027.html?rc=03'}

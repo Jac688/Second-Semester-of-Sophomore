@@ -1,0 +1,1 @@
+{'company_name': '广州飞歌汽车音响有限公司', 'job_name': '运维工程师', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '生日会福利', '年度免费旅游', '年度免费体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131663011.html?rc=03'}

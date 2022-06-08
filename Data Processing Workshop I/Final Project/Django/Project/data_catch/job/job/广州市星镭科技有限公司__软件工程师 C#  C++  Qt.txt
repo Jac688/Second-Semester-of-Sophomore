@@ -1,0 +1,1 @@
+{'company_name': '广州市星镭科技有限公司', 'job_name': '软件工程师 C#  C++  Qt', 'geography': '广州-番禺区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131017245.html?rc=03'}

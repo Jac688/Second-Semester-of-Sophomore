@@ -1,0 +1,1 @@
+{'company_name': '宁波道充科技有限公司', 'job_name': '002助理软件工程师', 'geography': '宁波', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130733325.html?rc=03'}

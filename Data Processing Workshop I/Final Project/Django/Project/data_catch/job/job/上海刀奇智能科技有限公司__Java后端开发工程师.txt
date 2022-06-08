@@ -1,0 +1,1 @@
+{'company_name': '上海刀奇智能科技有限公司', 'job_name': 'Java后端开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127248543.html?rc=03'}

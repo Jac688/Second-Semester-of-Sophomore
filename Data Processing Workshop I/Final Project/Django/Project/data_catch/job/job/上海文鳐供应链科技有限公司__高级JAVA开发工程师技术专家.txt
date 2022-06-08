@@ -1,0 +1,1 @@
+{'company_name': '上海文鳐供应链科技有限公司', 'job_name': '高级JAVA开发工程师技术专家', 'geography': '杭州-余杭区', 'bonus': ['五险一金', '周末双休', '带薪年假', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131662306.html?rc=03'}

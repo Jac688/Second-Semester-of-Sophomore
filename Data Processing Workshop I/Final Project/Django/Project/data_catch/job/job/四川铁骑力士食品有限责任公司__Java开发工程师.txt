@@ -1,0 +1,1 @@
+{'company_name': '四川铁骑力士食品有限责任公司', 'job_name': 'Java开发工程师', 'geography': '成都-双流区', 'bonus': ['节日福利', '包吃包住', '集团化公司', '项目奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131661325.html?rc=03'}

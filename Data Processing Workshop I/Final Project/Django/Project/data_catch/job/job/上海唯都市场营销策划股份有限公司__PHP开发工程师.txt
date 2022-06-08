@@ -1,0 +1,1 @@
+{'company_name': '上海唯都市场营销策划股份有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '弹性工作', '定期体检', '补充医疗保险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130908935.html?rc=03'}

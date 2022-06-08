@@ -1,0 +1,1 @@
+{'company_name': '广西南宁明者网络科技有限公司', 'job_name': 'java初级开发工程师', 'geography': '南宁-良庆区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanning/132239952.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京康拓红外技术股份有限公司', 'job_name': '软件研发工程师-有北京户口', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/84826334.html?rc=03'}

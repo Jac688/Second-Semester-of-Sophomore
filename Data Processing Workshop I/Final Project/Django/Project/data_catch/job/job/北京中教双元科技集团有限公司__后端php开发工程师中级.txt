@@ -1,0 +1,1 @@
+{'company_name': '北京中教双元科技集团有限公司', 'job_name': '后端php开发工程师中级', 'geography': '济南-高新区', 'bonus': ['周末双休', '弹性工作', '带薪年假', '五险一金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131063416.html?rc=03'}

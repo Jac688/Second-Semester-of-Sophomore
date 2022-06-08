@@ -1,0 +1,1 @@
+{'company_name': '南京粒聚智能科技有限公司', 'job_name': '实施工程师泰州', 'geography': '泰州-高港区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/taizhou/130297203.html?rc=03'}

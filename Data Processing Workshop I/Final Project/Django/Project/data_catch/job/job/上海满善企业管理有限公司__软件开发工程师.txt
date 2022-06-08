@@ -1,0 +1,1 @@
+{'company_name': '上海满善企业管理有限公司', 'job_name': '软件开发工程师', 'geography': '成都', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/121721220.html?rc=03'}

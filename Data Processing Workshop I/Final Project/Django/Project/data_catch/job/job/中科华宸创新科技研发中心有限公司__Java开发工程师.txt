@@ -1,0 +1,1 @@
+{'company_name': '中科华宸创新科技研发中心有限公司', 'job_name': 'Java开发工程师', 'geography': '南宁-青秀区', 'bonus': ['五险一金', '通讯补贴', '年终奖金', '股票期权'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/129283320.html?rc=03'}

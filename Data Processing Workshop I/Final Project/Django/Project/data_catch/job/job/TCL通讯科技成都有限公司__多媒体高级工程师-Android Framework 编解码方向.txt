@@ -1,0 +1,1 @@
+{'company_name': 'TCL通讯科技成都有限公司', 'job_name': '多媒体高级工程师-Android Framework 编解码方向', 'geography': '成都-高新区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126908596.html?rc=03'}

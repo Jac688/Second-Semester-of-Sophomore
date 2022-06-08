@@ -1,0 +1,1 @@
+{'company_name': '中芯维康医疗科技重庆有限责任公司', 'job_name': '控制系统算法工程师-cs', 'geography': '重庆-江北区', 'bonus': ['五险一金', '定期体检', '包吃包住', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/121443667.html?rc=03'}

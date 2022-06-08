@@ -1,0 +1,1 @@
+{'company_name': '上海睿埃信息科技有限公司', 'job_name': '系统运维工程师', 'geography': '成都-双流区', 'bonus': ['转正后加社保', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/116651888.html?rc=03'}

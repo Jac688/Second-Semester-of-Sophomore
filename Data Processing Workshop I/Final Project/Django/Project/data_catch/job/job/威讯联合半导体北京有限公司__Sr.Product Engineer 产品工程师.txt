@@ -1,0 +1,1 @@
+{'company_name': '威讯联合半导体北京有限公司', 'job_name': 'Sr.Product Engineer 产品工程师', 'geography': '北京', 'bonus': ['免费班车', '免费工作餐', '五险一金', '补充医疗保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/119010430.html?rc=03'}

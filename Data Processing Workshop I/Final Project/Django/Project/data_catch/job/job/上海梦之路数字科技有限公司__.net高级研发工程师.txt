@@ -1,0 +1,1 @@
+{'company_name': '上海梦之路数字科技有限公司', 'job_name': '.net高级研发工程师', 'geography': '南京-玄武区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131189869.html?rc=03'}

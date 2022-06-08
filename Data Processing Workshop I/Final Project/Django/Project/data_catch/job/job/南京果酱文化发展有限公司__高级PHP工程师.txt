@@ -1,0 +1,1 @@
+{'company_name': '南京果酱文化发展有限公司', 'job_name': '高级PHP工程师', 'geography': '南京', 'bonus': ['周末双休', '带薪年假', '五险一金', '全勤奖'], 'salary': 1.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/115249563.html?rc=03'}

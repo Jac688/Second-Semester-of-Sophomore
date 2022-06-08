@@ -1,0 +1,1 @@
+{'company_name': '南威软件集团', 'job_name': '产品测试部经理', 'geography': '泉州', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/quanzhou/131233885.html?rc=03'}

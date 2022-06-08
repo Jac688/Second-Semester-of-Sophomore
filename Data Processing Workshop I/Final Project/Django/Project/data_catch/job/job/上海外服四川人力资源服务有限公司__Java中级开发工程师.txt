@@ -1,0 +1,1 @@
+{'company_name': '上海外服四川人力资源服务有限公司', 'job_name': 'Java中级开发工程师', 'geography': '成都-青羊区', 'bonus': ['五险一金', '年终奖金', '高温假', '年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128659530.html?rc=03'}

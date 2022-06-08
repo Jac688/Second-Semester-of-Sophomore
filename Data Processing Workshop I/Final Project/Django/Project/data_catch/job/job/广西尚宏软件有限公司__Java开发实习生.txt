@@ -1,0 +1,1 @@
+{'company_name': '广西尚宏软件有限公司', 'job_name': 'Java开发实习生', 'geography': '南宁', 'bonus': ['社保', '带薪年假'], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/nanning/129899510.html?rc=03'}

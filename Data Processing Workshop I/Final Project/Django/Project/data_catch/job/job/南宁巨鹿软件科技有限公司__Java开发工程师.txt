@@ -1,0 +1,1 @@
+{'company_name': '南宁巨鹿软件科技有限公司', 'job_name': 'Java开发工程师', 'geography': '南宁-青秀区', 'bonus': ['五险一金', '周末双休', '法定节假日休', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanning/124397066.html?rc=03'}

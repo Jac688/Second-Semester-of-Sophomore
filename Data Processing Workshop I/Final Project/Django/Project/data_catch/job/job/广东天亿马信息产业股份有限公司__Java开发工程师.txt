@@ -1,0 +1,1 @@
+{'company_name': '广东天亿马信息产业股份有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-龙华区', 'bonus': ['五险一金', '通讯补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131802763.html?rc=03'}

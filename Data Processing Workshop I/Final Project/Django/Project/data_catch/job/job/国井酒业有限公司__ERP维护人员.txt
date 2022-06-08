@@ -1,0 +1,1 @@
+{'company_name': '国井酒业有限公司', 'job_name': 'ERP维护人员', 'geography': '淄博', 'bonus': ['带薪年假', '包住宿', '全勤奖', '节日福利'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/zibo/131820548.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国建筑科学研究院有限公司上海分公司', 'job_name': '网站全栈工程师', 'geography': '上海-黄浦区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130540122.html?rc=03'}

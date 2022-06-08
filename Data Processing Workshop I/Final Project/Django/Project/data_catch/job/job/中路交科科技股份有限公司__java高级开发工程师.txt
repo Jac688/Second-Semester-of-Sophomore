@@ -1,0 +1,1 @@
+{'company_name': '中路交科科技股份有限公司', 'job_name': 'java高级开发工程师', 'geography': '南京-浦口区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132011764.html?rc=03'}

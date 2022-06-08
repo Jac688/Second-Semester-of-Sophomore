@@ -1,0 +1,1 @@
+{'company_name': '广东恒利路桥工程有限公司', 'job_name': '高级电控工程师', 'geography': '佛山-南海区', 'bonus': ['社保', '员工旅游', '年终奖金', '包住宿'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131515062.html?rc=03'}

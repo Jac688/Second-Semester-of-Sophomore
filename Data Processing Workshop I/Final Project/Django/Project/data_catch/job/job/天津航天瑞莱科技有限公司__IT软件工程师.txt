@@ -1,0 +1,1 @@
+{'company_name': '天津航天瑞莱科技有限公司', 'job_name': 'IT软件工程师', 'geography': '天津', 'bonus': ['五险一金', '通讯补贴', '交通补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131504169.html?rc=03'}

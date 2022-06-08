@@ -1,0 +1,1 @@
+{'company_name': '华青融天北京软件股份有限公司', 'job_name': '运维工程师顺义[J742744]', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131245417.html?rc=03'}

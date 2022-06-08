@@ -1,0 +1,1 @@
+{'company_name': '万得信息技术股份有限公司Wind资讯', 'job_name': '大数据算法工程师(TB0001)', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/77612920.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海鸿翼软件技术股份有限公司', 'job_name': 'Java开发工程师', 'geography': '无锡-滨湖区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/119190753.html?rc=03'}

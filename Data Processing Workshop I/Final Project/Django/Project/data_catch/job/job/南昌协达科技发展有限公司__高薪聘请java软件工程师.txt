@@ -1,0 +1,1 @@
+{'company_name': '南昌协达科技发展有限公司', 'job_name': '高薪聘请java软件工程师', 'geography': '南昌-西湖区', 'bonus': ['餐饮补贴', '绩效奖金', '五险', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/49495315.html?rc=03'}

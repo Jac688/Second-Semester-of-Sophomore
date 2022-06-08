@@ -1,0 +1,1 @@
+{'company_name': '中健智水科技发展有限公司', 'job_name': 'Java工程师', 'geography': '东莞-松山湖区', 'bonus': ['餐饮补贴', '五险一金', '专业培训', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/132084819.html?rc=03'}

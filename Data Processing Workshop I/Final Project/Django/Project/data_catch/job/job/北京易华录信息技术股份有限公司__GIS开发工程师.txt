@@ -1,0 +1,1 @@
+{'company_name': '北京易华录信息技术股份有限公司', 'job_name': 'GIS开发工程师', 'geography': '北京-石景山区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130115096.html?rc=03'}

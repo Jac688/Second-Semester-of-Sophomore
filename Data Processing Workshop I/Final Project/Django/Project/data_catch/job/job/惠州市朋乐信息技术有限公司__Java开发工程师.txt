@@ -1,0 +1,1 @@
+{'company_name': '惠州市朋乐信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '惠州', 'bonus': ['五险一金', '补充公积金', '年终奖金', '定期体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/113305032.html?rc=03'}

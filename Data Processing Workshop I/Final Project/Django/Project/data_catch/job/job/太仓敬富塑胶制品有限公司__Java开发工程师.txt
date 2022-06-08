@@ -1,0 +1,1 @@
+{'company_name': '太仓敬富塑胶制品有限公司', 'job_name': 'Java开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '工作餐'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/taicang/128805383.html?rc=03'}

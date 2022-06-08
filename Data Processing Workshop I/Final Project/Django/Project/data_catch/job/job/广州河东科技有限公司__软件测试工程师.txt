@@ -1,0 +1,1 @@
+{'company_name': '广州河东科技有限公司', 'job_name': '软件测试工程师', 'geography': '杭州-余杭区', 'bonus': ['补充医疗保险', '免费班车', '员工旅游', '餐饮补贴'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129719654.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '卡宾服饰中国有限公司', 'job_name': 'Java中级开发工程师', 'geography': '广州-黄埔区', 'bonus': ['免费班车', '餐饮补贴', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130149058.html?rc=03'}

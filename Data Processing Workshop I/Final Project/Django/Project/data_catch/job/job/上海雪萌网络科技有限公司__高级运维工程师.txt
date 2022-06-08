@@ -1,0 +1,1 @@
+{'company_name': '上海雪萌网络科技有限公司', 'job_name': '高级运维工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/100209606.html?rc=03'}

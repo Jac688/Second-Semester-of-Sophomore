@@ -1,0 +1,1 @@
+{'company_name': '博坤机电苏州有限公司', 'job_name': '算法工程师', 'geography': '苏州-高新区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '十三薪'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131020311.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '幻方量化', 'job_name': '资深开发工程师', 'geography': '杭州-下城区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128282585.html?rc=03'}

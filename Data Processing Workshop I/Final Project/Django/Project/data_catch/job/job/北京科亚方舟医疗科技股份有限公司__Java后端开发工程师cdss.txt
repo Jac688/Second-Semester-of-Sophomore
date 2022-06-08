@@ -1,0 +1,1 @@
+{'company_name': '北京科亚方舟医疗科技股份有限公司', 'job_name': 'Java后端开发工程师cdss', 'geography': '北京-东城区', 'bonus': ['五险一金', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131302003.html?rc=03'}

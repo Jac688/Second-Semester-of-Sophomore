@@ -1,0 +1,1 @@
+{'company_name': '伊顿电气集团(EATON)', 'job_name': '应用软件开发工程师', 'geography': '深圳', 'bonus': ['弹性工作', '环境优美', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132196771.html?rc=03'}

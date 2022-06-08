@@ -1,0 +1,1 @@
+{'company_name': '安徽智慧教育科技有限公司', 'job_name': 'Java开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/anhuisheng/131893899.html?rc=03'}

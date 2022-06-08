@@ -1,0 +1,1 @@
+{'company_name': '中航电测仪器股份有限公司', 'job_name': '软件开发工程师PHP', 'geography': '西安-高新技术产业开发区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/xian/124314514.html?rc=03'}

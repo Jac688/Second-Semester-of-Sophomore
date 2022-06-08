@@ -1,0 +1,1 @@
+{'company_name': '义乌市众兴文具有限公司', 'job_name': '亚马逊销售主管', 'geography': '义乌', 'bonus': ['周末双休', '五险一金', '绩效奖金', '全勤奖'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/yiwu/130775506.html?rc=03'}

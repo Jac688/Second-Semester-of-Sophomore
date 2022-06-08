@@ -1,0 +1,1 @@
+{'company_name': '广东国鸿氢能科技有限公司', 'job_name': '燃料电池调试工程师', 'geography': '佛山-禅城区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/123060875.html?rc=03'}

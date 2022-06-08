@@ -1,0 +1,1 @@
+{'company_name': '佛山市金舵陶瓷有限公司', 'job_name': '商业分析数据分析', 'geography': '佛山', 'bonus': ['节日福利', '专业培训', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/124309737.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京天拓四方科技有限公司', 'job_name': '资深嵌入式软件开发架构师', 'geography': '北京-丰台区', 'bonus': ['五险一金', '餐饮补贴', '员工旅游', '年终奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126354818.html?rc=03'}

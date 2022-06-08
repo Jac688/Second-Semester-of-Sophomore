@@ -1,0 +1,1 @@
+{'company_name': '亮兮柯电气嘉兴有限公司', 'job_name': '资深ERP工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '免费班车', '定期体检', '周末双休'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/129678430.html?rc=03'}

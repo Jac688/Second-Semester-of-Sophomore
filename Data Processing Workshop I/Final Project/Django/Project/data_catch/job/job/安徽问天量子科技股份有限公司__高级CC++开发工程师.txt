@@ -1,0 +1,1 @@
+{'company_name': '安徽问天量子科技股份有限公司', 'job_name': '高级CC++开发工程师', 'geography': '芜湖', 'bonus': ['五险一金', '年终奖金', '月度绩效奖', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhu/124707289.html?rc=03'}

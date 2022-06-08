@@ -1,0 +1,1 @@
+{'company_name': '云南携手安全消防有限公司', 'job_name': 'PHP开发工程师', 'geography': '昆明-官渡区', 'bonus': ['五险', '团队建设'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/kunming/131890508.html?rc=03'}

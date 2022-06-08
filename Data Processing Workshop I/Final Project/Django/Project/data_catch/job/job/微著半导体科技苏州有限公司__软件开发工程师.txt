@@ -1,0 +1,1 @@
+{'company_name': '微著半导体科技苏州有限公司', 'job_name': '软件开发工程师', 'geography': '苏州-相城区', 'bonus': ['绩效奖金', '专业培训', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131556982.html?rc=03'}

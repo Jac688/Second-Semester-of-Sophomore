@@ -1,0 +1,1 @@
+{'company_name': '上海夏山教育科技有限公司', 'job_name': '数据分析经理', 'geography': '上海-徐汇区', 'bonus': ['弹性工作', '五险一金', '员工旅游', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132344834.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '丽人丽妆', 'job_name': 'Java软件开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '绩效奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/111559036.html?rc=03'}

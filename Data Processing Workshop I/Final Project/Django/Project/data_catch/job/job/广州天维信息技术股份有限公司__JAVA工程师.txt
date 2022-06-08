@@ -1,0 +1,1 @@
+{'company_name': '广州天维信息技术股份有限公司', 'job_name': 'JAVA工程师', 'geography': '成都', 'bonus': ['七险一金', '股票期权', '绩效奖金', '带薪年假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124883970.html?rc=03'}

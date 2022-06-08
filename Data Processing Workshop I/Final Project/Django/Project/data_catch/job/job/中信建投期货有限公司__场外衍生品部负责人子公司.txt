@@ -1,0 +1,1 @@
+{'company_name': '中信建投期货有限公司', 'job_name': '场外衍生品部负责人子公司', 'geography': '重庆-渝中区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/128237225.html?rc=03'}

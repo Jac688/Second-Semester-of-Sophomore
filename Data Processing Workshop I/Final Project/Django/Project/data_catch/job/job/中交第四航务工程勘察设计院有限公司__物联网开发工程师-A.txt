@@ -1,0 +1,1 @@
+{'company_name': '中交第四航务工程勘察设计院有限公司', 'job_name': '物联网开发工程师-A', 'geography': '广州-海珠区', 'bonus': ['五险一金', '补充医疗保险', '出国机会', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131720649.html?rc=03'}

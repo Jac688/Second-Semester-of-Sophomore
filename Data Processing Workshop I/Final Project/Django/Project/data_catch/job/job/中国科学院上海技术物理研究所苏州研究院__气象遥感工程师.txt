@@ -1,0 +1,1 @@
+{'company_name': '中国科学院上海技术物理研究所苏州研究院', 'job_name': '气象遥感工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130074067.html?rc=03'}

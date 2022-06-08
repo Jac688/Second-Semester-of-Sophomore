@@ -1,0 +1,1 @@
+{'company_name': '小蚁科技', 'job_name': 'Firmware Engineer固件工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '绩效奖金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129602801.html?rc=03'}

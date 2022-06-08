@@ -1,0 +1,1 @@
+{'company_name': '广东省宏博伟智技术有限公司', 'job_name': '软件工程师C++C', 'geography': '深圳-龙岗区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '出国机会'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124147867.html?rc=03'}

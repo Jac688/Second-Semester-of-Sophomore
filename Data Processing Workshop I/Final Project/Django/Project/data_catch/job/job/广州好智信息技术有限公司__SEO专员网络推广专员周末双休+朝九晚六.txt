@@ -1,0 +1,1 @@
+{'company_name': '广州好智信息技术有限公司', 'job_name': 'SEO专员网络推广专员周末双休+朝九晚六', 'geography': '广州-黄埔区', 'bonus': ['带薪年假', '节日福利', '餐饮补贴', '五险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122754063.html?rc=03'}

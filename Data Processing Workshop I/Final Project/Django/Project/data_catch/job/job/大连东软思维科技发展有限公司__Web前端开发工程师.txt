@@ -1,0 +1,1 @@
+{'company_name': '大连东软思维科技发展有限公司', 'job_name': 'Web前端开发工程师', 'geography': '杭州', 'bonus': [], 'salary': 1.7, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130401193.html?rc=03'}

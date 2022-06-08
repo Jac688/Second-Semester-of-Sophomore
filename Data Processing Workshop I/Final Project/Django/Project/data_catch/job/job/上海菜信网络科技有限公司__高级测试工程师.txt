@@ -1,0 +1,1 @@
+{'company_name': '上海菜信网络科技有限公司', 'job_name': '高级测试工程师', 'geography': '苏州-吴中区', 'bonus': ['五险一金', '周末双休', '年底十三薪'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130246081.html?rc=03'}

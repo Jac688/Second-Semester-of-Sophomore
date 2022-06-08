@@ -1,0 +1,1 @@
+{'company_name': '云南多极科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '昆明-五华区', 'bonus': ['五险一金', '年终奖金', '定期体检', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/kunming/132298336.html?rc=03'}

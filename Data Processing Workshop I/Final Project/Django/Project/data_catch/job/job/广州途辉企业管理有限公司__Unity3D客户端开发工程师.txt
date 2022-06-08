@@ -1,0 +1,1 @@
+{'company_name': '广州途辉企业管理有限公司', 'job_name': 'Unity3D客户端开发工程师', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132182619.html?rc=03'}

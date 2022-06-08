@@ -1,0 +1,1 @@
+{'company_name': '广州酒家集团利口福营销有限公司', 'job_name': '供应链助理', 'geography': '广州-荔湾区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '交通补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/120120703.html?rc=03'}

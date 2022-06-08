@@ -1,0 +1,1 @@
+{'company_name': '广州市银河在线饰品有限公司', 'job_name': 'PHP开发工程师双休', 'geography': '广州-荔湾区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129909365.html?rc=03'}

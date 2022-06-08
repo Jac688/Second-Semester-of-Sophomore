@@ -1,0 +1,1 @@
+{'company_name': '广东广信通信服务有限公司', 'job_name': 'AndroidJava软件工程师', 'geography': '广州-海珠区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/119829640.html?rc=03'}

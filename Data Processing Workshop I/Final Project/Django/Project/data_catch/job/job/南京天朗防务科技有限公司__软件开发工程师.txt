@@ -1,0 +1,1 @@
+{'company_name': '南京天朗防务科技有限公司', 'job_name': '软件开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/jiangsusheng/124964099.html?rc=03'}

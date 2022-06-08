@@ -1,0 +1,1 @@
+{'company_name': '华润微电子重庆有限公司', 'job_name': '报表开发工程师', 'geography': '重庆-沙坪坝区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/125538987.html?rc=03'}

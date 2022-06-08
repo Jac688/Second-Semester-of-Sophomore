@@ -1,0 +1,1 @@
+{'company_name': '上海谷拾网络科技有限公司', 'job_name': '后端开发工程师PHP手游项目', 'geography': '上海-静安区', 'bonus': ['五险一金', '弹性工作', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132010561.html?rc=03'}

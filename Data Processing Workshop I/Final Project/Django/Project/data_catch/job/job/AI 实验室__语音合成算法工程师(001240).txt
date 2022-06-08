@@ -1,0 +1,1 @@
+{'company_name': 'AI 实验室', 'job_name': '语音合成算法工程师(001240)', 'geography': '成都', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125280001.html?rc=03'}

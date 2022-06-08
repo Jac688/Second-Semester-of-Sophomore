@@ -1,0 +1,1 @@
+{'company_name': '凯捷咨询中国有限公司', 'job_name': 'Java开发主管', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131789377.html?rc=03'}

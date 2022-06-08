@@ -1,0 +1,1 @@
+{'company_name': '北京格策信息技术有限公司', 'job_name': '无线通信C++高级软件工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '员工旅游'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126767310.html?rc=03'}

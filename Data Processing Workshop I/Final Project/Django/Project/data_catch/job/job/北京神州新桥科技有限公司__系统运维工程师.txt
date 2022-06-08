@@ -1,0 +1,1 @@
+{'company_name': '北京神州新桥科技有限公司', 'job_name': '系统运维工程师', 'geography': '杭州-滨江区', 'bonus': ['七险一金', '餐饮补贴', '通讯补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/123492147.html?rc=03'}

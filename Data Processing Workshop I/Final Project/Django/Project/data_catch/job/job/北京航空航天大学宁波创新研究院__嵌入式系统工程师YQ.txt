@@ -1,0 +1,1 @@
+{'company_name': '北京航空航天大学宁波创新研究院', 'job_name': '嵌入式系统工程师YQ', 'geography': '宁波-北仑区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '通讯补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/122084697.html?rc=03'}

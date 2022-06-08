@@ -1,0 +1,1 @@
+{'company_name': '上海镆尔科技有限公司', 'job_name': 'ERP工程师', 'geography': '上海-宝山区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130376371.html?rc=03'}

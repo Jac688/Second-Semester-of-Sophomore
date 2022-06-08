@@ -1,0 +1,1 @@
+{'company_name': '上海复洁环保科技股份有限公司', 'job_name': '市场部实习生', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '定期体检'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127876346.html?rc=03'}

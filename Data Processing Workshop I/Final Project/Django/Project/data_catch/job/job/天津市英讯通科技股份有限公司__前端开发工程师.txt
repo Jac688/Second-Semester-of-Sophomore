@@ -1,0 +1,1 @@
+{'company_name': '天津市英讯通科技股份有限公司', 'job_name': '前端开发工程师', 'geography': '天津-南开区', 'bonus': ['五险一金', '员工旅游', '专业培训', '通讯补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128849687.html?rc=03'}

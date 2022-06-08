@@ -1,0 +1,1 @@
+{'company_name': '名硕电脑苏州有限公司', 'job_name': '人工智能开发工程师', 'geography': '苏州-高新区', 'bonus': ['弹性工作', '五险一金', '餐饮补贴', '绩效奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130371008.html?rc=03'}

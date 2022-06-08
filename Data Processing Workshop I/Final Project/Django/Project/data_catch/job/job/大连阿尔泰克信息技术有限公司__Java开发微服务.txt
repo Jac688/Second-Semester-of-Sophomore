@@ -1,0 +1,1 @@
+{'company_name': '大连阿尔泰克信息技术有限公司', 'job_name': 'Java开发微服务', 'geography': '深圳-南山区', 'bonus': ['五险一金', '试用期全额', '外企', '节假日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128943360.html?rc=03'}

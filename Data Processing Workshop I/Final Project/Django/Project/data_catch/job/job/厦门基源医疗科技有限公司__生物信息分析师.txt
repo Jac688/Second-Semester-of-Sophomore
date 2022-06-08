@@ -1,0 +1,1 @@
+{'company_name': '厦门基源医疗科技有限公司', 'job_name': '生物信息分析师', 'geography': '厦门', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/115409190.html?rc=03'}

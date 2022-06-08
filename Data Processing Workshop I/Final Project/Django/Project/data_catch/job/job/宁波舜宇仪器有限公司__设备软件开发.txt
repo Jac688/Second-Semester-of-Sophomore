@@ -1,0 +1,1 @@
+{'company_name': '宁波舜宇仪器有限公司', 'job_name': '设备软件开发', 'geography': '宁波-余姚市', 'bonus': ['五险一金', '年终奖金', '加班费', '节日福利'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/123100524.html?rc=03'}

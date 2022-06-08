@@ -1,0 +1,1 @@
+{'company_name': '华住酒店管理宁波有限公司', 'job_name': '盟广信息-Java实习生', 'geography': '上海', 'bonus': [], 'salary': 0.22, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130601562.html?rc=03'}

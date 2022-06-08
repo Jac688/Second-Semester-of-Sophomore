@@ -1,0 +1,1 @@
+{'company_name': '九江一锦软件有限公司', 'job_name': 'Java开发工程师', 'geography': '九江', 'bonus': ['五险一金', '周末双休', '员工旅游', '法定节假日'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/jiujiang/96696557.html?rc=03'}

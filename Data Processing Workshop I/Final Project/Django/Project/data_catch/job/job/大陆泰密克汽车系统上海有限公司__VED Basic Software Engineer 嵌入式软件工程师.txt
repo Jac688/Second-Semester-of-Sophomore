@@ -1,0 +1,1 @@
+{'company_name': '大陆泰密克汽车系统上海有限公司', 'job_name': 'VED Basic Software Engineer 嵌入式软件工程师', 'geography': '上海-嘉定区', 'bonus': ['弹性工作', '专业培训', '免费班车', '交通补贴'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130763300.html?rc=03'}

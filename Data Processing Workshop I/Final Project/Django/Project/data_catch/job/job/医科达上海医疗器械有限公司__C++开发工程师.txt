@@ -1,0 +1,1 @@
+{'company_name': '医科达上海医疗器械有限公司', 'job_name': 'C++开发工程师', 'geography': '上海-浦东新区', 'bonus': ['周末双休', '带薪年假', '节日福利', '补充医疗保险'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130905995.html?rc=03'}

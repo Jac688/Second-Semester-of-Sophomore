@@ -1,0 +1,1 @@
+{'company_name': '上海申石软件有限公司', 'job_name': '售前顾问', 'geography': '深圳-龙华区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127868833.html?rc=03'}

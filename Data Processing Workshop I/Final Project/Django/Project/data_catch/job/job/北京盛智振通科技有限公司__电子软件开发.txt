@@ -1,0 +1,1 @@
+{'company_name': '北京盛智振通科技有限公司', 'job_name': '电子软件开发', 'geography': '北京-海淀区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130712353.html?rc=03'}

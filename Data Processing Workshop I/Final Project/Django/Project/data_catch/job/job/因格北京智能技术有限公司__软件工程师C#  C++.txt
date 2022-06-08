@@ -1,0 +1,1 @@
+{'company_name': '因格北京智能技术有限公司', 'job_name': '软件工程师C#  C++', 'geography': '北京-大兴区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121544818.html?rc=03'}

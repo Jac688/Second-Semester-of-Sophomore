@@ -1,0 +1,1 @@
+{'company_name': '广东朗呈医疗器械科技有限公司', 'job_name': 'C#软件开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125484732.html?rc=03'}

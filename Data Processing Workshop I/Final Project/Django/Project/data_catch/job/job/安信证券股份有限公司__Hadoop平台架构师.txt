@@ -1,0 +1,1 @@
+{'company_name': '安信证券股份有限公司', 'job_name': 'Hadoop平台架构师', 'geography': '深圳-福田区', 'bonus': ['绩效奖金', '公司规模大', '五险一金', '带薪年假'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128012575.html?rc=03'}

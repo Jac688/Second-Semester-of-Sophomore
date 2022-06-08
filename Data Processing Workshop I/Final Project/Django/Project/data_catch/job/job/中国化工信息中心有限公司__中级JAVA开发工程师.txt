@@ -1,0 +1,1 @@
+{'company_name': '中国化工信息中心有限公司', 'job_name': '中级JAVA开发工程师', 'geography': '北京', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '取暖费'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127880477.html?rc=03'}

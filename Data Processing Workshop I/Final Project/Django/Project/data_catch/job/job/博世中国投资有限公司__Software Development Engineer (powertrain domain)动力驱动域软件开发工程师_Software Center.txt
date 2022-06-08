@@ -1,0 +1,1 @@
+{'company_name': '博世中国投资有限公司', 'job_name': 'Software Development Engineer (powertrain domain)动力驱动域软件开发工程师_Software Center', 'geography': '无锡', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/122768143.html?rc=03'}

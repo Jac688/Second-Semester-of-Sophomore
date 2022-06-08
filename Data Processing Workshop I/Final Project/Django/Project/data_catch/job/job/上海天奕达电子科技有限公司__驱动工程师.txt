@@ -1,0 +1,1 @@
+{'company_name': '上海天奕达电子科技有限公司', 'job_name': '驱动工程师', 'geography': '上海-徐汇区', 'bonus': ['员工旅游', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/105931660.html?rc=03'}

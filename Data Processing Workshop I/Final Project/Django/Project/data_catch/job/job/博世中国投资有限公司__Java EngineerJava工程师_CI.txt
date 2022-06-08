@@ -1,0 +1,1 @@
+{'company_name': '博世中国投资有限公司', 'job_name': 'Java EngineerJava工程师_CI', 'geography': '苏州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131954433.html?rc=03'}

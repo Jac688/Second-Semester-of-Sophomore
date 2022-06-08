@@ -1,0 +1,1 @@
+{'company_name': '大昌汽车俱乐部有限公司', 'job_name': 'Java开发工程师', 'geography': '金华-金东区', 'bonus': ['餐饮补贴', '专业培训', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinhua/127962205.html?rc=03'}

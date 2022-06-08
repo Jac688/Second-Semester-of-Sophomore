@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后端开发工程师 — 住小帮Javapythongo', 'geography': '北京', 'bonus': ['六险一金', '弹性工作', '带薪休假', '租房补贴'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132299430.html?rc=03'}

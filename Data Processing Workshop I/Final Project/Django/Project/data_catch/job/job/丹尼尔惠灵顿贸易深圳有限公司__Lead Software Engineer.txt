@@ -1,0 +1,1 @@
+{'company_name': '丹尼尔惠灵顿贸易深圳有限公司', 'job_name': 'Lead Software Engineer', 'geography': '深圳-南山区', 'bonus': ['五险一金', '商业保险', '12天带薪年假', '周末双休'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125307242.html?rc=03'}

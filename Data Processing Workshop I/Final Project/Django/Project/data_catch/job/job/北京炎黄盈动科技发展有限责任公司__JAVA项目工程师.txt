@@ -1,0 +1,1 @@
+{'company_name': '北京炎黄盈动科技发展有限责任公司', 'job_name': 'JAVA项目工程师', 'geography': '北京-海淀区', 'bonus': ['周末双休', '五险一金', '带薪年假', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127289723.html?rc=03'}

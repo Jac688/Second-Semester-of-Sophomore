@@ -1,0 +1,1 @@
+{'company_name': '成都万创科技股份有限公司', 'job_name': '工业协议开发工程师', 'geography': '成都-武侯区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127097958.html?rc=03'}

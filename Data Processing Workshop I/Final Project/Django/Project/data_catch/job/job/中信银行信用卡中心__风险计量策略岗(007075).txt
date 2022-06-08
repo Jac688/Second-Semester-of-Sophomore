@@ -1,0 +1,1 @@
+{'company_name': '中信银行信用卡中心', 'job_name': '风险计量策略岗(007075)', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 0.21, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128245413.html?rc=03'}

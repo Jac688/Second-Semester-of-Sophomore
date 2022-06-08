@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '服务端高级开发工程师 - 抖音杭州社区安全', 'geography': '杭州', 'bonus': ['用户过亿', '租房补贴', '晋升空间大', '股票期权'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/119354262.html?rc=03'}

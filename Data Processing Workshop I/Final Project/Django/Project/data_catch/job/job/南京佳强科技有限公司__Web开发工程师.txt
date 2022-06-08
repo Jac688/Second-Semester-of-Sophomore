@@ -1,0 +1,1 @@
+{'company_name': '南京佳强科技有限公司', 'job_name': 'Web开发工程师', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '员工旅游', '专业培训', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/122194029.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '厦门帝嘉科技有限公司', 'job_name': '技术经理', 'geography': '泉州', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/quanzhou/132296323.html?rc=03'}

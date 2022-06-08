@@ -1,0 +1,1 @@
+{'company_name': '万宝盛华企业管理咨询上海有限公司', 'job_name': '知名高新技术企业 C++开发工程师', 'geography': '深圳-福田区', 'bonus': [], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128904573.html?rc=03'}

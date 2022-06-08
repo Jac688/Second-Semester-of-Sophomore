@@ -1,0 +1,1 @@
+{'company_name': '上海圆卓网络科技有限公司', 'job_name': '40万年薪求高级Java', 'geography': '上海-虹口区', 'bonus': ['做五休二', '周末双休', '带薪年假', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127004744.html?rc=03'}

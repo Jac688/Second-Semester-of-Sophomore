@@ -1,0 +1,1 @@
+{'company_name': '北京护航科技股份有限公司', 'job_name': 'Java后端开发', 'geography': '北京-东城区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '通讯补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128154222.html?rc=03'}

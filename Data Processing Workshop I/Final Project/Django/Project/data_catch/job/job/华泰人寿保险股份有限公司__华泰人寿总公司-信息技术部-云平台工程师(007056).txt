@@ -1,0 +1,1 @@
+{'company_name': '华泰人寿保险股份有限公司', 'job_name': '华泰人寿总公司-信息技术部-云平台工程师(007056)', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/120192434.html?rc=03'}

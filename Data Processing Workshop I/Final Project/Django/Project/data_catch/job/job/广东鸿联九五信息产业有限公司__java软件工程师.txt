@@ -1,0 +1,1 @@
+{'company_name': '广东鸿联九五信息产业有限公司', 'job_name': 'java软件工程师', 'geography': '深圳-福田区', 'bonus': ['定期体检', '周末双休', '五险一金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125107484.html?rc=03'}

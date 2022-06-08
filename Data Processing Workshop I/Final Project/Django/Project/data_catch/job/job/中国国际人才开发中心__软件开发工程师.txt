@@ -1,0 +1,1 @@
+{'company_name': '中国国际人才开发中心', 'job_name': '软件开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '带薪年假', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128918351.html?rc=03'}

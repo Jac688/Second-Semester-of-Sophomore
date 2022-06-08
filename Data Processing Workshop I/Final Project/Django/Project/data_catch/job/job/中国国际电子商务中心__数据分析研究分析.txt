@@ -1,0 +1,1 @@
+{'company_name': '中国国际电子商务中心', 'job_name': '数据分析研究分析', 'geography': '北京-东城区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127623443.html?rc=03'}

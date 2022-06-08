@@ -1,0 +1,1 @@
+{'company_name': '创络上海数据科技有限公司', 'job_name': '区块链开发工程师', 'geography': '上海-虹口区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129158276.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州欢聚时代信息科技有限公司', 'job_name': 'Web 后台工程师Java (MJ003378)', 'geography': '广州-番禺区', 'bonus': [], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132025677.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波德业科技股份有限公司', 'job_name': 'PC上位机软件工程师', 'geography': '异地招聘', 'bonus': ['弹性工作', '五险一金', '节日福利', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/122854100.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海电气集团智能交通科技有限公司', 'job_name': '嵌入式系统工程师产品研发部', 'geography': '上海', 'bonus': ['五险一金'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131065781.html?rc=03'}

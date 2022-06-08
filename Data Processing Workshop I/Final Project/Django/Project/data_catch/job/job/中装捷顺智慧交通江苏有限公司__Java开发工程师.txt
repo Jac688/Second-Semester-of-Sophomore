@@ -1,0 +1,1 @@
+{'company_name': '中装捷顺智慧交通江苏有限公司', 'job_name': 'Java开发工程师', 'geography': '扬州', 'bonus': ['餐饮补贴', '绩效奖金', '年终奖金', '交通补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/yangzhou/104280310.html?rc=03'}

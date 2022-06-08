@@ -1,0 +1,1 @@
+{'company_name': '上海耸智信息科技有限公司', 'job_name': '运维工程师实习生', 'geography': '北京', 'bonus': ['周末双休', '弹性工作', '五险一金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132249080.html?rc=03'}

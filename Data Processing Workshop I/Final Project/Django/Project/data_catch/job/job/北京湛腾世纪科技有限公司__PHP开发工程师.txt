@@ -1,0 +1,1 @@
+{'company_name': '北京湛腾世纪科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '武汉', 'bonus': ['五险一金', '绩效奖金', '弹性工作', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/130456889.html?rc=03'}

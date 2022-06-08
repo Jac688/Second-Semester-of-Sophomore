@@ -1,0 +1,1 @@
+{'company_name': '上海电气中央研究院', 'job_name': '软件工程师中央研究院', 'geography': '上海', 'bonus': ['五险一金', '周末双休', '年休假', '年终奖'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128593134.html?rc=03'}

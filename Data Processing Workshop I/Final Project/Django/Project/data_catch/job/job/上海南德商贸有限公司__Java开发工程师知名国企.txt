@@ -1,0 +1,1 @@
+{'company_name': '上海南德商贸有限公司', 'job_name': 'Java开发工程师知名国企', 'geography': '成都-高新区', 'bonus': ['五险一金', '绩效奖金', '国定年假', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130948671.html?rc=03'}

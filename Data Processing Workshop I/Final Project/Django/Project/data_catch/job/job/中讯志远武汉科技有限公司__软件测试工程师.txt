@@ -1,0 +1,1 @@
+{'company_name': '中讯志远武汉科技有限公司', 'job_name': '软件测试工程师', 'geography': '成都-崇州市', 'bonus': ['年终奖金', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130428975.html?rc=03'}

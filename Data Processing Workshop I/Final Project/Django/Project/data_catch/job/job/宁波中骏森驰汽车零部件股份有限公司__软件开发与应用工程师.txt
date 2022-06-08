@@ -1,0 +1,1 @@
+{'company_name': '宁波中骏森驰汽车零部件股份有限公司', 'job_name': '软件开发与应用工程师', 'geography': '宁波', 'bonus': ['五险一金', '员工旅游', '年终奖金', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/123101993.html?rc=03'}

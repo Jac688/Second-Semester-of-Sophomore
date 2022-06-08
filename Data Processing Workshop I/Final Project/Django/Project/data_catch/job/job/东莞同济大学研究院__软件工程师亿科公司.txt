@@ -1,0 +1,1 @@
+{'company_name': '东莞同济大学研究院', 'job_name': '软件工程师亿科公司', 'geography': '东莞-松山湖区', 'bonus': ['周末双休', '加班补贴', '高温补贴', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/102604802.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海浩方信息技术有限公司', 'job_name': '大数据分析架构师', 'geography': '上海-黄浦区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131234854.html?rc=03'}

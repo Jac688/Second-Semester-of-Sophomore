@@ -1,0 +1,1 @@
+{'company_name': '山东盛阳控股集团有限公司', 'job_name': 'Java开发工程师', 'geography': '临沂-罗庄区', 'bonus': ['定期体检', '餐饮补贴', '节日福利', '劳保福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/linyi/131269302.html?rc=03'}

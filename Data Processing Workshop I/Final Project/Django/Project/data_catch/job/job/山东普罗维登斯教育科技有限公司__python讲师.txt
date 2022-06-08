@@ -1,0 +1,1 @@
+{'company_name': '山东普罗维登斯教育科技有限公司', 'job_name': 'python讲师', 'geography': '临沂', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '出国机会'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/linyi/130439698.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海览银信息服务有限公司', 'job_name': 'JAVA实习专员', 'geography': '上海-静安区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132136326.html?rc=03'}

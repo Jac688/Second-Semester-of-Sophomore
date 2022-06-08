@@ -1,0 +1,1 @@
+{'company_name': '上海百秋电子商务有限公司', 'job_name': 'PHP工程师官网', 'geography': '上海-长宁区', 'bonus': ['绩效奖金', '餐饮补贴', '带薪年假', '五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130863309.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海欣兆阳信息科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '员工旅游', '股票期权', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131484654.html?rc=03'}

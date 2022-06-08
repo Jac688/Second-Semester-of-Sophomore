@@ -1,0 +1,1 @@
+{'company_name': '北京赛博昆仑科技有限公司', 'job_name': '检测引擎开发工程师', 'geography': '北京-朝阳区', 'bonus': ['带薪年假', '五险一金', '餐饮补贴', '节日福利'], 'salary': 4.17, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130849017.html?rc=03'}

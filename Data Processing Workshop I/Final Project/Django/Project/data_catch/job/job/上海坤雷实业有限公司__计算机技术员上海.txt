@@ -1,0 +1,1 @@
+{'company_name': '上海坤雷实业有限公司', 'job_name': '计算机技术员上海', 'geography': '上海-长宁区', 'bonus': ['五险一金', '定期体检', '年终奖金', '周末双休'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/115741425.html?rc=03'}

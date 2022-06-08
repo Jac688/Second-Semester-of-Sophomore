@@ -1,0 +1,1 @@
+{'company_name': '上海江村市隐智能科技有限公司', 'job_name': 'Python后端开发工程师', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128032308.html?rc=03'}

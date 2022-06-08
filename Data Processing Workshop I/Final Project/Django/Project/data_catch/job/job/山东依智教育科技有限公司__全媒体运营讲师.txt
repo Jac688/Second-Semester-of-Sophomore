@@ -1,0 +1,1 @@
+{'company_name': '山东依智教育科技有限公司', 'job_name': '全媒体运营讲师', 'geography': '重庆-渝中区', 'bonus': ['周末双休', '五险一金', '带薪年假', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/128472168.html?rc=03'}

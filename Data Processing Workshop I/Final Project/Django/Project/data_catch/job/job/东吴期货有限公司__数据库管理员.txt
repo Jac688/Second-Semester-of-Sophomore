@@ -1,0 +1,1 @@
+{'company_name': '东吴期货有限公司', 'job_name': '数据库管理员', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '定期体检', '做五休二', '带薪年假'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/114954835.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海占庭信息技术有限公司', 'job_name': 'PHP 中高级研发工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '弹性工作', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/72796743.html?rc=03'}

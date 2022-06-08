@@ -1,0 +1,1 @@
+{'company_name': '四川金信石信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128522395.html?rc=03'}

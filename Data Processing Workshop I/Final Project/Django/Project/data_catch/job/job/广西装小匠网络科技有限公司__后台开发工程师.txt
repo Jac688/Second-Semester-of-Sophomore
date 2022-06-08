@@ -1,0 +1,1 @@
+{'company_name': '广西装小匠网络科技有限公司', 'job_name': '后台开发工程师', 'geography': '南宁', 'bonus': ['交通补贴', '绩效奖金', '年终奖金', '包吃'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanning/130871667.html?rc=03'}

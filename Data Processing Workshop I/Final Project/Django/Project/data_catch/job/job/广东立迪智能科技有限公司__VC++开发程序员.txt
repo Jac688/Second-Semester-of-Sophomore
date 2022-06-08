@@ -1,0 +1,1 @@
+{'company_name': '广东立迪智能科技有限公司', 'job_name': 'VC++开发程序员', 'geography': '东莞-东城区', 'bonus': ['包吃', '五险一金', '全勤奖', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131012391.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川焯宇集团有限公司', 'job_name': '测试', 'geography': '成都-青羊区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128426657.html?rc=03'}

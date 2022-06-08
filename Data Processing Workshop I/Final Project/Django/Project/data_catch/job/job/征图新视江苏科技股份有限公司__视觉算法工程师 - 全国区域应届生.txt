@@ -1,0 +1,1 @@
+{'company_name': '征图新视江苏科技股份有限公司', 'job_name': '视觉算法工程师 - 全国区域应届生', 'geography': '异地招聘', 'bonus': ['五险一金', '包吃', '包住宿', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/127611459.html?rc=03'}

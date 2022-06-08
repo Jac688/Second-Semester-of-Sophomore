@@ -1,0 +1,1 @@
+{'company_name': '合肥工大高科信息科技股份有限公司', 'job_name': '软件研发工程师C++方向', 'geography': '合肥', 'bonus': ['六险一金', '员工宿舍', '员工旅游', '免费班车'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hefei/113300546.html?rc=03'}

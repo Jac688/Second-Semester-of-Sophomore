@@ -1,0 +1,1 @@
+{'company_name': '上海道律信息技术有限公司江西分公司', 'job_name': 'Java高级开发工程师', 'geography': '南昌', 'bonus': ['五险一金', '绩效奖金', '周末双休', '生日卡'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/130587304.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京市凯商科技发展有限责任公司', 'job_name': '嵌入式软件开发、汇编代码研读', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '餐饮补贴', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/91413419.html?rc=03'}

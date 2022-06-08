@@ -1,0 +1,1 @@
+{'company_name': '剑桥大学南京科技创新中心有限公司', 'job_name': '研究员生物信息学研究方向浙江省', 'geography': '浙江省', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/126182512.html?rc=03'}

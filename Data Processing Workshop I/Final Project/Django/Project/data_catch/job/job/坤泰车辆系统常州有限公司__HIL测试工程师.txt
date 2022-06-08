@@ -1,0 +1,1 @@
+{'company_name': '坤泰车辆系统常州有限公司', 'job_name': 'HIL测试工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '通讯补贴', '专业培训', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jiangsusheng/128726094.html?rc=03'}

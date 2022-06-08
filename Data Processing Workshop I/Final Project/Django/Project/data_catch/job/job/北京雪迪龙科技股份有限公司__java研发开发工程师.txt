@@ -1,0 +1,1 @@
+{'company_name': '北京雪迪龙科技股份有限公司', 'job_name': 'java研发开发工程师', 'geography': '北京', 'bonus': ['五险一金', '免费班车', '员工旅游', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130926110.html?rc=03'}

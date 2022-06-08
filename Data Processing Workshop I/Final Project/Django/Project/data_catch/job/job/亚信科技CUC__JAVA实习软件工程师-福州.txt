@@ -1,0 +1,1 @@
+{'company_name': '亚信科技CUC', 'job_name': 'JAVA实习软件工程师-福州', 'geography': '福州-仓山区', 'bonus': [], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/124024593.html?rc=03'}

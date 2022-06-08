@@ -1,0 +1,1 @@
+{'company_name': '东方通信股份有限公司', 'job_name': 'CC++软件开发工程师', 'geography': '杭州-滨江区', 'bonus': ['带薪年假', '五险一金', '高温补贴', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131302543.html?rc=03'}

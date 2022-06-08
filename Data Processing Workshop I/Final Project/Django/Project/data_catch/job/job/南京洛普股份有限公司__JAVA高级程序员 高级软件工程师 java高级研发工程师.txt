@@ -1,0 +1,1 @@
+{'company_name': '南京洛普股份有限公司', 'job_name': 'JAVA高级程序员 高级软件工程师 java高级研发工程师', 'geography': '南京-浦口区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/53953178.html?rc=03'}

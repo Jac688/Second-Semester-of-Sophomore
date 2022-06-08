@@ -1,0 +1,1 @@
+{'company_name': '成都万科房地产有限公司', 'job_name': '产品运营信息化平台', 'geography': '成都-高新区', 'bonus': ['五险一金', '带薪年假', '节假日福利', '周末双休'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131098948.html?rc=03'}

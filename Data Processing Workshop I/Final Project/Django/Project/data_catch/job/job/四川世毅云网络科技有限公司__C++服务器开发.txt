@@ -1,0 +1,1 @@
+{'company_name': '四川世毅云网络科技有限公司', 'job_name': 'C++服务器开发', 'geography': '异地招聘', 'bonus': [], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129232289.html?rc=03'}

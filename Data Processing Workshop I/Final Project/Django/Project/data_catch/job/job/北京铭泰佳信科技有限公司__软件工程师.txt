@@ -1,0 +1,1 @@
+{'company_name': '北京铭泰佳信科技有限公司', 'job_name': '软件工程师', 'geography': '上海-浦东新区', 'bonus': ['周末双休', '带薪年假', '五险一金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129907104.html?rc=03'}

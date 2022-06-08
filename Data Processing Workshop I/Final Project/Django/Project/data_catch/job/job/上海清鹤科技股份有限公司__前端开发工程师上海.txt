@@ -1,0 +1,1 @@
+{'company_name': '上海清鹤科技股份有限公司', 'job_name': '前端开发工程师上海', 'geography': '上海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129473372.html?rc=03'}

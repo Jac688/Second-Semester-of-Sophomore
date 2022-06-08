@@ -1,0 +1,1 @@
+{'company_name': '大连东软教育科技集团有限公司', 'job_name': 'Java讲师', 'geography': '青岛-黄岛区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/129839619.html?rc=03'}

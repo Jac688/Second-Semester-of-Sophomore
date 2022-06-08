@@ -1,0 +1,1 @@
+{'company_name': '慧聪集团买化塑', 'job_name': '数据运营专员', 'geography': '广州-越秀区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '定期体检'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125768064.html?rc=03'}

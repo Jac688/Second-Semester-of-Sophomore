@@ -1,0 +1,1 @@
+{'company_name': '广东英朗信息技术有限公司', 'job_name': '系统架构师', 'geography': '广州-越秀区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126102988.html?rc=03'}

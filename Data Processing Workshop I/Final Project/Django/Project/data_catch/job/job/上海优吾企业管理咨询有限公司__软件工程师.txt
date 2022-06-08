@@ -1,0 +1,1 @@
+{'company_name': '上海优吾企业管理咨询有限公司', 'job_name': '软件工程师', 'geography': '苏州-吴中区', 'bonus': ['五险一金', '专业培训', '通讯补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/127248297.html?rc=03'}

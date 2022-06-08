@@ -1,0 +1,1 @@
+{'company_name': '大连博科人才有限公司', 'job_name': '知名跨国电商集团高级PHP开发工程师-JP2903', 'geography': '上海', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/74681482.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '丽智电子昆山有限公司', 'job_name': '设备自动化工程师', 'geography': '南通', 'bonus': ['五险一金', '绩效奖金', '节日福利', '带薪年假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nantong/129076992.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州东方电科自动化有限公司', 'job_name': 'Java-ZFJ', 'geography': '广州', 'bonus': ['五险一金', '年终奖金', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131120221.html?rc=03'}

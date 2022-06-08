@@ -1,0 +1,1 @@
+{'company_name': '华硕科技苏州有限公司', 'job_name': '软件研发工程师(CC++方向)(J10230)', 'geography': '苏州', 'bonus': ['餐饮补贴', '五险一金', '补充医疗保险', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130774144.html?rc=03'}

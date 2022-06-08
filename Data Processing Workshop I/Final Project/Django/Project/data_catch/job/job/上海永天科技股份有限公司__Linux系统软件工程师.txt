@@ -1,0 +1,1 @@
+{'company_name': '上海永天科技股份有限公司', 'job_name': 'Linux系统软件工程师', 'geography': '上海-青浦区', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130667490.html?rc=03'}

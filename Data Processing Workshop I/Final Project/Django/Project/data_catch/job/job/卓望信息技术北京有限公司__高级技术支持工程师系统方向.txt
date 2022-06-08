@@ -1,0 +1,1 @@
+{'company_name': '卓望信息技术北京有限公司', 'job_name': '高级技术支持工程师系统方向', 'geography': '北京-丰台区', 'bonus': ['中移动控股', '专业培训', '通讯补贴', '定期体检'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126430757.html?rc=03'}

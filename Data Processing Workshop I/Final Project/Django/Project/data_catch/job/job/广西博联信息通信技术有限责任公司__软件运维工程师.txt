@@ -1,0 +1,1 @@
+{'company_name': '广西博联信息通信技术有限责任公司', 'job_name': '软件运维工程师', 'geography': '南宁', 'bonus': ['年终奖金', '五险', '双休', '行政班'], 'salary': 0.42, 'detail_url': 'https://msearch.51job.com/jobs/nanning/79011724.html?rc=03'}

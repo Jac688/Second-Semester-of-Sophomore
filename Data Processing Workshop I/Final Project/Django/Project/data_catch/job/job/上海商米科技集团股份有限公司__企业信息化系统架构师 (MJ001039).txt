@@ -1,0 +1,1 @@
+{'company_name': '上海商米科技集团股份有限公司', 'job_name': '企业信息化系统架构师 (MJ001039)', 'geography': '上海', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128686217.html?rc=03'}

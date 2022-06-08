@@ -1,0 +1,1 @@
+{'company_name': '大都会集团', 'job_name': 'CC++工程师+UE4', 'geography': '深圳-南山区', 'bonus': ['做五休二', '带薪年假', '五险一金', '绩效奖金'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130712679.html?rc=03'}

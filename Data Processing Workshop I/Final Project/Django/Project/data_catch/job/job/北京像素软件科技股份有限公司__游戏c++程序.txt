@@ -1,0 +1,1 @@
+{'company_name': '北京像素软件科技股份有限公司', 'job_name': '游戏c++程序', 'geography': '北京', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129772497.html?rc=03'}

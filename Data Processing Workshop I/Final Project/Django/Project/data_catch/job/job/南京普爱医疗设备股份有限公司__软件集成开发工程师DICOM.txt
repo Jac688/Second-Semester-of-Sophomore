@@ -1,0 +1,1 @@
+{'company_name': '南京普爱医疗设备股份有限公司', 'job_name': '软件集成开发工程师DICOM', 'geography': '南京', 'bonus': ['五险一金', '免费班车', '交通补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129591424.html?rc=03'}

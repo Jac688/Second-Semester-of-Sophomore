@@ -1,0 +1,1 @@
+{'company_name': '佛吉亚歌乐电子佛山有限公司', 'job_name': '软件工程师', 'geography': '佛山-三水区', 'bonus': ['五险一金', '定期体检', '绩效奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/118350687.html?rc=03'}

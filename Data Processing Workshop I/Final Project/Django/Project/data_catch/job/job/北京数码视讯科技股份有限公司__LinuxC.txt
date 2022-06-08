@@ -1,0 +1,1 @@
+{'company_name': '北京数码视讯科技股份有限公司', 'job_name': 'LinuxC', 'geography': '北京-海淀区', 'bonus': ['加班补贴', '五险一金', '补充医疗保险', '年终奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132043073.html?rc=03'}

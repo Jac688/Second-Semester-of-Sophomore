@@ -1,0 +1,1 @@
+{'company_name': '北京汇洋时代科技有限公司', 'job_name': '产品测试工程师', 'geography': '扬州', 'bonus': ['劳动保险', '每周工作5天'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/yangzhou/123136791.html?rc=03'}

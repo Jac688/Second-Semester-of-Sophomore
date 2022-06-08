@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '商品中心架构师', 'geography': '杭州', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '五险一金'], 'salary': 5.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128193835.html?rc=03'}

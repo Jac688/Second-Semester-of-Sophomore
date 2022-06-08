@@ -1,0 +1,1 @@
+{'company_name': '中国社会科学出版社', 'job_name': 'Java后台开发工程师', 'geography': '北京-西城区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '带薪休假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129624145.html?rc=03'}

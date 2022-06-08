@@ -1,0 +1,1 @@
+{'company_name': '宁德新能源科技有限公司', 'job_name': '设备软件设计开发工程师Java)', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '包住宿', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningde/131758774.html?rc=03'}

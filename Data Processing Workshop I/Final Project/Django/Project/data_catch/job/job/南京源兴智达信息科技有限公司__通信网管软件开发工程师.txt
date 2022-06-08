@@ -1,0 +1,1 @@
+{'company_name': '南京源兴智达信息科技有限公司', 'job_name': '通信网管软件开发工程师', 'geography': '南京-雨花台区', 'bonus': ['定期体检', '五险一金', '员工旅游', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129168459.html?rc=03'}

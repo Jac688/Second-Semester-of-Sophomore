@@ -1,0 +1,1 @@
+{'company_name': '北京经纬恒润科技股份有限公司', 'job_name': '工具开发运维工程师-汽车电子产品北京', 'geography': '北京-海淀区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131740455.html?rc=03'}

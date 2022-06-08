@@ -1,0 +1,1 @@
+{'company_name': '思创医惠科技股份有限公司', 'job_name': '软件测试工程师', 'geography': '杭州-余杭区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130384194.html?rc=03'}

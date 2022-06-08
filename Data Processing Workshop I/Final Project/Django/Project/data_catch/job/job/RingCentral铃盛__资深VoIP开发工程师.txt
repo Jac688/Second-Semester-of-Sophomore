@@ -1,0 +1,1 @@
+{'company_name': 'RingCentral铃盛', 'job_name': '资深VoIP开发工程师', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '免费班车', '交通补贴', '年终奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131078454.html?rc=03'}

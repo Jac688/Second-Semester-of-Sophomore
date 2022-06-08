@@ -1,0 +1,1 @@
+{'company_name': '中国长城科技集团股份有限公司电源事业部', 'job_name': '电源研发软件工程师北京', 'geography': '北京-海淀区', 'bonus': ['五险一金', '绩效奖金', '免费班车', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123542881.html?rc=03'}

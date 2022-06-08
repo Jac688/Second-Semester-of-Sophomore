@@ -1,0 +1,1 @@
+{'company_name': '宁波致迪自动化科技有限公司', 'job_name': '电气工程师', 'geography': '宁波-高新区', 'bonus': ['五险一金', '法定假日'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/113133129.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '云印技术深圳有限公司', 'job_name': '中高级测试工程师', 'geography': '厦门-思明区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/130826398.html?rc=03'}

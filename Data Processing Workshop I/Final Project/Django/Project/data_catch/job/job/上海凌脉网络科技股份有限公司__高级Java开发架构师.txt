@@ -1,0 +1,1 @@
+{'company_name': '上海凌脉网络科技股份有限公司', 'job_name': '高级Java开发架构师', 'geography': '异地招聘', 'bonus': ['做五休二', '做一休一', '弹性工作', '带薪年假'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131095028.html?rc=03'}

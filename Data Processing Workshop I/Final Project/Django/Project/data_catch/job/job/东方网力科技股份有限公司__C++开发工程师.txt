@@ -1,0 +1,1 @@
+{'company_name': '东方网力科技股份有限公司', 'job_name': 'C++开发工程师', 'geography': '深圳-福田区', 'bonus': ['餐饮补贴', '专业培训', '周末双休', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127697581.html?rc=03'}

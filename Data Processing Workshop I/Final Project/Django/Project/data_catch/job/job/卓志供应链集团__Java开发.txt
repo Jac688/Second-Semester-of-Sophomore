@@ -1,0 +1,1 @@
+{'company_name': '卓志供应链集团', 'job_name': 'Java开发', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '定期体检', '员工旅游', '节日福利'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132197758.html?rc=03'}

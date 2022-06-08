@@ -1,0 +1,1 @@
+{'company_name': '余姚市浙江大学机器人研究中心', 'job_name': '软件工程师', 'geography': '宁波-余姚市', 'bonus': ['提供住宿', '年休假', '缴纳社保', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130544350.html?rc=03'}

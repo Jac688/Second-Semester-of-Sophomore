@@ -1,0 +1,1 @@
+{'company_name': '宁波博菱电器股份有限公司', 'job_name': '电控工程师', 'geography': '宁波-北仑区', 'bonus': ['带薪年假', '包住宿', '包吃', '五险一金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127150227.html?rc=03'}

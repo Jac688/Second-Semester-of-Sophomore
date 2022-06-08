@@ -1,0 +1,1 @@
+{'company_name': '北京朗视仪器股份有限公司', 'job_name': '图形学软件工程师', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129993487.html?rc=03'}

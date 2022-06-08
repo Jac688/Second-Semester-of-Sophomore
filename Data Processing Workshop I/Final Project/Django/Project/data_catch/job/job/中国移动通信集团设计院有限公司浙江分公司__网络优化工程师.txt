@@ -1,0 +1,1 @@
+{'company_name': '中国移动通信集团设计院有限公司浙江分公司', 'job_name': '网络优化工程师', 'geography': '杭州-上城区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '餐饮补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/115482856.html?rc=03'}

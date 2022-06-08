@@ -1,0 +1,1 @@
+{'company_name': '广州市鹏升电器设备有限公司', 'job_name': 'JAVA设计开发工程师', 'geography': '广州-白云区', 'bonus': ['五险一金', '包吃', '包三餐', '包住宿'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126051055.html?rc=03'}

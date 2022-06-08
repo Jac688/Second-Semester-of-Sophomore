@@ -1,0 +1,1 @@
+{'company_name': '展讯通信(上海)有限公司', 'job_name': '图像视觉及AI算法工程师天津', 'geography': '天津', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/124377368.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海创旗天下科技股份有限公司', 'job_name': '储备人才销售客服岗、研发技术岗、运维支持岗', 'geography': '上海', 'bonus': ['做五休二', '专业培训', '绩效奖金', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127556764.html?rc=03'}

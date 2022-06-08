@@ -1,0 +1,1 @@
+{'company_name': 'ChinaAutoMarket', 'job_name': '数据开发工程师', 'geography': '无锡-无锡新区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/126881818.html?rc=03'}

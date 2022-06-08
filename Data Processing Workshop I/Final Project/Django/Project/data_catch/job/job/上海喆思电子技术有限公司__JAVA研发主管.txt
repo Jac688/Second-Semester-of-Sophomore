@@ -1,0 +1,1 @@
+{'company_name': '上海喆思电子技术有限公司', 'job_name': 'JAVA研发主管', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128438896.html?rc=03'}

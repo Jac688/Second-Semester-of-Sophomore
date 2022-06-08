@@ -1,0 +1,1 @@
+{'company_name': '南京优通信息科技股份有限公司', 'job_name': '研发技术总监', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '交通补贴', '员工旅游', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128553568.html?rc=03'}

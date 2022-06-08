@@ -1,0 +1,1 @@
+{'company_name': '上海煜暖实业有限公司', 'job_name': '数控编程 双休', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117743507.html?rc=03'}

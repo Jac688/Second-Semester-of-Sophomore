@@ -1,0 +1,1 @@
+{'company_name': '安徽银雁金融外包服务有限公司', 'job_name': 'Java开发工程师(J14725)', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '专业培训', '定期体检', '弹性工作'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131776505.html?rc=03'}

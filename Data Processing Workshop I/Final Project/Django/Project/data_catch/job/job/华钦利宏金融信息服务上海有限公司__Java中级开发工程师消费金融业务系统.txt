@@ -1,0 +1,1 @@
+{'company_name': '华钦利宏金融信息服务上海有限公司', 'job_name': 'Java中级开发工程师消费金融业务系统', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124788879.html?rc=03'}

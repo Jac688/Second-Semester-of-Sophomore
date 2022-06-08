@@ -1,0 +1,1 @@
+{'company_name': '广州韩居定制家居有限公司', 'job_name': 'ERP维护工程师', 'geography': '广州-从化区', 'bonus': ['节日福利', '员工生日', '提供食宿', '购买社保'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132149848.html?rc=03'}

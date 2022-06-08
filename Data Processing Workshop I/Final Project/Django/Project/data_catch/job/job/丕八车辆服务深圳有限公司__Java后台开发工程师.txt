@@ -1,0 +1,1 @@
+{'company_name': '丕八车辆服务深圳有限公司', 'job_name': 'Java后台开发工程师', 'geography': '深圳-南山区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/120428689.html?rc=03'}

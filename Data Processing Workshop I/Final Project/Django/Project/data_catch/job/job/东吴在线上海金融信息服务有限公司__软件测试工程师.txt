@@ -1,0 +1,1 @@
+{'company_name': '东吴在线上海金融信息服务有限公司', 'job_name': '软件测试工程师', 'geography': '苏州-工业园区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130373728.html?rc=03'}

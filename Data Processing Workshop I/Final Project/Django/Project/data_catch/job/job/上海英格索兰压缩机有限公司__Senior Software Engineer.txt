@@ -1,0 +1,1 @@
+{'company_name': '上海英格索兰压缩机有限公司', 'job_name': 'Senior Software Engineer', 'geography': '上海', 'bonus': ['五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130906834.html?rc=03'}

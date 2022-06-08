@@ -1,0 +1,1 @@
+{'company_name': '广东尚研电子科技股份有限公司', 'job_name': '嵌入式电子工程师', 'geography': '佛山-顺德区', 'bonus': ['年终奖金', '绩效奖金', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/128805072.html?rc=03'}

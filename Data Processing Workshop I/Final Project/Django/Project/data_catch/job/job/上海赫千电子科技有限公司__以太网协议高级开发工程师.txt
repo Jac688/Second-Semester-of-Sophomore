@@ -1,0 +1,1 @@
+{'company_name': '上海赫千电子科技有限公司', 'job_name': '以太网协议高级开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131849424.html?rc=03'}

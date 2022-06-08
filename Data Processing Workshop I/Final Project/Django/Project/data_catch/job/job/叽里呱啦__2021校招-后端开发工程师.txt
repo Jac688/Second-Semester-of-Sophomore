@@ -1,0 +1,1 @@
+{'company_name': '叽里呱啦', 'job_name': '2021校招-后端开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130763985.html?rc=03'}

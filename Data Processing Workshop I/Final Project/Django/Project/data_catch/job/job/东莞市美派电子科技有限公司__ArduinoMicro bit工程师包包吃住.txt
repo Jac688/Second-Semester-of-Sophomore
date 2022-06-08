@@ -1,0 +1,1 @@
+{'company_name': '东莞市美派电子科技有限公司', 'job_name': 'ArduinoMicro bit工程师包包吃住', 'geography': '东莞', 'bonus': ['员工旅游', '专业培训', '年终奖金', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130691138.html?rc=03'}

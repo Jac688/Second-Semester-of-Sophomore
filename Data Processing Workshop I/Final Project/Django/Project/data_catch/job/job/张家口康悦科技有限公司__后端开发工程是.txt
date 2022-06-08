@@ -1,0 +1,1 @@
+{'company_name': '张家口康悦科技有限公司', 'job_name': '后端开发工程是', 'geography': '异地招聘', 'bonus': ['五险一金', '定期体检'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130554059.html?rc=03'}

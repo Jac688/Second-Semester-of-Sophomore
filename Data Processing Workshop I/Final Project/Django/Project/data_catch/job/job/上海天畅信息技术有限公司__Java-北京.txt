@@ -1,0 +1,1 @@
+{'company_name': '上海天畅信息技术有限公司', 'job_name': 'Java-北京', 'geography': '北京-石景山区', 'bonus': ['五险一金', '员工旅游', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128122871.html?rc=03'}

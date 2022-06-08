@@ -1,0 +1,1 @@
+{'company_name': '广西峰和云启文化投资有限公司', 'job_name': '软件工程师', 'geography': '南宁', 'bonus': ['交通补贴', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanning/100566638.html?rc=03'}

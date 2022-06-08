@@ -1,0 +1,1 @@
+{'company_name': '广西壮族自治区产品质量检验研究院广西壮族自治区纤维检验所', 'job_name': '资产部网络管理员', 'geography': '南宁', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanning/131646086.html?rc=03'}

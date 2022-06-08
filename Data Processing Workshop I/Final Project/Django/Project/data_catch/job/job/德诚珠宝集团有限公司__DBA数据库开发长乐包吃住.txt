@@ -1,0 +1,1 @@
+{'company_name': '德诚珠宝集团有限公司', 'job_name': 'DBA数据库开发长乐包吃住', 'geography': '福州-长乐区', 'bonus': ['五险一金', '内部购金优惠', '绩效奖金', '交通补贴'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/131578676.html?rc=03'}

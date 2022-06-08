@@ -1,0 +1,1 @@
+{'company_name': '上海吉贝克信息技术有限公司', 'job_name': 'Java开发工程师杭州', 'geography': '杭州', 'bonus': ['五险一金', '专业培训', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/117755429.html?rc=03'}

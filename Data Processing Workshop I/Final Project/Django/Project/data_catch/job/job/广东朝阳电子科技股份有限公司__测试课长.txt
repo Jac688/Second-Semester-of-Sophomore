@@ -1,0 +1,1 @@
+{'company_name': '广东朝阳电子科技股份有限公司', 'job_name': '测试课长', 'geography': '东莞-企石镇', 'bonus': [], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130538722.html?rc=03'}

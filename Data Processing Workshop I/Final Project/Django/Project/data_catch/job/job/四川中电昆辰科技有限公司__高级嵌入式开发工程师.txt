@@ -1,0 +1,1 @@
+{'company_name': '四川中电昆辰科技有限公司', 'job_name': '高级嵌入式开发工程师', 'geography': '成都', 'bonus': ['五险一金', '员工旅游', '年终奖金', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130623862.html?rc=03'}

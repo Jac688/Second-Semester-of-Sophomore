@@ -1,0 +1,1 @@
+{'company_name': '丽台上海信息科技有限公司', 'job_name': '软件工程师', 'geography': '上海-徐汇区', 'bonus': ['餐饮补贴', '弹性工作', '定期体检', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132290104.html?rc=03'}

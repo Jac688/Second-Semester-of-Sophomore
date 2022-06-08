@@ -1,0 +1,1 @@
+{'company_name': '南宁进驰科技有限责任公司', 'job_name': 'java程序员', 'geography': '南宁', 'bonus': ['五险', '周末双休', '节日福利', '绩效奖金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/nanning/76402684.html?rc=03'}

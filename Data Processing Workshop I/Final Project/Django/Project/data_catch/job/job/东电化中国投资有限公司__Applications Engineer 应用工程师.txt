@@ -1,0 +1,1 @@
+{'company_name': '东电化中国投资有限公司', 'job_name': 'Applications Engineer 应用工程师', 'geography': '上海-浦东新区', 'bonus': ['补充医疗保险', '补充公积金', '员工旅游', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130888017.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海晨昆实业有限公司', 'job_name': '数据采集软件工程师', 'geography': '重庆-渝北区', 'bonus': ['周末双休', '节日福利', '五险', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/123055669.html?rc=03'}

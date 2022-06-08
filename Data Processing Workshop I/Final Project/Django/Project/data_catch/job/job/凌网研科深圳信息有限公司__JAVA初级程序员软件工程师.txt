@@ -1,0 +1,1 @@
+{'company_name': '凌网研科深圳信息有限公司', 'job_name': 'JAVA初级程序员软件工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/122204531.html?rc=03'}

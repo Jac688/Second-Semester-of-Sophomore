@@ -1,0 +1,1 @@
+{'company_name': '上海贝乐文化传播有限公司', 'job_name': '编程老师', 'geography': '扬州-高邮市', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/yangzhou/132224355.html?rc=03'}

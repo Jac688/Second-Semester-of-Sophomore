@@ -1,0 +1,1 @@
+{'company_name': '广州市融信达供应链管理有限公司', 'job_name': '.NET后端开发工程师', 'geography': '广州-荔湾区', 'bonus': ['五险一金', '绩效奖金', '定期体检', '员工旅游'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/120177943.html?rc=03'}

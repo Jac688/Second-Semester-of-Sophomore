@@ -1,0 +1,1 @@
+{'company_name': '中国电子科技集团公司第五十二研究所', 'job_name': '高级CC++研发工程师', 'geography': '杭州', 'bonus': ['餐饮补贴', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/119852206.html?rc=03'}

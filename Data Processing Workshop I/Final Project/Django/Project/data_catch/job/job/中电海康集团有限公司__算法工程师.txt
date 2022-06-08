@@ -1,0 +1,1 @@
+{'company_name': '中电海康集团有限公司', 'job_name': '算法工程师', 'geography': '杭州-余杭区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131376145.html?rc=03'}

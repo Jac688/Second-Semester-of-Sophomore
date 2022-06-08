@@ -1,0 +1,1 @@
+{'company_name': '意昂神州(北京)科技有限公司', 'job_name': '客户经理', 'geography': '北京-海淀区', 'bonus': ['弹性工作', '通讯补贴', '五险一金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/113065980.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海漕河泾新兴技术开发区科技创业中心有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130729180.html?rc=03'}

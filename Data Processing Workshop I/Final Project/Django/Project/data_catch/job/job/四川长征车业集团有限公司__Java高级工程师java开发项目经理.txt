@@ -1,0 +1,1 @@
+{'company_name': '四川长征车业集团有限公司', 'job_name': 'Java高级工程师java开发项目经理', 'geography': '成都', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/101631628.html?rc=03'}

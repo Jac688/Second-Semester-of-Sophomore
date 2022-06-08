@@ -1,0 +1,1 @@
+{'company_name': '上海游驰网络技术有限公司', 'job_name': '系统工程师', 'geography': '上海', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/105097245.html?rc=03'}

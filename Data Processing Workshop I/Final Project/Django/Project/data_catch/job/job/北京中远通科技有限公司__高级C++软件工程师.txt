@@ -1,0 +1,1 @@
+{'company_name': '北京中远通科技有限公司', 'job_name': '高级C++软件工程师', 'geography': '北京-昌平区', 'bonus': ['五险一金', '年终奖金', '提供午餐', '工作居住证'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130124980.html?rc=03'}

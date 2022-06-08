@@ -1,0 +1,1 @@
+{'company_name': '天津大学四川创新研究院', 'job_name': 'Java开发工程师', 'geography': '成都-天府新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131279214.html?rc=03'}

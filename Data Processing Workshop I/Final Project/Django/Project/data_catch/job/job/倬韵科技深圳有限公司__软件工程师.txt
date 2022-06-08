@@ -1,0 +1,1 @@
+{'company_name': '倬韵科技深圳有限公司', 'job_name': '软件工程师', 'geography': '深圳-南山区', 'bonus': ['年终奖金', '绩效奖金', '免费零食水果', '社保'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129895893.html?rc=03'}

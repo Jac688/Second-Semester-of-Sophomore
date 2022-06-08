@@ -1,0 +1,1 @@
+{'company_name': '上海通天晓信息技术有限公司', 'job_name': '技术经理Java', 'geography': '上海-宝山区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131834688.html?rc=03'}

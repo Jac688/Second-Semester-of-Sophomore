@@ -1,0 +1,1 @@
+{'company_name': '大连碧沁软件有限公司', 'job_name': 'PHP开发工程师全职都可以', 'geography': '大连', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '年终奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/dalian/131921086.html?rc=03'}

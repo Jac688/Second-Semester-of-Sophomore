@@ -1,0 +1,1 @@
+{'company_name': '上海邦芒人力资源有限公司', 'job_name': 'Java开发工程师', 'geography': '嘉兴', 'bonus': ['五险一金', '绩效奖金', '节日福利', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/128408472.html?rc=03'}

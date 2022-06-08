@@ -1,0 +1,1 @@
+{'company_name': '上海金曲信息技术有限公司常州分公司', 'job_name': 'Java开发工程师', 'geography': '常州-新北区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '餐饮补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/124937860.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '山东拓恒电力设备有限公司', 'job_name': '信息化项目Java后端开发', 'geography': '济南-市中区', 'bonus': ['周末双休', '带薪年假', '职位晋升', '做五休二'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131536513.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国高科集团股份有限公司', 'job_name': '教研教学大数据方向', 'geography': '北京-海淀区', 'bonus': ['五险一金', '周末双休', '节日福利', '岗位晋升'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/112631121.html?rc=03'}

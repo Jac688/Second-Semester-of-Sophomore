@@ -1,0 +1,1 @@
+{'company_name': '广东荣文科技集团有限公司', 'job_name': '高级研发技术经理智慧市政平台', 'geography': '东莞', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/123307062.html?rc=03'}

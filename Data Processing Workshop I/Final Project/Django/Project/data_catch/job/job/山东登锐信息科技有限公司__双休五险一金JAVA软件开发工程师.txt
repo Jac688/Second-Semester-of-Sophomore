@@ -1,0 +1,1 @@
+{'company_name': '山东登锐信息科技有限公司', 'job_name': '双休五险一金JAVA软件开发工程师', 'geography': '济南-历下区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130545388.html?rc=03'}

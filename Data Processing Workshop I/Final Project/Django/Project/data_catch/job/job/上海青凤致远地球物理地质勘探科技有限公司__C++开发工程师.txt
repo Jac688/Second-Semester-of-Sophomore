@@ -1,0 +1,1 @@
+{'company_name': '上海青凤致远地球物理地质勘探科技有限公司', 'job_name': 'C++开发工程师', 'geography': '成都-双流区', 'bonus': ['五险一金', '绩效奖金', '员工旅游', '弹性工作'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/99786662.html?rc=03'}

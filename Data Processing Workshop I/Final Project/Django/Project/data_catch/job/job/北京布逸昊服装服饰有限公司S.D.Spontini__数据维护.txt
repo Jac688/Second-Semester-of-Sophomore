@@ -1,0 +1,1 @@
+{'company_name': '北京布逸昊服装服饰有限公司S.D.Spontini', 'job_name': '数据维护', 'geography': '北京-东城区', 'bonus': ['带薪年假', '五险一金', '节日福利', '全勤奖'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126316952.html?rc=03'}

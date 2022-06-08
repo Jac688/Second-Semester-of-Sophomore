@@ -1,0 +1,1 @@
+{'company_name': '北京天威诚信电子商务服务有限公司', 'job_name': 'CC++研发工程师基础开发部', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129777508.html?rc=03'}

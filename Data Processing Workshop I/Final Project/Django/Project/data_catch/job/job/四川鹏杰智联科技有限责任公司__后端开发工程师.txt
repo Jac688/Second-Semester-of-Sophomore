@@ -1,0 +1,1 @@
+{'company_name': '四川鹏杰智联科技有限责任公司', 'job_name': '后端开发工程师', 'geography': '成都-高新区', 'bonus': ['周末双休', '弹性工作', '带薪年假', '社保'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130862727.html?rc=03'}

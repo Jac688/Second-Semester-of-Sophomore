@@ -1,0 +1,1 @@
+{'company_name': '中粮招商局深圳粮食电子交易中心有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-南山区', 'bonus': ['周末双休', '带薪年假', '五险一金', '餐饮补贴'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130476331.html?rc=03'}

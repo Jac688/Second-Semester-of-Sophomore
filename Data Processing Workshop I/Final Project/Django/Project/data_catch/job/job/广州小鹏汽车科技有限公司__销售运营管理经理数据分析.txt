@@ -1,0 +1,1 @@
+{'company_name': '广州小鹏汽车科技有限公司', 'job_name': '销售运营管理经理数据分析', 'geography': '成都-武侯区', 'bonus': ['餐饮补贴', '绩效奖金', '五险一金', '补充公积金'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130404821.html?rc=03'}

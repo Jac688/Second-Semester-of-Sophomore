@@ -1,0 +1,1 @@
+{'company_name': '安徽皖仪科技股份有限公司', 'job_name': 'C++开发工程师', 'geography': '合肥-高新区', 'bonus': ['周末双休', '弹性工作', '带薪年假', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hefei/118262366.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '华耀星辰上海医疗设备有限公司', 'job_name': '软件工程师', 'geography': '上海-浦东新区', 'bonus': ['周末双休', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/116352156.html?rc=03'}

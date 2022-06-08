@@ -1,0 +1,1 @@
+{'company_name': '上海乾隆高科技有限公司', 'job_name': 'C++ 软件开发工程师成都乾隆', 'geography': '成都', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/121391003.html?rc=03'}

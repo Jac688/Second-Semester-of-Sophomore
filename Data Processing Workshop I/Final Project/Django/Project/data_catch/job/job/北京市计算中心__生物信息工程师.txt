@@ -1,0 +1,1 @@
+{'company_name': '北京市计算中心', 'job_name': '生物信息工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '带薪年假', '弹性工作', '交通补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131165470.html?rc=03'}

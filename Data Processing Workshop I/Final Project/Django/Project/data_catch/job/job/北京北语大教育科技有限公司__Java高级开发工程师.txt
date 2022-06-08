@@ -1,0 +1,1 @@
+{'company_name': '北京北语大教育科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '北京', 'bonus': ['专业培训', '定期体检', '寒暑假', '北京高校'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129603535.html?rc=03'}

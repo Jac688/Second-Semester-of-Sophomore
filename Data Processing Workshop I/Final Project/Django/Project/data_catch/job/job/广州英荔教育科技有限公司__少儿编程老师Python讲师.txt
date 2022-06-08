@@ -1,0 +1,1 @@
+{'company_name': '广州英荔教育科技有限公司', 'job_name': '少儿编程老师Python讲师', 'geography': '南京', 'bonus': ['餐饮补贴', '加班调休', '年终奖金', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/126455179.html?rc=03'}

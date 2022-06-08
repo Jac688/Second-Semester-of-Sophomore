@@ -1,0 +1,1 @@
+{'company_name': '广州中软信息技术有限公司', 'job_name': '项目经理', 'geography': '海南省', 'bonus': ['五险一金', '员工旅游', '年终奖金', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hainansheng/126108057.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川美亚联环保技术有限公司', 'job_name': '后端开发工程师-Python', 'geography': '成都-武侯区', 'bonus': ['五险一金', '专业培训', '定期体检', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130668489.html?rc=03'}

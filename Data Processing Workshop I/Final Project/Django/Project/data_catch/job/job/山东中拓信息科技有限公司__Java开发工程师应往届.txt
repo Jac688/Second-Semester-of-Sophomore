@@ -1,0 +1,1 @@
+{'company_name': '山东中拓信息科技有限公司', 'job_name': 'Java开发工程师应往届', 'geography': '异地招聘', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/shandongsheng/131319141.html?rc=03'}

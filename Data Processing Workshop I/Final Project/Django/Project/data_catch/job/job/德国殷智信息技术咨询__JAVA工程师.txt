@@ -1,0 +1,1 @@
+{'company_name': '德国殷智信息技术咨询', 'job_name': 'JAVA工程师', 'geography': '上海-长宁区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/70523802.html?rc=03'}

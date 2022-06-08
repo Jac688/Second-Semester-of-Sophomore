@@ -1,0 +1,1 @@
+{'company_name': '中山嚞仁企业管理有限公司', 'job_name': '后端开发java软件工程师', 'geography': '中山-石岐区', 'bonus': ['周末双休', '绩效奖金', '年终奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/131134219.html?rc=03'}

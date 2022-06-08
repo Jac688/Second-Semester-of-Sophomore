@@ -1,0 +1,1 @@
+{'company_name': '小微环球上海科技有限公司', 'job_name': '全栈开发工程师', 'geography': '上海-虹口区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/112418389.html?rc=03'}

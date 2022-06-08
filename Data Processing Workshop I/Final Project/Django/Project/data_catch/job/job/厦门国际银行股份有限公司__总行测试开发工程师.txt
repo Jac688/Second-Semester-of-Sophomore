@@ -1,0 +1,1 @@
+{'company_name': '厦门国际银行股份有限公司', 'job_name': '总行测试开发工程师', 'geography': '厦门-同安区', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/131533898.html?rc=03'}

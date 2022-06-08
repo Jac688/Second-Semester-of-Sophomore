@@ -1,0 +1,1 @@
+{'company_name': '广州延韬教育科技有限公司', 'job_name': '乐高编程老师', 'geography': '广州-花都区', 'bonus': ['五险一金', '绩效奖金', '交通补贴', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/112778378.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海川鼎汇餐饮管理有限公司', 'job_name': 'SEO专员', 'geography': '上海-宝山区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130798220.html?rc=03'}

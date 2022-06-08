@@ -1,0 +1,1 @@
+{'company_name': '上海数设科技有限公司', 'job_name': 'CAE仿真工程师', 'geography': '苏州-虎丘区', 'bonus': ['五险一金', '年终奖金', '13薪', '定期团建'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130652459.html?rc=03'}

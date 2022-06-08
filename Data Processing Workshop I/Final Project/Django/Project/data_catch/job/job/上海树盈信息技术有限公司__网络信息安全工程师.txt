@@ -1,0 +1,1 @@
+{'company_name': '上海树盈信息技术有限公司', 'job_name': '网络信息安全工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '项目提成', '年终奖金', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119696474.html?rc=03'}

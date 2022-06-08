@@ -1,0 +1,1 @@
+{'company_name': '上海鲲博通信技术有限公司', 'job_name': '平台开发工程师', 'geography': '苏州-高新区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/110239823.html?rc=03'}

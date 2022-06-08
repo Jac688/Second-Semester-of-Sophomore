@@ -1,0 +1,1 @@
+{'company_name': '广州康立明生物科技股份有限公司', 'job_name': '生物信息工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '14薪', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129669408.html?rc=03'}

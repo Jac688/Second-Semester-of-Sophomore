@@ -1,0 +1,1 @@
+{'company_name': 'BME柏美迪康', 'job_name': '视频流媒体开发工程师', 'geography': '上海', 'bonus': ['员工旅游', '餐饮补贴', '定期体检', '绩效奖金'], 'salary': 4.17, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127790898.html?rc=03'}

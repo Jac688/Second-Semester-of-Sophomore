@@ -1,0 +1,1 @@
+{'company_name': '嘉仕软件江苏有限公司', 'job_name': 'EAS高级开发工程师', 'geography': '南昌', 'bonus': ['五险一金', '专业培训', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/132098585.html?rc=03'}

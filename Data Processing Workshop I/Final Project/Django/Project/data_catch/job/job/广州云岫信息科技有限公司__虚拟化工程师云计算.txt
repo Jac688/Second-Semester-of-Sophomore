@@ -1,0 +1,1 @@
+{'company_name': '广州云岫信息科技有限公司', 'job_name': '虚拟化工程师云计算', 'geography': '广州-天河区', 'bonus': ['专业培训', '绩效奖金', '年终奖金', '股票期权'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/108757834.html?rc=03'}

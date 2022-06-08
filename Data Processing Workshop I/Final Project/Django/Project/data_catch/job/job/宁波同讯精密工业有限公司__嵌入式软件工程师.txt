@@ -1,0 +1,1 @@
+{'company_name': '宁波同讯精密工业有限公司', 'job_name': '嵌入式软件工程师', 'geography': '宁波-鄞州区', 'bonus': ['专业培训', '通讯补贴', '餐饮补贴', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128154880.html?rc=03'}

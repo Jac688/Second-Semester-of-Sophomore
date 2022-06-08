@@ -1,0 +1,1 @@
+{'company_name': 'Life Technologies', 'job_name': 'Machine Learning Analyst', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129729759.html?rc=03'}

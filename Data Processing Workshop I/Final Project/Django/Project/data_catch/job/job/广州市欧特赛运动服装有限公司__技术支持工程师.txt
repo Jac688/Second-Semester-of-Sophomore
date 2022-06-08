@@ -1,0 +1,1 @@
+{'company_name': '广州市欧特赛运动服装有限公司', 'job_name': '技术支持工程师', 'geography': '广州-番禺区', 'bonus': ['员工旅游', '年终奖金', '五险一金', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131816944.html?rc=03'}

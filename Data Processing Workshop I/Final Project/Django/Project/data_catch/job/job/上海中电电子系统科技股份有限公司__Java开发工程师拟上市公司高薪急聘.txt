@@ -1,0 +1,1 @@
+{'company_name': '上海中电电子系统科技股份有限公司', 'job_name': 'Java开发工程师拟上市公司高薪急聘', 'geography': '杭州-拱墅区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/70423997.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海美视美景眼科门诊部有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-闵行区', 'bonus': ['做五休二', '五险一金', '绩效奖金', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130746730.html?rc=03'}

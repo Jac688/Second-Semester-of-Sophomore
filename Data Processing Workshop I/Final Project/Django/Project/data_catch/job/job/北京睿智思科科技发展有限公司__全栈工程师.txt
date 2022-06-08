@@ -1,0 +1,1 @@
+{'company_name': '北京睿智思科科技发展有限公司', 'job_name': '全栈工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '出国机会'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132182580.html?rc=03'}

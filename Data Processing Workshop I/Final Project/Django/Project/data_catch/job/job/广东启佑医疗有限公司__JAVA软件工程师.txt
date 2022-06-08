@@ -1,0 +1,1 @@
+{'company_name': '广东启佑医疗有限公司', 'job_name': 'JAVA软件工程师', 'geography': '佛山-南海区', 'bonus': ['员工旅游', '绩效奖金', '年终奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/126448664.html?rc=03'}

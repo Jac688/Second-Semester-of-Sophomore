@@ -1,0 +1,1 @@
+{'company_name': '北京展讯高科通信技术有限公司', 'job_name': '芯片后端设计工程师3504', 'geography': '北京-海淀区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124163617.html?rc=03'}

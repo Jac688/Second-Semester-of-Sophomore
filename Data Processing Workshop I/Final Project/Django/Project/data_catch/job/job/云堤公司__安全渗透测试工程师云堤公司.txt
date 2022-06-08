@@ -1,0 +1,1 @@
+{'company_name': '云堤公司', 'job_name': '安全渗透测试工程师云堤公司', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129104425.html?rc=03'}

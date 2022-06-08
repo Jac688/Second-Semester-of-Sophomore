@@ -1,0 +1,1 @@
+{'company_name': '丹东东发集团股份有限公司', 'job_name': 'JAVA开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '做五休二', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126575205.html?rc=03'}

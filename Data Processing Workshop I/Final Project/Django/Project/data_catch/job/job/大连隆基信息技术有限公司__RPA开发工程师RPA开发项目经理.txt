@@ -1,0 +1,1 @@
+{'company_name': '大连隆基信息技术有限公司', 'job_name': 'RPA开发工程师RPA开发项目经理', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125846259.html?rc=03'}

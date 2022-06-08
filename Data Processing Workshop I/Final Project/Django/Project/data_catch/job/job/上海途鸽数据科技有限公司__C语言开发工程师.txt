@@ -1,0 +1,1 @@
+{'company_name': '上海途鸽数据科技有限公司', 'job_name': 'C语言开发工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '做五休二', '绩效奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124207543.html?rc=03'}

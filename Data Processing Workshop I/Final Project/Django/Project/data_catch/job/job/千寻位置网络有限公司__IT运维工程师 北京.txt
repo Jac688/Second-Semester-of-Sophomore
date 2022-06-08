@@ -1,0 +1,1 @@
+{'company_name': '千寻位置网络有限公司', 'job_name': 'IT运维工程师 北京', 'geography': '异地招聘', 'bonus': ['弹性工作', '免费班车', '五险一金', '补充医疗保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129171722.html?rc=03'}

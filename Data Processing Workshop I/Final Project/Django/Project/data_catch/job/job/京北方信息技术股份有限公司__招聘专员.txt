@@ -1,0 +1,1 @@
+{'company_name': '京北方信息技术股份有限公司', 'job_name': '招聘专员', 'geography': '北京-海淀区', 'bonus': ['五险一金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131834581.html?rc=03'}

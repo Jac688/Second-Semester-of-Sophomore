@@ -1,0 +1,1 @@
+{'company_name': '北京尖峰计算机系统有限公司武汉分公司', 'job_name': '急聘C++软件工程师', 'geography': '武汉', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/51493893.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海游讯信息科技有限公司', 'job_name': 'C++开发工程师', 'geography': '异地招聘', 'bonus': ['绩效奖金', '年终奖金', '员工旅游', '出国机会'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/110972951.html?rc=03'}

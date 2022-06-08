@@ -1,0 +1,1 @@
+{'company_name': '以诺康医疗科技苏州有限公司', 'job_name': '软件工程师', 'geography': '苏州', 'bonus': ['五险一金', '员工旅游', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/110836872.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京浦蓝大气环境研究院有限公司', 'job_name': '客户端开发工程师双休', 'geography': '南京-浦口区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130279601.html?rc=03'}

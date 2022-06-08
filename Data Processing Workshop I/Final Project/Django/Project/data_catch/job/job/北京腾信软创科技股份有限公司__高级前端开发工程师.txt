@@ -1,0 +1,1 @@
+{'company_name': '北京腾信软创科技股份有限公司', 'job_name': '高级前端开发工程师', 'geography': '深圳', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130340870.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海为拓管理咨询有限公司', 'job_name': '初级管理咨询顾问', 'geography': '北京', 'bonus': ['五险一金', '交通补贴', '员工旅游', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128993959.html?rc=03'}

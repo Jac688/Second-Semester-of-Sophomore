@@ -1,0 +1,1 @@
+{'company_name': '山东葛嘉生物科技有限公司', 'job_name': '运维工程师', 'geography': '潍坊-奎文区', 'bonus': ['专业培训', '年终奖金', '弹性工作', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/weifang/131212510.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海推牛网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-松江区', 'bonus': ['五险一金', '专业培训', '弹性工作', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131921720.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海西门子开关有限公司(SSLS)', 'job_name': 'SSLS-数据库工程师外包岗位', 'geography': '上海', 'bonus': ['免费班车', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127660162.html?rc=03'}

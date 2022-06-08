@@ -1,0 +1,1 @@
+{'company_name': '常州纵慧芯光半导体科技有限公司', 'job_name': '封装工艺工程师', 'geography': '常州', 'bonus': ['五险一金', '周末双休', '包吃', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/128341700.html?rc=03'}

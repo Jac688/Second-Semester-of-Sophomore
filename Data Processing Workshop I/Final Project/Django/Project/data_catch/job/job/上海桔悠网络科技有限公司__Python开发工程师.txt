@@ -1,0 +1,1 @@
+{'company_name': '上海桔悠网络科技有限公司', 'job_name': 'Python开发工程师', 'geography': '上海-静安区', 'bonus': ['做五休二', '五险一金', '带薪年假', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130663498.html?rc=03'}

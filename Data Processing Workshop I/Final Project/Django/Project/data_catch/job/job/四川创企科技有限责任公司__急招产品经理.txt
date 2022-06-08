@@ -1,0 +1,1 @@
+{'company_name': '四川创企科技有限责任公司', 'job_name': '急招产品经理', 'geography': '成都-高新区', 'bonus': ['年终奖金', '周末双休', '下午茶', '五险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131529387.html?rc=03'}

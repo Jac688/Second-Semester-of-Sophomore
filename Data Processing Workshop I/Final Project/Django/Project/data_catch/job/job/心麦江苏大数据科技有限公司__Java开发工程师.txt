@@ -1,0 +1,1 @@
+{'company_name': '心麦江苏大数据科技有限公司', 'job_name': 'Java开发工程师', 'geography': '无锡-滨湖区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/123300941.html?rc=03'}

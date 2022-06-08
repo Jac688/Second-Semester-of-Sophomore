@@ -1,0 +1,1 @@
+{'company_name': '厦门宏发电声股份有限公司', 'job_name': '宏发电力-软件开发java', 'geography': '厦门', 'bonus': ['五险一金', '免费班车', '年终奖金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/108980791.html?rc=03'}

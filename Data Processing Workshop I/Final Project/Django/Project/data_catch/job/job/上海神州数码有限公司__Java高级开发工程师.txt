@@ -1,0 +1,1 @@
+{'company_name': '上海神州数码有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '餐饮补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131315690.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '常州优医医药科技有限公司', 'job_name': '软件开发与维护', 'geography': '常州', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/129125508.html?rc=03'}

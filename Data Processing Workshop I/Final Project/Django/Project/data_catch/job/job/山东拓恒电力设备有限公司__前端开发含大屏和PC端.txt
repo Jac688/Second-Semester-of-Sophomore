@@ -1,0 +1,1 @@
+{'company_name': '山东拓恒电力设备有限公司', 'job_name': '前端开发含大屏和PC端', 'geography': '济南-市中区', 'bonus': ['周末双休', '带薪年假', '职位晋升', '做五休二'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131534308.html?rc=03'}

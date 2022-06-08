@@ -1,0 +1,1 @@
+{'company_name': '元大数据服务深圳有限公司', 'job_name': 'Python开发工程师', 'geography': '深圳-宝安区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/122354102.html?rc=03'}

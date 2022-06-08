@@ -1,0 +1,1 @@
+{'company_name': '中国光大银行天津分行', 'job_name': '天津分行-软件开发岗', 'geography': '天津', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130045805.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '全时云商务服务股份有限公司', 'job_name': 'Java开发工程师大数据方向(J10437)', 'geography': '苏州-工业园区', 'bonus': ['六险一金', '专业培训', '通讯补贴', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130841978.html?rc=03'}

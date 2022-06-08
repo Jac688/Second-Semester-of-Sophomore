@@ -1,0 +1,1 @@
+{'company_name': '北京芯恩科技有限责任公司', 'job_name': '高级系统工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '补充公积金', '提供午餐'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131596432.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '成都中科大旗软件股份有限公司', 'job_name': '大数据研发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/113558055.html?rc=03'}

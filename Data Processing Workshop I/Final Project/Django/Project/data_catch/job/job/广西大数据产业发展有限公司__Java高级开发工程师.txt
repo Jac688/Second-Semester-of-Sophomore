@@ -1,0 +1,1 @@
+{'company_name': '广西大数据产业发展有限公司', 'job_name': 'Java高级开发工程师', 'geography': '南宁', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanning/121871441.html?rc=03'}

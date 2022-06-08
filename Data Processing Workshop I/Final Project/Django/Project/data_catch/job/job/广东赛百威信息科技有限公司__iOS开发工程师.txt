@@ -1,0 +1,1 @@
+{'company_name': '广东赛百威信息科技有限公司', 'job_name': 'iOS开发工程师', 'geography': '广州-黄埔区', 'bonus': ['绩效奖金', '补充医疗保险', '五险一金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/68368441.html?rc=03'}

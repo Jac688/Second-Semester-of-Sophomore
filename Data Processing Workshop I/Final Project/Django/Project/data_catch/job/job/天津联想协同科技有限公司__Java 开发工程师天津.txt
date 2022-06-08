@@ -1,0 +1,1 @@
+{'company_name': '天津联想协同科技有限公司', 'job_name': 'Java 开发工程师天津', 'geography': '天津', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/125780554.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州凯美斯美容设备有限公司', 'job_name': '嵌入式软件工程师家电类优先', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/109208845.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '博彦科技股份有限公司', 'job_name': '中高级Python开发-上海浦东-05723', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131467724.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海锦督智能科技有限公司', 'job_name': 'Java开发工程师', 'geography': '异地招聘', 'bonus': ['社保', '周末单休', '住房补贴', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/118061630.html?rc=03'}

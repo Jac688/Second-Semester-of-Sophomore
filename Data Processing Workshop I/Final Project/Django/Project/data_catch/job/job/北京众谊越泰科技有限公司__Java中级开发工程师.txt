@@ -1,0 +1,1 @@
+{'company_name': '北京众谊越泰科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/122406492.html?rc=03'}

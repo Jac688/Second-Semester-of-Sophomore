@@ -1,0 +1,1 @@
+{'company_name': '博拉网络股份有限公司', 'job_name': 'iOS开发工程师', 'geography': '重庆', 'bonus': ['五险一金', '绩效奖金', '股票期权', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131079465.html?rc=03'}

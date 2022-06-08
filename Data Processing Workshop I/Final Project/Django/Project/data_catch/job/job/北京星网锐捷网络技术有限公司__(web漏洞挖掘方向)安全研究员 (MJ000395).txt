@@ -1,0 +1,1 @@
+{'company_name': '北京星网锐捷网络技术有限公司', 'job_name': '(web漏洞挖掘方向)安全研究员 (MJ000395)', 'geography': '北京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128730437.html?rc=03'}

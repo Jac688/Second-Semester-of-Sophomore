@@ -1,0 +1,1 @@
+{'company_name': '北京每日优鲜电子商务有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-朝阳区', 'bonus': ['周末双休', '交通补贴', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130524510.html?rc=03'}

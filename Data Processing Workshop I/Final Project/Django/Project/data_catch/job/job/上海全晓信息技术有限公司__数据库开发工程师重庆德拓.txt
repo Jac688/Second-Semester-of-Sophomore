@@ -1,0 +1,1 @@
+{'company_name': '上海全晓信息技术有限公司', 'job_name': '数据库开发工程师重庆德拓', 'geography': '重庆-渝北区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129878647.html?rc=03'}

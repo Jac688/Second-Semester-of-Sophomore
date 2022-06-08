@@ -1,0 +1,1 @@
+{'company_name': '上海游陆信息科技有限公司', 'job_name': '资深Java开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '定期体检', '员工旅游', '年终奖金'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117979022.html?rc=03'}

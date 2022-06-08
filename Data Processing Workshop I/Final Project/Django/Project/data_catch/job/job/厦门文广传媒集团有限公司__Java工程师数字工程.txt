@@ -1,0 +1,1 @@
+{'company_name': '厦门文广传媒集团有限公司', 'job_name': 'Java工程师数字工程', 'geography': '厦门-思明区', 'bonus': ['五险一金', '绩效奖金', '定期体检', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/131143291.html?rc=03'}

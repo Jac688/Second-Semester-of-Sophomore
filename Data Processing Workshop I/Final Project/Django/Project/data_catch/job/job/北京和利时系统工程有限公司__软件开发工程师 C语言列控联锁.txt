@@ -1,0 +1,1 @@
+{'company_name': '北京和利时系统工程有限公司', 'job_name': '软件开发工程师 C语言列控联锁', 'geography': '北京', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124039854.html?rc=03'}

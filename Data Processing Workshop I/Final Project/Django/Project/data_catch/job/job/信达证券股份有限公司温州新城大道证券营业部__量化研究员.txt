@@ -1,0 +1,1 @@
+{'company_name': '信达证券股份有限公司温州新城大道证券营业部', 'job_name': '量化研究员', 'geography': '温州-鹿城区', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/wenzhou/128572817.html?rc=03'}

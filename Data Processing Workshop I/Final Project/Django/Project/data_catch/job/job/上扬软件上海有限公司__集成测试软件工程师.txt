@@ -1,0 +1,1 @@
+{'company_name': '上扬软件上海有限公司', 'job_name': '集成测试软件工程师', 'geography': '成都', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/123316819.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '博克软件杭州有限公司', 'job_name': '助理软件测试工程师英语专业或海外留学背景', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '出国机会'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/119844504.html?rc=03'}

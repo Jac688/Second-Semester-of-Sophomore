@@ -1,0 +1,1 @@
+{'company_name': '得实信息科技深圳有限公司', 'job_name': 'CC++开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '包午餐'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/122496347.html?rc=03'}

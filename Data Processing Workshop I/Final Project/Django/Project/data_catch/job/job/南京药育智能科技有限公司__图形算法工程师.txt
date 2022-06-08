@@ -1,0 +1,1 @@
+{'company_name': '南京药育智能科技有限公司', 'job_name': '图形算法工程师', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/114017841.html?rc=03'}

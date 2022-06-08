@@ -1,0 +1,1 @@
+{'company_name': '哈思曼家居深圳有限公司', 'job_name': 'Python助理智能家居方向', 'geography': '深圳-南山区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130150980.html?rc=03'}

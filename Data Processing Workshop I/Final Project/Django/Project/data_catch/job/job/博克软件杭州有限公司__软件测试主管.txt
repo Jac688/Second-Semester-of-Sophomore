@@ -1,0 +1,1 @@
+{'company_name': '博克软件杭州有限公司', 'job_name': '软件测试主管', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '出国机会'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/126096376.html?rc=03'}

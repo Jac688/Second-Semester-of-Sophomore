@@ -1,0 +1,1 @@
+{'company_name': '同望科技股份有限公司', 'job_name': 'JAVA高级开发工程师', 'geography': '珠海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/122630123.html?rc=03'}

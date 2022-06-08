@@ -1,0 +1,1 @@
+{'company_name': '北京银都新天地科技有限公司', 'job_name': 'JAVA软件开发及实施工程师', 'geography': '广州-天河区', 'bonus': ['餐饮补贴', '交通补贴', '通讯补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130358667.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海麦克林生化科技有限公司', 'job_name': 'PHP架构师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '绩效奖金', '做五休二'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117815165.html?rc=03'}

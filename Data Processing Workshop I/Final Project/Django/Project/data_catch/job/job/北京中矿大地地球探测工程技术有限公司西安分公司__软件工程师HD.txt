@@ -1,0 +1,1 @@
+{'company_name': '北京中矿大地地球探测工程技术有限公司西安分公司', 'job_name': '软件工程师HD', 'geography': '北京-西城区', 'bonus': ['专业培训', '五险一金', '年终奖金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132027521.html?rc=03'}

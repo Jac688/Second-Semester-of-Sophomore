@@ -1,0 +1,1 @@
+{'company_name': '南京弦歌信息技术有限公司', 'job_name': 'web前端工程师', 'geography': '无锡', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '节日福利'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/131680830.html?rc=03'}

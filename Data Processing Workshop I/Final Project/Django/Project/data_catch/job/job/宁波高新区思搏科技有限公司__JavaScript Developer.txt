@@ -1,0 +1,1 @@
+{'company_name': '宁波高新区思搏科技有限公司', 'job_name': 'JavaScript Developer', 'geography': '宁波-高新区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128542529.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '佛山市淇特科技有限公司', 'job_name': 'QT开发工程师', 'geography': '佛山-南海区', 'bonus': ['绩效奖金', '专业培训', '包吃包住', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/126580465.html?rc=03'}

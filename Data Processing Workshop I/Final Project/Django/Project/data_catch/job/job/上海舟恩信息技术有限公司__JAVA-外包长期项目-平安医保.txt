@@ -1,0 +1,1 @@
+{'company_name': '上海舟恩信息技术有限公司', 'job_name': 'JAVA-外包长期项目-平安医保', 'geography': '重庆-渝中区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/132221097.html?rc=03'}

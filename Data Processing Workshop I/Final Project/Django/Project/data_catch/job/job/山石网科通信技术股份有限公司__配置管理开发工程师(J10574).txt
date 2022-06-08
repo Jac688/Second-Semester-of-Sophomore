@@ -1,0 +1,1 @@
+{'company_name': '山石网科通信技术股份有限公司', 'job_name': '配置管理开发工程师(J10574)', 'geography': '苏州', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130352992.html?rc=03'}

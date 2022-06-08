@@ -1,0 +1,1 @@
+{'company_name': '广东格兰仕集团有限公司', 'job_name': '海外数据分析专员', 'geography': '异地招聘', 'bonus': ['带薪年假', '专业培训', '提供宿舍', '餐费补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129121337.html?rc=03'}

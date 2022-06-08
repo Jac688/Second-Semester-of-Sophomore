@@ -1,0 +1,1 @@
+{'company_name': '上海唯都市场营销策划股份有限公司北京分公司', 'job_name': 'Java中级开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121015875.html?rc=03'}

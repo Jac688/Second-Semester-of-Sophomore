@@ -1,0 +1,1 @@
+{'company_name': '南京小牛电子信息科技有限公司', 'job_name': '软件研发工程师CC++、Linux、流媒体服务器', 'geography': '南京-江宁区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/126462466.html?rc=03'}

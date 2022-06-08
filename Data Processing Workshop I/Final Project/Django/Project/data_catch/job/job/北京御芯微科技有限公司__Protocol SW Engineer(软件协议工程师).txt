@@ -1,0 +1,1 @@
+{'company_name': '北京御芯微科技有限公司', 'job_name': 'Protocol SW Engineer(软件协议工程师)', 'geography': '重庆-沙坪坝区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/97713604.html?rc=03'}

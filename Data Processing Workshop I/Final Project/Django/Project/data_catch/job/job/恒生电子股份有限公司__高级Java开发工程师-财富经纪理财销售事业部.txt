@@ -1,0 +1,1 @@
+{'company_name': '恒生电子股份有限公司', 'job_name': '高级Java开发工程师-财富经纪理财销售事业部', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '交通补贴'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128283989.html?rc=03'}

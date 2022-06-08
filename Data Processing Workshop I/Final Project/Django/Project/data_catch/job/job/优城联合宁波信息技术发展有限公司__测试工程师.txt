@@ -1,0 +1,1 @@
+{'company_name': '优城联合宁波信息技术发展有限公司', 'job_name': '测试工程师', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '补充公积金', '交通补贴', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129780070.html?rc=03'}

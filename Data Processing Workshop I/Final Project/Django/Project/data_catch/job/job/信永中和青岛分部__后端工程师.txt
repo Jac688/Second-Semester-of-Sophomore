@@ -1,0 +1,1 @@
+{'company_name': '信永中和青岛分部', 'job_name': '后端工程师', 'geography': '青岛-崂山区', 'bonus': ['周末双休', '带薪年假', '五险一金', '试用期全额'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/120795721.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '信必优(深圳)信息技术有限公司', 'job_name': 'Senior Java天津', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131847534.html?rc=03'}

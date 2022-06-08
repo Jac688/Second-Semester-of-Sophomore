@@ -1,0 +1,1 @@
+{'company_name': '中国铁道科学研究院电子计算技术研究所', 'job_name': 'C++软件工程师安全群', 'geography': '北京-海淀区', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴', '通讯补贴'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123258996.html?rc=03'}

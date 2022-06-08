@@ -1,0 +1,1 @@
+{'company_name': '东华软件股份公司', 'job_name': '济南Java开发工程师', 'geography': '济南-历城区', 'bonus': ['周末双休', '13薪', '定期体检', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130109114.html?rc=03'}

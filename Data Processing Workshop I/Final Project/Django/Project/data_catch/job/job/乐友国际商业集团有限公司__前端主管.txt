@@ -1,0 +1,1 @@
+{'company_name': '乐友国际商业集团有限公司', 'job_name': '前端主管', 'geography': '北京', 'bonus': ['五险一金', '节日福利', '工会福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126821365.html?rc=03'}

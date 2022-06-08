@@ -1,0 +1,1 @@
+{'company_name': '广州拓尔思大数据有限公司', 'job_name': '中级java工程师(中级java软件工程师中级java开发)', 'geography': '海口', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/haikou/121157103.html?rc=03'}

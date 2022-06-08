@@ -1,0 +1,1 @@
+{'company_name': '中汇宏飞智能科技无锡有限公司', 'job_name': '研发Java架构师', 'geography': '无锡-梁溪区', 'bonus': ['餐饮补贴', '周末双休', '五险一金', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/128717517.html?rc=03'}

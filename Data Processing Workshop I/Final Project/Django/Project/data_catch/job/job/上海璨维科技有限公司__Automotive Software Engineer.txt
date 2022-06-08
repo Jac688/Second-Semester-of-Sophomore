@@ -1,0 +1,1 @@
+{'company_name': '上海璨维科技有限公司', 'job_name': 'Automotive Software Engineer', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/132303061.html?rc=03'}

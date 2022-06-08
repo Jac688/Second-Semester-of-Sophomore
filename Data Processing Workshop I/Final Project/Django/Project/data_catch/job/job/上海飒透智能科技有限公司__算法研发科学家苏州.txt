@@ -1,0 +1,1 @@
+{'company_name': '上海飒透智能科技有限公司', 'job_name': '算法研发科学家苏州', 'geography': '苏州', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131194708.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川万博伟业科技有限公司', 'job_name': '软件系统工程师', 'geography': '成都-青羊区', 'bonus': ['五险一金', '通讯补贴', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130899621.html?rc=03'}

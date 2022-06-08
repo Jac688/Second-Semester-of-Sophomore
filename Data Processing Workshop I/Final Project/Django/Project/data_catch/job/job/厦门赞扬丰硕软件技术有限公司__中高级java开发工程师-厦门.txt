@@ -1,0 +1,1 @@
+{'company_name': '厦门赞扬丰硕软件技术有限公司', 'job_name': '中高级java开发工程师-厦门', 'geography': '厦门', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/130904510.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '华勤技术股份有限公司', 'job_name': 'Android应用开发工程师-南昌(J12366)', 'geography': '南昌-青山湖区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/132138042.html?rc=03'}

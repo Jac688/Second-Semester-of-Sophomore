@@ -1,0 +1,1 @@
+{'company_name': '上海三禾服装物流设备制造有限公司', 'job_name': '软件工程师', 'geography': '上海', 'bonus': ['五险一金', '定期体检', '做五休二'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127729659.html?rc=03'}

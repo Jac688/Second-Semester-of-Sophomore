@@ -1,0 +1,1 @@
+{'company_name': '国泰君安证券股份有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海', 'bonus': ['五险一金', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131078873.html?rc=03'}

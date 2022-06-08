@@ -1,0 +1,1 @@
+{'company_name': '信泰人寿保险股份有限公司', 'job_name': '信息管理部服务器管理岗', 'geography': '杭州-江干区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129214350.html?rc=03'}

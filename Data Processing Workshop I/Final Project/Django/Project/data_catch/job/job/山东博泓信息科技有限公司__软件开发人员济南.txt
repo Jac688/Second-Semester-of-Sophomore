@@ -1,0 +1,1 @@
+{'company_name': '山东博泓信息科技有限公司', 'job_name': '软件开发人员济南', 'geography': '济南-历下区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131530218.html?rc=03'}

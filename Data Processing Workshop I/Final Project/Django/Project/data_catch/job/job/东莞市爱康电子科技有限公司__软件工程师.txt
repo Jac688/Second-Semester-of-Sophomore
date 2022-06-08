@@ -1,0 +1,1 @@
+{'company_name': '东莞市爱康电子科技有限公司', 'job_name': '软件工程师', 'geography': '异地招聘', 'bonus': ['五险', '餐费补贴', '住房补贴', '包吃包住'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132106023.html?rc=03'}

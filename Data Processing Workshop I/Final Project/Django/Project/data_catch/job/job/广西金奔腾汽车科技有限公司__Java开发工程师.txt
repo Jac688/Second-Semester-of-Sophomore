@@ -1,0 +1,1 @@
+{'company_name': '广西金奔腾汽车科技有限公司', 'job_name': 'Java开发工程师', 'geography': '南宁', 'bonus': ['餐饮补贴', '定期体检', '绩效奖金', '通讯补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanning/131473275.html?rc=03'}

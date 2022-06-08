@@ -1,0 +1,1 @@
+{'company_name': '安徽艾瑞思信息科技有限公司', 'job_name': 'QT开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130322117.html?rc=03'}

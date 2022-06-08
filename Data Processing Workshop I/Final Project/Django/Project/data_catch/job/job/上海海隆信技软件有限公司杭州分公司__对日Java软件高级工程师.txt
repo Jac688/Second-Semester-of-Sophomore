@@ -1,0 +1,1 @@
+{'company_name': '上海海隆信技软件有限公司杭州分公司', 'job_name': '对日Java软件高级工程师', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130518183.html?rc=03'}

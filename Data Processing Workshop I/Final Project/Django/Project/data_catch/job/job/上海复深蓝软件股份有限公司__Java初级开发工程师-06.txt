@@ -1,0 +1,1 @@
+{'company_name': '上海复深蓝软件股份有限公司', 'job_name': 'Java初级开发工程师-06', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '年终奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132326866.html?rc=03'}

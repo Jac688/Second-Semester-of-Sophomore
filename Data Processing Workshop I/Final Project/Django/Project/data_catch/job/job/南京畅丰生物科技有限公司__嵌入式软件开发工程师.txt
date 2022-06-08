@@ -1,0 +1,1 @@
+{'company_name': '南京畅丰生物科技有限公司', 'job_name': '嵌入式软件开发工程师', 'geography': '南京-浦口区', 'bonus': ['五险一金', '弹性工作', '定期体检', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130369906.html?rc=03'}

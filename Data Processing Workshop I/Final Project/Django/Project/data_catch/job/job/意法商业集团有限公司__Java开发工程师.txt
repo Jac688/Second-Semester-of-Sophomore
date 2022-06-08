@@ -1,0 +1,1 @@
+{'company_name': '意法商业集团有限公司', 'job_name': 'Java开发工程师', 'geography': '杭州-江干区', 'bonus': ['定期体检', '节日福利', '五险一金', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129746329.html?rc=03'}

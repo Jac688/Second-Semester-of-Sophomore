@@ -1,0 +1,1 @@
+{'company_name': '上海云简软件科技有限公司', 'job_name': 'Java开发工程师0516', 'geography': '上海-浦东新区', 'bonus': ['年底双薪', '股票期权', '带薪年假', '午餐补助'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128613244.html?rc=03'}

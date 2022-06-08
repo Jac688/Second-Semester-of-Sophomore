@@ -1,0 +1,1 @@
+{'company_name': '四川杰斯顿电气设备有限公司', 'job_name': 'JAVA程序员', 'geography': '成都-温江区', 'bonus': ['专业培训', '社保', '补充商业险', '朝九晚五双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124991026.html?rc=03'}

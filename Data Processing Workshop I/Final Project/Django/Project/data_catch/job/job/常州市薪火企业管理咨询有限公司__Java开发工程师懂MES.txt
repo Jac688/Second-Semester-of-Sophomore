@@ -1,0 +1,1 @@
+{'company_name': '常州市薪火企业管理咨询有限公司', 'job_name': 'Java开发工程师懂MES', 'geography': '常州-武进区', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/131037805.html?rc=03'}

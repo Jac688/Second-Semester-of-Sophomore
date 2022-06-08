@@ -1,0 +1,1 @@
+{'company_name': '中国科学院微小卫星创新研究院', 'job_name': '软件工程师--成都', 'geography': '成都-双流区', 'bonus': ['五险一金', '补充公积金', '免费班车', '交通补贴'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127951198.html?rc=03'}

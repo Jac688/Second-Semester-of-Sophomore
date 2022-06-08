@@ -1,0 +1,1 @@
+{'company_name': '惠州市汇聚丰信息科技有限公司', 'job_name': '后端开发工程师', 'geography': '杭州-富阳区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128919737.html?rc=03'}

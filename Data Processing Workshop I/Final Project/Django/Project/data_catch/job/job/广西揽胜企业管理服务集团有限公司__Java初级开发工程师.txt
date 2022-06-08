@@ -1,0 +1,1 @@
+{'company_name': '广西揽胜企业管理服务集团有限公司', 'job_name': 'Java初级开发工程师', 'geography': '南宁-西乡塘区', 'bonus': [], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/nanning/124335780.html?rc=03'}

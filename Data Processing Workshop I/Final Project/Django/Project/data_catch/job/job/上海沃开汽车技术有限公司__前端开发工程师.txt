@@ -1,0 +1,1 @@
+{'company_name': '上海沃开汽车技术有限公司', 'job_name': '前端开发工程师', 'geography': '北京-昌平区', 'bonus': ['五险一金', '出国机会', '专业培训', '加班补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131976720.html?rc=03'}

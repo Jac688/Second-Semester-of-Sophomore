@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '大数据研发工程师-抖音直播', 'geography': '北京', 'bonus': ['六险一金', '晋升空间大', '用户过亿', '薪资优厚'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129738779.html?rc=03'}

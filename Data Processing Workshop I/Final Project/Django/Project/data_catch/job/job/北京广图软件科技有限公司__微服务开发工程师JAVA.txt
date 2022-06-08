@@ -1,0 +1,1 @@
+{'company_name': '北京广图软件科技有限公司', 'job_name': '微服务开发工程师JAVA', 'geography': '北京', 'bonus': ['面议', '五险一金', '交通补贴', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130756973.html?rc=03'}

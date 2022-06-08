@@ -1,0 +1,1 @@
+{'company_name': '广东兆天纺织科技有限公司', 'job_name': 'Java开发工程师', 'geography': '东莞', 'bonus': ['带薪年假', '包吃', '包住宿', '住房补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130461434.html?rc=03'}

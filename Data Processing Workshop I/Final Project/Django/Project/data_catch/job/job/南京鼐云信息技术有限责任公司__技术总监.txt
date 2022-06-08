@@ -1,0 +1,1 @@
+{'company_name': '南京鼐云信息技术有限责任公司', 'job_name': '技术总监', 'geography': '南京-雨花台区', 'bonus': ['交通补贴', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130687574.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天津天堰科技股份有限公司', 'job_name': '影像算法工程师', 'geography': '天津', 'bonus': ['五险一金', '餐饮补贴', '高温补贴', '采暖补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/112280543.html?rc=03'}

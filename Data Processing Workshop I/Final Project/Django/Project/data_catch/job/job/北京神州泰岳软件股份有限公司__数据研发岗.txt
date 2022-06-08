@@ -1,0 +1,1 @@
+{'company_name': '北京神州泰岳软件股份有限公司', 'job_name': '数据研发岗', 'geography': '广州-天河区', 'bonus': ['五险一金', '大平台', '专业培训', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130623221.html?rc=03'}

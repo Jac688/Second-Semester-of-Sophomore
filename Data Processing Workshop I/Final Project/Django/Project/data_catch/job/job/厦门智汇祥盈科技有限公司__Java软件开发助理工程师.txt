@@ -1,0 +1,1 @@
+{'company_name': '厦门智汇祥盈科技有限公司', 'job_name': 'Java软件开发助理工程师', 'geography': '厦门', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴', '年终奖金'], 'salary': 0.38, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/96973885.html?rc=03'}

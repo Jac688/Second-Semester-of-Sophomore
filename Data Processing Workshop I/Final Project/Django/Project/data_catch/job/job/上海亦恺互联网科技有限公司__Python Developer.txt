@@ -1,0 +1,1 @@
+{'company_name': '上海亦恺互联网科技有限公司', 'job_name': 'Python Developer', 'geography': '上海-普陀区', 'bonus': ['地铁口', '弹性工作制', '外企'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131781126.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州华研精密机械股份有限公司', 'job_name': '机器视觉工程师软件工程师', 'geography': '广州-增城区', 'bonus': ['五险一金', '免费班车', '交通补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/118809003.html?rc=03'}

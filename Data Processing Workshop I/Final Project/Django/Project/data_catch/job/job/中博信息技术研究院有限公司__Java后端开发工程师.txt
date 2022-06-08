@@ -1,0 +1,1 @@
+{'company_name': '中博信息技术研究院有限公司', 'job_name': 'Java后端开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131023348.html?rc=03'}

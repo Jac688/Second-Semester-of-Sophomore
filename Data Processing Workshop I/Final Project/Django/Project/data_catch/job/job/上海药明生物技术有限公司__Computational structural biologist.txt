@@ -1,0 +1,1 @@
+{'company_name': '上海药明生物技术有限公司', 'job_name': 'Computational structural biologist', 'geography': '上海-浦东新区', 'bonus': ['餐饮补贴', '专业培训', '免费班车'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126568638.html?rc=03'}

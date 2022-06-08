@@ -1,0 +1,1 @@
+{'company_name': '创新奇智北京科技有限公司', 'job_name': 'C++软件工程师(J10581)', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131245366.html?rc=03'}

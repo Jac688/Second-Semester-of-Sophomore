@@ -1,0 +1,1 @@
+{'company_name': '南京网眼信息技术有限公司', 'job_name': 'Python后端开发工程师(4HSP)', 'geography': '南京-雨花台区', 'bonus': ['下午茶', '瑜伽健身', '六险一金', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128539552.html?rc=03'}

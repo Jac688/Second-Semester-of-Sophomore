@@ -1,0 +1,1 @@
+{'company_name': '力信测量上海有限公司', 'job_name': '前端开发工程师', 'geography': '青岛-城阳区', 'bonus': ['周末双休', '五险一金', '节日福利', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/132293717.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东启教科技有限公司', 'job_name': '高级C++网络开发工程师', 'geography': '广州-番禺区', 'bonus': ['餐饮补贴', '年终奖金', '弹性工作', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125809893.html?rc=03'}

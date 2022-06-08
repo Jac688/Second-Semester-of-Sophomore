@@ -1,0 +1,1 @@
+{'company_name': '上海兰钧新能源科技有限公司', 'job_name': 'ERP工程师', 'geography': '嘉兴-嘉善县', 'bonus': ['五险一金', '通讯补贴', '交通补贴', '团建活动'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/130920923.html?rc=03'}

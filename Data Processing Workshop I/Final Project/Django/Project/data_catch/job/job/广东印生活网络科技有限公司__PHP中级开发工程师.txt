@@ -1,0 +1,1 @@
+{'company_name': '广东印生活网络科技有限公司', 'job_name': 'PHP中级开发工程师', 'geography': '佛山', 'bonus': ['五险', '餐补', '节日福利', '法定假期'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/111307714.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '常州点绿科技有限公司', 'job_name': 'Java开发工程师', 'geography': '厦门', 'bonus': ['五险一金', '包吃', '绩效奖金', '带薪年假'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/120970687.html?rc=03'}

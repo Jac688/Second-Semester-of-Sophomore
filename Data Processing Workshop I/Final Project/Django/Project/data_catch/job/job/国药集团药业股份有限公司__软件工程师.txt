@@ -1,0 +1,1 @@
+{'company_name': '国药集团药业股份有限公司', 'job_name': '软件工程师', 'geography': '北京-东城区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/106510321.html?rc=03'}

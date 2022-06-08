@@ -1,0 +1,1 @@
+{'company_name': '【东电电子上海有限公司】', 'job_name': '质量工程师', 'geography': '昆山', 'bonus': ['五险一金', '绩效奖金', '定期体检', '补充医疗保险'], 'salary': 0.59, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/132305233.html?rc=03'}

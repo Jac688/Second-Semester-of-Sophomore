@@ -1,0 +1,1 @@
+{'company_name': '利宝保险有限公司', 'job_name': '数据分析岗(非车险精算', 'geography': '重庆', 'bonus': ['周末双休', '五险一金', '补充医疗保险', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129757343.html?rc=03'}

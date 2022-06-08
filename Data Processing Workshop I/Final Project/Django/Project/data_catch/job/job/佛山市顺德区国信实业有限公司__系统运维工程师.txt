@@ -1,0 +1,1 @@
+{'company_name': '佛山市顺德区国信实业有限公司', 'job_name': '系统运维工程师', 'geography': '佛山', 'bonus': ['包吃', '节日福利', '带薪年假', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131279524.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '云南分尚网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '昆明-呈贡区', 'bonus': ['包吃', '包住宿', '绩效奖金', '全勤奖'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/kunming/130619849.html?rc=03'}

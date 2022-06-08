@@ -1,0 +1,1 @@
+{'company_name': '上海智德投资管理有限公司', 'job_name': '数据工程师Python软件工程师', 'geography': '上海', 'bonus': ['五险一金', '年终奖金', '餐饮补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126656203.html?rc=03'}

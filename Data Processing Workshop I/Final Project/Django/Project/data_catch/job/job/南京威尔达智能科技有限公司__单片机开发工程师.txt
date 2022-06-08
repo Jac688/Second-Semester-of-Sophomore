@@ -1,0 +1,1 @@
+{'company_name': '南京威尔达智能科技有限公司', 'job_name': '单片机开发工程师', 'geography': '南京', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/98990398.html?rc=03'}

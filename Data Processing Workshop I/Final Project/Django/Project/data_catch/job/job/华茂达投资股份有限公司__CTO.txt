@@ -1,0 +1,1 @@
+{'company_name': '华茂达投资股份有限公司', 'job_name': 'CTO', 'geography': '广州-天河区', 'bonus': ['周末双休', '餐饮补贴', '五险一金', '季度调薪'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125336597.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '快问平台互联网产业集团有限公司', 'job_name': 'PHP后端开发工程师', 'geography': '武汉', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/129234479.html?rc=03'}

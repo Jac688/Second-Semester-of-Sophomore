@@ -1,0 +1,1 @@
+{'company_name': '万界上海网络股份有限公司', 'job_name': '游戏服务器程序员java、php 转erlang', 'geography': '广州-天河区', 'bonus': ['定期体检', '五险一金', '绩效奖金', '包三餐'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/89727459.html?rc=03'}

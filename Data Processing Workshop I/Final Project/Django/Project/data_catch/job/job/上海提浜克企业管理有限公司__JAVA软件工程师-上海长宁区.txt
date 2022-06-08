@@ -1,0 +1,1 @@
+{'company_name': '上海提浜克企业管理有限公司', 'job_name': 'JAVA软件工程师-上海长宁区', 'geography': '上海-长宁区', 'bonus': ['五险一金', '年终奖金', '带薪年假', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131406973.html?rc=03'}

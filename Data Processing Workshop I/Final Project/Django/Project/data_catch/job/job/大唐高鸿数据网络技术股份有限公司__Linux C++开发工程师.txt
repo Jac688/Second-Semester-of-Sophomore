@@ -1,0 +1,1 @@
+{'company_name': '大唐高鸿数据网络技术股份有限公司', 'job_name': 'Linux C++开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130133376.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海砥学信息科技有限公司', 'job_name': '桌面应用程序开发C++', 'geography': '上海-松江区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125276298.html?rc=03'}

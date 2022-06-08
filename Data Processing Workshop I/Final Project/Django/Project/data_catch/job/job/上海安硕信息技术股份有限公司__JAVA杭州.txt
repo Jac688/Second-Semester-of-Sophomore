@@ -1,0 +1,1 @@
+{'company_name': '上海安硕信息技术股份有限公司', 'job_name': 'JAVA杭州', 'geography': '杭州', 'bonus': ['五险一金', '定期体检', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127020417.html?rc=03'}

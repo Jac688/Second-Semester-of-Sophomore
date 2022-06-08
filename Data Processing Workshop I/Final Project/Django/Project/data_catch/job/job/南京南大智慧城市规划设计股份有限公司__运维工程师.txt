@@ -1,0 +1,1 @@
+{'company_name': '南京南大智慧城市规划设计股份有限公司', 'job_name': '运维工程师', 'geography': '南京-玄武区', 'bonus': ['五险一金', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130070285.html?rc=03'}

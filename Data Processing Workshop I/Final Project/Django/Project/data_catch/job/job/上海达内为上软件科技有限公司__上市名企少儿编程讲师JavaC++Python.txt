@@ -1,0 +1,1 @@
+{'company_name': '上海达内为上软件科技有限公司', 'job_name': '上市名企少儿编程讲师JavaC++Python', 'geography': '南京', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129136827.html?rc=03'}

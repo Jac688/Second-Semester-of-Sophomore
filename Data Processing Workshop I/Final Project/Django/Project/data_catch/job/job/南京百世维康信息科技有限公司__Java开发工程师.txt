@@ -1,0 +1,1 @@
+{'company_name': '南京百世维康信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-栖霞区', 'bonus': ['五险一金', '弹性工作', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/109083795.html?rc=03'}

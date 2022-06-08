@@ -1,0 +1,1 @@
+{'company_name': '四川中锐信息技术有限公司', 'job_name': '高级图形软件工程师', 'geography': '绵阳', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/mianyang/131171356.html?rc=03'}

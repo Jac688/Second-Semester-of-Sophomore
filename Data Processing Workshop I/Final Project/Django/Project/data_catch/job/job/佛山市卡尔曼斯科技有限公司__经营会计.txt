@@ -1,0 +1,1 @@
+{'company_name': '佛山市卡尔曼斯科技有限公司', 'job_name': '经营会计', 'geography': '佛山-南海区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/foshan/132158410.html?rc=03'}

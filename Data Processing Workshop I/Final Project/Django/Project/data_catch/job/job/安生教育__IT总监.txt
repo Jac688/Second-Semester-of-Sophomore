@@ -1,0 +1,1 @@
+{'company_name': '安生教育', 'job_name': 'IT总监', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '绩效奖金', '做五休二', '周末双休'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126345244.html?rc=03'}

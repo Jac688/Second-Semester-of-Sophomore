@@ -1,0 +1,1 @@
+{'company_name': '安克创新科技股份有限公司深圳分公司', 'job_name': '嵌入式软件工程师(J10332)', 'geography': '深圳-南山区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130836918.html?rc=03'}

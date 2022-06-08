@@ -1,0 +1,1 @@
+{'company_name': '上海欣能信息科技发展有限公司', 'job_name': 'C++开发工程师', 'geography': '上海-黄浦区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/36257310.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京心西游季教育科技有限公司', 'job_name': '测试工程师', 'geography': '北京-海淀区', 'bonus': ['弹性工作', '交通补贴', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129543057.html?rc=03'}

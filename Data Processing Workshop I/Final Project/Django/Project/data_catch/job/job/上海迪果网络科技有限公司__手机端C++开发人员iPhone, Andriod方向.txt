@@ -1,0 +1,1 @@
+{'company_name': '上海迪果网络科技有限公司', 'job_name': '手机端C++开发人员iPhone, Andriod方向', 'geography': '西安-高新技术产业开发区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xian/94755077.html?rc=03'}

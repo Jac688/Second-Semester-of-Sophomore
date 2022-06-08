@@ -1,0 +1,1 @@
+{'company_name': '广东鼎申电气技术有限公司', 'job_name': 'codesys电气工程师', 'geography': '佛山-顺德区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/132317522.html?rc=03'}

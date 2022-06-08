@@ -1,0 +1,1 @@
+{'company_name': '宁波市和众互联科技股份有限公司', 'job_name': 'PHP开发工程师', 'geography': '宁波', 'bonus': ['带薪年假', '绩效奖金', '年终奖金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/123106238.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '常熟市恒仕达电器有限公司', 'job_name': 'PHP开发工程师', 'geography': '常熟', 'bonus': ['弹性工作', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/changshu/131561518.html?rc=03'}

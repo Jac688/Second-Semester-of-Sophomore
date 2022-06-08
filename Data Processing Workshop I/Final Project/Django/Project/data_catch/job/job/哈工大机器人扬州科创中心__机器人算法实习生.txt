@@ -1,0 +1,1 @@
+{'company_name': '哈工大机器人扬州科创中心', 'job_name': '机器人算法实习生', 'geography': '义乌', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/yiwu/131814709.html?rc=03'}

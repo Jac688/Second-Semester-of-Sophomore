@@ -1,0 +1,1 @@
+{'company_name': '东莞市惟声科技有限公司', 'job_name': '音频算法开发工程师', 'geography': '东莞-松山湖区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131619248.html?rc=03'}

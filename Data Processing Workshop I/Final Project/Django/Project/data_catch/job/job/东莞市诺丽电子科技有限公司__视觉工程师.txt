@@ -1,0 +1,1 @@
+{'company_name': '东莞市诺丽电子科技有限公司', 'job_name': '视觉工程师', 'geography': '东莞', 'bonus': ['五险一金', '项目奖金', '包吃包住', '购买五险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/128494738.html?rc=03'}

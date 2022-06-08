@@ -1,0 +1,1 @@
+{'company_name': '上海音智达信息技术有限公司', 'job_name': '大数据平台运维工程师', 'geography': '深圳-龙岗区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132189217.html?rc=03'}

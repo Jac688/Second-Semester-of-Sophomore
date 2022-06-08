@@ -1,0 +1,1 @@
+{'company_name': '嘉兴童程童美软件科技有限公司', 'job_name': '少儿编程老师', 'geography': '嘉兴', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/127718286.html?rc=03'}

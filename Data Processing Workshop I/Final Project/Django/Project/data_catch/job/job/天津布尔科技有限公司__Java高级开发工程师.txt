@@ -1,0 +1,1 @@
+{'company_name': '天津布尔科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '天津-西青区', 'bonus': ['五险一金', '交通补贴', '带薪年假', '发展空间大'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129408834.html?rc=03'}

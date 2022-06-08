@@ -1,0 +1,1 @@
+{'company_name': '四川纷领信息技术有限公司', 'job_name': 'Java初级工程师', 'geography': '成都', 'bonus': ['五险一金', '补充医疗保险', '带薪年假', '弹性工作'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128551615.html?rc=03'}

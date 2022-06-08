@@ -1,0 +1,1 @@
+{'company_name': '安正时尚集团股份有限公司', 'job_name': 'PHP开发工程师', 'geography': '海宁', 'bonus': ['绩效奖金', '全勤奖', '节日福利', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/haining/127810783.html?rc=03'}

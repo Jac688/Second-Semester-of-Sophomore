@@ -1,0 +1,1 @@
+{'company_name': '南京绛门信息科技股份有限公司', 'job_name': 'Web前端开发工程师', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '员工旅游', '定期体检'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/120311392.html?rc=03'}

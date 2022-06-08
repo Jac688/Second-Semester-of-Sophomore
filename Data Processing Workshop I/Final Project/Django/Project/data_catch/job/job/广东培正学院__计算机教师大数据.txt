@@ -1,0 +1,1 @@
+{'company_name': '广东培正学院', 'job_name': '计算机教师大数据', 'geography': '异地招聘', 'bonus': ['五险一金', '年终奖金', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/130832587.html?rc=03'}

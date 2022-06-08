@@ -1,0 +1,1 @@
+{'company_name': '北京华夏威科软件技术有限公司', 'job_name': 'Linux CC++软件工程师', 'geography': '长沙-雨花区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changsha/131342917.html?rc=03'}

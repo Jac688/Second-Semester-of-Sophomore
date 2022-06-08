@@ -1,0 +1,1 @@
+{'company_name': '广州前实网络科技有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '广州', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/95040831.html?rc=03'}

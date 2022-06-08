@@ -1,0 +1,1 @@
+{'company_name': '中国出口信用保险公司', 'job_name': '国别风险研究岗', 'geography': '北京-西城区', 'bonus': ['五险一金', '补充医疗保险', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131717960.html?rc=03'}

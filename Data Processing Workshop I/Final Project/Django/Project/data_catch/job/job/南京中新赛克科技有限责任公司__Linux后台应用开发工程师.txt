@@ -1,0 +1,1 @@
+{'company_name': '南京中新赛克科技有限责任公司', 'job_name': 'Linux后台应用开发工程师', 'geography': '南京', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128870410.html?rc=03'}

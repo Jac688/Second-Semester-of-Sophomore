@@ -1,0 +1,1 @@
+{'company_name': '广州市天河区学成教育培训中心有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-天河区', 'bonus': ['五险', '节日福利', '弹性工作', '下午茶'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130196495.html?rc=03'}

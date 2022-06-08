@@ -1,0 +1,1 @@
+{'company_name': '宝龙酒店', 'job_name': '软件运维经理PHP', 'geography': '上海-闵行区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130852735.html?rc=03'}

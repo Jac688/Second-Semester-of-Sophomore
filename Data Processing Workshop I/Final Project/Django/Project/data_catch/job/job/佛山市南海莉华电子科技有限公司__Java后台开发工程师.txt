@@ -1,0 +1,1 @@
+{'company_name': '佛山市南海莉华电子科技有限公司', 'job_name': 'Java后台开发工程师', 'geography': '佛山', 'bonus': ['出国机会', '弹性工作', '绩效奖金', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/127241883.html?rc=03'}

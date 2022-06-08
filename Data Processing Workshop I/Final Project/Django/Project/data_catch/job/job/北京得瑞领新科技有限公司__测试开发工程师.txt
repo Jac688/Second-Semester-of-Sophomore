@@ -1,0 +1,1 @@
+{'company_name': '北京得瑞领新科技有限公司', 'job_name': '测试开发工程师', 'geography': '北京-昌平区', 'bonus': ['五险一金', '年终奖金', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123177917.html?rc=03'}

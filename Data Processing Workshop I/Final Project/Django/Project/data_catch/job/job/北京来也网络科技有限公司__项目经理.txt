@@ -1,0 +1,1 @@
+{'company_name': '北京来也网络科技有限公司', 'job_name': '项目经理', 'geography': '福州-台江区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/128253151.html?rc=03'}

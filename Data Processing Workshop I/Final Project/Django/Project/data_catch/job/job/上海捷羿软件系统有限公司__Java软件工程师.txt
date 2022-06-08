@@ -1,0 +1,1 @@
+{'company_name': '上海捷羿软件系统有限公司', 'job_name': 'Java软件工程师', 'geography': '重庆-江北区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/115039956.html?rc=03'}

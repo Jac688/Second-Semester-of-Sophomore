@@ -1,0 +1,1 @@
+{'company_name': '中国旅游集团有限公司', 'job_name': '芒果网公司-研发工程师JAVA', 'geography': '深圳-南山区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128443035.html?rc=03'}

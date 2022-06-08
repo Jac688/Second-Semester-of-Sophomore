@@ -1,0 +1,1 @@
+{'company_name': '墨点狗智能科技东莞有限公司', 'job_name': 'Web前端高级开发工程师', 'geography': '东莞-南城区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/108355631.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '伊欧激光科技(苏州)有限公司', 'job_name': '助理软件工程师', 'geography': '苏州-吴江区', 'bonus': ['五险一金', '免费班车', '员工旅游', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128904857.html?rc=03'}

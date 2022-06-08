@@ -1,0 +1,1 @@
+{'company_name': '中瑞集团研发中心', 'job_name': '运维工程师', 'geography': '青岛-李沧区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '房补'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/124538693.html?rc=03'}

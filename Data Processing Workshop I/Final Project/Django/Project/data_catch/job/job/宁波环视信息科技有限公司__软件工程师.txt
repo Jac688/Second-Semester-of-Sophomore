@@ -1,0 +1,1 @@
+{'company_name': '宁波环视信息科技有限公司', 'job_name': '软件工程师', 'geography': '宁波', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129030673.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '东华软件股份公司', 'job_name': '档案java工程师', 'geography': '北京', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/120530042.html?rc=03'}

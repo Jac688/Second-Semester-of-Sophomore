@@ -1,0 +1,1 @@
+{'company_name': '四川易创燃气有限公司', 'job_name': 'php研发发工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '弹性工作'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131071146.html?rc=03'}

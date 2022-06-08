@@ -1,0 +1,1 @@
+{'company_name': '上海数微广告有限公司', 'job_name': 'Java Web J2ee 高级软件工程师', 'geography': '上海-普陀区', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/103136179.html?rc=03'}

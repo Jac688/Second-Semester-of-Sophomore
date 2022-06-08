@@ -1,0 +1,1 @@
+{'company_name': '微泰医疗器械杭州股份有限公司', 'job_name': '嵌入式软件工程师', 'geography': '杭州-余杭区', 'bonus': ['周末双休', '弹性工作', '带薪年假', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131662734.html?rc=03'}

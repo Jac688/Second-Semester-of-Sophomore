@@ -1,0 +1,1 @@
+{'company_name': '北京运达华开科技有限公司', 'job_name': 'C++软件工程师', 'geography': '北京-昌平区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/98807845.html?rc=03'}

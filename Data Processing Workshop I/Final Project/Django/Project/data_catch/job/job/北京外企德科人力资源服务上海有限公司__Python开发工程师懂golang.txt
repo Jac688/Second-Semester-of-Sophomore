@@ -1,0 +1,1 @@
+{'company_name': '北京外企德科人力资源服务上海有限公司', 'job_name': 'Python开发工程师懂golang', 'geography': '上海-浦东新区', 'bonus': ['做五休二', '专业培训', '五险一金', '周末双休'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131963403.html?rc=03'}

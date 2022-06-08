@@ -1,0 +1,1 @@
+{'company_name': '中移系统集成中移雄研院', 'job_name': '经营分析', 'geography': '北京-西城区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131318238.html?rc=03'}

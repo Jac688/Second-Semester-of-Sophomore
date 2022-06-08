@@ -1,0 +1,1 @@
+{'company_name': '博世汽车柴油系统有限公司', 'job_name': 'PS_RBCD_Inverter Software Engineer逆变器软件工程师', 'geography': '无锡', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/121505549.html?rc=03'}

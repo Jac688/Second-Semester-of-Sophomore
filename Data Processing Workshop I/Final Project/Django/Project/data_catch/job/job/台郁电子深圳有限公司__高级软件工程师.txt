@@ -1,0 +1,1 @@
+{'company_name': '台郁电子深圳有限公司', 'job_name': '高级软件工程师', 'geography': '深圳-宝安区', 'bonus': ['通讯补贴', '五险一金', '补充医疗保险', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/111480398.html?rc=03'}

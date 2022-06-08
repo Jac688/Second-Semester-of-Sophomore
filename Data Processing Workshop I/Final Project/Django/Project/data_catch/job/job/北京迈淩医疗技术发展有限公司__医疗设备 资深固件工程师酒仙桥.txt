@@ -1,0 +1,1 @@
+{'company_name': '北京迈淩医疗技术发展有限公司', 'job_name': '医疗设备 资深固件工程师酒仙桥', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '带薪年假'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127115802.html?rc=03'}

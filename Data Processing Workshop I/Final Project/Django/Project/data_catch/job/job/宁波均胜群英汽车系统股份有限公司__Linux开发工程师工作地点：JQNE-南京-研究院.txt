@@ -1,0 +1,1 @@
+{'company_name': '宁波均胜群英汽车系统股份有限公司', 'job_name': 'Linux开发工程师工作地点：JQNE-南京-研究院', 'geography': '南京', 'bonus': ['五险一金', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/121803883.html?rc=03'}

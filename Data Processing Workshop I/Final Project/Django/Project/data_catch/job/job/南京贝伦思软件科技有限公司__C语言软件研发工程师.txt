@@ -1,0 +1,1 @@
+{'company_name': '南京贝伦思软件科技有限公司', 'job_name': 'C语言软件研发工程师', 'geography': '南京', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130971803.html?rc=03'}

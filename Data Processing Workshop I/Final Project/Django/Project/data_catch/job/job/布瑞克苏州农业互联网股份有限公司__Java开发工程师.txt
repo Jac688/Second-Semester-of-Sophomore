@@ -1,0 +1,1 @@
+{'company_name': '布瑞克苏州农业互联网股份有限公司', 'job_name': 'Java开发工程师', 'geography': '苏州-相城区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/123816141.html?rc=03'}

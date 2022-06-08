@@ -1,0 +1,1 @@
+{'company_name': '四川赛康智能科技股份有限公司', 'job_name': 'Java中级开发工程师', 'geography': '成都-高新区', 'bonus': ['餐饮补贴', '节日福利', '专业培训', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132095393.html?rc=03'}

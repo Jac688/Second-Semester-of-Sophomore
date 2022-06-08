@@ -1,0 +1,1 @@
+{'company_name': '广东国粒教育技术有限公司', 'job_name': 'Java开发工程师', 'geography': '珠海', 'bonus': ['周末双休', '五险一金', '全勤奖', '加班补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/117812732.html?rc=03'}

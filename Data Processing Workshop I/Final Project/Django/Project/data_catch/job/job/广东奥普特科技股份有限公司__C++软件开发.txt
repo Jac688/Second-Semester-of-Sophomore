@@ -1,0 +1,1 @@
+{'company_name': '广东奥普特科技股份有限公司', 'job_name': 'C++软件开发', 'geography': '东莞-长安镇', 'bonus': ['五险一金', '年终奖金', '包食宿', '带薪年假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/84314748.html?rc=03'}

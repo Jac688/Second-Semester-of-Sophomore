@@ -1,0 +1,1 @@
+{'company_name': 'EY安永', 'job_name': 'Assurance- StaffSenior-Hangzhou', 'geography': '杭州', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/126106451.html?rc=03'}

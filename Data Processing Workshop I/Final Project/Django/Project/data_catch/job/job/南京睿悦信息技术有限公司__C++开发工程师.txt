@@ -1,0 +1,1 @@
+{'company_name': '南京睿悦信息技术有限公司', 'job_name': 'C++开发工程师', 'geography': '南京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130972019.html?rc=03'}

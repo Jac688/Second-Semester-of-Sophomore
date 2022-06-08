@@ -1,0 +1,1 @@
+{'company_name': 'GXG男装', 'job_name': 'JAVA开发工程师G00553', 'geography': '宁波-海曙区', 'bonus': ['五险一金', '周末双休', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/132286691.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海赋拓物联网技术有限公司', 'job_name': '软件开发工程师Java', 'geography': '上海-宝山区', 'bonus': ['专业培训', '五险一金', '带薪年假', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130842988.html?rc=03'}

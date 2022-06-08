@@ -1,0 +1,1 @@
+{'company_name': '南京祖祖数据服务有限公司', 'job_name': 'PHP技术开放工程师', 'geography': '南京-江宁区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131905205.html?rc=03'}

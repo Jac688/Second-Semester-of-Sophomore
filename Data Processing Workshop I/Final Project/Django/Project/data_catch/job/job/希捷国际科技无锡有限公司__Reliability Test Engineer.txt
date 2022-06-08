@@ -1,0 +1,1 @@
+{'company_name': '希捷国际科技无锡有限公司', 'job_name': 'Reliability Test Engineer', 'geography': '无锡', 'bonus': ['带薪年假', '五险一金', '免费班车', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/132041710.html?rc=03'}

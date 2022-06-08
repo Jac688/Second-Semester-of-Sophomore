@@ -1,0 +1,1 @@
+{'company_name': '北京兴华会计师事务所特殊普通合伙青岛分所', 'job_name': '大数据开发工程师', 'geography': '青岛-崂山区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/126814114.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '廊坊会议展览有限公司', 'job_name': 'PHP程序开发工程师 PHP程序员 PHP技术总监', 'geography': '廊坊', 'bonus': ['五险一金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/langfang/128781909.html?rc=03'}

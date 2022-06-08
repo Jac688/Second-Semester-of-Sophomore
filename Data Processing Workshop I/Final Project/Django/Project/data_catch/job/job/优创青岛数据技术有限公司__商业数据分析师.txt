@@ -1,0 +1,1 @@
+{'company_name': '优创青岛数据技术有限公司', 'job_name': '商业数据分析师', 'geography': '异地招聘', 'bonus': ['补充医疗保险', '专业培训', '绩效奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130991450.html?rc=03'}

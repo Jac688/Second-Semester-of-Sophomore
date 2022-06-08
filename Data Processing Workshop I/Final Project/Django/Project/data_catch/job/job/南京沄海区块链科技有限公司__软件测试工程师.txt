@@ -1,0 +1,1 @@
+{'company_name': '南京沄海区块链科技有限公司', 'job_name': '软件测试工程师', 'geography': '南京-鼓楼区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128158746.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '东莞市威狮特企业管理咨询有限公司', 'job_name': 'Java工程师-(外资急聘)', 'geography': '东莞-高埗镇', 'bonus': ['五险一金', '专业培训', '定期体检', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131291351.html?rc=03'}

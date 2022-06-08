@@ -1,0 +1,1 @@
+{'company_name': '天阳宏业科技股份有限公司', 'job_name': 'Java开发工程师厦门', 'geography': '厦门', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/129515259.html?rc=03'}

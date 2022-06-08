@@ -1,0 +1,1 @@
+{'company_name': '大连亿达信息技术有限公司深圳分公司', 'job_name': 'Java全栈开发', 'geography': '异地招聘', 'bonus': ['五险一金', '补充商业保险', '公积金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131708990.html?rc=03'}

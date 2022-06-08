@@ -1,0 +1,1 @@
+{'company_name': '广州易宝信息技术有限公司', 'job_name': 'C++开发工程师电力行业', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '补充医疗保险', '通讯补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124913690.html?rc=03'}

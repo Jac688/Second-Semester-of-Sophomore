@@ -1,0 +1,1 @@
+{'company_name': '广西翔哲电子科技有限公司', 'job_name': '实习软件开发工程师', 'geography': '南宁-西乡塘区', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanning/131245277.html?rc=03'}

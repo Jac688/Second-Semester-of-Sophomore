@@ -1,0 +1,1 @@
+{'company_name': '三明市哲俊电子商务有限公司', 'job_name': '服务器运维工程师', 'geography': '杭州-余杭区', 'bonus': ['绩效奖金', '五险一金', '员工旅游', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130881252.html?rc=03'}

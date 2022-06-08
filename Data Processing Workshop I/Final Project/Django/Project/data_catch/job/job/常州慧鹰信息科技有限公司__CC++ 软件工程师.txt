@@ -1,0 +1,1 @@
+{'company_name': '常州慧鹰信息科技有限公司', 'job_name': 'CC++ 软件工程师', 'geography': '异地招聘', 'bonus': ['专业培训', '五险一金', '定期体检', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/123668290.html?rc=03'}

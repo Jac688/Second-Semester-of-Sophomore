@@ -1,0 +1,1 @@
+{'company_name': '季华实验室', 'job_name': '软件开发技术支撑岗冲压模具', 'geography': '佛山-南海区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/128672973.html?rc=03'}

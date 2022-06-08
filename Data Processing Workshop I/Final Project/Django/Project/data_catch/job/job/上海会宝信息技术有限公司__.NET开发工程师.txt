@@ -1,0 +1,1 @@
+{'company_name': '上海会宝信息技术有限公司', 'job_name': '.NET开发工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/115235718.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京正芯合创微电子技术有限公司', 'job_name': '视频分析及算法工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131765672.html?rc=03'}

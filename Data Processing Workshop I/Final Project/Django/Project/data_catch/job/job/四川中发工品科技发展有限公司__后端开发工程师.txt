@@ -1,0 +1,1 @@
+{'company_name': '四川中发工品科技发展有限公司', 'job_name': '后端开发工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127959467.html?rc=03'}

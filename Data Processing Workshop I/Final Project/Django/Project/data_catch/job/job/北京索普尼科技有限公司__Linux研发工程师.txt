@@ -1,0 +1,1 @@
+{'company_name': '北京索普尼科技有限公司', 'job_name': 'Linux研发工程师', 'geography': '北京-通州区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/103479516.html?rc=03'}

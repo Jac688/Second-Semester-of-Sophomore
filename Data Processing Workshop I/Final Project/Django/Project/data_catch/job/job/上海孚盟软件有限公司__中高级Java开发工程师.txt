@@ -1,0 +1,1 @@
+{'company_name': '上海孚盟软件有限公司', 'job_name': '中高级Java开发工程师', 'geography': '上海-闵行区', 'bonus': ['绩效奖金', '员工旅游', '五险一金', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131352601.html?rc=03'}

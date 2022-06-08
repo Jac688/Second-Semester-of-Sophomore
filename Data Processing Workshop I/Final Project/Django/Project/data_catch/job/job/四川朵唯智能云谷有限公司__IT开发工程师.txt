@@ -1,0 +1,1 @@
+{'company_name': '四川朵唯智能云谷有限公司', 'job_name': 'IT开发工程师', 'geography': '异地招聘', 'bonus': ['包住', '节日慰问', '年终福利', '定期培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/yibin/132062431.html?rc=03'}

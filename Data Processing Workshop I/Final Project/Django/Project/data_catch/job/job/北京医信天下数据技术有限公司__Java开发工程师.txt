@@ -1,0 +1,1 @@
+{'company_name': '北京医信天下数据技术有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129521967.html?rc=03'}

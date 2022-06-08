@@ -1,0 +1,1 @@
+{'company_name': '安徽佳通乘用子午线轮胎有限公司', 'job_name': '软件开发', 'geography': '合肥-蜀山区', 'bonus': ['五险一金', '免费班车', '员工旅游', '出国机会'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hefei/131945232.html?rc=03'}

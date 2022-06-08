@@ -1,0 +1,1 @@
+{'company_name': '四川至久尚云科技服务有限公司', 'job_name': '测试工程师兼技术支持', 'geography': '成都-天府新区', 'bonus': ['朝九晚六', '周末单双休', '社保'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131855802.html?rc=03'}

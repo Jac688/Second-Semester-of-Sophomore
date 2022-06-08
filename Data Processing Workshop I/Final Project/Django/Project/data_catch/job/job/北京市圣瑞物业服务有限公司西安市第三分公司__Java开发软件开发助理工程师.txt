@@ -1,0 +1,1 @@
+{'company_name': '北京市圣瑞物业服务有限公司西安市第三分公司', 'job_name': 'Java开发软件开发助理工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131544958.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海同禾工程科技股份有限公司', 'job_name': '高级工控软件开发工程师c++', 'geography': '成都-高新区', 'bonus': ['五险一金', '专业培训', '年终奖金', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124719465.html?rc=03'}

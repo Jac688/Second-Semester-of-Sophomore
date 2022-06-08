@@ -1,0 +1,1 @@
+{'company_name': '上海东方怡动信息技术有限公司', 'job_name': 'Java软件工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '弹性工作', '补充医疗保险', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/62956566.html?rc=03'}

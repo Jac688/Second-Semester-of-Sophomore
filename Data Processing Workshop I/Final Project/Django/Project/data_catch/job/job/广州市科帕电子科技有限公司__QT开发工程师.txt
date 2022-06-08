@@ -1,0 +1,1 @@
+{'company_name': '广州市科帕电子科技有限公司', 'job_name': 'QT开发工程师', 'geography': '广州-荔湾区', 'bonus': ['带薪年假', '全勤奖', '节日福利', '包吃'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127471078.html?rc=03'}

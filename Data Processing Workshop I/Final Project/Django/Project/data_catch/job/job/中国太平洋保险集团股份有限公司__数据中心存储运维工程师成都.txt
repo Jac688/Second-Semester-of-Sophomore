@@ -1,0 +1,1 @@
+{'company_name': '中国太平洋保险集团股份有限公司', 'job_name': '数据中心存储运维工程师成都', 'geography': '成都-高新区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '年终奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126279251.html?rc=03'}

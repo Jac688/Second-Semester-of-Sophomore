@@ -1,0 +1,1 @@
+{'company_name': '奥成佳和北京软件开发有限公司', 'job_name': '实施主管', 'geography': '北京-大兴区', 'bonus': ['五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130527961.html?rc=03'}

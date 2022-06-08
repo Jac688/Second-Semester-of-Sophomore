@@ -1,0 +1,1 @@
+{'company_name': '广州市易鸿智能装备有限公司', 'job_name': '深度学习图像算法工程师', 'geography': '广州-番禺区', 'bonus': ['高温补贴', '五险一金', '带薪年假', '住房补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132150145.html?rc=03'}

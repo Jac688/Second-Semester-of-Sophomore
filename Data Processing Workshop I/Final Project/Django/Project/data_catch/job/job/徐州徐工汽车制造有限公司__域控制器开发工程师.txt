@@ -1,0 +1,1 @@
+{'company_name': '徐州徐工汽车制造有限公司', 'job_name': '域控制器开发工程师', 'geography': '徐州', 'bonus': ['免费班车', '餐饮补贴', '五险一金', '专业培训'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/128412533.html?rc=03'}

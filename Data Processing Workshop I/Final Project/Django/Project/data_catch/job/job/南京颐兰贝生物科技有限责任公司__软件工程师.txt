@@ -1,0 +1,1 @@
+{'company_name': '南京颐兰贝生物科技有限责任公司', 'job_name': '软件工程师', 'geography': '南京-栖霞区', 'bonus': ['做五休二', '周末双休', '五险一金', '节日福利'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/108740372.html?rc=03'}

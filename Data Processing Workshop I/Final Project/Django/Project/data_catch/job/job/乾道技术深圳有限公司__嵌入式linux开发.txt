@@ -1,0 +1,1 @@
+{'company_name': '乾道技术深圳有限公司', 'job_name': '嵌入式linux开发', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128741594.html?rc=03'}

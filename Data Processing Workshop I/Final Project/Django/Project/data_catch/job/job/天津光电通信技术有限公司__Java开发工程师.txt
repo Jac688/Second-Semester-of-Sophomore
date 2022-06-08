@@ -1,0 +1,1 @@
+{'company_name': '天津光电通信技术有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-武侯区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/119776809.html?rc=03'}

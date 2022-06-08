@@ -1,0 +1,1 @@
+{'company_name': '华海博君智慧科技山东有限公司', 'job_name': 'JAVA开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shandongsheng/122993178.html?rc=03'}

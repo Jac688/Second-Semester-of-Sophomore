@@ -1,0 +1,1 @@
+{'company_name': '广西车视智造科技有限公司', 'job_name': '前端流程工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '弹性工作', '绩效奖金', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128397298.html?rc=03'}

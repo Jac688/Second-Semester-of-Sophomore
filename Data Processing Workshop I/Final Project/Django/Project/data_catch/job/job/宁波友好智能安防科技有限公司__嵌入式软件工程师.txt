@@ -1,0 +1,1 @@
+{'company_name': '宁波友好智能安防科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '宁波-北仑区', 'bonus': ['交通补贴', '绩效奖金', '年终奖金', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/119082377.html?rc=03'}

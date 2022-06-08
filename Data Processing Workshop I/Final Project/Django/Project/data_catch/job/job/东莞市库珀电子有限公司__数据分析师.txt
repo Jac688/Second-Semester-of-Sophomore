@@ -1,0 +1,1 @@
+{'company_name': '东莞市库珀电子有限公司', 'job_name': '数据分析师', 'geography': '东莞-凤岗镇', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/124369234.html?rc=03'}

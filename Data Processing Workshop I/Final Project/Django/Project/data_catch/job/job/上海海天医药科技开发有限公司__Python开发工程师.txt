@@ -1,0 +1,1 @@
+{'company_name': '上海海天医药科技开发有限公司', 'job_name': 'Python开发工程师', 'geography': '上海-黄浦区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128739679.html?rc=03'}

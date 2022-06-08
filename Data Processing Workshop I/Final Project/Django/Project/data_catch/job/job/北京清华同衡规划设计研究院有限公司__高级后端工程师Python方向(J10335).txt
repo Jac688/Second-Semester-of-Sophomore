@@ -1,0 +1,1 @@
+{'company_name': '北京清华同衡规划设计研究院有限公司', 'job_name': '高级后端工程师Python方向(J10335)', 'geography': '北京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128834838.html?rc=03'}

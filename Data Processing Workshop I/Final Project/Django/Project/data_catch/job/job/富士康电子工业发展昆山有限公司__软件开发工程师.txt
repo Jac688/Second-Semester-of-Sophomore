@@ -1,0 +1,1 @@
+{'company_name': '富士康电子工业发展昆山有限公司', 'job_name': '软件开发工程师', 'geography': '昆山', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/91245170.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海滨捷机电有限公司', 'job_name': '软件开发工程师', 'geography': '上海-青浦区', 'bonus': ['五险一金', '年终奖金', '员工旅游', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126800344.html?rc=03'}

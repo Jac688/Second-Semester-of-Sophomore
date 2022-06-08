@@ -1,0 +1,1 @@
+{'company_name': '威海印刷机械有限公司', 'job_name': 'Java中级开发工程师', 'geography': '威海', 'bonus': ['五险一金', '周末双休', '免费宿舍', '工作餐'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/weihai/110004672.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海华坤电器有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '员工宿舍', '项目奖金', '节日福利'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125130377.html?rc=03'}

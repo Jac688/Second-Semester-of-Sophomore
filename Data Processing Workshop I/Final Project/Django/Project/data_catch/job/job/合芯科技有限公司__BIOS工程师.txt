@@ -1,0 +1,1 @@
+{'company_name': '合芯科技有限公司', 'job_name': 'BIOS工程师', 'geography': '苏州', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/127956207.html?rc=03'}

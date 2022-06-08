@@ -1,0 +1,1 @@
+{'company_name': '北京中电科卫星导航系统有限公司', 'job_name': '嵌入式系统工程师', 'geography': '北京-通州区', 'bonus': ['五险一金', '专业培训', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129872331.html?rc=03'}

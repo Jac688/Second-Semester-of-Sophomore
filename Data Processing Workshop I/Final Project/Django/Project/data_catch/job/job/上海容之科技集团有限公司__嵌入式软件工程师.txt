@@ -1,0 +1,1 @@
+{'company_name': '上海容之科技集团有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129124518.html?rc=03'}

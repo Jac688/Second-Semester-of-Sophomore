@@ -1,0 +1,1 @@
+{'company_name': '北京中航世科电子技术有限公司', 'job_name': '手机底层驱动工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/120009680.html?rc=03'}

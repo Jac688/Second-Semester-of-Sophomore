@@ -1,0 +1,1 @@
+{'company_name': '东莞市和乐电子有限公司', 'job_name': '软件经理', 'geography': '异地招聘', 'bonus': ['弹性工作', '带薪年假', '五险一金', '绩效奖金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/126134518.html?rc=03'}

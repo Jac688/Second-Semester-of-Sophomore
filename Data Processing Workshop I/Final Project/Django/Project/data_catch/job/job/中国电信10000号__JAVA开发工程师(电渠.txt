@@ -1,0 +1,1 @@
+{'company_name': '中国电信10000号', 'job_name': 'JAVA开发工程师(电渠', 'geography': '成都', 'bonus': ['五险一金', '定期体检', '专业培训', '通讯补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/122659614.html?rc=03'}

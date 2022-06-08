@@ -1,0 +1,1 @@
+{'company_name': '心动网络', 'job_name': 'Web全栈开发工程师 (MJ000305)', 'geography': '上海', 'bonus': [], 'salary': 3.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130432266.html?rc=03'}

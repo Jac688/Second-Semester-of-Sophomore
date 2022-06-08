@@ -1,0 +1,1 @@
+{'company_name': 'PwC 普华永道', 'job_name': 'Senior Associate - Data Intelligence - Risk Assurance - GZSZ', 'geography': '深圳', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128812564.html?rc=03'}

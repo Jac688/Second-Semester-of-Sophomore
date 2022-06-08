@@ -1,0 +1,1 @@
+{'company_name': '上海富友金融服务集团股份有限公司', 'job_name': 'JAVA初级研发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充公积金', '员工旅游', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132264855.html?rc=03'}

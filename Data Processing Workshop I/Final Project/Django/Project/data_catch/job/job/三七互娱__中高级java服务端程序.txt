@@ -1,0 +1,1 @@
+{'company_name': '三七互娱', 'job_name': '中高级java服务端程序', 'geography': '上海-普陀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/75189343.html?rc=03'}

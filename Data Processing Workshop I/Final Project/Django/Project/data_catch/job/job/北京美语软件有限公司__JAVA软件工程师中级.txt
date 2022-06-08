@@ -1,0 +1,1 @@
+{'company_name': '北京美语软件有限公司', 'job_name': 'JAVA软件工程师中级', 'geography': '北京-丰台区', 'bonus': ['专业培训', '绩效奖金', '年终奖金', '五险一金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/71971307.html?rc=03'}

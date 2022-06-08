@@ -1,0 +1,1 @@
+{'company_name': '北京外企人力资源服务有限公司', 'job_name': '500强外企自动化工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129805885.html?rc=03'}

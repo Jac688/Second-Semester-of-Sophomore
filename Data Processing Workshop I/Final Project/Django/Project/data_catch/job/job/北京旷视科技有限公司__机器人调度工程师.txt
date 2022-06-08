@@ -1,0 +1,1 @@
+{'company_name': '北京旷视科技有限公司', 'job_name': '机器人调度工程师', 'geography': '异地招聘', 'bonus': ['免费班车', '餐饮补贴', '弹性工作', '五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/132066022.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '厦门市及时雨焊料有限公司', 'job_name': '软件技术支持工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/131423399.html?rc=03'}

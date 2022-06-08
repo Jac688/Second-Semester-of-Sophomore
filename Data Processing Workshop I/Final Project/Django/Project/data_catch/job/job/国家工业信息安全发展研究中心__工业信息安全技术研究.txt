@@ -1,0 +1,1 @@
+{'company_name': '国家工业信息安全发展研究中心', 'job_name': '工业信息安全技术研究', 'geography': '北京-石景山区', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130888131.html?rc=03'}

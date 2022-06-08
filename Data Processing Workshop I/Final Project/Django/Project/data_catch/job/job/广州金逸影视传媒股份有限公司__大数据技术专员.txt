@@ -1,0 +1,1 @@
+{'company_name': '广州金逸影视传媒股份有限公司', 'job_name': '大数据技术专员', 'geography': '广州', 'bonus': ['五险一金', '免费观影', '周末双休', '提供午餐'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128246299.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州智光电气股份有限公司', 'job_name': '软件开发工程师上市公司', 'geography': '上海-长宁区', 'bonus': ['节日福利', '带薪年假', '上市公司', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130998048.html?rc=03'}

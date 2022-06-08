@@ -1,0 +1,1 @@
+{'company_name': '周生生中国商业有限公司', 'job_name': '系统开发专员HR系统', 'geography': '广州', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '年终奖金'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131295885.html?rc=03'}

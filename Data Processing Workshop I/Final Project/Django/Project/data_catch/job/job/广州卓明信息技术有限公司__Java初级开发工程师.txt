@@ -1,0 +1,1 @@
+{'company_name': '广州卓明信息技术有限公司', 'job_name': 'Java初级开发工程师', 'geography': '广州-海珠区', 'bonus': ['五险一金', '定期体检', '交通补贴', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123686393.html?rc=03'}

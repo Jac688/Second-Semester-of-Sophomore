@@ -1,0 +1,1 @@
+{'company_name': '东方电子支付有限公司', 'job_name': 'Java高级开发', 'geography': '上海', 'bonus': ['五险一金', '高温补贴', '补充医疗保险', '人才引进'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/107041410.html?rc=03'}

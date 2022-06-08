@@ -1,0 +1,1 @@
+{'company_name': '广州铺货牛牛供应链管理有限公司', 'job_name': 'PHP开发工程师', 'geography': '珠海-金湾区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/129828002.html?rc=03'}

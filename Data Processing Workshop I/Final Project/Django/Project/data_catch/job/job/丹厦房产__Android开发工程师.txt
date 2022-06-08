@@ -1,0 +1,1 @@
+{'company_name': '丹厦房产', 'job_name': 'Android开发工程师', 'geography': '厦门', 'bonus': ['弹性工作', '带薪年假', '包住宿', '绩效奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/128425157.html?rc=03'}

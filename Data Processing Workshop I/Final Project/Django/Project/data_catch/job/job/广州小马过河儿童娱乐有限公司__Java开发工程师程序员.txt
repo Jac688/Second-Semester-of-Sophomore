@@ -1,0 +1,1 @@
+{'company_name': '广州小马过河儿童娱乐有限公司', 'job_name': 'Java开发工程师程序员', 'geography': '广州-番禺区', 'bonus': ['五险一金', '带薪年假', '加班补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130847584.html?rc=03'}

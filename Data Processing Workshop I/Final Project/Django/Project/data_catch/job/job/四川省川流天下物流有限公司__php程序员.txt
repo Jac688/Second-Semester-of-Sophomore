@@ -1,0 +1,1 @@
+{'company_name': '四川省川流天下物流有限公司', 'job_name': 'php程序员', 'geography': '成都-高新区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '周末双休'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130736477.html?rc=03'}

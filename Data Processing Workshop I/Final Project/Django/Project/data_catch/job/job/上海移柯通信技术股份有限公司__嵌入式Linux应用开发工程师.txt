@@ -1,0 +1,1 @@
+{'company_name': '上海移柯通信技术股份有限公司', 'job_name': '嵌入式Linux应用开发工程师', 'geography': '重庆-南岸区', 'bonus': ['弹性工作', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129320291.html?rc=03'}

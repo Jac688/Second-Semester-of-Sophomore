@@ -1,0 +1,1 @@
+{'company_name': '峻凌电子(苏州)有限公司', 'job_name': 'DB维护和MES开发', 'geography': '苏州-吴江区', 'bonus': ['带薪年假', '五险一金', '包住宿', '免费班车'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128344219.html?rc=03'}

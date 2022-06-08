@@ -1,0 +1,1 @@
+{'company_name': '中山优感科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '中山', 'bonus': ['五险一金', '周末双休', '每年多次调薪', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/119678947.html?rc=03'}

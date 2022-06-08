@@ -1,0 +1,1 @@
+{'company_name': '上海秦唐信息技术有限公司', 'job_name': 'C#后端开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '股票期权'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129206109.html?rc=03'}

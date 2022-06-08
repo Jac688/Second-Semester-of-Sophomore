@@ -1,0 +1,1 @@
+{'company_name': '广东华路交通科技有限公司', 'job_name': '机器视觉算法工程师国企+福利好', 'geography': '广州-白云区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '免费班车'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130358843.html?rc=03'}

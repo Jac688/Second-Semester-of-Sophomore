@@ -1,0 +1,1 @@
+{'company_name': '宝牧科技天津有限公司', 'job_name': 'Python开发工程师', 'geography': '武汉-洪山区', 'bonus': ['五险一金', '绩效奖金', '弹性工作', '节日福利'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/128576345.html?rc=03'}

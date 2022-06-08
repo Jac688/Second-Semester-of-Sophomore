@@ -1,0 +1,1 @@
+{'company_name': '上海独角鲸网络科技有限公司广州分公司', 'job_name': 'CC++开发工程师嵌入式开发-高级', 'geography': '广州-天河区', 'bonus': ['全勤奖', '五险一金', '年终奖金', '节日福利'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124589359.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川瑞霆电力科技有限公司', 'job_name': '嵌入式软件开发工程师', 'geography': '成都-高新区', 'bonus': ['员工旅游', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/104954693.html?rc=03'}

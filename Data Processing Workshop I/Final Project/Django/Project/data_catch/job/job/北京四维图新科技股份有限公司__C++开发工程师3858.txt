@@ -1,0 +1,1 @@
+{'company_name': '北京四维图新科技股份有限公司', 'job_name': 'C++开发工程师3858', 'geography': '沈阳-沈河区', 'bonus': ['午餐补助', '上市公司', '生育补贴', '团队聚餐'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenyang/131247863.html?rc=03'}

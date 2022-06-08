@@ -1,0 +1,1 @@
+{'company_name': '常州慧鹰信息科技有限公司', 'job_name': '运维工程师', 'geography': '常州-新北区', 'bonus': ['专业培训', '五险一金', '定期体检', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/123300868.html?rc=03'}

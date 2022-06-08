@@ -1,0 +1,1 @@
+{'company_name': '南京霍普斯科技有限公司', 'job_name': 'C++软件工程师', 'geography': '南京', 'bonus': ['五险一金', '免费班车', '员工旅游', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/122557725.html?rc=03'}

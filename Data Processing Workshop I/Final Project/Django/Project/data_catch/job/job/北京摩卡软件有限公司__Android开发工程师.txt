@@ -1,0 +1,1 @@
+{'company_name': '北京摩卡软件有限公司', 'job_name': 'Android开发工程师', 'geography': '天津-南开区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/123869402.html?rc=03'}

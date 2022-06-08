@@ -1,0 +1,1 @@
+{'company_name': '《环球人物》杂志社有限公司', 'job_name': '网络技术', 'geography': '成都-武侯区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130657600.html?rc=03'}

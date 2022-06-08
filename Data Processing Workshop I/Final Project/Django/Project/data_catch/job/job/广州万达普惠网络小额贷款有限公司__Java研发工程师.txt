@@ -1,0 +1,1 @@
+{'company_name': '广州万达普惠网络小额贷款有限公司', 'job_name': 'Java研发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '包三餐', '平台大'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132008126.html?rc=03'}

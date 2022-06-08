@@ -1,0 +1,1 @@
+{'company_name': '南京迈特望科技股份有限公司', 'job_name': 'APP开发工程师', 'geography': '南宁-良庆区', 'bonus': ['五险一金', '定期体检', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/131831154.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京晶众智慧交通科技股份有限公司', 'job_name': 'AI算法工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '绩效奖金', '员工旅游', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131300001.html?rc=03'}

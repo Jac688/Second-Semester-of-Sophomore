@@ -1,0 +1,1 @@
+{'company_name': '东软集团股份有限公司', 'job_name': 'Java高级开发工程师', 'geography': '广州', 'bonus': ['五险一金', '定期体检', '专业培训', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130360607.html?rc=03'}

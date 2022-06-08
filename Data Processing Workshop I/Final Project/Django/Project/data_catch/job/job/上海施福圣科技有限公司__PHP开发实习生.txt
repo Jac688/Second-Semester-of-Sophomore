@@ -1,0 +1,1 @@
+{'company_name': '上海施福圣科技有限公司', 'job_name': 'PHP开发实习生', 'geography': '上海-普陀区', 'bonus': ['五险一金', '员工旅游', '定期体检', '弹性工作'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/106421884.html?rc=03'}

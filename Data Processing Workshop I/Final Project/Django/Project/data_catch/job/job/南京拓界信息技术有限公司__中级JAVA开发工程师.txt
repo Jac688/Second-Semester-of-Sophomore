@@ -1,0 +1,1 @@
+{'company_name': '南京拓界信息技术有限公司', 'job_name': '中级JAVA开发工程师', 'geography': '南京-秦淮区', 'bonus': ['定期体检', '员工旅游', '五险一金', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/63647489.html?rc=03'}

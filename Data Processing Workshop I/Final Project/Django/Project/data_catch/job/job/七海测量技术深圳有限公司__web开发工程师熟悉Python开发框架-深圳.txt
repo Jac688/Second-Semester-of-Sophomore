@@ -1,0 +1,1 @@
+{'company_name': '七海测量技术深圳有限公司', 'job_name': 'web开发工程师熟悉Python开发框架-深圳', 'geography': '深圳-宝安区', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131070711.html?rc=03'}

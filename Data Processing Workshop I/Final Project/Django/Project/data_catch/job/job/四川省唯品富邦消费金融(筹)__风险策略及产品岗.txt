@@ -1,0 +1,1 @@
+{'company_name': '四川省唯品富邦消费金融(筹)', 'job_name': '风险策略及产品岗', 'geography': '成都', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126259104.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海停时大数据科技有限公司', 'job_name': '软件开发项目经理', 'geography': '上海-长宁区', 'bonus': ['五险一金', '年终奖金', '弹性工作', '大牛领队'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124086966.html?rc=03'}

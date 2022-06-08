@@ -1,0 +1,1 @@
+{'company_name': '北京卡路里信息技术有限公司', 'job_name': '测试开发工程师 (MJ001434)', 'geography': '深圳-南山区', 'bonus': ['带薪年假', '七险一金', '节日福利', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131722661.html?rc=03'}

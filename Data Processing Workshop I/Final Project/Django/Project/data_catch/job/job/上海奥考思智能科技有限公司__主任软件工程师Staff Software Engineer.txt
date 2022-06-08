@@ -1,0 +1,1 @@
+{'company_name': '上海奥考思智能科技有限公司', 'job_name': '主任软件工程师Staff Software Engineer', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 2.92, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131999884.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京星航通信技术有限公司', 'job_name': 'Java工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '双休', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128316611.html?rc=03'}

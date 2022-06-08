@@ -1,0 +1,1 @@
+{'company_name': '广州华进联合专利商标代理有限公司', 'job_name': '系统开发工程师前端', 'geography': '深圳-南山区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128147863.html?rc=03'}

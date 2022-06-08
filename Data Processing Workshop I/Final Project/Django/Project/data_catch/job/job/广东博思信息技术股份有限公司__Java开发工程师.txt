@@ -1,0 +1,1 @@
+{'company_name': '广东博思信息技术股份有限公司', 'job_name': 'Java开发工程师', 'geography': '珠海', 'bonus': ['餐饮补贴', '周末双休', '五险一金', '补充公积金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/125436502.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海艾杰飞人力资源有限公司', 'job_name': '日企DX数字化转型推进担当(编号126906) 日语必须', 'geography': '北京', 'bonus': ['国家法定休假', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128242972.html?rc=03'}

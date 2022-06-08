@@ -1,0 +1,1 @@
+{'company_name': '上海科之锐人才咨询有限公司', 'job_name': '开发工程师双休', 'geography': '深圳-龙岗区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131221756.html?rc=03'}

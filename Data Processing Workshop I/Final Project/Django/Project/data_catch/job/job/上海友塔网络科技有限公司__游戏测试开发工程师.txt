@@ -1,0 +1,1 @@
+{'company_name': '上海友塔网络科技有限公司', 'job_name': '游戏测试开发工程师', 'geography': '上海-长宁区', 'bonus': ['免费工作餐', '定期体检', '年终奖金', '五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131190357.html?rc=03'}

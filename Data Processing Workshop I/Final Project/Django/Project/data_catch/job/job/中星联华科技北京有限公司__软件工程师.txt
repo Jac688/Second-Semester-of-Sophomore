@@ -1,0 +1,1 @@
+{'company_name': '中星联华科技北京有限公司', 'job_name': '软件工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126954177.html?rc=03'}

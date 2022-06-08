@@ -1,0 +1,1 @@
+{'company_name': '上海天玑科技股份有限公司', 'job_name': '对象存储leader', 'geography': '成都-高新区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '年终奖金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124861616.html?rc=03'}

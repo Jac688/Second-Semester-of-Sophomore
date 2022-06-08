@@ -1,0 +1,1 @@
+{'company_name': '广东格致能源科技有限公司', 'job_name': 'JAVA 初级软件工程师', 'geography': '广州-海珠区', 'bonus': ['五险一金', '员工旅游', '年终奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131645589.html?rc=03'}

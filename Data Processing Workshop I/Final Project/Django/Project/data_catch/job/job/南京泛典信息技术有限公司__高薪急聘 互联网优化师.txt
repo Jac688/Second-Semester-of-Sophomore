@@ -1,0 +1,1 @@
+{'company_name': '南京泛典信息技术有限公司', 'job_name': '高薪急聘 互联网优化师', 'geography': '南京-江宁区', 'bonus': ['无责底薪', '单双休', '节日福利', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/115538074.html?rc=03'}

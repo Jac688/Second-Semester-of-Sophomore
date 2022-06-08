@@ -1,0 +1,1 @@
+{'company_name': 'RebatesMe海淘返利网', 'job_name': 'PHP WEB开发工程师前台', 'geography': '上海-普陀区', 'bonus': ['五险一金', '年终奖金', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117869104.html?rc=03'}

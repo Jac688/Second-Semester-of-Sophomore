@@ -1,0 +1,1 @@
+{'company_name': '和谐健康保险股份有限公司', 'job_name': '信息中心管培生', 'geography': '北京', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130462890.html?rc=03'}

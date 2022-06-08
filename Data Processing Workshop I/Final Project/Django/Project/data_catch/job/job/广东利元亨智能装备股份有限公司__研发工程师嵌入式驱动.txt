@@ -1,0 +1,1 @@
+{'company_name': '广东利元亨智能装备股份有限公司', 'job_name': '研发工程师嵌入式驱动', 'geography': '惠州', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/126150185.html?rc=03'}

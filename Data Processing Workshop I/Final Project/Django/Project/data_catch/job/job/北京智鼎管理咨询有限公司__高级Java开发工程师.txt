@@ -1,0 +1,1 @@
+{'company_name': '北京智鼎管理咨询有限公司', 'job_name': '高级Java开发工程师', 'geography': '北京', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121171608.html?rc=03'}

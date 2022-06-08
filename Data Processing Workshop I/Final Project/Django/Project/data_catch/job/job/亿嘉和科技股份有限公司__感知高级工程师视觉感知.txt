@@ -1,0 +1,1 @@
+{'company_name': '亿嘉和科技股份有限公司', 'job_name': '感知高级工程师视觉感知', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '带薪年假'], 'salary': 2.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/126197940.html?rc=03'}

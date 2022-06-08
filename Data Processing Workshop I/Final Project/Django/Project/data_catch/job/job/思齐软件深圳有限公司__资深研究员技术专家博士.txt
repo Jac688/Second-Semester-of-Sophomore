@@ -1,0 +1,1 @@
+{'company_name': '思齐软件深圳有限公司', 'job_name': '资深研究员技术专家博士', 'geography': '深圳', 'bonus': ['五险一金', '员工旅游', '弹性工作', '绩效奖金'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124840533.html?rc=03'}

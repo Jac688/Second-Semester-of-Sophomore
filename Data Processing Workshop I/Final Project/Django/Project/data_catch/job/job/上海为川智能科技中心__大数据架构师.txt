@@ -1,0 +1,1 @@
+{'company_name': '上海为川智能科技中心', 'job_name': '大数据架构师', 'geography': '上海-普陀区', 'bonus': ['五险一金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132023585.html?rc=03'}

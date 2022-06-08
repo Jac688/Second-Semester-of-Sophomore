@@ -1,0 +1,1 @@
+{'company_name': '南京晨光集团有限责任公司', 'job_name': 'Java开发主管', 'geography': '南京-秦淮区', 'bonus': ['绩效奖金', '高温补贴', '节日福利', '五险一金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/105130699.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京麦佳电子商务有限公司', 'job_name': 'Python开发工程师非外包', 'geography': '南京', 'bonus': ['绩效奖金', '年终奖金', '专业培训', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129669684.html?rc=03'}

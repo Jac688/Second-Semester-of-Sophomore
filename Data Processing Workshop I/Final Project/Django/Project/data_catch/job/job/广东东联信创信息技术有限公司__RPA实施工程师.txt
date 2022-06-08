@@ -1,0 +1,1 @@
+{'company_name': '广东东联信创信息技术有限公司', 'job_name': 'RPA实施工程师', 'geography': '广州-天河区', 'bonus': ['周末双休', '带薪年假', '五险一金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130297655.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中信期货有限公司', 'job_name': '经发管委-财富管理部-Java 开发工程师G00098', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '餐补', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132292107.html?rc=03'}

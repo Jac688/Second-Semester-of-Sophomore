@@ -1,0 +1,1 @@
+{'company_name': '中科深圳能源物联网有限公司', 'job_name': '高级软件开发工程师', 'geography': '深圳-南山区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128007235.html?rc=03'}

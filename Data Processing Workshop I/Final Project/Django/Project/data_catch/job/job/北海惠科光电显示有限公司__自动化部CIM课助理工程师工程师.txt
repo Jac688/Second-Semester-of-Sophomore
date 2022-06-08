@@ -1,0 +1,1 @@
+{'company_name': '北海惠科光电显示有限公司', 'job_name': '自动化部CIM课助理工程师工程师', 'geography': '北海', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '十三薪'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/beihai/132142203.html?rc=03'}

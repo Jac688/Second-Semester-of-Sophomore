@@ -1,0 +1,1 @@
+{'company_name': '四川深瑞视科技有限公司', 'job_name': '图形图像工程师', 'geography': '成都-武侯区', 'bonus': ['周末双休', '下午茶', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/121228861.html?rc=03'}

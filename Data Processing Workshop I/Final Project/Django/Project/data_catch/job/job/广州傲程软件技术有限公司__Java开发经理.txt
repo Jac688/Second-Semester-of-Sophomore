@@ -1,0 +1,1 @@
+{'company_name': '广州傲程软件技术有限公司', 'job_name': 'Java开发经理', 'geography': '广州', 'bonus': ['专业培训', '绩效奖金', '年终奖金', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/95089057.html?rc=03'}

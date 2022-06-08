@@ -1,0 +1,1 @@
+{'company_name': '嘉和生物药业有限公司', 'job_name': 'IT系统方案解决经理', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132201696.html?rc=03'}

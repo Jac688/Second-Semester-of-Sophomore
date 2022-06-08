@@ -1,0 +1,1 @@
+{'company_name': '山东方云软件技术有限公司', 'job_name': '软件研发工程师', 'geography': '济南-历下区', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/jinan/129831910.html?rc=03'}

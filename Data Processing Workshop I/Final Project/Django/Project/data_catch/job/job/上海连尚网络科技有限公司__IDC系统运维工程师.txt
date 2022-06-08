@@ -1,0 +1,1 @@
+{'company_name': '上海连尚网络科技有限公司', 'job_name': 'IDC系统运维工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '免费班车'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131449200.html?rc=03'}

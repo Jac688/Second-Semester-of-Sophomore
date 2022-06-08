@@ -1,0 +1,1 @@
+{'company_name': '善诚科技发展上海有限公司', 'job_name': 'Linux CC++嵌入式开发工程师(上海)(J10243)', 'geography': '上海-奉贤区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128801020.html?rc=03'}

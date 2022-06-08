@@ -1,0 +1,1 @@
+{'company_name': '恒拓开源信息科技股份有限公司广州分公司', 'job_name': '中高级Java开发工程师', 'geography': '广州-白云区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130828984.html?rc=03'}

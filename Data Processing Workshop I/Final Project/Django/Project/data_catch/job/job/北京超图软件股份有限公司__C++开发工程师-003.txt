@@ -1,0 +1,1 @@
+{'company_name': '北京超图软件股份有限公司', 'job_name': 'C++开发工程师-003', 'geography': '成都', 'bonus': ['五险一金', '免费班车', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/123306145.html?rc=03'}

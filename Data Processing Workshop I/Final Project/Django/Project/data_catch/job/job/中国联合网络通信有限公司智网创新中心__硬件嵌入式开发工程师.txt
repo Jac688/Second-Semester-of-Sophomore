@@ -1,0 +1,1 @@
+{'company_name': '中国联合网络通信有限公司智网创新中心', 'job_name': '硬件嵌入式开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128790219.html?rc=03'}

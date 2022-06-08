@@ -1,0 +1,1 @@
+{'company_name': '广州中大凯旋电子科技有限公司', 'job_name': '测试中级工程师[J368891]', 'geography': '广州', 'bonus': ['五险一金', '员工旅游', '节日福利', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130614462.html?rc=03'}

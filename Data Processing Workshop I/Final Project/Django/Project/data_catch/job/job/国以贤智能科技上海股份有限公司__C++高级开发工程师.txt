@@ -1,0 +1,1 @@
+{'company_name': '国以贤智能科技上海股份有限公司', 'job_name': 'C++高级开发工程师', 'geography': '上海', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130938426.html?rc=03'}

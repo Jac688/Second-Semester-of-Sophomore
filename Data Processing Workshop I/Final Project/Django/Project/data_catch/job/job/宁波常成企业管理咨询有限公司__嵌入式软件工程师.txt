@@ -1,0 +1,1 @@
+{'company_name': '宁波常成企业管理咨询有限公司', 'job_name': '嵌入式软件工程师', 'geography': '嘉兴', 'bonus': ['员工旅游', '餐饮补贴', '专业培训', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/120342708.html?rc=03'}

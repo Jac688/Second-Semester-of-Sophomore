@@ -1,0 +1,1 @@
+{'company_name': '北京阳光消费金融股份有限公司', 'job_name': '信息科技部-测试岗', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127743559.html?rc=03'}

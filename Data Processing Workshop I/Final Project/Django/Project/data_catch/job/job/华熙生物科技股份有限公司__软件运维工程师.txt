@@ -1,0 +1,1 @@
+{'company_name': '华熙生物科技股份有限公司', 'job_name': '软件运维工程师', 'geography': '济南', 'bonus': ['年终奖金', '带薪年假', '节日福利', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130808640.html?rc=03'}

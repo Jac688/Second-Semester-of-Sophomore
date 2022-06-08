@@ -1,0 +1,1 @@
+{'company_name': '云计划软件科技上海有限公司', 'job_name': 'Java开发工程师', 'geography': '杭州-滨江区', 'bonus': ['年终奖金', '定期体检', '员工旅游', '五险一金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/101955009.html?rc=03'}

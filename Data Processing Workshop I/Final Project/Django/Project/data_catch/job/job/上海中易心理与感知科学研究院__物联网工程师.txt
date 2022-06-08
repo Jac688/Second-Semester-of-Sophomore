@@ -1,0 +1,1 @@
+{'company_name': '上海中易心理与感知科学研究院', 'job_name': '物联网工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '免费工作餐', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/107105709.html?rc=03'}

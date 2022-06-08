@@ -1,0 +1,1 @@
+{'company_name': 'NIO蔚来', 'job_name': 'Linux开发工程师', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124070040.html?rc=03'}

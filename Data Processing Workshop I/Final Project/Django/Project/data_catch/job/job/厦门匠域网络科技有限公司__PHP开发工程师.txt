@@ -1,0 +1,1 @@
+{'company_name': '厦门匠域网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '厦门-思明区', 'bonus': ['绩效奖金', '晋升空间', '全勤奖', '月休6天'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/126170355.html?rc=03'}

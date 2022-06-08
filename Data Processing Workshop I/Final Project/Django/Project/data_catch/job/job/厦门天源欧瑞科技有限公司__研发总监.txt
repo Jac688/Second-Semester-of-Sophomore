@@ -1,0 +1,1 @@
+{'company_name': '厦门天源欧瑞科技有限公司', 'job_name': '研发总监', 'geography': '厦门', 'bonus': ['餐饮补贴', '绩效奖金', '医社保', '全勤奖'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/128050698.html?rc=03'}

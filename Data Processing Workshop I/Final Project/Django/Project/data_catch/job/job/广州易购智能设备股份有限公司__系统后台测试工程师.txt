@@ -1,0 +1,1 @@
+{'company_name': '广州易购智能设备股份有限公司', 'job_name': '系统后台测试工程师', 'geography': '广州-白云区', 'bonus': ['五险一金', '年终奖金', '员工旅游', '股票期权'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130319598.html?rc=03'}

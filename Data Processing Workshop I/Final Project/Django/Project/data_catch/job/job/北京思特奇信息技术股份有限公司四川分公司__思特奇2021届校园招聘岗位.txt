@@ -1,0 +1,1 @@
+{'company_name': '北京思特奇信息技术股份有限公司四川分公司', 'job_name': '思特奇2021届校园招聘岗位', 'geography': '成都', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124727151.html?rc=03'}

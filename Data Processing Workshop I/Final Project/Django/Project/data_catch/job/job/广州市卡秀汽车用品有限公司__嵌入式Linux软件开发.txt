@@ -1,0 +1,1 @@
+{'company_name': '广州市卡秀汽车用品有限公司', 'job_name': '嵌入式Linux软件开发', 'geography': '广州', 'bonus': ['带薪年假', '年终奖金', '加班补贴', '五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128378437.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州瓷妆化妆品有限公司', 'job_name': '数据仓库工程师', 'geography': '广州-番禺区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130411071.html?rc=03'}

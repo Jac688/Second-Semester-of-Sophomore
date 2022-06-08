@@ -1,0 +1,1 @@
+{'company_name': '平安普惠融资担保有限公司上海分公司', 'job_name': '无抵押策略数据分析岗', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '专业培训', '年终奖金', '定期体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129279967.html?rc=03'}

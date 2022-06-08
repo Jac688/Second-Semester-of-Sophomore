@@ -1,0 +1,1 @@
+{'company_name': '好人生上海健康科技有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-长宁区', 'bonus': ['定期体检', 'EAP服务', '绩效奖金', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/95013102.html?rc=03'}

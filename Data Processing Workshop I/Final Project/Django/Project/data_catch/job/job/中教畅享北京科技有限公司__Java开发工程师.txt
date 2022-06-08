@@ -1,0 +1,1 @@
+{'company_name': '中教畅享北京科技有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-石景山区', 'bonus': ['年终奖金', '五险一金', '通讯补贴', '全勤奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131350437.html?rc=03'}

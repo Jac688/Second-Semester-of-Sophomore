@@ -1,0 +1,1 @@
+{'company_name': '大连如是云科技技术有限公司', 'job_name': '对日Java PGSE', 'geography': '上海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131000893.html?rc=03'}

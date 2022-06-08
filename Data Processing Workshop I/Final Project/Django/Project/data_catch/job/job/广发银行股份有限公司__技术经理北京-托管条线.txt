@@ -1,0 +1,1 @@
+{'company_name': '广发银行股份有限公司', 'job_name': '技术经理北京-托管条线', 'geography': '北京-西城区', 'bonus': ['六险二金', '定期体检', '年终奖金', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127111376.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京轩宇信息技术有限公司', 'job_name': '高级C++开发工程师', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129797571.html?rc=03'}

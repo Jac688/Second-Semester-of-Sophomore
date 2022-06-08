@@ -1,0 +1,1 @@
+{'company_name': '富士康电子工业发展昆山有限公司', 'job_name': '无线充电产品SW', 'geography': '昆山', 'bonus': ['五险一金', '绩效奖金', '定期体检', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/130622259.html?rc=03'}

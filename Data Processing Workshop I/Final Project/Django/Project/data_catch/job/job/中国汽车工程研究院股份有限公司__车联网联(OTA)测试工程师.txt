@@ -1,0 +1,1 @@
+{'company_name': '中国汽车工程研究院股份有限公司', 'job_name': '车联网联(OTA)测试工程师', 'geography': '重庆-渝北区', 'bonus': ['周末双休', '带薪年假', '免费班车', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/127706049.html?rc=03'}

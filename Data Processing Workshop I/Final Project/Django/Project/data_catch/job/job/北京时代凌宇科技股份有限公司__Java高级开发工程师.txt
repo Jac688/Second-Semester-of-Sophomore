@@ -1,0 +1,1 @@
+{'company_name': '北京时代凌宇科技股份有限公司', 'job_name': 'Java高级开发工程师', 'geography': '厦门', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '补充医疗保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/120959598.html?rc=03'}

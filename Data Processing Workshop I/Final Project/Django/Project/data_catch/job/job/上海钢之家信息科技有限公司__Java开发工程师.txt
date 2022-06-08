@@ -1,0 +1,1 @@
+{'company_name': '上海钢之家信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '马鞍山', 'bonus': ['五险一金', '绩效奖金', '员工旅游', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/maanshan/131872141.html?rc=03'}

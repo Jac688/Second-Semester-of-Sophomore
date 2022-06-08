@@ -1,0 +1,1 @@
+{'company_name': '广州市哇宝信息技术有限公司', 'job_name': '运维工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '弹性工作', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129318460.html?rc=03'}

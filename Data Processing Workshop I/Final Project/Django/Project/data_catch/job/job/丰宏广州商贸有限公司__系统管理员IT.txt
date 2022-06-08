@@ -1,0 +1,1 @@
+{'company_name': '丰宏广州商贸有限公司', 'job_name': '系统管理员IT', 'geography': '东莞-凤岗镇', 'bonus': ['节日福利', '绩效奖金', '全勤奖', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130211384.html?rc=03'}

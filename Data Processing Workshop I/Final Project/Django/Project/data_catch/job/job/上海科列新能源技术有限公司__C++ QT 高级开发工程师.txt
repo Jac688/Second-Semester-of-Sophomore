@@ -1,0 +1,1 @@
+{'company_name': '上海科列新能源技术有限公司', 'job_name': 'C++ QT 高级开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/124594789.html?rc=03'}

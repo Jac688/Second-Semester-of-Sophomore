@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '供应链后端研发工程师', 'geography': '北京', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '五险一金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125050199.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '仪智科技上海有限公司', 'job_name': 'C++软件工程师图像处理', 'geography': '上海-普陀区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127248060.html?rc=03'}

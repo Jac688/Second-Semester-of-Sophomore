@@ -1,0 +1,1 @@
+{'company_name': '亿企赢网络科技有限公司宁波分公司', 'job_name': 'Java开发工程师', 'geography': '宁波-江北区', 'bonus': ['周末双休', '弹性工作', '五险一金', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/121269790.html?rc=03'}

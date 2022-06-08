@@ -1,0 +1,1 @@
+{'company_name': '众驼工业科技苏州有限公司', 'job_name': 'JAVA软件工程师', 'geography': '苏州-工业园区', 'bonus': ['绩效奖金', '年终奖金', '餐饮补贴', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/124120634.html?rc=03'}

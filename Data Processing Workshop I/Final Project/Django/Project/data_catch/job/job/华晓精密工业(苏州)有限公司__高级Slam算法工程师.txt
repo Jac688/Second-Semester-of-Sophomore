@@ -1,0 +1,1 @@
+{'company_name': '华晓精密工业(苏州)有限公司', 'job_name': '高级Slam算法工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '周末双休', '员工旅游', '专业培训'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132284717.html?rc=03'}

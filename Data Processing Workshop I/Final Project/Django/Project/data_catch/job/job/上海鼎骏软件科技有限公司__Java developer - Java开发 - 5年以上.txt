@@ -1,0 +1,1 @@
+{'company_name': '上海鼎骏软件科技有限公司', 'job_name': 'Java developer - Java开发 - 5年以上', 'geography': '上海-静安区', 'bonus': ['五险一金', '专业培训', '年终奖金', '周末双休'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129903127.html?rc=03'}

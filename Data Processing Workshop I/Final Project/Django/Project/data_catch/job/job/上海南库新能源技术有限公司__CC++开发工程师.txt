@@ -1,0 +1,1 @@
+{'company_name': '上海南库新能源技术有限公司', 'job_name': 'CC++开发工程师', 'geography': '上海-松江区', 'bonus': ['五险一金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127316127.html?rc=03'}

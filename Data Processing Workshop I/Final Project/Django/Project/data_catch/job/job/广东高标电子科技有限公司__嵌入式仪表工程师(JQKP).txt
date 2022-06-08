@@ -1,0 +1,1 @@
+{'company_name': '广东高标电子科技有限公司', 'job_name': '嵌入式仪表工程师(JQKP)', 'geography': '东莞-松山湖区', 'bonus': ['五险一金', '股票期权', '团队氛围好', '晋升空间大'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130831369.html?rc=03'}

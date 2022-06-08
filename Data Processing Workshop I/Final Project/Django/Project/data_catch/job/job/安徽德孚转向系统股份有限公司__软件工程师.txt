@@ -1,0 +1,1 @@
+{'company_name': '安徽德孚转向系统股份有限公司', 'job_name': '软件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '股票期权', '年终奖金', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/123260938.html?rc=03'}

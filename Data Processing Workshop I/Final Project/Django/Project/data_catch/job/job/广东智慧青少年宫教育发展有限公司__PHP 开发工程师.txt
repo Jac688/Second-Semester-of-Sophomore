@@ -1,0 +1,1 @@
+{'company_name': '广东智慧青少年宫教育发展有限公司', 'job_name': 'PHP 开发工程师', 'geography': '广州-白云区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130771566.html?rc=03'}

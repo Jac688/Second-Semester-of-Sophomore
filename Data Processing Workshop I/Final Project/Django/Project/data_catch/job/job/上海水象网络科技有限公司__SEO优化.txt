@@ -1,0 +1,1 @@
+{'company_name': '上海水象网络科技有限公司', 'job_name': 'SEO优化', 'geography': '上海-闵行区', 'bonus': ['员工旅游', '定期体检', '五险一金', '每年多次调薪'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131979012.html?rc=03'}

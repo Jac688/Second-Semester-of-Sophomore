@@ -1,0 +1,1 @@
+{'company_name': '光荣国际贸易上海有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海', 'bonus': ['做五休二', '免费班车', '交通补贴', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130026532.html?rc=03'}

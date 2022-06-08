@@ -1,0 +1,1 @@
+{'company_name': '上海鹰觉科技有限公司', 'job_name': '软件工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '定期体检', '弹性工作', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131059719.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波国谱环保科技有限公司', 'job_name': '软件开发工程师', 'geography': '宁波', 'bonus': ['餐饮补贴', '高温补贴', '五险一金', '交通补贴'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127505121.html?rc=03'}

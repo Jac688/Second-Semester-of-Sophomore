@@ -1,0 +1,1 @@
+{'company_name': '山东舜德数据管理软件工程有限公司', 'job_name': 'java软件工程师金融软件方向', 'geography': '济南', 'bonus': ['五险一金', '绩效奖金', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/49431568.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州滴普科技有限公司', 'job_name': '前端开发工程师-云原生广州深圳', 'geography': '异地招聘', 'bonus': ['五险一金', '交通补贴', '弹性工作', '节日福利'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129132320.html?rc=03'}

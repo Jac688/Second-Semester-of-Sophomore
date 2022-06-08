@@ -1,0 +1,1 @@
+{'company_name': '常熟市零距离网络技术有限公司', 'job_name': 'PHP开发工程师', 'geography': '常熟', 'bonus': ['五险一金', '年终奖金', '周末双休', '全勤奖'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/changshu/129870738.html?rc=03'}

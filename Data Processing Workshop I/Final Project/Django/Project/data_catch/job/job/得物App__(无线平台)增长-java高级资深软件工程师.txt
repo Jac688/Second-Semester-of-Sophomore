@@ -1,0 +1,1 @@
+{'company_name': '得物App', 'job_name': '(无线平台)增长-java高级资深软件工程师', 'geography': '上海-杨浦区', 'bonus': [], 'salary': 2.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128780928.html?rc=03'}

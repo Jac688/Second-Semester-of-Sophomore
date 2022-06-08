@@ -1,0 +1,1 @@
+{'company_name': '广州群歌信息科技有限公司', 'job_name': '游戏服务端开发', 'geography': '广州', 'bonus': ['五险一金', '周末双休', '员工旅游', '弹性工作'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124501446.html?rc=03'}

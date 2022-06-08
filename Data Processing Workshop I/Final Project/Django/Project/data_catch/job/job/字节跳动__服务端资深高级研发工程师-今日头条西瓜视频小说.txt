@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '服务端资深高级研发工程师-今日头条西瓜视频小说', 'geography': '深圳', 'bonus': ['下午茶', '六险一金', '免费三餐', '弹性工作'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125586014.html?rc=03'}

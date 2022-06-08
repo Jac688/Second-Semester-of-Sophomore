@@ -1,0 +1,1 @@
+{'company_name': '天阳宏业科技股份有限公司', 'job_name': 'Java软件工程师 (MJ006915)', 'geography': '厦门', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/119997779.html?rc=03'}

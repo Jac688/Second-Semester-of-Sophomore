@@ -1,0 +1,1 @@
+{'company_name': '上海博科资讯股份有限公司', 'job_name': '全程供应链事业部-JAVA开发组长', 'geography': '北京-昌平区', 'bonus': ['五险一金', '专业培训', '补充医疗保险', '定期体检'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131357305.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '今创集团股份有限公司', 'job_name': '数据分析师', 'geography': '常州', 'bonus': ['五险一金', '专业培训', '上市集团'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/128145207.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京慧水软件科技有限公司', 'job_name': '软件开发工程师', 'geography': '南京-鼓楼区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '年终奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125514073.html?rc=03'}

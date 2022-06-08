@@ -1,0 +1,1 @@
+{'company_name': '东方电子股份有限公司', 'job_name': '大数据平台和云计算平台工程师', 'geography': '烟台', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/yantai/119457658.html?rc=03'}

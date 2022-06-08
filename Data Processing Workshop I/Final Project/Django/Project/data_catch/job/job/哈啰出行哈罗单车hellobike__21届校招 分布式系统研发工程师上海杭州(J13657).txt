@@ -1,0 +1,1 @@
+{'company_name': '哈啰出行哈罗单车hellobike', 'job_name': '21届校招 分布式系统研发工程师上海杭州(J13657)', 'geography': '杭州-西湖区', 'bonus': [], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/125319294.html?rc=03'}

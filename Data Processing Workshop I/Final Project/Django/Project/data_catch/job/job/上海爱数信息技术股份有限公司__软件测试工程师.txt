@@ -1,0 +1,1 @@
+{'company_name': '上海爱数信息技术股份有限公司', 'job_name': '软件测试工程师', 'geography': '天津', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/127877284.html?rc=03'}

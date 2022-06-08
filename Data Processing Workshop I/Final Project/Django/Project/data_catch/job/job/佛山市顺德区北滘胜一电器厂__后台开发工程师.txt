@@ -1,0 +1,1 @@
+{'company_name': '佛山市顺德区北滘胜一电器厂', 'job_name': '后台开发工程师', 'geography': '佛山-顺德区', 'bonus': ['五险一金', '环境好', '月休4天', '重点项目'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/127453473.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国电子科技集团公司第五十研究所', 'job_name': '应用软件工程师WindowsAndriodLinux', 'geography': '上海-普陀区', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴', '年终奖金'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/114106868.html?rc=03'}

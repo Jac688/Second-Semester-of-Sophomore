@@ -1,0 +1,1 @@
+{'company_name': '中山世达模型制造有限公司', 'job_name': '软件开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '五天八小时', '补充医疗保险', '住房补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131848840.html?rc=03'}

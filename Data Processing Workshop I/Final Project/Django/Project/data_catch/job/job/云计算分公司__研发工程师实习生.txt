@@ -1,0 +1,1 @@
+{'company_name': '云计算分公司', 'job_name': '研发工程师实习生', 'geography': '北京', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130592024.html?rc=03'}

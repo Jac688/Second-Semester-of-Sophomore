@@ -1,0 +1,1 @@
+{'company_name': '常州交通建设管理有限公司', 'job_name': 'Java开发工程师', 'geography': '常州-钟楼区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/129966554.html?rc=03'}

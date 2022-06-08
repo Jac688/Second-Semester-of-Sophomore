@@ -1,0 +1,1 @@
+{'company_name': '中化化肥有限公司', 'job_name': '互联网技术经理', 'geography': '北京-丰台区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132211025.html?rc=03'}

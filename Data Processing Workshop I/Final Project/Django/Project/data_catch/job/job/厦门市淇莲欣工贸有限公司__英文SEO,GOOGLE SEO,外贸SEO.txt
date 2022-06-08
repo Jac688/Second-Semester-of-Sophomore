@@ -1,0 +1,1 @@
+{'company_name': '厦门市淇莲欣工贸有限公司', 'job_name': '英文SEO,GOOGLE SEO,外贸SEO', 'geography': '异地招聘', 'bonus': ['节日福利', '带薪年假', '年终奖金', '五险一金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/130196556.html?rc=03'}

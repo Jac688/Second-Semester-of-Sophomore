@@ -1,0 +1,1 @@
+{'company_name': '佳通轮胎中国投资有限公司研发中心', 'job_name': 'JAVAC开发', 'geography': '合肥-经开区', 'bonus': ['五险一金', '免费班车', '员工旅游', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hefei/128828459.html?rc=03'}

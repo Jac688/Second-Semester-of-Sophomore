@@ -1,0 +1,1 @@
+{'company_name': '发业集团', 'job_name': 'Python高级软件开发工程师', 'geography': '广州-天河区', 'bonus': ['带薪年假', '节日福利', '专业培训', '五险'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129080978.html?rc=03'}

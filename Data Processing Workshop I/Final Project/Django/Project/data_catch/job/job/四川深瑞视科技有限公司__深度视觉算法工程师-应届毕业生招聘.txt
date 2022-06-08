@@ -1,0 +1,1 @@
+{'company_name': '四川深瑞视科技有限公司', 'job_name': '深度视觉算法工程师-应届毕业生招聘', 'geography': '异地招聘', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/sichuansheng/109190418.html?rc=03'}

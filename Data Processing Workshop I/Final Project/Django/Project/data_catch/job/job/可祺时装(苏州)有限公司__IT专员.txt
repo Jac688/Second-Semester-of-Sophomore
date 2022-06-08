@@ -1,0 +1,1 @@
+{'company_name': '可祺时装(苏州)有限公司', 'job_name': 'IT专员', 'geography': '苏州-吴中区', 'bonus': ['五险一金', '包住宿', '包三餐', '绩效奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/103557861.html?rc=03'}

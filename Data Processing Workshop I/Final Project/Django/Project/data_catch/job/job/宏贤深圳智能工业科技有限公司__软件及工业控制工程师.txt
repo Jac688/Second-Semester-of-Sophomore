@@ -1,0 +1,1 @@
+{'company_name': '宏贤深圳智能工业科技有限公司', 'job_name': '软件及工业控制工程师', 'geography': '深圳-龙岗区', 'bonus': ['绩效奖金', '专业培训', '住房补贴', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124393351.html?rc=03'}

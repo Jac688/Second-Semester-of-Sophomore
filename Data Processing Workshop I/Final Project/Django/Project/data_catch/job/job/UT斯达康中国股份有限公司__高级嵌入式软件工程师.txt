@@ -1,0 +1,1 @@
+{'company_name': 'UT斯达康中国股份有限公司', 'job_name': '高级嵌入式软件工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/115481338.html?rc=03'}

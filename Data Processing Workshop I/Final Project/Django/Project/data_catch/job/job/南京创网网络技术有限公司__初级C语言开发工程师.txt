@@ -1,0 +1,1 @@
+{'company_name': '南京创网网络技术有限公司', 'job_name': '初级C语言开发工程师', 'geography': '南京', 'bonus': ['五险一金', '员工旅游', '年终奖金', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128443456.html?rc=03'}

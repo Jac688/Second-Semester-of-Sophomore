@@ -1,0 +1,1 @@
+{'company_name': '冠脉堂信息科技上海有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128838002.html?rc=03'}

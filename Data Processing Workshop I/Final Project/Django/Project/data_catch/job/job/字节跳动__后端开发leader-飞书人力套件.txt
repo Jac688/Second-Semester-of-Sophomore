@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后端开发leader-飞书人力套件', 'geography': '杭州', 'bonus': ['六险一金', '股票期权', '团队氛围好', '大牛带队'], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131837263.html?rc=03'}

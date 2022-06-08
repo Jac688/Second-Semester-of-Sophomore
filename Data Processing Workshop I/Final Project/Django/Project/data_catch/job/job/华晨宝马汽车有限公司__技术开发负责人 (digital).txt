@@ -1,0 +1,1 @@
+{'company_name': '华晨宝马汽车有限公司', 'job_name': '技术开发负责人 (digital)', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128770781.html?rc=03'}

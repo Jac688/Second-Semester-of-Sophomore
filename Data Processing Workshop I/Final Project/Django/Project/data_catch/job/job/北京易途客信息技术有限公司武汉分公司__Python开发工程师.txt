@@ -1,0 +1,1 @@
+{'company_name': '北京易途客信息技术有限公司武汉分公司', 'job_name': 'Python开发工程师', 'geography': '武汉-江汉区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '年终奖金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/129212297.html?rc=03'}

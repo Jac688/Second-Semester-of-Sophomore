@@ -1,0 +1,1 @@
+{'company_name': '宁波市江北振邦纺织复合面料有限公司', 'job_name': 'IT主管', 'geography': '宁波-江北区', 'bonus': ['餐饮补贴', '年终奖金', '包住宿', '包吃'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129932536.html?rc=03'}

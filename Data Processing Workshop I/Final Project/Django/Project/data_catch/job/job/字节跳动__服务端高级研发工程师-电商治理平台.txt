@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '服务端高级研发工程师-电商治理平台', 'geography': '上海', 'bonus': ['六险一金', '五险一金', '团队氛围好', '晋升空间大'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128643040.html?rc=03'}

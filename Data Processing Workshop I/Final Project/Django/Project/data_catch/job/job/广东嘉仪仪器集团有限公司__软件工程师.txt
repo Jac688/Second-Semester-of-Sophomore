@@ -1,0 +1,1 @@
+{'company_name': '广东嘉仪仪器集团有限公司', 'job_name': '软件工程师', 'geography': '肇庆', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '出国机会'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/zhaoqing/129135876.html?rc=03'}

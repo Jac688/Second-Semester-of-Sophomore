@@ -1,0 +1,1 @@
+{'company_name': '宜家天津顾客配送中心', 'job_name': 'IT 实习生 ID71421', 'geography': '天津-东丽区', 'bonus': ['五险一金', '带薪年假', '节日福利', '餐饮补贴'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129680472.html?rc=03'}

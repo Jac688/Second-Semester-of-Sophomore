@@ -1,0 +1,1 @@
+{'company_name': '中科质信北京科技有限公司', 'job_name': '嵌入式软件测试工程师', 'geography': '北京-石景山区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123513957.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国汽车技术研究中心有限公司', 'job_name': 'JAVA工程师', 'geography': '天津', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130821753.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '世码特北京科技有限公司', 'job_name': '算法工程师', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126360598.html?rc=03'}

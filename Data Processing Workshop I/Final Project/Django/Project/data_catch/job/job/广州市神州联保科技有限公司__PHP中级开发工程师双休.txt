@@ -1,0 +1,1 @@
+{'company_name': '广州市神州联保科技有限公司', 'job_name': 'PHP中级开发工程师双休', 'geography': '广州-天河区', 'bonus': ['餐饮补贴', '节日福利', '五险一金', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/116472313.html?rc=03'}

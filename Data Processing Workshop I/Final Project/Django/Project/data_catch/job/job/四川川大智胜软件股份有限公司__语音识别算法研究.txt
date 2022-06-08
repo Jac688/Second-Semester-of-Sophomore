@@ -1,0 +1,1 @@
+{'company_name': '四川川大智胜软件股份有限公司', 'job_name': '语音识别算法研究', 'geography': '成都', 'bonus': ['年终奖金', '绩效奖金', '通讯补贴', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/123286714.html?rc=03'}

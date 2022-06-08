@@ -1,0 +1,1 @@
+{'company_name': 'TCL通讯惠州研发中心', 'job_name': '调试工程师Camera调试', 'geography': '惠州', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/96373732.html?rc=03'}

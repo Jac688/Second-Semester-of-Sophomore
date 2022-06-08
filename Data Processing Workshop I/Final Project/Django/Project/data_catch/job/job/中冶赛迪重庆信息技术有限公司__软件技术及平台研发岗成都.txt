@@ -1,0 +1,1 @@
+{'company_name': '中冶赛迪重庆信息技术有限公司', 'job_name': '软件技术及平台研发岗成都', 'geography': '成都', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129420139.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '常州新阳科技服务有限公司', 'job_name': 'JAVA研发工程师', 'geography': '南京-鼓楼区', 'bonus': ['五险一金', '员工旅游', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130833084.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川省新天丰商贸有限公司', 'job_name': '软件开发工程师', 'geography': '成都', 'bonus': ['周末双休', '带薪年假', '全勤奖', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130936513.html?rc=03'}

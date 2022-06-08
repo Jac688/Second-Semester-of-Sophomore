@@ -1,0 +1,1 @@
+{'company_name': '北京里兰教育科技有限公司', 'job_name': '人工智能助教', 'geography': '宁波-高新区', 'bonus': ['员工旅游', '餐饮补贴', '年终奖金', '弹性工作'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127928518.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '山东胜软科技股份有限公司', 'job_name': '程序员JAVA方向', 'geography': '东营', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongying/42148011.html?rc=03'}

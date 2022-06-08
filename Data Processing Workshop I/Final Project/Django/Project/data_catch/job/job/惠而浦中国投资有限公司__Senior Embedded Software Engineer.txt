@@ -1,0 +1,1 @@
+{'company_name': '惠而浦中国投资有限公司', 'job_name': 'Senior Embedded Software Engineer', 'geography': '深圳-福田区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127857615.html?rc=03'}

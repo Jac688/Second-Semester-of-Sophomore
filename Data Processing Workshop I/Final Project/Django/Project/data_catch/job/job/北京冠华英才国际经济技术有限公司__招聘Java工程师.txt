@@ -1,0 +1,1 @@
+{'company_name': '北京冠华英才国际经济技术有限公司', 'job_name': '招聘Java工程师', 'geography': '天津-南开区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/126506309.html?rc=03'}

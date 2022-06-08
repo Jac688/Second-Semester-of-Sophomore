@@ -1,0 +1,1 @@
+{'company_name': '全讯汇聚网络科技北京有限公司', 'job_name': '高级Linux C 开发工程师(路由网关)', 'geography': '北京-丰台区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '股票期权'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126727787.html?rc=03'}

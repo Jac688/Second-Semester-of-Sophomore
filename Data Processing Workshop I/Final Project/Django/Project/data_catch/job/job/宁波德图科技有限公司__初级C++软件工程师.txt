@@ -1,0 +1,1 @@
+{'company_name': '宁波德图科技有限公司', 'job_name': '初级C++软件工程师', 'geography': '成都-天府新区', 'bonus': ['周末双休', '节日福利', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131414546.html?rc=03'}

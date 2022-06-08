@@ -1,0 +1,1 @@
+{'company_name': '卓郎江苏纺织机械有限公司苏州赐来福分公司', 'job_name': '自动控制软件工程师-上海', 'geography': '上海-闵行区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '年终奖金'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131148490.html?rc=03'}

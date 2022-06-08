@@ -1,0 +1,1 @@
+{'company_name': '上海映驰科技有限公司', 'job_name': 'CC++高级开发工程师', 'geography': '上海-徐汇区', 'bonus': ['专业培训', '节日福利', '商业保险', '周末双休'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126145138.html?rc=03'}

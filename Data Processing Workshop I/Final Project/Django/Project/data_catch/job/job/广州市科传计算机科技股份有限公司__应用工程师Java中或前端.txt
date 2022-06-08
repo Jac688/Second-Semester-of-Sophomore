@@ -1,0 +1,1 @@
+{'company_name': '广州市科传计算机科技股份有限公司', 'job_name': '应用工程师Java中或前端', 'geography': '广州-越秀区', 'bonus': ['五险一金', '绩效奖金', '定期体检', '员工旅游'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132314027.html?rc=03'}

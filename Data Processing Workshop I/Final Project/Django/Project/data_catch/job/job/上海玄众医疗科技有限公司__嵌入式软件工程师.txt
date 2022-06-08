@@ -1,0 +1,1 @@
+{'company_name': '上海玄众医疗科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海-浦东新区', 'bonus': ['通讯补贴', '交通补贴', '年终奖金', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128670641.html?rc=03'}

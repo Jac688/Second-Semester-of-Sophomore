@@ -1,0 +1,1 @@
+{'company_name': '北京中兴瑞普科技有限公司', 'job_name': 'Java开发工程师铁科院)', 'geography': '北京-海淀区', 'bonus': ['五险一金', '弹性工作', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124996341.html?rc=03'}

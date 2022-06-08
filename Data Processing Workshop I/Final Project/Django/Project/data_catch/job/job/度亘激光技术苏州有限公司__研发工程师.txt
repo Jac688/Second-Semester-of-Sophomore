@@ -1,0 +1,1 @@
+{'company_name': '度亘激光技术苏州有限公司', 'job_name': '研发工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '定期体检', '团队年轻', '大V领导'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131215417.html?rc=03'}

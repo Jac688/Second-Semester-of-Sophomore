@@ -1,0 +1,1 @@
+{'company_name': '奇秦科技北京股份有限公司', 'job_name': 'JAVA开发工程师(北京)', 'geography': '北京-通州区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132290098.html?rc=03'}

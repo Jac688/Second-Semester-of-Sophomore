@@ -1,0 +1,1 @@
+{'company_name': '云顶香港', 'job_name': 'IT Application Developer_资讯科技部开发软件员', 'geography': '广州', 'bonus': ['五险一金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128438978.html?rc=03'}

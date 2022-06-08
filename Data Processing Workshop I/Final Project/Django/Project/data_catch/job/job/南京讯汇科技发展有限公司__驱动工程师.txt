@@ -1,0 +1,1 @@
+{'company_name': '南京讯汇科技发展有限公司', 'job_name': '驱动工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '定期体检', '员工旅游', '补充医疗保险'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131292537.html?rc=03'}

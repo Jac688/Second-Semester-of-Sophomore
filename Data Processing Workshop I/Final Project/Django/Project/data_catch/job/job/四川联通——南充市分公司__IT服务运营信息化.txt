@@ -1,0 +1,1 @@
+{'company_name': '四川联通——南充市分公司', 'job_name': 'IT服务运营信息化', 'geography': '南充', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/nanchong/129450535.html?rc=03'}

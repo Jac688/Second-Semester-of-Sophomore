@@ -1,0 +1,1 @@
+{'company_name': '优必选苏州科技有限公司', 'job_name': '数据库工程师', 'geography': '苏州-吴中区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131673599.html?rc=03'}

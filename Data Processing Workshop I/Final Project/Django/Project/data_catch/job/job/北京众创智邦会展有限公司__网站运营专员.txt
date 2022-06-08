@@ -1,0 +1,1 @@
+{'company_name': '北京众创智邦会展有限公司', 'job_name': '网站运营专员', 'geography': '北京-通州区', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126647829.html?rc=03'}

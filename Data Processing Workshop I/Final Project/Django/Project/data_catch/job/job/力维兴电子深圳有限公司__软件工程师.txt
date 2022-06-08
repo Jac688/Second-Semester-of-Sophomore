@@ -1,0 +1,1 @@
+{'company_name': '力维兴电子深圳有限公司', 'job_name': '软件工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127701730.html?rc=03'}

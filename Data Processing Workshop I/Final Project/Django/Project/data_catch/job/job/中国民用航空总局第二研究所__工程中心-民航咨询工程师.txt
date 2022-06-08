@@ -1,0 +1,1 @@
+{'company_name': '中国民用航空总局第二研究所', 'job_name': '工程中心-民航咨询工程师', 'geography': '成都', 'bonus': ['定期体检', '周末双休', '年终奖金', '补充医疗保险'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/102050349.html?rc=03'}

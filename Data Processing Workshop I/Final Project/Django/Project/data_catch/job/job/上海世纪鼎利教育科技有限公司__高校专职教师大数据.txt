@@ -1,0 +1,1 @@
+{'company_name': '上海世纪鼎利教育科技有限公司', 'job_name': '高校专职教师大数据', 'geography': '成都-锦江区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131738590.html?rc=03'}

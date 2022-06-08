@@ -1,0 +1,1 @@
+{'company_name': '广州市行沣信息技术有限公司', 'job_name': 'WEB后台开发', 'geography': '江门-蓬江区', 'bonus': ['五险一金', '交通补贴', '年终奖金', '餐饮补贴'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/jiangmen/130670072.html?rc=03'}

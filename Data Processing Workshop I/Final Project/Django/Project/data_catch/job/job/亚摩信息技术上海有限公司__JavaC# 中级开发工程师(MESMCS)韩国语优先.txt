@@ -1,0 +1,1 @@
+{'company_name': '亚摩信息技术上海有限公司', 'job_name': 'JavaC# 中级开发工程师(MESMCS)韩国语优先', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '做五休二', '带薪年假', '补充医疗保险'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123838251.html?rc=03'}

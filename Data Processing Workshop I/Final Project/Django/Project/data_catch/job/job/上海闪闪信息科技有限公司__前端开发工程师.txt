@@ -1,0 +1,1 @@
+{'company_name': '上海闪闪信息科技有限公司', 'job_name': '前端开发工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126832023.html?rc=03'}

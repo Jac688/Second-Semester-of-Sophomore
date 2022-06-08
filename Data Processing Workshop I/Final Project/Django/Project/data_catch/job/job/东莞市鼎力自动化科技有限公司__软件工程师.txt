@@ -1,0 +1,1 @@
+{'company_name': '东莞市鼎力自动化科技有限公司', 'job_name': '软件工程师', 'geography': '东莞-石碣镇', 'bonus': ['包食宿', '话费补助', '五险', '高提成'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/124168467.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '东吴证券股份有限公司', 'job_name': 'java开发工程师OA办公软件开发方向', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '专业培训', '定期体检'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/132097502.html?rc=03'}

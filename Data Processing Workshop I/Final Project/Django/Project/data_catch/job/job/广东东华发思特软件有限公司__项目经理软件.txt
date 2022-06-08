@@ -1,0 +1,1 @@
+{'company_name': '广东东华发思特软件有限公司', 'job_name': '项目经理软件', 'geography': '南宁', 'bonus': ['五险一金', '通讯补贴', '交通补贴', '股票期权'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanning/128081211.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州优视电子有限责任公司', 'job_name': 'C++服务器端程序员', 'geography': '广州-番禺区', 'bonus': ['通讯补贴', '绩效奖金', '年终奖金', '五险一金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/121363896.html?rc=03'}

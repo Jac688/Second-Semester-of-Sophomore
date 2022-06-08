@@ -1,0 +1,1 @@
+{'company_name': '兴证期货有限公司', 'job_name': '兴证期货-技术部开发支持岗Android', 'geography': '福州-鼓楼区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/130936003.html?rc=03'}

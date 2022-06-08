@@ -1,0 +1,1 @@
+{'company_name': '丹东宏君人才咨询有限公司', 'job_name': '诚招程序员', 'geography': '中山-南区', 'bonus': ['五险一金', '周末双休', '年终双薪', '住房补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/131451213.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波麟沣生物科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '交通补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/121307646.html?rc=03'}

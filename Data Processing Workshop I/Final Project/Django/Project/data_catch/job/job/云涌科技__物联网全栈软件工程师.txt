@@ -1,0 +1,1 @@
+{'company_name': '云涌科技', 'job_name': '物联网全栈软件工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127897685.html?rc=03'}

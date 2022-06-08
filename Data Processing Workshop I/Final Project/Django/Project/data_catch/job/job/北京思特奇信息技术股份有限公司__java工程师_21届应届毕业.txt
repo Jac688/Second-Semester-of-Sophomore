@@ -1,0 +1,1 @@
+{'company_name': '北京思特奇信息技术股份有限公司', 'job_name': 'java工程师_21届应届毕业', 'geography': '南昌-红谷滩新区', 'bonus': ['交通补贴', '专业培训', '绩效奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/131937884.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川省红地科技有限责任公司', 'job_name': 'C#开发工程师急招', 'geography': '绵阳', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '工会福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/mianyang/117780826.html?rc=03'}

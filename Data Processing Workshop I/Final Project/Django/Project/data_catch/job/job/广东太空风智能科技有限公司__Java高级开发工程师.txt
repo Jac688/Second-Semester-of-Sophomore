@@ -1,0 +1,1 @@
+{'company_name': '广东太空风智能科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '广州-海珠区', 'bonus': ['员工旅游', '专业培训', '入职购买社保', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122003554.html?rc=03'}

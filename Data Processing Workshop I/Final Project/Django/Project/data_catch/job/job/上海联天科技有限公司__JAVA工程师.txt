@@ -1,0 +1,1 @@
+{'company_name': '上海联天科技有限公司', 'job_name': 'JAVA工程师', 'geography': '无锡-滨湖区', 'bonus': ['五险一金', '通讯补贴', '带薪年假', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/130862822.html?rc=03'}

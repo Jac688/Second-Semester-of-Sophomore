@@ -1,0 +1,1 @@
+{'company_name': '上海艾为电子技术股份有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120822499.html?rc=03'}

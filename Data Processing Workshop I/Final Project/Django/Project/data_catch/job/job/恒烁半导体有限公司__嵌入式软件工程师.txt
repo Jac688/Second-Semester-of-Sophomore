@@ -1,0 +1,1 @@
+{'company_name': '恒烁半导体有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '交通补贴', '年终奖金', '出国机会'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132220303.html?rc=03'}

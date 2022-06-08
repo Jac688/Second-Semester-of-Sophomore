@@ -1,0 +1,1 @@
+{'company_name': '四川博善企业管理有限公司', 'job_name': '大数据开发工程师', 'geography': '成都-高新区', 'bonus': ['年终奖金', '生日节日福利', '公平晋升机会', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131759867.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东跃昉科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/130561990.html?rc=03'}

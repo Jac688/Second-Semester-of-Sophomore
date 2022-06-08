@@ -1,0 +1,1 @@
+{'company_name': '北京值得买科技股份有限公司青岛分公司', 'job_name': 'Android架构师QD009', 'geography': '青岛-市北区', 'bonus': ['弹性工作', '节日福利', '五险一金', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/122817723.html?rc=03'}

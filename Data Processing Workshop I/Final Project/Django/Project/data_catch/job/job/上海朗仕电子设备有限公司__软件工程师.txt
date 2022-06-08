@@ -1,0 +1,1 @@
+{'company_name': '上海朗仕电子设备有限公司', 'job_name': '软件工程师', 'geography': '上海', 'bonus': ['弹性工作', '定期体检', '五险一金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122780724.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '成都万华投资集团有限公司', 'job_name': '后端工程师', 'geography': '成都', 'bonus': ['绩效奖金', '五险一金', '餐饮补贴'], 'salary': 1.42, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129327518.html?rc=03'}

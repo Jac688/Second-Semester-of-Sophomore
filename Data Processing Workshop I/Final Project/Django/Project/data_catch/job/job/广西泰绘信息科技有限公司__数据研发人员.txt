@@ -1,0 +1,1 @@
+{'company_name': '广西泰绘信息科技有限公司', 'job_name': '数据研发人员', 'geography': '桂林', 'bonus': ['员工旅游', '餐饮补贴', '定期体检', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guilin/129464287.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海东方申信科技发展有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124866713.html?rc=03'}

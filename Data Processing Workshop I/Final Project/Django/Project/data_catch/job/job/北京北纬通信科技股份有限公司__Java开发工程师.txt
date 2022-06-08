@@ -1,0 +1,1 @@
+{'company_name': '北京北纬通信科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-建邺区', 'bonus': ['上市公司', '定期体检', '出国机会'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/123595238.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '东莞软通动力计算机技术有限公司', 'job_name': 'java深圳', 'geography': '深圳', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131106496.html?rc=03'}

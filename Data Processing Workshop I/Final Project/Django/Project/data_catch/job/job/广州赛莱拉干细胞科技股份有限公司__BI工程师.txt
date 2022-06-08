@@ -1,0 +1,1 @@
+{'company_name': '广州赛莱拉干细胞科技股份有限公司', 'job_name': 'BI工程师', 'geography': '广州-海珠区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/117114164.html?rc=03'}

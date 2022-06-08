@@ -1,0 +1,1 @@
+{'company_name': '广州思迈特软件有限公司', 'job_name': 'BI工程师', 'geography': '北京-海淀区', 'bonus': ['弹性工作', '周末双休', '朝九晚六', '下午茶'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127036648.html?rc=03'}

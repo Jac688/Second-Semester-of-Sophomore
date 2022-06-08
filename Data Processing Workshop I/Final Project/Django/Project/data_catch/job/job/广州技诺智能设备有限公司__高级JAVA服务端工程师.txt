@@ -1,0 +1,1 @@
+{'company_name': '广州技诺智能设备有限公司', 'job_name': '高级JAVA服务端工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '绩效奖金', '年终双薪', '免费工作餐'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130260819.html?rc=03'}

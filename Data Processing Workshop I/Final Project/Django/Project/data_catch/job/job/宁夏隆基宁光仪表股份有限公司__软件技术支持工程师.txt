@@ -1,0 +1,1 @@
+{'company_name': '宁夏隆基宁光仪表股份有限公司', 'job_name': '软件技术支持工程师', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/125266516.html?rc=03'}

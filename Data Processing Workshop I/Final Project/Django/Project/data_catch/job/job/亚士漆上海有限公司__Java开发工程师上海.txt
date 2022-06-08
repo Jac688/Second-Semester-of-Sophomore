@@ -1,0 +1,1 @@
+{'company_name': '亚士漆上海有限公司', 'job_name': 'Java开发工程师上海', 'geography': '上海', 'bonus': ['五险一金', '免费班车', '年终奖金', '包吃'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/114119460.html?rc=03'}

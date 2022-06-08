@@ -1,0 +1,1 @@
+{'company_name': '广州一分文化传媒有限公司', 'job_name': '技术主管广州市天河区岗顶', 'geography': '广州-天河区', 'bonus': ['绩效奖金', '五险一金', '餐饮补贴', '全勤奖'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128020124.html?rc=03'}

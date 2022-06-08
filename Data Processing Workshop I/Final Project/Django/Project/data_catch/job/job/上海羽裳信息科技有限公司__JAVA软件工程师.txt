@@ -1,0 +1,1 @@
+{'company_name': '上海羽裳信息科技有限公司', 'job_name': 'JAVA软件工程师', 'geography': '上海-静安区', 'bonus': ['年终奖金', '五险一金', '餐饮补贴', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127641915.html?rc=03'}

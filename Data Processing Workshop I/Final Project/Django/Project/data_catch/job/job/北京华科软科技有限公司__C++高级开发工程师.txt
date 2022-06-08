@@ -1,0 +1,1 @@
+{'company_name': '北京华科软科技有限公司', 'job_name': 'C++高级开发工程师', 'geography': '西安-雁塔区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xian/129382890.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中电长城网际系统应用有限公司', 'job_name': '大数据安全产品化高级工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '免费班车', '交通补贴', '餐饮补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131869494.html?rc=03'}

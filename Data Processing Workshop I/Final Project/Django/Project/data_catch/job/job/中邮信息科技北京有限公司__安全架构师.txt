@@ -1,0 +1,1 @@
+{'company_name': '中邮信息科技北京有限公司', 'job_name': '安全架构师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '企业年金'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126556709.html?rc=03'}

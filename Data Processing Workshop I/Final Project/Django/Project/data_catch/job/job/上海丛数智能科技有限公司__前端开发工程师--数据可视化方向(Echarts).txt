@@ -1,0 +1,1 @@
+{'company_name': '上海丛数智能科技有限公司', 'job_name': '前端开发工程师--数据可视化方向(Echarts)', 'geography': '北京', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125411986.html?rc=03'}

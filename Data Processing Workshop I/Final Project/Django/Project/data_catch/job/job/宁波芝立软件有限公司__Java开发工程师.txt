@@ -1,0 +1,1 @@
+{'company_name': '宁波芝立软件有限公司', 'job_name': 'Java开发工程师', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '员工旅游', '定期体检', '加班补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/87017937.html?rc=03'}

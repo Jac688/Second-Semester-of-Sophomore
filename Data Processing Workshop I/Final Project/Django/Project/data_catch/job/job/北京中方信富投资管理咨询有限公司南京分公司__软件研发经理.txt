@@ -1,0 +1,1 @@
+{'company_name': '北京中方信富投资管理咨询有限公司南京分公司', 'job_name': '软件研发经理', 'geography': '南京', 'bonus': ['周末双休', '带薪年假', '五险一金', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/123929158.html?rc=03'}

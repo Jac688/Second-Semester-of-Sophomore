@@ -1,0 +1,1 @@
+{'company_name': '广东捷胜电气技术有限公司', 'job_name': 'Codesys电气工程师', 'geography': '佛山-顺德区', 'bonus': ['员工旅游', '交通补贴', '年终奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/118942161.html?rc=03'}

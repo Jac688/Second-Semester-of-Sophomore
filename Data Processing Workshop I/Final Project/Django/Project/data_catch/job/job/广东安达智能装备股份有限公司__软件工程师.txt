@@ -1,0 +1,1 @@
+{'company_name': '广东安达智能装备股份有限公司', 'job_name': '软件工程师', 'geography': '异地招聘', 'bonus': ['包吃', '包住宿', 'KTV', '篮球场'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130349255.html?rc=03'}

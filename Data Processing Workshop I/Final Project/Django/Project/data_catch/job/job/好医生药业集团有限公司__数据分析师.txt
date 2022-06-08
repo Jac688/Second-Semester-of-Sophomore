@@ -1,0 +1,1 @@
+{'company_name': '好医生药业集团有限公司', 'job_name': '数据分析师', 'geography': '成都-青羊区', 'bonus': ['节日福利', '专业培训', '六险', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/123647105.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海博泰悦臻电子设备制造有限公司', 'job_name': '测试工程师地图', 'geography': '上海', 'bonus': ['餐补'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131320324.html?rc=03'}

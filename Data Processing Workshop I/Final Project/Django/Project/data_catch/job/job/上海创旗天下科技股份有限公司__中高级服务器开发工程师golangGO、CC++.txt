@@ -1,0 +1,1 @@
+{'company_name': '上海创旗天下科技股份有限公司', 'job_name': '中高级服务器开发工程师golangGO、CC++', 'geography': '上海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121243624.html?rc=03'}

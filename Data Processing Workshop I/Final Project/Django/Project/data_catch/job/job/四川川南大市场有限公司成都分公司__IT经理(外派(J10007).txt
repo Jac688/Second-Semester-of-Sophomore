@@ -1,0 +1,1 @@
+{'company_name': '四川川南大市场有限公司成都分公司', 'job_name': 'IT经理(外派(J10007)', 'geography': '成都', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127300199.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '思必驰科技股份有限公司', 'job_name': 'FreeSWITCH开发工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/119441995.html?rc=03'}

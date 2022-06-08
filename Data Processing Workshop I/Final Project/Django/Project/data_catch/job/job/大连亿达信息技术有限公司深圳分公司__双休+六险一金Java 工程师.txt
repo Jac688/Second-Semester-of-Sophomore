@@ -1,0 +1,1 @@
+{'company_name': '大连亿达信息技术有限公司深圳分公司', 'job_name': '双休+六险一金Java 工程师', 'geography': '绵阳-涪城区', 'bonus': ['五险一金', '补充商业保险', '公积金', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/mianyang/132324106.html?rc=03'}

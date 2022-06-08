@@ -1,0 +1,1 @@
+{'company_name': '北京拓普丰联信息工程有限公司', 'job_name': 'Java开发工程师高级', 'geography': '郑州', 'bonus': ['免费班车', '五险一金', '定期体检', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhengzhou/122571820.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京泰晟科技实业有限公司', 'job_name': '嵌入式开发工程师驱动', 'geography': '南京', 'bonus': ['五险一金', '补充公积金', '餐饮补贴', '交通补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132190249.html?rc=03'}

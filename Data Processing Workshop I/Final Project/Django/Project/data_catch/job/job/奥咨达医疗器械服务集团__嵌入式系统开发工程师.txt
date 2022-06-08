@@ -1,0 +1,1 @@
+{'company_name': '奥咨达医疗器械服务集团', 'job_name': '嵌入式系统开发工程师', 'geography': '广州', 'bonus': ['五险一金', '专业培训', '年终奖金', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131696645.html?rc=03'}

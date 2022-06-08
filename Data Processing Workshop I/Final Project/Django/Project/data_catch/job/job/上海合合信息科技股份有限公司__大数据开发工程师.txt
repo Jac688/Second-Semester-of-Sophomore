@@ -1,0 +1,1 @@
+{'company_name': '上海合合信息科技股份有限公司', 'job_name': '大数据开发工程师', 'geography': '苏州-工业园区', 'bonus': ['弹性工作', '员工旅游', '免费班车', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130128575.html?rc=03'}

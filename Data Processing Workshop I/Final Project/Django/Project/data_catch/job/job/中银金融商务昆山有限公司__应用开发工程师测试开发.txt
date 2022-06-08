@@ -1,0 +1,1 @@
+{'company_name': '中银金融商务昆山有限公司', 'job_name': '应用开发工程师测试开发', 'geography': '昆山', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '高温补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/132066686.html?rc=03'}

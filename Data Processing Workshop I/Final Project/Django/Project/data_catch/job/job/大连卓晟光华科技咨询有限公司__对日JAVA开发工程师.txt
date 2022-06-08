@@ -1,0 +1,1 @@
+{'company_name': '大连卓晟光华科技咨询有限公司', 'job_name': '对日JAVA开发工程师', 'geography': '上海', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121610588.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海创时汽车科技有限公司', 'job_name': '软件功能集成工程师-汽车-智能驾驶', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充公积金', '交通补贴', '餐饮补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130138173.html?rc=03'}

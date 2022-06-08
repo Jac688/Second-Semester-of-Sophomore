@@ -1,0 +1,1 @@
+{'company_name': '急速国际物流科技深圳有限公司', 'job_name': '项目经理IT技术方向', 'geography': '深圳-龙岗区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127928873.html?rc=03'}

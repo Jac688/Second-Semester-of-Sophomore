@@ -1,0 +1,1 @@
+{'company_name': '北京精雕科技集团有限公司', 'job_name': '信息系统工程师', 'geography': '北京', 'bonus': ['周末双休', '带薪年假', '五险一金', '免费班车'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129568504.html?rc=03'}

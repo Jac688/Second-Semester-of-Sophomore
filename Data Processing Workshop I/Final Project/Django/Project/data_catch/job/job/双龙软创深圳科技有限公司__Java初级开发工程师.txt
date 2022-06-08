@@ -1,0 +1,1 @@
+{'company_name': '双龙软创深圳科技有限公司', 'job_name': 'Java初级开发工程师', 'geography': '深圳-龙岗区', 'bonus': ['五险一金', '员工旅游', '定期体检', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130731014.html?rc=03'}

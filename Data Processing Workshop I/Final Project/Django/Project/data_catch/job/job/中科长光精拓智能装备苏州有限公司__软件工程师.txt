@@ -1,0 +1,1 @@
+{'company_name': '中科长光精拓智能装备苏州有限公司', 'job_name': '软件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '年终奖金', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130813019.html?rc=03'}

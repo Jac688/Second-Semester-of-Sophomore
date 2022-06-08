@@ -1,0 +1,1 @@
+{'company_name': '四川特驱农牧科技集团有限公司', 'job_name': '嵌入式开发工程师(J10137)', 'geography': '成都-双流区', 'bonus': ['五险一金', '通讯补贴', '年终奖金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131769556.html?rc=03'}

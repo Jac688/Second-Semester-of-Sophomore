@@ -1,0 +1,1 @@
+{'company_name': '北京天融信科技有限公司', 'job_name': '车联网安全产品经理(J12380)', 'geography': '北京', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 2.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130040146.html?rc=03'}

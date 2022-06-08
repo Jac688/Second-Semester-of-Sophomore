@@ -1,0 +1,1 @@
+{'company_name': '上海微创软件股份有限公司北京分公司', 'job_name': 'Java开发工程师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131737241.html?rc=03'}

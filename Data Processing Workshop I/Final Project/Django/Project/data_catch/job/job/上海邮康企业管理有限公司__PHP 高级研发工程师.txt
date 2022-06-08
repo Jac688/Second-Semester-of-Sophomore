@@ -1,0 +1,1 @@
+{'company_name': '上海邮康企业管理有限公司', 'job_name': 'PHP 高级研发工程师', 'geography': '上海-徐汇区', 'bonus': ['弹性工作', '绩效奖金', '带薪年假', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/111360635.html?rc=03'}

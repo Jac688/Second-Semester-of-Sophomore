@@ -1,0 +1,1 @@
+{'company_name': '慧捷上海科技股份有限公司', 'job_name': 'Java开发工程师成都', 'geography': '成都', 'bonus': ['五险一金', '员工旅游', '交通补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131718643.html?rc=03'}

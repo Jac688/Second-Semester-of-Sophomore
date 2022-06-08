@@ -1,0 +1,1 @@
+{'company_name': '中昱控股集团', 'job_name': '生物信息工程师', 'geography': '广州-黄埔区', 'bonus': ['周末双休', '五险一金', '补充医疗保险', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125433832.html?rc=03'}

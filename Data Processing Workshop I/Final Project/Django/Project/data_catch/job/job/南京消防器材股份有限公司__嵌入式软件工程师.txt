@@ -1,0 +1,1 @@
+{'company_name': '南京消防器材股份有限公司', 'job_name': '嵌入式软件工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '免费班车', '交通补贴', '年终奖金'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130947447.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京永光电子有限公司', 'job_name': '嵌入式系统工程师', 'geography': '北京-通州区', 'bonus': [], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129836505.html?rc=03'}

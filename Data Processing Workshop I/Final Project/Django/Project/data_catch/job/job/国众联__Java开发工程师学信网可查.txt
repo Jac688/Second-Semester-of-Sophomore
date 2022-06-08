@@ -1,0 +1,1 @@
+{'company_name': '国众联', 'job_name': 'Java开发工程师学信网可查', 'geography': '深圳', 'bonus': ['提供住宿', '周末双休', '五险', '餐补'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129876143.html?rc=03'}

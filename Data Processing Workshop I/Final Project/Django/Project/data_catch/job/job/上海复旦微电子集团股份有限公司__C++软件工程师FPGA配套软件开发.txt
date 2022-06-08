@@ -1,0 +1,1 @@
+{'company_name': '上海复旦微电子集团股份有限公司', 'job_name': 'C++软件工程师FPGA配套软件开发', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/91615771.html?rc=03'}

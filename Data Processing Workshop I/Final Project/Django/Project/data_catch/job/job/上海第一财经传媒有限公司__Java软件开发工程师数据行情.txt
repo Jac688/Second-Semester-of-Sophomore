@@ -1,0 +1,1 @@
+{'company_name': '上海第一财经传媒有限公司', 'job_name': 'Java软件开发工程师数据行情', 'geography': '上海-静安区', 'bonus': ['五险一金', '补充公积金', '免费班车', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123539471.html?rc=03'}

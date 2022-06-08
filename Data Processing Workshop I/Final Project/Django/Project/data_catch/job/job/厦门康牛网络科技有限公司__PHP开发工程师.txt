@@ -1,0 +1,1 @@
+{'company_name': '厦门康牛网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '厦门-思明区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/131909542.html?rc=03'}

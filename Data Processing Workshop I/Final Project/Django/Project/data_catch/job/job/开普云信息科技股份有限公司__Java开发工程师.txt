@@ -1,0 +1,1 @@
+{'company_name': '开普云信息科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '海口', 'bonus': ['五险一金', '年终奖金', '周末双休', '生日红包'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/haikou/131625465.html?rc=03'}

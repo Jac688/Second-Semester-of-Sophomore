@@ -1,0 +1,1 @@
+{'company_name': '四川安迪科技实业有限公司', 'job_name': '软件测试工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '交通补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124620508.html?rc=03'}

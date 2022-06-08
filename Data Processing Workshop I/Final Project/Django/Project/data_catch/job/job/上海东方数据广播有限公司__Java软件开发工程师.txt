@@ -1,0 +1,1 @@
+{'company_name': '上海东方数据广播有限公司', 'job_name': 'Java软件开发工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/114794317.html?rc=03'}

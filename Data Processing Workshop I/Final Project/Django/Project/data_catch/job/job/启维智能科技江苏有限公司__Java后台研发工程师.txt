@@ -1,0 +1,1 @@
+{'company_name': '启维智能科技江苏有限公司', 'job_name': 'Java后台研发工程师', 'geography': '徐州-泉山区', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/122719607.html?rc=03'}

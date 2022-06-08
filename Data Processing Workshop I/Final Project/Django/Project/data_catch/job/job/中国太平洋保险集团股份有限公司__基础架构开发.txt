@@ -1,0 +1,1 @@
+{'company_name': '中国太平洋保险集团股份有限公司', 'job_name': '基础架构开发', 'geography': '上海', 'bonus': ['补充公积金', '补充医疗保险', '五险一金', '餐饮补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128959028.html?rc=03'}

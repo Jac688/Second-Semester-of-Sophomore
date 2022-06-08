@@ -1,0 +1,1 @@
+{'company_name': '强生中国投资有限公司 强生中国有限公司', 'job_name': 'Digital Clinical Specialist (contractor)', 'geography': '上海-闵行区', 'bonus': ['补充医疗保险', '补充公积金', '专业培训', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130928218.html?rc=03'}

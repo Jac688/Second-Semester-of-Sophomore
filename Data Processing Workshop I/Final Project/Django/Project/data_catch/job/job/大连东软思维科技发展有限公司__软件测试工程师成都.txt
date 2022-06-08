@@ -1,0 +1,1 @@
+{'company_name': '大连东软思维科技发展有限公司', 'job_name': '软件测试工程师成都', 'geography': '成都-武侯区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131781379.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川奥诚科技有限责任公司', 'job_name': '后台软件开发工程师(Java方向', 'geography': '成都-武侯区', 'bonus': ['五险一金', '绩效奖金', '专业培训', '定期体检'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132249516.html?rc=03'}

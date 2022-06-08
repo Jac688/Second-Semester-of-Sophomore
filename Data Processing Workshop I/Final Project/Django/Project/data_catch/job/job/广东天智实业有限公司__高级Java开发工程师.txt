@@ -1,0 +1,1 @@
+{'company_name': '广东天智实业有限公司', 'job_name': '高级Java开发工程师', 'geography': '惠州', 'bonus': ['包吃', '五险一金', '包三餐', '包住宿'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/121202928.html?rc=03'}

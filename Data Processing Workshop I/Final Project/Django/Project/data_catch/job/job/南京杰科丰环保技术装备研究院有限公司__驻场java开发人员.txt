@@ -1,0 +1,1 @@
+{'company_name': '南京杰科丰环保技术装备研究院有限公司', 'job_name': '驻场java开发人员', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129262110.html?rc=03'}

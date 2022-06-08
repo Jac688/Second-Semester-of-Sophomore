@@ -1,0 +1,1 @@
+{'company_name': '信雅达科技股份有限公司', 'job_name': 'JAVA开发工程师成都', 'geography': '成都-锦江区', 'bonus': ['五险一金', '交通补贴', '年终奖金', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131697968.html?rc=03'}

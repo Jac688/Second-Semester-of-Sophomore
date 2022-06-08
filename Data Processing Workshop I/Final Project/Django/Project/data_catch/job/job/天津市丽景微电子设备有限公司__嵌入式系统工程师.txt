@@ -1,0 +1,1 @@
+{'company_name': '天津市丽景微电子设备有限公司', 'job_name': '嵌入式系统工程师', 'geography': '天津-西青区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/123203423.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海地海科技有限公司', 'job_name': '硬件接口驱动开发', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128967507.html?rc=03'}

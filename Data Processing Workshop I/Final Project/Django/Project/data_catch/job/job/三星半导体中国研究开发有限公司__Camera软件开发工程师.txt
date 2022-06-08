@@ -1,0 +1,1 @@
+{'company_name': '三星半导体中国研究开发有限公司', 'job_name': 'Camera软件开发工程师', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129308422.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '开鑫科技信息服务南京有限公司', 'job_name': 'Java资深开发工程师', 'geography': '南京', 'bonus': [], 'salary': 2.4, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130971658.html?rc=03'}

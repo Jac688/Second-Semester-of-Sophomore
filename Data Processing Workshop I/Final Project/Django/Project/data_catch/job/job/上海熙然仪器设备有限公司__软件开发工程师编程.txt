@@ -1,0 +1,1 @@
+{'company_name': '上海熙然仪器设备有限公司', 'job_name': '软件开发工程师编程', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '专业培训', '年终奖金', '出国机会'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128443526.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中泰福安东莞电子科技有限公司', 'job_name': '软件工程师机器人系统', 'geography': '东莞-寮步镇', 'bonus': ['五险一金', '住房补贴', '餐饮补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131130876.html?rc=03'}

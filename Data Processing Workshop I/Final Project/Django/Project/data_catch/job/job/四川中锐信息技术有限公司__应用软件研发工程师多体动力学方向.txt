@@ -1,0 +1,1 @@
+{'company_name': '四川中锐信息技术有限公司', 'job_name': '应用软件研发工程师多体动力学方向', 'geography': '成都-高新区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129381487.html?rc=03'}

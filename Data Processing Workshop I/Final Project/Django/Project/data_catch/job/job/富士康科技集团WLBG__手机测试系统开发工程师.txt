@@ -1,0 +1,1 @@
+{'company_name': '富士康科技集团WLBG', 'job_name': '手机测试系统开发工程师', 'geography': '深圳-龙华区', 'bonus': ['五险一金', '绩效奖金', '带薪年假', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131740228.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京迪蒙数控技术有限责任公司', 'job_name': 'C、C++软件开发工程师', 'geography': '北京-海淀区', 'bonus': ['做五休二', '带薪年假', '五险一金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121286084.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国东方航空股份有限公司', 'job_name': '2020信息-Java中高级开发人员', 'geography': '上海', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/81594498.html?rc=03'}

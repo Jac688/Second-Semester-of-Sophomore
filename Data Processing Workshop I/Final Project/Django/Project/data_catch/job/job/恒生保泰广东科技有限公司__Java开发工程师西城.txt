@@ -1,0 +1,1 @@
+{'company_name': '恒生保泰广东科技有限公司', 'job_name': 'Java开发工程师西城', 'geography': '北京-西城区', 'bonus': ['五险一金', '年终奖金', '定期体检'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131253182.html?rc=03'}

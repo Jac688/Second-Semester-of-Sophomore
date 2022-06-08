@@ -1,0 +1,1 @@
+{'company_name': '北京思诺博信息技术有限公司', 'job_name': 'JAVA开发工程师JAVA程序员', 'geography': '南京-鼓楼区', 'bonus': ['五险一金', '定期体检', '年终奖金', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/111338647.html?rc=03'}

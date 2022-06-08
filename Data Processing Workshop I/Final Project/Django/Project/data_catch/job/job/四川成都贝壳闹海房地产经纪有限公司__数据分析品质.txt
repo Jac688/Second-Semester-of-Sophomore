@@ -1,0 +1,1 @@
+{'company_name': '四川成都贝壳闹海房地产经纪有限公司', 'job_name': '数据分析品质', 'geography': '成都-青羊区', 'bonus': ['五险一金', '定期体检', '年终奖金', '带薪年假'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128061947.html?rc=03'}

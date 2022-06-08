@@ -1,0 +1,1 @@
+{'company_name': '广州市易杰数码科技有限公司', 'job_name': '数据分析--联通沃音乐', 'geography': '广州-天河区', 'bonus': ['周末双休', '带薪年假', '五险一金', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127226944.html?rc=03'}

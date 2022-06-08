@@ -1,0 +1,1 @@
+{'company_name': '上海全晓信息技术有限公司', 'job_name': 'Java中级开发工程师', 'geography': '杭州-滨江区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131479985.html?rc=03'}

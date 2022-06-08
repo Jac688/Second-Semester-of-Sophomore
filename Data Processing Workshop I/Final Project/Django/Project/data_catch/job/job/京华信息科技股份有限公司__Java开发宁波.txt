@@ -1,0 +1,1 @@
+{'company_name': '京华信息科技股份有限公司', 'job_name': 'Java开发宁波', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131447100.html?rc=03'}

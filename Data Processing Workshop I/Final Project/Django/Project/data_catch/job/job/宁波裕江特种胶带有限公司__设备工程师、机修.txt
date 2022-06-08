@@ -1,0 +1,1 @@
+{'company_name': '宁波裕江特种胶带有限公司', 'job_name': '设备工程师、机修', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '绩效奖金', '节日福利', '专业培训'], 'salary': 0.55, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/104101103.html?rc=03'}

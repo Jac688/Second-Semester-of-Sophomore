@@ -1,0 +1,1 @@
+{'company_name': '四川省绵阳市丰谷酒业有限责任公司', 'job_name': 'CRM系统内部顾问', 'geography': '异地招聘', 'bonus': ['五险一金', '定期体检', '专业培训', '带薪年假'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/sichuansheng/131089646.html?rc=03'}

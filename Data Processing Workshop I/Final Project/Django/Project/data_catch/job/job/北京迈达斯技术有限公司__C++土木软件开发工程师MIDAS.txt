@@ -1,0 +1,1 @@
+{'company_name': '北京迈达斯技术有限公司', 'job_name': 'C++土木软件开发工程师MIDAS', 'geography': '北京-海淀区', 'bonus': ['专业培训', '绩效奖金', '年终奖金', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125237287.html?rc=03'}

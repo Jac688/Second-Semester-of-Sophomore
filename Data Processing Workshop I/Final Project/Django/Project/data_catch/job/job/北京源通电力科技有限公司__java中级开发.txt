@@ -1,0 +1,1 @@
+{'company_name': '北京源通电力科技有限公司', 'job_name': 'java中级开发', 'geography': '济南', 'bonus': ['五险一金', '交通补贴', '定期体检', '生日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/105585532.html?rc=03'}

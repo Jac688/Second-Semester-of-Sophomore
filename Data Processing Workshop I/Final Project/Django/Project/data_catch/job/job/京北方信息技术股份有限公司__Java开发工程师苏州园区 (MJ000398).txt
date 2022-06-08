@@ -1,0 +1,1 @@
+{'company_name': '京北方信息技术股份有限公司', 'job_name': 'Java开发工程师苏州园区 (MJ000398)', 'geography': '苏州-工业园区', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/120535390.html?rc=03'}

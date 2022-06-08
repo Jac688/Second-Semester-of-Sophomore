@@ -1,0 +1,1 @@
+{'company_name': '广州城市信息研究所有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '专业培训', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/122429418.html?rc=03'}

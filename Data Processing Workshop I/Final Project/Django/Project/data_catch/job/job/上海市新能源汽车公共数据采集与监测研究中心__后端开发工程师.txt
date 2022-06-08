@@ -1,0 +1,1 @@
+{'company_name': '上海市新能源汽车公共数据采集与监测研究中心', 'job_name': '后端开发工程师', 'geography': '上海-嘉定区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132314073.html?rc=03'}

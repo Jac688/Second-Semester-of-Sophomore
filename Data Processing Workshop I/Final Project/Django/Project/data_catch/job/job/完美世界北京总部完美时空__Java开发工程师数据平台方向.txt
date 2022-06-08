@@ -1,0 +1,1 @@
+{'company_name': '完美世界北京总部完美时空', 'job_name': 'Java开发工程师数据平台方向', 'geography': '北京', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125864241.html?rc=03'}

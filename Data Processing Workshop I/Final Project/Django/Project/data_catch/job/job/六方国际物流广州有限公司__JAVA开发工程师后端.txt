@@ -1,0 +1,1 @@
+{'company_name': '六方国际物流广州有限公司', 'job_name': 'JAVA开发工程师后端', 'geography': '广州-白云区', 'bonus': ['员工旅游', '年终奖金', '绩效奖金', '节日福利'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131842499.html?rc=03'}

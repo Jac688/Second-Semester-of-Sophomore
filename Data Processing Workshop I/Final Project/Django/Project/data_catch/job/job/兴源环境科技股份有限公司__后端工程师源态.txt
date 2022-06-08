@@ -1,0 +1,1 @@
+{'company_name': '兴源环境科技股份有限公司', 'job_name': '后端工程师源态', 'geography': '杭州-江干区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128264903.html?rc=03'}

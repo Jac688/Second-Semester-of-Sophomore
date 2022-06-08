@@ -1,0 +1,1 @@
+{'company_name': '云计划软件科技上海有限公司', 'job_name': '对日Java开发工程师', 'geography': '南京-鼓楼区', 'bonus': ['餐饮补贴', '补充医疗保险', '员工旅游', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/118594843.html?rc=03'}

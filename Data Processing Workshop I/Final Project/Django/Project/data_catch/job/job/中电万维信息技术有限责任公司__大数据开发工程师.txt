@@ -1,0 +1,1 @@
+{'company_name': '中电万维信息技术有限责任公司', 'job_name': '大数据开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '专业培训', '年终奖金', '防暑费'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/120863913.html?rc=03'}

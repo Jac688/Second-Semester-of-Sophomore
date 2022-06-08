@@ -1,0 +1,1 @@
+{'company_name': '广东大榕树信息科技有限公司', 'job_name': 'C语言软件工程师', 'geography': '东莞-南城区', 'bonus': ['员工旅游', '年终奖金', '专业培训', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131552619.html?rc=03'}

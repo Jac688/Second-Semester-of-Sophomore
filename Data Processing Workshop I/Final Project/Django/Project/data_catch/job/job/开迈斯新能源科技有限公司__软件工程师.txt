@@ -1,0 +1,1 @@
+{'company_name': '开迈斯新能源科技有限公司', 'job_name': '软件工程师', 'geography': '常州', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/124691395.html?rc=03'}

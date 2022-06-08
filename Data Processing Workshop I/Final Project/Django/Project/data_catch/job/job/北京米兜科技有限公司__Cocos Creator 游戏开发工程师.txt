@@ -1,0 +1,1 @@
+{'company_name': '北京米兜科技有限公司', 'job_name': 'Cocos Creator 游戏开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '专业培训', '出国机会', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/117017785.html?rc=03'}

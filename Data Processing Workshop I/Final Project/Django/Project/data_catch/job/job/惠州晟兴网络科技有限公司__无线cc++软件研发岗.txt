@@ -1,0 +1,1 @@
+{'company_name': '惠州晟兴网络科技有限公司', 'job_name': '无线cc++软件研发岗', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '周末双休', '加班补助', '年终奖'], 'salary': 2.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131723097.html?rc=03'}

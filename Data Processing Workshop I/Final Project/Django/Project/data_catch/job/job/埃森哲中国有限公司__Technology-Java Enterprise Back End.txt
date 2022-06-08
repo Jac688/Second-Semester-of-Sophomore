@@ -1,0 +1,1 @@
+{'company_name': '埃森哲中国有限公司', 'job_name': 'Technology-Java Enterprise Back End', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128618790.html?rc=03'}

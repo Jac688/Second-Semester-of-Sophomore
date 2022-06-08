@@ -1,0 +1,1 @@
+{'company_name': '广东得胜电子有限公司', 'job_name': '软件技术员', 'geography': '异地招聘', 'bonus': ['员工旅游', '大小周工作制', '年终奖金', '五险一金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131502018.html?rc=03'}

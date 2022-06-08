@@ -1,0 +1,1 @@
+{'company_name': '广州赛意信息科技股份有限公司', 'job_name': '科研协同研发平台架构师', 'geography': '成都', 'bonus': ['五险一金', '免费班车', '员工旅游', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125338569.html?rc=03'}

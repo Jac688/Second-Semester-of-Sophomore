@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '服务端开发工程师 — 抖音电商', 'geography': '北京', 'bonus': ['免费三餐', '租房补贴', '带薪休假', '扁平管理'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125050180.html?rc=03'}

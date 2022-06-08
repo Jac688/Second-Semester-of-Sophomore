@@ -1,0 +1,1 @@
+{'company_name': '广东新明珠陶瓷集团有限公司', 'job_name': '数据挖掘工程师', 'geography': '佛山-禅城区', 'bonus': ['员工旅游', '绩效奖金', '定期体检', '股票期权'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/foshan/120640717.html?rc=03'}

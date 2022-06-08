@@ -1,0 +1,1 @@
+{'company_name': '广州千洛贸易有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '广州', 'bonus': ['定期体检', '年终奖金', '五险', '周末双休'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123857242.html?rc=03'}

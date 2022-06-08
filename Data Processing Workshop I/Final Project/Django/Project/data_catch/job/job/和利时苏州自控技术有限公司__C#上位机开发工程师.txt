@@ -1,0 +1,1 @@
+{'company_name': '和利时苏州自控技术有限公司', 'job_name': 'C#上位机开发工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '交通补贴', '年终奖金', '餐饮补贴'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/120060872.html?rc=03'}

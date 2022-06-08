@@ -1,0 +1,1 @@
+{'company_name': '和德信通北京科技发展有限公司', 'job_name': 'Java高级开发工程师', 'geography': '北京', 'bonus': ['周末双休', '绩效奖金', '带薪年假', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124955046.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '建信金融科技有限责任公司', 'job_name': 'Java开发-大数据方向(J10108)', 'geography': '苏州-工业园区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/129584640.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '光原科技(杭州)有限公司', 'job_name': '002软件开发工程师C++Java)', 'geography': '杭州', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131302728.html?rc=03'}

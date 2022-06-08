@@ -1,0 +1,1 @@
+{'company_name': '南京睿晖数据技术有限公司', 'job_name': '软件开发CC++', 'geography': '南京-栖霞区', 'bonus': ['免费班车', '五险一金', '年终奖金', '节假日礼物'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130485541.html?rc=03'}

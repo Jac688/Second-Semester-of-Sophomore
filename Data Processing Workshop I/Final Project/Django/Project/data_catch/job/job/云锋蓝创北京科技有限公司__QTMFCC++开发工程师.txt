@@ -1,0 +1,1 @@
+{'company_name': '云锋蓝创北京科技有限公司', 'job_name': 'QTMFCC++开发工程师', 'geography': '北京', 'bonus': ['五险一金'], 'salary': 1.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129383931.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '国泰君安期货有限公司', 'job_name': '量化产品经理岗', 'geography': '广州', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/115202102.html?rc=03'}

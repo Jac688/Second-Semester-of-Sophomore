@@ -1,0 +1,1 @@
+{'company_name': '卡特加特成都智能科技有限公司', 'job_name': 'Java中高级开发工程师', 'geography': '成都-高新区', 'bonus': ['带薪年假', '餐饮补贴', '专业培训', '全勤奖'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/111347609.html?rc=03'}

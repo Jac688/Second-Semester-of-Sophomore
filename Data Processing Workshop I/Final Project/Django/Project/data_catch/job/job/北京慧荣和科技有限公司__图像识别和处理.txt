@@ -1,0 +1,1 @@
+{'company_name': '北京慧荣和科技有限公司', 'job_name': '图像识别和处理', 'geography': '北京-通州区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/85306258.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '卡特彼勒中国机械部件有限公司', 'job_name': '高级人事专员', 'geography': '无锡-无锡新区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/131062794.html?rc=03'}

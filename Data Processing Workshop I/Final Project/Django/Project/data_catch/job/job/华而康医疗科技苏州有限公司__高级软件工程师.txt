@@ -1,0 +1,1 @@
+{'company_name': '华而康医疗科技苏州有限公司', 'job_name': '高级软件工程师', 'geography': '苏州-工业园区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/123306424.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海链家', 'job_name': '储备干部大学生团队8000起导师带教', 'geography': '上海-普陀区', 'bonus': ['弹性工作', '专业培训', '节日福利', '带薪培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131016458.html?rc=03'}

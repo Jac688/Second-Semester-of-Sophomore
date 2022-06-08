@@ -1,0 +1,1 @@
+{'company_name': '上海任仕达人才服务有限公司', 'job_name': 'JAVA工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充公积金', '年终奖金', '补充医疗保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132335053.html?rc=03'}

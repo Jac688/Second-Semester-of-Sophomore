@@ -1,0 +1,1 @@
+{'company_name': '东软集团股份有限公司', 'job_name': '软件开发、实施运维实习生', 'geography': '异地招聘', 'bonus': ['专业培训'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/danzhou/130624940.html?rc=03'}

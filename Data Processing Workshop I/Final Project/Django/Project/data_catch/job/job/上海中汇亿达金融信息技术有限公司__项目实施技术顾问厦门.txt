@@ -1,0 +1,1 @@
+{'company_name': '上海中汇亿达金融信息技术有限公司', 'job_name': '项目实施技术顾问厦门', 'geography': '厦门', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/122974016.html?rc=03'}

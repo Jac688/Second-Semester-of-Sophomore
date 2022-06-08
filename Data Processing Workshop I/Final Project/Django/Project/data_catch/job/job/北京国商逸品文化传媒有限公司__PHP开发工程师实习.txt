@@ -1,0 +1,1 @@
+{'company_name': '北京国商逸品文化传媒有限公司', 'job_name': 'PHP开发工程师实习', 'geography': '北京-通州区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126898017.html?rc=03'}

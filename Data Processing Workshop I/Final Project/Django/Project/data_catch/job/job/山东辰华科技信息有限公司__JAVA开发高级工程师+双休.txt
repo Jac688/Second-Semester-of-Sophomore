@@ -1,0 +1,1 @@
+{'company_name': '山东辰华科技信息有限公司', 'job_name': 'JAVA开发高级工程师+双休', 'geography': '济南-历下区', 'bonus': ['周末双休', '五险一金', '节日福利', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/126740543.html?rc=03'}

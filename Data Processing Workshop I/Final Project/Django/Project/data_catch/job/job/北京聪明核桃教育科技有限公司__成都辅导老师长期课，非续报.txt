@@ -1,0 +1,1 @@
+{'company_name': '北京聪明核桃教育科技有限公司', 'job_name': '成都辅导老师长期课，非续报', 'geography': '成都-青羊区', 'bonus': ['补充医疗保险', '餐饮补贴', '交通补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131058709.html?rc=03'}

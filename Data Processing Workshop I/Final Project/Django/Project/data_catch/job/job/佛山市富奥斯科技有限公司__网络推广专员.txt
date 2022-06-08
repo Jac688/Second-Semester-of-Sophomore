@@ -1,0 +1,1 @@
+{'company_name': '佛山市富奥斯科技有限公司', 'job_name': '网络推广专员', 'geography': '佛山-三水区', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/foshan/127083725.html?rc=03'}

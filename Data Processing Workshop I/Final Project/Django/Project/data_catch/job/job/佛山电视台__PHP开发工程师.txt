@@ -1,0 +1,1 @@
+{'company_name': '佛山电视台', 'job_name': 'PHP开发工程师', 'geography': '佛山', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131416312.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '国泰新点软件股份有限公司', 'job_name': 'java开发工程师济南', 'geography': '济南', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/100877559.html?rc=03'}

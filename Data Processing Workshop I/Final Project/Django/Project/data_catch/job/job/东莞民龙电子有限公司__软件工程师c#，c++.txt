@@ -1,0 +1,1 @@
+{'company_name': '东莞民龙电子有限公司', 'job_name': '软件工程师c#，c++', 'geography': '异地招聘', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/126953854.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '万宝盛华企业管理咨询上海有限公司', 'job_name': '知名医药医疗器械公司 嵌入式开发', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 2.08, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126433893.html?rc=03'}

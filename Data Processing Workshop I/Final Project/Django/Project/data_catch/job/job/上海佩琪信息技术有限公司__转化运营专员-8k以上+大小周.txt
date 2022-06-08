@@ -1,0 +1,1 @@
+{'company_name': '上海佩琪信息技术有限公司', 'job_name': '转化运营专员-8k以上+大小周', 'geography': '深圳-南山区', 'bonus': ['社群运营', '转化运营专员', '社群营销', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129740494.html?rc=03'}

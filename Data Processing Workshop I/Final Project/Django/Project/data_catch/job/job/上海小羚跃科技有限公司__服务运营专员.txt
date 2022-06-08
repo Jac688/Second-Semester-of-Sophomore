@@ -1,0 +1,1 @@
+{'company_name': '上海小羚跃科技有限公司', 'job_name': '服务运营专员', 'geography': '深圳-福田区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132181178.html?rc=03'}

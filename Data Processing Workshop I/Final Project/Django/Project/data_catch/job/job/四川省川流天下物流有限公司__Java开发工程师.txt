@@ -1,0 +1,1 @@
+{'company_name': '四川省川流天下物流有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130995156.html?rc=03'}

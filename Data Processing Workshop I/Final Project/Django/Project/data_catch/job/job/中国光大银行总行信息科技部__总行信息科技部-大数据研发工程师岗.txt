@@ -1,0 +1,1 @@
+{'company_name': '中国光大银行总行信息科技部', 'job_name': '总行信息科技部-大数据研发工程师岗', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131532348.html?rc=03'}

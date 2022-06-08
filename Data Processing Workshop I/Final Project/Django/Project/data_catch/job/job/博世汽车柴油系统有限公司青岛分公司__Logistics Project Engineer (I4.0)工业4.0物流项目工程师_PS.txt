@@ -1,0 +1,1 @@
+{'company_name': '博世汽车柴油系统有限公司青岛分公司', 'job_name': 'Logistics Project Engineer (I4.0)工业4.0物流项目工程师_PS', 'geography': '青岛', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/125278421.html?rc=03'}

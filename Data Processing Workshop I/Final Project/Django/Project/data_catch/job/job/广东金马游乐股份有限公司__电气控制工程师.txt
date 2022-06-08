@@ -1,0 +1,1 @@
+{'company_name': '广东金马游乐股份有限公司', 'job_name': '电气控制工程师', 'geography': '中山', 'bonus': ['五险一金', '节日福利', '免费班车', '包住宿'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/116319867.html?rc=03'}

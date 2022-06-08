@@ -1,0 +1,1 @@
+{'company_name': '天津日博工业技术有限公司', 'job_name': '机器视觉)工程师', 'geography': '天津-东丽区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/120248200.html?rc=03'}

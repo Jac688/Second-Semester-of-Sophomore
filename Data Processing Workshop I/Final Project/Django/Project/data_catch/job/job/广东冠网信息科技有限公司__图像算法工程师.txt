@@ -1,0 +1,1 @@
+{'company_name': '广东冠网信息科技有限公司', 'job_name': '图像算法工程师', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '专业培训', '餐饮补贴', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130932656.html?rc=03'}

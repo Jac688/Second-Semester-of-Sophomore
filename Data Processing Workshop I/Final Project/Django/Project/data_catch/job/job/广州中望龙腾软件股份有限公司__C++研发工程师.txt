@@ -1,0 +1,1 @@
+{'company_name': '广州中望龙腾软件股份有限公司', 'job_name': 'C++研发工程师', 'geography': '北京', 'bonus': ['五险一金', '定期体检', '节日福利', '交通便利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129148786.html?rc=03'}

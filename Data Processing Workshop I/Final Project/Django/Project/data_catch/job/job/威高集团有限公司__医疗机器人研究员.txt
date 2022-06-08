@@ -1,0 +1,1 @@
+{'company_name': '威高集团有限公司', 'job_name': '医疗机器人研究员', 'geography': '北京-海淀区', 'bonus': ['专业培训', '绩效奖金', '定期体检', '五险一金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131924554.html?rc=03'}

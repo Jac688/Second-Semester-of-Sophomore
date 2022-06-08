@@ -1,0 +1,1 @@
+{'company_name': '上海可鲁电气技术有限公司', 'job_name': '嵌入式软件研发工程师C++Linux', 'geography': '上海-浦东新区', 'bonus': ['周末双休', '弹性工作', '五险一金', '交通补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/113294827.html?rc=03'}

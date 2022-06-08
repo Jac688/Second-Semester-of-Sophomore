@@ -1,0 +1,1 @@
+{'company_name': '同济大学', 'job_name': '交通行为与心理方向高级工程师苏州', 'geography': '异地招聘', 'bonus': ['五险一金', '专业培训', '绩效奖金', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jiangsusheng/129755781.html?rc=03'}

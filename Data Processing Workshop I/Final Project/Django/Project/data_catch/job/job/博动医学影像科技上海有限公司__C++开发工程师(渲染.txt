@@ -1,0 +1,1 @@
+{'company_name': '博动医学影像科技上海有限公司', 'job_name': 'C++开发工程师(渲染', 'geography': '上海-徐汇区', 'bonus': ['年终奖金', '绩效奖金', '餐饮补贴', '员工旅游'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131439670.html?rc=03'}

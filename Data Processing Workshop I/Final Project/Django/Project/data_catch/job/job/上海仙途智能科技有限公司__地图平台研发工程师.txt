@@ -1,0 +1,1 @@
+{'company_name': '上海仙途智能科技有限公司', 'job_name': '地图平台研发工程师', 'geography': '杭州', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130767841.html?rc=03'}

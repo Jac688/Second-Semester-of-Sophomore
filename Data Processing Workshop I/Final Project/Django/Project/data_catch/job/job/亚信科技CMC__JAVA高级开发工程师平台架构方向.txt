@@ -1,0 +1,1 @@
+{'company_name': '亚信科技CMC', 'job_name': 'JAVA高级开发工程师平台架构方向', 'geography': '成都-武侯区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132075697.html?rc=03'}

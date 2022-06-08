@@ -1,0 +1,1 @@
+{'company_name': '上海新炬网络信息技术股份有限公司', 'job_name': 'Java开发工程师金融方向', 'geography': '济南-高新区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '定期体检'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/jinan/128733803.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '万向思维国际教育科技集团西安股份有限公司', 'job_name': 'PHP开发工程师', 'geography': '西安', 'bonus': ['入职缴纳社保', '周末双休', '餐饮补贴', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xian/129468154.html?rc=03'}

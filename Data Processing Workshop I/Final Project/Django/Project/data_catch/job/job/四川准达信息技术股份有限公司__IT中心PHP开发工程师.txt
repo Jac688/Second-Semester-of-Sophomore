@@ -1,0 +1,1 @@
+{'company_name': '四川准达信息技术股份有限公司', 'job_name': 'IT中心PHP开发工程师', 'geography': '深圳', 'bonus': [], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130649030.html?rc=03'}

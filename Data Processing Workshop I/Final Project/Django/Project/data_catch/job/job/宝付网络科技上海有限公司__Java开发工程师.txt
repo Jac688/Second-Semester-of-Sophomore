@@ -1,0 +1,1 @@
+{'company_name': '宝付网络科技上海有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '股票期权', '年终奖金', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129856075.html?rc=03'}

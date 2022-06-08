@@ -1,0 +1,1 @@
+{'company_name': '博彦科技股份有限公司', 'job_name': 'Java中高级开发工程师杭州-杭州-05718', 'geography': '杭州', 'bonus': [], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131466119.html?rc=03'}

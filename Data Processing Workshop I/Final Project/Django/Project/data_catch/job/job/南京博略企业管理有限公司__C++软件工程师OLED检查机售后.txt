@@ -1,0 +1,1 @@
+{'company_name': '南京博略企业管理有限公司', 'job_name': 'C++软件工程师OLED检查机售后', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '出国机会', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/sichuansheng/124088290.html?rc=03'}

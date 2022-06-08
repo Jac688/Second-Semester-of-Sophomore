@@ -1,0 +1,1 @@
+{'company_name': '上海古鳌电子科技股份有限公司', 'job_name': '嵌入式软件工程师2', 'geography': '上海-普陀区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130179350.html?rc=03'}

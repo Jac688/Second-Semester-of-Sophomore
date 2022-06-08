@@ -1,0 +1,1 @@
+{'company_name': '佛山市雅堡服饰有限公司', 'job_name': '急聘商品主管、商品数据分析师、商品专员', 'geography': '佛山', 'bonus': ['节日福利', '绩效奖金', '年终奖金', '加班补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131522320.html?rc=03'}

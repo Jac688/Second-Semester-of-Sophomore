@@ -1,0 +1,1 @@
+{'company_name': '北京环亚信通信息科技有限公司', 'job_name': '实施运维经理', 'geography': '成都', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/122292791.html?rc=03'}

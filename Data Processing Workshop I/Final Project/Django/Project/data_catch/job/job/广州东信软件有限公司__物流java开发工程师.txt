@@ -1,0 +1,1 @@
+{'company_name': '广州东信软件有限公司', 'job_name': '物流java开发工程师', 'geography': '广州', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128181516.html?rc=03'}

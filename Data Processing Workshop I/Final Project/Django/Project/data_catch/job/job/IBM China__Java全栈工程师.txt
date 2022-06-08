@@ -1,0 +1,1 @@
+{'company_name': 'IBM China', 'job_name': 'Java全栈工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129598757.html?rc=03'}

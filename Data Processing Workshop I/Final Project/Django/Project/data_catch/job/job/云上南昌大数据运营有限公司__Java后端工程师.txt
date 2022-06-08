@@ -1,0 +1,1 @@
+{'company_name': '云上南昌大数据运营有限公司', 'job_name': 'Java后端工程师', 'geography': '南昌-红谷滩新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/131381254.html?rc=03'}

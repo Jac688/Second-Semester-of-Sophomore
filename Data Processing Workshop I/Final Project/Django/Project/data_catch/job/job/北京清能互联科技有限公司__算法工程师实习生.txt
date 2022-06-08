@@ -1,0 +1,1 @@
+{'company_name': '北京清能互联科技有限公司', 'job_name': '算法工程师实习生', 'geography': '杭州-西湖区', 'bonus': ['周末双休', '带薪年假', '五险一金', '专业培训'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/123660709.html?rc=03'}

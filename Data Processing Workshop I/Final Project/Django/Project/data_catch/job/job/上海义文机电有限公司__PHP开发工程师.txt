@@ -1,0 +1,1 @@
+{'company_name': '上海义文机电有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-浦东新区', 'bonus': ['做五休二', '带薪年假', '五险一金', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128973138.html?rc=03'}

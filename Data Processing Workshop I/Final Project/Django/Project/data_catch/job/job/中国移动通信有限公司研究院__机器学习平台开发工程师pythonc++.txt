@@ -1,0 +1,1 @@
+{'company_name': '中国移动通信有限公司研究院', 'job_name': '机器学习平台开发工程师pythonc++', 'geography': '北京', 'bonus': ['年底双薪', '绩效奖金', '带薪年假', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132048964.html?rc=03'}

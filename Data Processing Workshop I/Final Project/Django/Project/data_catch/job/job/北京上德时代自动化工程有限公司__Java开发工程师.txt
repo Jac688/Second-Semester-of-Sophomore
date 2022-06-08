@@ -1,0 +1,1 @@
+{'company_name': '北京上德时代自动化工程有限公司', 'job_name': 'Java开发工程师', 'geography': '北京', 'bonus': ['绩效奖金', '年终奖金', '五险双休', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128294041.html?rc=03'}

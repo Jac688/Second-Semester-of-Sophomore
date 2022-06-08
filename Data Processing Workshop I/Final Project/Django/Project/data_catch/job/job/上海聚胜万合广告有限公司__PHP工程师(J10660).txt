@@ -1,0 +1,1 @@
+{'company_name': '上海聚胜万合广告有限公司', 'job_name': 'PHP工程师(J10660)', 'geography': '上海-普陀区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127267455.html?rc=03'}

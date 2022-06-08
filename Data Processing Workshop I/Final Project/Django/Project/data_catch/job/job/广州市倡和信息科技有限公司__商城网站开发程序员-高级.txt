@@ -1,0 +1,1 @@
+{'company_name': '广州市倡和信息科技有限公司', 'job_name': '商城网站开发程序员-高级', 'geography': '广州-天河区', 'bonus': ['交通补贴', '节日福利', '专业培训', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130490015.html?rc=03'}

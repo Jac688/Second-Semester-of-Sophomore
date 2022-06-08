@@ -1,0 +1,1 @@
+{'company_name': '四川富元通商业管理有限公司', 'job_name': 'QT界面开发工程师', 'geography': '成都-成华区', 'bonus': ['弹性工作', '专业培训', '社保', '团建'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127495581.html?rc=03'}

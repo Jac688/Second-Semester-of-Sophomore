@@ -1,0 +1,1 @@
+{'company_name': '大连华钦软件技术有限公司', 'job_name': 'Web前端开发工程师', 'geography': '北京-朝阳区', 'bonus': ['专业培训', '年终奖金', '定期体检', '弹性1小时'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130271890.html?rc=03'}

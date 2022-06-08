@@ -1,0 +1,1 @@
+{'company_name': '上海国泉科技有限公司', 'job_name': '国网项目-高级Java开发工程师', 'geography': '福州-鼓楼区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/131498300.html?rc=03'}

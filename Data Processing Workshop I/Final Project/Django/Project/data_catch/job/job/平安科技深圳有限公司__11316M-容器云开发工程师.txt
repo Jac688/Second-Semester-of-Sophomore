@@ -1,0 +1,1 @@
+{'company_name': '平安科技深圳有限公司', 'job_name': '11316M-容器云开发工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '节日福利', '定期体检', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/121421214.html?rc=03'}

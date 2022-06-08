@@ -1,0 +1,1 @@
+{'company_name': '上海美佳达计算机工程有限责任公司', 'job_name': '资深CC++开发工程师-CN', 'geography': '上海-静安区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/66997002.html?rc=03'}

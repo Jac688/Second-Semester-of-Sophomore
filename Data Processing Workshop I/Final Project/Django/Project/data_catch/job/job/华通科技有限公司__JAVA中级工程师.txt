@@ -1,0 +1,1 @@
+{'company_name': '华通科技有限公司', 'job_name': 'JAVA中级工程师', 'geography': '北京-石景山区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127542528.html?rc=03'}

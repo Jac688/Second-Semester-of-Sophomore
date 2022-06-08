@@ -1,0 +1,1 @@
+{'company_name': '上海神开石油化工装备股份有限公司', 'job_name': '数据分析员', 'geography': '上海-闵行区', 'bonus': ['绩效奖金', '年终奖金', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130982722.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京商联达科技有限公司', 'job_name': '软件测试工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122672613.html?rc=03'}

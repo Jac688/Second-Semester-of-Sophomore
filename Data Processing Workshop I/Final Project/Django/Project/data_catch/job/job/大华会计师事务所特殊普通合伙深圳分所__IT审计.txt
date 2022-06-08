@@ -1,0 +1,1 @@
+{'company_name': '大华会计师事务所特殊普通合伙深圳分所', 'job_name': 'IT审计', 'geography': '深圳', 'bonus': ['带薪年假', '节日福利', '交通补贴', '通讯补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131900642.html?rc=03'}

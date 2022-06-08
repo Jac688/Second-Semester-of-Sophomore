@@ -1,0 +1,1 @@
+{'company_name': '上海云辰信息科技有限公司', 'job_name': '高级测试工程师', 'geography': '成都-高新区', 'bonus': ['餐饮补贴', '绩效奖金', '带薪年假', '五险一金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130478867.html?rc=03'}

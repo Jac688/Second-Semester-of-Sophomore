@@ -1,0 +1,1 @@
+{'company_name': '上海格林福德国际货物运输代理有限公司', 'job_name': '.NET开发经理', 'geography': '广州-越秀区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130233942.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'RENOGY如果新能源', 'job_name': 'MCU软件工程师', 'geography': '苏州-姑苏区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/127515762.html?rc=03'}

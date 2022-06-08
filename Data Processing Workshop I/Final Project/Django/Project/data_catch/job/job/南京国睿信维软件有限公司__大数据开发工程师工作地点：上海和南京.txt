@@ -1,0 +1,1 @@
+{'company_name': '南京国睿信维软件有限公司', 'job_name': '大数据开发工程师工作地点：上海和南京', 'geography': '南京-鼓楼区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/118641607.html?rc=03'}

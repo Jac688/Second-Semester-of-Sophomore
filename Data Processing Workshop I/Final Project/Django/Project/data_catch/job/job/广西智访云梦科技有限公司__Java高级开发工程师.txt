@@ -1,0 +1,1 @@
+{'company_name': '广西智访云梦科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '南宁-青秀区', 'bonus': ['五险', '双休', '节假日福利', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanning/123278926.html?rc=03'}

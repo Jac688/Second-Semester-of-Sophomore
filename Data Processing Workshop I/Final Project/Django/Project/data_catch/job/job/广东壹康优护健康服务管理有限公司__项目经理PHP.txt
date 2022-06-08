@@ -1,0 +1,1 @@
+{'company_name': '广东壹康优护健康服务管理有限公司', 'job_name': '项目经理PHP', 'geography': '清远-清城区', 'bonus': ['社保', '年底双薪', '年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/qingyuan/131964292.html?rc=03'}

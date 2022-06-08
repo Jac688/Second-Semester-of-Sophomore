@@ -1,0 +1,1 @@
+{'company_name': '恒生电子股份有限公司', 'job_name': 'RPA工具链高级工程师-平台', 'geography': '杭州-滨江区', 'bonus': ['补充医疗保险', '交通补贴', '餐饮补贴', '年终奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129858298.html?rc=03'}

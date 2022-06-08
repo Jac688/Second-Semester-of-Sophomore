@@ -1,0 +1,1 @@
+{'company_name': '北京豪仪测控工程有限公司', 'job_name': '系统运维技术支持', 'geography': '北京-昌平区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127864133.html?rc=03'}

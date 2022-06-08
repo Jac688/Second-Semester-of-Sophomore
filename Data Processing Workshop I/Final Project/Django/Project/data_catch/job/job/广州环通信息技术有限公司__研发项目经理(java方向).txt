@@ -1,0 +1,1 @@
+{'company_name': '广州环通信息技术有限公司', 'job_name': '研发项目经理(java方向)', 'geography': '广州-南沙区', 'bonus': ['五险', '年底双薪', '专业培训', '年终奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/90063629.html?rc=03'}

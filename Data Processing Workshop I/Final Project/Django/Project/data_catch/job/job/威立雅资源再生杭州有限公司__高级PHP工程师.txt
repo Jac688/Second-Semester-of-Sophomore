@@ -1,0 +1,1 @@
+{'company_name': '威立雅资源再生杭州有限公司', 'job_name': '高级PHP工程师', 'geography': '杭州-桐庐县', 'bonus': ['五险一金', '带薪年假', '节日福利', '高温补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128196762.html?rc=03'}

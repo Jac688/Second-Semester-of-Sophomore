@@ -1,0 +1,1 @@
+{'company_name': '广东麦科瑞地理信息工程有限公司', 'job_name': 'Web前端开发工程师', 'geography': '惠州-惠城区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/131786241.html?rc=03'}

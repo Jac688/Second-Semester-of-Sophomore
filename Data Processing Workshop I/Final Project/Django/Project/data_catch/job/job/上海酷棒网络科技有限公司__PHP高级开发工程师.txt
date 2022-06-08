@@ -1,0 +1,1 @@
+{'company_name': '上海酷棒网络科技有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '定期体检', '交通便利', '提升空间大'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125520467.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海宇高通讯设备有限公司', 'job_name': 'Java中级开发工程师', 'geography': '成都-高新区', 'bonus': ['带薪年假', '五险一金', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/123283288.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '成都主导科技有限责任公司', 'job_name': 'C++软件工程师初级', 'geography': '成都-青羊区', 'bonus': ['五险一金', '员工旅游', '免费班车', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/119840132.html?rc=03'}

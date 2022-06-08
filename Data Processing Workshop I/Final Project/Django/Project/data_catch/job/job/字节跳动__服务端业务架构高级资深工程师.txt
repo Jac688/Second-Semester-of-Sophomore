@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '服务端业务架构高级资深工程师', 'geography': '深圳', 'bonus': ['六险一金', '弹性工作', '免费三餐', '租房补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/115656907.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海北林电子技术有限公司', 'job_name': 'Linux系统工程师', 'geography': '淮安-清江浦区', 'bonus': ['五险一金', '餐饮补贴', '员工旅游', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huaian/128621449.html?rc=03'}

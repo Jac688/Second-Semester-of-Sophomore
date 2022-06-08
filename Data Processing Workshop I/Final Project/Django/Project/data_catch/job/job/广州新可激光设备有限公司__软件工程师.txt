@@ -1,0 +1,1 @@
+{'company_name': '广州新可激光设备有限公司', 'job_name': '软件工程师', 'geography': '广州', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/115362470.html?rc=03'}

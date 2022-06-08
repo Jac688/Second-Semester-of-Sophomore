@@ -1,0 +1,1 @@
+{'company_name': '南京芸皓智能建筑科技有限公司', 'job_name': '视觉算法深度学习算法工程师', 'geography': '镇江-句容市', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/zhenjiang/129118872.html?rc=03'}

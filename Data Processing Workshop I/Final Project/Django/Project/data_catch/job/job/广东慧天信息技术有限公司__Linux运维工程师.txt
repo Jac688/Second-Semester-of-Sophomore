@@ -1,0 +1,1 @@
+{'company_name': '广东慧天信息技术有限公司', 'job_name': 'Linux运维工程师', 'geography': '梅州', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/meizhou/117341377.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京陌陌信息技术有限公司成都分公司', 'job_name': '测试工程师系统方向', 'geography': '成都-高新区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130569370.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京金匙基因科技有限公司', 'job_name': '生信大数据挖掘工程师北京', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127289251.html?rc=03'}

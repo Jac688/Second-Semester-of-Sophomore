@@ -1,0 +1,1 @@
+{'company_name': '卡巴青少儿科技活动中心', 'job_name': '计算机老师徐州地区', 'geography': '徐州', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/125015220.html?rc=03'}

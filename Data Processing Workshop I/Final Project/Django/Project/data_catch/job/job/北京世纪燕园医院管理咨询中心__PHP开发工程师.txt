@@ -1,0 +1,1 @@
+{'company_name': '北京世纪燕园医院管理咨询中心', 'job_name': 'PHP开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129977372.html?rc=03'}

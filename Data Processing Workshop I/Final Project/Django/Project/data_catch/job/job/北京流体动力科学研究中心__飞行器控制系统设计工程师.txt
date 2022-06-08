@@ -1,0 +1,1 @@
+{'company_name': '北京流体动力科学研究中心', 'job_name': '飞行器控制系统设计工程师', 'geography': '北京', 'bonus': [], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128842036.html?rc=03'}

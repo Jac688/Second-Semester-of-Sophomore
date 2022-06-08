@@ -1,0 +1,1 @@
+{'company_name': '上海博为峰信息技术有限公司', 'job_name': '.NET开发工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131906729.html?rc=03'}

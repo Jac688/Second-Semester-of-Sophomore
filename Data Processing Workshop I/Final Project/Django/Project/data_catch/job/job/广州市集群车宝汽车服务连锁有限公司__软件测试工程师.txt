@@ -1,0 +1,1 @@
+{'company_name': '广州市集群车宝汽车服务连锁有限公司', 'job_name': '软件测试工程师', 'geography': '广州-海珠区', 'bonus': ['五险', '包住宿'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122149551.html?rc=03'}

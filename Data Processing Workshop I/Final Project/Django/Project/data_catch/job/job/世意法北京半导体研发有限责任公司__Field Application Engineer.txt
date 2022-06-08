@@ -1,0 +1,1 @@
+{'company_name': '世意法北京半导体研发有限责任公司', 'job_name': 'Field Application Engineer', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '年终奖金'], 'salary': 2.75, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130830177.html?rc=03'}

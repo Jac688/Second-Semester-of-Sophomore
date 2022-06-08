@@ -1,0 +1,1 @@
+{'company_name': '博世中国投资有限公司', 'job_name': '软件开发工程师 (电动工具)', 'geography': '杭州', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130581738.html?rc=03'}

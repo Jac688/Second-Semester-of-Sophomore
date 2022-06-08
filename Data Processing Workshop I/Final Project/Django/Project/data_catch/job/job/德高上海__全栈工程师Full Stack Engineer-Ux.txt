@@ -1,0 +1,1 @@
+{'company_name': '德高上海', 'job_name': '全栈工程师Full Stack Engineer-Ux', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127966654.html?rc=03'}

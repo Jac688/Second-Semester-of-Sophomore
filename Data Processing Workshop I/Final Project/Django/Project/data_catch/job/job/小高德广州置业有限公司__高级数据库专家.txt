@@ -1,0 +1,1 @@
+{'company_name': '小高德广州置业有限公司', 'job_name': '高级数据库专家', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130210159.html?rc=03'}

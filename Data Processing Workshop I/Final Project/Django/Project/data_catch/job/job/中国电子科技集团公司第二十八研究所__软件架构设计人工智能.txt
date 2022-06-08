@@ -1,0 +1,1 @@
+{'company_name': '中国电子科技集团公司第二十八研究所', 'job_name': '软件架构设计人工智能', 'geography': '南京-秦淮区', 'bonus': ['补充公积金', '补充医疗保险', '五险一金', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/97984437.html?rc=03'}

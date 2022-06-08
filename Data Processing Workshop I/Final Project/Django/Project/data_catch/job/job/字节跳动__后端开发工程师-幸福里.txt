@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后端开发工程师-幸福里', 'geography': '上海', 'bonus': ['下午茶', '团队氛围好', '晋升空间大', '扁平管理'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129454613.html?rc=03'}

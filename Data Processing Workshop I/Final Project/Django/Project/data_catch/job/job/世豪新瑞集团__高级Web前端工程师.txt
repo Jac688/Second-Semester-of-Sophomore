@@ -1,0 +1,1 @@
+{'company_name': '世豪新瑞集团', 'job_name': '高级Web前端工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127192175.html?rc=03'}

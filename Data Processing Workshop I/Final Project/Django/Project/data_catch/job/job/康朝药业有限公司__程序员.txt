@@ -1,0 +1,1 @@
+{'company_name': '康朝药业有限公司', 'job_name': '程序员', 'geography': '广州', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130501679.html?rc=03'}

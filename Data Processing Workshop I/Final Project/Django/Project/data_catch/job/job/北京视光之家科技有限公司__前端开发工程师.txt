@@ -1,0 +1,1 @@
+{'company_name': '北京视光之家科技有限公司', 'job_name': '前端开发工程师', 'geography': '杭州-余杭区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/124056861.html?rc=03'}

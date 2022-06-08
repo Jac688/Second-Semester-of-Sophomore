@@ -1,0 +1,1 @@
+{'company_name': 'UL中国', 'job_name': '安全工程师- 网络方向', 'geography': '广州', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129794572.html?rc=03'}

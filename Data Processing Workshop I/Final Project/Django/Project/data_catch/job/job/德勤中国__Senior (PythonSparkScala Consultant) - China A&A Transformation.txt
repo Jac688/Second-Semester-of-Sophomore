@@ -1,0 +1,1 @@
+{'company_name': '德勤中国', 'job_name': 'Senior (PythonSparkScala Consultant) - China A&A Transformation', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121905282.html?rc=03'}

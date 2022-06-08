@@ -1,0 +1,1 @@
+{'company_name': '京信智能科技广州有限公司', 'job_name': 'Python高级开发工程师', 'geography': '广州-黄埔区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131055439.html?rc=03'}

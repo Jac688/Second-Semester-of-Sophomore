@@ -1,0 +1,1 @@
+{'company_name': '上海仙途智能科技有限公司', 'job_name': '后端开发实习生', 'geography': '上海-闵行区', 'bonus': ['节日福利', '免费体检', '弹性工作', '免费下午茶'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127309732.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '唯智信息技术上海股份有限公司', 'job_name': 'Java中级开发工程师1', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '专业培训', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131253779.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国电信集团号百信息服务有限公司', 'job_name': '基准岗位平台开发', 'geography': '上海-虹口区', 'bonus': ['弹性工作', '职业前景'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124304719.html?rc=03'}

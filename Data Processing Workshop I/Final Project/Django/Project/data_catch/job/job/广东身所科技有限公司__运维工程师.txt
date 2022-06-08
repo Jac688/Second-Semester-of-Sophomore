@@ -1,0 +1,1 @@
+{'company_name': '广东身所科技有限公司', 'job_name': '运维工程师', 'geography': '广州-海珠区', 'bonus': ['弹性工作', '节日福利', '专业培训', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130726977.html?rc=03'}

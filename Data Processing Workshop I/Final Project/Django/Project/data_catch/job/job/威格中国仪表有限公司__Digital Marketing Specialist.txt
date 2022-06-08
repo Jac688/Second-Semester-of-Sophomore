@@ -1,0 +1,1 @@
+{'company_name': '威格中国仪表有限公司', 'job_name': 'Digital Marketing Specialist', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '出国机会'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128186450.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海卓宇信息技术有限公司', 'job_name': '嵌入式网关开发工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/129578299.html?rc=03'}

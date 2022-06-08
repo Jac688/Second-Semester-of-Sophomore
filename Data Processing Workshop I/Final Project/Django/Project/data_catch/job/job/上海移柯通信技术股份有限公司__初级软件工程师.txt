@@ -1,0 +1,1 @@
+{'company_name': '上海移柯通信技术股份有限公司', 'job_name': '初级软件工程师', 'geography': '成都-青羊区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/102574391.html?rc=03'}

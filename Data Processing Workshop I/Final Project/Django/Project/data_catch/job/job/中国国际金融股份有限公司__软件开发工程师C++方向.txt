@@ -1,0 +1,1 @@
+{'company_name': '中国国际金融股份有限公司', 'job_name': '软件开发工程师C++方向', 'geography': '北京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132285816.html?rc=03'}

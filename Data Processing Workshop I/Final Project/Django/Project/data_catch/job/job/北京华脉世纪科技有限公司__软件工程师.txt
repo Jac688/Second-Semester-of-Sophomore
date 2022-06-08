@@ -1,0 +1,1 @@
+{'company_name': '北京华脉世纪科技有限公司', 'job_name': '软件工程师', 'geography': '北京', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130521069.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京百尔马智能技术有限公司', 'job_name': 'CC++工程师', 'geography': '南京-溧水区', 'bonus': ['五险一金', '弹性工作', '带薪年假', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127879141.html?rc=03'}

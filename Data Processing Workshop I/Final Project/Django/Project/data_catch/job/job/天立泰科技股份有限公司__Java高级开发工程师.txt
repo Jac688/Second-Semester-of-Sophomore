@@ -1,0 +1,1 @@
+{'company_name': '天立泰科技股份有限公司', 'job_name': 'Java高级开发工程师', 'geography': '合肥', 'bonus': ['五险一金', '专业培训', '绩效奖金', '餐饮补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/hefei/124600721.html?rc=03'}

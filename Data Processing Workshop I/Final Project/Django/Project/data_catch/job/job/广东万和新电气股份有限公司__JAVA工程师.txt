@@ -1,0 +1,1 @@
+{'company_name': '广东万和新电气股份有限公司', 'job_name': 'JAVA工程师', 'geography': '佛山-顺德区', 'bonus': ['购买保险', '提供住宿', '年终奖金', '节日福利'], 'salary': 1.33, 'detail_url': 'https://msearch.51job.com/jobs/foshan/128750611.html?rc=03'}

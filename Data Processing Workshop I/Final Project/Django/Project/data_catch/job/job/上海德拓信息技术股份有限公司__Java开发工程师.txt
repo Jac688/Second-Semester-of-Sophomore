@@ -1,0 +1,1 @@
+{'company_name': '上海德拓信息技术股份有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128791737.html?rc=03'}

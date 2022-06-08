@@ -1,0 +1,1 @@
+{'company_name': '三象游戏广州有限公司', 'job_name': 'Cocos2d-x开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '年终奖金', '下午茶', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124326350.html?rc=03'}

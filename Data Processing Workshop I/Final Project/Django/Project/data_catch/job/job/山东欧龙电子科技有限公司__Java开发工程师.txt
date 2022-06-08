@@ -1,0 +1,1 @@
+{'company_name': '山东欧龙电子科技有限公司', 'job_name': 'Java开发工程师', 'geography': '潍坊-高新技术开发区', 'bonus': ['五险一金', '年终奖金', '专业培训', '意外险'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/weifang/132216180.html?rc=03'}

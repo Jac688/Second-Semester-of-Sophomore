@@ -1,0 +1,1 @@
+{'company_name': '广州恒泰汽车传动科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '广州-白云区', 'bonus': ['年终奖金', '绩效奖金', '全勤奖', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127103421.html?rc=03'}

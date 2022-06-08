@@ -1,0 +1,1 @@
+{'company_name': '合芯科技有限公司', 'job_name': '软件开发工程师中间件、数据库方向', 'geography': '苏州', 'bonus': [], 'salary': 20.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128188706.html?rc=03'}

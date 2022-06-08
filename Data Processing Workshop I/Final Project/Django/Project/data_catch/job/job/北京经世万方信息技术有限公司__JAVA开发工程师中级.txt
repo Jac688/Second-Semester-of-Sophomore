@@ -1,0 +1,1 @@
+{'company_name': '北京经世万方信息技术有限公司', 'job_name': 'JAVA开发工程师中级', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '定期体检', '交通补贴', '餐饮补贴'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121226715.html?rc=03'}

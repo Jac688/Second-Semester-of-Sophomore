@@ -1,0 +1,1 @@
+{'company_name': '南京诺派激光技术有限公司', 'job_name': '嵌入式软件工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '周末双休', '股票期权', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/72951868.html?rc=03'}

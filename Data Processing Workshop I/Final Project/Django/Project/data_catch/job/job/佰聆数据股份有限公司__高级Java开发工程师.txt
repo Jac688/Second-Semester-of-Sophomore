@@ -1,0 +1,1 @@
+{'company_name': '佰聆数据股份有限公司', 'job_name': '高级Java开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '通讯补贴', '年终奖金', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/123651222.html?rc=03'}

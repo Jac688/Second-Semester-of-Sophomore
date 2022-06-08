@@ -1,0 +1,1 @@
+{'company_name': '上海复旦数字医疗科技股份有限公司', 'job_name': '软件开发工程师', 'geography': '上海-徐汇区', 'bonus': ['年终奖金', '员工旅游', '餐饮补贴', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131507126.html?rc=03'}

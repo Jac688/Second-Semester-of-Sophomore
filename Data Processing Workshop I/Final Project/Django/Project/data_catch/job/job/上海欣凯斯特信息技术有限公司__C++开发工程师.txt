@@ -1,0 +1,1 @@
+{'company_name': '上海欣凯斯特信息技术有限公司', 'job_name': 'C++开发工程师', 'geography': '杭州-江干区', 'bonus': ['五险一金', '免费班车', '定期体检', '免费工作餐'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128071839.html?rc=03'}

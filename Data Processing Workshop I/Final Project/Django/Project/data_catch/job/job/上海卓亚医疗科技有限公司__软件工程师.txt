@@ -1,0 +1,1 @@
+{'company_name': '上海卓亚医疗科技有限公司', 'job_name': '软件工程师', 'geography': '上海-松江区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131818940.html?rc=03'}

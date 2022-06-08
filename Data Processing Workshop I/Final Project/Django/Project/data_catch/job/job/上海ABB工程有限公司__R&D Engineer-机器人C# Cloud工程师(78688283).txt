@@ -1,0 +1,1 @@
+{'company_name': '上海ABB工程有限公司', 'job_name': 'R&D Engineer-机器人C# Cloud工程师(78688283)', 'geography': '上海', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131789679.html?rc=03'}

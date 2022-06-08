@@ -1,0 +1,1 @@
+{'company_name': '奥特斯中国有限公司', 'job_name': 'DataReport ProgrammerC#开发', 'geography': '上海', 'bonus': ['五险一金', '免费班车', '年终奖金', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132151107.html?rc=03'}

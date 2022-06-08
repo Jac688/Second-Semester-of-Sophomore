@@ -1,0 +1,1 @@
+{'company_name': '上海英众信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-松江区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127805127.html?rc=03'}

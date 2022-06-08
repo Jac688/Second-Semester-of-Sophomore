@@ -1,0 +1,1 @@
+{'company_name': '广东用心网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '佛山-顺德区', 'bonus': ['顺德社保', '国内外旅游', '内部晋升制度', '大小周'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/119430160.html?rc=03'}

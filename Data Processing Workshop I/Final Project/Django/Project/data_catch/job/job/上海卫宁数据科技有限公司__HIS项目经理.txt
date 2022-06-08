@@ -1,0 +1,1 @@
+{'company_name': '上海卫宁数据科技有限公司', 'job_name': 'HIS项目经理', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/haikou/121721110.html?rc=03'}

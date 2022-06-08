@@ -1,0 +1,1 @@
+{'company_name': '丹东茂森企业管理有限公司', 'job_name': 'Java工程师-初中高级', 'geography': '杭州-拱墅区', 'bonus': ['七险一金', '周末双休', '13薪', '加班补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130648520.html?rc=03'}

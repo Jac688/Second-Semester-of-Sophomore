@@ -1,0 +1,1 @@
+{'company_name': '合肥市商巨智能装备有限公司', 'job_name': '算法工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '年终奖金', '餐饮补贴', '双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/114026310.html?rc=03'}

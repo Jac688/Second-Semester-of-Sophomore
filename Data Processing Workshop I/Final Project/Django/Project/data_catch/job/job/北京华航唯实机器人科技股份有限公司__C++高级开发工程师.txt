@@ -1,0 +1,1 @@
+{'company_name': '北京华航唯实机器人科技股份有限公司', 'job_name': 'C++高级开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '专业培训', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125162859.html?rc=03'}

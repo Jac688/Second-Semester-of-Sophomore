@@ -1,0 +1,1 @@
+{'company_name': '中冶赛迪重庆信息技术有限公司', 'job_name': '软件技术及平台研发岗杭州', 'geography': '杭州', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129420138.html?rc=03'}

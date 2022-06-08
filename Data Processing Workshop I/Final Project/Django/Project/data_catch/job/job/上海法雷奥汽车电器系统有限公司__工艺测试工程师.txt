@@ -1,0 +1,1 @@
+{'company_name': '上海法雷奥汽车电器系统有限公司', 'job_name': '工艺测试工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '定期体检', '绩效奖金', '年终奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124625330.html?rc=03'}

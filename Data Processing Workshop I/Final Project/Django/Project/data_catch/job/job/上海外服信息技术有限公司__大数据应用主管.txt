@@ -1,0 +1,1 @@
+{'company_name': '上海外服信息技术有限公司', 'job_name': '大数据应用主管', 'geography': '上海', 'bonus': ['专业培训', '定期体检', '节假日礼物', '五险一金'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126385600.html?rc=03'}

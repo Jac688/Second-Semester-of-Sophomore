@@ -1,0 +1,1 @@
+{'company_name': '广东德诚科教有限公司', 'job_name': 'PHP中级开发工程师', 'geography': '广州', 'bonus': ['拟上市公司', '互联网教育', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/110411768.html?rc=03'}

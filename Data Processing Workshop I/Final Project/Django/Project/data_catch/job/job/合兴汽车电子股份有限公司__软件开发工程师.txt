@@ -1,0 +1,1 @@
+{'company_name': '合兴汽车电子股份有限公司', 'job_name': '软件开发工程师', 'geography': '温州', 'bonus': ['五险一金', '节日福利', '加班费', '福利食堂'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wenzhou/121517913.html?rc=03'}

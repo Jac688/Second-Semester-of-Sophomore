@@ -1,0 +1,1 @@
+{'company_name': '奔讯电子科技北京有限公司', 'job_name': 'Python开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '出国机会', '员工旅游', '补充医疗保险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128913552.html?rc=03'}

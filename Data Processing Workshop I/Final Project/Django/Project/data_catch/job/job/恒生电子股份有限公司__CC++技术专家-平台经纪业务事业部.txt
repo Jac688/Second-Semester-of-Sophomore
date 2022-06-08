@@ -1,0 +1,1 @@
+{'company_name': '恒生电子股份有限公司', 'job_name': 'CC++技术专家-平台经纪业务事业部', 'geography': '杭州-滨江区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127740655.html?rc=03'}

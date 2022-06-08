@@ -1,0 +1,1 @@
+{'company_name': '广州新亦源供应链管理有限公司', 'job_name': 'java高级开发工程师', 'geography': '广州-黄埔区', 'bonus': ['高温补贴', '专业培训', '节日福利', '长白班'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128277702.html?rc=03'}

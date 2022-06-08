@@ -1,0 +1,1 @@
+{'company_name': '上海牵翼网络科技有限公司', 'job_name': 'Java高级工程师', 'geography': '上海-徐汇区', 'bonus': ['做五休二', '带薪年假', '五险一金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/112302491.html?rc=03'}

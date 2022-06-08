@@ -1,0 +1,1 @@
+{'company_name': '慧择网', 'job_name': '中高级java开发工程师-成都 (MJ000709)', 'geography': '成都-高新区', 'bonus': ['员工旅游', '专业培训', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130703314.html?rc=03'}

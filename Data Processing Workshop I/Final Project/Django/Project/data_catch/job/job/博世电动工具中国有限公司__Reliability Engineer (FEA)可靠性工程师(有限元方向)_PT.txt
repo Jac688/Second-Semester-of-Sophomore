@@ -1,0 +1,1 @@
+{'company_name': '博世电动工具中国有限公司', 'job_name': 'Reliability Engineer (FEA)可靠性工程师(有限元方向)_PT', 'geography': '杭州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131461204.html?rc=03'}

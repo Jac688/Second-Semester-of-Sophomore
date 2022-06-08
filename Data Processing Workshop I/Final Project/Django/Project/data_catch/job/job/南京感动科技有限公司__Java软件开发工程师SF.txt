@@ -1,0 +1,1 @@
+{'company_name': '南京感动科技有限公司', 'job_name': 'Java软件开发工程师SF', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '通讯补贴', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130163109.html?rc=03'}

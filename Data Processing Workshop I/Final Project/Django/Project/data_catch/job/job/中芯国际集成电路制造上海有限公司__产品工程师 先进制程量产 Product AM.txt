@@ -1,0 +1,1 @@
+{'company_name': '中芯国际集成电路制造上海有限公司', 'job_name': '产品工程师 先进制程量产 Product AM', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/109946014.html?rc=03'}

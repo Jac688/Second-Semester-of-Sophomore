@@ -1,0 +1,1 @@
+{'company_name': '德迈科电气有限公司', 'job_name': '软件MCU开发工程师', 'geography': '昆山', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/129063000.html?rc=03'}

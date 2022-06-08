@@ -1,0 +1,1 @@
+{'company_name': '中移物联网有限公司', 'job_name': '嵌入式高级开发工程师(物联网操作系统方向)', 'geography': '成都-高新区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124395153.html?rc=03'}

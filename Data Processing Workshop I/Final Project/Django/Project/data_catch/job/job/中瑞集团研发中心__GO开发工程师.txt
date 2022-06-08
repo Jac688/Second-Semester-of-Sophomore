@@ -1,0 +1,1 @@
+{'company_name': '中瑞集团研发中心', 'job_name': 'GO开发工程师', 'geography': '青岛-李沧区', 'bonus': ['五险一金', '股票期权', '餐饮补贴', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/126075898.html?rc=03'}

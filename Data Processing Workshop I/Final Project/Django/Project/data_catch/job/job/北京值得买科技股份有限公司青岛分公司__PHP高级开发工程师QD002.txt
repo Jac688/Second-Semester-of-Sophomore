@@ -1,0 +1,1 @@
+{'company_name': '北京值得买科技股份有限公司青岛分公司', 'job_name': 'PHP高级开发工程师QD002', 'geography': '青岛-市北区', 'bonus': ['六险一金', '周末双休', '弹性工作', '年终奖金'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/105411707.html?rc=03'}

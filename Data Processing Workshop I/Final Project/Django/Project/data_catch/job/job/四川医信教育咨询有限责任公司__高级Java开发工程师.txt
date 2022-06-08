@@ -1,0 +1,1 @@
+{'company_name': '四川医信教育咨询有限责任公司', 'job_name': '高级Java开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '股票期权'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/117575793.html?rc=03'}

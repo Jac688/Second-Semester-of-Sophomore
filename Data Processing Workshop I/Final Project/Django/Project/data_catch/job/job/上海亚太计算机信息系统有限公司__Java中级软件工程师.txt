@@ -1,0 +1,1 @@
+{'company_name': '上海亚太计算机信息系统有限公司', 'job_name': 'Java中级软件工程师', 'geography': '北京', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131122144.html?rc=03'}

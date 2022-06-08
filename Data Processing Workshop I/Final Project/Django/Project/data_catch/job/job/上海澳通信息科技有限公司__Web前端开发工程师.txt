@@ -1,0 +1,1 @@
+{'company_name': '上海澳通信息科技有限公司', 'job_name': 'Web前端开发工程师', 'geography': '上海-嘉定区', 'bonus': ['带薪年假', '弹性工作', '五险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/113868934.html?rc=03'}

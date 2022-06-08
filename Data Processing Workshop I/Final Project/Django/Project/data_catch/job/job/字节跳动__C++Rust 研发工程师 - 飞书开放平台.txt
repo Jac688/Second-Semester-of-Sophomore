@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': 'C++Rust 研发工程师 - 飞书开放平台', 'geography': '杭州', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '股票期权'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/126934220.html?rc=03'}

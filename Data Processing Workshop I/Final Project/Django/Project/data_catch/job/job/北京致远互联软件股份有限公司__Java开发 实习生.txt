@@ -1,0 +1,1 @@
+{'company_name': '北京致远互联软件股份有限公司', 'job_name': 'Java开发 实习生', 'geography': '成都', 'bonus': [], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130660845.html?rc=03'}

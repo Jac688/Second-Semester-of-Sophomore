@@ -1,0 +1,1 @@
+{'company_name': '广州迅响信息科技有限公司', 'job_name': '售前PHP工程师销售性质', 'geography': '广州-天河区', 'bonus': ['周末双休', '带薪年假', '绩效奖金', '节日福利'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122723997.html?rc=03'}

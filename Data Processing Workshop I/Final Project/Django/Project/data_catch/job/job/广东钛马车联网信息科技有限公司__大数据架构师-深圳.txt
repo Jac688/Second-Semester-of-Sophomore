@@ -1,0 +1,1 @@
+{'company_name': '广东钛马车联网信息科技有限公司', 'job_name': '大数据架构师-深圳', 'geography': '深圳-龙岗区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124500692.html?rc=03'}

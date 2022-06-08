@@ -1,0 +1,1 @@
+{'company_name': '南京新奕天科技有限公司', 'job_name': 'CC++程序员', 'geography': '南京', 'bonus': ['弹性工作', '员工旅游', '年终奖金', '五险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/71009272.html?rc=03'}

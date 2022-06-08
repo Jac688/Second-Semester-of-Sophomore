@@ -1,0 +1,1 @@
+{'company_name': '大连协泰科技有限公司', 'job_name': 'Java开发', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129173320.html?rc=03'}

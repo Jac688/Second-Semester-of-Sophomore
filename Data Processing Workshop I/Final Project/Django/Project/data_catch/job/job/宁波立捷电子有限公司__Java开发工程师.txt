@@ -1,0 +1,1 @@
+{'company_name': '宁波立捷电子有限公司', 'job_name': 'Java开发工程师', 'geography': '宁波-高新区', 'bonus': ['带薪年假', '绩效奖金', '节日福利', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125766945.html?rc=03'}

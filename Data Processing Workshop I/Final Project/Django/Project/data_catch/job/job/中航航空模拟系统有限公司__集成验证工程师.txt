@@ -1,0 +1,1 @@
+{'company_name': '中航航空模拟系统有限公司', 'job_name': '集成验证工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128444792.html?rc=03'}

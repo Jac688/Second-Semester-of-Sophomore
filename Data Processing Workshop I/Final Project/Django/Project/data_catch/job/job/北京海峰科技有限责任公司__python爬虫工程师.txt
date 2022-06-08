@@ -1,0 +1,1 @@
+{'company_name': '北京海峰科技有限责任公司', 'job_name': 'python爬虫工程师', 'geography': '北京-西城区', 'bonus': ['五险一金', '员工旅游', '专业培训', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131655256.html?rc=03'}

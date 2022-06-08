@@ -1,0 +1,1 @@
+{'company_name': '四川康吉笙科技有限公司', 'job_name': 'ARM工程师', 'geography': '成都-双流区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '年终奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132332029.html?rc=03'}

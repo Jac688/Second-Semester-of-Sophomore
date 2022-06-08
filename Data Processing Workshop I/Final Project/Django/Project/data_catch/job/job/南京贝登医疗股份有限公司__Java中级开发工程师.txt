@@ -1,0 +1,1 @@
+{'company_name': '南京贝登医疗股份有限公司', 'job_name': 'Java中级开发工程师', 'geography': '南京', 'bonus': ['五险一金', '绩效奖金', '全勤奖', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131663085.html?rc=03'}

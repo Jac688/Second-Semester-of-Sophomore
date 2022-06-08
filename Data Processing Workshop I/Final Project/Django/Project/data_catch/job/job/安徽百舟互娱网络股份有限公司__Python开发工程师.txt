@@ -1,0 +1,1 @@
+{'company_name': '安徽百舟互娱网络股份有限公司', 'job_name': 'Python开发工程师', 'geography': '铜陵', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tongling/126026012.html?rc=03'}

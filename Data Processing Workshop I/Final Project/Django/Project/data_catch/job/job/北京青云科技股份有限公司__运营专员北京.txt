@@ -1,0 +1,1 @@
+{'company_name': '北京青云科技股份有限公司', 'job_name': '运营专员北京', 'geography': '北京', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129667689.html?rc=03'}

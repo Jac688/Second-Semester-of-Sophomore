@@ -1,0 +1,1 @@
+{'company_name': '山东五征集团有限公司', 'job_name': 'Java开发工程师数字化项目', 'geography': '日照', 'bonus': ['五险一金', '扁平管理', '发展空间大', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/rizhao/125915555.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州优路加信息科技有限公司', 'job_name': '前端开发工程师研发二部', 'geography': '广州', 'bonus': ['六险一金', '员工旅游', '餐饮补贴', '交通补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131521117.html?rc=03'}

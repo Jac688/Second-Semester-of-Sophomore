@@ -1,0 +1,1 @@
+{'company_name': '南京格元电力自动化设备有限公司', 'job_name': '软件工程师', 'geography': '南京-建邺区', 'bonus': ['周末双休', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130330216.html?rc=03'}

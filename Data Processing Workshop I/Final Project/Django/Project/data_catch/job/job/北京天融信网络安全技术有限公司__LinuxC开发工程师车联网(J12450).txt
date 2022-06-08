@@ -1,0 +1,1 @@
+{'company_name': '北京天融信网络安全技术有限公司', 'job_name': 'LinuxC开发工程师车联网(J12450)', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131188751.html?rc=03'}

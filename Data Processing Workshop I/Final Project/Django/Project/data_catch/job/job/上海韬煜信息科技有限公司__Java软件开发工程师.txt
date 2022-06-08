@@ -1,0 +1,1 @@
+{'company_name': '上海韬煜信息科技有限公司', 'job_name': 'Java软件开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '弹性工作', '补充医疗保险', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131815956.html?rc=03'}

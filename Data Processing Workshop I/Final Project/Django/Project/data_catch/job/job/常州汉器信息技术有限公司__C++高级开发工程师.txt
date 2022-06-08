@@ -1,0 +1,1 @@
+{'company_name': '常州汉器信息技术有限公司', 'job_name': 'C++高级开发工程师', 'geography': '常州', 'bonus': ['五险一金', '专业培训', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/125536904.html?rc=03'}

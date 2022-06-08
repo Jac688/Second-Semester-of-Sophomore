@@ -1,0 +1,1 @@
+{'company_name': '亚龙智能装备集团股份有限公司', 'job_name': '研发工程师', 'geography': '温州', 'bonus': ['五险一金', '通讯补贴', '专业培训', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wenzhou/125548609.html?rc=03'}

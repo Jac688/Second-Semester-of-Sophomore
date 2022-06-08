@@ -1,0 +1,1 @@
+{'company_name': '天弘创新资产管理有限公司', 'job_name': '风险管理专员', 'geography': '北京-平谷区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129497650.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '算法工程师-飞书人力套件', 'geography': '成都', 'bonus': ['弹性工作', '带薪休假', '免费三餐', '大牛带队'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/106195565.html?rc=03'}

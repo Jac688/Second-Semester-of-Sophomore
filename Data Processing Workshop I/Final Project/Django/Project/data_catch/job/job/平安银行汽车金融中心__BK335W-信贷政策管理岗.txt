@@ -1,0 +1,1 @@
+{'company_name': '平安银行汽车金融中心', 'job_name': 'BK335W-信贷政策管理岗', 'geography': '深圳-福田区', 'bonus': ['五险一金', '带薪年假', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126177307.html?rc=03'}

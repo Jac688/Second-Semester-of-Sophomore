@@ -1,0 +1,1 @@
+{'company_name': '宁波钰诚企业管理咨询有限公司', 'job_name': '大数据架构师', 'geography': '异地招聘', 'bonus': ['包吃包住', '五险', '五险一金', '员工旅游'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127857172.html?rc=03'}

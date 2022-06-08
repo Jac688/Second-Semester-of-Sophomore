@@ -1,0 +1,1 @@
+{'company_name': '克丽缇娜中国贸易有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-长宁区', 'bonus': ['做五休二', '免费班车', '周末双休', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128601416.html?rc=03'}

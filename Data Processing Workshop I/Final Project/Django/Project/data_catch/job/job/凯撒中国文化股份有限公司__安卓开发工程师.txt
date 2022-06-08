@@ -1,0 +1,1 @@
+{'company_name': '凯撒中国文化股份有限公司', 'job_name': '安卓开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '交通补贴', '弹性工作', '带薪年假'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130520290.html?rc=03'}

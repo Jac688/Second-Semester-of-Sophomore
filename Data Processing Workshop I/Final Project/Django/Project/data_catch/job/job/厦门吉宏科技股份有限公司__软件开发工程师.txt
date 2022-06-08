@@ -1,0 +1,1 @@
+{'company_name': '厦门吉宏科技股份有限公司', 'job_name': '软件开发工程师', 'geography': '厦门', 'bonus': ['专业培训', '满勤奖', '带薪年假', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/127408908.html?rc=03'}

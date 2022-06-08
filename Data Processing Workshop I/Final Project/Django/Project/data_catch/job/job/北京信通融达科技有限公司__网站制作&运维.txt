@@ -1,0 +1,1 @@
+{'company_name': '北京信通融达科技有限公司', 'job_name': '网站制作&运维', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125918006.html?rc=03'}

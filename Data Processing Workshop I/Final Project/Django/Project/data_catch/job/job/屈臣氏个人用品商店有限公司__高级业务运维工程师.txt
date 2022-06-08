@@ -1,0 +1,1 @@
+{'company_name': '屈臣氏个人用品商店有限公司', 'job_name': '高级业务运维工程师', 'geography': '广州-越秀区', 'bonus': ['周末双休', '大平台', '牛人多', '氛围好'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130787178.html?rc=03'}

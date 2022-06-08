@@ -1,0 +1,1 @@
+{'company_name': '中国长城科技集团股份有限公司自主安全研发事业部', 'job_name': 'Linux开发工程师', 'geography': '深圳', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/120225512.html?rc=03'}

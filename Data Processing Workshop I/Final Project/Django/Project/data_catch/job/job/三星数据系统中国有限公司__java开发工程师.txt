@@ -1,0 +1,1 @@
+{'company_name': '三星数据系统中国有限公司', 'job_name': 'java开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/111099308.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海璨维科技有限公司', 'job_name': 'Tbox开发工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129571124.html?rc=03'}

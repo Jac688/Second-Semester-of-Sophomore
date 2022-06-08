@@ -1,0 +1,1 @@
+{'company_name': '常熟阿特斯阳光电力科技有限公司', 'job_name': '可靠性测试工程师', 'geography': '常熟', 'bonus': ['五险一金', '专业培训', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/changshu/129693589.html?rc=03'}

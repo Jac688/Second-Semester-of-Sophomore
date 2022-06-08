@@ -1,0 +1,1 @@
+{'company_name': '北京亿赛通科技发展有限责任公司', 'job_name': 'C++研发工程师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128076510.html?rc=03'}

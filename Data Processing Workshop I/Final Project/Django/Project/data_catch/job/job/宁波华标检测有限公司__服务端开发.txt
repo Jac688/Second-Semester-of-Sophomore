@@ -1,0 +1,1 @@
+{'company_name': '宁波华标检测有限公司', 'job_name': '服务端开发', 'geography': '宁波', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128135353.html?rc=03'}

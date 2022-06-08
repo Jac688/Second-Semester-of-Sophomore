@@ -1,0 +1,1 @@
+{'company_name': '上海丰草文化传播有限公司', 'job_name': 'Python高级开发工程师', 'geography': '上海-虹口区', 'bonus': ['做五休二', '周末双休', '五险一金', '高温补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131234459.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海九物科技有限公司', 'job_name': 'Java开发工程师全栈为佳', 'geography': '上海-闵行区', 'bonus': ['五险一金', '员工旅游', '股票期权', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129973907.html?rc=03'}

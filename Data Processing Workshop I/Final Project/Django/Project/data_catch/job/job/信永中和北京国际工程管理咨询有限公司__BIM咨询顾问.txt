@@ -1,0 +1,1 @@
+{'company_name': '信永中和北京国际工程管理咨询有限公司', 'job_name': 'BIM咨询顾问', 'geography': '北京-东城区', 'bonus': ['周末双休', '带薪年假', '五险一金', '试用期全额'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/122563582.html?rc=03'}

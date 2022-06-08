@@ -1,0 +1,1 @@
+{'company_name': '广东星蓝区块链技术有限公司', 'job_name': 'JAVA中级开发工程师', 'geography': '广州-黄埔区', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127540439.html?rc=03'}

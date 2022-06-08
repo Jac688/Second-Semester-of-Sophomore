@@ -1,0 +1,1 @@
+{'company_name': '北京国商逸品文化传媒有限公司', 'job_name': '软件测试工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/126898272.html?rc=03'}

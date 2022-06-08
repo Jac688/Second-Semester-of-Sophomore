@@ -1,0 +1,1 @@
+{'company_name': '中国科学院上海天文台', 'job_name': 'VLBI中心数据处理操作员', 'geography': '上海-松江区', 'bonus': ['五险一金', '补充公积金', '定期体检', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130633136.html?rc=03'}

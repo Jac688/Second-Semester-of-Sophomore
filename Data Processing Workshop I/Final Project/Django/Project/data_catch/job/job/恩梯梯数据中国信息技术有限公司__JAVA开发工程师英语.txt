@@ -1,0 +1,1 @@
+{'company_name': '恩梯梯数据中国信息技术有限公司', 'job_name': 'JAVA开发工程师英语', 'geography': '无锡-无锡新区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '补充医疗保险'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/128509649.html?rc=03'}

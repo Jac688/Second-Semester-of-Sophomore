@@ -1,0 +1,1 @@
+{'company_name': '上海银雁科技服务有限公司', 'job_name': 'C++高级开发工程师 (J000526)', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '专业培训', '节假日福利', '做五休二'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129637732.html?rc=03'}

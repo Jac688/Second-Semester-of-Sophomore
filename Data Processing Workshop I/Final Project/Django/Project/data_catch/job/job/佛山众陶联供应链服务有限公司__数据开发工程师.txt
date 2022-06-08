@@ -1,0 +1,1 @@
+{'company_name': '佛山众陶联供应链服务有限公司', 'job_name': '数据开发工程师', 'geography': '佛山', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129632073.html?rc=03'}

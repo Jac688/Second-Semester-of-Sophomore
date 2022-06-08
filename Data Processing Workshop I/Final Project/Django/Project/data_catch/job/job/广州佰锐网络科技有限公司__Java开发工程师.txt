@@ -1,0 +1,1 @@
+{'company_name': '广州佰锐网络科技有限公司', 'job_name': 'Java开发工程师', 'geography': '福建省', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/fujiansheng/127012242.html?rc=03'}

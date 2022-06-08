@@ -1,0 +1,1 @@
+{'company_name': '上汽依维柯红岩商用车有限公司', 'job_name': '数据中心副总监', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '定期体检'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129949825.html?rc=03'}

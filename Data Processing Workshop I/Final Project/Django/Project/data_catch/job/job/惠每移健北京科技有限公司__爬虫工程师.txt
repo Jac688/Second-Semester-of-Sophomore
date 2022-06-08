@@ -1,0 +1,1 @@
+{'company_name': '惠每移健北京科技有限公司', 'job_name': '爬虫工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '通讯补贴', '弹性工作', '补充公积金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128723377.html?rc=03'}

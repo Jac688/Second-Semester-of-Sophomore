@@ -1,0 +1,1 @@
+{'company_name': '好大夫在线', 'job_name': '大数据开发工程师(J10764)', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 3.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129702767.html?rc=03'}

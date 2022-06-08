@@ -1,0 +1,1 @@
+{'company_name': '四川蓝海智能装备制造有限公司', 'job_name': 'Java初级工程师', 'geography': '成都-武侯区', 'bonus': ['社保', '带薪年假', '定期体检', '节日福利'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128338054.html?rc=03'}

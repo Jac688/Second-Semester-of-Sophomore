@@ -1,0 +1,1 @@
+{'company_name': '天鸽互动控股有限公司', 'job_name': 'C++开发工程师', 'geography': '杭州-拱墅区', 'bonus': ['五险一金', '员工旅游', '专业培训', '餐饮补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129763325.html?rc=03'}

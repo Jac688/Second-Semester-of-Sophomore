@@ -1,0 +1,1 @@
+{'company_name': '广州源典科技有限公司', 'job_name': 'C++高级工程师五险一金 双休年假 年终奖', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '周末双休', '节假日福利', '员工活动'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/116316500.html?rc=03'}

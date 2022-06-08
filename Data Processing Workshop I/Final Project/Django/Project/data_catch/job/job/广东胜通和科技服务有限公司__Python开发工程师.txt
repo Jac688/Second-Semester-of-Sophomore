@@ -1,0 +1,1 @@
+{'company_name': '广东胜通和科技服务有限公司', 'job_name': 'Python开发工程师', 'geography': '上海-静安区', 'bonus': ['绩效奖金', '年终奖金', '专业培训', '六险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131785171.html?rc=03'}

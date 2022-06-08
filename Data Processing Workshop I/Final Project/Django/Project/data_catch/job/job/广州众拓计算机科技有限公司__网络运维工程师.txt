@@ -1,0 +1,1 @@
+{'company_name': '广州众拓计算机科技有限公司', 'job_name': '网络运维工程师', 'geography': '广州-番禺区', 'bonus': ['五险一金', '员工旅游', '周末双休', '定期体检'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131052753.html?rc=03'}

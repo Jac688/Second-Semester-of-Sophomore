@@ -1,0 +1,1 @@
+{'company_name': '上海外服四川人力资源服务有限公司', 'job_name': 'IT专员五粮液新零售', 'geography': '成都-高新区', 'bonus': ['五险一金', '周末双休'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126702619.html?rc=03'}

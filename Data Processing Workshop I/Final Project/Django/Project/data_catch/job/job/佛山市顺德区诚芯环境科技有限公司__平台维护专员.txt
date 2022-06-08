@@ -1,0 +1,1 @@
+{'company_name': '佛山市顺德区诚芯环境科技有限公司', 'job_name': '平台维护专员', 'geography': '佛山-顺德区', 'bonus': ['带薪年假', '全勤奖', '节日福利', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129486799.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京中科川思特软件科技有限公司', 'job_name': '软件技术支持工程师', 'geography': '南京-栖霞区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128084014.html?rc=03'}

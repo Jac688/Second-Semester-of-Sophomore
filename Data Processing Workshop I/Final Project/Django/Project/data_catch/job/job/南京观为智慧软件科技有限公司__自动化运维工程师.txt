@@ -1,0 +1,1 @@
+{'company_name': '南京观为智慧软件科技有限公司', 'job_name': '自动化运维工程师', 'geography': '南京', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130971267.html?rc=03'}

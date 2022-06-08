@@ -1,0 +1,1 @@
+{'company_name': '北京中星微电子有限公司', 'job_name': 'Java高级开发工程师', 'geography': '南京-浦口区', 'bonus': ['餐饮补贴', '通讯补贴', '专业培训', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/126209092.html?rc=03'}

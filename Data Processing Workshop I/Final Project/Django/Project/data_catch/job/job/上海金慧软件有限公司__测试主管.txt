@@ -1,0 +1,1 @@
+{'company_name': '上海金慧软件有限公司', 'job_name': '测试主管', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130568612.html?rc=03'}

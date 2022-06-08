@@ -1,0 +1,1 @@
+{'company_name': '广州瀚信信息咨询服务有限公司', 'job_name': '金融数据研究员双休+专业培训', 'geography': '广州-天河区', 'bonus': ['员工旅游', '出国机会', '专业培训', '年终奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132180575.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天津顶立集团有限公司', 'job_name': '数据运营', 'geography': '天津-滨海新区', 'bonus': ['五险一金', '绩效奖金', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128237611.html?rc=03'}

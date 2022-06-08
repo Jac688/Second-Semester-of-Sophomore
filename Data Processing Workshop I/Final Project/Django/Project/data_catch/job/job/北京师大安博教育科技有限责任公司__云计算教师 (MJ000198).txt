@@ -1,0 +1,1 @@
+{'company_name': '北京师大安博教育科技有限责任公司', 'job_name': '云计算教师 (MJ000198)', 'geography': '重庆-渝中区', 'bonus': ['五险一金', '带薪年假', '节日福利', '双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/132211679.html?rc=03'}

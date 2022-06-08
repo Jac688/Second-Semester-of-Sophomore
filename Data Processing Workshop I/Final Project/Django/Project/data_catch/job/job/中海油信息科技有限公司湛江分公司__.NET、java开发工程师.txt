@@ -1,0 +1,1 @@
+{'company_name': '中海油信息科技有限公司湛江分公司', 'job_name': '.NET、java开发工程师', 'geography': '海口-秀英区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/haikou/126564616.html?rc=03'}

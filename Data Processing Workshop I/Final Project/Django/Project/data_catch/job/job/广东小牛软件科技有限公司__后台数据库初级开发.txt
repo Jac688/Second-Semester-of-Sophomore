@@ -1,0 +1,1 @@
+{'company_name': '广东小牛软件科技有限公司', 'job_name': '后台数据库初级开发', 'geography': '东莞-莞城区', 'bonus': [], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/125779093.html?rc=03'}

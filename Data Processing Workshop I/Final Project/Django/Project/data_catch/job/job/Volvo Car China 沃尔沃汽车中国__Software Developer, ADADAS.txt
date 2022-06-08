@@ -1,0 +1,1 @@
+{'company_name': 'Volvo Car China 沃尔沃汽车中国', 'job_name': 'Software Developer, ADADAS', 'geography': '上海-嘉定区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128336758.html?rc=03'}

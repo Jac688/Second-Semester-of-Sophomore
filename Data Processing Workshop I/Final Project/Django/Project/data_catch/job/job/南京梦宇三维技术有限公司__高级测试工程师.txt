@@ -1,0 +1,1 @@
+{'company_name': '南京梦宇三维技术有限公司', 'job_name': '高级测试工程师', 'geography': '南京-雨花台区', 'bonus': ['周末双休', '五险一金', '带薪年假', '弹性工作'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129437043.html?rc=03'}

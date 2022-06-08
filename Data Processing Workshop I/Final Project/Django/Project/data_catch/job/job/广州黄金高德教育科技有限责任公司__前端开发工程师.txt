@@ -1,0 +1,1 @@
+{'company_name': '广州黄金高德教育科技有限责任公司', 'job_name': '前端开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124257540.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州编辅侠教育科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-白云区', 'bonus': ['带薪年假', '五险一金', '全勤奖', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131499498.html?rc=03'}

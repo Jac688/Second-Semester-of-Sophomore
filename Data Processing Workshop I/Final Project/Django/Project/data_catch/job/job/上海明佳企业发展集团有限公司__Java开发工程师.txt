@@ -1,0 +1,1 @@
+{'company_name': '上海明佳企业发展集团有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-虹口区', 'bonus': ['高温补贴', '专业培训', '周末双休', '节日福利'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128028344.html?rc=03'}

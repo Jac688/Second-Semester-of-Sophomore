@@ -1,0 +1,1 @@
+{'company_name': '上海海高通信股份有限公司', 'job_name': 'CC++开发工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '定期体检', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120833732.html?rc=03'}

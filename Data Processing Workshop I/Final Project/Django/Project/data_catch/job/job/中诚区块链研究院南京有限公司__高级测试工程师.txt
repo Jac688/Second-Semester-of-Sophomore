@@ -1,0 +1,1 @@
+{'company_name': '中诚区块链研究院南京有限公司', 'job_name': '高级测试工程师', 'geography': '南京-建邺区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131424131.html?rc=03'}

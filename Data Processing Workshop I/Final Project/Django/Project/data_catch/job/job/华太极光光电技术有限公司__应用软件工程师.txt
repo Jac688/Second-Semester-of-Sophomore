@@ -1,0 +1,1 @@
+{'company_name': '华太极光光电技术有限公司', 'job_name': '应用软件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '补充公积金', '通讯补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/131427830.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '三斧科技北京有限公司', 'job_name': '上位机软件开发工程师 ZF', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129479797.html?rc=03'}

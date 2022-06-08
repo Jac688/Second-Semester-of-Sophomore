@@ -1,0 +1,1 @@
+{'company_name': '北京海天起点技术服务股份有限公司', 'job_name': '系统集成工程师', 'geography': '北京', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132167985.html?rc=03'}

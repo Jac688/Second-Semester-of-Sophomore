@@ -1,0 +1,1 @@
+{'company_name': '华润微电子重庆有限公司', 'job_name': 'EAP工程师', 'geography': '重庆-沙坪坝区', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/121231947.html?rc=03'}

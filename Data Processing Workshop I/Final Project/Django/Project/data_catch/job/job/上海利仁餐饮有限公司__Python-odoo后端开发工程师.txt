@@ -1,0 +1,1 @@
+{'company_name': '上海利仁餐饮有限公司', 'job_name': 'Python-odoo后端开发工程师', 'geography': '上海-松江区', 'bonus': ['包三餐', '包住宿', '五险一金', '包吃'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131471638.html?rc=03'}

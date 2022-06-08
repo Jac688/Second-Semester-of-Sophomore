@@ -1,0 +1,1 @@
+{'company_name': '中国电信集团号百信息服务有限公司', 'job_name': '后段开发 java 人工智能方向智能连接部-外包', 'geography': '上海', 'bonus': [], 'salary': 2.99, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129103108.html?rc=03'}

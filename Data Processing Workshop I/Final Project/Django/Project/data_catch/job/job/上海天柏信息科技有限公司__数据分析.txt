@@ -1,0 +1,1 @@
+{'company_name': '上海天柏信息科技有限公司', 'job_name': '数据分析', 'geography': '南京-鼓楼区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/123993809.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '卓佳咨询北京有限公司上海分公司', 'job_name': '高级软件开发工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '周末双休', '节日福利', '补充医疗保险'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130862022.html?rc=03'}

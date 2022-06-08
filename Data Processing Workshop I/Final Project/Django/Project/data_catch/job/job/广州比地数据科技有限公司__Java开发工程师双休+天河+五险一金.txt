@@ -1,0 +1,1 @@
+{'company_name': '广州比地数据科技有限公司', 'job_name': 'Java开发工程师双休+天河+五险一金', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/120889716.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'Veeva Systems Inc', 'job_name': '测试工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128345776.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海芯旺微电子技术有限公司', 'job_name': '嵌入式软件开发工程师', 'geography': '上海', 'bonus': ['五险一金', '定期体检', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/55530581.html?rc=03'}

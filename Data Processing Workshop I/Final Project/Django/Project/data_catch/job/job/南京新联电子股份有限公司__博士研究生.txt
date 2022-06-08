@@ -1,0 +1,1 @@
+{'company_name': '南京新联电子股份有限公司', 'job_name': '博士研究生', 'geography': '南京', 'bonus': ['年终奖金', '定期体检', '五险一金', '免费班车'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130051989.html?rc=03'}

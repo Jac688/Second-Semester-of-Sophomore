@@ -1,0 +1,1 @@
+{'company_name': '合盛硅业股份有限公司', 'job_name': '软件开发工程师', 'geography': '嘉兴-平湖市', 'bonus': ['餐饮补贴', '带薪年假', '五险一金', '包住宿'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/132092871.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中森云链成都科技有限责任公司', 'job_name': 'Java后端开发工程师', 'geography': '成都-高新区', 'bonus': ['待遇优厚', '发展前景好', '绩效奖金', '团队氛围好'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130663987.html?rc=03'}

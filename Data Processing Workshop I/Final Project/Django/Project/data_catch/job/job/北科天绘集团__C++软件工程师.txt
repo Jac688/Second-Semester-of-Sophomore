@@ -1,0 +1,1 @@
+{'company_name': '北科天绘集团', 'job_name': 'C++软件工程师', 'geography': '合肥-包河区', 'bonus': ['五险一金', '交通补贴', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hefei/121226163.html?rc=03'}

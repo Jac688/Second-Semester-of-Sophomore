@@ -1,0 +1,1 @@
+{'company_name': '宁波市海曙区童程童美软件科技有限公司', 'job_name': '上市教育编程老师', 'geography': '宁波-海曙区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/122195965.html?rc=03'}

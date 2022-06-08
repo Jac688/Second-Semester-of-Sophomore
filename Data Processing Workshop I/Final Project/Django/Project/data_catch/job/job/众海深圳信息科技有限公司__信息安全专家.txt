@@ -1,0 +1,1 @@
+{'company_name': '众海深圳信息科技有限公司', 'job_name': '信息安全专家', 'geography': '深圳-南山区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '员工旅游'], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131107338.html?rc=03'}

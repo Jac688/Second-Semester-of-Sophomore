@@ -1,0 +1,1 @@
+{'company_name': '四川捷祥医疗器械有限公司', 'job_name': '嵌入式工程师', 'geography': '成都-郫都区', 'bonus': ['做五休二', '周末双休', '五险一金', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127001170.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '卓品智能科技无锡有限公司', 'job_name': 'PHP工程师', 'geography': '异地招聘', 'bonus': ['带薪年假', '五险一金', '商业保险', '定期体检'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/jiangsusheng/130365343.html?rc=03'}

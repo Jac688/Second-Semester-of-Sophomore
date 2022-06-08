@@ -1,0 +1,1 @@
+{'company_name': '南京鼎傲科技有限公司', 'job_name': 'JAVA 开发工程师', 'geography': '南京-雨花台区', 'bonus': ['绩效奖金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/123830651.html?rc=03'}

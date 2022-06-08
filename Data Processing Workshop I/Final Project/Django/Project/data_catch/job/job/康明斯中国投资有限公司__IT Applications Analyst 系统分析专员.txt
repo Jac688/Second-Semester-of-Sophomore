@@ -1,0 +1,1 @@
+{'company_name': '康明斯中国投资有限公司', 'job_name': 'IT Applications Analyst 系统分析专员', 'geography': '上海', 'bonus': ['五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129460226.html?rc=03'}

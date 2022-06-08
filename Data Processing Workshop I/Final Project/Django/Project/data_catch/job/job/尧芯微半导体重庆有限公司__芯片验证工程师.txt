@@ -1,0 +1,1 @@
+{'company_name': '尧芯微半导体重庆有限公司', 'job_name': '芯片验证工程师', 'geography': '异地招聘', 'bonus': ['员工旅游', '专业培训', '定期体检', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/sichuansheng/128115085.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '创业慧康科技股份有限公司', 'job_name': '中级Java开发工程师数字病房', 'geography': '杭州-滨江区', 'bonus': ['专业培训', '定期体检', '六险一金', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128116113.html?rc=03'}

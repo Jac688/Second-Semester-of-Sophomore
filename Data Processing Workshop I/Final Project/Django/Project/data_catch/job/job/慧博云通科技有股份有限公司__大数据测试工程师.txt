@@ -1,0 +1,1 @@
+{'company_name': '慧博云通科技有股份有限公司', 'job_name': '大数据测试工程师', 'geography': '异地招聘', 'bonus': ['弹性工作', '六险一金', '周末双休', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130986958.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京朗博特动物药业有限公司', 'job_name': '电商运营', 'geography': '南京-浦口区', 'bonus': ['五险一金', '绩效奖金', '带薪年假', '节日福利'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128297412.html?rc=03'}

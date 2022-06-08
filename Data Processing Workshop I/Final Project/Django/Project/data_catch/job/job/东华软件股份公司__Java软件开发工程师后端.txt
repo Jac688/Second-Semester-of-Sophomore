@@ -1,0 +1,1 @@
+{'company_name': '东华软件股份公司', 'job_name': 'Java软件开发工程师后端', 'geography': '菏泽', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '通讯补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/heze/130644086.html?rc=03'}

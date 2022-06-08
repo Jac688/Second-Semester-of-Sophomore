@@ -1,0 +1,1 @@
+{'company_name': '中国科学院云计算中心', 'job_name': 'Java开发工程师-前端万云', 'geography': '东莞-松山湖区', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/129209551.html?rc=03'}

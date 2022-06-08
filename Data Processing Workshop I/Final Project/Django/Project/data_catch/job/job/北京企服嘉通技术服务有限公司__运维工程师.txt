@@ -1,0 +1,1 @@
+{'company_name': '北京企服嘉通技术服务有限公司', 'job_name': '运维工程师', 'geography': '杭州-江干区', 'bonus': ['五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130487401.html?rc=03'}

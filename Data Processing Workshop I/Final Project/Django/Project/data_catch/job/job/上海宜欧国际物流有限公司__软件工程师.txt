@@ -1,0 +1,1 @@
+{'company_name': '上海宜欧国际物流有限公司', 'job_name': '软件工程师', 'geography': '上海', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126913315.html?rc=03'}

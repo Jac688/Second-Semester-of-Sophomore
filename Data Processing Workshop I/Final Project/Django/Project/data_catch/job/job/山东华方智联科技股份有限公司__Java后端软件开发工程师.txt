@@ -1,0 +1,1 @@
+{'company_name': '山东华方智联科技股份有限公司', 'job_name': 'Java后端软件开发工程师', 'geography': '青岛-城阳区', 'bonus': ['弹性工作', '做五休二', '带薪年假', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/125289213.html?rc=03'}

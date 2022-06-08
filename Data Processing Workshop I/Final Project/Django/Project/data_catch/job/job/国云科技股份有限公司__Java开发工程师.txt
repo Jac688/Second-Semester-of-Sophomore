@@ -1,0 +1,1 @@
+{'company_name': '国云科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '东莞', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/121906060.html?rc=03'}

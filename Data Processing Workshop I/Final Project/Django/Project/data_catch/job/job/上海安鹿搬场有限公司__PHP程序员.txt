@@ -1,0 +1,1 @@
+{'company_name': '上海安鹿搬场有限公司', 'job_name': 'PHP程序员', 'geography': '合肥-政务区', 'bonus': ['社保', '生日惊喜', '带薪休假', '大小休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hefei/130168999.html?rc=03'}

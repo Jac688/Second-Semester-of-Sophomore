@@ -1,0 +1,1 @@
+{'company_name': '安联恒信天津信息技术有限公司', 'job_name': 'JAVA开发工程师', 'geography': '天津-南开区', 'bonus': ['五险一金', '交通补贴', '定期体检', '通讯补贴'], 'salary': 0.58, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128728242.html?rc=03'}

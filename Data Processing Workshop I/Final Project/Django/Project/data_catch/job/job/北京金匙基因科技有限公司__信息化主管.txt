@@ -1,0 +1,1 @@
+{'company_name': '北京金匙基因科技有限公司', 'job_name': '信息化主管', 'geography': '天津-武清区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129285830.html?rc=03'}

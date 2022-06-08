@@ -1,0 +1,1 @@
+{'company_name': '上海富由投资管理有限公司', 'job_name': 'python工程师', 'geography': '上海-宝山区', 'bonus': ['五险一金', '员工旅游', '出国机会', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126088175.html?rc=03'}

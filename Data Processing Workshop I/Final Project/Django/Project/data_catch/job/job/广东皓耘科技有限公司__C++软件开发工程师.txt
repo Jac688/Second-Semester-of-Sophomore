@@ -1,0 +1,1 @@
+{'company_name': '广东皓耘科技有限公司', 'job_name': 'C++软件开发工程师', 'geography': '佛山-顺德区', 'bonus': ['员工宿舍', '员工食堂', '五险一金', '补充医疗保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129988857.html?rc=03'}

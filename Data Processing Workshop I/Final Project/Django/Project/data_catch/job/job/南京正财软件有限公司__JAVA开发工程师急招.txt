@@ -1,0 +1,1 @@
+{'company_name': '南京正财软件有限公司', 'job_name': 'JAVA开发工程师急招', 'geography': '南京-鼓楼区', 'bonus': ['五险一金', '绩效奖金', '定期体检', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/79399405.html?rc=03'}

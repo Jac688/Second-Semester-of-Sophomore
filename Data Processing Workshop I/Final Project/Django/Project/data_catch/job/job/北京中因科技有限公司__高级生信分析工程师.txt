@@ -1,0 +1,1 @@
+{'company_name': '北京中因科技有限公司', 'job_name': '高级生信分析工程师', 'geography': '北京-昌平区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131602561.html?rc=03'}

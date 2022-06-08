@@ -1,0 +1,1 @@
+{'company_name': '北京卓越信通电子股份有限公司', 'job_name': '软件架构师', 'geography': '天津-西青区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/126177116.html?rc=03'}

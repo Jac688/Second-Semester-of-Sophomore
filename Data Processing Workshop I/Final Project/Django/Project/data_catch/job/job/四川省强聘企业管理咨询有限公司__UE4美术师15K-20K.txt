@@ -1,0 +1,1 @@
+{'company_name': '四川省强聘企业管理咨询有限公司', 'job_name': 'UE4美术师15K-20K', 'geography': '成都-高新区', 'bonus': ['专业培训', '节日福利', '带薪年假', '全勤奖'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131337425.html?rc=03'}

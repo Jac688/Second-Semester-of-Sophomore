@@ -1,0 +1,1 @@
+{'company_name': '广州瑞松威尔斯通智能装备有限公司', 'job_name': '电气设计工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '定期体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128587643.html?rc=03'}

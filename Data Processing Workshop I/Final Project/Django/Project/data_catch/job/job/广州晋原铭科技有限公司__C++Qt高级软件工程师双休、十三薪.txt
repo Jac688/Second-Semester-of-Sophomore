@@ -1,0 +1,1 @@
+{'company_name': '广州晋原铭科技有限公司', 'job_name': 'C++Qt高级软件工程师双休、十三薪', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131124553.html?rc=03'}

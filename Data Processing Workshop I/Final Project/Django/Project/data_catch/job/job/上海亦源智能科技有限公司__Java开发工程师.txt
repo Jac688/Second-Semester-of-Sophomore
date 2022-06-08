@@ -1,0 +1,1 @@
+{'company_name': '上海亦源智能科技有限公司', 'job_name': 'Java开发工程师', 'geography': '上海', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '全勤奖'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131977064.html?rc=03'}

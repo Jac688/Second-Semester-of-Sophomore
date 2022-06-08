@@ -1,0 +1,1 @@
+{'company_name': '同方股份计算机产业本部', 'job_name': '网络工程师', 'geography': '成都-双流区', 'bonus': ['五险一金', '五天双休'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/121367468.html?rc=03'}

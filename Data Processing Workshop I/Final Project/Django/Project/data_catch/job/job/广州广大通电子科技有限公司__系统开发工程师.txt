@@ -1,0 +1,1 @@
+{'company_name': '广州广大通电子科技有限公司', 'job_name': '系统开发工程师', 'geography': '广州-天河区', 'bonus': ['弹性工作', '定期体检', '员工旅游', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131200163.html?rc=03'}

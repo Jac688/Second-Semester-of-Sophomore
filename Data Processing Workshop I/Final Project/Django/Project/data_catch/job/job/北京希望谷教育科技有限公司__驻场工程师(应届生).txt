@@ -1,0 +1,1 @@
+{'company_name': '北京希望谷教育科技有限公司', 'job_name': '驻场工程师(应届生)', 'geography': '北京-海淀区', 'bonus': ['通讯补贴', '带薪年假', '餐饮补贴', '交通补助'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123026431.html?rc=03'}

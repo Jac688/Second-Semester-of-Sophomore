@@ -1,0 +1,1 @@
+{'company_name': '图灵机器人', 'job_name': '南通海安——软件工程师', 'geography': '南通', 'bonus': ['专业培训', '出国机会', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nantong/117143755.html?rc=03'}

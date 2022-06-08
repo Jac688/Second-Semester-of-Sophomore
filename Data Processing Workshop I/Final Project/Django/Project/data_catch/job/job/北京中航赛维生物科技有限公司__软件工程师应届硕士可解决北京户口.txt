@@ -1,0 +1,1 @@
+{'company_name': '北京中航赛维生物科技有限公司', 'job_name': '软件工程师应届硕士可解决北京户口', 'geography': '北京-大兴区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/113191618.html?rc=03'}

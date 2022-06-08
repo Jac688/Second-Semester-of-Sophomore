@@ -1,0 +1,1 @@
+{'company_name': '上海天昊生物科技有限公司', 'job_name': '生物信息部程序开发员——上海天昊生物', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/95593927.html?rc=03'}

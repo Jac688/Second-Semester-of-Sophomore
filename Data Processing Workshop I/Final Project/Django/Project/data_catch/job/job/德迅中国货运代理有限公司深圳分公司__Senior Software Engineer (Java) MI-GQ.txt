@@ -1,0 +1,1 @@
+{'company_name': '德迅中国货运代理有限公司深圳分公司', 'job_name': 'Senior Software Engineer (Java) MI-GQ', 'geography': '深圳', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131089228.html?rc=03'}

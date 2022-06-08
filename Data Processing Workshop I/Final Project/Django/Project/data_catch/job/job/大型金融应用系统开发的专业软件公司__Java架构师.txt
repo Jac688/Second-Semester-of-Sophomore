@@ -1,0 +1,1 @@
+{'company_name': '大型金融应用系统开发的专业软件公司', 'job_name': 'Java架构师', 'geography': '福州', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '绩效奖金'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/132308229.html?rc=03'}

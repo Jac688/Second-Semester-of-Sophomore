@@ -1,0 +1,1 @@
+{'company_name': '佛山市南海区广工大数控装备协同创新研究院', 'job_name': '嵌入式工程师', 'geography': '佛山', 'bonus': ['五险一金', '补充公积金', '员工旅游', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131731384.html?rc=03'}

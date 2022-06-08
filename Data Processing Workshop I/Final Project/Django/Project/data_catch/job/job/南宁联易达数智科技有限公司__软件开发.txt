@@ -1,0 +1,1 @@
+{'company_name': '南宁联易达数智科技有限公司', 'job_name': '软件开发', 'geography': '南宁-良庆区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '专业培训'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanning/122798112.html?rc=03'}

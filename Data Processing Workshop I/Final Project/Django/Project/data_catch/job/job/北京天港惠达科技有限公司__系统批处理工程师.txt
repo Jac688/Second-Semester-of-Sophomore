@@ -1,0 +1,1 @@
+{'company_name': '北京天港惠达科技有限公司', 'job_name': '系统批处理工程师', 'geography': '北京-顺义区', 'bonus': ['五险一金', '带薪年假', '周末双休', '补充医疗保险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127826446.html?rc=03'}

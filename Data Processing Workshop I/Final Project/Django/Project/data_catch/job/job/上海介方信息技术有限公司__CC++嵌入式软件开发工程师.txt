@@ -1,0 +1,1 @@
+{'company_name': '上海介方信息技术有限公司', 'job_name': 'CC++嵌入式软件开发工程师', 'geography': '郑州-金水区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/zhengzhou/130966090.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '威海印刷机械有限公司', 'job_name': '中高级java开发工程师', 'geography': '济南-高新区', 'bonus': ['五险一金', '周末双休', '带薪年假', '大牛带队'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/110007593.html?rc=03'}

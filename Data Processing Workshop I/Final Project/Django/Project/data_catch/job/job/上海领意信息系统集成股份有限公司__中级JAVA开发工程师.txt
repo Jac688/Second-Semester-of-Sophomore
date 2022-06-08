@@ -1,0 +1,1 @@
+{'company_name': '上海领意信息系统集成股份有限公司', 'job_name': '中级JAVA开发工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '弹性工作', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131668275.html?rc=03'}

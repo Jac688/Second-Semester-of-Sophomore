@@ -1,0 +1,1 @@
+{'company_name': '北京随闻科技有限公司', 'job_name': '软件测试工程师(北京)', 'geography': '北京-海淀区', 'bonus': ['五险一金', '节日福利', '团建活动', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126762846.html?rc=03'}

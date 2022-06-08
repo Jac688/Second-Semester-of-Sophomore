@@ -1,0 +1,1 @@
+{'company_name': '东莞市泰鹏电子科技有限公司', 'job_name': 'java 后端开发', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128877174.html?rc=03'}

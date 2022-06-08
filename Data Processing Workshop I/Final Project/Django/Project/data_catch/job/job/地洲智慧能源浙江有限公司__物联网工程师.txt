@@ -1,0 +1,1 @@
+{'company_name': '地洲智慧能源浙江有限公司', 'job_name': '物联网工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/118764904.html?rc=03'}

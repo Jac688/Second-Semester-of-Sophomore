@@ -1,0 +1,1 @@
+{'company_name': '中原证券股份有限公司', 'job_name': '测试管理', 'geography': '杭州-江干区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128086500.html?rc=03'}

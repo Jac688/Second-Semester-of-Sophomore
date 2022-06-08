@@ -1,0 +1,1 @@
+{'company_name': '上海奋杰企业营销管理有限公司', 'job_name': 'C++研发工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '通讯补贴', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124922068.html?rc=03'}

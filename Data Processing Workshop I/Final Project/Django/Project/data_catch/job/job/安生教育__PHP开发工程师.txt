@@ -1,0 +1,1 @@
+{'company_name': '安生教育', 'job_name': 'PHP开发工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121728697.html?rc=03'}

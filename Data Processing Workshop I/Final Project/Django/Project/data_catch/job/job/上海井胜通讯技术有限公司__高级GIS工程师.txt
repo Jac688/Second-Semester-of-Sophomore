@@ -1,0 +1,1 @@
+{'company_name': '上海井胜通讯技术有限公司', 'job_name': '高级GIS工程师', 'geography': '成都', 'bonus': ['五险一金', '带薪年假', '包住'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132040690.html?rc=03'}

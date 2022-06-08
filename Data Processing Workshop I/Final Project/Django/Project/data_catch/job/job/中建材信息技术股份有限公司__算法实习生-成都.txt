@@ -1,0 +1,1 @@
+{'company_name': '中建材信息技术股份有限公司', 'job_name': '算法实习生-成都', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '年终奖金'], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130981160.html?rc=03'}

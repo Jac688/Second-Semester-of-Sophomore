@@ -1,0 +1,1 @@
+{'company_name': '恩富软件中国有限公司', 'job_name': '高级Java软件工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125175243.html?rc=03'}

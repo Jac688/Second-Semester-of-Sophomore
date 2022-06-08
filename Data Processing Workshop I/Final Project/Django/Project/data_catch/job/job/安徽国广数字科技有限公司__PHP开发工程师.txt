@@ -1,0 +1,1 @@
+{'company_name': '安徽国广数字科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '合肥-包河区', 'bonus': ['五险一金', '员工旅游', '专业培训', '员工公寓'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hefei/127305286.html?rc=03'}

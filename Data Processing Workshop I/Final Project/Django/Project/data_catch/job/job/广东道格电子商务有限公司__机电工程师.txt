@@ -1,0 +1,1 @@
+{'company_name': '广东道格电子商务有限公司', 'job_name': '机电工程师', 'geography': '佛山', 'bonus': ['带薪年假', '全勤奖', '五险一金', '周末双休'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/foshan/124228808.html?rc=03'}

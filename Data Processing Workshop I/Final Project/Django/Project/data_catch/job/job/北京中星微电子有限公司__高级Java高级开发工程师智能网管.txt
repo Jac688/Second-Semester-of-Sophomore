@@ -1,0 +1,1 @@
+{'company_name': '北京中星微电子有限公司', 'job_name': '高级Java高级开发工程师智能网管', 'geography': '上海-浦东新区', 'bonus': ['餐饮补贴', '通讯补贴', '专业培训', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126209372.html?rc=03'}

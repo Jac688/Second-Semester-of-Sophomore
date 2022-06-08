@@ -1,0 +1,1 @@
+{'company_name': '北京中亦安图科技股份有限公司', 'job_name': '自动化实施shellpython', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/101374735.html?rc=03'}

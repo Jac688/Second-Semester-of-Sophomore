@@ -1,0 +1,1 @@
+{'company_name': '北京致远互联软件股份有限公司', 'job_name': 'Java高级开发工程师客开', 'geography': '成都-高新区', 'bonus': ['做五休二', '专业培训', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129849380.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '康赛妮集团有限公司', 'job_name': '高级java开发经理', 'geography': '宁波-江北区', 'bonus': ['弹性工作', '包住宿', '节日福利', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129858391.html?rc=03'}

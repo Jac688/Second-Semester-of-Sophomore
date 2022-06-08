@@ -1,0 +1,1 @@
+{'company_name': '南京航星视讯信息技术有限公司', 'job_name': 'JAVA高级软件工程师', 'geography': '南京', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130972102.html?rc=03'}

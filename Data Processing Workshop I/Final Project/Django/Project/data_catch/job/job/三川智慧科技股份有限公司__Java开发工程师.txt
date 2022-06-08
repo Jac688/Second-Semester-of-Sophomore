@@ -1,0 +1,1 @@
+{'company_name': '三川智慧科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '杭州-余杭区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '通讯补贴'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130526918.html?rc=03'}

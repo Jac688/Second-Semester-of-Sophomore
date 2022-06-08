@@ -1,0 +1,1 @@
+{'company_name': '常州慧控汽车新能源科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '常州-武进区', 'bonus': ['员工旅游', '餐饮补贴', '年终奖金', '五险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/103772782.html?rc=03'}

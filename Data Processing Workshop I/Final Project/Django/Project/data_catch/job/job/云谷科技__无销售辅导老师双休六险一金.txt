@@ -1,0 +1,1 @@
+{'company_name': '云谷科技', 'job_name': '无销售辅导老师双休六险一金', 'geography': '成都-青羊区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132035592.html?rc=03'}

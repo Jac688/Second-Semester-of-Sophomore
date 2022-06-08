@@ -1,0 +1,1 @@
+{'company_name': '东莞锐新科技有限公司', 'job_name': '001Golang开发工程师', 'geography': '东莞', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131128361.html?rc=03'}

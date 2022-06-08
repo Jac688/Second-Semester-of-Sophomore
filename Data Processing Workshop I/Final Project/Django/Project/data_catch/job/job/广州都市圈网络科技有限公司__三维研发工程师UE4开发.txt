@@ -1,0 +1,1 @@
+{'company_name': '广州都市圈网络科技有限公司', 'job_name': '三维研发工程师UE4开发', 'geography': '广州-番禺区', 'bonus': ['五险一金', '定期体检', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127897620.html?rc=03'}

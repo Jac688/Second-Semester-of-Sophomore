@@ -1,0 +1,1 @@
+{'company_name': '上海浩宜信息科技有限公司', 'job_name': '系统集成工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132072658.html?rc=03'}

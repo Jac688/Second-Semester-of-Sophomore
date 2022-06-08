@@ -1,0 +1,1 @@
+{'company_name': '成都云上微游科技有限公司', 'job_name': '高级Android逆向工程师', 'geography': '成都-高新区', 'bonus': ['带薪年假', '节日福利', '移动互联网', '团队氛围好'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125330439.html?rc=03'}

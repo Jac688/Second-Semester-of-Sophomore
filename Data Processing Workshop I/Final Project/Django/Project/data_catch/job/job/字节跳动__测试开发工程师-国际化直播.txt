@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '测试开发工程师-国际化直播', 'geography': '深圳', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132042401.html?rc=03'}

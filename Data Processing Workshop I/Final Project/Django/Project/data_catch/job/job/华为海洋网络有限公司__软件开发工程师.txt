@@ -1,0 +1,1 @@
+{'company_name': '华为海洋网络有限公司', 'job_name': '软件开发工程师', 'geography': '天津', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130681994.html?rc=03'}

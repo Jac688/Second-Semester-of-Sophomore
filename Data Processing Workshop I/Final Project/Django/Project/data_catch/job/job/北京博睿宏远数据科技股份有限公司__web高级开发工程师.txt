@@ -1,0 +1,1 @@
+{'company_name': '北京博睿宏远数据科技股份有限公司', 'job_name': 'web高级开发工程师', 'geography': '厦门-思明区', 'bonus': ['五险一金', '员工旅游', '弹性工作', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/131428371.html?rc=03'}

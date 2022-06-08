@@ -1,0 +1,1 @@
+{'company_name': '上海胜慧软件开发有限公司', 'job_name': 'Java中高级开发工程师', 'geography': '上海-杨浦区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128110635.html?rc=03'}

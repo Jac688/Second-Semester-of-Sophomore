@@ -1,0 +1,1 @@
+{'company_name': '上海思创电器设备有限公司', 'job_name': '软件开发工程师', 'geography': '上海-浦东新区', 'bonus': ['餐饮补贴', '五险一金', '交通补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117769566.html?rc=03'}

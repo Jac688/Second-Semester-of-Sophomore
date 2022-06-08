@@ -1,0 +1,1 @@
+{'company_name': '中钢集团马鞍山矿山研究总院股份有限公司', 'job_name': '项目研发部经理南京', 'geography': '南京-江宁区', 'bonus': ['五险一金', '交通补贴', '员工旅游', '年终奖金'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128421048.html?rc=03'}

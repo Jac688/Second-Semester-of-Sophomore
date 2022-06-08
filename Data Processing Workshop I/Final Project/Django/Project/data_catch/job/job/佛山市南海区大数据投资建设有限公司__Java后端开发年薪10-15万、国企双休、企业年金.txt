@@ -1,0 +1,1 @@
+{'company_name': '佛山市南海区大数据投资建设有限公司', 'job_name': 'Java后端开发年薪10-15万、国企双休、企业年金', 'geography': '佛山-南海区', 'bonus': ['定期体检', '五险一金', '带薪年假', '绩效奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/foshan/121703218.html?rc=03'}

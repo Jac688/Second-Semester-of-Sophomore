@@ -1,0 +1,1 @@
+{'company_name': '南京卓影智能科技有限公司', 'job_name': '.NET开发工程师', 'geography': '南京', 'bonus': ['弹性工作', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129203834.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'TCL通讯全球制造及全球运营管理中心(惠州)', 'job_name': '机器视觉图像处理工程师', 'geography': '惠州', 'bonus': ['五险一金', '绩效奖金', '股票期权'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/62937308.html?rc=03'}

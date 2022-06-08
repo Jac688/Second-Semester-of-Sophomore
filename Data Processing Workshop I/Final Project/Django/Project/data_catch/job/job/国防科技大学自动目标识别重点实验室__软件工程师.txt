@@ -1,0 +1,1 @@
+{'company_name': '国防科技大学自动目标识别重点实验室', 'job_name': '软件工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130730665.html?rc=03'}

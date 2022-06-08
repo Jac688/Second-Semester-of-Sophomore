@@ -1,0 +1,1 @@
+{'company_name': '大陆集团康迪泰克中国橡塑技术有限公司', 'job_name': 'Financial Analyst', 'geography': '常熟', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/changshu/130669852.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东众图互联网工程设计有限公司', 'job_name': 'C++开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131282682.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京乐可威信息技术有限公司', 'job_name': 'Python开发工程师', 'geography': '成都-成华区', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131171555.html?rc=03'}

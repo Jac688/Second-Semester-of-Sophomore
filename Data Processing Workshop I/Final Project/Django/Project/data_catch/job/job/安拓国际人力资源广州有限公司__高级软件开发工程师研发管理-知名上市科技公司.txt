@@ -1,0 +1,1 @@
+{'company_name': '安拓国际人力资源广州有限公司', 'job_name': '高级软件开发工程师研发管理-知名上市科技公司', 'geography': '苏州-姑苏区', 'bonus': ['年终奖金', '定期体检', '出国机会', '员工旅游'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130986028.html?rc=03'}

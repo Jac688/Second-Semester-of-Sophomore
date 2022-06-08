@@ -1,0 +1,1 @@
+{'company_name': '宁波美鹰家居集团有限公司', 'job_name': 'Java开发工程师', 'geography': '宁波-鄞州区', 'bonus': ['弹性工作', '带薪年假', '绩效奖金', '全勤奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/114866063.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京亚鸿世纪科技发展有限公司', 'job_name': 'Linux C 开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132288234.html?rc=03'}

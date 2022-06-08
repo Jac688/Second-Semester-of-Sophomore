@@ -1,0 +1,1 @@
+{'company_name': '中科三川北京科技有限公司', 'job_name': '电气设计工程师', 'geography': '北京-大兴区', 'bonus': ['通讯补贴', '专业培训', '年终奖金', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/122527216.html?rc=03'}

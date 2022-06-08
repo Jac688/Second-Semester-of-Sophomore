@@ -1,0 +1,1 @@
+{'company_name': '上海本原网络科技有限公司', 'job_name': 'Java工程师远程办公', 'geography': '异地招聘', 'bonus': ['弹性工作', '在家办公'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/125134374.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东蔚海移动发展有限公司', 'job_name': '市场策划市场推广市场专员 代招', 'geography': '广州', 'bonus': ['周末双休', '节日福利', '五险一金', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126221588.html?rc=03'}

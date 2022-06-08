@@ -1,0 +1,1 @@
+{'company_name': '北京唯信通信息技术有限公司', 'job_name': '网络安全实施人员', 'geography': '异地招聘', 'bonus': ['做五休二', '周末双休', '带薪年假', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126902448.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京安洲科技有限公司', 'job_name': '相机研发工程师偏电方向', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/117250855.html?rc=03'}

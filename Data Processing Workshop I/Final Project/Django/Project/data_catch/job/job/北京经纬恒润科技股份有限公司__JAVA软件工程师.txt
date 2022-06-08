@@ -1,0 +1,1 @@
+{'company_name': '北京经纬恒润科技股份有限公司', 'job_name': 'JAVA软件工程师', 'geography': '深圳-福田区', 'bonus': ['绩效奖金', '五险一金', '优秀员工奖', '通讯津贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128362555.html?rc=03'}

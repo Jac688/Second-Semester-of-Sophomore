@@ -1,0 +1,1 @@
+{'company_name': '展讯通信(上海)有限公司', 'job_name': 'Camera软件开发工程师南京', 'geography': '南京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/124378181.html?rc=03'}

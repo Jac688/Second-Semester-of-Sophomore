@@ -1,0 +1,1 @@
+{'company_name': '北京万方数据股份有限公司', 'job_name': 'Java中级软件工程师 (MJ000081)', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127446957.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天聚地合苏州数据股份有限公司', 'job_name': '区块链研发总监', 'geography': '苏州-工业园区', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128689797.html?rc=03'}

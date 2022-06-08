@@ -1,0 +1,1 @@
+{'company_name': '安徽卓威通信科技有限公司', 'job_name': 'JAVA开发工程师杭州', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/124296818.html?rc=03'}

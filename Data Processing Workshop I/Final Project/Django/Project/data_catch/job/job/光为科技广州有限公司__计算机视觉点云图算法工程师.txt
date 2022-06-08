@@ -1,0 +1,1 @@
+{'company_name': '光为科技广州有限公司', 'job_name': '计算机视觉点云图算法工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '绩效奖金', '下午茶点', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128133524.html?rc=03'}

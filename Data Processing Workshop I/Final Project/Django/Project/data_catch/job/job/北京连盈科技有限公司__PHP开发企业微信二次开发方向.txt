@@ -1,0 +1,1 @@
+{'company_name': '北京连盈科技有限公司', 'job_name': 'PHP开发企业微信二次开发方向', 'geography': '北京-海淀区', 'bonus': ['五险一金', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125220131.html?rc=03'}

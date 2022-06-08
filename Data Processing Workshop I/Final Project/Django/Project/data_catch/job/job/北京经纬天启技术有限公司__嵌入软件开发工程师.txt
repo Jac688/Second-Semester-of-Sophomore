@@ -1,0 +1,1 @@
+{'company_name': '北京经纬天启技术有限公司', 'job_name': '嵌入软件开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128856623.html?rc=03'}

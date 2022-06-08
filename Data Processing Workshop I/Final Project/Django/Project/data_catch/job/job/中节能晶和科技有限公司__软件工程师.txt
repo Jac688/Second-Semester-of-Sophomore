@@ -1,0 +1,1 @@
+{'company_name': '中节能晶和科技有限公司', 'job_name': '软件工程师', 'geography': '杭州-萧山区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129289854.html?rc=03'}

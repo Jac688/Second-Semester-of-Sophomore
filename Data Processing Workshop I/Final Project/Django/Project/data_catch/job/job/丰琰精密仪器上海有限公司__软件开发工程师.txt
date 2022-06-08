@@ -1,0 +1,1 @@
+{'company_name': '丰琰精密仪器上海有限公司', 'job_name': '软件开发工程师', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '包吃'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130600959.html?rc=03'}

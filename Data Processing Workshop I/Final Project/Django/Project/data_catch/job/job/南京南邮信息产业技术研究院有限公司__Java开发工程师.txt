@@ -1,0 +1,1 @@
+{'company_name': '南京南邮信息产业技术研究院有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-栖霞区', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '交通补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129329597.html?rc=03'}

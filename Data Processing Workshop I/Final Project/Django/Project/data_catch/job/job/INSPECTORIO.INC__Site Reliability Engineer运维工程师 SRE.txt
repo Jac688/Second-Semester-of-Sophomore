@@ -1,0 +1,1 @@
+{'company_name': 'INSPECTORIO.INC', 'job_name': 'Site Reliability Engineer运维工程师 SRE', 'geography': '杭州-滨江区', 'bonus': ['员工旅游', '专业培训', '出国机会', '带薪年假'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129506484.html?rc=03'}

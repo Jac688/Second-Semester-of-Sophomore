@@ -1,0 +1,1 @@
+{'company_name': '北京诺禾致源科技股份有限公司', 'job_name': '生物信息工程师RNA方向(J11190)', 'geography': '天津-武清区', 'bonus': ['五险一金', '绩效奖金', '定期体检', '专业培训'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130983777.html?rc=03'}

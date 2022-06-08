@@ -1,0 +1,1 @@
+{'company_name': '宇博信诚北京信息技术有限公司', 'job_name': '开发测试工程师', 'geography': '重庆', 'bonus': ['五险一金', '员工旅游', '定期体检', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/113770758.html?rc=03'}

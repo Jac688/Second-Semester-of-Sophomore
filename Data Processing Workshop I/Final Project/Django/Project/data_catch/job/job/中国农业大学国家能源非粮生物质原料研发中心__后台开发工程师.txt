@@ -1,0 +1,1 @@
+{'company_name': '中国农业大学国家能源非粮生物质原料研发中心', 'job_name': '后台开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129242852.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京市金蝶政务软件有限公司', 'job_name': 'Java技术架构师合并报表领域云ERP产品', 'geography': '深圳-南山区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128750406.html?rc=03'}

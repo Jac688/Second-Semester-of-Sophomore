@@ -1,0 +1,1 @@
+{'company_name': '常熟市童缘文化传播有限公司', 'job_name': '市场推广专员', 'geography': '常熟', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/changshu/128402745.html?rc=03'}

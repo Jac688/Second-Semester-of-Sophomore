@@ -1,0 +1,1 @@
+{'company_name': '北京科电航宇空间技术有限公司', 'job_name': 'Java开发工程师双流', 'geography': '成都-双流区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130248684.html?rc=03'}

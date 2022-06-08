@@ -1,0 +1,1 @@
+{'company_name': '上海顽岩资产管理有限公司', 'job_name': 'node服务端开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '出国机会', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128744114.html?rc=03'}

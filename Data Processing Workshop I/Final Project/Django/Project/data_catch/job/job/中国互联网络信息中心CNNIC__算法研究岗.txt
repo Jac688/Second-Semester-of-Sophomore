@@ -1,0 +1,1 @@
+{'company_name': '中国互联网络信息中心CNNIC', 'job_name': '算法研究岗', 'geography': '北京', 'bonus': ['五险一金', '年终奖金', '补充医疗保险', '弹性工作'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130144058.html?rc=03'}

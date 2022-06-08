@@ -1,0 +1,1 @@
+{'company_name': '上海道勤软件有限公司', 'job_name': '系统运维工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '通讯补贴', '绩效奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/79817343.html?rc=03'}

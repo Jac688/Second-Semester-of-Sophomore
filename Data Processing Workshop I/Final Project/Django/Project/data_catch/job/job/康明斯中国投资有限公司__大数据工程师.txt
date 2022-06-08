@@ -1,0 +1,1 @@
+{'company_name': '康明斯中国投资有限公司', 'job_name': '大数据工程师', 'geography': '北京', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128338709.html?rc=03'}

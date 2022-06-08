@@ -1,0 +1,1 @@
+{'company_name': '上海科之锐人才咨询有限公司', 'job_name': 'Java高级开发工程师', 'geography': '北京-大兴区', 'bonus': ['专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126713231.html?rc=03'}

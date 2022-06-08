@@ -1,0 +1,1 @@
+{'company_name': '中英人寿保险有限公司', 'job_name': '系统管理与维护', 'geography': '北京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131722858.html?rc=03'}

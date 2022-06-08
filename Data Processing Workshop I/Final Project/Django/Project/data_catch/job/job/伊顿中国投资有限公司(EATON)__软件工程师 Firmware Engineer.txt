@@ -1,0 +1,1 @@
+{'company_name': '伊顿中国投资有限公司(EATON)', 'job_name': '软件工程师 Firmware Engineer', 'geography': '深圳-宝安区', 'bonus': ['弹性工作', '环境优美', '专业培训', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125274845.html?rc=03'}

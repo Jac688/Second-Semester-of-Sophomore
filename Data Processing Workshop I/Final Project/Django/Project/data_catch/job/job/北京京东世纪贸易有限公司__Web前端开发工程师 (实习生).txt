@@ -1,0 +1,1 @@
+{'company_name': '北京京东世纪贸易有限公司', 'job_name': 'Web前端开发工程师 (实习生)', 'geography': '北京', 'bonus': [], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132019224.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州市讯飞樽鸿信息技术有限公司', 'job_name': '运营商BU-Python 开发工程师-广州', 'geography': '广州-天河区', 'bonus': ['餐饮补贴', '五险一金', '绩效奖金', '年终奖金'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130399704.html?rc=03'}

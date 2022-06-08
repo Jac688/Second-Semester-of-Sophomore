@@ -1,0 +1,1 @@
+{'company_name': '屹泰柯环保科技上海有限公司', 'job_name': 'PHP软件工程师', 'geography': '上海-青浦区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '免费班车'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131859064.html?rc=03'}

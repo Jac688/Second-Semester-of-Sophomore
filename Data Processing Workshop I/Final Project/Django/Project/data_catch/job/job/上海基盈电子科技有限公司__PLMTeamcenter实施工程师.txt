@@ -1,0 +1,1 @@
+{'company_name': '上海基盈电子科技有限公司', 'job_name': 'PLMTeamcenter实施工程师', 'geography': '异地招聘', 'bonus': ['专业培训', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/124996820.html?rc=03'}

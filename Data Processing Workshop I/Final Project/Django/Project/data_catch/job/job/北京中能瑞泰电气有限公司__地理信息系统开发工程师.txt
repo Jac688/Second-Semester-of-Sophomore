@@ -1,0 +1,1 @@
+{'company_name': '北京中能瑞泰电气有限公司', 'job_name': '地理信息系统开发工程师', 'geography': '北京-大兴区', 'bonus': ['员工旅游', '交通补贴', '专业培训', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130881720.html?rc=03'}

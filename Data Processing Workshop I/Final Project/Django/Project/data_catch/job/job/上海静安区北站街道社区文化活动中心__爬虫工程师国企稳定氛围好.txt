@@ -1,0 +1,1 @@
+{'company_name': '上海静安区北站街道社区文化活动中心', 'job_name': '爬虫工程师国企稳定氛围好', 'geography': '上海', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127977138.html?rc=03'}

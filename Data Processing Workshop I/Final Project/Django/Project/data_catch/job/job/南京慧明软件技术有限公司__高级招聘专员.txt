@@ -1,0 +1,1 @@
+{'company_name': '南京慧明软件技术有限公司', 'job_name': '高级招聘专员', 'geography': '南京', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '周末双休'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/122374933.html?rc=03'}

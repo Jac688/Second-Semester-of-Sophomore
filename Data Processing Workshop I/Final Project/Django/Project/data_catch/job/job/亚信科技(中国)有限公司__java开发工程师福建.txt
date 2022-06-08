@@ -1,0 +1,1 @@
+{'company_name': '亚信科技(中国)有限公司', 'job_name': 'java开发工程师福建', 'geography': '福建省', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/fujiansheng/129277724.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海智槃智能科技有限公司', 'job_name': '智能制造大数据分析工程师', 'geography': '上海-松江区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128523036.html?rc=03'}

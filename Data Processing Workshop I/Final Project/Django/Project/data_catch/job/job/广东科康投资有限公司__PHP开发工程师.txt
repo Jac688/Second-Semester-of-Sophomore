@@ -1,0 +1,1 @@
+{'company_name': '广东科康投资有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-天河区', 'bonus': ['带薪年假', '包吃', '节日福利', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129935245.html?rc=03'}

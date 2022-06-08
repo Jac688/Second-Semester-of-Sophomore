@@ -1,0 +1,1 @@
+{'company_name': '宁波瑞元利亨贸易有限公司', 'job_name': 'Java开发工程师(跨境电商ERP+双休+南商商务区)', 'geography': '宁波', 'bonus': ['五险一金', '员工旅游', '出国机会', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/112406279.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京德辰科技股份有限公司', 'job_name': '应用软件开发工程师', 'geography': '天津-西青区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130322914.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波高新区甬港现代创业服务有限公司', 'job_name': '代招 嵌入式软件工程师', 'geography': '宁波-高新区', 'bonus': ['五险一金', '交通补贴', '员工旅游', '年休假'], 'salary': 1.08, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130659628.html?rc=03'}

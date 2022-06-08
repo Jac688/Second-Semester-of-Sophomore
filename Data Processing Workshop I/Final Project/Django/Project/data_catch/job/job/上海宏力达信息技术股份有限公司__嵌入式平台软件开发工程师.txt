@@ -1,0 +1,1 @@
+{'company_name': '上海宏力达信息技术股份有限公司', 'job_name': '嵌入式平台软件开发工程师', 'geography': '上海', 'bonus': [], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131841767.html?rc=03'}

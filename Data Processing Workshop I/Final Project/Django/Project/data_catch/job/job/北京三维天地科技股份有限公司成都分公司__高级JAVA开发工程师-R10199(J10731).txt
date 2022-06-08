@@ -1,0 +1,1 @@
+{'company_name': '北京三维天地科技股份有限公司成都分公司', 'job_name': '高级JAVA开发工程师-R10199(J10731)', 'geography': '成都', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130820747.html?rc=03'}

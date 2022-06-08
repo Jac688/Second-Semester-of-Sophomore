@@ -1,0 +1,1 @@
+{'company_name': '广东德鑫医疗科技有限公司', 'job_name': 'Java开发工程师', 'geography': '东莞', 'bonus': ['员工旅游', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/128236489.html?rc=03'}

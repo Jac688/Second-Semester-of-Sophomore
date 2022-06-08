@@ -1,0 +1,1 @@
+{'company_name': '凌云光技术股份有限公司', 'job_name': '系统软件工程师北京', 'geography': '北京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129745020.html?rc=03'}

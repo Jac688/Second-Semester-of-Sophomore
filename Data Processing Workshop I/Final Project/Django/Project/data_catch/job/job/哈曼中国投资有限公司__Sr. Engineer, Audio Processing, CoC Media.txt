@@ -1,0 +1,1 @@
+{'company_name': '哈曼中国投资有限公司', 'job_name': 'Sr. Engineer, Audio Processing, CoC Media', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '年终奖金'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/114613799.html?rc=03'}

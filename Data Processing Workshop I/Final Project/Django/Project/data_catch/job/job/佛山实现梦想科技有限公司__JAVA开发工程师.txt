@@ -1,0 +1,1 @@
+{'company_name': '佛山实现梦想科技有限公司', 'job_name': 'JAVA开发工程师', 'geography': '佛山', 'bonus': ['年终奖金', '带薪年假', '全勤奖', '五险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129021281.html?rc=03'}

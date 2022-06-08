@@ -1,0 +1,1 @@
+{'company_name': '南京泰瑞信息技术有限公司', 'job_name': 'C语言开发工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131132928.html?rc=03'}

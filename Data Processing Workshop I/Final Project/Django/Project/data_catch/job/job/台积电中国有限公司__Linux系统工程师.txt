@@ -1,0 +1,1 @@
+{'company_name': '台积电中国有限公司', 'job_name': 'Linux系统工程师', 'geography': '上海-松江区', 'bonus': ['五险一金', '专业培训', '员工旅游', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128252166.html?rc=03'}

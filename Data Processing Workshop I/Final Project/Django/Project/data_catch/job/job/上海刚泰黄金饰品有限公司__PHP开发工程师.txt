@@ -1,0 +1,1 @@
+{'company_name': '上海刚泰黄金饰品有限公司', 'job_name': 'PHP开发工程师', 'geography': '深圳-龙岗区', 'bonus': ['五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129781387.html?rc=03'}

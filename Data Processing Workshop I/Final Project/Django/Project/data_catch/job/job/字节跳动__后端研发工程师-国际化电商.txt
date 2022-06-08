@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后端研发工程师-国际化电商', 'geography': '深圳', 'bonus': ['下午茶', '六险一金', '扁平管理', '免费三餐'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129862766.html?rc=03'}

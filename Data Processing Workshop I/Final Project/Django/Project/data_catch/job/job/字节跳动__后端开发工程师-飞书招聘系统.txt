@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后端开发工程师-飞书招聘系统', 'geography': '成都', 'bonus': ['下午茶', '六险一金', '扁平管理', '大牛带队'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126597401.html?rc=03'}

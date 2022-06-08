@@ -1,0 +1,1 @@
+{'company_name': '北京易诚互动网络技术有限公司', 'job_name': 'JAVA开发', 'geography': '杭州-拱墅区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131146154.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '华夏基金管理有限公司', 'job_name': '大数据研发工程师', 'geography': '北京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129757643.html?rc=03'}

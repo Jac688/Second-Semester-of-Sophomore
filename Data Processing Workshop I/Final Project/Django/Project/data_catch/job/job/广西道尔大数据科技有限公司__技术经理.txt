@@ -1,0 +1,1 @@
+{'company_name': '广西道尔大数据科技有限公司', 'job_name': '技术经理', 'geography': '桂林', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guilin/122022577.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国太平洋保险集团股份有限公司', 'job_name': '系统存储运维岗-CSG', 'geography': '成都-高新区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '年终奖金'], 'salary': 1.17, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130368274.html?rc=03'}

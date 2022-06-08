@@ -1,0 +1,1 @@
+{'company_name': '广州中海达卫星导航技术股份有限公司', 'job_name': '硬件测试工程师(J10328)', 'geography': '广州-番禺区', 'bonus': ['周末双休', '五险一金', '带薪年假', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132294876.html?rc=03'}

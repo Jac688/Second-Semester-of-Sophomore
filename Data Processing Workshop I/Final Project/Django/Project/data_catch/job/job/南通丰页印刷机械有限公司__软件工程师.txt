@@ -1,0 +1,1 @@
+{'company_name': '南通丰页印刷机械有限公司', 'job_name': '软件工程师', 'geography': '南通-海门市', 'bonus': ['五险', '餐饮补贴', '交通补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nantong/127801413.html?rc=03'}

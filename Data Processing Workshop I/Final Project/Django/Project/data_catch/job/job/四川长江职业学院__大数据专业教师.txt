@@ -1,0 +1,1 @@
+{'company_name': '四川长江职业学院', 'job_name': '大数据专业教师', 'geography': '成都-成华区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127652723.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州南方仕通网络科技有限公司', 'job_name': '高级JAVA工程师自研项目非外包', 'geography': '深圳-南山区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 2.92, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125071306.html?rc=03'}

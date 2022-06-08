@@ -1,0 +1,1 @@
+{'company_name': '广州科启奥电子科技有限公司', 'job_name': 'java 后台通讯工程师(netty)', 'geography': '异地招聘', 'bonus': ['员工旅游', '购买社保', '周末双休', '国定假期休假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/127279308.html?rc=03'}

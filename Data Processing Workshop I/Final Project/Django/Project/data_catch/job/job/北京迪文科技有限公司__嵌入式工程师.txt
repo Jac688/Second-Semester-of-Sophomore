@@ -1,0 +1,1 @@
+{'company_name': '北京迪文科技有限公司', 'job_name': '嵌入式工程师', 'geography': '异地招聘', 'bonus': ['入职购买五险', '周末双休', '包吃包住', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129326652.html?rc=03'}

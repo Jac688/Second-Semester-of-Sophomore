@@ -1,0 +1,1 @@
+{'company_name': '佛山市陶风互联网络科技有限公司', 'job_name': 'php后端开发工程师', 'geography': '佛山-禅城区', 'bonus': ['周末双休', '五险一金', '加班补贴', '带薪年假'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/foshan/126404765.html?rc=03'}

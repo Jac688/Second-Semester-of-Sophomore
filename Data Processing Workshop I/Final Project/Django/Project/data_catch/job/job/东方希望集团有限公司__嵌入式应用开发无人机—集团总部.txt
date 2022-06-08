@@ -1,0 +1,1 @@
+{'company_name': '东方希望集团有限公司', 'job_name': '嵌入式应用开发无人机—集团总部', 'geography': '上海', 'bonus': ['年终奖金', '定期体检', '五险一金', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131265585.html?rc=03'}

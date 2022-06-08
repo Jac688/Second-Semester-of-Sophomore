@@ -1,0 +1,1 @@
+{'company_name': '上海中科辰新卫星技术有限公司', 'job_name': '软件系统工程师', 'geography': '上海-浦东新区', 'bonus': ['补充医疗保险', '餐饮补贴', '通讯补贴', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129681306.html?rc=03'}

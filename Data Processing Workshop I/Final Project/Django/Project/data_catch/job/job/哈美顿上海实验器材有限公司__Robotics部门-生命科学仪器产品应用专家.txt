@@ -1,0 +1,1 @@
+{'company_name': '哈美顿上海实验器材有限公司', 'job_name': 'Robotics部门-生命科学仪器产品应用专家', 'geography': '北京', 'bonus': ['员工旅游', '通讯补贴', '专业培训', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/120686711.html?rc=03'}

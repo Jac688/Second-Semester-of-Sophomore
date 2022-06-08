@@ -1,0 +1,1 @@
+{'company_name': '北京中百信集团', 'job_name': 'Java开发工程师权益', 'geography': '北京', 'bonus': ['员工旅游', '通讯补贴', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130283647.html?rc=03'}

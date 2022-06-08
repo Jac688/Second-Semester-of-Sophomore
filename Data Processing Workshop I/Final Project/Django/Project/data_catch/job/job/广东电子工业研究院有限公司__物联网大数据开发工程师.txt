@@ -1,0 +1,1 @@
+{'company_name': '广东电子工业研究院有限公司', 'job_name': '物联网大数据开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129420774.html?rc=03'}

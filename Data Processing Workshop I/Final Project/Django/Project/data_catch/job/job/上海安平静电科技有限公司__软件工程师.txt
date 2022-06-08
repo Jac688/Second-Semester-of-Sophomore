@@ -1,0 +1,1 @@
+{'company_name': '上海安平静电科技有限公司', 'job_name': '软件工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '员工旅游', '晋升机会', '管理岗位'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130762727.html?rc=03'}

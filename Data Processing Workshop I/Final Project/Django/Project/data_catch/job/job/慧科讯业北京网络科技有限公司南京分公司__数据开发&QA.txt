@@ -1,0 +1,1 @@
+{'company_name': '慧科讯业北京网络科技有限公司南京分公司', 'job_name': '数据开发&QA', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '年终奖金', '定期体检', '员工旅游'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129754200.html?rc=03'}

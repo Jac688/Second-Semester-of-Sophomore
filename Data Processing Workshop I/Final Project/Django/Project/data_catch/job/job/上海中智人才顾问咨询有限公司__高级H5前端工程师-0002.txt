@@ -1,0 +1,1 @@
+{'company_name': '上海中智人才顾问咨询有限公司', 'job_name': '高级H5前端工程师-0002', 'geography': '杭州', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131865136.html?rc=03'}

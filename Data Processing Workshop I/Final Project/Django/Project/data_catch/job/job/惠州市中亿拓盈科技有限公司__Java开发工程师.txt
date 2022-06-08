@@ -1,0 +1,1 @@
+{'company_name': '惠州市中亿拓盈科技有限公司', 'job_name': 'Java开发工程师', 'geography': '惠州-惠城区', 'bonus': ['餐饮补贴', '加班补贴', '带薪年假', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/127184841.html?rc=03'}

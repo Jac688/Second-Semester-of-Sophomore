@@ -1,0 +1,1 @@
+{'company_name': '宁波乐科科信息技术有限公司', 'job_name': 'JAVA软件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/119654249.html?rc=03'}

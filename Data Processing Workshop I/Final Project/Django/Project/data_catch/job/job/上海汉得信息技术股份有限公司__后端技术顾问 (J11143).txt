@@ -1,0 +1,1 @@
+{'company_name': '上海汉得信息技术股份有限公司', 'job_name': '后端技术顾问 (J11143)', 'geography': '北京', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129579697.html?rc=03'}

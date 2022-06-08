@@ -1,0 +1,1 @@
+{'company_name': '广东盛迪嘉集团有限公司', 'job_name': 'Java高级开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131273100.html?rc=03'}

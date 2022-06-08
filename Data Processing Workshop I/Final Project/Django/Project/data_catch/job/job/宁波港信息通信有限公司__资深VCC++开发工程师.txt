@@ -1,0 +1,1 @@
+{'company_name': '宁波港信息通信有限公司', 'job_name': '资深VCC++开发工程师', 'geography': '宁波-北仑区', 'bonus': ['五险一金', '补充公积金', '免费班车', '员工旅游'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/109758564.html?rc=03'}

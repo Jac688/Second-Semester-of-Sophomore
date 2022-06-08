@@ -1,0 +1,1 @@
+{'company_name': '广州市斯凯奇商业有限公司', 'job_name': 'Java中级开发工程师(J11811)', 'geography': '广州', 'bonus': ['弹性工作', '带薪年假', '五险一金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130672681.html?rc=03'}

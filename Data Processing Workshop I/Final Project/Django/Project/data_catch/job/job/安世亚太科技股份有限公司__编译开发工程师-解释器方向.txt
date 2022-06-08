@@ -1,0 +1,1 @@
+{'company_name': '安世亚太科技股份有限公司', 'job_name': '编译开发工程师-解释器方向', 'geography': '上海', 'bonus': ['节日福利', '餐饮补贴', '五险一金', '通讯补贴'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130319681.html?rc=03'}

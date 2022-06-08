@@ -1,0 +1,1 @@
+{'company_name': '惠每移健北京科技有限公司', 'job_name': '高级前端开发工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '通讯补贴', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129367870.html?rc=03'}

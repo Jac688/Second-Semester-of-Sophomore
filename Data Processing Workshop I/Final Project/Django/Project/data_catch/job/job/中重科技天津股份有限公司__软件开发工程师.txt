@@ -1,0 +1,1 @@
+{'company_name': '中重科技天津股份有限公司', 'job_name': '软件开发工程师', 'geography': '天津', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '包住宿'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/126847110.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海柯渡医学科技股份有限公司', 'job_name': '运维开发工程师', 'geography': '上海-普陀区', 'bonus': ['节日福利', '五险一金', '绩效奖金', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131345289.html?rc=03'}

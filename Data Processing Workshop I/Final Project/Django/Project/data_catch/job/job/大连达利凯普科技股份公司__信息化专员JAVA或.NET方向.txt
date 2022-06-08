@@ -1,0 +1,1 @@
+{'company_name': '大连达利凯普科技股份公司', 'job_name': '信息化专员JAVA或.NET方向', 'geography': '大连-金州区', 'bonus': ['带薪年假', '五险一金', '交通补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dalian/132270605.html?rc=03'}

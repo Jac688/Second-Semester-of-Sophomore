@@ -1,0 +1,1 @@
+{'company_name': '广州市斯凯奇商业有限公司', 'job_name': 'CRM运营主管(J11724)', 'geography': '广州-天河区', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129581669.html?rc=03'}

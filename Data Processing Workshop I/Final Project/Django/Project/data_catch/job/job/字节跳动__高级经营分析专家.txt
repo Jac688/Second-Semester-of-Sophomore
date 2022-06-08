@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '高级经营分析专家', 'geography': '成都', 'bonus': ['六险一金', '餐补', '租房补贴', '下午茶'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/121437896.html?rc=03'}

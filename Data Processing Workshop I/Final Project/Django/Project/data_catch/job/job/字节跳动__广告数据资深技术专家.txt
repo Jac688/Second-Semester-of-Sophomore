@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '广告数据资深技术专家', 'geography': '杭州', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '股票期权'], 'salary': 5.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/126337776.html?rc=03'}

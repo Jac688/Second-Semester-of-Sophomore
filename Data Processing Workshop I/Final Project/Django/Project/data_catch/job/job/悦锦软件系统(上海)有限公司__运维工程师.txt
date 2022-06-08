@@ -1,0 +1,1 @@
+{'company_name': '悦锦软件系统(上海)有限公司', 'job_name': '运维工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '通讯补贴'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132266389.html?rc=03'}

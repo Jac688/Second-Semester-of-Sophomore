@@ -1,0 +1,1 @@
+{'company_name': '广州谷创信息科技有限公司', 'job_name': 'python课程顾问在线销售', 'geography': '深圳-南山区', 'bonus': ['专业培训', '节日福利', '带薪年假', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130242459.html?rc=03'}

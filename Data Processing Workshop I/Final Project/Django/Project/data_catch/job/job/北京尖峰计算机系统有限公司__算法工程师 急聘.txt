@@ -1,0 +1,1 @@
+{'company_name': '北京尖峰计算机系统有限公司', 'job_name': '算法工程师 急聘', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130321697.html?rc=03'}

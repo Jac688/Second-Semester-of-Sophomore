@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '系统研发工程师-SDN', 'geography': '北京', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131619860.html?rc=03'}

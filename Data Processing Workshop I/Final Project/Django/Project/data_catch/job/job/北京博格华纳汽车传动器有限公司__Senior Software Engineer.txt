@@ -1,0 +1,1 @@
+{'company_name': '北京博格华纳汽车传动器有限公司', 'job_name': 'Senior Software Engineer', 'geography': '北京-通州区', 'bonus': ['专业培训', '免费班车', '餐饮补贴', '五险一金'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128397910.html?rc=03'}

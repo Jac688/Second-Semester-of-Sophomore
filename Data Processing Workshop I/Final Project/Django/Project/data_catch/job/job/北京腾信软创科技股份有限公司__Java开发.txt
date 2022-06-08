@@ -1,0 +1,1 @@
+{'company_name': '北京腾信软创科技股份有限公司', 'job_name': 'Java开发', 'geography': '上海-黄浦区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126930465.html?rc=03'}

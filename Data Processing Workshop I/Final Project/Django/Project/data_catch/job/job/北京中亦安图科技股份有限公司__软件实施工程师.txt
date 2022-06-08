@@ -1,0 +1,1 @@
+{'company_name': '北京中亦安图科技股份有限公司', 'job_name': '软件实施工程师', 'geography': '北京-西城区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131909627.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海东普信息科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-青浦区', 'bonus': ['五险一金', '绩效奖金', '免费班车', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130744776.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海登临科技有限公司', 'job_name': 'CC++软件开发工程师', 'geography': '成都-高新区', 'bonus': ['补充医疗保险', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.33, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/115385880.html?rc=03'}

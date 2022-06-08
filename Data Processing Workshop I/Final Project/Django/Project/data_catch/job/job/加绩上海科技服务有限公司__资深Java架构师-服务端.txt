@@ -1,0 +1,1 @@
+{'company_name': '加绩上海科技服务有限公司', 'job_name': '资深Java架构师-服务端', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130670712.html?rc=03'}

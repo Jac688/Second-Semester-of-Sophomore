@@ -1,0 +1,1 @@
+{'company_name': '上海瀚资软件咨询有限公司', 'job_name': '微软ERPAX技术开发顾问', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '通讯补贴', '员工旅游', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/106423449.html?rc=03'}

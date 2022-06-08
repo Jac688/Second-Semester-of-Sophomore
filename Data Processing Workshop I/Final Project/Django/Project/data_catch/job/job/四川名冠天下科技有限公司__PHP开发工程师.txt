@@ -1,0 +1,1 @@
+{'company_name': '四川名冠天下科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '成都-成华区', 'bonus': ['五险一金', '交通补贴', '带薪年假', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132203951.html?rc=03'}

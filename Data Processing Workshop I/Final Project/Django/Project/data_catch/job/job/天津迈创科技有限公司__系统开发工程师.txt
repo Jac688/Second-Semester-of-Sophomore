@@ -1,0 +1,1 @@
+{'company_name': '天津迈创科技有限公司', 'job_name': '系统开发工程师', 'geography': '天津-河西区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128371743.html?rc=03'}

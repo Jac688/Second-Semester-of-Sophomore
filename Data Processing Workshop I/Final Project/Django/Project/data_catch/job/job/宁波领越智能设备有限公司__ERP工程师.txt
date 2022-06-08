@@ -1,0 +1,1 @@
+{'company_name': '宁波领越智能设备有限公司', 'job_name': 'ERP工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/128324370.html?rc=03'}

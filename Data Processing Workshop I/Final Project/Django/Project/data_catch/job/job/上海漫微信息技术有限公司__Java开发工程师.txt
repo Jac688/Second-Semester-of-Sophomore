@@ -1,0 +1,1 @@
+{'company_name': '上海漫微信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-昌平区', 'bonus': ['海底捞半价', '定期体检', '五险一金', '提供食宿'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130998524.html?rc=03'}

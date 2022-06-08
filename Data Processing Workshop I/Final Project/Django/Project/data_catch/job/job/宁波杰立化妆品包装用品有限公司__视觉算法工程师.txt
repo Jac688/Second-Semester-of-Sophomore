@@ -1,0 +1,1 @@
+{'company_name': '宁波杰立化妆品包装用品有限公司', 'job_name': '视觉算法工程师', 'geography': '异地招聘', 'bonus': ['员工旅游', '专业培训', '出国机会', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shaoxing/128628175.html?rc=03'}

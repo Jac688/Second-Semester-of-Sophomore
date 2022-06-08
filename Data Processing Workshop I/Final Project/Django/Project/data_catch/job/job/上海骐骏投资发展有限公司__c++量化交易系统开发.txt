@@ -1,0 +1,1 @@
+{'company_name': '上海骐骏投资发展有限公司', 'job_name': 'c++量化交易系统开发', 'geography': '上海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/102078566.html?rc=03'}

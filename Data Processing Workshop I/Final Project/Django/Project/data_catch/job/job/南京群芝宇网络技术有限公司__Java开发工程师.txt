@@ -1,0 +1,1 @@
+{'company_name': '南京群芝宇网络技术有限公司', 'job_name': 'Java开发工程师', 'geography': '异地招聘', 'bonus': ['绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/jingjiang/130563724.html?rc=03'}

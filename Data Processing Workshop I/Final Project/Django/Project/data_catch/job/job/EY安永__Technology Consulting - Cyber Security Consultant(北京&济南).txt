@@ -1,0 +1,1 @@
+{'company_name': 'EY安永', 'job_name': 'Technology Consulting - Cyber Security Consultant(北京&济南)', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131428629.html?rc=03'}

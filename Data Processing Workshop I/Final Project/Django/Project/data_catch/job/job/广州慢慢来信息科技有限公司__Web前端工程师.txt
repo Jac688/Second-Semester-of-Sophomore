@@ -1,0 +1,1 @@
+{'company_name': '广州慢慢来信息科技有限公司', 'job_name': 'Web前端工程师', 'geography': '广州-海珠区', 'bonus': ['绩效奖金', '弹性工作', '周末双休', '团队年轻'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/96578138.html?rc=03'}

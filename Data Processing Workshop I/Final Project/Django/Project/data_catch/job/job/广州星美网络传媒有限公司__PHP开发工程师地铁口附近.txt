@@ -1,0 +1,1 @@
+{'company_name': '广州星美网络传媒有限公司', 'job_name': 'PHP开发工程师地铁口附近', 'geography': '广州-番禺区', 'bonus': ['员工旅游', '社保', '年终奖金', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131021741.html?rc=03'}

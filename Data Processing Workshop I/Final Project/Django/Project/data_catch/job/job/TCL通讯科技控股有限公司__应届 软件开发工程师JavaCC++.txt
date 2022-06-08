@@ -1,0 +1,1 @@
+{'company_name': 'TCL通讯科技控股有限公司', 'job_name': '应届 软件开发工程师JavaCC++', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/110312865.html?rc=03'}

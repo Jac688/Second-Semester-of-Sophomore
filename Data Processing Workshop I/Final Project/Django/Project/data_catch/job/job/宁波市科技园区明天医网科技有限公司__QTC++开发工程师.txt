@@ -1,0 +1,1 @@
+{'company_name': '宁波市科技园区明天医网科技有限公司', 'job_name': 'QTC++开发工程师', 'geography': '杭州', 'bonus': ['专业培训', '弹性工作', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/117430115.html?rc=03'}

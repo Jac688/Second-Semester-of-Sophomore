@@ -1,0 +1,1 @@
+{'company_name': '上海态特网络科技有限公司', 'job_name': 'Python开发工程师', 'geography': '上海-静安区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '绩效奖金'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131898888.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海睿问信息科技有限公司', 'job_name': '大数据工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125740971.html?rc=03'}

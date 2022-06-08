@@ -1,0 +1,1 @@
+{'company_name': '北京精微致合测试技术有限公司', 'job_name': '软件工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '专业培训', '意外险', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130148099.html?rc=03'}

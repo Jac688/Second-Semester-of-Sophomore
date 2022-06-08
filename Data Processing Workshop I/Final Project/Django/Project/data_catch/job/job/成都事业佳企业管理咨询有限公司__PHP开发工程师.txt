@@ -1,0 +1,1 @@
+{'company_name': '成都事业佳企业管理咨询有限公司', 'job_name': 'PHP开发工程师', 'geography': '成都-成华区', 'bonus': ['带薪年假', '餐饮补贴', '绩效奖金', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/119196536.html?rc=03'}

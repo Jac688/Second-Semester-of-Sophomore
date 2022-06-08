@@ -1,0 +1,1 @@
+{'company_name': '上海科络达云软件技术有限公司', 'job_name': '技术支持工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/99246618.html?rc=03'}

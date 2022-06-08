@@ -1,0 +1,1 @@
+{'company_name': '山东山消智慧安全科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '济南-高新区', 'bonus': ['餐饮补贴', '绩效奖金', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130419740.html?rc=03'}

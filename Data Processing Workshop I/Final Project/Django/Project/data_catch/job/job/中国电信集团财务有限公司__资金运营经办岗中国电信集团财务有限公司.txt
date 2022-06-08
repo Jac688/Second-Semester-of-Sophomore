@@ -1,0 +1,1 @@
+{'company_name': '中国电信集团财务有限公司', 'job_name': '资金运营经办岗中国电信集团财务有限公司', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129104354.html?rc=03'}

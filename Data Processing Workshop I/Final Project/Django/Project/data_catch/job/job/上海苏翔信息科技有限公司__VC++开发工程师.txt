@@ -1,0 +1,1 @@
+{'company_name': '上海苏翔信息科技有限公司', 'job_name': 'VC++开发工程师', 'geography': '苏州', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130615343.html?rc=03'}

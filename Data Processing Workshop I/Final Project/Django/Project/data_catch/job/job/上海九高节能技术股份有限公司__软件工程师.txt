@@ -1,0 +1,1 @@
+{'company_name': '上海九高节能技术股份有限公司', 'job_name': '软件工程师', 'geography': '上海-松江区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120923681.html?rc=03'}

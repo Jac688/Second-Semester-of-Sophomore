@@ -1,0 +1,1 @@
+{'company_name': '天津易泰科技发展中心', 'job_name': '全栈工程师', 'geography': '天津-河东区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131496703.html?rc=03'}

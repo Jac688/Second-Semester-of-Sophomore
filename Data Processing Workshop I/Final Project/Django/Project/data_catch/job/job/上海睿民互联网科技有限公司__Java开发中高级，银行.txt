@@ -1,0 +1,1 @@
+{'company_name': '上海睿民互联网科技有限公司', 'job_name': 'Java开发中高级，银行', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '晋升空间'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130747915.html?rc=03'}

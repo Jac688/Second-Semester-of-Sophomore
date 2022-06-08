@@ -1,0 +1,1 @@
+{'company_name': '慕赞科技苏州有限公司', 'job_name': '软件运动控制工程师', 'geography': '太仓', 'bonus': ['五险一金', '出国机会', '年终奖金', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/taicang/127943618.html?rc=03'}

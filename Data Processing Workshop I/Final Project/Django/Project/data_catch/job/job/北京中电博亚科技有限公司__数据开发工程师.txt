@@ -1,0 +1,1 @@
+{'company_name': '北京中电博亚科技有限公司', 'job_name': '数据开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '弹性工作', '绩效奖金', '周末双休'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131448636.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京潞电电气设备有限公司', 'job_name': '软件测试工程师', 'geography': '北京-通州区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129430039.html?rc=03'}

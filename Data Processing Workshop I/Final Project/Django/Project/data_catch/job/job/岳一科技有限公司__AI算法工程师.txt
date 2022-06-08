@@ -1,0 +1,1 @@
+{'company_name': '岳一科技有限公司', 'job_name': 'AI算法工程师', 'geography': '苏州-吴江区', 'bonus': ['五险一金', '员工旅游', '专业培训', '年终奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128987718.html?rc=03'}

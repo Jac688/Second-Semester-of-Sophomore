@@ -1,0 +1,1 @@
+{'company_name': '哈尔滨商悦企业管理服务有限公司', 'job_name': 'java开发工程师', 'geography': '惠州-惠城区', 'bonus': ['五险一金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/130619638.html?rc=03'}

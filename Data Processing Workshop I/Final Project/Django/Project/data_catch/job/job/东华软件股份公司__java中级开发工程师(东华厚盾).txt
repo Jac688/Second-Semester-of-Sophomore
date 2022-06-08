@@ -1,0 +1,1 @@
+{'company_name': '东华软件股份公司', 'job_name': 'java中级开发工程师(东华厚盾)', 'geography': '济南-高新区', 'bonus': ['周末双休', '13薪', '餐饮补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/126094917.html?rc=03'}

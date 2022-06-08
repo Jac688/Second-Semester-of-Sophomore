@@ -1,0 +1,1 @@
+{'company_name': '南京市企业征信服务有限公司', 'job_name': '高级技术主管', 'geography': '南京-建邺区', 'bonus': [], 'salary': 2.08, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131394950.html?rc=03'}

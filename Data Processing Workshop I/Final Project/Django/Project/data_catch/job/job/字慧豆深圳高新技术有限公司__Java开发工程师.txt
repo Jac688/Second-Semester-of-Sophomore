@@ -1,0 +1,1 @@
+{'company_name': '字慧豆深圳高新技术有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-宝安区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127834782.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京万章盈科科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '成都-高新区', 'bonus': ['员工旅游', '绩效奖金', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124970910.html?rc=03'}

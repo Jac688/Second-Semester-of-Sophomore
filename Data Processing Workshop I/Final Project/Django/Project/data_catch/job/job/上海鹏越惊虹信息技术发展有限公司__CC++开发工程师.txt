@@ -1,0 +1,1 @@
+{'company_name': '上海鹏越惊虹信息技术发展有限公司', 'job_name': 'CC++开发工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/60613209.html?rc=03'}

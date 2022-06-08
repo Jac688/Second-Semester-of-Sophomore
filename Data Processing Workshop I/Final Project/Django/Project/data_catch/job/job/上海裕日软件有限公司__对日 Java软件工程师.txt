@@ -1,0 +1,1 @@
+{'company_name': '上海裕日软件有限公司', 'job_name': '对日 Java软件工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '定期体检', '出国机会', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/87051058.html?rc=03'}

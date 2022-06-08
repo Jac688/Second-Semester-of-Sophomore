@@ -1,0 +1,1 @@
+{'company_name': '广州卓益基因科技有限公司', 'job_name': '生物信息工程师', 'geography': '广州-黄埔区', 'bonus': ['弹性工作', '五险一金', '免费班车', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124452678.html?rc=03'}

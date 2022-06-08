@@ -1,0 +1,1 @@
+{'company_name': '上海柴油机股份有限公司', 'job_name': '大数据工程师', 'geography': '上海', 'bonus': ['五险一金', '补充公积金', '企业年金', '交通补贴'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131310147.html?rc=03'}

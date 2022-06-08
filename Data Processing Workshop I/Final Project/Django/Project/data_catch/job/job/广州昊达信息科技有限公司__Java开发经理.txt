@@ -1,0 +1,1 @@
+{'company_name': '广州昊达信息科技有限公司', 'job_name': 'Java开发经理', 'geography': '孝感', 'bonus': ['五险一金', '补充公积金', '员工旅游', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xiaogan/131754684.html?rc=03'}

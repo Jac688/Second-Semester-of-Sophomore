@@ -1,0 +1,1 @@
+{'company_name': '中国航空工业集团公司上海航空测控技术研究所', 'job_name': '系统级软硬件开发工程师', 'geography': '上海-松江区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/67364192.html?rc=03'}

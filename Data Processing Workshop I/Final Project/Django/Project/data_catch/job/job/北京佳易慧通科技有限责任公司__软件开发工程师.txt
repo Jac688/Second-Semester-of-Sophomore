@@ -1,0 +1,1 @@
+{'company_name': '北京佳易慧通科技有限责任公司', 'job_name': '软件开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130661409.html?rc=03'}

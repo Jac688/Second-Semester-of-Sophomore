@@ -1,0 +1,1 @@
+{'company_name': '广州誉财网络有限公司', 'job_name': 'PHP程序员周末双休', 'geography': '广州-越秀区', 'bonus': ['做五休二', '周末双休', '带薪年假', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/116248232.html?rc=03'}

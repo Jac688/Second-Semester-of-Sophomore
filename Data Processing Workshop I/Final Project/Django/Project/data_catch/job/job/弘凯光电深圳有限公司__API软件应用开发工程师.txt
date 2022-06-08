@@ -1,0 +1,1 @@
+{'company_name': '弘凯光电深圳有限公司', 'job_name': 'API软件应用开发工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '包三餐', '包住宿', '住房补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127240567.html?rc=03'}

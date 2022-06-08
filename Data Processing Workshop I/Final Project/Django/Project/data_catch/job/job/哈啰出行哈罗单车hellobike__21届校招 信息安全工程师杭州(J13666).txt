@@ -1,0 +1,1 @@
+{'company_name': '哈啰出行哈罗单车hellobike', 'job_name': '21届校招 信息安全工程师杭州(J13666)', 'geography': '杭州-西湖区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/125233117.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州无添加主义化妆品有限公司', 'job_name': '高级数据分析师电子商务方向', 'geography': '广州-天河区', 'bonus': ['绩效奖金', '节日福利', '带薪年假', '全勤奖'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126639453.html?rc=03'}

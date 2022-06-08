@@ -1,0 +1,1 @@
+{'company_name': '广州贝壳科技服务有限公司', 'job_name': '贝壳找房-广州站-组织与人才发展高级主管', 'geography': '广州-天河区', 'bonus': ['年终奖金', '定期体检', '专业培训', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128576364.html?rc=03'}

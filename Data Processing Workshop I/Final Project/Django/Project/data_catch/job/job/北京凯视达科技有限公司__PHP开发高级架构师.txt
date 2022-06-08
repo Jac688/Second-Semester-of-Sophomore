@@ -1,0 +1,1 @@
+{'company_name': '北京凯视达科技有限公司', 'job_name': 'PHP开发高级架构师', 'geography': '长沙', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changsha/114610593.html?rc=03'}

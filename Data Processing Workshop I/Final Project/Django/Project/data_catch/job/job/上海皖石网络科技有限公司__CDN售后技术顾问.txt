@@ -1,0 +1,1 @@
+{'company_name': '上海皖石网络科技有限公司', 'job_name': 'CDN售后技术顾问', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119746604.html?rc=03'}

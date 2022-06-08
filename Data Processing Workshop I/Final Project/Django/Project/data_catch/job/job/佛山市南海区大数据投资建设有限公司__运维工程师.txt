@@ -1,0 +1,1 @@
+{'company_name': '佛山市南海区大数据投资建设有限公司', 'job_name': '运维工程师', 'geography': '佛山-南海区', 'bonus': ['定期体检', '五险一金', '带薪年假', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/foshan/121703749.html?rc=03'}

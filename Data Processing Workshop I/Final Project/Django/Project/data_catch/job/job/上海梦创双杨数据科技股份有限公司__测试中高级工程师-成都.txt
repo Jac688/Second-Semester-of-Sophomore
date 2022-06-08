@@ -1,0 +1,1 @@
+{'company_name': '上海梦创双杨数据科技股份有限公司', 'job_name': '测试中高级工程师-成都', 'geography': '成都-锦江区', 'bonus': ['五险一金', '专业培训', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/119961773.html?rc=03'}

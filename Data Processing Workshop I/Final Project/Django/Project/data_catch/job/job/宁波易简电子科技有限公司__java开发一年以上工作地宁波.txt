@@ -1,0 +1,1 @@
+{'company_name': '宁波易简电子科技有限公司', 'job_name': 'java开发一年以上工作地宁波', 'geography': '异地招聘', 'bonus': ['员工旅游', '绩效奖金', '出国机会', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jiangxisheng/130121632.html?rc=03'}

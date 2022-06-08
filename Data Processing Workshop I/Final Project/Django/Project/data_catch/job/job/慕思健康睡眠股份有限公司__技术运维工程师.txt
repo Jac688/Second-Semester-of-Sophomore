@@ -1,0 +1,1 @@
+{'company_name': '慕思健康睡眠股份有限公司', 'job_name': '技术运维工程师', 'geography': '东莞-厚街镇', 'bonus': ['包住宿', '免费班车', '绩效奖金', '带薪年假'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131018380.html?rc=03'}

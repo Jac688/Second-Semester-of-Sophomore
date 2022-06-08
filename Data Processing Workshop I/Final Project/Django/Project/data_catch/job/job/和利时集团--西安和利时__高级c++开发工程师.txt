@@ -1,0 +1,1 @@
+{'company_name': '和利时集团--西安和利时', 'job_name': '高级c++开发工程师', 'geography': '西安', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xian/119903117.html?rc=03'}

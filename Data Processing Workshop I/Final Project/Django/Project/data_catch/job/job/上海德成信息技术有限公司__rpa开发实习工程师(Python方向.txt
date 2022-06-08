@@ -1,0 +1,1 @@
+{'company_name': '上海德成信息技术有限公司', 'job_name': 'rpa开发实习工程师(Python方向', 'geography': '杭州', 'bonus': [], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130659346.html?rc=03'}

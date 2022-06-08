@@ -1,0 +1,1 @@
+{'company_name': '北京天威诚信电子商务服务有限公司', 'job_name': 'Java开发工程师', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/116134307.html?rc=03'}

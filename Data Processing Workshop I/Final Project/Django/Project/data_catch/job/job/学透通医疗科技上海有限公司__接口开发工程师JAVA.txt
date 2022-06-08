@@ -1,0 +1,1 @@
+{'company_name': '学透通医疗科技上海有限公司', 'job_name': '接口开发工程师JAVA', 'geography': '上海-静安区', 'bonus': ['五险一金', '年终奖金', '专业培训', '带薪年假'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130652981.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海灿谷投资管理咨询服务有限公司', 'job_name': 'java高级工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '年终奖金', '节日福利', '带薪年假'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129523897.html?rc=03'}

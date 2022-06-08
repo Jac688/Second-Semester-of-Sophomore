@@ -1,0 +1,1 @@
+{'company_name': '华普特科技深圳股份有限公司', 'job_name': '嵌入式软件工程师', 'geography': '深圳-宝安区', 'bonus': ['专业培训', '年终奖金', '出国机会', '补充医疗保险'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132324041.html?rc=03'}

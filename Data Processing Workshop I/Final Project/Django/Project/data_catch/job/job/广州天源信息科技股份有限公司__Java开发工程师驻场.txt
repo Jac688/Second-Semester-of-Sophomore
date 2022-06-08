@@ -1,0 +1,1 @@
+{'company_name': '广州天源信息科技股份有限公司', 'job_name': 'Java开发工程师驻场', 'geography': '深圳-南山区', 'bonus': ['五险一金', '定期体检', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130142080.html?rc=03'}

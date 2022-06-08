@@ -1,0 +1,1 @@
+{'company_name': '凯盛融英信息科技上海股份有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-静安区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128143009.html?rc=03'}

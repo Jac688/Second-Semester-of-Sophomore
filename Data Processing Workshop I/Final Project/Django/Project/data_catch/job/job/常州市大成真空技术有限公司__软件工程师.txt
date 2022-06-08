@@ -1,0 +1,1 @@
+{'company_name': '常州市大成真空技术有限公司', 'job_name': '软件工程师', 'geography': '常州-新北区', 'bonus': ['五险一金', '节日福利', '单双休轮换', '餐补'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/127803800.html?rc=03'}

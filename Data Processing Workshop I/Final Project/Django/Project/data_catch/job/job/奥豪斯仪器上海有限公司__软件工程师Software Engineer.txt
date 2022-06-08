@@ -1,0 +1,1 @@
+{'company_name': '奥豪斯仪器上海有限公司', 'job_name': '软件工程师Software Engineer', 'geography': '常州', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '定期体检'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/124536525.html?rc=03'}

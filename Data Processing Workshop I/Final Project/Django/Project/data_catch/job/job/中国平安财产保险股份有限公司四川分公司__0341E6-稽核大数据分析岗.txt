@@ -1,0 +1,1 @@
+{'company_name': '中国平安财产保险股份有限公司四川分公司', 'job_name': '0341E6-稽核大数据分析岗', 'geography': '成都-锦江区', 'bonus': ['五险一金', '绩效奖金', '带薪年假', '补充医疗保险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131718764.html?rc=03'}

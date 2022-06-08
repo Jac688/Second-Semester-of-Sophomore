@@ -1,0 +1,1 @@
+{'company_name': '广州光娱信息科技有限公司', 'job_name': 'PHP高级开发 (MJ000162)', 'geography': '广州-天河区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131920235.html?rc=03'}

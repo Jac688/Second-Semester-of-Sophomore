@@ -1,0 +1,1 @@
+{'company_name': '成都交大光芒科技股份有限公司', 'job_name': 'JAVA开发工程师', 'geography': '成都', 'bonus': ['五险一金', '带薪年假', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129188414.html?rc=03'}

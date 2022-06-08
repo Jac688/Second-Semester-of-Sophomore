@@ -1,0 +1,1 @@
+{'company_name': '中关村科技软件股份有限公司', 'job_name': '数据分析师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123641563.html?rc=03'}

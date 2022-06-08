@@ -1,0 +1,1 @@
+{'company_name': '广州秀才信息科技有限公司', 'job_name': 'PHP负责人', 'geography': '广州', 'bonus': ['餐饮补贴', '绩效奖金', '周末双休', '大牛带团'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131289102.html?rc=03'}

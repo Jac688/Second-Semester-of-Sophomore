@@ -1,0 +1,1 @@
+{'company_name': '四川厌氧生物科技有限责任公司', 'job_name': '生物信息学研究员', 'geography': '成都-武侯区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127326099.html?rc=03'}

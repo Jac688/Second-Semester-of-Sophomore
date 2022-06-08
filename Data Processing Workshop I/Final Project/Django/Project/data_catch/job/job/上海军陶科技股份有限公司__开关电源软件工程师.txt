@@ -1,0 +1,1 @@
+{'company_name': '上海军陶科技股份有限公司', 'job_name': '开关电源软件工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '股票期权', '年终奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/97801522.html?rc=03'}

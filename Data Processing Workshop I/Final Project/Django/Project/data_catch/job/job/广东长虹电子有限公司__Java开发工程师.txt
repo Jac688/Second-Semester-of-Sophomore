@@ -1,0 +1,1 @@
+{'company_name': '广东长虹电子有限公司', 'job_name': 'Java开发工程师', 'geography': '中山-南头镇', 'bonus': ['七险一金', '项目奖金', '年终奖金', '年度体检'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/131406135.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南昌市微轲联信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '南昌', 'bonus': ['节日福利', '提供中餐', '生日福利', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/121674725.html?rc=03'}

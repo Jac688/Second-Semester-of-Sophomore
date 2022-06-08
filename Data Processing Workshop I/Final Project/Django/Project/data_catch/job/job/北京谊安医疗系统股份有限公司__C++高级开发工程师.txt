@@ -1,0 +1,1 @@
+{'company_name': '北京谊安医疗系统股份有限公司', 'job_name': 'C++高级开发工程师', 'geography': '北京-丰台区', 'bonus': ['周末双休', '带薪年假', '五险一金', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132196220.html?rc=03'}

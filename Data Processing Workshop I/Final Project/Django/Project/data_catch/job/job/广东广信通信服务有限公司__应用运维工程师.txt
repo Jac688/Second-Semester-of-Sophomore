@@ -1,0 +1,1 @@
+{'company_name': '广东广信通信服务有限公司', 'job_name': '应用运维工程师', 'geography': '广州', 'bonus': ['五险一金', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130850081.html?rc=03'}

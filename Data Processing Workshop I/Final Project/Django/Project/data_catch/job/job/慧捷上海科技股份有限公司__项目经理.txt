@@ -1,0 +1,1 @@
+{'company_name': '慧捷上海科技股份有限公司', 'job_name': '项目经理', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130126482.html?rc=03'}

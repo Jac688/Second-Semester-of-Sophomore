@@ -1,0 +1,1 @@
+{'company_name': '东莞市神州视觉科技有限公司', 'job_name': '软件工程师C#)', 'geography': '东莞-东城区', 'bonus': ['年终奖金', '周末双休', '8小时工作', '包吃住'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/116353749.html?rc=03'}

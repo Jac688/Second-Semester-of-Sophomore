@@ -1,0 +1,1 @@
+{'company_name': '北京政通仁和建材有限公司', 'job_name': '日语软件工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/120832928.html?rc=03'}

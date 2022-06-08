@@ -1,0 +1,1 @@
+{'company_name': '展讯通信(上海)有限公司', 'job_name': '软件测试开发工程师应用与多媒体方向天津', 'geography': '天津', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/124378114.html?rc=03'}

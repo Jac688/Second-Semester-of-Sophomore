@@ -1,0 +1,1 @@
+{'company_name': 'Marin Software每锐软件上海有限公司', 'job_name': '资深DBA数据库管理员 美资公司 可在家办公 全国招聘', 'geography': '深圳', 'bonus': ['补充公积金', '定期体检', '弹性工作', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129214770.html?rc=03'}

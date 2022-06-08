@@ -1,0 +1,1 @@
+{'company_name': '好大夫在线', 'job_name': '服务端开发工程师2021届(J10751)', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129339770.html?rc=03'}

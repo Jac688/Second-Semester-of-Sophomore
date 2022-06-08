@@ -1,0 +1,1 @@
+{'company_name': '康德曼北京互联网技术有限公司', 'job_name': 'Java中级开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124337927.html?rc=03'}

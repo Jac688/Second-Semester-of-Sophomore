@@ -1,0 +1,1 @@
+{'company_name': 'TCL通讯科技成都有限公司', 'job_name': '安卓安全高级工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130603522.html?rc=03'}

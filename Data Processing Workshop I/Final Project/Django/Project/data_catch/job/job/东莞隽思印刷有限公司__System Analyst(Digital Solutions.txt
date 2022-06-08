@@ -1,0 +1,1 @@
+{'company_name': '东莞隽思印刷有限公司', 'job_name': 'System Analyst(Digital Solutions', 'geography': '东莞', 'bonus': ['带薪年假', '专业培训', '五险一金', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/128897626.html?rc=03'}

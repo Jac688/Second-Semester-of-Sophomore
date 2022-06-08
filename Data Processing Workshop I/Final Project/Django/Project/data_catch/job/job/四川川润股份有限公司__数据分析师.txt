@@ -1,0 +1,1 @@
+{'company_name': '四川川润股份有限公司', 'job_name': '数据分析师', 'geography': '成都', 'bonus': ['五险一金', '绩效奖金', '定期体检', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127041861.html?rc=03'}

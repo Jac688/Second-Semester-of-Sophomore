@@ -1,0 +1,1 @@
+{'company_name': '一诺仪器中国有限公司', 'job_name': 'C++开发工程师', 'geography': '西安-高新技术产业开发区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xian/124734817.html?rc=03'}

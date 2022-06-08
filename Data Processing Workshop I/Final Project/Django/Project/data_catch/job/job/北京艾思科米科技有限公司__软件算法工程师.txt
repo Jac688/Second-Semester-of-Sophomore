@@ -1,0 +1,1 @@
+{'company_name': '北京艾思科米科技有限公司', 'job_name': '软件算法工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充公积金', '员工旅游', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123033339.html?rc=03'}

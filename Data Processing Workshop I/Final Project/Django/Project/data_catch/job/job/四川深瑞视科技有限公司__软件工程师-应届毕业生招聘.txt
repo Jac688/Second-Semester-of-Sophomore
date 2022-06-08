@@ -1,0 +1,1 @@
+{'company_name': '四川深瑞视科技有限公司', 'job_name': '软件工程师-应届毕业生招聘', 'geography': '异地招聘', 'bonus': [], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/sichuansheng/109190475.html?rc=03'}

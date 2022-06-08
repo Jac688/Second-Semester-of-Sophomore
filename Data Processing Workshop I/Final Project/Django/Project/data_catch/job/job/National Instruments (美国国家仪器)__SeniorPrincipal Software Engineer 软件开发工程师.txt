@@ -1,0 +1,1 @@
+{'company_name': 'National Instruments (美国国家仪器)', 'job_name': 'SeniorPrincipal Software Engineer 软件开发工程师', 'geography': '上海-浦东新区', 'bonus': ['免费班车', '餐饮补贴'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131822647.html?rc=03'}

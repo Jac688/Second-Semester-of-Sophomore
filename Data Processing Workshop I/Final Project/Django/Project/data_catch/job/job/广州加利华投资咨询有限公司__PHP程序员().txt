@@ -1,0 +1,1 @@
+{'company_name': '广州加利华投资咨询有限公司', 'job_name': 'PHP程序员()', 'geography': '广州-越秀区', 'bonus': [], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131708349.html?rc=03'}

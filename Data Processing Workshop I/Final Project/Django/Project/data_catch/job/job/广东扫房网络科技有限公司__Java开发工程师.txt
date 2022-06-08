@@ -1,0 +1,1 @@
+{'company_name': '广东扫房网络科技有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-黄埔区', 'bonus': ['员工旅游', '绩效奖金', '朝九晚六', '超长带薪年假'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/116635815.html?rc=03'}

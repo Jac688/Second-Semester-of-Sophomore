@@ -1,0 +1,1 @@
+{'company_name': '加多宝中国饮料有限公司', 'job_name': 'SAP实施顾问 Abap开发', 'geography': '北京-大兴区', 'bonus': ['快消名企平台', '活力团队', '法定假期', '免费食宿'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127850110.html?rc=03'}

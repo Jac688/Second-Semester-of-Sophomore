@@ -1,0 +1,1 @@
+{'company_name': '华体科技', 'job_name': 'cc++软件开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '员工旅游', '专业培训', '节假日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131416170.html?rc=03'}

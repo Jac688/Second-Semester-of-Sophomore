@@ -1,0 +1,1 @@
+{'company_name': '北京集展科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '北京-石景山区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131034773.html?rc=03'}

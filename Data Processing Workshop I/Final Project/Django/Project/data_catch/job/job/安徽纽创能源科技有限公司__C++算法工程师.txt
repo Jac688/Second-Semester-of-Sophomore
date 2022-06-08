@@ -1,0 +1,1 @@
+{'company_name': '安徽纽创能源科技有限公司', 'job_name': 'C++算法工程师', 'geography': '南京', 'bonus': ['五险一金', '股票期权', '补充医疗保险', '补充公积金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128825198.html?rc=03'}

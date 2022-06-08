@@ -1,0 +1,1 @@
+{'company_name': '席勒中国医疗设备有限公司', 'job_name': '研发总监—代招', 'geography': '北京', 'bonus': ['五险一金', '定期体检', '周末双休', '绩效奖金'], 'salary': 4.17, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126243351.html?rc=03'}

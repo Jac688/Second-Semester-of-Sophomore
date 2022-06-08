@@ -1,0 +1,1 @@
+{'company_name': '广东爱依服商贸有限公司', 'job_name': '软件开发专员C#(J10002)', 'geography': '佛山', 'bonus': ['带薪年假', '年终双薪', '购买五险', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/123809233.html?rc=03'}

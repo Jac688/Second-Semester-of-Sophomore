@@ -1,0 +1,1 @@
+{'company_name': '巨麦游戏', 'job_name': 'C++服务端开发c++后端开发', 'geography': '广州-天河区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125902524.html?rc=03'}

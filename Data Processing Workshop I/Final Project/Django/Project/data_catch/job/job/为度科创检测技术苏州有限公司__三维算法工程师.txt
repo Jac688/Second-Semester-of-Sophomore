@@ -1,0 +1,1 @@
+{'company_name': '为度科创检测技术苏州有限公司', 'job_name': '三维算法工程师', 'geography': '苏州', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '专业培训'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/115255354.html?rc=03'}

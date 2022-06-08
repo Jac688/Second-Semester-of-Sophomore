@@ -1,0 +1,1 @@
+{'company_name': '广东履安实业有限公司', 'job_name': '软件测试工程师', 'geography': '广州-天河区', 'bonus': ['员工旅游', '通讯补贴', '良好晋升机制', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130010509.html?rc=03'}

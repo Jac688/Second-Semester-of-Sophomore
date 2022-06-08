@@ -1,0 +1,1 @@
+{'company_name': '上海蛮酷科技有限公司', 'job_name': '设备技术员-测试', 'geography': '盐城-盐都区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '股票期权'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/yancheng/128142049.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '埃珂森上海企业管理有限公司', 'job_name': 'Research Analyst - Aluminium', 'geography': '上海-浦东新区', 'bonus': ['周末双休', '节日福利', '补充公积金', '补充医疗保险'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132300580.html?rc=03'}

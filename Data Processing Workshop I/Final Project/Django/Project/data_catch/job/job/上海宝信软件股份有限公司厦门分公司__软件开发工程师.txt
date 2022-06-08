@@ -1,0 +1,1 @@
+{'company_name': '上海宝信软件股份有限公司厦门分公司', 'job_name': '软件开发工程师', 'geography': '福州-罗源县', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/106894592.html?rc=03'}

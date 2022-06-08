@@ -1,0 +1,1 @@
+{'company_name': '广东华钦指创软件技术有限公司', 'job_name': 'Java-银行-小程序公众号-本科学信网447', 'geography': '北京-朝阳区', 'bonus': ['节假日福利', '六险一金', '年终奖金', '打车报销'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130326104.html?rc=03'}

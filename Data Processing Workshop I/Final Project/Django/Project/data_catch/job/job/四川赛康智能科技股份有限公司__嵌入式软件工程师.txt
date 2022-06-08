@@ -1,0 +1,1 @@
+{'company_name': '四川赛康智能科技股份有限公司', 'job_name': '嵌入式软件工程师', 'geography': '成都-高新区', 'bonus': ['餐饮补贴', '周末双休', '节日福利', '高温补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/117418408.html?rc=03'}

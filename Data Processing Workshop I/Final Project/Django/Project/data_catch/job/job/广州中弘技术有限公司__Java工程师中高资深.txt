@@ -1,0 +1,1 @@
+{'company_name': '广州中弘技术有限公司', 'job_name': 'Java工程师中高资深', 'geography': '广州-天河区', 'bonus': ['五险一金', '定期体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128687778.html?rc=03'}

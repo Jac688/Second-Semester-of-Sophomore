@@ -1,0 +1,1 @@
+{'company_name': '兰亭集势', 'job_name': '后端测试校招岗', 'geography': '异地招聘', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130110170.html?rc=03'}

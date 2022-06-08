@@ -1,0 +1,1 @@
+{'company_name': 'TUV南德意志集团', 'job_name': '主任工程师(电子电气研发部)-宁波-05533', 'geography': '宁波', 'bonus': ['做五休二', '五险一金', '带薪年假', '周末双休'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127875679.html?rc=03'}

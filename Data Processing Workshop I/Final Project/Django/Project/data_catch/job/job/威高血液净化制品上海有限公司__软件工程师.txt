@@ -1,0 +1,1 @@
+{'company_name': '威高血液净化制品上海有限公司', 'job_name': '软件工程师', 'geography': '上海-浦东新区', 'bonus': ['专业培训', '定期体检', '通讯补贴', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123225648.html?rc=03'}

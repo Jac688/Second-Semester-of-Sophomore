@@ -1,0 +1,1 @@
+{'company_name': '叠拓信息技术(北京)有限公司成都分公司', 'job_name': 'DPDK 研发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130167989.html?rc=03'}

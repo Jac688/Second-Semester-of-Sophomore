@@ -1,0 +1,1 @@
+{'company_name': '四川省循环经济协会', 'job_name': '环保咨询服务', 'geography': '成都-金牛区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '员工旅游'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/102735489.html?rc=03'}

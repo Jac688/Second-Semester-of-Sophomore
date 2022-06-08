@@ -1,0 +1,1 @@
+{'company_name': '北京华夏满天星城市售票网络技术有限公司广州分公司', 'job_name': 'Java开发工程师1', 'geography': '广州', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131742694.html?rc=03'}

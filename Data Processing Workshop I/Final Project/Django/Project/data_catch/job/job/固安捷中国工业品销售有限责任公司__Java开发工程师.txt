@@ -1,0 +1,1 @@
+{'company_name': '固安捷中国工业品销售有限责任公司', 'job_name': 'Java开发工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '定期体检'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131644504.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '德尔福科技 Delphi Technologies', 'job_name': 'System Engineer', 'geography': '苏州', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128934340.html?rc=03'}

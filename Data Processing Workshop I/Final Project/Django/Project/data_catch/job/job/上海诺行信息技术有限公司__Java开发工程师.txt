@@ -1,0 +1,1 @@
+{'company_name': '上海诺行信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '泰安', 'bonus': ['弹性工作', '五险一金', '节日福利', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/taian/131272343.html?rc=03'}

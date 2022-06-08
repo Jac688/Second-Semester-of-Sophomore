@@ -1,0 +1,1 @@
+{'company_name': '广东牧玛生命科技有限公司', 'job_name': '高级嵌入式软件工程师项目经理', 'geography': '东莞-松山湖区', 'bonus': ['股票期权', '绩效奖金', '专业培训', '员工旅游'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/115639460.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '万向钱潮股份有限公司', 'job_name': '应用开发工程师', 'geography': '杭州-萧山区', 'bonus': ['五险一金', '节日福利', '餐饮补贴', '带薪年假'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131184138.html?rc=03'}

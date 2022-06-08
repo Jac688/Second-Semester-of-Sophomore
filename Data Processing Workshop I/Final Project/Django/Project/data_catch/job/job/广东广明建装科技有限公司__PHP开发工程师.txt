@@ -1,0 +1,1 @@
+{'company_name': '广东广明建装科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '佛山-禅城区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/128829176.html?rc=03'}

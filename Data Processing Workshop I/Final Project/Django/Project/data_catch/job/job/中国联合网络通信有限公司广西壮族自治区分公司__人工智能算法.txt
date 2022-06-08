@@ -1,0 +1,1 @@
+{'company_name': '中国联合网络通信有限公司广西壮族自治区分公司', 'job_name': '人工智能算法', 'geography': '南宁', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/nanning/126634389.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '安徽硕金医疗设备有限公司', 'job_name': '嵌入式软件工程师', 'geography': '深圳-南山区', 'bonus': ['周末双休', '五险一金', '绩效奖金', '加班补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131264359.html?rc=03'}

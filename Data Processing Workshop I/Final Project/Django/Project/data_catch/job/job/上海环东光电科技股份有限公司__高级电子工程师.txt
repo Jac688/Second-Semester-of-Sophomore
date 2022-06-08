@@ -1,0 +1,1 @@
+{'company_name': '上海环东光电科技股份有限公司', 'job_name': '高级电子工程师', 'geography': '上海-闵行区', 'bonus': ['绩效奖金', '定期体检', '员工旅游', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130334415.html?rc=03'}

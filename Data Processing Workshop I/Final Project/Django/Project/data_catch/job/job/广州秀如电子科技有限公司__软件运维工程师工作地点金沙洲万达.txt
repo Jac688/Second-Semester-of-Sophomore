@@ -1,0 +1,1 @@
+{'company_name': '广州秀如电子科技有限公司', 'job_name': '软件运维工程师工作地点金沙洲万达', 'geography': '佛山-南海区', 'bonus': ['年终奖金', '专业培训', '绩效奖金', '办公环境舒适'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/125357067.html?rc=03'}

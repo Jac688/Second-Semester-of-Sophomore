@@ -1,0 +1,1 @@
+{'company_name': '上海阅维科技股份有限公司', 'job_name': '协议解析工程师', 'geography': '上海-静安区', 'bonus': ['五险一金', '员工旅游', '专业培训', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122343193.html?rc=03'}

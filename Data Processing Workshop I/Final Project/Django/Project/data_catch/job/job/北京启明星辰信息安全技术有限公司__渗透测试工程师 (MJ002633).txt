@@ -1,0 +1,1 @@
+{'company_name': '北京启明星辰信息安全技术有限公司', 'job_name': '渗透测试工程师 (MJ002633)', 'geography': '北京-海淀区', 'bonus': ['五险一金', '免费班车', '交通补贴', '餐饮补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132123037.html?rc=03'}

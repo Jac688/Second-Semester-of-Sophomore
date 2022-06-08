@@ -1,0 +1,1 @@
+{'company_name': '威朋苏州医疗器械有限公司', 'job_name': '图像处理工程师3D重建方向', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '绩效奖金', '周末双休', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/121351441.html?rc=03'}

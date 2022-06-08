@@ -1,0 +1,1 @@
+{'company_name': '前海财险', 'job_name': '总公司信息技术部系统安全岗', 'geography': '深圳-罗湖区', 'bonus': ['五险一金', '节日礼金', '周末双休', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132219748.html?rc=03'}

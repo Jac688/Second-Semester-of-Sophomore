@@ -1,0 +1,1 @@
+{'company_name': '上海声联网络科技股份有限公司', 'job_name': '中级JAVA工程师', 'geography': '异地招聘', 'bonus': ['专业培训', '五险一金', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/129388218.html?rc=03'}

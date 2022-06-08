@@ -1,0 +1,1 @@
+{'company_name': '四川新科电子技术工程有限责任公司', 'job_name': '单片机硬件嵌入式开发工程师', 'geography': '成都', 'bonus': ['五险一金', '周末双休', '早九晚六', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/59518376.html?rc=03'}

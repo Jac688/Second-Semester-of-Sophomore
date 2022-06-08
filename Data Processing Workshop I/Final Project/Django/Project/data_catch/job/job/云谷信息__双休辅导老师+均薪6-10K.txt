@@ -1,0 +1,1 @@
+{'company_name': '云谷信息', 'job_name': '双休辅导老师+均薪6-10K', 'geography': '成都-青羊区', 'bonus': ['做五休二', '五险一金', '绩效奖金', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132118768.html?rc=03'}

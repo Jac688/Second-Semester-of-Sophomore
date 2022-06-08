@@ -1,0 +1,1 @@
+{'company_name': '广东华软互联科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-黄埔区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127229739.html?rc=03'}

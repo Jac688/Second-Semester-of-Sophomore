@@ -1,0 +1,1 @@
+{'company_name': '山东鲁浦信息技术有限公司', 'job_name': 'python开发实习岗', 'geography': '济南-槐荫区', 'bonus': [], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/jinan/132042244.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '厦门建霖健康家居股份有限公司', 'job_name': 'JAVA工程师集美总部', 'geography': '厦门', 'bonus': ['五险一金', '年终奖金', '带薪年假', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/131835858.html?rc=03'}

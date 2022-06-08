@@ -1,0 +1,1 @@
+{'company_name': '天鸽互动控股有限公司', 'job_name': '量化策略研究员', 'geography': '杭州', 'bonus': ['周末双休', '五险一金', '绩效奖金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/99318498.html?rc=03'}

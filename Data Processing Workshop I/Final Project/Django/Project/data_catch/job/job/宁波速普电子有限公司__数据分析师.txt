@@ -1,0 +1,1 @@
+{'company_name': '宁波速普电子有限公司', 'job_name': '数据分析师', 'geography': '宁波-慈溪市', 'bonus': ['五险一金', '专业培训', '员工旅游', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127899361.html?rc=03'}

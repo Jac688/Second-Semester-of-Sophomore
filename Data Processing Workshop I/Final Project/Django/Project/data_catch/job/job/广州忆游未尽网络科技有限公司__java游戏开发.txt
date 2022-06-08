@@ -1,0 +1,1 @@
+{'company_name': '广州忆游未尽网络科技有限公司', 'job_name': 'java游戏开发', 'geography': '广州', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124018278.html?rc=03'}

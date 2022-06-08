@@ -1,0 +1,1 @@
+{'company_name': '宁波永新光学股份有限公司', 'job_name': '软件工程师急聘', 'geography': '宁波-高新区', 'bonus': ['五险一金', '交通补贴', '专业培训', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/82349404.html?rc=03'}

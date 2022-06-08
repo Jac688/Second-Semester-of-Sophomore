@@ -1,0 +1,1 @@
+{'company_name': '北京泛泰克斯仪器有限公司', 'job_name': '售前售后技术支持', 'geography': '北京-东城区', 'bonus': ['餐饮补贴', '通讯补贴', '专业培训', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129363790.html?rc=03'}

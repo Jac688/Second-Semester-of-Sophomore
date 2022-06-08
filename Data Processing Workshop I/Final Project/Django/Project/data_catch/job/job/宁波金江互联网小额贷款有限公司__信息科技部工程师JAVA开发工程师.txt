@@ -1,0 +1,1 @@
+{'company_name': '宁波金江互联网小额贷款有限公司', 'job_name': '信息科技部工程师JAVA开发工程师', 'geography': '宁波', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/118200062.html?rc=03'}

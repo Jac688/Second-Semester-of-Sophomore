@@ -1,0 +1,1 @@
+{'company_name': '广州车拉夫汽车科技有限公司', 'job_name': '智能网联技术开发工程师', 'geography': '广州-白云区', 'bonus': ['年终奖金', '员工旅游', '餐饮补贴', '包吃'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124419501.html?rc=03'}

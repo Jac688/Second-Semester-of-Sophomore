@@ -1,0 +1,1 @@
+{'company_name': '中银金融科技苏州有限公司', 'job_name': '资深Python开发工程师', 'geography': '苏州-相城区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128821459.html?rc=03'}

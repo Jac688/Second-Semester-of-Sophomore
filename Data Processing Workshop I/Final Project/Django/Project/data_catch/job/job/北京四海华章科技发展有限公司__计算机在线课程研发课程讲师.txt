@@ -1,0 +1,1 @@
+{'company_name': '北京四海华章科技发展有限公司', 'job_name': '计算机在线课程研发课程讲师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132234669.html?rc=03'}

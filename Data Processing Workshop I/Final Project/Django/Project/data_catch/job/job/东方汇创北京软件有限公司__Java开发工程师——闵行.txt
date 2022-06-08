@@ -1,0 +1,1 @@
+{'company_name': '东方汇创北京软件有限公司', 'job_name': 'Java开发工程师——闵行', 'geography': '上海-闵行区', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131843004.html?rc=03'}

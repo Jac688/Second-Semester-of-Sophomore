@@ -1,0 +1,1 @@
+{'company_name': '宁波知微瑞驰信息科技有限公司', 'job_name': 'java初级工程师', 'geography': '宁波', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130987868.html?rc=03'}

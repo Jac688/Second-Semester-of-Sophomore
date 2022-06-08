@@ -1,0 +1,1 @@
+{'company_name': '大连信雅达软件有限公司', 'job_name': '中高级java工程师—杭州泰隆银行本科', 'geography': '杭州-上城区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128877693.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '思达威北京能源科技有限公司', 'job_name': 'SDW005——网络运维文案管理工程师', 'geography': '北京-房山区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131944318.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海安诺其集团股份有限公司', 'job_name': '信息技术专员', 'geography': '上海-青浦区', 'bonus': ['免费班车', '交通补贴', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129888394.html?rc=03'}

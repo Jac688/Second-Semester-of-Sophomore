@@ -1,0 +1,1 @@
+{'company_name': '山东壹典专业设计有限公司', 'job_name': 'PHP开发工程师', 'geography': '济南-高新区', 'bonus': ['五险一金', '绩效奖金', '定期团建', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130345913.html?rc=03'}

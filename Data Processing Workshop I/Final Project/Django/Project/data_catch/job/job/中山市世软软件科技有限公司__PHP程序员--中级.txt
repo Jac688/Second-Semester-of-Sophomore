@@ -1,0 +1,1 @@
+{'company_name': '中山市世软软件科技有限公司', 'job_name': 'PHP程序员--中级', 'geography': '中山-港口镇', 'bonus': ['补充医疗保险', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/114533128.html?rc=03'}

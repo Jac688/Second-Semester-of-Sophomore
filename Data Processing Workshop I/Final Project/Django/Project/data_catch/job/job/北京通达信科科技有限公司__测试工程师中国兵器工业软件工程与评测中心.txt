@@ -1,0 +1,1 @@
+{'company_name': '北京通达信科科技有限公司', 'job_name': '测试工程师中国兵器工业软件工程与评测中心', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐补', '生日蛋糕', '保密津贴'], 'salary': 0.55, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130133694.html?rc=03'}

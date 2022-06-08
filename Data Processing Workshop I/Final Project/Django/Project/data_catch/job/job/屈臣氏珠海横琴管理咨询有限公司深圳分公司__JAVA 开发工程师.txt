@@ -1,0 +1,1 @@
+{'company_name': '屈臣氏珠海横琴管理咨询有限公司深圳分公司', 'job_name': 'JAVA 开发工程师', 'geography': '深圳-罗湖区', 'bonus': ['五险一金', '专业培训', '年终奖金', '年终双薪'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125061225.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州九顶软件股份有限公司', 'job_name': '售前技术支持工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124360582.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国民航信息网络股份有限公司', 'job_name': '中级开放系统开发工程师运维开发方向0902', 'geography': '北京-顺义区', 'bonus': ['五险一金', '补充医疗保险', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130241595.html?rc=03'}

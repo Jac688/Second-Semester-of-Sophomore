@@ -1,0 +1,1 @@
+{'company_name': '上海市宣传系统人才交流中心', 'job_name': '技术人员虹口区融媒体中心春季线上招聘会', 'geography': '上海', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131208303.html?rc=03'}

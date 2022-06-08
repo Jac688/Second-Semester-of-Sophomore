@@ -1,0 +1,1 @@
+{'company_name': '北京首钢国际工程技术有限公司', 'job_name': '自动控制工程师', 'geography': '北京-石景山区', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132168372.html?rc=03'}

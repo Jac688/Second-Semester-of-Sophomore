@@ -1,0 +1,1 @@
+{'company_name': '完美世界成都公司', 'job_name': '技术美术动画方向—天智游工作室', 'geography': '成都', 'bonus': ['定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131695620.html?rc=03'}

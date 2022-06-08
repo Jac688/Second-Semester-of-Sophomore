@@ -1,0 +1,1 @@
+{'company_name': '北京福谦源管理咨询有限公司', 'job_name': '后端开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '周末双休', '年底双薪', '交通补助'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130851713.html?rc=03'}

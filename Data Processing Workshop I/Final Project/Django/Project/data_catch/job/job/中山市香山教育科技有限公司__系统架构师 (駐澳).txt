@@ -1,0 +1,1 @@
+{'company_name': '中山市香山教育科技有限公司', 'job_name': '系统架构师 (駐澳)', 'geography': '珠海-横琴新区', 'bonus': ['带薪年假', '节日福利', '五险一金', '包吃'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/127398178.html?rc=03'}

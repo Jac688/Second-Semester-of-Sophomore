@@ -1,0 +1,1 @@
+{'company_name': '北科天绘集团', 'job_name': '高级软件工程师--嵌入式方向', 'geography': '北京', 'bonus': ['五险一金', '交通补贴', '专业培训', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129004224.html?rc=03'}

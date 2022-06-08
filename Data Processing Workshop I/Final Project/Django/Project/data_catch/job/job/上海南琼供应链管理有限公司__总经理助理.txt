@@ -1,0 +1,1 @@
+{'company_name': '上海南琼供应链管理有限公司', 'job_name': '总经理助理', 'geography': '上海-浦东新区', 'bonus': ['带薪年假', '五险一金', '餐饮补贴', '免费体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131963552.html?rc=03'}

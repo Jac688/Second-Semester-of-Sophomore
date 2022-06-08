@@ -1,0 +1,1 @@
+{'company_name': '云南龙津药业销售有限公司', 'job_name': 'PHP开发工程师', 'geography': '昆明-西山区', 'bonus': ['带薪年假', '五险一金', '节日福利', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/kunming/108534743.html?rc=03'}

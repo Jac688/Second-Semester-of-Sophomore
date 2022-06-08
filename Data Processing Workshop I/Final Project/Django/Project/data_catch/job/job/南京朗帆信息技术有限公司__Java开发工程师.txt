@@ -1,0 +1,1 @@
+{'company_name': '南京朗帆信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '无锡-无锡新区', 'bonus': ['餐饮补贴', '六险一金', '定期体检', '补充医疗保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/132225629.html?rc=03'}

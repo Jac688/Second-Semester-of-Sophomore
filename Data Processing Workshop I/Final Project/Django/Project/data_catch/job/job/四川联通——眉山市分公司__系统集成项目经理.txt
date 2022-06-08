@@ -1,0 +1,1 @@
+{'company_name': '四川联通——眉山市分公司', 'job_name': '系统集成项目经理', 'geography': '眉山', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/meishan/129450673.html?rc=03'}

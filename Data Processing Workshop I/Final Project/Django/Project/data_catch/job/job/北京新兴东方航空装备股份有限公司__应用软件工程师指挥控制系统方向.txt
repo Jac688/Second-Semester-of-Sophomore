@@ -1,0 +1,1 @@
+{'company_name': '北京新兴东方航空装备股份有限公司', 'job_name': '应用软件工程师指挥控制系统方向', 'geography': '北京-海淀区', 'bonus': ['周末双休', '免费班车', '绩效奖金', '带薪年假'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123686721.html?rc=03'}

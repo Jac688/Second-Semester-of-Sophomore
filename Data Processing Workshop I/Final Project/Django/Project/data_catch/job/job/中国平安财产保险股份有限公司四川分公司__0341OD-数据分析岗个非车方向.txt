@@ -1,0 +1,1 @@
+{'company_name': '中国平安财产保险股份有限公司四川分公司', 'job_name': '0341OD-数据分析岗个非车方向', 'geography': '成都-武侯区', 'bonus': ['五险一金', '绩效奖金', '带薪年假', '补充医疗保险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131770989.html?rc=03'}

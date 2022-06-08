@@ -1,0 +1,1 @@
+{'company_name': '北京搜知数据科技有限公司', 'job_name': '算法工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '超长春节假期'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129433012.html?rc=03'}

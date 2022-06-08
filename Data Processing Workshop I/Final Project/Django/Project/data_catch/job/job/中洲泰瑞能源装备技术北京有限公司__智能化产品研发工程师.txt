@@ -1,0 +1,1 @@
+{'company_name': '中洲泰瑞能源装备技术北京有限公司', 'job_name': '智能化产品研发工程师', 'geography': '北京-通州区', 'bonus': ['五险', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130315437.html?rc=03'}

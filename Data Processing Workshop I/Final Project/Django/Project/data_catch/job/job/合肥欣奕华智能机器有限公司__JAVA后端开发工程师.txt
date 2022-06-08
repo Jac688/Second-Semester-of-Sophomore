@@ -1,0 +1,1 @@
+{'company_name': '合肥欣奕华智能机器有限公司', 'job_name': 'JAVA后端开发工程师', 'geography': '合肥-新站区', 'bonus': ['五险一金', '免费班车', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hefei/127134023.html?rc=03'}

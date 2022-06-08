@@ -1,0 +1,1 @@
+{'company_name': '上海艾廉信息技术有限公司', 'job_name': 'C++软件工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '出国机会', '年终奖金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/99181916.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海博泰悦臻电子设备制造有限公司', 'job_name': 'Senior Consultant 5+ years', 'geography': '北京', 'bonus': ['五险一金', '餐补'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132167721.html?rc=03'}

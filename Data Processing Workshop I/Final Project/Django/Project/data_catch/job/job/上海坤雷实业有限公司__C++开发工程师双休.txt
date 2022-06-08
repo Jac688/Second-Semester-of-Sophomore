@@ -1,0 +1,1 @@
+{'company_name': '上海坤雷实业有限公司', 'job_name': 'C++开发工程师双休', 'geography': '上海-长宁区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '免费班车'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/115620186.html?rc=03'}

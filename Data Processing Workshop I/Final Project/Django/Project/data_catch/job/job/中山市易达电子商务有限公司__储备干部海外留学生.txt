@@ -1,0 +1,1 @@
+{'company_name': '中山市易达电子商务有限公司', 'job_name': '储备干部海外留学生', 'geography': '中山', 'bonus': ['五险一金', '周末双休', '绩效奖金', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/119391107.html?rc=03'}

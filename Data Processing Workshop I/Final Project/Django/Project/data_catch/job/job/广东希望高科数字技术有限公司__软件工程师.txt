@@ -1,0 +1,1 @@
+{'company_name': '广东希望高科数字技术有限公司', 'job_name': '软件工程师', 'geography': '佛山', 'bonus': ['免费班车', '专业培训', '年终奖金', '绩效奖金'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/foshan/128780545.html?rc=03'}

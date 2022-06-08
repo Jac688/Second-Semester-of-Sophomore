@@ -1,0 +1,1 @@
+{'company_name': '北京金华汉新技术有限责任公司', 'job_name': '研发工程师助理', 'geography': '北京', 'bonus': ['提供住宿'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121954093.html?rc=03'}

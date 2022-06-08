@@ -1,0 +1,1 @@
+{'company_name': '上海三星半导体有限公司', 'job_name': 'Memory测试工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132161297.html?rc=03'}

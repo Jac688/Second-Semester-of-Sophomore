@@ -1,0 +1,1 @@
+{'company_name': '宏盛建业投资集团有限公司', 'job_name': '测试工程师', 'geography': '南昌', 'bonus': ['做五休二', '周末双休', '专业培训', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/124518391.html?rc=03'}

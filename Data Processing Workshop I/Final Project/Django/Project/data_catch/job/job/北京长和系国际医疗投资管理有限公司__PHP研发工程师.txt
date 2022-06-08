@@ -1,0 +1,1 @@
+{'company_name': '北京长和系国际医疗投资管理有限公司', 'job_name': 'PHP研发工程师', 'geography': '北京-丰台区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131298409.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '全球购骑士特权', 'job_name': '用户运营经理 (MJ000125)', 'geography': '广州-天河区', 'bonus': ['做五休二', '周末双休', '弹性工作', '带薪年假'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130516091.html?rc=03'}

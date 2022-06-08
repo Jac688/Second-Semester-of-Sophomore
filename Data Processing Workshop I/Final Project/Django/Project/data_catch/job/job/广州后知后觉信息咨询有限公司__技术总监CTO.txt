@@ -1,0 +1,1 @@
+{'company_name': '广州后知后觉信息咨询有限公司', 'job_name': '技术总监CTO', 'geography': '广州', 'bonus': ['节日福利', '团队有活力', '企业文化好', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126673648.html?rc=03'}

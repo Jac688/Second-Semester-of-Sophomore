@@ -1,0 +1,1 @@
+{'company_name': '得镨电子科技上海有限公司', 'job_name': '嵌入式软件工程师-深圳', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130354656.html?rc=03'}

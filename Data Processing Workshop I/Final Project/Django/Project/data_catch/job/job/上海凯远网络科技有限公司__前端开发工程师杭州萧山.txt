@@ -1,0 +1,1 @@
+{'company_name': '上海凯远网络科技有限公司', 'job_name': '前端开发工程师杭州萧山', 'geography': '杭州-萧山区', 'bonus': ['年终奖金', '五险一金', '员工旅游', '专业培训'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/123434694.html?rc=03'}

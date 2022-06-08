@@ -1,0 +1,1 @@
+{'company_name': '云涌科技', 'job_name': '安全操作系统', 'geography': '泰州-海陵区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/taizhou/127898043.html?rc=03'}

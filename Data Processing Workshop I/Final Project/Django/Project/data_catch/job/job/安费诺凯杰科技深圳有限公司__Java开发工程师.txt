@@ -1,0 +1,1 @@
+{'company_name': '安费诺凯杰科技深圳有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-光明新区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130644857.html?rc=03'}

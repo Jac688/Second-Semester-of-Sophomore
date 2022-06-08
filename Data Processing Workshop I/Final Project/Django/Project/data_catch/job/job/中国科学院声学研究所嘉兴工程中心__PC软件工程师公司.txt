@@ -1,0 +1,1 @@
+{'company_name': '中国科学院声学研究所嘉兴工程中心', 'job_name': 'PC软件工程师公司', 'geography': '异地招聘', 'bonus': ['员工旅游', '餐饮补贴', '专业培训', '可以提供住宿'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/105200295.html?rc=03'}

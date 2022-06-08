@@ -1,0 +1,1 @@
+{'company_name': '南京道有科技实业有限公司', 'job_name': 'Java高级开发工程师', 'geography': '南京-秦淮区', 'bonus': ['员工旅游', '定期体检', '五险一金', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/91108205.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '华润微电子有限公司—封测事业群', 'job_name': 'IT开发工程师', 'geography': '重庆-沙坪坝区', 'bonus': ['包吃', '包住宿', '五险一金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131421824.html?rc=03'}

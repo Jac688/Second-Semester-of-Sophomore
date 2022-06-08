@@ -1,0 +1,1 @@
+{'company_name': '信必优(深圳)信息技术有限公司', 'job_name': 'Java高级开发工程师', 'geography': '杭州-滨江区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132279962.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海安越企业管理咨询有限公司', 'job_name': '全栈开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '带薪年假', '带薪病假'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132243481.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川展谊网络科技有限公司', 'job_name': 'PHP学徒', 'geography': '绵阳', 'bonus': ['专业培训', '周末双休', '生活补助'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/mianyang/74843885.html?rc=03'}

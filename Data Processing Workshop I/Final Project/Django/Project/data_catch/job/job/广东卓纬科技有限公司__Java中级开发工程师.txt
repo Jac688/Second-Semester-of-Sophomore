@@ -1,0 +1,1 @@
+{'company_name': '广东卓纬科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '郑州-中原区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhengzhou/127908834.html?rc=03'}

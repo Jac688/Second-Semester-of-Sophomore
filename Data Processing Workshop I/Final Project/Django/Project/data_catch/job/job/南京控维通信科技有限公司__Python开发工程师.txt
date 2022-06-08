@@ -1,0 +1,1 @@
+{'company_name': '南京控维通信科技有限公司', 'job_name': 'Python开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '员工旅游', '定期体检', '交通补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129697621.html?rc=03'}

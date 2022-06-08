@@ -1,0 +1,1 @@
+{'company_name': '北京中宸微电子有限公司', 'job_name': '数字IC设计工程师北京', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/114138794.html?rc=03'}

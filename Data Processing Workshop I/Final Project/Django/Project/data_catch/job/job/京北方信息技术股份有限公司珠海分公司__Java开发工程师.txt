@@ -1,0 +1,1 @@
+{'company_name': '京北方信息技术股份有限公司珠海分公司', 'job_name': 'Java开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/125985983.html?rc=03'}

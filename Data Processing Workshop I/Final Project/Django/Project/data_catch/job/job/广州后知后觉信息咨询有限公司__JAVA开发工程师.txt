@@ -1,0 +1,1 @@
+{'company_name': '广州后知后觉信息咨询有限公司', 'job_name': 'JAVA开发工程师', 'geography': '广州-海珠区', 'bonus': ['节日福利', '团队有活力', '企业文化好', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132291296.html?rc=03'}

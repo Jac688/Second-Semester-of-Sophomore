@@ -1,0 +1,1 @@
+{'company_name': '广西鸿果科技有限公司', 'job_name': 'Java开发实习生', 'geography': '南宁-青秀区', 'bonus': ['五险', '年终奖金', '定期体检', '弹性工作'], 'salary': 0.1, 'detail_url': 'https://msearch.51job.com/jobs/nanning/128085817.html?rc=03'}

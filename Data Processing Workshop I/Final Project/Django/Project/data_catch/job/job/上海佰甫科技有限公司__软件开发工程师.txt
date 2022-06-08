@@ -1,0 +1,1 @@
+{'company_name': '上海佰甫科技有限公司', 'job_name': '软件开发工程师', 'geography': '上海-宝山区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132160963.html?rc=03'}

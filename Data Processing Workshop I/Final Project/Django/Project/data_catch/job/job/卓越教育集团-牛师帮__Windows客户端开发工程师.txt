@@ -1,0 +1,1 @@
+{'company_name': '卓越教育集团-牛师帮', 'job_name': 'Windows客户端开发工程师', 'geography': '广州-越秀区', 'bonus': ['0/5004/131'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126391132.html?rc=03'}

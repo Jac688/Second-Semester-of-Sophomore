@@ -1,0 +1,1 @@
+{'company_name': '山东捷瑞数字科技股份有限公司', 'job_name': '前端开发', 'geography': '烟台', 'bonus': ['五险一金', '定期体检', '年终奖金', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/yantai/122361505.html?rc=03'}

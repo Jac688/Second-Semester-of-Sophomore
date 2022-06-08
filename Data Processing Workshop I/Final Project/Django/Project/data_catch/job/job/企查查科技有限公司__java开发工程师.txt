@@ -1,0 +1,1 @@
+{'company_name': '企查查科技有限公司', 'job_name': 'java开发工程师', 'geography': '苏州-工业园区', 'bonus': [], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128018693.html?rc=03'}

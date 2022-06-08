@@ -1,0 +1,1 @@
+{'company_name': '广东工科机电有限公司', 'job_name': '人工智能AI算法工程师', 'geography': '佛山', 'bonus': ['带薪年假', '五险一金', '包住宿', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/125971547.html?rc=03'}

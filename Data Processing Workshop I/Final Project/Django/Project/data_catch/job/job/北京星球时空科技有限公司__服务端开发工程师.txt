@@ -1,0 +1,1 @@
+{'company_name': '北京星球时空科技有限公司', 'job_name': '服务端开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/106835955.html?rc=03'}

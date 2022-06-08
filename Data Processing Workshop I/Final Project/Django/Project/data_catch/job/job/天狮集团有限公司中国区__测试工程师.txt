@@ -1,0 +1,1 @@
+{'company_name': '天狮集团有限公司中国区', 'job_name': '测试工程师', 'geography': '北京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130634429.html?rc=03'}

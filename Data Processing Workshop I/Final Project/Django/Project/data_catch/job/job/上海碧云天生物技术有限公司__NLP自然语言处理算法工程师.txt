@@ -1,0 +1,1 @@
+{'company_name': '上海碧云天生物技术有限公司', 'job_name': 'NLP自然语言处理算法工程师', 'geography': '杭州-西湖区', 'bonus': ['员工旅游', '餐饮补贴', '员工宿舍', '人才补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128950896.html?rc=03'}

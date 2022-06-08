@@ -1,0 +1,1 @@
+{'company_name': '北京永洪商智科技有限公司', 'job_name': '数仓专家', 'geography': '成都-高新区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131697020.html?rc=03'}

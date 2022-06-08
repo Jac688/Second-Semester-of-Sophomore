@@ -1,0 +1,1 @@
+{'company_name': '北京宏盛高新技术有限公司', 'job_name': '项目实施及运维岗-北京', 'geography': '北京-东城区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128077888.html?rc=03'}

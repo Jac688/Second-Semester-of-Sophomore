@@ -1,0 +1,1 @@
+{'company_name': '广东国瑞智能科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '佛山-南海区', 'bonus': ['周末双休', '弹性工作', '五险一金', '做五休二'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/foshan/130364236.html?rc=03'}

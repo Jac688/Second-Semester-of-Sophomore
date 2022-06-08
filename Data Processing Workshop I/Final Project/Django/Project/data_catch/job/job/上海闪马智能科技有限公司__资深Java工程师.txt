@@ -1,0 +1,1 @@
+{'company_name': '上海闪马智能科技有限公司', 'job_name': '资深Java工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131875439.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '佛山市安齿生物科技有限公司', 'job_name': '图像处理工程师', 'geography': '佛山', 'bonus': ['五险一金', '周末双休', '员工旅游', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129558537.html?rc=03'}

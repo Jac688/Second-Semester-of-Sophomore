@@ -1,0 +1,1 @@
+{'company_name': '广东众联万家教育科技有限公司', 'job_name': 'L前端技术开发工程师集团总部正式编制待遇从优', 'geography': '佛山-禅城区', 'bonus': ['弹性工作', '带薪年假', '五险一金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/126894645.html?rc=03'}

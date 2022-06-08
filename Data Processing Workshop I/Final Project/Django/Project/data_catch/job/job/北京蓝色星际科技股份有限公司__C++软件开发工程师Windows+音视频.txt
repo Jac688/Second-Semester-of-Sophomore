@@ -1,0 +1,1 @@
+{'company_name': '北京蓝色星际科技股份有限公司', 'job_name': 'C++软件开发工程师Windows+音视频', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130612535.html?rc=03'}

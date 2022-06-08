@@ -1,0 +1,1 @@
+{'company_name': '南京电研电力自动化股份有限公司', 'job_name': '数据分析师', 'geography': '南京-江宁区', 'bonus': ['带薪年假', '五险一金', '节日福利', '免费班车'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129094628.html?rc=03'}

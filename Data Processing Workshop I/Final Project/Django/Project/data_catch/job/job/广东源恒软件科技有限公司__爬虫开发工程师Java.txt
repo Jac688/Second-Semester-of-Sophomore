@@ -1,0 +1,1 @@
+{'company_name': '广东源恒软件科技有限公司', 'job_name': '爬虫开发工程师Java', 'geography': '广州-天河区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124441951.html?rc=03'}

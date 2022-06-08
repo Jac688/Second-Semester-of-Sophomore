@@ -1,0 +1,1 @@
+{'company_name': '广东银雁科技服务有限公司', 'job_name': 'Java工程师银联接口', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '专业培训', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/116480610.html?rc=03'}

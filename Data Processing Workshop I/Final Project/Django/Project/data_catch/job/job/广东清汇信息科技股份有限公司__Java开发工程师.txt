@@ -1,0 +1,1 @@
+{'company_name': '广东清汇信息科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-天河区', 'bonus': ['六险', '双休', '免费班车', '弹性工作'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132213481.html?rc=03'}

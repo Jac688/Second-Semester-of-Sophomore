@@ -1,0 +1,1 @@
+{'company_name': '伟乐视讯科技股份有限公司', 'job_name': 'C++高级工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '定期体检', '节日福利', '员工旅游'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129482127.html?rc=03'}

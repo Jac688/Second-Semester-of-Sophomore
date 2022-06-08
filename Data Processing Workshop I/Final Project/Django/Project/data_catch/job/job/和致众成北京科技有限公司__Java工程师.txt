@@ -1,0 +1,1 @@
+{'company_name': '和致众成北京科技有限公司', 'job_name': 'Java工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/yantai/129485124.html?rc=03'}

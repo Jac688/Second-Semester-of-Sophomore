@@ -1,0 +1,1 @@
+{'company_name': '孚能科技', 'job_name': '财务项目控制经理', 'geography': '异地招聘', 'bonus': ['年终奖金', '免费食宿', '节日福利', '周末双休'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131867159.html?rc=03'}

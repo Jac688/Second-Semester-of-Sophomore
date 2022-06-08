@@ -1,0 +1,1 @@
+{'company_name': '三态电子商务股份有限公司', 'job_name': '后台开发工程师', 'geography': '深圳-南山区', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131882245.html?rc=03'}

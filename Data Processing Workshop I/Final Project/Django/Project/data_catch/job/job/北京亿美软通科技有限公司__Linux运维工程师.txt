@@ -1,0 +1,1 @@
+{'company_name': '北京亿美软通科技有限公司', 'job_name': 'Linux运维工程师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131189006.html?rc=03'}

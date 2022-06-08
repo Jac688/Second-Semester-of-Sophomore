@@ -1,0 +1,1 @@
+{'company_name': '为升科上海科技电子有限公司', 'job_name': '底层软件工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '年终奖金', '专业培训', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131093274.html?rc=03'}

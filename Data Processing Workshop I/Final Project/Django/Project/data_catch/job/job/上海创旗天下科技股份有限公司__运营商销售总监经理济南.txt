@@ -1,0 +1,1 @@
+{'company_name': '上海创旗天下科技股份有限公司', 'job_name': '运营商销售总监经理济南', 'geography': '济南-高新区', 'bonus': ['专业培训', '绩效奖金', '餐饮补贴', '加班补贴'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/jinan/129245710.html?rc=03'}

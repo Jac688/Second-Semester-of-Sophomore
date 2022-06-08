@@ -1,0 +1,1 @@
+{'company_name': '北京北大方正电子有限公司', 'job_name': '前端开发工程师(J13457)', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', ',带薪年假,', '体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129079195.html?rc=03'}

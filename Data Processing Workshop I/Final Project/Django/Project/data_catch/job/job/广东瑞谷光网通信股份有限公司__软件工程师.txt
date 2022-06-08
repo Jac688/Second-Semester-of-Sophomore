@@ -1,0 +1,1 @@
+{'company_name': '广东瑞谷光网通信股份有限公司', 'job_name': '软件工程师', 'geography': '东莞-长安镇', 'bonus': ['五险一金', '定期体检', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131013835.html?rc=03'}

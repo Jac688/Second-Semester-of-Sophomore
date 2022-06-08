@@ -1,0 +1,1 @@
+{'company_name': '北京北大方正电子有限公司', 'job_name': 'Java工程师(J13467)', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129223692.html?rc=03'}

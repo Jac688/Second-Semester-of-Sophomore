@@ -1,0 +1,1 @@
+{'company_name': '仁和会计教育集团', 'job_name': 'DBA高级开发工程师', 'geography': '上海-杨浦区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127441462.html?rc=03'}

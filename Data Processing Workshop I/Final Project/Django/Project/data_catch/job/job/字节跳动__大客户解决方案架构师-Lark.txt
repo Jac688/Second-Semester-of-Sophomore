@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '大客户解决方案架构师-Lark', 'geography': '杭州', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '五险一金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/125622876.html?rc=03'}

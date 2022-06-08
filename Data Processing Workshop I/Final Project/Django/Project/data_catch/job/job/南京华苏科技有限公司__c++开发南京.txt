@@ -1,0 +1,1 @@
+{'company_name': '南京华苏科技有限公司', 'job_name': 'c++开发南京', 'geography': '南京', 'bonus': ['五险一金', '年终奖金', '通讯补贴', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130508858.html?rc=03'}

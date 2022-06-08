@@ -1,0 +1,1 @@
+{'company_name': '广东方昇科技有限公司', 'job_name': 'Java项目开发', 'geography': '梅州', 'bonus': ['社保', '年终奖金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/meizhou/127578036.html?rc=03'}

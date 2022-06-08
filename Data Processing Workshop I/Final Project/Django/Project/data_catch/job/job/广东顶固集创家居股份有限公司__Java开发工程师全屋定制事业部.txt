@@ -1,0 +1,1 @@
+{'company_name': '广东顶固集创家居股份有限公司', 'job_name': 'Java开发工程师全屋定制事业部', 'geography': '中山', 'bonus': ['五险一金', '定期体检', '年终奖金', '免费班车'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/129314077.html?rc=03'}

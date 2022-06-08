@@ -1,0 +1,1 @@
+{'company_name': '大连华夏机床工具公司', 'job_name': 'Python开发工程师', 'geography': '大连', 'bonus': ['做五休二', '带薪年假', '五险一金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dalian/131997239.html?rc=03'}

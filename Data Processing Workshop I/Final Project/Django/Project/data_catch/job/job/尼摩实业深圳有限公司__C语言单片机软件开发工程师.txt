@@ -1,0 +1,1 @@
+{'company_name': '尼摩实业深圳有限公司', 'job_name': 'C语言单片机软件开发工程师', 'geography': '深圳-龙华区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131124010.html?rc=03'}

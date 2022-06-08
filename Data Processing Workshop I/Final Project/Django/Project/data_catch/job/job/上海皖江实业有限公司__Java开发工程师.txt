@@ -1,0 +1,1 @@
+{'company_name': '上海皖江实业有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128913296.html?rc=03'}

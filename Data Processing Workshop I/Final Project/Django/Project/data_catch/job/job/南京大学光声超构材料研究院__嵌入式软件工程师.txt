@@ -1,0 +1,1 @@
+{'company_name': '南京大学光声超构材料研究院', 'job_name': '嵌入式软件工程师', 'geography': '南京-栖霞区', 'bonus': ['五险一金', '交通补贴', '定期体检', '全额公积金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131625630.html?rc=03'}

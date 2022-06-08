@@ -1,0 +1,1 @@
+{'company_name': '中国金融电子化公司', 'job_name': '产品研发部-高级开发人员', 'geography': '北京-大兴区', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '公司重点项目'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132121209.html?rc=03'}

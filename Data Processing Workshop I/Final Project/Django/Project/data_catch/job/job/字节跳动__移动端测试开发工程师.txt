@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '移动端测试开发工程师', 'geography': '深圳', 'bonus': ['下午茶', '六险一金', '团队氛围好', '晋升空间大'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130465544.html?rc=03'}

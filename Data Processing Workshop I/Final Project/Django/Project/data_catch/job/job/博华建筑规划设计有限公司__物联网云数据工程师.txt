@@ -1,0 +1,1 @@
+{'company_name': '博华建筑规划设计有限公司', 'job_name': '物联网云数据工程师', 'geography': '上海', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130343906.html?rc=03'}

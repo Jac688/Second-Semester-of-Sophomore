@@ -1,0 +1,1 @@
+{'company_name': '同方鼎欣科技股份有限公司', 'job_name': '天运后端开发go或python', 'geography': '北京', 'bonus': ['五险一金', '专业培训', '补充医疗保险', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129518465.html?rc=03'}

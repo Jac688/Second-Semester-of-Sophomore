@@ -1,0 +1,1 @@
+{'company_name': '四川准达信息技术股份有限公司', 'job_name': 'Python-培训讲师-四川', 'geography': '成都-武侯区', 'bonus': ['带薪年假', '五险一金', '定期体检', '定期团建'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132288138.html?rc=03'}

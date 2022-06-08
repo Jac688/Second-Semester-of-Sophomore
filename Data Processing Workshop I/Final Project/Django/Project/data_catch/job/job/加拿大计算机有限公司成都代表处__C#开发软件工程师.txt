@@ -1,0 +1,1 @@
+{'company_name': '加拿大计算机有限公司成都代表处', 'job_name': 'C#开发软件工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '弹性工作', '出国机会'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/71290712.html?rc=03'}

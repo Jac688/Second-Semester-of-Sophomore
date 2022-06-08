@@ -1,0 +1,1 @@
+{'company_name': '上海邦伯现代农业技术有限公司', 'job_name': 'PHP工程师', 'geography': '上海-静安区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '交通补贴'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124250011.html?rc=03'}

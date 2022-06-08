@@ -1,0 +1,1 @@
+{'company_name': '广州市南沙区新华互联网科技职业技能培训学校有限责任公司', 'job_name': '软件开发教师讲师', 'geography': '广州-南沙区', 'bonus': ['五险一金', '包吃', '周末双休', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122829108.html?rc=03'}

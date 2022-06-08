@@ -1,0 +1,1 @@
+{'company_name': '上海中兴易联通讯股份有限公司', 'job_name': 'X86平台软件开发工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '免费班车', '绩效奖金', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128922824.html?rc=03'}

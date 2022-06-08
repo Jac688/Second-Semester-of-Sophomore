@@ -1,0 +1,1 @@
+{'company_name': '上海望友信息科技有限公司', 'job_name': 'C++开发工程师', 'geography': '西安-高新技术产业开发区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/xian/108672777.html?rc=03'}

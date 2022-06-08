@@ -1,0 +1,1 @@
+{'company_name': 'vivo', 'job_name': '安全工程师(008023)', 'geography': '北京', 'bonus': ['弹性工作', '奖金丰厚', '各种团建', '团队大牛多'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129464197.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州南天电脑系统有限公司', 'job_name': 'Java开发工程师重庆', 'geography': '重庆-江北区', 'bonus': ['五险一金', '周末双休', '带薪年假', '员工旅游'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/128460638.html?rc=03'}

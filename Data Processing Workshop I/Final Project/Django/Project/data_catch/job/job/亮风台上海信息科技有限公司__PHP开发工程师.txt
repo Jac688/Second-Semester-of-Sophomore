@@ -1,0 +1,1 @@
+{'company_name': '亮风台上海信息科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '弹性工作', '定期体检', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131777966.html?rc=03'}

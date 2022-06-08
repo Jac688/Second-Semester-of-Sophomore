@@ -1,0 +1,1 @@
+{'company_name': '康码上海生物科技有限公司', 'job_name': '生物信息学工程师 Bioinformatics Engineer', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '交通补贴', '年终奖金', '弹性工作'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/107849509.html?rc=03'}

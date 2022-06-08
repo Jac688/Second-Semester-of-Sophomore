@@ -1,0 +1,1 @@
+{'company_name': '中海物业管理有限公司', 'job_name': 'Java高级开发工程师', 'geography': '深圳-南山区', 'bonus': ['周末双休', '五险一金', '绩效奖金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/105222962.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州市城域信息科技有限公司', 'job_name': '技术支持工程师', 'geography': '广州-海珠区', 'bonus': ['通讯补贴', '交通补贴', '绩效奖金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129250184.html?rc=03'}

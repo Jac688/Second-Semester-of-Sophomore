@@ -1,0 +1,1 @@
+{'company_name': '小i机器人', 'job_name': '资深前端研发专家', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '做五休二'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131785548.html?rc=03'}

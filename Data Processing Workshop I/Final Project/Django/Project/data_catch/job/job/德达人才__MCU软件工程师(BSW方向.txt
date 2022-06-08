@@ -1,0 +1,1 @@
+{'company_name': '德达人才', 'job_name': 'MCU软件工程师(BSW方向', 'geography': '杭州', 'bonus': ['五险一金', '员工旅游', '专业培训', '年终奖金'], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128815005.html?rc=03'}

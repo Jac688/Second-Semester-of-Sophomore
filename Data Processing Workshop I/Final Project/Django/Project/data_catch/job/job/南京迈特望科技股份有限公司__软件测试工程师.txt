@@ -1,0 +1,1 @@
+{'company_name': '南京迈特望科技股份有限公司', 'job_name': '软件测试工程师', 'geography': '北京', 'bonus': ['五险一金', '定期体检', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127867667.html?rc=03'}

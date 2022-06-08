@@ -1,0 +1,1 @@
+{'company_name': '广州洋诚投资担保有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131747284.html?rc=03'}

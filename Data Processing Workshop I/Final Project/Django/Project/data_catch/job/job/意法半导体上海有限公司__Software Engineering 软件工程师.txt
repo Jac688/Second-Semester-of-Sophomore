@@ -1,0 +1,1 @@
+{'company_name': '意法半导体上海有限公司', 'job_name': 'Software Engineering 软件工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '年终奖金'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131693583.html?rc=03'}

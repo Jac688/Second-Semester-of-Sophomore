@@ -1,0 +1,1 @@
+{'company_name': '广州粒子微电子有限公司', 'job_name': '数字IC验证工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '弹性工作'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128238352.html?rc=03'}

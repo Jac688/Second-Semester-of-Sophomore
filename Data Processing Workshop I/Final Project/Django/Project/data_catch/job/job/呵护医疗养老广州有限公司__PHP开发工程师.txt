@@ -1,0 +1,1 @@
+{'company_name': '呵护医疗养老广州有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-越秀区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126857116.html?rc=03'}

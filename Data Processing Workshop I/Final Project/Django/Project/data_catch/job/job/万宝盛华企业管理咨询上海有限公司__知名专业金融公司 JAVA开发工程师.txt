@@ -1,0 +1,1 @@
+{'company_name': '万宝盛华企业管理咨询上海有限公司', 'job_name': '知名专业金融公司 JAVA开发工程师', 'geography': '上海-静安区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132282285.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中电通商数字技术上海有限公司', 'job_name': '研发技术经理需出差', 'geography': '重庆-渝中区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '弹性工作'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/128558900.html?rc=03'}

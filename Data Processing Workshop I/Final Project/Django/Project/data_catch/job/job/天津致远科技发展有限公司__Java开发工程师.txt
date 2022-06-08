@@ -1,0 +1,1 @@
+{'company_name': '天津致远科技发展有限公司', 'job_name': 'Java开发工程师', 'geography': '天津-滨海新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131595534.html?rc=03'}

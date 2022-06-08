@@ -1,0 +1,1 @@
+{'company_name': '久大产业投资集团有限公司', 'job_name': '数据开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '餐饮补贴', '免费班车', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127436686.html?rc=03'}

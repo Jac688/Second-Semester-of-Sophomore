@@ -1,0 +1,1 @@
+{'company_name': '上海新炬网络信息技术股份有限公司', 'job_name': '产品实施工程师', 'geography': '成都-金牛区', 'bonus': ['五险一金', '通讯补贴', '员工旅游', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129287228.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川长虹电器股份有限公司', 'job_name': '图像算法工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131724944.html?rc=03'}

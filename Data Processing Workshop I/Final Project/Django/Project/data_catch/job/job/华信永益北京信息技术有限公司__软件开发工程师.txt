@@ -1,0 +1,1 @@
+{'company_name': '华信永益北京信息技术有限公司', 'job_name': '软件开发工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '节假日礼品'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130007797.html?rc=03'}

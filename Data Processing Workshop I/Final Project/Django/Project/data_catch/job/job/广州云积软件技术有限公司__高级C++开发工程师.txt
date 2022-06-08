@@ -1,0 +1,1 @@
+{'company_name': '广州云积软件技术有限公司', 'job_name': '高级C++开发工程师', 'geography': '广州-黄埔区', 'bonus': ['绩效奖金', '定期体检', '员工旅游', '交通补贴'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/120205029.html?rc=03'}

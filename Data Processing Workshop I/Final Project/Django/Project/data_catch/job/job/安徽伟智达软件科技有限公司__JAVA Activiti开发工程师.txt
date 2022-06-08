@@ -1,0 +1,1 @@
+{'company_name': '安徽伟智达软件科技有限公司', 'job_name': 'JAVA Activiti开发工程师', 'geography': '重庆-南岸区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/125905078.html?rc=03'}

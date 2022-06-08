@@ -1,0 +1,1 @@
+{'company_name': '广西壮族自治区通信产业服务有限公司技术服务分公司', 'job_name': 'Java开发工程师', 'geography': '南宁', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanning/127957012.html?rc=03'}

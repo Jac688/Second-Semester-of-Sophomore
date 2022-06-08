@@ -1,0 +1,1 @@
+{'company_name': '华峰华锦有限公司', 'job_name': '大数据系统架构师', 'geography': '莆田', 'bonus': ['五险一金', '带薪休假', '节日福利', '免费班车'], 'salary': 1.33, 'detail_url': 'https://msearch.51job.com/jobs/putian/129858163.html?rc=03'}

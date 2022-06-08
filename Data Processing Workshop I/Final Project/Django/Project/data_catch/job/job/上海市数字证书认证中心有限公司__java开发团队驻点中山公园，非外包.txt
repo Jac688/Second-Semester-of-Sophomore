@@ -1,0 +1,1 @@
+{'company_name': '上海市数字证书认证中心有限公司', 'job_name': 'java开发团队驻点中山公园，非外包', 'geography': '上海-虹口区', 'bonus': ['五险一金', '补充公积金', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132308185.html?rc=03'}

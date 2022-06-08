@@ -1,0 +1,1 @@
+{'company_name': '四川创企科技有限责任公司', 'job_name': '产品经理', 'geography': '成都-高新区', 'bonus': ['年终奖金', '绩效奖金', '专业培训', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/119727959.html?rc=03'}

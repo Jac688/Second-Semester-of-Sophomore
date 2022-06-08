@@ -1,0 +1,1 @@
+{'company_name': '上海容智信息技术有限公司', 'job_name': '测试', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '年终奖金', '美式工作环境', '领导nice'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128613152.html?rc=03'}

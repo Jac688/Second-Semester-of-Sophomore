@@ -1,0 +1,1 @@
+{'company_name': '广州安广电子科技股份有限公司', 'job_name': '单片机开发工程师宁波', 'geography': '宁波-慈溪市', 'bonus': ['员工旅游', '专业培训', '社会保险', '年终奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129184907.html?rc=03'}

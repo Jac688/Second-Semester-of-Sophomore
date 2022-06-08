@@ -1,0 +1,1 @@
+{'company_name': '上海小虎金融信息服务有限公司', 'job_name': '区块链工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '定期体检', '免费班车', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129716104.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '康宁上海管理有限公司', 'job_name': 'Forecast Analyst', 'geography': '苏州-工业园区', 'bonus': ['专业培训', '五险一金', '发展空间大'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/132017143.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '京东五星电器集团有限公司', 'job_name': '大数据工程师', 'geography': '南京', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/122994359.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州市泰容亿科技有限公司', 'job_name': '数据分析专员电商数据分析', 'geography': '广州-白云区', 'bonus': ['周末双休', '五险一金', '全勤奖', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/117886734.html?rc=03'}

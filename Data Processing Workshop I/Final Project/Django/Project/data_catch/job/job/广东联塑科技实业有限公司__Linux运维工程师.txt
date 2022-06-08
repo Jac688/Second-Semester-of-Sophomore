@@ -1,0 +1,1 @@
+{'company_name': '广东联塑科技实业有限公司', 'job_name': 'Linux运维工程师', 'geography': '佛山-顺德区', 'bonus': ['专业培训', '带薪年假', '社保'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131163217.html?rc=03'}

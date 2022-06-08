@@ -1,0 +1,1 @@
+{'company_name': '广州草木蕃环境科技有限公司', 'job_name': '嵌入式硬件工程师', 'geography': '广州-天河区', 'bonus': ['专业培训', '年终奖金', '定期体检', '五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124319509.html?rc=03'}

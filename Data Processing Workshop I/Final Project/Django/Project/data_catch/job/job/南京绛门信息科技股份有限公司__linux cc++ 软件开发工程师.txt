@@ -1,0 +1,1 @@
+{'company_name': '南京绛门信息科技股份有限公司', 'job_name': 'linux cc++ 软件开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/53713557.html?rc=03'}

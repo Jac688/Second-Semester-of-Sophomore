@@ -1,0 +1,1 @@
+{'company_name': '三只松鼠股份有限公司', 'job_name': '数据分析师杭州', 'geography': '杭州-拱墅区', 'bonus': ['CEO基金', '松鼠家庭日', '六险一金', '15薪'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131315635.html?rc=03'}

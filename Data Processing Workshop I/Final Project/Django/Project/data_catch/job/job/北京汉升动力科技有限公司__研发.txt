@@ -1,0 +1,1 @@
+{'company_name': '北京汉升动力科技有限公司', 'job_name': '研发', 'geography': '北京-顺义区', 'bonus': ['五险一金', '周末双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132295690.html?rc=03'}

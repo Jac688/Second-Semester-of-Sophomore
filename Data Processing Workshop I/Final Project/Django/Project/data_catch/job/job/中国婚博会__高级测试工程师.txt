@@ -1,0 +1,1 @@
+{'company_name': '中国婚博会', 'job_name': '高级测试工程师', 'geography': '杭州-下城区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/123402717.html?rc=03'}

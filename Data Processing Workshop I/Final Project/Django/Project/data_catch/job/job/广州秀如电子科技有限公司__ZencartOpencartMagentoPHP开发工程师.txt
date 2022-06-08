@@ -1,0 +1,1 @@
+{'company_name': '广州秀如电子科技有限公司', 'job_name': 'ZencartOpencartMagentoPHP开发工程师', 'geography': '异地招聘', 'bonus': ['专业培训', '出国机会', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130772480.html?rc=03'}

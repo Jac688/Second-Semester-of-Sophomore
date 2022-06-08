@@ -1,0 +1,1 @@
+{'company_name': '北京融数易雨科技有限公司', 'job_name': '服务器软件工程师', 'geography': '成都', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/107211305.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海海万信息科技股份有限公司', 'job_name': 'java开发-急招', 'geography': '深圳', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127317476.html?rc=03'}

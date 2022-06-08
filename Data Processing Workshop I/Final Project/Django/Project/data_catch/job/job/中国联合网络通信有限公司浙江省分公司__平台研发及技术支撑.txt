@@ -1,0 +1,1 @@
+{'company_name': '中国联合网络通信有限公司浙江省分公司', 'job_name': '平台研发及技术支撑', 'geography': '杭州', 'bonus': ['补充医疗保险', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129667439.html?rc=03'}

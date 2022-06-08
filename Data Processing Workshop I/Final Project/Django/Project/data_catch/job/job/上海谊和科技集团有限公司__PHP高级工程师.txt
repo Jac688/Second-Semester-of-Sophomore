@@ -1,0 +1,1 @@
+{'company_name': '上海谊和科技集团有限公司', 'job_name': 'PHP高级工程师', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132035506.html?rc=03'}

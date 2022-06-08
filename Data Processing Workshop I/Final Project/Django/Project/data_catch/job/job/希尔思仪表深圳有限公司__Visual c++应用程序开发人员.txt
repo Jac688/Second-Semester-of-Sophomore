@@ -1,0 +1,1 @@
+{'company_name': '希尔思仪表深圳有限公司', 'job_name': 'Visual c++应用程序开发人员', 'geography': '深圳', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131849266.html?rc=03'}

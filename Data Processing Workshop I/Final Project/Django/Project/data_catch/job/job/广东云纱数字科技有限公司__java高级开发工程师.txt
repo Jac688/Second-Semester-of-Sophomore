@@ -1,0 +1,1 @@
+{'company_name': '广东云纱数字科技有限公司', 'job_name': 'java高级开发工程师', 'geography': '深圳-南山区', 'bonus': ['做五休二', '五险一金', '绩效奖金', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131544133.html?rc=03'}

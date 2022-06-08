@@ -1,0 +1,1 @@
+{'company_name': '中和农信项目管理有限公司', 'job_name': '风险监测岗北京', 'geography': '北京-东城区', 'bonus': ['五险一金', '专业培训', '年终奖金', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128783502.html?rc=03'}

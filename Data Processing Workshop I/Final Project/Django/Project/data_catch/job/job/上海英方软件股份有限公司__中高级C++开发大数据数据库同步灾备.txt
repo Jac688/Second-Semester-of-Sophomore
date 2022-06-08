@@ -1,0 +1,1 @@
+{'company_name': '上海英方软件股份有限公司', 'job_name': '中高级C++开发大数据数据库同步灾备', 'geography': '杭州', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128815876.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中海油信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '惠州', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '专业培训'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/124106548.html?rc=03'}

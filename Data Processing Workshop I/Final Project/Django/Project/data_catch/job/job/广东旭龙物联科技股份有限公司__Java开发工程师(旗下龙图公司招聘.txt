@@ -1,0 +1,1 @@
+{'company_name': '广东旭龙物联科技股份有限公司', 'job_name': 'Java开发工程师(旗下龙图公司招聘', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129058073.html?rc=03'}

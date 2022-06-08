@@ -1,0 +1,1 @@
+{'company_name': '大连百易软件股份有限公司', 'job_name': '视景仿真软件工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '定期体检', '交通补贴', '餐饮补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127596225.html?rc=03'}

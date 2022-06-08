@@ -1,0 +1,1 @@
+{'company_name': '上海布鲁可科技集团有限公司', 'job_name': '服务端开发工程师PHPJAVA', 'geography': '上海-闵行区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/112536410.html?rc=03'}

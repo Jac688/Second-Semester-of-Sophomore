@@ -1,0 +1,1 @@
+{'company_name': '上海网越信息技术股份有限公司', 'job_name': 'LINUX运维工程师-上海-00092', 'geography': '上海', 'bonus': ['五险一金', '员工旅游', '交通补贴', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/72053676.html?rc=03'}

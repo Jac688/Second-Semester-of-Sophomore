@@ -1,0 +1,1 @@
+{'company_name': '南京回味连锁餐饮', 'job_name': 'IT报表开发帆软、Oracle数据仓', 'geography': '南京-秦淮区', 'bonus': ['周末双休', '五险一金', '带薪年假', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131272852.html?rc=03'}

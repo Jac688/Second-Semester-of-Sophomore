@@ -1,0 +1,1 @@
+{'company_name': '宁波纽康生物技术有限公司', 'job_name': 'Java开发工程师宁波', 'geography': '宁波-北仑区', 'bonus': ['年终奖金', '五险一金', '包食宿'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/111344700.html?rc=03'}

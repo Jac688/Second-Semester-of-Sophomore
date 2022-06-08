@@ -1,0 +1,1 @@
+{'company_name': '康宁生命科学吴江有限公司', 'job_name': 'Planning manager', 'geography': '苏州-吴江区', 'bonus': ['专业培训', '五险一金', '免费班车', '带薪年假'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130767163.html?rc=03'}

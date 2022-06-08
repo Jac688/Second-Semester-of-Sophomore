@@ -1,0 +1,1 @@
+{'company_name': '上膳源', 'job_name': '前端小程序开发', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117826308.html?rc=03'}

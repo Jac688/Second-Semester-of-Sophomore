@@ -1,0 +1,1 @@
+{'company_name': '上海英内物联网科技股份有限公司', 'job_name': 'java软件工程师', 'geography': '上海', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129191861.html?rc=03'}

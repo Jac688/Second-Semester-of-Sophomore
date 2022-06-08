@@ -1,0 +1,1 @@
+{'company_name': '惠州市西子湖畔网络有限公司', 'job_name': 'PHP开发工程师', 'geography': '惠州', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '周末双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/123731234.html?rc=03'}

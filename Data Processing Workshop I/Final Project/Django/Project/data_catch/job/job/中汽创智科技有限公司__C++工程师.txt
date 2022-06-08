@@ -1,0 +1,1 @@
+{'company_name': '中汽创智科技有限公司', 'job_name': 'C++工程师', 'geography': '南京-江宁区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130955479.html?rc=03'}

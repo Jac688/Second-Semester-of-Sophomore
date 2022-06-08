@@ -1,0 +1,1 @@
+{'company_name': '上海研洁建筑材料有限公司', 'job_name': 'PHP开发销售主管', 'geography': '上海', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '绩效奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131041922.html?rc=03'}

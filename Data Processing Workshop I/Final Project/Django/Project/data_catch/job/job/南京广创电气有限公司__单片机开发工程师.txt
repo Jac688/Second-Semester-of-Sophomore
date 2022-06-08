@@ -1,0 +1,1 @@
+{'company_name': '南京广创电气有限公司', 'job_name': '单片机开发工程师', 'geography': '南京', 'bonus': ['员工旅游', '餐饮补贴', '通讯补贴', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/117579163.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州棒谷科技股份有限公司', 'job_name': '技术研发总监', 'geography': '广州-白云区', 'bonus': ['五险一金', '免费班车', '绩效奖金', '全勤奖'], 'salary': 5.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131535121.html?rc=03'}

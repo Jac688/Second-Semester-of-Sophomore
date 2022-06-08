@@ -1,0 +1,1 @@
+{'company_name': '天津微纳芯科技有限公司', 'job_name': '软件工程师', 'geography': '天津-滨海新区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '全勤奖'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/117977054.html?rc=03'}

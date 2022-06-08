@@ -1,0 +1,1 @@
+{'company_name': '广东宜居控股股份有限公司', 'job_name': 'Java中级开发工程师--特惟嘉科技', 'geography': '清远', 'bonus': ['绩效奖金', '五险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/qingyuan/117407810.html?rc=03'}

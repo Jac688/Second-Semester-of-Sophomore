@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '实时通信C++软件开发工程师', 'geography': '深圳', 'bonus': ['下午茶', '六险一金', '免费三餐', '薪资优厚'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131701453.html?rc=03'}

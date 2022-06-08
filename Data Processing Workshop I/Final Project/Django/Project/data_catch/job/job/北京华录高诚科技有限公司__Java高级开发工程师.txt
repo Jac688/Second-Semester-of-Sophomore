@@ -1,0 +1,1 @@
+{'company_name': '北京华录高诚科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '北京-石景山区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128020801.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京睿辰欣创网络科技股份有限公司', 'job_name': 'JAVA软件工程师', 'geography': '南京', 'bonus': ['五险一金', '年终奖金', '股票期权', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/82778967.html?rc=03'}

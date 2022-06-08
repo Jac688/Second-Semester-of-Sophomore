@@ -1,0 +1,1 @@
+{'company_name': '国防科技大学自动目标识别重点实验室', 'job_name': 'C++软件开发工程师', 'geography': '长沙-开福区', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/changsha/130730634.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海合庆火龙果产业股份有限公司', 'job_name': '新媒体运营专员', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '免费提供午餐', '免费提供住宿', '晋升空间大'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/99644544.html?rc=03'}

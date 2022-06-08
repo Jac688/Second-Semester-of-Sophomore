@@ -1,0 +1,1 @@
+{'company_name': '大麦科技发展有限公司', 'job_name': 'Java工程师', 'geography': '北京-东城区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130161323.html?rc=03'}

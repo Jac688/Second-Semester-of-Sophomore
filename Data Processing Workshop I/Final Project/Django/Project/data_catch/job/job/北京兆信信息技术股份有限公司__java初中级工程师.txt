@@ -1,0 +1,1 @@
+{'company_name': '北京兆信信息技术股份有限公司', 'job_name': 'java初中级工程师', 'geography': '北京-东城区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130894053.html?rc=03'}

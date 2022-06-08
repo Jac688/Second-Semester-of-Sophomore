@@ -1,0 +1,1 @@
+{'company_name': '上海季丰电子股份有限公司', 'job_name': '系统开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '定期体检', '13薪', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129275430.html?rc=03'}

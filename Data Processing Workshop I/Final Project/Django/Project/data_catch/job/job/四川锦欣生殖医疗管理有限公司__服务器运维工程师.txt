@@ -1,0 +1,1 @@
+{'company_name': '四川锦欣生殖医疗管理有限公司', 'job_name': '服务器运维工程师', 'geography': '成都-锦江区', 'bonus': ['五险一金', '带薪年假', '节日福利', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128383292.html?rc=03'}

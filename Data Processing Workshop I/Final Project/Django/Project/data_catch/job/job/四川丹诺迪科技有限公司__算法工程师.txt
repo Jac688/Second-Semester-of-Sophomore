@@ -1,0 +1,1 @@
+{'company_name': '四川丹诺迪科技有限公司', 'job_name': '算法工程师', 'geography': '成都-高新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128072906.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京外企人力资源服务有限公司', 'job_name': '代500强外企软件公司招聘Python Developer', 'geography': '西安-高新技术产业开发区', 'bonus': ['五险一金', '带薪年假', '补充医疗保险', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/xian/131131468.html?rc=03'}

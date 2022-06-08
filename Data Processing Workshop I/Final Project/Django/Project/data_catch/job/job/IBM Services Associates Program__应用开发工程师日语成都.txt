@@ -1,0 +1,1 @@
+{'company_name': 'IBM Services Associates Program', 'job_name': '应用开发工程师日语成都', 'geography': '成都', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125481633.html?rc=03'}

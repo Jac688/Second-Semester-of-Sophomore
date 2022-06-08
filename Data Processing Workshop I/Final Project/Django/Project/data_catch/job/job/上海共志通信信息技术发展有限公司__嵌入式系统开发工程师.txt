@@ -1,0 +1,1 @@
+{'company_name': '上海共志通信信息技术发展有限公司', 'job_name': '嵌入式系统开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131851754.html?rc=03'}

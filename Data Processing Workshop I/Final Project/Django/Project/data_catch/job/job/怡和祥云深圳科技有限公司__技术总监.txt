@@ -1,0 +1,1 @@
+{'company_name': '怡和祥云深圳科技有限公司', 'job_name': '技术总监', 'geography': '深圳-福田区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126522811.html?rc=03'}

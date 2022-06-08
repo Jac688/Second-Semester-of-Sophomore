@@ -1,0 +1,1 @@
+{'company_name': '四川伯乐帮科技有限公司', 'job_name': 'Java架构师', 'geography': '成都-高新区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127568325.html?rc=03'}

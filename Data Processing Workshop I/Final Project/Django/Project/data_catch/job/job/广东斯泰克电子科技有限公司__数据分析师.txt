@@ -1,0 +1,1 @@
+{'company_name': '广东斯泰克电子科技有限公司', 'job_name': '数据分析师', 'geography': '广州-南沙区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127737299.html?rc=03'}

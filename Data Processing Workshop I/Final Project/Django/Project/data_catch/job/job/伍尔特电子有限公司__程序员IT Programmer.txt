@@ -1,0 +1,1 @@
+{'company_name': '伍尔特电子有限公司', 'job_name': '程序员IT Programmer', 'geography': '深圳-龙岗区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/97524993.html?rc=03'}

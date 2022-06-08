@@ -1,0 +1,1 @@
+{'company_name': '南京童点文化传播有限公司', 'job_name': '网络运维工程师', 'geography': '南京-建邺区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129074673.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广西日月星网络科技有限公司', 'job_name': 'Java开发工程师', 'geography': '南宁-江南区', 'bonus': ['绩效奖金', '年终奖金', '五险一金', '员工旅游'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanning/122892459.html?rc=03'}

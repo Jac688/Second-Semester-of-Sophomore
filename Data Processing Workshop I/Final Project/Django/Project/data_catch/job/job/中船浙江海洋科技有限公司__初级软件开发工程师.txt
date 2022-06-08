@@ -1,0 +1,1 @@
+{'company_name': '中船浙江海洋科技有限公司', 'job_name': '初级软件开发工程师', 'geography': '舟山', 'bonus': ['周末双休', '带薪年假', '交通补贴', '绩效奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/zhoushan/126815924.html?rc=03'}

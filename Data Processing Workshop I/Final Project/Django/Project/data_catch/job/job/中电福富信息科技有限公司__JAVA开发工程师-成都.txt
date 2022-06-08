@@ -1,0 +1,1 @@
+{'company_name': '中电福富信息科技有限公司', 'job_name': 'JAVA开发工程师-成都', 'geography': '成都-青羊区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/119831886.html?rc=03'}

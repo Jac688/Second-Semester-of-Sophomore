@@ -1,0 +1,1 @@
+{'company_name': '厦门海晟融创信息技术有限公司', 'job_name': '高级开发工程师', 'geography': '厦门', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/51411631.html?rc=03'}

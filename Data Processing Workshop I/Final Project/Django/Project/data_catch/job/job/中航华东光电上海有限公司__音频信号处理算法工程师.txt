@@ -1,0 +1,1 @@
+{'company_name': '中航华东光电上海有限公司', 'job_name': '音频信号处理算法工程师', 'geography': '上海', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/81360124.html?rc=03'}

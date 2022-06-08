@@ -1,0 +1,1 @@
+{'company_name': '中国石油天然气管道工程有限公司', 'job_name': 'Java服务器开发工程师', 'geography': '成都', 'bonus': ['五险一金', '补充公积金', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127114892.html?rc=03'}

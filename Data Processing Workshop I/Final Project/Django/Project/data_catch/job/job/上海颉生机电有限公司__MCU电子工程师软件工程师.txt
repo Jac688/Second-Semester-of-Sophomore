@@ -1,0 +1,1 @@
+{'company_name': '上海颉生机电有限公司', 'job_name': 'MCU电子工程师软件工程师', 'geography': '上海', 'bonus': ['周末双休', '带薪年假', '五险一金', '全勤奖'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126123798.html?rc=03'}

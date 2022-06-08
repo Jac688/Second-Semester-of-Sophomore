@@ -1,0 +1,1 @@
+{'company_name': '慧迅软件广州有限公司', 'job_name': '程序员开发工程师IT技术员高薪', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129880340.html?rc=03'}

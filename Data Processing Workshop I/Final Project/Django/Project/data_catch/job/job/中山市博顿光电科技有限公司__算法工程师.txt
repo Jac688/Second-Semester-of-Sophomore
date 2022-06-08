@@ -1,0 +1,1 @@
+{'company_name': '中山市博顿光电科技有限公司', 'job_name': '算法工程师', 'geography': '中山', 'bonus': ['员工旅游', '五险一金', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/125150889.html?rc=03'}

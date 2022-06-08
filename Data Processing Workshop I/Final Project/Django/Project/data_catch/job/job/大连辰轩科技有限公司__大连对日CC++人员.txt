@@ -1,0 +1,1 @@
+{'company_name': '大连辰轩科技有限公司', 'job_name': '大连对日CC++人员', 'geography': '大连-高新园区', 'bonus': ['五险一金', '节日福利', '公司团建'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dalian/127810165.html?rc=03'}

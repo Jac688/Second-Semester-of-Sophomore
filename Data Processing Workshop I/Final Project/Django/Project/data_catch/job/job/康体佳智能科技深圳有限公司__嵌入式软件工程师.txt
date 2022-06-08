@@ -1,0 +1,1 @@
+{'company_name': '康体佳智能科技深圳有限公司', 'job_name': '嵌入式软件工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '员工旅游', '定期体检', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129032375.html?rc=03'}

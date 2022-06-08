@@ -1,0 +1,1 @@
+{'company_name': '上海卫宁数据科技有限公司', 'job_name': '项目经理', 'geography': '江西省', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jiangxisheng/130540808.html?rc=03'}

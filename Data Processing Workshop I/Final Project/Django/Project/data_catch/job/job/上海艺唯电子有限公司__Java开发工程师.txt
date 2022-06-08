@@ -1,0 +1,1 @@
+{'company_name': '上海艺唯电子有限公司', 'job_name': 'Java开发工程师', 'geography': '异地招聘', 'bonus': ['员工旅游', '专业培训', '餐饮补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123285034.html?rc=03'}

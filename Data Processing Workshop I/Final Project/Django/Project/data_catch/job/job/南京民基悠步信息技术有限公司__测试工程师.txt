@@ -1,0 +1,1 @@
+{'company_name': '南京民基悠步信息技术有限公司', 'job_name': '测试工程师', 'geography': '南昌', 'bonus': ['五险一金', '年终奖金', '节假日礼品', '年度体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/131841436.html?rc=03'}

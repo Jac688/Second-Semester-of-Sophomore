@@ -1,0 +1,1 @@
+{'company_name': '北京数码视讯科技股份有限公司', 'job_name': 'Java工程师金融支付方向21届校招解决京户', 'geography': '北京-海淀区', 'bonus': ['周末双休', '带薪年假', '绩效奖金', '加班补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125303273.html?rc=03'}

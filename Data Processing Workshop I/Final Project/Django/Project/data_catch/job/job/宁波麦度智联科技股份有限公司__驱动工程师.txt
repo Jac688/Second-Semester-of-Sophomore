@@ -1,0 +1,1 @@
+{'company_name': '宁波麦度智联科技股份有限公司', 'job_name': '驱动工程师', 'geography': '宁波-高新区', 'bonus': ['五险一金', '定期体检', '年终奖金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130656838.html?rc=03'}

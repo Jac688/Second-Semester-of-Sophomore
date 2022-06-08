@@ -1,0 +1,1 @@
+{'company_name': '广州天鹏计算机科技有限公司', 'job_name': '高级大数据算法工程师', 'geography': '广州-天河区', 'bonus': ['绩效奖金', '餐饮补贴', '员工旅游', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125037003.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川生活家家居集团有限公司', 'job_name': 'JAVA工程师(J11681)', 'geography': '成都-锦江区', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131656604.html?rc=03'}

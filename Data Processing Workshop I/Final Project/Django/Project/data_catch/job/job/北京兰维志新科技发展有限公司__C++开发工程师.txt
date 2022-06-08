@@ -1,0 +1,1 @@
+{'company_name': '北京兰维志新科技发展有限公司', 'job_name': 'C++开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132044627.html?rc=03'}

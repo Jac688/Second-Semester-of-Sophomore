@@ -1,0 +1,1 @@
+{'company_name': '北京鼎汉检测技术有限公司成都分公司', 'job_name': 'C++软件工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '定期体检', '专业培训', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126632866.html?rc=03'}

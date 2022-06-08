@@ -1,0 +1,1 @@
+{'company_name': '广州市众创物联网科技有限公司', 'job_name': 'C++软件开发工程师双休 ', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '专业培训', '周末双休', '全勤奖'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127778392.html?rc=03'}

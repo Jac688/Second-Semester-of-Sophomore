@@ -1,0 +1,1 @@
+{'company_name': '北京源通电力科技有限公司', 'job_name': '项目经理-市中区万达', 'geography': '济南-市中区', 'bonus': ['五险一金', '交通补贴', '定期体检', '生日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131050993.html?rc=03'}

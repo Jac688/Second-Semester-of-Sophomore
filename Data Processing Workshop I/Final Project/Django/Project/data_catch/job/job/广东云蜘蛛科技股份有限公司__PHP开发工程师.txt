@@ -1,0 +1,1 @@
+{'company_name': '广东云蜘蛛科技股份有限公司', 'job_name': 'PHP开发工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/121055622.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '史泰博上海有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '专业培训', '补充医疗保险', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125321970.html?rc=03'}

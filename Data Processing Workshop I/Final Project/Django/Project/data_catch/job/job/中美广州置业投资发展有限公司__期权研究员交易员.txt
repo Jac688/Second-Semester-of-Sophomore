@@ -1,0 +1,1 @@
+{'company_name': '中美广州置业投资发展有限公司', 'job_name': '期权研究员交易员', 'geography': '广州-番禺区', 'bonus': ['五险一金', '专业培训', '节日福利', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131584487.html?rc=03'}

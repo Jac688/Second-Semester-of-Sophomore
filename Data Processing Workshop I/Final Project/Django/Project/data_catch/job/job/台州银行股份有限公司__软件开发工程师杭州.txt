@@ -1,0 +1,1 @@
+{'company_name': '台州银行股份有限公司', 'job_name': '软件开发工程师杭州', 'geography': '异地招聘', 'bonus': ['六险二金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128581887.html?rc=03'}

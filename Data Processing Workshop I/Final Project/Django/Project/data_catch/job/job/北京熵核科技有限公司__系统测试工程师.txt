@@ -1,0 +1,1 @@
+{'company_name': '北京熵核科技有限公司', 'job_name': '系统测试工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '股票期权', '弹性工作'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125686446.html?rc=03'}

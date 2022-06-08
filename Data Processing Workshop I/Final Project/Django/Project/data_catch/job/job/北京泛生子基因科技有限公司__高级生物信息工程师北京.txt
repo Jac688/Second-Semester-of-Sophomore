@@ -1,0 +1,1 @@
+{'company_name': '北京泛生子基因科技有限公司', 'job_name': '高级生物信息工程师北京', 'geography': '北京', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129855239.html?rc=03'}

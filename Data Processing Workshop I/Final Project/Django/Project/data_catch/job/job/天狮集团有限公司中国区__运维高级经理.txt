@@ -1,0 +1,1 @@
+{'company_name': '天狮集团有限公司中国区', 'job_name': '运维高级经理', 'geography': '天津-武清区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130796930.html?rc=03'}

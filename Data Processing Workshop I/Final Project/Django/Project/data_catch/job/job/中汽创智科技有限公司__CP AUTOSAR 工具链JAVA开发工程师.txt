@@ -1,0 +1,1 @@
+{'company_name': '中汽创智科技有限公司', 'job_name': 'CP AUTOSAR 工具链JAVA开发工程师', 'geography': '南京-江宁区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130952888.html?rc=03'}

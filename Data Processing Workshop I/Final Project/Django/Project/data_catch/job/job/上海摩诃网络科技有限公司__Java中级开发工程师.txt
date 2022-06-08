@@ -1,0 +1,1 @@
+{'company_name': '上海摩诃网络科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '上海', 'bonus': ['做五休二'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130558475.html?rc=03'}

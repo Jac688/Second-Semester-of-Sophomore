@@ -1,0 +1,1 @@
+{'company_name': '宁波常成企业管理咨询有限公司', 'job_name': 'IT经理', 'geography': '宁波', 'bonus': ['员工旅游', '餐饮补贴', '专业培训', '年终奖金'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125990094.html?rc=03'}

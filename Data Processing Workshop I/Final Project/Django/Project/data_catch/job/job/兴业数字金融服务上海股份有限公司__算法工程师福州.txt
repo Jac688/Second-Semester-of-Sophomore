@@ -1,0 +1,1 @@
+{'company_name': '兴业数字金融服务上海股份有限公司', 'job_name': '算法工程师福州', 'geography': '福州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/129211837.html?rc=03'}

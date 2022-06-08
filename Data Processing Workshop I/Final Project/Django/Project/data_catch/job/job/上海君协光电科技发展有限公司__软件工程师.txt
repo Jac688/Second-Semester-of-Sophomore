@@ -1,0 +1,1 @@
+{'company_name': '上海君协光电科技发展有限公司', 'job_name': '软件工程师', 'geography': '成都-锦江区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129728626.html?rc=03'}

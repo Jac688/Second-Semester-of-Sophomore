@@ -1,0 +1,1 @@
+{'company_name': '宁波舜宇光电信息有限公司', 'job_name': 'OIS软件开发', 'geography': '宁波-余姚市', 'bonus': ['五险一金', '专业培训', '餐饮补贴', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/132074343.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海国微思尔芯技术股份有限公司', 'job_name': 'Python 高级软件工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130174180.html?rc=03'}

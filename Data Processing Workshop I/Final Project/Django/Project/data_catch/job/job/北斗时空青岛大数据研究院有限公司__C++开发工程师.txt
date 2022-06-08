@@ -1,0 +1,1 @@
+{'company_name': '北斗时空青岛大数据研究院有限公司', 'job_name': 'C++开发工程师', 'geography': '异地招聘', 'bonus': ['周末双休', '带薪年假', '五险一金', '全勤奖'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/jinan/123340299.html?rc=03'}

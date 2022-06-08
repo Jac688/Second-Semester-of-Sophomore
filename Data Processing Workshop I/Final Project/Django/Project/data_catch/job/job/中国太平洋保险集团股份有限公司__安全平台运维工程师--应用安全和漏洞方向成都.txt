@@ -1,0 +1,1 @@
+{'company_name': '中国太平洋保险集团股份有限公司', 'job_name': '安全平台运维工程师--应用安全和漏洞方向成都', 'geography': '成都-高新区', 'bonus': ['餐饮补贴', '五险一金', '补充公积金'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129057237.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天阳宏业科技股份有限公司', 'job_name': '数据库开发工程师初级、中级、高级', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130741138.html?rc=03'}

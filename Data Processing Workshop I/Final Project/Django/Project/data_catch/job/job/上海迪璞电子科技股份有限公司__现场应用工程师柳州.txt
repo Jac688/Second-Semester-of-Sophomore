@@ -1,0 +1,1 @@
+{'company_name': '上海迪璞电子科技股份有限公司', 'job_name': '现场应用工程师柳州', 'geography': '柳州', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '晋升空间大'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/liuzhou/110846844.html?rc=03'}

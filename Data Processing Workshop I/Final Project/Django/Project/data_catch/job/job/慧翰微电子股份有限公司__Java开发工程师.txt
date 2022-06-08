@@ -1,0 +1,1 @@
+{'company_name': '慧翰微电子股份有限公司', 'job_name': 'Java开发工程师', 'geography': '福州', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/131435198.html?rc=03'}

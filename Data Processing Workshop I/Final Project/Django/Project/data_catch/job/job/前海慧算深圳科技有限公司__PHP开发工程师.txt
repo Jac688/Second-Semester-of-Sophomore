@@ -1,0 +1,1 @@
+{'company_name': '前海慧算深圳科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '东莞-莞城区', 'bonus': ['包吃包住', '五天八小时', '年终奖金', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131662628.html?rc=03'}

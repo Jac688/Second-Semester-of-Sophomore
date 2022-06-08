@@ -1,0 +1,1 @@
+{'company_name': '东方微银科技股份有限公司', 'job_name': '高级风险模型师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/119315666.html?rc=03'}

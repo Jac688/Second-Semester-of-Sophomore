@@ -1,0 +1,1 @@
+{'company_name': '佛吉亚歌乐电子佛山有限公司', 'job_name': '效果工程师', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129860308.html?rc=03'}

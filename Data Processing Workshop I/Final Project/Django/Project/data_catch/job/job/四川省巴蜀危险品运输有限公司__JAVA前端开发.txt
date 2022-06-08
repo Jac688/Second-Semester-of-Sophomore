@@ -1,0 +1,1 @@
+{'company_name': '四川省巴蜀危险品运输有限公司', 'job_name': 'JAVA前端开发', 'geography': '成都-龙泉驿区', 'bonus': ['出国机会', '员工旅游', '年终奖金', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127642268.html?rc=03'}

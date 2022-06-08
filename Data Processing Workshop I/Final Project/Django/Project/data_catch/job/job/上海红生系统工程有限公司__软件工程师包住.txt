@@ -1,0 +1,1 @@
+{'company_name': '上海红生系统工程有限公司', 'job_name': '软件工程师包住', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '提供住宿', '周末双休', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/59776511.html?rc=03'}

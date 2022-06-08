@@ -1,0 +1,1 @@
+{'company_name': '兹韦克罗睿测试技术太仓有限公司', 'job_name': 'Software Engineer', 'geography': '太仓', 'bonus': ['五险一金', '年终奖金', '弹性工作', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/taicang/132058553.html?rc=03'}

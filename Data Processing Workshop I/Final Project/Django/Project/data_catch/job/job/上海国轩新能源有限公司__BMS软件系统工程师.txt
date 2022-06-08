@@ -1,0 +1,1 @@
+{'company_name': '上海国轩新能源有限公司', 'job_name': 'BMS软件系统工程师', 'geography': '上海', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130763234.html?rc=03'}

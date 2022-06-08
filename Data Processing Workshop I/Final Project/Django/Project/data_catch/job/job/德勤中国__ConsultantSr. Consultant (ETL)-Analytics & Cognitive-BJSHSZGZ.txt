@@ -1,0 +1,1 @@
+{'company_name': '德勤中国', 'job_name': 'ConsultantSr. Consultant (ETL)-Analytics & Cognitive-BJSHSZGZ', 'geography': '广州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132015171.html?rc=03'}

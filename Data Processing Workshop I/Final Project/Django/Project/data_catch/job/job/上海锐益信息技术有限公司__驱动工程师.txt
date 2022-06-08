@@ -1,0 +1,1 @@
+{'company_name': '上海锐益信息技术有限公司', 'job_name': '驱动工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '员工旅游', '定期体检', '弹性工作'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126827945.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '佛山市元亨利贞信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '佛山', 'bonus': ['餐饮补贴', '年终奖金', '定期体检', '补充医疗保险'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/foshan/132057644.html?rc=03'}

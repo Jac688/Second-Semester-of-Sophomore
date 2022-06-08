@@ -1,0 +1,1 @@
+{'company_name': '中山华定科技有限公司', 'job_name': 'PHP中级程序员(西区)', 'geography': '中山', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 0.62, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/114648437.html?rc=03'}

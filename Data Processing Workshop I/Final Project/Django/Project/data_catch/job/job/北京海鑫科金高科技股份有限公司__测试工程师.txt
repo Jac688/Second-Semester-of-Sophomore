@@ -1,0 +1,1 @@
+{'company_name': '北京海鑫科金高科技股份有限公司', 'job_name': '测试工程师', 'geography': '北京-丰台区', 'bonus': ['五险一金', '节日福利', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130981617.html?rc=03'}

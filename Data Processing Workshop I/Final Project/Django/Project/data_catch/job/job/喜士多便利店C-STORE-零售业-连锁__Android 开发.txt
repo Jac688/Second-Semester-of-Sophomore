@@ -1,0 +1,1 @@
+{'company_name': '喜士多便利店C-STORE-零售业-连锁', 'job_name': 'Android 开发', 'geography': '上海-静安区', 'bonus': ['带薪年假', '入职五险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/118029048.html?rc=03'}

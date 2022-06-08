@@ -1,0 +1,1 @@
+{'company_name': '东华医为科技有限公司', 'job_name': '互联网开发工程师', 'geography': '广州', 'bonus': ['五险一金', '定期体检', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/121930760.html?rc=03'}

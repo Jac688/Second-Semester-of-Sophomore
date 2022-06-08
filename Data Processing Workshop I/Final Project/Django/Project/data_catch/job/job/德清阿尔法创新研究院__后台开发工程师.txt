@@ -1,0 +1,1 @@
+{'company_name': '德清阿尔法创新研究院', 'job_name': '后台开发工程师', 'geography': '湖州-德清县', 'bonus': ['五险一金', '年终奖金', '定期体检', '员工团建'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/huzhou/132207870.html?rc=03'}

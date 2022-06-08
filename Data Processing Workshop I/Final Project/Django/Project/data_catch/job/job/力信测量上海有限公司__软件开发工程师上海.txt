@@ -1,0 +1,1 @@
+{'company_name': '力信测量上海有限公司', 'job_name': '软件开发工程师上海', 'geography': '上海-浦东新区', 'bonus': ['周末双休', '五险一金', '节日福利', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132153044.html?rc=03'}

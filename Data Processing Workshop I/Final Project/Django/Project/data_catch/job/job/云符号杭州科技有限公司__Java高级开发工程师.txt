@@ -1,0 +1,1 @@
+{'company_name': '云符号杭州科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '杭州-江干区', 'bonus': ['五险一金'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129654785.html?rc=03'}

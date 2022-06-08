@@ -1,0 +1,1 @@
+{'company_name': '上海金盏企业管理有限公司', 'job_name': 'Java开发工程师(应用软件方向', 'geography': '济南-高新区', 'bonus': ['五险一金', '年终奖金', '周末双休', '工作午餐'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131789658.html?rc=03'}

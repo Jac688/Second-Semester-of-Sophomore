@@ -1,0 +1,1 @@
+{'company_name': '宁波奇邻文化创意有限公司', 'job_name': 'Java开发工程师', 'geography': '宁波', 'bonus': ['五险一金', '包吃', '包住宿', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128400712.html?rc=03'}

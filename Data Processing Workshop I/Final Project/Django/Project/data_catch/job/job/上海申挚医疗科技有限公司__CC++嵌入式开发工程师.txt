@@ -1,0 +1,1 @@
+{'company_name': '上海申挚医疗科技有限公司', 'job_name': 'CC++嵌入式开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '弹性工作', '员工旅游', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/116104624.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京外企德科人力资源服务苏州有限公司', 'job_name': 'Java开发工程师', 'geography': '苏州', 'bonus': ['五险一金', '周末双休', '做五休二', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/129473739.html?rc=03'}

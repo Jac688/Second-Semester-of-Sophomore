@@ -1,0 +1,1 @@
+{'company_name': '天健水务集团杭州有限公司', 'job_name': 'java高级开发工程师', 'geography': '杭州-江干区', 'bonus': ['做五休二', '周末双休', '五险一金', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130843287.html?rc=03'}

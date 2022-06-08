@@ -1,0 +1,1 @@
+{'company_name': '北京君正集成电路股份有限公司', 'job_name': '嵌入式软件工程师', 'geography': '北京', 'bonus': ['五险一金', '免费班车', '员工旅游', '年终奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/beijing/61725987.html?rc=03'}

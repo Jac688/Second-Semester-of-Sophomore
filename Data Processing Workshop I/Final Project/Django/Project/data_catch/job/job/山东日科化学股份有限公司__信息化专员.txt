@@ -1,0 +1,1 @@
+{'company_name': '山东日科化学股份有限公司', 'job_name': '信息化专员', 'geography': '潍坊-昌乐县', 'bonus': ['五险一金', '免费班车', '员工旅游', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/weifang/130480832.html?rc=03'}

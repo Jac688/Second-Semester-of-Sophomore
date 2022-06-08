@@ -1,0 +1,1 @@
+{'company_name': '山东和沃信息科技有限公司', 'job_name': 'Android安卓逆向反编译破解工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131218185.html?rc=03'}

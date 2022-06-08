@@ -1,0 +1,1 @@
+{'company_name': '德威国际货运代理上海有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-黄浦区', 'bonus': ['员工旅游', '餐饮补贴', '绩效奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121957403.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海悦米信息技术有限公司', 'job_name': 'Python开发工程师', 'geography': '上海-徐汇区', 'bonus': ['弹性工作', '扁平化管理', '五险一金', '餐饮补贴'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131690445.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '东莞市卓茂仪器有限公司', 'job_name': '软件工程师', 'geography': '东莞', 'bonus': ['周末双休', '带薪年假', '五险一金', '包住宿'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/121059799.html?rc=03'}

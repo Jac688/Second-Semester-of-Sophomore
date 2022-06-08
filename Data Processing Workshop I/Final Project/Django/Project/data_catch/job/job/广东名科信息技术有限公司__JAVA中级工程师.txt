@@ -1,0 +1,1 @@
+{'company_name': '广东名科信息技术有限公司', 'job_name': 'JAVA中级工程师', 'geography': '广州', 'bonus': ['五险一金', '通讯补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/95282499.html?rc=03'}

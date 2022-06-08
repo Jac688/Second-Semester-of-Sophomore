@@ -1,0 +1,1 @@
+{'company_name': '上海仙途智能科技有限公司', 'job_name': '感知算法实习生-平台杭州', 'geography': '杭州', 'bonus': [], 'salary': 0.52, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130899249.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '优华劳斯汽车系统(上海)有限公司', 'job_name': 'EE HIL Engineer 汽车HIL电子仿真工程师', 'geography': '南京-江宁区', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130391926.html?rc=03'}

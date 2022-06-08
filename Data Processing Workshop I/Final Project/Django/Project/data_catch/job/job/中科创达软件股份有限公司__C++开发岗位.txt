@@ -1,0 +1,1 @@
+{'company_name': '中科创达软件股份有限公司', 'job_name': 'C++开发岗位', 'geography': '东莞-松山湖区', 'bonus': ['五险一金', '补充公积金', '绩效奖金', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131213641.html?rc=03'}

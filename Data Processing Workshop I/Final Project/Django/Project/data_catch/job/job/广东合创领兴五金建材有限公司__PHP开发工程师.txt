@@ -1,0 +1,1 @@
+{'company_name': '广东合创领兴五金建材有限公司', 'job_name': 'PHP开发工程师', 'geography': '佛山-顺德区', 'bonus': ['五险', '提供食宿', '专业培训', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/132261286.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中电金信软件有限公司', 'job_name': '中高级java开发工程师', 'geography': '南昌-红谷滩新区', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '定期体检'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/129974671.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '厦门顺唯信息技术有限公司', 'job_name': 'PHP开发工程师', 'geography': '厦门', 'bonus': ['创业', '合伙人', '项目合作', '包住宿'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/125275567.html?rc=03'}

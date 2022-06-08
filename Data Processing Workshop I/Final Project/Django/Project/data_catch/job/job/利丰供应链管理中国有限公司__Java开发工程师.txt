@@ -1,0 +1,1 @@
+{'company_name': '利丰供应链管理中国有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-福田区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131987883.html?rc=03'}

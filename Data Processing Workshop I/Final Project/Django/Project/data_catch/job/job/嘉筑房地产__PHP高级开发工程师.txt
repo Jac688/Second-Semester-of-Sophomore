@@ -1,0 +1,1 @@
+{'company_name': '嘉筑房地产', 'job_name': 'PHP高级开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/118055399.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '九阳股份有限公司', 'job_name': '安卓工程师YJY', 'geography': '杭州-江干区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '通讯补贴'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130098475.html?rc=03'}

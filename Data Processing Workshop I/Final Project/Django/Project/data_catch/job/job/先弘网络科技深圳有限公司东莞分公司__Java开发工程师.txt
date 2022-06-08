@@ -1,0 +1,1 @@
+{'company_name': '先弘网络科技深圳有限公司东莞分公司', 'job_name': 'Java开发工程师', 'geography': '东莞-南城区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/129605084.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波中国科学院信息技术应用研究院', 'job_name': '物联网操作系统工程师', 'geography': '宁波', 'bonus': ['做五休二', '周末双休', '弹性工作', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/120453475.html?rc=03'}

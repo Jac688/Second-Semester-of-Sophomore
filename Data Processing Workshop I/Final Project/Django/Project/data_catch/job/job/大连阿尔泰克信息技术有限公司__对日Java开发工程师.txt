@@ -1,0 +1,1 @@
+{'company_name': '大连阿尔泰克信息技术有限公司', 'job_name': '对日Java开发工程师', 'geography': '大连-沙河口区', 'bonus': ['专业培训', '五险一金', '试用期全额', '外企'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dalian/123474534.html?rc=03'}

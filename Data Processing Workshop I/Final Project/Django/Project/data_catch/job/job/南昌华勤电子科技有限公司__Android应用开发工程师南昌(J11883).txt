@@ -1,0 +1,1 @@
+{'company_name': '南昌华勤电子科技有限公司', 'job_name': 'Android应用开发工程师南昌(J11883)', 'geography': '南昌', 'bonus': ['五险一金', '通讯补贴', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/127148589.html?rc=03'}

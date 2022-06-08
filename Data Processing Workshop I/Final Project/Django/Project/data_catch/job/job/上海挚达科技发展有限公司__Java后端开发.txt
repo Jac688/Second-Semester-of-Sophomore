@@ -1,0 +1,1 @@
+{'company_name': '上海挚达科技发展有限公司', 'job_name': 'Java后端开发', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128304452.html?rc=03'}

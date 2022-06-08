@@ -1,0 +1,1 @@
+{'company_name': '上海巴士拓华科技发展有限公司', 'job_name': '高级java工程师', 'geography': '上海-浦东新区', 'bonus': ['专业培训', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/65413296.html?rc=03'}

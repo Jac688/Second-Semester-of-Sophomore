@@ -1,0 +1,1 @@
+{'company_name': '山东网亿网络科技有限公司', 'job_name': 'php程序员软件工程师', 'geography': '烟台', 'bonus': ['五险', '月休6天', '专业培训', '绩效奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/yantai/131637522.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京鑫和汇通电子科技有限公司', 'job_name': '深度学习工程师', 'geography': '南京-浦口区', 'bonus': ['五险一金', '员工旅游', '周末双休', '出国机会'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/118790627.html?rc=03'}

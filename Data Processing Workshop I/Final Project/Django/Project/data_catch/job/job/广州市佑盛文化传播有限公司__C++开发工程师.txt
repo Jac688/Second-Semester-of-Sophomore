@@ -1,0 +1,1 @@
+{'company_name': '广州市佑盛文化传播有限公司', 'job_name': 'C++开发工程师', 'geography': '广州-天河区', 'bonus': ['周末双休', '下午茶', '弹性工作', '员工旅游'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125809217.html?rc=03'}

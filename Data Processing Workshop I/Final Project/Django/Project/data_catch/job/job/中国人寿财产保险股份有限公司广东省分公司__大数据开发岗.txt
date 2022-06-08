@@ -1,0 +1,1 @@
+{'company_name': '中国人寿财产保险股份有限公司广东省分公司', 'job_name': '大数据开发岗', 'geography': '广州-天河区', 'bonus': ['五险一金', '企业年金', '补充医疗保险', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130617675.html?rc=03'}

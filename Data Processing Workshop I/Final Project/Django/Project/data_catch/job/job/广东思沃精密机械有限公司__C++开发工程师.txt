@@ -1,0 +1,1 @@
+{'company_name': '广东思沃精密机械有限公司', 'job_name': 'C++开发工程师', 'geography': '东莞-松山湖区', 'bonus': ['绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130804012.html?rc=03'}

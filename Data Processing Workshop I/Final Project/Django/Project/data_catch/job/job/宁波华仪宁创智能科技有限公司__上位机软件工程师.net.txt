@@ -1,0 +1,1 @@
+{'company_name': '宁波华仪宁创智能科技有限公司', 'job_name': '上位机软件工程师.net', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128210657.html?rc=03'}

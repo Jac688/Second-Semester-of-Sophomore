@@ -1,0 +1,1 @@
+{'company_name': '东原地产-物业公司', 'job_name': '后端开发工程师(J10870)', 'geography': '重庆-江北区', 'bonus': ['带薪年假', '节日福利', '定期体检', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131742259.html?rc=03'}

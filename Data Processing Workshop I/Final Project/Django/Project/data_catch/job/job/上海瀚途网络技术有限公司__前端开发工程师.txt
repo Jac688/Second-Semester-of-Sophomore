@@ -1,0 +1,1 @@
+{'company_name': '上海瀚途网络技术有限公司', 'job_name': '前端开发工程师', 'geography': '上海-杨浦区', 'bonus': ['做五休二', '五险一金', '带薪年假', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125757958.html?rc=03'}

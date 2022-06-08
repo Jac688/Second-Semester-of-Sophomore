@@ -1,0 +1,1 @@
+{'company_name': '北京柏钜科技有限公司', 'job_name': 'FAE', 'geography': '北京-海淀区', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130515363.html?rc=03'}

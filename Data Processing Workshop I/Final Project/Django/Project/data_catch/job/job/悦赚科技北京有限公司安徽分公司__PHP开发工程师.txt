@@ -1,0 +1,1 @@
+{'company_name': '悦赚科技北京有限公司安徽分公司', 'job_name': 'PHP开发工程师', 'geography': '合肥-政务区', 'bonus': ['五险一金', '股票期权', '周末双休', '定期团建'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hefei/130380596.html?rc=03'}

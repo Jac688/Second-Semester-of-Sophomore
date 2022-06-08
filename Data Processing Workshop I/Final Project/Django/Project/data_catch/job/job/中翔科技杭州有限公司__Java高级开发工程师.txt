@@ -1,0 +1,1 @@
+{'company_name': '中翔科技杭州有限公司', 'job_name': 'Java高级开发工程师', 'geography': '苏州', 'bonus': ['五险一金', '年终奖金', '生日福利', '节假日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/127965861.html?rc=03'}

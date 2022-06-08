@@ -1,0 +1,1 @@
+{'company_name': '奕帆信息科技深圳有限公司', 'job_name': '爬虫开发工程师', 'geography': '深圳-龙华区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/123252950.html?rc=03'}

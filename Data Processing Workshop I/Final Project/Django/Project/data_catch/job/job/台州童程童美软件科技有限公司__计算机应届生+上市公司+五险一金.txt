@@ -1,0 +1,1 @@
+{'company_name': '台州童程童美软件科技有限公司', 'job_name': '计算机应届生+上市公司+五险一金', 'geography': '台州', 'bonus': ['五险一金', '弹性工作', '专业培训', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/taizhoue/125367194.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州恩飞投资有限公司', 'job_name': 'Java高级研发工程师广告 上海', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '补充医疗保险', '补充公积金'], 'salary': 2.08, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/109991506.html?rc=03'}

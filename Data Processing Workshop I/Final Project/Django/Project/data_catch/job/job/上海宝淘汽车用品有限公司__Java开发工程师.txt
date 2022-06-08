@@ -1,0 +1,1 @@
+{'company_name': '上海宝淘汽车用品有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131840873.html?rc=03'}

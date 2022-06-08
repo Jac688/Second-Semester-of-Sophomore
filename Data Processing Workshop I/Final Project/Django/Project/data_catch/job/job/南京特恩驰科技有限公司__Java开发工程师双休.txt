@@ -1,0 +1,1 @@
+{'company_name': '南京特恩驰科技有限公司', 'job_name': 'Java开发工程师双休', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '定期体检', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/117749886.html?rc=03'}

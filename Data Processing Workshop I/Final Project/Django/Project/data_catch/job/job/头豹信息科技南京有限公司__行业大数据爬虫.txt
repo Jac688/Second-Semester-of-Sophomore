@@ -1,0 +1,1 @@
+{'company_name': '头豹信息科技南京有限公司', 'job_name': '行业大数据爬虫', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充医疗保险', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132105374.html?rc=03'}

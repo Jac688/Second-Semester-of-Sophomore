@@ -1,0 +1,1 @@
+{'company_name': '上海汉得信息技术股份有限公司', 'job_name': 'ERP技术顾问北京', 'geography': '北京', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130657853.html?rc=03'}

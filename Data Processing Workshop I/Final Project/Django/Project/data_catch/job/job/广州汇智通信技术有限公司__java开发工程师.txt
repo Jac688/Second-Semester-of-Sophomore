@@ -1,0 +1,1 @@
+{'company_name': '广州汇智通信技术有限公司', 'job_name': 'java开发工程师', 'geography': '广州', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '员工旅游'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/66827494.html?rc=03'}

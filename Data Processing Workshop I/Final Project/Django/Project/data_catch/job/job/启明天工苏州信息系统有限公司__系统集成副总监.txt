@@ -1,0 +1,1 @@
+{'company_name': '启明天工苏州信息系统有限公司', 'job_name': '系统集成副总监', 'geography': '苏州-高新区', 'bonus': ['餐饮补贴', '通讯补贴', '年终奖金', '绩效奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/97786050.html?rc=03'}

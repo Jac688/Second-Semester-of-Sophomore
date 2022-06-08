@@ -1,0 +1,1 @@
+{'company_name': '上海冠勇信息科技有限公司', 'job_name': '爬虫开发工程师后端闵行紫竹', 'geography': '上海-闵行区', 'bonus': ['做五休二', '周末双休', '弹性工作', '五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130488805.html?rc=03'}

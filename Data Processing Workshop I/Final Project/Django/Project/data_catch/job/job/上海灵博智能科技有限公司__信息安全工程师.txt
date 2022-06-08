@@ -1,0 +1,1 @@
+{'company_name': '上海灵博智能科技有限公司', 'job_name': '信息安全工程师', 'geography': '上海-闵行区', 'bonus': ['餐饮补贴', '带薪年假', '五险一金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128053035.html?rc=03'}

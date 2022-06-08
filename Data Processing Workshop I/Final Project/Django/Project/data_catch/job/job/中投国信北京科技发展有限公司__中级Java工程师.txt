@@ -1,0 +1,1 @@
+{'company_name': '中投国信北京科技发展有限公司', 'job_name': '中级Java工程师', 'geography': '北京-丰台区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129083654.html?rc=03'}

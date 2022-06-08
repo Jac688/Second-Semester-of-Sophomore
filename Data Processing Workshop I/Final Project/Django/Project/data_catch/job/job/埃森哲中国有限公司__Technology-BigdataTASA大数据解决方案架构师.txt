@@ -1,0 +1,1 @@
+{'company_name': '埃森哲中国有限公司', 'job_name': 'Technology-BigdataTASA大数据解决方案架构师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '弹性工作', '定期体检'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124702509.html?rc=03'}

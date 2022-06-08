@@ -1,0 +1,1 @@
+{'company_name': '安吉孝丰蕴泽信息咨询工作室', 'job_name': 'EXCEL代做VBA定制技术员', 'geography': '湖州', 'bonus': ['五险一金', '专业培训', '弹性工作', '年终奖金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/huzhou/131100959.html?rc=03'}

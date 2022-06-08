@@ -1,0 +1,1 @@
+{'company_name': '安百川北京科技发展有限公司', 'job_name': '嵌入式软件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127603963.html?rc=03'}

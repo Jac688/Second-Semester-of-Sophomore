@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '直播客户端C++工程师', 'geography': '北京', 'bonus': ['弹性工作', '免费三餐', '租房补贴', '扁平管理'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/100745388.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川神琥实业有限公司', 'job_name': 'C++开发工程师', 'geography': '成都-天府新区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '弹性工作'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127360806.html?rc=03'}

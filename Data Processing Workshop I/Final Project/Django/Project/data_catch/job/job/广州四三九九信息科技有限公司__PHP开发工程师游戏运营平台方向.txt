@@ -1,0 +1,1 @@
+{'company_name': '广州四三九九信息科技有限公司', 'job_name': 'PHP开发工程师游戏运营平台方向', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/78635022.html?rc=03'}

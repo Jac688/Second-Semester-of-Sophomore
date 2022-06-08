@@ -1,0 +1,1 @@
+{'company_name': '厦门斑马定制科技有限公司', 'job_name': 'Java开发工程师', 'geography': '厦门-湖里区', 'bonus': ['五险一金', '绩效奖金', '十三薪'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/132257322.html?rc=03'}

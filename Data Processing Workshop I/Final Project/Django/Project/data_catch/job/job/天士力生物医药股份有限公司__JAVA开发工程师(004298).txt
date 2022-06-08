@@ -1,0 +1,1 @@
+{'company_name': '天士力生物医药股份有限公司', 'job_name': 'JAVA开发工程师(004298)', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '交通补贴', '员工旅游', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131814710.html?rc=03'}

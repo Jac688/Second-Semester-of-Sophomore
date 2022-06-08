@@ -1,0 +1,1 @@
+{'company_name': '东莞软通动力计算机技术有限公司', 'job_name': 'C++东莞', 'geography': '东莞', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131106733.html?rc=03'}

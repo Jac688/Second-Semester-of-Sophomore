@@ -1,0 +1,1 @@
+{'company_name': '北京九畴科技有限公司', 'job_name': 'QT开发工程师', 'geography': '北京-海淀区', 'bonus': ['定期体检', '五险一金', '专业培训', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131815959.html?rc=03'}

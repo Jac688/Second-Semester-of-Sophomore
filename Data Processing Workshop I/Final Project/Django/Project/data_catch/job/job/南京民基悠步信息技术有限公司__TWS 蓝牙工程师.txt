@@ -1,0 +1,1 @@
+{'company_name': '南京民基悠步信息技术有限公司', 'job_name': 'TWS 蓝牙工程师', 'geography': '东莞', 'bonus': ['五险一金', '年终奖金', '节假日礼品', '年度体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/127195420.html?rc=03'}

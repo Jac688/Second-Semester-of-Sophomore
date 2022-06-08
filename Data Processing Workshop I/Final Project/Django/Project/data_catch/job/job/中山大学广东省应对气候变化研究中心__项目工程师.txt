@@ -1,0 +1,1 @@
+{'company_name': '中山大学广东省应对气候变化研究中心', 'job_name': '项目工程师', 'geography': '广州-番禺区', 'bonus': ['五险一金', '定期体检', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129742442.html?rc=03'}

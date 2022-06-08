@@ -1,0 +1,1 @@
+{'company_name': '北京华宇信息技术有限公司', 'job_name': '高级数据分析师(J11816)', 'geography': '北京-通州区', 'bonus': ['上市公司', '销售提成', '六险一金', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130730932.html?rc=03'}

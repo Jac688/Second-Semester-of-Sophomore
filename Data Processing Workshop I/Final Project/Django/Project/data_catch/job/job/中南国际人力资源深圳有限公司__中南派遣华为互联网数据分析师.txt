@@ -1,0 +1,1 @@
+{'company_name': '中南国际人力资源深圳有限公司', 'job_name': '中南派遣华为互联网数据分析师', 'geography': '深圳-龙岗区', 'bonus': ['绩效奖金', '内部竞聘', '五险一金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125033695.html?rc=03'}

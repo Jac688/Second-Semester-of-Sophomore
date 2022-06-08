@@ -1,0 +1,1 @@
+{'company_name': '上海创至计算机科技股份有限公司', 'job_name': 'JAVA软件工程师上海', 'geography': '上海-普陀区', 'bonus': ['五险一金', '带薪年假', '节假日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/91137474.html?rc=03'}

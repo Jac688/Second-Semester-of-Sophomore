@@ -1,0 +1,1 @@
+{'company_name': '广州新科佳都科技有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-海珠区', 'bonus': ['餐饮补贴', '五险一金', '员工旅游', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132166575.html?rc=03'}

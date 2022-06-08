@@ -1,0 +1,1 @@
+{'company_name': '上海卓宇信息技术有限公司', 'job_name': '软件开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '通讯补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123487222.html?rc=03'}

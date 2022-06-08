@@ -1,0 +1,1 @@
+{'company_name': '上海红耶国际贸易有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海', 'bonus': ['做五休二', '周末双休', '弹性工作', '带薪年假'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117275230.html?rc=03'}

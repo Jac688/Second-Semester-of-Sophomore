@@ -1,0 +1,1 @@
+{'company_name': '中国邮政集团有限公司广东省信息技术局', 'job_name': 'Java开发工程师', 'geography': '合肥-包河区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hefei/132010001.html?rc=03'}

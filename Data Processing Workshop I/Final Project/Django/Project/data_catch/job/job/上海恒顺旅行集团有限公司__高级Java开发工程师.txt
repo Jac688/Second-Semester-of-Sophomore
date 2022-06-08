@@ -1,0 +1,1 @@
+{'company_name': '上海恒顺旅行集团有限公司', 'job_name': '高级Java开发工程师', 'geography': '上海-徐汇区', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130723272.html?rc=03'}

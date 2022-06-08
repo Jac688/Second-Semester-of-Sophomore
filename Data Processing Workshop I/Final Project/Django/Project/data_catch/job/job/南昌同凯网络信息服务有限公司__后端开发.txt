@@ -1,0 +1,1 @@
+{'company_name': '南昌同凯网络信息服务有限公司', 'job_name': '后端开发', 'geography': '南昌-红谷滩新区', 'bonus': ['带薪年假', '五险一金', '专业培训', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/105467522.html?rc=03'}

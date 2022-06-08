@@ -1,0 +1,1 @@
+{'company_name': '中科微至智能制造科技江苏股份有限公司', 'job_name': 'WCS软件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '做五休二', '年终奖', '工作餐'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jiangsusheng/129795165.html?rc=03'}

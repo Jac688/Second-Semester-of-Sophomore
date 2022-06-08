@@ -1,0 +1,1 @@
+{'company_name': '云智视像科技上海有限公司', 'job_name': 'C++开发工程师', 'geography': '杭州-拱墅区', 'bonus': ['五险一金', '年终奖金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/122661075.html?rc=03'}

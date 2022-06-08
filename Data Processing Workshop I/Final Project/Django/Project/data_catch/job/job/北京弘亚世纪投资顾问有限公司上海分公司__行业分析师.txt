@@ -1,0 +1,1 @@
+{'company_name': '北京弘亚世纪投资顾问有限公司上海分公司', 'job_name': '行业分析师', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '年终奖金'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132147374.html?rc=03'}

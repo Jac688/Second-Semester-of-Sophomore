@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '高级Android开发工程师 — 剪映相机', 'geography': '三亚', 'bonus': ['六险一金', '团队氛围好', '扁平管理', '用户过亿'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/sanya/132228497.html?rc=03'}

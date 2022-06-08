@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '高性能计算架构工程师 — 抖音移动端推理引擎方向', 'geography': '杭州', 'bonus': ['六险一金', '弹性工作', '免费三餐', '租房补贴'], 'salary': 3.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/120023027.html?rc=03'}

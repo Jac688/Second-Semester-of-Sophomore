@@ -1,0 +1,1 @@
+{'company_name': '上海吉贝克信息技术有限公司', 'job_name': '测试工程师四川', 'geography': '成都-成华区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130770397.html?rc=03'}

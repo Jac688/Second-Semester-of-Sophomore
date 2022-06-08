@@ -1,0 +1,1 @@
+{'company_name': '广州平云信息科技有限公司', 'job_name': '运维工程师珠海', 'geography': '异地招聘', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131378575.html?rc=03'}

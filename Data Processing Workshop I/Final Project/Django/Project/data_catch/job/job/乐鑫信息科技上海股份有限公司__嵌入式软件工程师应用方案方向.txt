@@ -1,0 +1,1 @@
+{'company_name': '乐鑫信息科技上海股份有限公司', 'job_name': '嵌入式软件工程师应用方案方向', 'geography': '异地招聘', 'bonus': ['五险一金', '补充公积金', '员工旅游', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131835953.html?rc=03'}

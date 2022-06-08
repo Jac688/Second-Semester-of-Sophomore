@@ -1,0 +1,1 @@
+{'company_name': '广州深域信息科技有限公司', 'job_name': 'NodeJS开发工程师', 'geography': '广州-南沙区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131945712.html?rc=03'}

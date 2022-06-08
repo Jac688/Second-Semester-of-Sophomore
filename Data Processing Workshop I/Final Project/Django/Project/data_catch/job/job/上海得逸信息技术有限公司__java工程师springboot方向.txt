@@ -1,0 +1,1 @@
+{'company_name': '上海得逸信息技术有限公司', 'job_name': 'java工程师springboot方向', 'geography': '上海-青浦区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132265908.html?rc=03'}

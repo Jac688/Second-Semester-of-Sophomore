@@ -1,0 +1,1 @@
+{'company_name': '佛山市嘉谦纺织有限公司', 'job_name': 'ERP开发人员', 'geography': '佛山', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/foshan/100364647.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京鸿程锦达电子有限公司', 'job_name': 'FAE工程师(偏硬件)', 'geography': '北京', 'bonus': ['五险一金', '绩效奖金', '通讯补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131493411.html?rc=03'}

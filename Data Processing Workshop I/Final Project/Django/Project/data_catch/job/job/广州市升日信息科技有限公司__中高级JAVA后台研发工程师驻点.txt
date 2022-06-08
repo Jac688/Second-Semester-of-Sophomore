@@ -1,0 +1,1 @@
+{'company_name': '广州市升日信息科技有限公司', 'job_name': '中高级JAVA后台研发工程师驻点', 'geography': '广州-天河区', 'bonus': ['五险一金', '交通补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130295253.html?rc=03'}

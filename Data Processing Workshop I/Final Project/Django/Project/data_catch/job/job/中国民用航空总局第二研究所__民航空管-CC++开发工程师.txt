@@ -1,0 +1,1 @@
+{'company_name': '中国民用航空总局第二研究所', 'job_name': '民航空管-CC++开发工程师', 'geography': '成都', 'bonus': ['周末双休', '绩效奖金', '定期体检', '年终奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130163714.html?rc=03'}

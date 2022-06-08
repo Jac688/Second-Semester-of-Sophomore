@@ -1,0 +1,1 @@
+{'company_name': '四川聚创医药有限公司', 'job_name': 'PHP开发工程师', 'geography': '成都-金牛区', 'bonus': ['五险', '免费住宿', '餐补', '定期体检'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128447723.html?rc=03'}

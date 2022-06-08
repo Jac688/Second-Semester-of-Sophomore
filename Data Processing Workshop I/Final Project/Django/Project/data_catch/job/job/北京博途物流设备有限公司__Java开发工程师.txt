@@ -1,0 +1,1 @@
+{'company_name': '北京博途物流设备有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-大兴区', 'bonus': ['五险', '员工旅游', '通讯补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128383221.html?rc=03'}

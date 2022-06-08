@@ -1,0 +1,1 @@
+{'company_name': '中国兵器装备研究院', 'job_name': '战略所-情报研究', 'geography': '北京', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131649544.html?rc=03'}

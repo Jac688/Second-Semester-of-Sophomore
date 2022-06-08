@@ -1,0 +1,1 @@
+{'company_name': 'KAPPA中国', 'job_name': '商品数据专员奥莱', 'geography': '北京-大兴区', 'bonus': ['五险一金', '通讯补贴', '年终奖金', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132113083.html?rc=03'}

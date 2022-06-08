@@ -1,0 +1,1 @@
+{'company_name': '北京天融信科技有限公司', 'job_name': 'web前端工程师云安全资源池Angular(J10558)', 'geography': '北京', 'bonus': ['交通补贴', '餐饮补贴', '五险一金', '补充医疗保险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128546082.html?rc=03'}

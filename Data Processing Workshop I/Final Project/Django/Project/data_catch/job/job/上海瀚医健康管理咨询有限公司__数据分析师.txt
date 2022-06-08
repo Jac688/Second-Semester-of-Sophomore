@@ -1,0 +1,1 @@
+{'company_name': '上海瀚医健康管理咨询有限公司', 'job_name': '数据分析师', 'geography': '上海', 'bonus': ['五险一金', '绩效奖金', '带薪年假', '做五休二'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130107496.html?rc=03'}

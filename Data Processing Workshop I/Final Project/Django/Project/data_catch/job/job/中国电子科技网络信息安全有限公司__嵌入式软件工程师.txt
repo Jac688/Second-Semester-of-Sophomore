@@ -1,0 +1,1 @@
+{'company_name': '中国电子科技网络信息安全有限公司', 'job_name': '嵌入式软件工程师', 'geography': '成都', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '定期体检'], 'salary': 1.9, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131111100.html?rc=03'}

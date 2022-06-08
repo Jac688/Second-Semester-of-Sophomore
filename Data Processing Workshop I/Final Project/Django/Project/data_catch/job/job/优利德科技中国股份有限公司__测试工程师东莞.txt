@@ -1,0 +1,1 @@
+{'company_name': '优利德科技中国股份有限公司', 'job_name': '测试工程师东莞', 'geography': '东莞', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131148450.html?rc=03'}

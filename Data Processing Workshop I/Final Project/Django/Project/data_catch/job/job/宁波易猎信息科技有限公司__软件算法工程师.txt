@@ -1,0 +1,1 @@
+{'company_name': '宁波易猎信息科技有限公司', 'job_name': '软件算法工程师', 'geography': '异地招聘', 'bonus': ['专业培训', '提供食宿', '周末双休'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132000504.html?rc=03'}

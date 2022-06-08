@@ -1,0 +1,1 @@
+{'company_name': '博彦科技北京有限公司武汉分公司', 'job_name': 'Java开发工程师内部职位-北京-05747', 'geography': '北京', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132273930.html?rc=03'}

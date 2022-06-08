@@ -1,0 +1,1 @@
+{'company_name': '循声科技重庆有限公司', 'job_name': '音频算法工程师', 'geography': '重庆-南岸区', 'bonus': ['专业培训', '弹性工作', '五险一金', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/130473327.html?rc=03'}

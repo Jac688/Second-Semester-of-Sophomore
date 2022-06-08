@@ -1,0 +1,1 @@
+{'company_name': '广州中国科学院软件应用技术研究所', 'job_name': 'CC++开发工程师(中科实数', 'geography': '南京-江宁区', 'bonus': ['五险一金', '免费班车', '年终奖金', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129120950.html?rc=03'}

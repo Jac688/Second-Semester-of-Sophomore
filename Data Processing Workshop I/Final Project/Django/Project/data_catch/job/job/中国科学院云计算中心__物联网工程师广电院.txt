@@ -1,0 +1,1 @@
+{'company_name': '中国科学院云计算中心', 'job_name': '物联网工程师广电院', 'geography': '异地招聘', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/124070245.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '华尔特人才咨询上海有限公司', 'job_name': 'Automation Software Engineer', 'geography': '苏州', 'bonus': ['专业培训', '五险一金', '定期体检', '做五休二'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/129754962.html?rc=03'}

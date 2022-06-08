@@ -1,0 +1,1 @@
+{'company_name': '南京凯盛国际工程有限公司', 'job_name': 'Java开发工程师', 'geography': '南京', 'bonus': ['补充医疗保险', '交通补贴', '年终奖金', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128433118.html?rc=03'}

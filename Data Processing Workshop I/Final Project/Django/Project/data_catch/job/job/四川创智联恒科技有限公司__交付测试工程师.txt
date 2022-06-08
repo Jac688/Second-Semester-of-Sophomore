@@ -1,0 +1,1 @@
+{'company_name': '四川创智联恒科技有限公司', 'job_name': '交付测试工程师', 'geography': '成都', 'bonus': ['周末双休', '五险一金', '上市公司', '定期体检'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124359930.html?rc=03'}

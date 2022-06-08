@@ -1,0 +1,1 @@
+{'company_name': '南京民基悠步信息技术有限公司', 'job_name': '自动化测试开发', 'geography': '东莞', 'bonus': [], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131096492.html?rc=03'}

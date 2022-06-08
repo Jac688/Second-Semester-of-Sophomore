@@ -1,0 +1,1 @@
+{'company_name': '上海深浩影像科技有限公司', 'job_name': '软件测试工程师', 'geography': '海宁', 'bonus': ['做五休二', '周末双休', '带薪年假', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/haining/123109456.html?rc=03'}

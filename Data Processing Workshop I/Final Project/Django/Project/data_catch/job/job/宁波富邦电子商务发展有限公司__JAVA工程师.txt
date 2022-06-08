@@ -1,0 +1,1 @@
+{'company_name': '宁波富邦电子商务发展有限公司', 'job_name': 'JAVA工程师', 'geography': '宁波-北仑区', 'bonus': ['带薪年假', '绩效奖金', '高温补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130907010.html?rc=03'}

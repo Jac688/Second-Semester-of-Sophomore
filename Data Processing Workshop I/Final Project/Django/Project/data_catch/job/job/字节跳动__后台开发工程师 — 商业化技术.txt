@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后台开发工程师 — 商业化技术', 'geography': '杭州', 'bonus': ['下午茶', '健身瑜伽', '团队氛围好', '弹性工作'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128724548.html?rc=03'}

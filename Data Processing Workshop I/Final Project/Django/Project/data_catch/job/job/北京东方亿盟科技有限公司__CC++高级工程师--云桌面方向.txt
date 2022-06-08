@@ -1,0 +1,1 @@
+{'company_name': '北京东方亿盟科技有限公司', 'job_name': 'CC++高级工程师--云桌面方向', 'geography': '北京-海淀区', 'bonus': ['交通补贴', '通讯补贴', '年终奖金', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129795319.html?rc=03'}

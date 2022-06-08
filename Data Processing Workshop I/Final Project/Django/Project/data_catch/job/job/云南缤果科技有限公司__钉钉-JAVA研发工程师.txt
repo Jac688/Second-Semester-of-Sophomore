@@ -1,0 +1,1 @@
+{'company_name': '云南缤果科技有限公司', 'job_name': '钉钉-JAVA研发工程师', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129273433.html?rc=03'}

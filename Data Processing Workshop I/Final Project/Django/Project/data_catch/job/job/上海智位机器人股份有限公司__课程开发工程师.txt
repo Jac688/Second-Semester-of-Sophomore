@@ -1,0 +1,1 @@
+{'company_name': '上海智位机器人股份有限公司', 'job_name': '课程开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/110471208.html?rc=03'}

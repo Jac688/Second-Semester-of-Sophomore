@@ -1,0 +1,1 @@
+{'company_name': '南京昌讯信息科技有限公司', 'job_name': 'Java软件工程师中级', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '全勤奖'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128591465.html?rc=03'}

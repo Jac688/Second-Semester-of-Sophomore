@@ -1,0 +1,1 @@
+{'company_name': '中国科学院自动化研究所', 'job_name': '嵌入式系统工程师', 'geography': '北京', 'bonus': ['五险一金', '餐饮补贴', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132079125.html?rc=03'}

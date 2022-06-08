@@ -1,0 +1,1 @@
+{'company_name': '北京朗阁信息技术有限公司', 'job_name': 'PHP开发工程师', 'geography': '北京-海淀区', 'bonus': ['餐饮补贴', '带薪年假', '周末双休', '工作居住证'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128153075.html?rc=03'}

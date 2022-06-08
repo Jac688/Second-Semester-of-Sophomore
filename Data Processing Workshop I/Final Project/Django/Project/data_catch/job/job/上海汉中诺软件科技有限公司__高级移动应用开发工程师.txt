@@ -1,0 +1,1 @@
+{'company_name': '上海汉中诺软件科技有限公司', 'job_name': '高级移动应用开发工程师', 'geography': '青岛-崂山区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/118019296.html?rc=03'}

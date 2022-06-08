@@ -1,0 +1,1 @@
+{'company_name': '北京迈基诺基因科技股份有限公司', 'job_name': '高级图像算法工程师铭毅公司', 'geography': '北京-顺义区', 'bonus': ['五险一金', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129005126.html?rc=03'}

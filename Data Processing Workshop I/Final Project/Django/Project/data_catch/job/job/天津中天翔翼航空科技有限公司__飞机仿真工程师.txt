@@ -1,0 +1,1 @@
+{'company_name': '天津中天翔翼航空科技有限公司', 'job_name': '飞机仿真工程师', 'geography': '天津-滨海新区', 'bonus': ['五险一金', '周末双休', '带薪年假', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/124825656.html?rc=03'}

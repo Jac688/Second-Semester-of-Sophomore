@@ -1,0 +1,1 @@
+{'company_name': '上扬软件上海有限公司', 'job_name': '高级MES实施顾问', 'geography': '成都', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126013703.html?rc=03'}

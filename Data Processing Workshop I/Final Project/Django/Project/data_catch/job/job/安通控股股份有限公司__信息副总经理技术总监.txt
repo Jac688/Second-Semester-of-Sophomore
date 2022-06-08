@@ -1,0 +1,1 @@
+{'company_name': '安通控股股份有限公司', 'job_name': '信息副总经理技术总监', 'geography': '泉州', 'bonus': ['五险一金', '带薪年假', '绩效奖金', '高温补贴'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/quanzhou/129954918.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东旺家智能机器人有限公司', 'job_name': '软件工程师', 'geography': '东莞-虎门镇', 'bonus': ['包三餐', '包住宿', '全勤奖', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/127833224.html?rc=03'}

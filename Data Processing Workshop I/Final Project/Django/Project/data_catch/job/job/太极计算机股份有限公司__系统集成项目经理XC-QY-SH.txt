@@ -1,0 +1,1 @@
+{'company_name': '太极计算机股份有限公司', 'job_name': '系统集成项目经理XC-QY-SH', 'geography': '重庆', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/127640923.html?rc=03'}

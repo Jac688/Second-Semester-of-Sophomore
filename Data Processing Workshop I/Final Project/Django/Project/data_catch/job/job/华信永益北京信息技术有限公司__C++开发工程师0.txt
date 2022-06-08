@@ -1,0 +1,1 @@
+{'company_name': '华信永益北京信息技术有限公司', 'job_name': 'C++开发工程师0', 'geography': '上海', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '节假日礼品'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128440043.html?rc=03'}

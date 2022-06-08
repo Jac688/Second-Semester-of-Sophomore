@@ -1,0 +1,1 @@
+{'company_name': '国元期货有限公司', 'job_name': '量化系统开发工程师c++)', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131179304.html?rc=03'}

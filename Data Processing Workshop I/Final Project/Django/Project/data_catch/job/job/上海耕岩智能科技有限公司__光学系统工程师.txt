@@ -1,0 +1,1 @@
+{'company_name': '上海耕岩智能科技有限公司', 'job_name': '光学系统工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131986745.html?rc=03'}

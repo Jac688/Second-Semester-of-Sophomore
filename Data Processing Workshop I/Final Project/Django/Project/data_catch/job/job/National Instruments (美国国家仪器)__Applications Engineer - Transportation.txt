@@ -1,0 +1,1 @@
+{'company_name': 'National Instruments (美国国家仪器)', 'job_name': 'Applications Engineer - Transportation', 'geography': '北京-海淀区', 'bonus': ['免费班车', '餐饮补贴', '五险一金', '补充医疗保险'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128028583.html?rc=03'}

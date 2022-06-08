@@ -1,0 +1,1 @@
+{'company_name': '宁波舜宇车载光学技术有限公司', 'job_name': '台架测试工程师', 'geography': '异地招聘', 'bonus': ['周末双休', '五险一金', '专业培训', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/129128871.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东因赛品牌营销集团股份有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-番禺区', 'bonus': ['弹性工作', '平台好', '大咖多', '双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126660030.html?rc=03'}

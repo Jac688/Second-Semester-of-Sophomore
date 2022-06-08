@@ -1,0 +1,1 @@
+{'company_name': '广州贸宝云科技有限公司', 'job_name': 'PHP中级开发工程师双休', 'geography': '广州-天河区', 'bonus': ['周末双休', '五险一金', '员工旅游', '交通补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128610758.html?rc=03'}

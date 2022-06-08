@@ -1,0 +1,1 @@
+{'company_name': '上海盒马网络科技有限公司', 'job_name': '盒马-Java开发专家-交易方向', 'geography': '杭州-余杭区', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131600156.html?rc=03'}

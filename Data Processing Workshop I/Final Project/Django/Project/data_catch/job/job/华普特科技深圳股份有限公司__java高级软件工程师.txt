@@ -1,0 +1,1 @@
+{'company_name': '华普特科技深圳股份有限公司', 'job_name': 'java高级软件工程师', 'geography': '深圳-宝安区', 'bonus': ['年终奖金', '补充医疗保险', '五险一金', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129564524.html?rc=03'}

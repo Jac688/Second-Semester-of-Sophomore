@@ -1,0 +1,1 @@
+{'company_name': '华住酒店管理有限公司', 'job_name': 'JAVA开发工程师海外业务方向', 'geography': '上海-嘉定区', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127666109.html?rc=03'}

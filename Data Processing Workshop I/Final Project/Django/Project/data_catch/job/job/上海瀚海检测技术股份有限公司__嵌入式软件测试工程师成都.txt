@@ -1,0 +1,1 @@
+{'company_name': '上海瀚海检测技术股份有限公司', 'job_name': '嵌入式软件测试工程师成都', 'geography': '成都', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131362665.html?rc=03'}

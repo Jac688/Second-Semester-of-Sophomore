@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '运维研发工程师', 'geography': '广州', 'bonus': ['下午茶', '六险一金', '扁平管理', '免费三餐'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130247472.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京御芯微科技有限公司', 'job_name': 'AI算法工程师', 'geography': '重庆-沙坪坝区', 'bonus': ['五险一金', '员工旅游', '专业培训', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131958199.html?rc=03'}

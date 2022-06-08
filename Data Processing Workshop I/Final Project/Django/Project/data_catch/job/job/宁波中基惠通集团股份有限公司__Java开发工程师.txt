@@ -1,0 +1,1 @@
+{'company_name': '宁波中基惠通集团股份有限公司', 'job_name': 'Java开发工程师', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127897997.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京鑫轩电子系统工程有限公司', 'job_name': 'C++高级开发工程师', 'geography': '南京', 'bonus': ['周末双休五险', '年终奖金', '餐饮补贴', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/117723489.html?rc=03'}

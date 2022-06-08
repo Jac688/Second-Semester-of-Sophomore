@@ -1,0 +1,1 @@
+{'company_name': '上海百若试验仪器有限公司', 'job_name': '嵌入式开发工程师', 'geography': '无锡-滨湖区', 'bonus': ['员工旅游', '通讯补贴', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/121395878.html?rc=03'}

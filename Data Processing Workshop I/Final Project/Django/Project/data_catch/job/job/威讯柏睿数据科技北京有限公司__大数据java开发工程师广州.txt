@@ -1,0 +1,1 @@
+{'company_name': '威讯柏睿数据科技北京有限公司', 'job_name': '大数据java开发工程师广州', 'geography': '广州-海珠区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130548663.html?rc=03'}

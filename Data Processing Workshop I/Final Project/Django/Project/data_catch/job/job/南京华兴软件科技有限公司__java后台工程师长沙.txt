@@ -1,0 +1,1 @@
+{'company_name': '南京华兴软件科技有限公司', 'job_name': 'java后台工程师长沙', 'geography': '长沙-芙蓉区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/changsha/121121151.html?rc=03'}

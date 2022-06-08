@@ -1,0 +1,1 @@
+{'company_name': '恒生电子股份有限公司', 'job_name': '高级运维工程师-平台GTN', 'geography': '杭州-滨江区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127957041.html?rc=03'}

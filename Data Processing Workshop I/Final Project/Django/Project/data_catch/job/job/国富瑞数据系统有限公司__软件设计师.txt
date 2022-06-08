@@ -1,0 +1,1 @@
+{'company_name': '国富瑞数据系统有限公司', 'job_name': '软件设计师', 'geography': '北京-大兴区', 'bonus': ['餐饮补贴', '年终奖金', '带薪年假', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129995913.html?rc=03'}

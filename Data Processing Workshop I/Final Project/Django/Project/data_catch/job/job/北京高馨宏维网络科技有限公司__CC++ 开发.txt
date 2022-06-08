@@ -1,0 +1,1 @@
+{'company_name': '北京高馨宏维网络科技有限公司', 'job_name': 'CC++ 开发', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '弹性工作', '做五休二', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/117003392.html?rc=03'}

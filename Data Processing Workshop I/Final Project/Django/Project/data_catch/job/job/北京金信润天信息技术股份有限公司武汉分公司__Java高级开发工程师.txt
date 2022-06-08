@@ -1,0 +1,1 @@
+{'company_name': '北京金信润天信息技术股份有限公司武汉分公司', 'job_name': 'Java高级开发工程师', 'geography': '武汉-洪山区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '绩效奖金'], 'salary': 1.33, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/125716089.html?rc=03'}

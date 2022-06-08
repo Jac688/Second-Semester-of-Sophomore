@@ -1,0 +1,1 @@
+{'company_name': '上海上软科技股份有限公司', 'job_name': 'MES工程师', 'geography': '上海', 'bonus': ['五险一金', '员工旅游', '专业培训', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/109309498.html?rc=03'}

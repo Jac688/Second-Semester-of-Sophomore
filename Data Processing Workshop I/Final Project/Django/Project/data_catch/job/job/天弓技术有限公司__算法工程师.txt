@@ -1,0 +1,1 @@
+{'company_name': '天弓技术有限公司', 'job_name': '算法工程师', 'geography': '中山-东区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/132251280.html?rc=03'}

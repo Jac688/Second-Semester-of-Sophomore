@@ -1,0 +1,1 @@
+{'company_name': '广东龙泉科技有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-海珠区', 'bonus': ['五险一金', '年终奖金', '五天工作制', '节日慰问金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/121532491.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国电建集团贵阳勘测设计研究院有限公司', 'job_name': '区域产业经济研究岗', 'geography': '广州-白云区', 'bonus': ['五险一金', '带薪年假', '绩效奖金', '交通补助'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132212020.html?rc=03'}

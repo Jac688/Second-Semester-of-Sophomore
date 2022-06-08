@@ -1,0 +1,1 @@
+{'company_name': '北京世纪东方通讯设备有限公司', 'job_name': 'C++视频监控软件工程师', 'geography': '北京', 'bonus': ['做五休二', '带薪年假', '五险一金', '全勤奖'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/105536272.html?rc=03'}

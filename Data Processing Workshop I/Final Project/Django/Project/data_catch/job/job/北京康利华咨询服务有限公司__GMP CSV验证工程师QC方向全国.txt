@@ -1,0 +1,1 @@
+{'company_name': '北京康利华咨询服务有限公司', 'job_name': 'GMP CSV验证工程师QC方向全国', 'geography': '杭州', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130546988.html?rc=03'}

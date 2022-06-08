@@ -1,0 +1,1 @@
+{'company_name': '嘉兴斯达半导体股份有限公司', 'job_name': 'MES开发工程师', 'geography': '嘉兴', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/119856536.html?rc=03'}

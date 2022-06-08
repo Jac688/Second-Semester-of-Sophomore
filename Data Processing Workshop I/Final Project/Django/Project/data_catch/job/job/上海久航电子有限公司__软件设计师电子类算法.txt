@@ -1,0 +1,1 @@
+{'company_name': '上海久航电子有限公司', 'job_name': '软件设计师电子类算法', 'geography': '成都-青羊区', 'bonus': ['补充医疗保险', '补充公积金', '专业培训', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/111903650.html?rc=03'}

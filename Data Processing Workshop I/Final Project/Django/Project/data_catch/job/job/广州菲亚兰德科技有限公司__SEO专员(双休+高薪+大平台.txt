@@ -1,0 +1,1 @@
+{'company_name': '广州菲亚兰德科技有限公司', 'job_name': 'SEO专员(双休+高薪+大平台', 'geography': '广州', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129390720.html?rc=03'}

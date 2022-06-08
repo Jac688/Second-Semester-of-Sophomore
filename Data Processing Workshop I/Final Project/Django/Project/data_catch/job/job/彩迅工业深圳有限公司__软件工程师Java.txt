@@ -1,0 +1,1 @@
+{'company_name': '彩迅工业深圳有限公司', 'job_name': '软件工程师Java', 'geography': '深圳-龙岗区', 'bonus': ['免费提供食宿', '出国机会', '绩效奖金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126531352.html?rc=03'}

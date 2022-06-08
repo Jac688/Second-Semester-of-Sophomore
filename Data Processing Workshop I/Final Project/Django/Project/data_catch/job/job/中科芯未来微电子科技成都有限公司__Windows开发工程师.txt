@@ -1,0 +1,1 @@
+{'company_name': '中科芯未来微电子科技成都有限公司', 'job_name': 'Windows开发工程师', 'geography': '成都-双流区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/111627474.html?rc=03'}

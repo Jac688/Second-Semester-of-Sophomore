@@ -1,0 +1,1 @@
+{'company_name': '广东九联科技股份有限公司', 'job_name': 'QT开发工程师', 'geography': '杭州-余杭区', 'bonus': ['五险一金', '节日福利', '周末双休', '年底双薪'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/123380942.html?rc=03'}

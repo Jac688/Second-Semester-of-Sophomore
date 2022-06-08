@@ -1,0 +1,1 @@
+{'company_name': '佛山市原力生物科技有限公司', 'job_name': '计算化学首席科学家总监', 'geography': '异地招聘', 'bonus': ['周末双休', '弹性工作', '带薪年假', '五险一金'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130314826.html?rc=03'}

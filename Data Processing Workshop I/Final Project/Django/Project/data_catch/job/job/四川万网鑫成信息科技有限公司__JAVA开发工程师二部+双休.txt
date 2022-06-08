@@ -1,0 +1,1 @@
+{'company_name': '四川万网鑫成信息科技有限公司', 'job_name': 'JAVA开发工程师二部+双休', 'geography': '成都-高新区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/120399010.html?rc=03'}

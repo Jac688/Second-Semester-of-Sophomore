@@ -1,0 +1,1 @@
+{'company_name': '上海爱尔眼科医院有限公司', 'job_name': '网站程序开发员', 'geography': '上海', 'bonus': ['五险一金', '绩效奖金', '做五休二'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120020878.html?rc=03'}

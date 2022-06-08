@@ -1,0 +1,1 @@
+{'company_name': '上海涌澜电子科技有限公司', 'job_name': '下位机工程师', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '定期体检', '专业培训', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130448930.html?rc=03'}

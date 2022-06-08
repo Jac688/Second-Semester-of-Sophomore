@@ -1,0 +1,1 @@
+{'company_name': '北京炎黄新星网络科技有限公司', 'job_name': '急聘JAVA开发工程师海口', 'geography': '海口-龙华区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/haikou/130945333.html?rc=03'}

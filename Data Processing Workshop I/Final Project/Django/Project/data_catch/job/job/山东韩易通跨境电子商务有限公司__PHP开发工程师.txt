@@ -1,0 +1,1 @@
+{'company_name': '山东韩易通跨境电子商务有限公司', 'job_name': 'PHP开发工程师', 'geography': '临沂-兰山区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/linyi/128339939.html?rc=03'}

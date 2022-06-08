@@ -1,0 +1,1 @@
+{'company_name': '卓望信息技术北京有限公司', 'job_name': '高级开发工程师', 'geography': '杭州', 'bonus': ['中移动控股', '专业培训', '通讯补贴', '补充医疗保险'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/125370201.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海常笑健康咨询服务有限公司', 'job_name': 'JAVA高级开发(上海)', 'geography': '上海', 'bonus': ['五险一金', '弹性工作', '年终奖金', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131531081.html?rc=03'}

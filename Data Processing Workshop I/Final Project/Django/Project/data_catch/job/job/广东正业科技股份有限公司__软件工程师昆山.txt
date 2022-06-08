@@ -1,0 +1,1 @@
+{'company_name': '广东正业科技股份有限公司', 'job_name': '软件工程师昆山', 'geography': '昆山', 'bonus': ['五险一金', '专业培训', '年终奖金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/131062485.html?rc=03'}

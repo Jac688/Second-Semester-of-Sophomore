@@ -1,0 +1,1 @@
+{'company_name': '南京坤爵信息技术有限公司', 'job_name': '.NET开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险', '节假日放假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127075971.html?rc=03'}

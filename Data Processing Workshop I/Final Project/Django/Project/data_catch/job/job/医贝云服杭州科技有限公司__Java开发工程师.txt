@@ -1,0 +1,1 @@
+{'company_name': '医贝云服杭州科技有限公司', 'job_name': 'Java开发工程师', 'geography': '杭州-余杭区', 'bonus': [], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131394518.html?rc=03'}

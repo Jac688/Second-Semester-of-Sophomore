@@ -1,0 +1,1 @@
+{'company_name': '广州市大周电子科技有限公司', 'job_name': 'C++高级开发工程师', 'geography': '广州-海珠区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/95859529.html?rc=03'}

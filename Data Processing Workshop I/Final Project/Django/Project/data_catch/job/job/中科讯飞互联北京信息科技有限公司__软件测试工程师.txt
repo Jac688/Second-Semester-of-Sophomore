@@ -1,0 +1,1 @@
+{'company_name': '中科讯飞互联北京信息科技有限公司', 'job_name': '软件测试工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130299064.html?rc=03'}

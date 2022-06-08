@@ -1,0 +1,1 @@
+{'company_name': '广州绿字阳信息技术有限公司', 'job_name': 'java开发工程师', 'geography': '海口', 'bonus': ['员工旅游', '专业培训', '年终奖金', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/haikou/112345119.html?rc=03'}

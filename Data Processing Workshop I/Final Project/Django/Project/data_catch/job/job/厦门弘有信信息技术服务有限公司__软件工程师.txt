@@ -1,0 +1,1 @@
+{'company_name': '厦门弘有信信息技术服务有限公司', 'job_name': '软件工程师', 'geography': '厦门', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/107229488.html?rc=03'}

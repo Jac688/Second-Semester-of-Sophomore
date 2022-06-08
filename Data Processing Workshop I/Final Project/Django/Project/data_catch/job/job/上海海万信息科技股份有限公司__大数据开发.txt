@@ -1,0 +1,1 @@
+{'company_name': '上海海万信息科技股份有限公司', 'job_name': '大数据开发', 'geography': '深圳', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/123247582.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '吉林省一秋网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '长春-南关区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/changchun/132096685.html?rc=03'}

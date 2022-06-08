@@ -1,0 +1,1 @@
+{'company_name': '北京永信至诚科技股份有限公司', 'job_name': 'Python开发工程师 (MJ000115)', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131907927.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '万润科技精机昆山有限公司', 'job_name': 'C++软件工程师', 'geography': '昆山', 'bonus': ['五险一金', '员工旅游', '年终奖金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/131950319.html?rc=03'}

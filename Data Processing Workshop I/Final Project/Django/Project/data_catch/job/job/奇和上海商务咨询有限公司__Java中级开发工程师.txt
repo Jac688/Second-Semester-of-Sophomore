@@ -1,0 +1,1 @@
+{'company_name': '奇和上海商务咨询有限公司', 'job_name': 'Java中级开发工程师', 'geography': '上海-虹口区', 'bonus': ['带薪年假', '绩效奖金', '节日福利', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129509831.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '世纪福智能装备股份有限公司', 'job_name': 'Python开发工程师', 'geography': '苏州-高新区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '员工旅游'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/117670054.html?rc=03'}

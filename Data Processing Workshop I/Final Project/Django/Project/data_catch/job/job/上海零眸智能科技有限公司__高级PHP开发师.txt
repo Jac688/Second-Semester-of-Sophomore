@@ -1,0 +1,1 @@
+{'company_name': '上海零眸智能科技有限公司', 'job_name': '高级PHP开发师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132316031.html?rc=03'}

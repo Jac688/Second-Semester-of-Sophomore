@@ -1,0 +1,1 @@
+{'company_name': '厦门谦迅达网络科技有限公司', 'job_name': '安卓Android开发', 'geography': '厦门', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/132016296.html?rc=03'}

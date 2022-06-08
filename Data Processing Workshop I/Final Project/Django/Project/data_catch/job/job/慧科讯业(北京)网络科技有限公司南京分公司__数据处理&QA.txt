@@ -1,0 +1,1 @@
+{'company_name': '慧科讯业(北京)网络科技有限公司南京分公司', 'job_name': '数据处理&QA', 'geography': '南京-秦淮区', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128202557.html?rc=03'}

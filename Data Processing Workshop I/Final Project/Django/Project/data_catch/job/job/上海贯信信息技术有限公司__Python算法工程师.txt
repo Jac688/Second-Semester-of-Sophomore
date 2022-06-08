@@ -1,0 +1,1 @@
+{'company_name': '上海贯信信息技术有限公司', 'job_name': 'Python算法工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '专业培训'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132265456.html?rc=03'}

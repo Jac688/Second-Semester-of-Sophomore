@@ -1,0 +1,1 @@
+{'company_name': '上海泛微网络科技股份有限公司', 'job_name': 'CC++高级开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '周末双休'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128502154.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京中科金财科技股份有限公司', 'job_name': '软件开发工程师华夏银行', 'geography': '北京-石景山区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131756034.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国软件与技术服务股份有限公司', 'job_name': '急聘：中高级java开发工程师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/104288550.html?rc=03'}

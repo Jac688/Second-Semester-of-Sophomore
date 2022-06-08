@@ -1,0 +1,1 @@
+{'company_name': '东软管理咨询上海有限公司', 'job_name': 'Java开发工程师', 'geography': '嘉兴-海盐县', 'bonus': ['弹性工作', '五险一金', '交通补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/128597677.html?rc=03'}

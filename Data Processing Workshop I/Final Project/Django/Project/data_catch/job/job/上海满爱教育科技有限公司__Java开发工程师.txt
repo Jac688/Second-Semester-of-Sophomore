@@ -1,0 +1,1 @@
+{'company_name': '上海满爱教育科技有限公司', 'job_name': 'Java开发工程师', 'geography': '杭州', 'bonus': [], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130223846.html?rc=03'}

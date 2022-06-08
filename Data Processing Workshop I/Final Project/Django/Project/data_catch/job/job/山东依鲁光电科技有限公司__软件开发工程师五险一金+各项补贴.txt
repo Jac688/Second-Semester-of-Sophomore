@@ -1,0 +1,1 @@
+{'company_name': '山东依鲁光电科技有限公司', 'job_name': '软件开发工程师五险一金+各项补贴', 'geography': '青岛', 'bonus': ['带薪年假', '五险一金', '节日福利', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/120730018.html?rc=03'}

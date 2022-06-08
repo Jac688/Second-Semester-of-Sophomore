@@ -1,0 +1,1 @@
+{'company_name': '广东博钧医疗信息科技有限公司', 'job_name': '软件测试工程师', 'geography': '深圳-宝安区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/114548518.html?rc=03'}

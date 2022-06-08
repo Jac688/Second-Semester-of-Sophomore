@@ -1,0 +1,1 @@
+{'company_name': '上海江达科技发展有限公司', 'job_name': '应用CAA技术、基于知识工程', 'geography': '北京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130485790.html?rc=03'}

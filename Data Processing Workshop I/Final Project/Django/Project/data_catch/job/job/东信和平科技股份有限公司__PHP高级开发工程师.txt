@@ -1,0 +1,1 @@
+{'company_name': '东信和平科技股份有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '珠海', 'bonus': ['五险一金', '免费班车', '绩效奖金', '年终奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/121585687.html?rc=03'}

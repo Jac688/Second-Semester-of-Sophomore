@@ -1,0 +1,1 @@
+{'company_name': '京北方信息技术股份有限公司', 'job_name': 'PHP开发工程师-上海嘉定-02005', 'geography': '上海', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117965473.html?rc=03'}

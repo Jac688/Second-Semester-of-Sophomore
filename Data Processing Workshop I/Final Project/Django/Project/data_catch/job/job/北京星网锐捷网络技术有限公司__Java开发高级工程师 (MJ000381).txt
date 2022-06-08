@@ -1,0 +1,1 @@
+{'company_name': '北京星网锐捷网络技术有限公司', 'job_name': 'Java开发高级工程师 (MJ000381)', 'geography': '福州-闽侯县', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '弹性工作'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/131671041.html?rc=03'}

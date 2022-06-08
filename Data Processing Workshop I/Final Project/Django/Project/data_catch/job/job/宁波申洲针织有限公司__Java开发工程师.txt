@@ -1,0 +1,1 @@
+{'company_name': '宁波申洲针织有限公司', 'job_name': 'Java开发工程师', 'geography': '宁波-北仑区', 'bonus': ['五险一金', '免费班车', '弹性工作', '年终奖金'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130612676.html?rc=03'}

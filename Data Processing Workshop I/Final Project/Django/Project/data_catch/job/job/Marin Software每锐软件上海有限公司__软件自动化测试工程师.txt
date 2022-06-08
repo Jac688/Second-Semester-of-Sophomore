@@ -1,0 +1,1 @@
+{'company_name': 'Marin Software每锐软件上海有限公司', 'job_name': '软件自动化测试工程师', 'geography': '济南', 'bonus': ['补充公积金', '定期体检', '弹性工作', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/127153196.html?rc=03'}

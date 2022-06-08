@@ -1,0 +1,1 @@
+{'company_name': '上海惠卓企业管理咨询有限公司', 'job_name': '软件工程师', 'geography': '南宁', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/124467538.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天津易联银科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '天津-西青区', 'bonus': ['五险一金', '周末双休', '朝九晚五', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/132058706.html?rc=03'}

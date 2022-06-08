@@ -1,0 +1,1 @@
+{'company_name': '上海和宗焊接设备制造有限公司', 'job_name': 'Java开发工程师', 'geography': '上海', 'bonus': ['带薪年假', '五险一金', '节日福利', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127596363.html?rc=03'}

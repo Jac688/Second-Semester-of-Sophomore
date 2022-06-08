@@ -1,0 +1,1 @@
+{'company_name': '上海杰迈晶雅人力资源有限公司', 'job_name': 'Python Backend Software Engineer', 'geography': '异地招聘', 'bonus': ['五险一金', '周末双休', '带薪年假', '补充医疗保险'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130749682.html?rc=03'}

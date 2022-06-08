@@ -1,0 +1,1 @@
+{'company_name': '上海诺与汽车科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-青浦区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129741408.html?rc=03'}

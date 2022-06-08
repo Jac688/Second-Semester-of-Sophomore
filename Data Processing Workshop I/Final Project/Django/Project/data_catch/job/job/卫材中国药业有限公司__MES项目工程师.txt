@@ -1,0 +1,1 @@
+{'company_name': '卫材中国药业有限公司', 'job_name': 'MES项目工程师', 'geography': '苏州-工业园区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128600469.html?rc=03'}

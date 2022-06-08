@@ -1,0 +1,1 @@
+{'company_name': '北京眼神科技有限公司', 'job_name': 'Java开发工程师济南', 'geography': '济南', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/129822141.html?rc=03'}

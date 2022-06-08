@@ -1,0 +1,1 @@
+{'company_name': '北京兴华会计师事务所特殊普通合伙青岛分所', 'job_name': '智慧财务财务中台产品经理', 'geography': '青岛-崂山区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '交通补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/130517677.html?rc=03'}

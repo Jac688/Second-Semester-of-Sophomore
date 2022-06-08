@@ -1,0 +1,1 @@
+{'company_name': '广州天源信息科技股份有限公司', 'job_name': 'JAVA后端开发工程师', 'geography': '北京', 'bonus': ['五险一金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128385112.html?rc=03'}

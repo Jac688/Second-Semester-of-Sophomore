@@ -1,0 +1,1 @@
+{'company_name': '广州因爱技术有限公司', 'job_name': '高级嵌入式软件工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/foshan/128724646.html?rc=03'}

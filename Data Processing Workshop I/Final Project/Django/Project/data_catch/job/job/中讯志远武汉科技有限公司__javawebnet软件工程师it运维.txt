@@ -1,0 +1,1 @@
+{'company_name': '中讯志远武汉科技有限公司', 'job_name': 'javawebnet软件工程师it运维', 'geography': '台州', 'bonus': ['年终奖金', '五险一金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/taizhoue/121277536.html?rc=03'}

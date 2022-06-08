@@ -1,0 +1,1 @@
+{'company_name': '宁德新能源科技有限公司', 'job_name': '设备管理系统设计工程师', 'geography': '宁德', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningde/128391752.html?rc=03'}

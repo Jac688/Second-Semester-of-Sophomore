@@ -1,0 +1,1 @@
+{'company_name': '南京焦点领动云计算技术有限公司', 'job_name': 'Java开发工程师六险一金+双休', 'geography': '南京-浦口区', 'bonus': ['免费班车', '员工旅游', '定期体检', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130378074.html?rc=03'}

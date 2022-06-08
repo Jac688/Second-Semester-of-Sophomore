@@ -1,0 +1,1 @@
+{'company_name': '南京科沃信息技术有限公司', 'job_name': 'Java 开发工程师', 'geography': '南京-江宁区', 'bonus': ['通讯补贴', '免费班车', '员工旅游', '出国机会'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/105318158.html?rc=03'}

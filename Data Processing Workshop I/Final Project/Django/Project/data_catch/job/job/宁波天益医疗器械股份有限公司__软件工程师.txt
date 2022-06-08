@@ -1,0 +1,1 @@
+{'company_name': '宁波天益医疗器械股份有限公司', 'job_name': '软件工程师', 'geography': '宁波', 'bonus': ['五险一金', '年终奖金', '定期体检', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/124874074.html?rc=03'}

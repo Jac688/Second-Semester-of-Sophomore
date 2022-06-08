@@ -1,0 +1,1 @@
+{'company_name': '上海爱数信息技术股份有限公司', 'job_name': '高级技术工程师', 'geography': '天津', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130591583.html?rc=03'}

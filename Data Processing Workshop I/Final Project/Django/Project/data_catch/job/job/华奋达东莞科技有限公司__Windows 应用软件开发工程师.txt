@@ -1,0 +1,1 @@
+{'company_name': '华奋达东莞科技有限公司', 'job_name': 'Windows 应用软件开发工程师', 'geography': '东莞-松山湖区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/129905912.html?rc=03'}

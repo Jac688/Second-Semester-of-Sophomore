@@ -1,0 +1,1 @@
+{'company_name': '广州帕克西软件开发有限公司', 'job_name': '硬件开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/119526274.html?rc=03'}

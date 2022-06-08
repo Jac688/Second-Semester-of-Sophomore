@@ -1,0 +1,1 @@
+{'company_name': '平安科技深圳有限公司', 'job_name': '1141CG-Java开发技术专家', 'geography': '成都-锦江区', 'bonus': ['五险一金', '绩效奖金', '带薪年假', '补充医疗保险'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131836245.html?rc=03'}

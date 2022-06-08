@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '测试开发工程师 - 抖音电商', 'geography': '上海', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '团队氛围好'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126641067.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海睿畜电子科技有限公司', 'job_name': 'Python开发工程师', 'geography': '上海-嘉定区', 'bonus': ['工作餐', '季度团建', '补充医疗保险', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131744504.html?rc=03'}

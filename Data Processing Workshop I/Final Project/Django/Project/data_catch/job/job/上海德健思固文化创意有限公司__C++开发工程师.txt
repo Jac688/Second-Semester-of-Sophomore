@@ -1,0 +1,1 @@
+{'company_name': '上海德健思固文化创意有限公司', 'job_name': 'C++开发工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123035815.html?rc=03'}

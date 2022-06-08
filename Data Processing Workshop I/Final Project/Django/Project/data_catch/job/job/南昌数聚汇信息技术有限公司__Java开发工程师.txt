@@ -1,0 +1,1 @@
+{'company_name': '南昌数聚汇信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '南昌-青山湖区', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/131992311.html?rc=03'}

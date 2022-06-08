@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '服务架构高级研发工程师-抖音短视频', 'geography': '北京', 'bonus': ['六险一金', '团队氛围好', '晋升空间大', '用户过亿'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123851955.html?rc=03'}

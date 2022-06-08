@@ -1,0 +1,1 @@
+{'company_name': '广州悦安融资租赁有限公司', 'job_name': 'CAE仿真优化工程师汽车轻量化项目', 'geography': '广州-海珠区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128783664.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '圣东尼上海针织机器有限公司', 'job_name': 'Front-end Java Developer', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '节假日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130225934.html?rc=03'}

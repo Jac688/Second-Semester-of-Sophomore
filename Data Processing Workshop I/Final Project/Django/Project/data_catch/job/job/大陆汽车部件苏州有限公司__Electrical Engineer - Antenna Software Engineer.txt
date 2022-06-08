@@ -1,0 +1,1 @@
+{'company_name': '大陆汽车部件苏州有限公司', 'job_name': 'Electrical Engineer - Antenna Software Engineer', 'geography': '苏州', 'bonus': ['免费班车', '节日福利', '交通补贴', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/132182787.html?rc=03'}

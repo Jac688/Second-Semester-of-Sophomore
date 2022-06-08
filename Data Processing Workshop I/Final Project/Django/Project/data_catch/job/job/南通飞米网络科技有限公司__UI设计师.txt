@@ -1,0 +1,1 @@
+{'company_name': '南通飞米网络科技有限公司', 'job_name': 'UI设计师', 'geography': '南通', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/nantong/108368765.html?rc=03'}

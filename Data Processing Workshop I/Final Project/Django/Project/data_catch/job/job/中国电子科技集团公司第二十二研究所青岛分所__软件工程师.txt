@@ -1,0 +1,1 @@
+{'company_name': '中国电子科技集团公司第二十二研究所青岛分所', 'job_name': '软件工程师', 'geography': '青岛-城阳区', 'bonus': ['五险一金', '专业培训', '餐饮补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/129884804.html?rc=03'}

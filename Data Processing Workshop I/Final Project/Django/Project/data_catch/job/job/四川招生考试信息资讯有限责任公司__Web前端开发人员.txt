@@ -1,0 +1,1 @@
+{'company_name': '四川招生考试信息资讯有限责任公司', 'job_name': 'Web前端开发人员', 'geography': '成都-锦江区', 'bonus': ['五险一金', '绩效奖金', '通讯补贴', '定期体检'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130045301.html?rc=03'}

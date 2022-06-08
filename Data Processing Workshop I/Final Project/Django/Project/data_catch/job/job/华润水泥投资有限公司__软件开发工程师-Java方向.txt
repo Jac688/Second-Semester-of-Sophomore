@@ -1,0 +1,1 @@
+{'company_name': '华润水泥投资有限公司', 'job_name': '软件开发工程师-Java方向', 'geography': '深圳', 'bonus': ['交通补贴', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126169532.html?rc=03'}

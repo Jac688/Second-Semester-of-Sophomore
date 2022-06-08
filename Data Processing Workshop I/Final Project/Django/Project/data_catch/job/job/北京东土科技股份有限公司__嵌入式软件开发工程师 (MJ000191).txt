@@ -1,0 +1,1 @@
+{'company_name': '北京东土科技股份有限公司', 'job_name': '嵌入式软件开发工程师 (MJ000191)', 'geography': '北京', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131571011.html?rc=03'}

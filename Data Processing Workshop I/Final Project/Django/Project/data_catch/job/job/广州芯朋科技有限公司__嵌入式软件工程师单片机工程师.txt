@@ -1,0 +1,1 @@
+{'company_name': '广州芯朋科技有限公司', 'job_name': '嵌入式软件工程师单片机工程师', 'geography': '广州-黄埔区', 'bonus': ['员工旅游', '通讯补贴', '年终奖金', '免费班车'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/120931077.html?rc=03'}

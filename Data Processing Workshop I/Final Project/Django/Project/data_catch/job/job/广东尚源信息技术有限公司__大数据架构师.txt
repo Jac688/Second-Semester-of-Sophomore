@@ -1,0 +1,1 @@
+{'company_name': '广东尚源信息技术有限公司', 'job_name': '大数据架构师', 'geography': '广州-越秀区', 'bonus': ['五险一金', '绩效奖金', '周末双休', '出差补助'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131433660.html?rc=03'}

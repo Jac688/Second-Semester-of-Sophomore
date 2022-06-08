@@ -1,0 +1,1 @@
+{'company_name': '威乐(中国)水泵系统有限公司', 'job_name': 'Software Delivery Consultant', 'geography': '北京', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130251001.html?rc=03'}

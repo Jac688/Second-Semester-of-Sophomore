@@ -1,0 +1,1 @@
+{'company_name': '中科宇图科技股份有限公司', 'job_name': 'Python开发工程师', 'geography': '郑州-高新区', 'bonus': ['五险一金', '餐饮补贴', '周末双休', '包住'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhengzhou/132209316.html?rc=03'}

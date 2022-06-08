@@ -1,0 +1,1 @@
+{'company_name': '广州理工学院', 'job_name': '计算机专任教师', 'geography': '广州-白云区', 'bonus': ['五险一金', '工会福利', '带薪寒暑假', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/115097618.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州易尊网络科技股份有限公司', 'job_name': '测试工程师', 'geography': '广州-海珠区', 'bonus': ['五险一金', '绩效奖金', '带薪年假', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130615175.html?rc=03'}

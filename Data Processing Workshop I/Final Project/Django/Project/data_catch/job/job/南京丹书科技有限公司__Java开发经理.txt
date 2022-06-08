@@ -1,0 +1,1 @@
+{'company_name': '南京丹书科技有限公司', 'job_name': 'Java开发经理', 'geography': '南京-江宁区', 'bonus': ['五险一金', '年终奖金', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130888120.html?rc=03'}

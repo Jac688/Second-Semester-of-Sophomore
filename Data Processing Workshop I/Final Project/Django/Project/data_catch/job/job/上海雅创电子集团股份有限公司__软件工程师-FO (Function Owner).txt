@@ -1,0 +1,1 @@
+{'company_name': '上海雅创电子集团股份有限公司', 'job_name': '软件工程师-FO (Function Owner)', 'geography': '上海-闵行区', 'bonus': ['做五休二', '带薪年假', '五险一金', '包住宿'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130969348.html?rc=03'}

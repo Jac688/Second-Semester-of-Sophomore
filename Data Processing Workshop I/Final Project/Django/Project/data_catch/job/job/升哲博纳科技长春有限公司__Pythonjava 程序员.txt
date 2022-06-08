@@ -1,0 +1,1 @@
+{'company_name': '升哲博纳科技长春有限公司', 'job_name': 'Pythonjava 程序员', 'geography': '长春-宽城区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/changchun/130348497.html?rc=03'}

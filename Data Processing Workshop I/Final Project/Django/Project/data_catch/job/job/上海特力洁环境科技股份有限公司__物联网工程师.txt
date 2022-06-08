@@ -1,0 +1,1 @@
+{'company_name': '上海特力洁环境科技股份有限公司', 'job_name': '物联网工程师', 'geography': '上海-闵行区', 'bonus': ['弹性工作', '专业培训', '餐饮补贴', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126109223.html?rc=03'}

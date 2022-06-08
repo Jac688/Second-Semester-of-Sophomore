@@ -1,0 +1,1 @@
+{'company_name': '天津信时通科技有限公司', 'job_name': 'BI项目经理', 'geography': '天津-滨海新区', 'bonus': ['五险一金', '绩效奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128063108.html?rc=03'}

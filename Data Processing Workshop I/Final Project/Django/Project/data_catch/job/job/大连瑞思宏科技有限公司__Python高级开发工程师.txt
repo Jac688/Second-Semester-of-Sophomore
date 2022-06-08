@@ -1,0 +1,1 @@
+{'company_name': '大连瑞思宏科技有限公司', 'job_name': 'Python高级开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '专业培训', '年终奖金', '领导好'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/liaoningsheng/124712161.html?rc=03'}

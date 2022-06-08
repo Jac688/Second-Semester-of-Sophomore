@@ -1,0 +1,1 @@
+{'company_name': '上海联泰科技股份有限公司', 'job_name': 'C++高级开发工程师', 'geography': '上海-松江区', 'bonus': ['做五休二', '交通补贴', '带薪年假', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/111192689.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川先周科技有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-武侯区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131233584.html?rc=03'}

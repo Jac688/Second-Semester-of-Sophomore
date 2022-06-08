@@ -1,0 +1,1 @@
+{'company_name': '哈尔滨商悦企业管理服务有限公司', 'job_name': 'php开发工程师.net开发工程师', 'geography': '淮南', 'bonus': ['加班补贴', '包吃'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/huainan/130699712.html?rc=03'}

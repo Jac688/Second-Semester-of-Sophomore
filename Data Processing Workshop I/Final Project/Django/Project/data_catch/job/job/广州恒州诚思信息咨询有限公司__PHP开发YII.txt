@@ -1,0 +1,1 @@
+{'company_name': '广州恒州诚思信息咨询有限公司', 'job_name': 'PHP开发YII', 'geography': '广州-天河区', 'bonus': ['周末双休', '五险一金', '节日福利', '全勤奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122645960.html?rc=03'}

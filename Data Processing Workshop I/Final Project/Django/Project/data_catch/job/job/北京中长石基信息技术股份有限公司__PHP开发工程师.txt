@@ -1,0 +1,1 @@
+{'company_name': '北京中长石基信息技术股份有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '定期体检', '带薪年假', '通讯补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123948507.html?rc=03'}

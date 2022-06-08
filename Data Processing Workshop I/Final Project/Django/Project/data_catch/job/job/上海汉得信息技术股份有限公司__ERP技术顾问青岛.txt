@@ -1,0 +1,1 @@
+{'company_name': '上海汉得信息技术股份有限公司', 'job_name': 'ERP技术顾问青岛', 'geography': '青岛', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/130657858.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波杉工智能安全科技股份有限公司', 'job_name': 'Python开发工程师', 'geography': '宁波-海曙区', 'bonus': ['餐饮补贴', '五险一金', '周末双休', '交通补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129037883.html?rc=03'}

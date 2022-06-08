@@ -1,0 +1,1 @@
+{'company_name': '上海迪费网络科技合伙企业有限合伙', 'job_name': 'Python开发工程师区块链量化', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '弹性工作', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132301345.html?rc=03'}

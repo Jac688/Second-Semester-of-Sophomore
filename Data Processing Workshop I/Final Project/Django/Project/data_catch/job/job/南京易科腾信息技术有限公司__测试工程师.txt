@@ -1,0 +1,1 @@
+{'company_name': '南京易科腾信息技术有限公司', 'job_name': '测试工程师', 'geography': '南京-江宁区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127958266.html?rc=03'}

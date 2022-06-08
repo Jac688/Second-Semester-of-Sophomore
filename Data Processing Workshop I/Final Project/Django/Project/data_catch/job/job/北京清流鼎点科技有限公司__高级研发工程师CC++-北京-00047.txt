@@ -1,0 +1,1 @@
+{'company_name': '北京清流鼎点科技有限公司', 'job_name': '高级研发工程师CC++-北京-00047', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128346835.html?rc=03'}

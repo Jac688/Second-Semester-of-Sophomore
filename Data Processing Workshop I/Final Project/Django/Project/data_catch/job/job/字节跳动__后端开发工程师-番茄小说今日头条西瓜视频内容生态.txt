@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后端开发工程师-番茄小说今日头条西瓜视频内容生态', 'geography': '北京', 'bonus': ['六险一金', '弹性工作', '免费三餐', '租房补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131854125.html?rc=03'}

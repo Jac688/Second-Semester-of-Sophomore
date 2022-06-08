@@ -1,0 +1,1 @@
+{'company_name': '天虹中国投资有限公司', 'job_name': 'Java开发工程师', 'geography': '异地招聘', 'bonus': ['节日福利', '年终奖金', '五险一金', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/jiangsusheng/120364389.html?rc=03'}

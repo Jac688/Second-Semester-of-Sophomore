@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': 'C++开发高级资深工程师', 'geography': '广州', 'bonus': ['下午茶', '六险一金', '股票期权', '带薪休假'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132144026.html?rc=03'}

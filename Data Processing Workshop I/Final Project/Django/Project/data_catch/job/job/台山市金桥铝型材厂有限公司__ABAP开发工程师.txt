@@ -1,0 +1,1 @@
+{'company_name': '台山市金桥铝型材厂有限公司', 'job_name': 'ABAP开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131203877.html?rc=03'}

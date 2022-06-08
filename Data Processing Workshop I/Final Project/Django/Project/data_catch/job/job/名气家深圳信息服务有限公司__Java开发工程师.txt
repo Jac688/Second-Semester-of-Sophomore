@@ -1,0 +1,1 @@
+{'company_name': '名气家深圳信息服务有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '员工旅游'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131699381.html?rc=03'}

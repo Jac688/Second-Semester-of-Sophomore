@@ -1,0 +1,1 @@
+{'company_name': '广东中审软件技术有限公司', 'job_name': '教研项目组长', 'geography': '广州-天河区', 'bonus': ['五险一金', '绩效奖金', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/115378801.html?rc=03'}

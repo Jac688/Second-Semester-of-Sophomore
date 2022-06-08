@@ -1,0 +1,1 @@
+{'company_name': '兴文创新竹制品发展有限公司', 'job_name': 'Web前端设计师', 'geography': '宜宾', 'bonus': ['周末双休'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/yibin/132002270.html?rc=03'}

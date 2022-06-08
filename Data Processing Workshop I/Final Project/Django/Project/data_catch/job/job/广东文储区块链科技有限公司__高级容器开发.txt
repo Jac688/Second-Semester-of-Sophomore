@@ -1,0 +1,1 @@
+{'company_name': '广东文储区块链科技有限公司', 'job_name': '高级容器开发', 'geography': '深圳-南山区', 'bonus': ['团队氛围好', '定期团建', '社保', '员工旅游'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127036224.html?rc=03'}

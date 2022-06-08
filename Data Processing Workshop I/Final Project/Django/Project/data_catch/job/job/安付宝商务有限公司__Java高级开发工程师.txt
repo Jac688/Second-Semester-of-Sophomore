@@ -1,0 +1,1 @@
+{'company_name': '安付宝商务有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '交通补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120378645.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京云联达信息技术有限公司', 'job_name': '互联网产品经理', 'geography': '南京-浦口区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132205779.html?rc=03'}

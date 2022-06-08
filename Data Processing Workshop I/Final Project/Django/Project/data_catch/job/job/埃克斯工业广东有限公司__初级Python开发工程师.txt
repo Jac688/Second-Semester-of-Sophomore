@@ -1,0 +1,1 @@
+{'company_name': '埃克斯工业广东有限公司', 'job_name': '初级Python开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126841678.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波宝锐芳香集团有限公司', 'job_name': 'Java开发工程师', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/120868607.html?rc=03'}

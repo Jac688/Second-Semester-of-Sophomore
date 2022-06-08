@@ -1,0 +1,1 @@
+{'company_name': '东华软件股份公司', 'job_name': 'IT项目经理', 'geography': '泰安', 'bonus': ['五险一金', '餐饮补贴', '交通补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/taian/126210849.html?rc=03'}

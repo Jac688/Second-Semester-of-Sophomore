@@ -1,0 +1,1 @@
+{'company_name': '北京奇酷工场科技有限公司', 'job_name': '全栈工程师', 'geography': '北京', 'bonus': ['员工旅游', '餐饮补贴', '做五休二', '弹性工作'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124052015.html?rc=03'}

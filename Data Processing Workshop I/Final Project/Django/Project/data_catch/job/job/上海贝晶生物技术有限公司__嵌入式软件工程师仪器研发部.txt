@@ -1,0 +1,1 @@
+{'company_name': '上海贝晶生物技术有限公司', 'job_name': '嵌入式软件工程师仪器研发部', 'geography': '上海-闵行区', 'bonus': ['五险一金', '补充公积金', '年终奖金', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/98078147.html?rc=03'}

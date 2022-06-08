@@ -1,0 +1,1 @@
+{'company_name': '信利仁寿高端显示科技有限公司', 'job_name': 'MES工程师', 'geography': '异地招聘', 'bonus': ['五险一金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/sichuansheng/128506325.html?rc=03'}

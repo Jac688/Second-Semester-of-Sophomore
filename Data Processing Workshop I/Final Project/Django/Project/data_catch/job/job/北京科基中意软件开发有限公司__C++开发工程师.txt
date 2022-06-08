@@ -1,0 +1,1 @@
+{'company_name': '北京科基中意软件开发有限公司', 'job_name': 'C++开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '节假日福利', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129730228.html?rc=03'}

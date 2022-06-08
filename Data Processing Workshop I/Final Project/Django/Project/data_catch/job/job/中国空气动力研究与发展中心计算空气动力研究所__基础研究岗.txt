@@ -1,0 +1,1 @@
+{'company_name': '中国空气动力研究与发展中心计算空气动力研究所', 'job_name': '基础研究岗', 'geography': '绵阳', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/mianyang/115451714.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中之有限公司', 'job_name': '教育产品设计', 'geography': '苏州-高新区', 'bonus': ['专业培训', '绩效奖金', '年终奖金', '餐饮补贴'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/129099262.html?rc=03'}

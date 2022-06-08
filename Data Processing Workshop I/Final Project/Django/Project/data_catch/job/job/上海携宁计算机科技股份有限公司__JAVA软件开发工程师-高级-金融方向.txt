@@ -1,0 +1,1 @@
+{'company_name': '上海携宁计算机科技股份有限公司', 'job_name': 'JAVA软件开发工程师-高级-金融方向', 'geography': '深圳-福田区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/49880015.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京易航远智科技有限公司', 'job_name': 'soc平台开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '做五休二', '补充公积金', '员工旅游'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128499310.html?rc=03'}

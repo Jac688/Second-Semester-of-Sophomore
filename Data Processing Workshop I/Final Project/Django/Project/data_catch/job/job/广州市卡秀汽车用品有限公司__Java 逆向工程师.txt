@@ -1,0 +1,1 @@
+{'company_name': '广州市卡秀汽车用品有限公司', 'job_name': 'Java 逆向工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '年终奖金', '全勤奖', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127707950.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '博世汽车部件苏州有限公司', 'job_name': 'Sr.Test Automation Engineer at Bosch eBike Systems_RBACOM', 'geography': '深圳', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131072401.html?rc=03'}

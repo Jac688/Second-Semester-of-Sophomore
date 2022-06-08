@@ -1,0 +1,1 @@
+{'company_name': '中国旅游集团中免股份有限公司', 'job_name': '进口烟酒采购支持高级助理北京', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124504121.html?rc=03'}

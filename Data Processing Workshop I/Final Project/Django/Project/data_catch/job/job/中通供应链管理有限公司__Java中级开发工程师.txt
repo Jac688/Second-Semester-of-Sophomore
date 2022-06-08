@@ -1,0 +1,1 @@
+{'company_name': '中通供应链管理有限公司', 'job_name': 'Java中级开发工程师', 'geography': '杭州-江干区', 'bonus': ['包住宿', '餐饮补贴', '节日福利', '弹性工作'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/101549481.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '大连隆基信息技术有限公司', 'job_name': 'Java开发工程师(互联网自主研发项目', 'geography': '深圳-南山区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128235403.html?rc=03'}

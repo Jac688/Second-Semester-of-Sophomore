@@ -1,0 +1,1 @@
+{'company_name': '北京华商三优新能源科技有限公司', 'job_name': '嵌入式驱动开发工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '定期体检', '免费班车', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123070392.html?rc=03'}

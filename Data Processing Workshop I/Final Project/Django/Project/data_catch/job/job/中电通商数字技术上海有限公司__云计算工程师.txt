@@ -1,0 +1,1 @@
+{'company_name': '中电通商数字技术上海有限公司', 'job_name': '云计算工程师', 'geography': '成都-温江区', 'bonus': ['五险一金', '绩效奖金', '定期体检', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126937511.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东智源信达工程有限公司', 'job_name': '系统集成与信息化工程师', 'geography': '广州', 'bonus': ['周末双休', '带薪年假', '节日福利', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126706087.html?rc=03'}

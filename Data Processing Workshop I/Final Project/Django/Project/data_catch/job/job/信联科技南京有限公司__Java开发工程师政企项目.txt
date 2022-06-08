@@ -1,0 +1,1 @@
+{'company_name': '信联科技南京有限公司', 'job_name': 'Java开发工程师政企项目', 'geography': '南京-江宁区', 'bonus': ['五险一金', '定期体检', '节日福利', '员工旅游'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128309997.html?rc=03'}

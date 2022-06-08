@@ -1,0 +1,1 @@
+{'company_name': '广州广电运通金融电子股份有限公司', 'job_name': 'Python开发工程师', 'geography': '广州', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '员工旅游'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131058112.html?rc=03'}

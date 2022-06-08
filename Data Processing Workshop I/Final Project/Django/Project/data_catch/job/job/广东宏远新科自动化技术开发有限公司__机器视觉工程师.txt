@@ -1,0 +1,1 @@
+{'company_name': '广东宏远新科自动化技术开发有限公司', 'job_name': '机器视觉工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128884978.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海至数企业发展有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/114696757.html?rc=03'}

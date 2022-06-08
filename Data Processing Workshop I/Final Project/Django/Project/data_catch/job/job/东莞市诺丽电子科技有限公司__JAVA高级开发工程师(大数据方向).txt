@@ -1,0 +1,1 @@
+{'company_name': '东莞市诺丽电子科技有限公司', 'job_name': 'JAVA高级开发工程师(大数据方向)', 'geography': '重庆', 'bonus': ['五险一金', '5天8小时', '免费培训', '公众假期'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/125696552.html?rc=03'}

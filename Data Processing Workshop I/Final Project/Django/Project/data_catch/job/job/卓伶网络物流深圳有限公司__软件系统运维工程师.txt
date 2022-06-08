@@ -1,0 +1,1 @@
+{'company_name': '卓伶网络物流深圳有限公司', 'job_name': '软件系统运维工程师', 'geography': '深圳-罗湖区', 'bonus': ['五险一金', '周末双休', '带薪年假', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129101344.html?rc=03'}

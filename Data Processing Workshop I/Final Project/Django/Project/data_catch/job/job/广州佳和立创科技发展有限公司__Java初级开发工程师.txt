@@ -1,0 +1,1 @@
+{'company_name': '广州佳和立创科技发展有限公司', 'job_name': 'Java初级开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '定期体检', '年终奖金', '周末双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131230417.html?rc=03'}

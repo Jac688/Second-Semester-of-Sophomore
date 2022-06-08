@@ -1,0 +1,1 @@
+{'company_name': '上海鹰谷信息科技有限公司', 'job_name': 'php后端开发工程师', 'geography': '上海-浦东新区', 'bonus': ['扁平管理', '内部晋升', '优秀创业团队', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129325394.html?rc=03'}

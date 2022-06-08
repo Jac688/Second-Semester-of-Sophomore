@@ -1,0 +1,1 @@
+{'company_name': '中国科学院上海技术物理研究所', 'job_name': '软件研发工程师', 'geography': '上海-虹口区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130675192.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京芬以科技有限公司', 'job_name': 'JAVA专家P7-P8、TOP在线教育', 'geography': '北京', 'bonus': ['五险一金', '专业培训', '年终奖金', '绩效奖金'], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130798729.html?rc=03'}

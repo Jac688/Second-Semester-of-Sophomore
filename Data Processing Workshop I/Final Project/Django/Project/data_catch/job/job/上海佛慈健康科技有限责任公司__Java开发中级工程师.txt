@@ -1,0 +1,1 @@
+{'company_name': '上海佛慈健康科技有限责任公司', 'job_name': 'Java开发中级工程师', 'geography': '上海-杨浦区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128757372.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波易到互联科技有限公司', 'job_name': 'Android、IOS开发工程师', 'geography': '宁波-鄞州区', 'bonus': ['做五休二', '餐饮补贴', '通讯补贴', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131910060.html?rc=03'}

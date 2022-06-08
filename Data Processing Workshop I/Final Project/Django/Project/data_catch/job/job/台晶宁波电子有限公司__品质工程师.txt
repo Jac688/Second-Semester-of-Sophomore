@@ -1,0 +1,1 @@
+{'company_name': '台晶宁波电子有限公司', 'job_name': '品质工程师', 'geography': '宁波', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/74879531.html?rc=03'}

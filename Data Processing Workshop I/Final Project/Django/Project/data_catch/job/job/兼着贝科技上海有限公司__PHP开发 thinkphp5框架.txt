@@ -1,0 +1,1 @@
+{'company_name': '兼着贝科技上海有限公司', 'job_name': 'PHP开发 thinkphp5框架', 'geography': '上海-静安区', 'bonus': ['做五休二', '周末双休', '弹性工作', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128555739.html?rc=03'}

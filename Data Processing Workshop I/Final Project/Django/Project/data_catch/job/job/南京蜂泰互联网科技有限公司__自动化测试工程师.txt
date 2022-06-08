@@ -1,0 +1,1 @@
+{'company_name': '南京蜂泰互联网科技有限公司', 'job_name': '自动化测试工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130908937.html?rc=03'}

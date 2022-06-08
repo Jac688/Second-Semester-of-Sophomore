@@ -1,0 +1,1 @@
+{'company_name': '南京协同软件有限责任公司', 'job_name': '高级软件工程师', 'geography': '南京', 'bonus': ['年终奖金', '绩效奖金', '餐饮补贴', '五险一金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/74986415.html?rc=03'}

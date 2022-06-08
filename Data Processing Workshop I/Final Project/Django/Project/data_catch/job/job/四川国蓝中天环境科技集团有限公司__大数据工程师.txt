@@ -1,0 +1,1 @@
+{'company_name': '四川国蓝中天环境科技集团有限公司', 'job_name': '大数据工程师', 'geography': '成都-龙泉驿区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128261773.html?rc=03'}

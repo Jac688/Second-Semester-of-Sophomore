@@ -1,0 +1,1 @@
+{'company_name': '上海电气国轩新能源科技有限公司', 'job_name': '系统软件开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127819208.html?rc=03'}

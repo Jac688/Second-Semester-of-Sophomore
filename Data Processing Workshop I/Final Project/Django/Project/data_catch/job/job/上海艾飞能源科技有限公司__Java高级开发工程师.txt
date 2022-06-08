@@ -1,0 +1,1 @@
+{'company_name': '上海艾飞能源科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '南京-浦口区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130312980.html?rc=03'}

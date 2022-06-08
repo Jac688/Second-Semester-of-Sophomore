@@ -1,0 +1,1 @@
+{'company_name': '中国国际人才开发中心', 'job_name': 'java技术专家', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '带薪年假', '交通补贴', '餐饮补贴'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132255268.html?rc=03'}

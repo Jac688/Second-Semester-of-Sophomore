@@ -1,0 +1,1 @@
+{'company_name': '上海韦地科技集团有限公司', 'job_name': 'JAVA', 'geography': '上海-虹口区', 'bonus': ['五险一金', '专业培训', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117071793.html?rc=03'}

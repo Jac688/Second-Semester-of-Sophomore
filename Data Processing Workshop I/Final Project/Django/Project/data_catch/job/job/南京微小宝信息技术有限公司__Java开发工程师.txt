@@ -1,0 +1,1 @@
+{'company_name': '南京微小宝信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '南京', 'bonus': ['五险一金', '员工旅游', '年终奖金', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130665664.html?rc=03'}

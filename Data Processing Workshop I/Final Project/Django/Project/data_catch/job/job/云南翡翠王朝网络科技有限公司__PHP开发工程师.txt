@@ -1,0 +1,1 @@
+{'company_name': '云南翡翠王朝网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '昆明-五华区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/kunming/123819545.html?rc=03'}

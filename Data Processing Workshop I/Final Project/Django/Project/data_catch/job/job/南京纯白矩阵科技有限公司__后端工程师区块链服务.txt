@@ -1,0 +1,1 @@
+{'company_name': '南京纯白矩阵科技有限公司', 'job_name': '后端工程师区块链服务', 'geography': '常州-钟楼区', 'bonus': ['五险一金', '周末双休', '弹性工作', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/131268680.html?rc=03'}

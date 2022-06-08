@@ -1,0 +1,1 @@
+{'company_name': '广州市灵通新技术有限公司', 'job_name': 'Linux运维工程师(深圳', 'geography': '深圳', 'bonus': ['五险一金', '可买深圳社保', '商业保险', '带薪年假10+'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/90195519.html?rc=03'}

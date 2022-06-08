@@ -1,0 +1,1 @@
+{'company_name': '四川遂宁市利普芯微电子有限公司', 'job_name': '测试工程师', 'geography': '遂宁', 'bonus': ['员工旅游', '五险一金', '餐饮补贴', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/suining/130184221.html?rc=03'}

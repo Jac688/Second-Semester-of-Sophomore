@@ -1,0 +1,1 @@
+{'company_name': '北京亚鸿世纪科技发展有限公司', 'job_name': '驻场运维工程师管局', 'geography': '广州-越秀区', 'bonus': ['五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129777653.html?rc=03'}

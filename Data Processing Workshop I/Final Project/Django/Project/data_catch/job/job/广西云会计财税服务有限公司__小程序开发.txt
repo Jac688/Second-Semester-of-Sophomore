@@ -1,0 +1,1 @@
+{'company_name': '广西云会计财税服务有限公司', 'job_name': '小程序开发', 'geography': '南宁', 'bonus': ['周末双休', '弹性工作', '专业培训', '节日福利'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/nanning/122530977.html?rc=03'}

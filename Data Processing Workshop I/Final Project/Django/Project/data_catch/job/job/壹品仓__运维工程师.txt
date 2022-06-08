@@ -1,0 +1,1 @@
+{'company_name': '壹品仓', 'job_name': '运维工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124621430.html?rc=03'}

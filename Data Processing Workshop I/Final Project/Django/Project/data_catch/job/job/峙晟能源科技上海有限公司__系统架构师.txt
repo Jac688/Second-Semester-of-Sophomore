@@ -1,0 +1,1 @@
+{'company_name': '峙晟能源科技上海有限公司', 'job_name': '系统架构师', 'geography': '上海-长宁区', 'bonus': ['弹性工作', '定期体检', '专业培训', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131956409.html?rc=03'}

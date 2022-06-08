@@ -1,0 +1,1 @@
+{'company_name': '北京数码易知科技发展有限责任公司', 'job_name': '技术支持工程师', 'geography': '北京', 'bonus': ['补充医疗保险', '专业培训', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131782558.html?rc=03'}

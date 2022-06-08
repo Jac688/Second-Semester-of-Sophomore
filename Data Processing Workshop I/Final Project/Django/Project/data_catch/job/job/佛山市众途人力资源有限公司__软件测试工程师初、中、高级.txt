@@ -1,0 +1,1 @@
+{'company_name': '佛山市众途人力资源有限公司', 'job_name': '软件测试工程师初、中、高级', 'geography': '异地招聘', 'bonus': ['绩效奖金', '弹性工作', '八小时工作制', '全勤奖'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131306043.html?rc=03'}

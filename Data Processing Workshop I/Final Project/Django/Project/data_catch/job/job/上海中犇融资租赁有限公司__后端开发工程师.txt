@@ -1,0 +1,1 @@
+{'company_name': '上海中犇融资租赁有限公司', 'job_name': '后端开发工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '周末双休', '年终奖金', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130291145.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京航天希尔测试技术有限公司', 'job_name': 'FPGA工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127468072.html?rc=03'}

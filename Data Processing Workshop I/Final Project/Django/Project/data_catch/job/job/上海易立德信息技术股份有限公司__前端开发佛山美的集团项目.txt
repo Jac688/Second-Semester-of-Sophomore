@@ -1,0 +1,1 @@
+{'company_name': '上海易立德信息技术股份有限公司', 'job_name': '前端开发佛山美的集团项目', 'geography': '广州-天河区', 'bonus': ['五险一金', '定期体检'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131801958.html?rc=03'}

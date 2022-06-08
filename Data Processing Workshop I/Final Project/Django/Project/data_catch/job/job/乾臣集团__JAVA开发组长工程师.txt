@@ -1,0 +1,1 @@
+{'company_name': '乾臣集团', 'job_name': 'JAVA开发组长工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130817954.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '山东泰和水处理科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '枣庄', 'bonus': ['五险一金', '免费班车', '定期体检', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zaozhuang/131350504.html?rc=03'}

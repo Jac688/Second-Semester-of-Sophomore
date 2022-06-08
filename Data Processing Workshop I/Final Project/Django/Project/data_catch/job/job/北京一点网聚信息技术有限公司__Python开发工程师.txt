@@ -1,0 +1,1 @@
+{'company_name': '北京一点网聚信息技术有限公司', 'job_name': 'Python开发工程师', 'geography': '北京', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129583999.html?rc=03'}

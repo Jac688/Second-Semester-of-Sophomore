@@ -1,0 +1,1 @@
+{'company_name': '博远天津人力资源管理有限公司', 'job_name': '直招联合创始人首席技术官CTO', 'geography': '北京-海淀区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125428086.html?rc=03'}

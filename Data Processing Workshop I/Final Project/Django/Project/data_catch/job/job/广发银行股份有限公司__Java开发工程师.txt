@@ -1,0 +1,1 @@
+{'company_name': '广发银行股份有限公司', 'job_name': 'Java开发工程师', 'geography': '异地招聘', 'bonus': ['六险二金', '定期体检', '年终奖金', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123798546.html?rc=03'}

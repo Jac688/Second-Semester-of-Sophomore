@@ -1,0 +1,1 @@
+{'company_name': '广州东峰通信科技有限公司', 'job_name': '软件工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '年终奖金', '定期体检', '周末双休'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126121449.html?rc=03'}

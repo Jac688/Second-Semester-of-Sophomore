@@ -1,0 +1,1 @@
+{'company_name': '云南建供易营科技有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '昆明-西山区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/kunming/130225372.html?rc=03'}

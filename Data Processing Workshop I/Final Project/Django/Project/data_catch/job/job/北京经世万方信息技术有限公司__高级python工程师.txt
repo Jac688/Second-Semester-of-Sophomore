@@ -1,0 +1,1 @@
+{'company_name': '北京经世万方信息技术有限公司', 'job_name': '高级python工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131441138.html?rc=03'}

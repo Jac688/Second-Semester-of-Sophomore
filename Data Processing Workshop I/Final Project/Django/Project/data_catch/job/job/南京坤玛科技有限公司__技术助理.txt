@@ -1,0 +1,1 @@
+{'company_name': '南京坤玛科技有限公司', 'job_name': '技术助理', 'geography': '异地招聘', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130043398.html?rc=03'}

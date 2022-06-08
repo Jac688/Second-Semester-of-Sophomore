@@ -1,0 +1,1 @@
+{'company_name': '中国软件与技术服务股份有限公司', 'job_name': 'Java初级开发工程师', 'geography': '天津-河西区', 'bonus': ['五险一金', '通讯补贴', '定期体检', '带薪年假'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/122626454.html?rc=03'}

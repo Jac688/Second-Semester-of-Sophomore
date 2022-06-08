@@ -1,0 +1,1 @@
+{'company_name': '吉本软件上海有限公司', 'job_name': '对日软件工程师(正社员)', 'geography': '异地招聘', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/112419436.html?rc=03'}

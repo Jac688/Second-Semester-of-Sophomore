@@ -1,0 +1,1 @@
+{'company_name': '北京东方中科达教育科技有限公司', 'job_name': '产品经理', 'geography': '北京-大兴区', 'bonus': ['五险一金', '年终奖金', '定期体检', '交通补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130323516.html?rc=03'}

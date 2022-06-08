@@ -1,0 +1,1 @@
+{'company_name': '上海游斐网络科技有限公司', 'job_name': '游戏C++服务器开发MF', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122596218.html?rc=03'}

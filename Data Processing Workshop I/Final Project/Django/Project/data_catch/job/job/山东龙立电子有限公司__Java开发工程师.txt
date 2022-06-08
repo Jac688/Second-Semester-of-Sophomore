@@ -1,0 +1,1 @@
+{'company_name': '山东龙立电子有限公司', 'job_name': 'Java开发工程师', 'geography': '临沂-罗庄区', 'bonus': ['五险一金', '餐饮补贴', '免费班车', '弹性工作'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/linyi/128738052.html?rc=03'}

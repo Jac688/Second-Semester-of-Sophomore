@@ -1,0 +1,1 @@
+{'company_name': '北京春水堂商业连锁有限公司', 'job_name': '海外推广', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '绩效奖金', '专业培训', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131805826.html?rc=03'}

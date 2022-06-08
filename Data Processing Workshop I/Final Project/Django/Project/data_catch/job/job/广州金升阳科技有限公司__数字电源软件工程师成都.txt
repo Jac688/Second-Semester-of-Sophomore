@@ -1,0 +1,1 @@
+{'company_name': '广州金升阳科技有限公司', 'job_name': '数字电源软件工程师成都', 'geography': '成都', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129256680.html?rc=03'}

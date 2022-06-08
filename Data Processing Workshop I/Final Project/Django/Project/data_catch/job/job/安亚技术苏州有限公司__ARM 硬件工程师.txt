@@ -1,0 +1,1 @@
+{'company_name': '安亚技术苏州有限公司', 'job_name': 'ARM 硬件工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/127388524.html?rc=03'}

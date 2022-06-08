@@ -1,0 +1,1 @@
+{'company_name': '广州市钱大妈农产品有限公司', 'job_name': '数据分析主管业务分析 (MJ002448)', 'geography': '南京-江宁区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128554640.html?rc=03'}

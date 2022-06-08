@@ -1,0 +1,1 @@
+{'company_name': '力迈德医疗广州有限公司', 'job_name': 'Linux运维工程师', 'geography': '广州', 'bonus': ['五险一金', '包午餐', '包住', '通讯补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130997143.html?rc=03'}

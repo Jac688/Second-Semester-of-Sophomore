@@ -1,0 +1,1 @@
+{'company_name': '广东知一数据有限公司', 'job_name': '物联网研发工程师', 'geography': '广州-越秀区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127699929.html?rc=03'}

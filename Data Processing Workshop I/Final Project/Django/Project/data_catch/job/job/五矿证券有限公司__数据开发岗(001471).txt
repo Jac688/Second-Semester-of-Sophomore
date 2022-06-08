@@ -1,0 +1,1 @@
+{'company_name': '五矿证券有限公司', 'job_name': '数据开发岗(001471)', 'geography': '深圳-福田区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/123509706.html?rc=03'}

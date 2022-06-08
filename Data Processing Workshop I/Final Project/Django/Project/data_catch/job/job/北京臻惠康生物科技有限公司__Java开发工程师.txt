@@ -1,0 +1,1 @@
+{'company_name': '北京臻惠康生物科技有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131125136.html?rc=03'}

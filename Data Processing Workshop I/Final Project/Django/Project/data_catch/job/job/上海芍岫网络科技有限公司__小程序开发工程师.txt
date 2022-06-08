@@ -1,0 +1,1 @@
+{'company_name': '上海芍岫网络科技有限公司', 'job_name': '小程序开发工程师', 'geography': '上海-宝山区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128514357.html?rc=03'}

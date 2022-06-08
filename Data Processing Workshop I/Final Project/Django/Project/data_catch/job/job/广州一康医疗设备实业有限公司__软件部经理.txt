@@ -1,0 +1,1 @@
+{'company_name': '广州一康医疗设备实业有限公司', 'job_name': '软件部经理', 'geography': '广州-番禺区', 'bonus': ['定期体检', '带薪年假', '周末双休', '购买五险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130465665.html?rc=03'}

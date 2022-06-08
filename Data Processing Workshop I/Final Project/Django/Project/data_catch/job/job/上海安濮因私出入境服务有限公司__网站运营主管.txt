@@ -1,0 +1,1 @@
+{'company_name': '上海安濮因私出入境服务有限公司', 'job_name': '网站运营主管', 'geography': '上海-闵行区', 'bonus': ['弹性工作', '带薪年假', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127455256.html?rc=03'}

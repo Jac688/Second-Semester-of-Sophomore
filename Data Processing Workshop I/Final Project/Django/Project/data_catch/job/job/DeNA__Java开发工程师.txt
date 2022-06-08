@@ -1,0 +1,1 @@
+{'company_name': 'DeNA', 'job_name': 'Java开发工程师', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124938106.html?rc=03'}

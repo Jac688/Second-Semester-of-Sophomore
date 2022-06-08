@@ -1,0 +1,1 @@
+{'company_name': '四川盈腾瑞德科技股份有限公司', 'job_name': '高级软件工程师', 'geography': '成都', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/95705075.html?rc=03'}

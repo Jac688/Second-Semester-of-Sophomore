@@ -1,0 +1,1 @@
+{'company_name': '伊斯拉视像设备制造上海有限公司', 'job_name': 'Software Developer 软件开发工程师', 'geography': '上海-松江区', 'bonus': ['做五休二', '周末双休', '五险一金', '免费班车'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131378236.html?rc=03'}

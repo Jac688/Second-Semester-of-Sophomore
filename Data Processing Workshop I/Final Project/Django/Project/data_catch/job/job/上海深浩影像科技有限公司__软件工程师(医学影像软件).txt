@@ -1,0 +1,1 @@
+{'company_name': '上海深浩影像科技有限公司', 'job_name': '软件工程师(医学影像软件)', 'geography': '上海-浦东新区', 'bonus': ['做五休二', '周末双休', '带薪年假', '节日福利'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123365766.html?rc=03'}

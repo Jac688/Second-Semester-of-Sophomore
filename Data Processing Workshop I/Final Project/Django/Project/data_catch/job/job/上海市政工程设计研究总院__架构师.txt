@@ -1,0 +1,1 @@
+{'company_name': '上海市政工程设计研究总院', 'job_name': '架构师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131245358.html?rc=03'}

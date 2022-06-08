@@ -1,0 +1,1 @@
+{'company_name': '北京双顺达信息技术股份有限公司', 'job_name': 'Java中高级开发工程师', 'geography': '北京', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '餐补'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/84701621.html?rc=03'}

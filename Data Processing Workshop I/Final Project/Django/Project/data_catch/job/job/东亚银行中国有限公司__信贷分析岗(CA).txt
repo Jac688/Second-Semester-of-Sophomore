@@ -1,0 +1,1 @@
+{'company_name': '东亚银行中国有限公司', 'job_name': '信贷分析岗(CA)', 'geography': '深圳', 'bonus': [], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/123361537.html?rc=03'}

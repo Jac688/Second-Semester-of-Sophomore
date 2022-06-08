@@ -1,0 +1,1 @@
+{'company_name': '中通天鸿北京通信科技股份有限公司', 'job_name': '客户支持工程师高级', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '弹性工作', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132299598.html?rc=03'}

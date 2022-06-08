@@ -1,0 +1,1 @@
+{'company_name': '广州明煌企业管理有限公司东莞分公司', 'job_name': '测试工程师10K+双休五险一金', 'geography': '上海-浦东新区', 'bonus': ['绩效奖金', '节日福利', '五险一金', '周末双休'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132184615.html?rc=03'}

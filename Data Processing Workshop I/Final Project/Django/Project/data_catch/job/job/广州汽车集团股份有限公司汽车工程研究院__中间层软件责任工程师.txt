@@ -1,0 +1,1 @@
+{'company_name': '广州汽车集团股份有限公司汽车工程研究院', 'job_name': '中间层软件责任工程师', 'geography': '广州-番禺区', 'bonus': ['交通补贴', '餐饮补贴', '五险一金', '周末双休'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130885135.html?rc=03'}

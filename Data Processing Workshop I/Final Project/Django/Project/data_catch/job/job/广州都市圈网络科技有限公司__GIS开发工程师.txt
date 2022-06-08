@@ -1,0 +1,1 @@
+{'company_name': '广州都市圈网络科技有限公司', 'job_name': 'GIS开发工程师', 'geography': '临沂-兰山区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/linyi/130168276.html?rc=03'}

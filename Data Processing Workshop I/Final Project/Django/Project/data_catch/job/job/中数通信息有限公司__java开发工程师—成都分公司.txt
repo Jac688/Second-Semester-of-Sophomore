@@ -1,0 +1,1 @@
+{'company_name': '中数通信息有限公司', 'job_name': 'java开发工程师—成都分公司', 'geography': '成都-武侯区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125142339.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京申云科技有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-海淀区', 'bonus': ['交通补贴', '餐饮补贴', '通讯补贴', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130486635.html?rc=03'}

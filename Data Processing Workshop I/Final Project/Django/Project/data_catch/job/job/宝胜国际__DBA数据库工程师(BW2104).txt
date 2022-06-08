@@ -1,0 +1,1 @@
+{'company_name': '宝胜国际', 'job_name': 'DBA数据库工程师(BW2104)', 'geography': '上海-闵行区', 'bonus': ['带薪年假', '节日福利', '做五休二', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131034340.html?rc=03'}

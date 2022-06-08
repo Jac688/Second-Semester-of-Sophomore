@@ -1,0 +1,1 @@
+{'company_name': '中国电信研究院', 'job_name': '网络技术测试工程师网络技术研究所', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129443744.html?rc=03'}

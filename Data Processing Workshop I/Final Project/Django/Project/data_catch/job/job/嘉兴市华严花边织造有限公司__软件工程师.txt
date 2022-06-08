@@ -1,0 +1,1 @@
+{'company_name': '嘉兴市华严花边织造有限公司', 'job_name': '软件工程师', 'geography': '嘉兴', 'bonus': ['餐饮补贴', '定期体检', '专业培训', '提供住宿'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/130306839.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京风云投资管理有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '员工旅游', '专业培训', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/121248360.html?rc=03'}

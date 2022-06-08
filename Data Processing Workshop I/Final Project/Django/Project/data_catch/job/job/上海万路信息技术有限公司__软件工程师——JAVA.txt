@@ -1,0 +1,1 @@
+{'company_name': '上海万路信息技术有限公司', 'job_name': '软件工程师——JAVA', 'geography': '重庆-江北区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '专业培训'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/127038854.html?rc=03'}

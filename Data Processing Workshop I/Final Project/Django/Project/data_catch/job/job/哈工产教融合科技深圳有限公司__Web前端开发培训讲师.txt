@@ -1,0 +1,1 @@
+{'company_name': '哈工产教融合科技深圳有限公司', 'job_name': 'Web前端开发培训讲师', 'geography': '深圳', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130105453.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州市东昊汽车配件有限公司', 'job_name': '嵌入式Linux应用开发2广州北京', 'geography': '异地招聘', 'bonus': ['绩效奖金', '年终奖金', '餐补', '提供住宿'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130001060.html?rc=03'}

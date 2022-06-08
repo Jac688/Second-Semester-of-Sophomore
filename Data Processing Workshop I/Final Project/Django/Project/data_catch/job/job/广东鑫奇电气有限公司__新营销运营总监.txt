@@ -1,0 +1,1 @@
+{'company_name': '广东鑫奇电气有限公司', 'job_name': '新营销运营总监', 'geography': '佛山-顺德区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/123714966.html?rc=03'}

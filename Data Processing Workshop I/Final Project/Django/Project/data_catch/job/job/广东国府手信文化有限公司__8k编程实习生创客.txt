@@ -1,0 +1,1 @@
+{'company_name': '广东国府手信文化有限公司', 'job_name': '8k编程实习生创客', 'geography': '广州-番禺区', 'bonus': ['五险一金', '专业培训', '年终奖金', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125895139.html?rc=03'}

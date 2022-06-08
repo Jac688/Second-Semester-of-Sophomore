@@ -1,0 +1,1 @@
+{'company_name': '广东万和新电气股份有限公司', 'job_name': '后端工程师净水', 'geography': '佛山', 'bonus': ['带薪年假', '节日福利', '专业培训', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131715269.html?rc=03'}

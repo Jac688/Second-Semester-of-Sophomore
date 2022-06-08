@@ -1,0 +1,1 @@
+{'company_name': '学畅国际教育', 'job_name': '网站技术', 'geography': '上海-普陀区', 'bonus': ['做五休二', '五险一金', '绩效奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126656615.html?rc=03'}

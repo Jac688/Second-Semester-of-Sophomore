@@ -1,0 +1,1 @@
+{'company_name': '安信联合物流有限公司', 'job_name': '风控专员', 'geography': '北京', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130604201.html?rc=03'}

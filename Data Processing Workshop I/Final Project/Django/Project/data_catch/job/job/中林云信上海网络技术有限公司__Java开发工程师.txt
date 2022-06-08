@@ -1,0 +1,1 @@
+{'company_name': '中林云信上海网络技术有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-虹口区', 'bonus': ['周末双休', '弹性工作', '五险一金', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128110616.html?rc=03'}

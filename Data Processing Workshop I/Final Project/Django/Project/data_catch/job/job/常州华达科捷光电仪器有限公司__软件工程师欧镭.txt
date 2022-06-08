@@ -1,0 +1,1 @@
+{'company_name': '常州华达科捷光电仪器有限公司', 'job_name': '软件工程师欧镭', 'geography': '常州-钟楼区', 'bonus': ['五险一金', '年终奖金', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/130588945.html?rc=03'}

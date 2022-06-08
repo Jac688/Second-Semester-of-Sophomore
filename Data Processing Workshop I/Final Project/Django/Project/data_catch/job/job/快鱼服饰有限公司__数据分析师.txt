@@ -1,0 +1,1 @@
+{'company_name': '快鱼服饰有限公司', 'job_name': '数据分析师', 'geography': '杭州-江干区', 'bonus': ['定期体检', '员工旅游', '餐饮补贴', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/124044662.html?rc=03'}

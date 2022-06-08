@@ -1,0 +1,1 @@
+{'company_name': '上海吉联新软件股份有限公司', 'job_name': '软件测试工程师', 'geography': '厦门', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/129438725.html?rc=03'}

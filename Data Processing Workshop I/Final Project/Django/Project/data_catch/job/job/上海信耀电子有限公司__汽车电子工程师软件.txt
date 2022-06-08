@@ -1,0 +1,1 @@
+{'company_name': '上海信耀电子有限公司', 'job_name': '汽车电子工程师软件', 'geography': '上海', 'bonus': ['五险一金', '绩效奖金', '定期体检', '年终奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/64933542.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京水晶石文博展示有限公司广州分公司', 'job_name': '互动程序员', 'geography': '广州', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/75200814.html?rc=03'}

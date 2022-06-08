@@ -1,0 +1,1 @@
+{'company_name': '北京和润恺安科技发展股份有限公司', 'job_name': '单片机软件工程师', 'geography': '深圳-南山区', 'bonus': ['周末双休', '带薪年假', '五险一金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130289990.html?rc=03'}

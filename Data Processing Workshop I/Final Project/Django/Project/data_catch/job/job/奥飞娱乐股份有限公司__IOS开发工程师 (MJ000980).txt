@@ -1,0 +1,1 @@
+{'company_name': '奥飞娱乐股份有限公司', 'job_name': 'IOS开发工程师 (MJ000980)', 'geography': '北京-朝阳区', 'bonus': ['餐饮补贴', '弹性工作', '六险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132277131.html?rc=03'}

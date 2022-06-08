@@ -1,0 +1,1 @@
+{'company_name': '南京普恩瑞生物科技有限公司', 'job_name': '生物信息工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/126520490.html?rc=03'}

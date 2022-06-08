@@ -1,0 +1,1 @@
+{'company_name': '宁波博洋家纺集团有限公司', 'job_name': '软件开发工程师', 'geography': '宁波-江北区', 'bonus': ['五险一金', '员工旅游', '出国机会', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/121161253.html?rc=03'}

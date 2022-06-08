@@ -1,0 +1,1 @@
+{'company_name': '千锋教育', 'job_name': '前端讲师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '绩效奖金', '员工旅游', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130622932.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中山欧科电子有限公司', 'job_name': 'APP(Accelerated Parallel Processing)技术工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '带薪年假'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127950729.html?rc=03'}

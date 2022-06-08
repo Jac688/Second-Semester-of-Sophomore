@@ -1,0 +1,1 @@
+{'company_name': '作业帮教育科技北京有限公司', 'job_name': '2021春招-大数据研发工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129462164.html?rc=03'}

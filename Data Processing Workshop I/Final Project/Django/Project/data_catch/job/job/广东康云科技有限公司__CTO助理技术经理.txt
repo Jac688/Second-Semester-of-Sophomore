@@ -1,0 +1,1 @@
+{'company_name': '广东康云科技有限公司', 'job_name': 'CTO助理技术经理', 'geography': '广州-黄埔区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130911275.html?rc=03'}

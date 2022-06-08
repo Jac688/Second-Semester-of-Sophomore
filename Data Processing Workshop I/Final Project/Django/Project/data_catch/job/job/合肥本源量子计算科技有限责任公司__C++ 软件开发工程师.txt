@@ -1,0 +1,1 @@
+{'company_name': '合肥本源量子计算科技有限责任公司', 'job_name': 'C++ 软件开发工程师', 'geography': '合肥-高新区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hefei/131987735.html?rc=03'}

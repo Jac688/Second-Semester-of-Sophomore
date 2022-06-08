@@ -1,0 +1,1 @@
+{'company_name': '东莞市联德尚信息科技有限公司', 'job_name': '软件开发实习生', 'geography': '东莞-石龙镇', 'bonus': ['专业培训', '绩效奖金', '年终奖金', '交通补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131335873.html?rc=03'}

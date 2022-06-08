@@ -1,0 +1,1 @@
+{'company_name': '北京美的海外工程技术有限公司', 'job_name': '美的—阿里国际站运营', 'geography': '北京', 'bonus': ['带薪年假', '五险一金', '节日福利', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121948713.html?rc=03'}

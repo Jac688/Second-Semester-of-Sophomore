@@ -1,0 +1,1 @@
+{'company_name': '上海澎睿智能科技有限公司', 'job_name': 'Java开发工程师智能终端方向', 'geography': '苏州-姑苏区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/126851920.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东泓胜科技股份有限公司', 'job_name': '单片机开发工程师', 'geography': '佛山', 'bonus': ['五险一金', '餐补', '周末双休', '房补'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/123560204.html?rc=03'}

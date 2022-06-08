@@ -1,0 +1,1 @@
+{'company_name': '上海荣选人力资源咨询有限公司', 'job_name': '某美资电子企业-数据分析', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '专业培训', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/131463926.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州市蜂擎信息科技有限公司', 'job_name': '大数据开发工程师', 'geography': '广州', 'bonus': ['带薪年假', '绩效奖金', '全勤奖', '住房补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129011725.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东巍智科技有限公司', 'job_name': 'Java开发工程师', 'geography': '惠州-仲恺区', 'bonus': ['五险一金', '周末双休', '人性化管理', '花园式办公'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/126526136.html?rc=03'}

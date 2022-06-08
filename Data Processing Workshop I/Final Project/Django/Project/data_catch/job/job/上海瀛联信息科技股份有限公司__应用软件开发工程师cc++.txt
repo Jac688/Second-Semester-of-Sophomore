@@ -1,0 +1,1 @@
+{'company_name': '上海瀛联信息科技股份有限公司', 'job_name': '应用软件开发工程师cc++', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131210933.html?rc=03'}

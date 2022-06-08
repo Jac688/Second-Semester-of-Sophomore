@@ -1,0 +1,1 @@
+{'company_name': '中电长城网际系统应用有限公司', 'job_name': '配置管理工程师质量控制工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '免费班车', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131517739.html?rc=03'}

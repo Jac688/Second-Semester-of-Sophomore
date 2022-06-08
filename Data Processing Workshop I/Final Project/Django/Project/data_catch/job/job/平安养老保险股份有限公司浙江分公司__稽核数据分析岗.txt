@@ -1,0 +1,1 @@
+{'company_name': '平安养老保险股份有限公司浙江分公司', 'job_name': '稽核数据分析岗', 'geography': '杭州', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/105044984.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州知纵科技有限公司中山分公司', 'job_name': 'Java高级开发工程师', 'geography': '中山-东区', 'bonus': ['年终奖金', '弹性工作', '社保', '带薪年假'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/130533688.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州汽车集团股份有限公司汽车工程研究院', 'job_name': '信息安全主管工程师', 'geography': '广州-番禺区', 'bonus': ['交通补贴', '餐饮补贴', '五险一金', '周末双休'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131883529.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京万户互联科技有限公司', 'job_name': '驻场运维工程师', 'geography': '天津-滨海新区', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131462865.html?rc=03'}

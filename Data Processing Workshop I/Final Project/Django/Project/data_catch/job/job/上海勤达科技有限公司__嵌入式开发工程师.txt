@@ -1,0 +1,1 @@
+{'company_name': '上海勤达科技有限公司', 'job_name': '嵌入式开发工程师', 'geography': '上海-嘉定区', 'bonus': ['交通补贴', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131235484.html?rc=03'}

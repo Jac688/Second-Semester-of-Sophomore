@@ -1,0 +1,1 @@
+{'company_name': '南京创优科技有限责任公司', 'job_name': '电气工程师-2021应届生', 'geography': '南京', 'bonus': ['五险一金', '员工旅游', '交通补贴', '通讯补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/126973274.html?rc=03'}

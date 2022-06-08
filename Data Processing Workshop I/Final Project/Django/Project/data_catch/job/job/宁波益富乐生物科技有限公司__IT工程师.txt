@@ -1,0 +1,1 @@
+{'company_name': '宁波益富乐生物科技有限公司', 'job_name': 'IT工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '包住宿', '包吃', '带薪年假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/119439550.html?rc=03'}

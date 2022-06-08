@@ -1,0 +1,1 @@
+{'company_name': '广东知一数据有限公司', 'job_name': 'Java开发工程师', 'geography': '东莞-东城区', 'bonus': ['五险一金', '员工旅游', '项目奖金', '团建活动'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/132277823.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中芯国际集成电路制造深圳有限公司', 'job_name': 'MES工程师', 'geography': '深圳-坪山区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '餐饮补贴'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/121703256.html?rc=03'}

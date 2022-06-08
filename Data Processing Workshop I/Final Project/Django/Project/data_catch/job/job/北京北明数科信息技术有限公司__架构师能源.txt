@@ -1,0 +1,1 @@
+{'company_name': '北京北明数科信息技术有限公司', 'job_name': '架构师能源', 'geography': '北京-石景山区', 'bonus': ['免费班车', '五险一金', '餐饮补贴', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129578891.html?rc=03'}

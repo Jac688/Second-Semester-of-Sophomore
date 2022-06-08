@@ -1,0 +1,1 @@
+{'company_name': '广州开发区才汇创业服务有限公司', 'job_name': '人才指数管理岗', 'geography': '广州-黄埔区', 'bonus': ['周末双休', '五险一金', '补充医疗保险', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127402661.html?rc=03'}

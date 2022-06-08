@@ -1,0 +1,1 @@
+{'company_name': '北京普析通用仪器有限责任公司', 'job_name': '软件工程师', 'geography': '北京-平谷区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129505860.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国太平洋保险集团股份有限公司', 'job_name': 'Java开发工程师共享平台&数据智能部门', 'geography': '上海-徐汇区', 'bonus': ['补充公积金', '补充医疗保险', '五险一金', '餐饮补贴'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128944292.html?rc=03'}

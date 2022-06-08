@@ -1,0 +1,1 @@
+{'company_name': '四川省科学城新方舟安防科技有限责任公司', 'job_name': '运维工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '年终奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132320819.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '太极计算机股份有限公司', 'job_name': '大数据开发工程师ga-yj-4年+', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '交通补贴'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124829893.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京思诺博信息技术有限公司', 'job_name': 'DBA数据库管理员', 'geography': '北京-昌平区', 'bonus': ['五险一金', '定期体检', '年终奖金', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129245053.html?rc=03'}

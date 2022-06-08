@@ -1,0 +1,1 @@
+{'company_name': '广州泽沐信息科技有限责任公司', 'job_name': 'PHP开发工程师非外包+带薪年假+团队氛围好', 'geography': '广州-天河区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131246365.html?rc=03'}

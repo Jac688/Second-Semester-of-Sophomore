@@ -1,0 +1,1 @@
+{'company_name': '东莞铭普光磁股份有限公司', 'job_name': '高级软件开发工程师', 'geography': '深圳-宝安区', 'bonus': ['周末双休', '五险一金', '餐饮补贴', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131620851.html?rc=03'}

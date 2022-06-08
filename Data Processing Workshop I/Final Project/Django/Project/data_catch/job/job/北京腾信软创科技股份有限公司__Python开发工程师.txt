@@ -1,0 +1,1 @@
+{'company_name': '北京腾信软创科技股份有限公司', 'job_name': 'Python开发工程师', 'geography': '北京-昌平区', 'bonus': ['定期体检', '五险一金', '员工旅游', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132172916.html?rc=03'}

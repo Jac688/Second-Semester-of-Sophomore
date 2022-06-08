@@ -1,0 +1,1 @@
+{'company_name': '南京信业能源科技有限公司', 'job_name': '运维工程师', 'geography': '南京-浦口区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131939449.html?rc=03'}

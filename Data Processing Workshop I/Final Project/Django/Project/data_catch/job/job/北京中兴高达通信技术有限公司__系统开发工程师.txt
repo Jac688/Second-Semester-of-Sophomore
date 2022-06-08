@@ -1,0 +1,1 @@
+{'company_name': '北京中兴高达通信技术有限公司', 'job_name': '系统开发工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132276758.html?rc=03'}

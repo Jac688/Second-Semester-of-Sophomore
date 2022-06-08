@@ -1,0 +1,1 @@
+{'company_name': '上海陟明信息技术有限责任公司', 'job_name': '高薪急聘Java工程师零售类)', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125757702.html?rc=03'}

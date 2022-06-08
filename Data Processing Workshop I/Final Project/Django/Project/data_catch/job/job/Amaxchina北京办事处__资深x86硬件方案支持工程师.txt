@@ -1,0 +1,1 @@
+{'company_name': 'Amaxchina北京办事处', 'job_name': '资深x86硬件方案支持工程师', 'geography': '苏州-工业园区', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/125240227.html?rc=03'}

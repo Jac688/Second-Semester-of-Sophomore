@@ -1,0 +1,1 @@
+{'company_name': '宁波虫家网络科技有限公司', 'job_name': 'Java中高级开发工程师', 'geography': '宁波-镇海区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125955819.html?rc=03'}

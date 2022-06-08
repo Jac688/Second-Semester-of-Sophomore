@@ -1,0 +1,1 @@
+{'company_name': '山东恩易物联技术有限公司', 'job_name': 'Java开发工程师', 'geography': '济南-高新区', 'bonus': ['全勤奖', '绩效奖金', '节日福利'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/129757329.html?rc=03'}

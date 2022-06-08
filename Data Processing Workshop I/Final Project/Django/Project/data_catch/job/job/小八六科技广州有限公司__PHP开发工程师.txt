@@ -1,0 +1,1 @@
+{'company_name': '小八六科技广州有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-天河区', 'bonus': ['五险', '周末双休', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127598737.html?rc=03'}

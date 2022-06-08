@@ -1,0 +1,1 @@
+{'company_name': '北京海格神舟通信科技有限公司', 'job_name': '应用软件设计师Qt', 'geography': '成都-武侯区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128859770.html?rc=03'}

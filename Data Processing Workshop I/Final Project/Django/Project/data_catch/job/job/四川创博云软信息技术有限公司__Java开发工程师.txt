@@ -1,0 +1,1 @@
+{'company_name': '四川创博云软信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-锦江区', 'bonus': ['员工旅游', '周末双休', '节日福利', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125463827.html?rc=03'}

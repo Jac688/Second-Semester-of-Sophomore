@@ -1,0 +1,1 @@
+{'company_name': '广西揽胜企业管理服务集团有限公司', 'job_name': 'Java中高级开发', 'geography': '南宁-西乡塘区', 'bonus': ['五险一金', '专业培训', '年终奖金', '周末双休'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/nanning/124338362.html?rc=03'}

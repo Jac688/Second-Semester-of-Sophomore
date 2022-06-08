@@ -1,0 +1,1 @@
+{'company_name': '上海医栗医疗科技有限公司', 'job_name': '大数据开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '地铁周边', '办公氛围好', '同事nice'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131890383.html?rc=03'}

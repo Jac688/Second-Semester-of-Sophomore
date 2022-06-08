@@ -1,0 +1,1 @@
+{'company_name': '中航美丽城乡环卫集团有限公司', 'job_name': 'PHP开发工程师', 'geography': '中山', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/130841437.html?rc=03'}

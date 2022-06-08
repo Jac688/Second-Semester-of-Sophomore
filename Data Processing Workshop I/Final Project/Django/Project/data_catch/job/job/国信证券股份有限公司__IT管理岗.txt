@@ -1,0 +1,1 @@
+{'company_name': '国信证券股份有限公司', 'job_name': 'IT管理岗', 'geography': '北京', 'bonus': ['五险一金', '餐饮补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131296092.html?rc=03'}

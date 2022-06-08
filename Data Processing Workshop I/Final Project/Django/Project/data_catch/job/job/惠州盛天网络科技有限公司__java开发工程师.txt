@@ -1,0 +1,1 @@
+{'company_name': '惠州盛天网络科技有限公司', 'job_name': 'java开发工程师', 'geography': '烟台-高新区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/yantai/128951045.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海灵刃网络科技有限公司', 'job_name': '后台开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '餐饮补贴', '员工旅游'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/115228308.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'MIDI.优品汇公司', 'job_name': '数据分析师地铁口+社保', 'geography': '广州-白云区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132078747.html?rc=03'}

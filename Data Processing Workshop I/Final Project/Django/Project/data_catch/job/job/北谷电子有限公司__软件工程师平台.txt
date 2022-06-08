@@ -1,0 +1,1 @@
+{'company_name': '北谷电子有限公司', 'job_name': '软件工程师平台', 'geography': '济南', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/jinan/126386208.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '卓望信息技术北京有限公司', 'job_name': 'Java高级开发工程师', 'geography': '北京-丰台区', 'bonus': ['中国移动控股', '公司规模大', '综合补贴', '七险二金'], 'salary': 2.92, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128611242.html?rc=03'}

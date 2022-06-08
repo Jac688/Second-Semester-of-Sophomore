@@ -1,0 +1,1 @@
+{'company_name': '南昌高亚科技有限公司', 'job_name': 'Java软件工程师', 'geography': '南昌-青山湖区', 'bonus': ['绩效奖金', '专业培训', '员工旅游'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/70222893.html?rc=03'}

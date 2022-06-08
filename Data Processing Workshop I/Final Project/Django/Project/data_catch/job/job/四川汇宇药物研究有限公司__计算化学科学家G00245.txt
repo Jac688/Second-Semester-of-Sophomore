@@ -1,0 +1,1 @@
+{'company_name': '四川汇宇药物研究有限公司', 'job_name': '计算化学科学家G00245', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130789300.html?rc=03'}

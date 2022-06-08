@@ -1,0 +1,1 @@
+{'company_name': '北京新明星电子技术开发有限公司', 'job_name': '运维服务经理', 'geography': '北京-丰台区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128942264.html?rc=03'}

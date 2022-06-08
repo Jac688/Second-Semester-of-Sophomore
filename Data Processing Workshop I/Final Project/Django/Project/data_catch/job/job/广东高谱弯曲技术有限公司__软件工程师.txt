@@ -1,0 +1,1 @@
+{'company_name': '广东高谱弯曲技术有限公司', 'job_name': '软件工程师', 'geography': '佛山-南海区', 'bonus': ['专业培训', '年终奖金', '五险', '包吃午餐晚餐'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/foshan/121165735.html?rc=03'}

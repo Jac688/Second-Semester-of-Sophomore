@@ -1,0 +1,1 @@
+{'company_name': '基点生物科技成都有限公司', 'job_name': '中高级硬件测试工程师', 'geography': '成都-郫都区', 'bonus': ['五险一金', '年终奖金', '定期体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128281210.html?rc=03'}

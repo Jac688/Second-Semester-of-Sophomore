@@ -1,0 +1,1 @@
+{'company_name': '四川新能源汽车创新中心有限公司', 'job_name': '电池大数据分析工程师-宜宾-00147', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129534739.html?rc=03'}

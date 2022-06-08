@@ -1,0 +1,1 @@
+{'company_name': '厦门弘有信信息技术服务有限公司', 'job_name': '项目管理工程师', 'geography': '厦门', 'bonus': ['五险一金', '免费班车', '带薪年假', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/127754911.html?rc=03'}

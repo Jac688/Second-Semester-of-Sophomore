@@ -1,0 +1,1 @@
+{'company_name': '上海启明软件股份有限公司', 'job_name': 'JAVA开发工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131764050.html?rc=03'}

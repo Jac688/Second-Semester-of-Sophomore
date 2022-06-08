@@ -1,0 +1,1 @@
+{'company_name': '广东全影汇信息科技有限公司', 'job_name': '程序交互师', 'geography': '佛山-南海区', 'bonus': ['包住宿', '全勤奖', '专业培训', '购买社保'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131332821.html?rc=03'}

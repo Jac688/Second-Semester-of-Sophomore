@@ -1,0 +1,1 @@
+{'company_name': '广州卓腾科技有限公司', 'job_name': '算法工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '定期体检', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129124451.html?rc=03'}

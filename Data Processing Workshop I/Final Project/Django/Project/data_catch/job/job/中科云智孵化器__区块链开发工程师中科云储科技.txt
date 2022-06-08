@@ -1,0 +1,1 @@
+{'company_name': '中科云智孵化器', 'job_name': '区块链开发工程师中科云储科技', 'geography': '东莞-松山湖区', 'bonus': ['社会保险', '年终奖金', '餐饮补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130247976.html?rc=03'}

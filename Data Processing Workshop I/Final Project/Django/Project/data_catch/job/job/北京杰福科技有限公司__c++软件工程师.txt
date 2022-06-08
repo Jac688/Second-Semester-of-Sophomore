@@ -1,0 +1,1 @@
+{'company_name': '北京杰福科技有限公司', 'job_name': 'c++软件工程师', 'geography': '北京-昌平区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123366941.html?rc=03'}

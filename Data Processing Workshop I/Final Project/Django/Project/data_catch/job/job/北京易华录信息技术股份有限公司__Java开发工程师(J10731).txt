@@ -1,0 +1,1 @@
+{'company_name': '北京易华录信息技术股份有限公司', 'job_name': 'Java开发工程师(J10731)', 'geography': '天津-津南区', 'bonus': ['包吃', '包住', '社保'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130643411.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '东莞捷用电子科技有限公司', 'job_name': 'QT软件开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131669985.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '博通集成电路上海股份有限公司', 'job_name': '工具开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '股票期权'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120578038.html?rc=03'}

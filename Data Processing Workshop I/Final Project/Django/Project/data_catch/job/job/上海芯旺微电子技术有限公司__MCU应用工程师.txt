@@ -1,0 +1,1 @@
+{'company_name': '上海芯旺微电子技术有限公司', 'job_name': 'MCU应用工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '定期体检', '员工旅游', '股票期权'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131296364.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海迈川市场策划有限公司', 'job_name': 'Java开发工程师', 'geography': '上海', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '出国机会'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127759570.html?rc=03'}

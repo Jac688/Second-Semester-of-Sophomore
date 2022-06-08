@@ -1,0 +1,1 @@
+{'company_name': '上海通联金融服务有限公司', 'job_name': 'Java开发工程师南昌', 'geography': '南昌', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/127438635.html?rc=03'}

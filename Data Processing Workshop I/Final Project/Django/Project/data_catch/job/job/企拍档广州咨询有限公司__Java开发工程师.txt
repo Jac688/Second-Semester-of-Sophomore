@@ -1,0 +1,1 @@
+{'company_name': '企拍档广州咨询有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-白云区', 'bonus': ['五险一金', '补充医疗保险', '弹性工作'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129721910.html?rc=03'}

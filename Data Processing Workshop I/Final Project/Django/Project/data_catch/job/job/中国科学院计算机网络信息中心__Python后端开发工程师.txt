@@ -1,0 +1,1 @@
+{'company_name': '中国科学院计算机网络信息中心', 'job_name': 'Python后端开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '定期体检', '年终奖金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130426719.html?rc=03'}

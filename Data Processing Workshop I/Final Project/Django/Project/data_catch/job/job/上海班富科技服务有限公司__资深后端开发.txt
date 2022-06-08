@@ -1,0 +1,1 @@
+{'company_name': '上海班富科技服务有限公司', 'job_name': '资深后端开发', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '定期体检', '年终奖金', '带薪休假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128906353.html?rc=03'}

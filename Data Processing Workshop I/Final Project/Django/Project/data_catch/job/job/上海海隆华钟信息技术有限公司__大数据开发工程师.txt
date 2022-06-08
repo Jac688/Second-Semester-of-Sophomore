@@ -1,0 +1,1 @@
+{'company_name': '上海海隆华钟信息技术有限公司', 'job_name': '大数据开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '弹性工作'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131760494.html?rc=03'}

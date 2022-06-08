@@ -1,0 +1,1 @@
+{'company_name': '上海乐白机器人有限公司', 'job_name': '机器人 控制系统  软件工程师  C++', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/111193575.html?rc=03'}

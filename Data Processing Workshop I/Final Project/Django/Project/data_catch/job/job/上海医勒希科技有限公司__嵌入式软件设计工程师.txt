@@ -1,0 +1,1 @@
+{'company_name': '上海医勒希科技有限公司', 'job_name': '嵌入式软件设计工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/96572846.html?rc=03'}

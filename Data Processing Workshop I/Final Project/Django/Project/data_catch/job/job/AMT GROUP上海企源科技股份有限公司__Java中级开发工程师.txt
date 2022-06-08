@@ -1,0 +1,1 @@
+{'company_name': 'AMT GROUP上海企源科技股份有限公司', 'job_name': 'Java中级开发工程师', 'geography': '上海-浦东新区', 'bonus': ['周末双休', '弹性工作', '五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126385585.html?rc=03'}

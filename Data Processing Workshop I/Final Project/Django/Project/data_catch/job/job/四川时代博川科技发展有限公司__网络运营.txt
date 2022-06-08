@@ -1,0 +1,1 @@
+{'company_name': '四川时代博川科技发展有限公司', 'job_name': '网络运营', 'geography': '成都-高新区', 'bonus': ['五险一金', '年终奖金', '周末双休', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/122198984.html?rc=03'}

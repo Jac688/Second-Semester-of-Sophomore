@@ -1,0 +1,1 @@
+{'company_name': '广东第七城网络技术有限公司', 'job_name': 'PHP', 'geography': '东莞-莞城区', 'bonus': ['节日福利', '绩效奖金', '晋升体系', '专业平台'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131942978.html?rc=03'}

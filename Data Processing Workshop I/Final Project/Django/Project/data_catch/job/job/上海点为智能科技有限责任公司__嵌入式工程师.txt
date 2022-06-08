@@ -1,0 +1,1 @@
+{'company_name': '上海点为智能科技有限责任公司', 'job_name': '嵌入式工程师', 'geography': '苏州-吴中区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '股票期权'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131268012.html?rc=03'}

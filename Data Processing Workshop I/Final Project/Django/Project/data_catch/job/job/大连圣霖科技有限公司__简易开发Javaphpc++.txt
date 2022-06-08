@@ -1,0 +1,1 @@
+{'company_name': '大连圣霖科技有限公司', 'job_name': '简易开发Javaphpc++', 'geography': '大连-甘井子区', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/dalian/122491446.html?rc=03'}

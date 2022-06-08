@@ -1,0 +1,1 @@
+{'company_name': '北京君正集成电路股份有限公司', 'job_name': 'IC设计与验证工程师', 'geography': '北京', 'bonus': ['五险一金', '员工旅游', '年终奖金', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128686145.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海甬兴科技有限公司', 'job_name': '嵌入式软件开发工程师', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '工作餐', '年休假', '高温假'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126574242.html?rc=03'}

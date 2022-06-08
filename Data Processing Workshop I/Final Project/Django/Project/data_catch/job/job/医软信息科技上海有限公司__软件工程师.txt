@@ -1,0 +1,1 @@
+{'company_name': '医软信息科技上海有限公司', 'job_name': '软件工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132052645.html?rc=03'}

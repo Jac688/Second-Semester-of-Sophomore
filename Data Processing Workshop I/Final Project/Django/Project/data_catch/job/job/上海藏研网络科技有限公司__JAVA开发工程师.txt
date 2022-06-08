@@ -1,0 +1,1 @@
+{'company_name': '上海藏研网络科技有限公司', 'job_name': 'JAVA开发工程师', 'geography': '上海-普陀区', 'bonus': ['无限时间', '不限地点'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129613773.html?rc=03'}

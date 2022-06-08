@@ -1,0 +1,1 @@
+{'company_name': '上汽通用汽车有限公司武汉分公司', 'job_name': '储备大学生软件类', 'geography': '异地招聘', 'bonus': ['专业培训', '免费班车', '包三餐', '做五休二'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/123280461.html?rc=03'}

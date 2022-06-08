@@ -1,0 +1,1 @@
+{'company_name': '丰豪物流深圳有限公司', 'job_name': '系统工程师', 'geography': '柳州', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/liuzhou/128669575.html?rc=03'}

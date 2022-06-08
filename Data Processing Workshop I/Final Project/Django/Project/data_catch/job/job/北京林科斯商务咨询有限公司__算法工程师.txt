@@ -1,0 +1,1 @@
+{'company_name': '北京林科斯商务咨询有限公司', 'job_name': '算法工程师', 'geography': '北京-东城区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128929069.html?rc=03'}

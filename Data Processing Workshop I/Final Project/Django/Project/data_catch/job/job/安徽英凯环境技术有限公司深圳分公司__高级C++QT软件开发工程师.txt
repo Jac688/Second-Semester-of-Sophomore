@@ -1,0 +1,1 @@
+{'company_name': '安徽英凯环境技术有限公司深圳分公司', 'job_name': '高级C++QT软件开发工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '补充公积金', '定期体检', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124851872.html?rc=03'}

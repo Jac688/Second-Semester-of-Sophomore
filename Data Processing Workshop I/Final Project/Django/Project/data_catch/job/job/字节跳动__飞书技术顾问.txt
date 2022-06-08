@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '飞书技术顾问', 'geography': '成都', 'bonus': ['下午茶', '健身瑜伽', '用户过亿', '大牛带队'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130839039.html?rc=03'}

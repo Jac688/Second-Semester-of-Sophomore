@@ -1,0 +1,1 @@
+{'company_name': '宁波瑞能智慧科技有限公司', 'job_name': '急招 电子工程师小家电产品电路设计', 'geography': '宁波-江北区', 'bonus': ['五险一金', '包住宿', '全勤奖', '加班补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131767029.html?rc=03'}

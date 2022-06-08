@@ -1,0 +1,1 @@
+{'company_name': '好未来教育原学而思教育)', 'job_name': '后端开发工程师', 'geography': '济南-历下区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131390197.html?rc=03'}

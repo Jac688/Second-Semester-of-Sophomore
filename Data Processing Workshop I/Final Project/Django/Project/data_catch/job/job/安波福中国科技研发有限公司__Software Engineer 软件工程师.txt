@@ -1,0 +1,1 @@
+{'company_name': '安波福中国科技研发有限公司', 'job_name': 'Software Engineer 软件工程师', 'geography': '上海', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125508494.html?rc=03'}

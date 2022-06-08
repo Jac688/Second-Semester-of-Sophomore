@@ -1,0 +1,1 @@
+{'company_name': '南京中鹏环保科技发展有限公司', 'job_name': '软件开发工程师-中鹏环保集团', 'geography': '南京-建邺区', 'bonus': ['五险一金', '交通补贴', '年终奖金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128479417.html?rc=03'}

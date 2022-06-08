@@ -1,0 +1,1 @@
+{'company_name': '上海兆豪信息技术有限公司', 'job_name': 'Python开发工程师', 'geography': '杭州-江干区', 'bonus': ['五险一金', '新创企业', '新人带薪休假', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/115944581.html?rc=03'}

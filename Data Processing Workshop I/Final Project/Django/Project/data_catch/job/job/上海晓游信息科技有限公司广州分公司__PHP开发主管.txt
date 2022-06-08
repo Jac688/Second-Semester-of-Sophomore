@@ -1,0 +1,1 @@
+{'company_name': '上海晓游信息科技有限公司广州分公司', 'job_name': 'PHP开发主管', 'geography': '广州-天河区', 'bonus': ['五险一金', '项目奖金', '员工旅游', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124583756.html?rc=03'}

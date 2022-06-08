@@ -1,0 +1,1 @@
+{'company_name': '南京德睿能源研究院有限公司', 'job_name': '后台开发工程师', 'geography': '南京', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130972071.html?rc=03'}

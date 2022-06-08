@@ -1,0 +1,1 @@
+{'company_name': '众立智能科技深圳有限公司', 'job_name': '应用层软件工程师', 'geography': '深圳-龙华区', 'bonus': ['五险一金', '员工旅游', '带薪年假', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126356846.html?rc=03'}

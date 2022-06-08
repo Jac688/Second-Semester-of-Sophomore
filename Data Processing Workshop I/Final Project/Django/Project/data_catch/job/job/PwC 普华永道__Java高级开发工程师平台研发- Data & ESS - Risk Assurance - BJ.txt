@@ -1,0 +1,1 @@
+{'company_name': 'PwC 普华永道', 'job_name': 'Java高级开发工程师平台研发- Data & ESS - Risk Assurance - BJ', 'geography': '北京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130654028.html?rc=03'}

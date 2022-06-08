@@ -1,0 +1,1 @@
+{'company_name': '宁波创是汽车饰品有限公司', 'job_name': '采购', 'geography': '宁波-高新区', 'bonus': ['周末双休', '五险一金', '绩效奖金', '全勤奖'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/122225803.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天津天大求实电力新技术股份有限公司', 'job_name': 'Java开发工程师', 'geography': '天津', 'bonus': ['五险一金', '绩效奖金', '节日福利', '周末双休'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130718201.html?rc=03'}

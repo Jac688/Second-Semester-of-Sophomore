@@ -1,0 +1,1 @@
+{'company_name': '常州市思索数码科技有限公司', 'job_name': '海外电商网站全栈开发及运维', 'geography': '常州-钟楼区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/130222471.html?rc=03'}

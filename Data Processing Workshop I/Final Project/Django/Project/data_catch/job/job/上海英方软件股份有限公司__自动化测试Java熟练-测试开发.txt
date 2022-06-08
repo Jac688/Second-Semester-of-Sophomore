@@ -1,0 +1,1 @@
+{'company_name': '上海英方软件股份有限公司', 'job_name': '自动化测试Java熟练-测试开发', 'geography': '上海-闵行区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132231093.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海达恩贝拉环境科技发展有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125838740.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '博看网', 'job_name': 'PHP高级开发15-25K汉口', 'geography': '武汉-江汉区', 'bonus': ['专业培训', '绩效奖金', '年终奖金', '五险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/118647204.html?rc=03'}

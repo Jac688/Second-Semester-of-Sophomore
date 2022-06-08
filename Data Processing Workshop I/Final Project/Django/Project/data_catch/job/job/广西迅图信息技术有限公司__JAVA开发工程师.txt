@@ -1,0 +1,1 @@
+{'company_name': '广西迅图信息技术有限公司', 'job_name': 'JAVA开发工程师', 'geography': '南宁', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanning/120728453.html?rc=03'}

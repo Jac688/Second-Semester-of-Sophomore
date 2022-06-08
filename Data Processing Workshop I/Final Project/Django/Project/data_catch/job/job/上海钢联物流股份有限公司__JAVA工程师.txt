@@ -1,0 +1,1 @@
+{'company_name': '上海钢联物流股份有限公司', 'job_name': 'JAVA工程师', 'geography': '上海-宝山区', 'bonus': ['五险一金', '定期体检', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123487636.html?rc=03'}

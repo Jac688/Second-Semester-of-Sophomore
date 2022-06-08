@@ -1,0 +1,1 @@
+{'company_name': '北京新雷能科技股份有限公司', 'job_name': '高级DSP软件工程师', 'geography': '上海-浦东新区', 'bonus': ['免费班车', '餐饮补贴', '带薪年假', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128686083.html?rc=03'}

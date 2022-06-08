@@ -1,0 +1,1 @@
+{'company_name': '山东新和成控股有限公司', 'job_name': 'Java开发工程师', 'geography': '潍坊-滨海经济开发区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/weifang/130821700.html?rc=03'}

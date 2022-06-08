@@ -1,0 +1,1 @@
+{'company_name': '华为技术有限公司', 'job_name': '软件开发工程师', 'geography': '东莞-松山湖区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '股票期权'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/132067776.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京新晓元软件开发有限公司', 'job_name': 'C++开发工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127001933.html?rc=03'}

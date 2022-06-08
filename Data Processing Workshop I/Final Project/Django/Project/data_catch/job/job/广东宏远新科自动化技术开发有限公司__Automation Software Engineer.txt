@@ -1,0 +1,1 @@
+{'company_name': '广东宏远新科自动化技术开发有限公司', 'job_name': 'Automation Software Engineer', 'geography': '东莞-万江区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/127384764.html?rc=03'}

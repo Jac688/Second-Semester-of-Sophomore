@@ -1,0 +1,1 @@
+{'company_name': '常达智能物联深圳有限公司', 'job_name': 'Java软件开发工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '定期体检', '专业培训', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/119613191.html?rc=03'}

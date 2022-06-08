@@ -1,0 +1,1 @@
+{'company_name': '四川久远银海软件股份有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-锦江区', 'bonus': ['五险一金', '定期体检', '每年调薪', '结婚福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127717271.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州超神影业有限公司', 'job_name': 'MAYA特效师', 'geography': '广州-天河区', 'bonus': ['五险一金', '专业培训', '补充医疗保险', '员工旅游'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/67692771.html?rc=03'}

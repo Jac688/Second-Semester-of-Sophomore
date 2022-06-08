@@ -1,0 +1,1 @@
+{'company_name': '成都乐创自动化技术股份有限公司', 'job_name': '现场技术支持工程师', 'geography': '东莞-松山湖区', 'bonus': ['带薪年假', '五险一金', '全勤奖', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/129053452.html?rc=03'}

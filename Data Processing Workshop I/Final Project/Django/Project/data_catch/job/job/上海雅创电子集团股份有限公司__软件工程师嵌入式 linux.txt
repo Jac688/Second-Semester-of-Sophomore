@@ -1,0 +1,1 @@
+{'company_name': '上海雅创电子集团股份有限公司', 'job_name': '软件工程师嵌入式 linux', 'geography': '深圳', 'bonus': ['五险一金', '免费班车', '员工旅游', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126340869.html?rc=03'}

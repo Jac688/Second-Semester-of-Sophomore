@@ -1,0 +1,1 @@
+{'company_name': '上海数微广告有限公司', 'job_name': 'Java程序员实习生 3-4K', 'geography': '上海-普陀区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '专业培训'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/103136305.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '东乔科技上海有限责任公司', 'job_name': '风控建模专家', 'geography': '上海-闵行区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119069014.html?rc=03'}

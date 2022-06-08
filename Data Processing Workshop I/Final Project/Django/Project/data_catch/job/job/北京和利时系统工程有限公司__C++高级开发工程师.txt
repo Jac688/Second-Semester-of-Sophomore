@@ -1,0 +1,1 @@
+{'company_name': '北京和利时系统工程有限公司', 'job_name': 'C++高级开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127531457.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中邮信息科技北京有限公司', 'job_name': '系统架构设计师JAVA方向', 'geography': '北京', 'bonus': [], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/114884454.html?rc=03'}

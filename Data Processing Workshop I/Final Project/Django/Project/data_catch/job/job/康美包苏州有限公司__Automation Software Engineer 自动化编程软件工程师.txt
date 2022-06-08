@@ -1,0 +1,1 @@
+{'company_name': '康美包苏州有限公司', 'job_name': 'Automation Software Engineer 自动化编程软件工程师', 'geography': '苏州-工业园区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128073654.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '咸阳秦云信息技术有限公司', 'job_name': '运维工程师', 'geography': '异地招聘', 'bonus': ['周末双休', '带薪年假', '五险', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/126623192.html?rc=03'}

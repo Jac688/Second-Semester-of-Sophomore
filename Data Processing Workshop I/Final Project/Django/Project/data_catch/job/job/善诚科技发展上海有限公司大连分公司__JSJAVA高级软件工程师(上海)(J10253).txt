@@ -1,0 +1,1 @@
+{'company_name': '善诚科技发展上海有限公司大连分公司', 'job_name': 'JSJAVA高级软件工程师(上海)(J10253)', 'geography': '上海-浦东新区', 'bonus': ['带薪年假', '交通补贴', '年终奖金', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130116526.html?rc=03'}

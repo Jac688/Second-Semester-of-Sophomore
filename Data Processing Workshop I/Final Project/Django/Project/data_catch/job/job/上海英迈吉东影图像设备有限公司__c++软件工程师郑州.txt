@@ -1,0 +1,1 @@
+{'company_name': '上海英迈吉东影图像设备有限公司', 'job_name': 'c++软件工程师郑州', 'geography': '郑州-金水区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '丰厚奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhengzhou/132341552.html?rc=03'}

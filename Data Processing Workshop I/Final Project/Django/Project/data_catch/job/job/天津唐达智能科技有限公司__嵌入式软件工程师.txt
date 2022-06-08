@@ -1,0 +1,1 @@
+{'company_name': '天津唐达智能科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '天津-津南区', 'bonus': ['六险两金', '节日福利', '春节长假', '定期体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/115515500.html?rc=03'}

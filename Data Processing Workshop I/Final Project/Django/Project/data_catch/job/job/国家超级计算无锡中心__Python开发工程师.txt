@@ -1,0 +1,1 @@
+{'company_name': '国家超级计算无锡中心', 'job_name': 'Python开发工程师', 'geography': '无锡-滨湖区', 'bonus': ['餐饮补贴', '弹性工作', '五险一金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/129154496.html?rc=03'}

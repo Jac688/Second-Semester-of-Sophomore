@@ -1,0 +1,1 @@
+{'company_name': '上海畅联智融通讯科技有限公司', 'job_name': '系统工程师 System Engineer宁波', 'geography': '宁波', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '出国机会'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/88485227.html?rc=03'}

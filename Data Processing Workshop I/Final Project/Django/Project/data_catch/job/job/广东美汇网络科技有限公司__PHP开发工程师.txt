@@ -1,0 +1,1 @@
+{'company_name': '广东美汇网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '东莞-南城区', 'bonus': ['餐饮补贴', '五险一金', '绩效奖金', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/115658944.html?rc=03'}

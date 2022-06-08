@@ -1,0 +1,1 @@
+{'company_name': '天津给智信息技术股份有限公司', 'job_name': 'java实习生', 'geography': '天津-津南区', 'bonus': ['五险一金', '年终奖金', '定期体检', '绩效奖金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130516646.html?rc=03'}

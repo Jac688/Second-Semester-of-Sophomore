@@ -1,0 +1,1 @@
+{'company_name': '国衡智慧城市科技研究院北京有限公司', 'job_name': 'Java开发Java开发工程师', 'geography': '北京', 'bonus': ['交通补贴', '餐饮补贴', '员工旅游', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127224828.html?rc=03'}

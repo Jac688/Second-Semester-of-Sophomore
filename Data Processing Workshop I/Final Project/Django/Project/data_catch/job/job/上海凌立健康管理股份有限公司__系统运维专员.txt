@@ -1,0 +1,1 @@
+{'company_name': '上海凌立健康管理股份有限公司', 'job_name': '系统运维专员', 'geography': '上海', 'bonus': ['弹性工作', '提供早饭', '五险一金', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128781330.html?rc=03'}

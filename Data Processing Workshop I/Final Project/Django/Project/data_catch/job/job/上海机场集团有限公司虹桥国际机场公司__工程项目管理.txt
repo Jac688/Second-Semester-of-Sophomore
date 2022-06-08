@@ -1,0 +1,1 @@
+{'company_name': '上海机场集团有限公司虹桥国际机场公司', 'job_name': '工程项目管理', 'geography': '上海', 'bonus': ['五险一金', '补充公积金', '补充养老金', '补充医疗保险'], 'salary': 1.17, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129666353.html?rc=03'}

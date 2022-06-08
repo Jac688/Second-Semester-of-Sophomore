@@ -1,0 +1,1 @@
+{'company_name': '安徽好样软件有限公司', 'job_name': 'PHP开发工程师', 'geography': '合肥-包河区', 'bonus': ['周末双休', '弹性工作', '带薪年假', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hefei/131719581.html?rc=03'}

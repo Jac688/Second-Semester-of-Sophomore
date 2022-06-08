@@ -1,0 +1,1 @@
+{'company_name': '富士康工业互联网股份有限公司', 'job_name': '平台安全专家 7010011', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '免费班车', '专业培训', '绩效奖金'], 'salary': 2.71, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125334990.html?rc=03'}

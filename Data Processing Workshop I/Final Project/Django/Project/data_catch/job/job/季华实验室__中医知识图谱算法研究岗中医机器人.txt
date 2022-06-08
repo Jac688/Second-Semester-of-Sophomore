@@ -1,0 +1,1 @@
+{'company_name': '季华实验室', 'job_name': '中医知识图谱算法研究岗中医机器人', 'geography': '佛山-南海区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/127297454.html?rc=03'}

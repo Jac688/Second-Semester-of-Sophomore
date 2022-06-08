@@ -1,0 +1,1 @@
+{'company_name': '德医汇(广州)互联网医院有限公司', 'job_name': 'Java后台开发工程师', 'geography': '广州-天河区', 'bonus': ['弹性工作', '带薪年假', '法定节假日', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127989623.html?rc=03'}

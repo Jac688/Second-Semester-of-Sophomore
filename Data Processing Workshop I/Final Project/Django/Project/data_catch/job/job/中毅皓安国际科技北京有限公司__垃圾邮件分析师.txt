@@ -1,0 +1,1 @@
+{'company_name': '中毅皓安国际科技北京有限公司', 'job_name': '垃圾邮件分析师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '绩效奖金', '员工旅游', '定期体检'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128958696.html?rc=03'}

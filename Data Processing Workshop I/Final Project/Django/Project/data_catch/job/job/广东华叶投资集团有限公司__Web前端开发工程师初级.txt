@@ -1,0 +1,1 @@
+{'company_name': '广东华叶投资集团有限公司', 'job_name': 'Web前端开发工程师初级', 'geography': '广州-海珠区', 'bonus': ['餐饮补贴', '专业培训', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132267543.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中科蓝海智能制造研究院', 'job_name': 'Java开发工程师', 'geography': '深圳', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130637105.html?rc=03'}

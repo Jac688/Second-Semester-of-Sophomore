@@ -1,0 +1,1 @@
+{'company_name': '固安捷中国工业品销售有限责任公司', 'job_name': 'Java资深开发工程师', 'geography': '上海', 'bonus': ['五险一金', '定期体检', '13薪', '补充医疗保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127087804.html?rc=03'}

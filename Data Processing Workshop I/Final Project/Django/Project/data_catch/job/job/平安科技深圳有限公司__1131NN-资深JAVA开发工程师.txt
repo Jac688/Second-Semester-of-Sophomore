@@ -1,0 +1,1 @@
+{'company_name': '平安科技深圳有限公司', 'job_name': '1131NN-资深JAVA开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '带薪年假', '节日福利'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127727587.html?rc=03'}

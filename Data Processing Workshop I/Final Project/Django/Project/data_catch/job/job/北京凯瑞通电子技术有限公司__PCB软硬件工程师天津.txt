@@ -1,0 +1,1 @@
+{'company_name': '北京凯瑞通电子技术有限公司', 'job_name': 'PCB软硬件工程师天津', 'geography': '异地招聘', 'bonus': ['绩效奖金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126440771.html?rc=03'}

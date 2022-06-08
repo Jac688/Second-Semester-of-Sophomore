@@ -1,0 +1,1 @@
+{'company_name': '宏旺投资集团有限公司', 'job_name': 'PHP开发岗', 'geography': '异地招聘', 'bonus': ['五险', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/foshan/125353019.html?rc=03'}

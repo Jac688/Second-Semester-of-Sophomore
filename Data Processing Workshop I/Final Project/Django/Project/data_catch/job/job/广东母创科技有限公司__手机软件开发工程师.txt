@@ -1,0 +1,1 @@
+{'company_name': '广东母创科技有限公司', 'job_name': '手机软件开发工程师', 'geography': '东莞-凤岗镇', 'bonus': ['社保', '专业培训', '出国机会', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130022318.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海莫吉娜智能信息科技有限公司', 'job_name': 'CC++软件工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/110651409.html?rc=03'}

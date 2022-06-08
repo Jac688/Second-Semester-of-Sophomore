@@ -1,0 +1,1 @@
+{'company_name': '上海馨橙网络科技有限公司', 'job_name': 'Java开发工程师', 'geography': '杭州-拱墅区', 'bonus': ['五险一金', '弹性工作', '年终奖金', '团建'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131953134.html?rc=03'}

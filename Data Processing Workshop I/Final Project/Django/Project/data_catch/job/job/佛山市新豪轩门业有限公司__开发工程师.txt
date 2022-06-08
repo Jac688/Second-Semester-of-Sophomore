@@ -1,0 +1,1 @@
+{'company_name': '佛山市新豪轩门业有限公司', 'job_name': '开发工程师', 'geography': '佛山-南海区', 'bonus': ['包住宿', '工作餐', '公费旅游', '公费培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/125670733.html?rc=03'}

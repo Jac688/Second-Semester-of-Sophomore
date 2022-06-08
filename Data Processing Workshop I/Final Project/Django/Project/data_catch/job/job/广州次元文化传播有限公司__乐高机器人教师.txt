@@ -1,0 +1,1 @@
+{'company_name': '广州次元文化传播有限公司', 'job_name': '乐高机器人教师', 'geography': '广州-番禺区', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124251429.html?rc=03'}

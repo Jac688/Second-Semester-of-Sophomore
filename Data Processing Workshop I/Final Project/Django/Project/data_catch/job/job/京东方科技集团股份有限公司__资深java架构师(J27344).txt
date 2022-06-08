@@ -1,0 +1,1 @@
+{'company_name': '京东方科技集团股份有限公司', 'job_name': '资深java架构师(J27344)', 'geography': '北京-大兴区', 'bonus': ['通讯补贴', '餐饮补贴', '定期体检', '年终奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132273082.html?rc=03'}

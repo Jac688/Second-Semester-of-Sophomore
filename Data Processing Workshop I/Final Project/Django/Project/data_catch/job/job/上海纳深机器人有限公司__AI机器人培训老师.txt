@@ -1,0 +1,1 @@
+{'company_name': '上海纳深机器人有限公司', 'job_name': 'AI机器人培训老师', 'geography': '上海-普陀区', 'bonus': ['五险一金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128366720.html?rc=03'}

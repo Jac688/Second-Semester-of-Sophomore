@@ -1,0 +1,1 @@
+{'company_name': '南京启辰智兴科技发展有限公司', 'job_name': 'C++开发工程师初级', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/106043914.html?rc=03'}

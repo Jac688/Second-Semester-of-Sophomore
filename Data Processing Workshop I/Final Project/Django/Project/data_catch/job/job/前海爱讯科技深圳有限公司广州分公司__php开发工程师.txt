@@ -1,0 +1,1 @@
+{'company_name': '前海爱讯科技深圳有限公司广州分公司', 'job_name': 'php开发工程师', 'geography': '广州', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130540770.html?rc=03'}

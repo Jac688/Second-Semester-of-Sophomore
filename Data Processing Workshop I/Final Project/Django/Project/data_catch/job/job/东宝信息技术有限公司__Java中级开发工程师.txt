@@ -1,0 +1,1 @@
+{'company_name': '东宝信息技术有限公司', 'job_name': 'Java中级开发工程师', 'geography': '东莞', 'bonus': ['绩效奖金', '年终奖金', '员工旅游', '补充医疗保险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/124247006.html?rc=03'}

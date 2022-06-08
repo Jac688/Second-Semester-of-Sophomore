@@ -1,0 +1,1 @@
+{'company_name': '广联达', 'job_name': 'C++高级开发工程师 (MJ005826)', 'geography': '北京', 'bonus': [], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129170270.html?rc=03'}

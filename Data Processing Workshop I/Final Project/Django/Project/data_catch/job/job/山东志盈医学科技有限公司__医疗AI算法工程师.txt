@@ -1,0 +1,1 @@
+{'company_name': '山东志盈医学科技有限公司', 'job_name': '医疗AI算法工程师', 'geography': '济南-高新区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/128980595.html?rc=03'}

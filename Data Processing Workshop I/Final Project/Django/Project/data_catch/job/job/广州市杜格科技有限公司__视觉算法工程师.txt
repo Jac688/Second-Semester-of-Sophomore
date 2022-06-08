@@ -1,0 +1,1 @@
+{'company_name': '广州市杜格科技有限公司', 'job_name': '视觉算法工程师', 'geography': '广州', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124905240.html?rc=03'}

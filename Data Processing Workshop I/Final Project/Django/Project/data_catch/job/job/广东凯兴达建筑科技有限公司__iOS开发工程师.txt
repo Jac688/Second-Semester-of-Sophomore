@@ -1,0 +1,1 @@
+{'company_name': '广东凯兴达建筑科技有限公司', 'job_name': 'iOS开发工程师', 'geography': '中山', 'bonus': ['带薪年假', '绩效奖金', '社会保险', '标准工时'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/100783852.html?rc=03'}

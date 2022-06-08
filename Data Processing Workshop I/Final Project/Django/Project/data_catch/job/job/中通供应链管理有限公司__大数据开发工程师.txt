@@ -1,0 +1,1 @@
+{'company_name': '中通供应链管理有限公司', 'job_name': '大数据开发工程师', 'geography': '杭州-江干区', 'bonus': ['餐饮补贴', '员工旅游', '年终奖金', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/124792979.html?rc=03'}

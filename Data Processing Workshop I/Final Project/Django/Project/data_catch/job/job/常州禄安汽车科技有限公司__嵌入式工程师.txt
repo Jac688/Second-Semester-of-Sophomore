@@ -1,0 +1,1 @@
+{'company_name': '常州禄安汽车科技有限公司', 'job_name': '嵌入式工程师', 'geography': '常州-钟楼区', 'bonus': ['五险一金', '员工旅游', '定期体检', '年终奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/128105888.html?rc=03'}

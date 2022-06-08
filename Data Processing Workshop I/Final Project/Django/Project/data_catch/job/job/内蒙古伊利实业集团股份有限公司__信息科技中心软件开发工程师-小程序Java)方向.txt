@@ -1,0 +1,1 @@
+{'company_name': '内蒙古伊利实业集团股份有限公司', 'job_name': '信息科技中心软件开发工程师-小程序Java)方向', 'geography': '呼和浩特', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/huhhot/130227371.html?rc=03'}

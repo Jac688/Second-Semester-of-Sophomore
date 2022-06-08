@@ -1,0 +1,1 @@
+{'company_name': '广州广日电梯工业有限公司', 'job_name': '高级电气研发工程师研究生', 'geography': '广州', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '免费班车'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/94011730.html?rc=03'}

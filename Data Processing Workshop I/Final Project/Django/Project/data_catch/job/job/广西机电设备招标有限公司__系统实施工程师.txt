@@ -1,0 +1,1 @@
+{'company_name': '广西机电设备招标有限公司', 'job_name': '系统实施工程师', 'geography': '南宁', 'bonus': ['周末双休', '员工培训', '五险一金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/128574220.html?rc=03'}

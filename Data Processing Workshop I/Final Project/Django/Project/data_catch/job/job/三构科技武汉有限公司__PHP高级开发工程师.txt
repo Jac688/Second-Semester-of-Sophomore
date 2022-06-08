@@ -1,0 +1,1 @@
+{'company_name': '三构科技武汉有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '武汉-武昌区', 'bonus': ['五险一金', '周末双休', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/130387579.html?rc=03'}

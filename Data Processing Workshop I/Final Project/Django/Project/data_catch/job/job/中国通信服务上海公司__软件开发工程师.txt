@@ -1,0 +1,1 @@
+{'company_name': '中国通信服务上海公司', 'job_name': '软件开发工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '补充公积金', '员工旅游', '交通补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131126337.html?rc=03'}

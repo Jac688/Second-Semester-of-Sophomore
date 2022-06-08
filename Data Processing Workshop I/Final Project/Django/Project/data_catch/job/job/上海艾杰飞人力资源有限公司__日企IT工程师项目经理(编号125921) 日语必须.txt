@@ -1,0 +1,1 @@
+{'company_name': '上海艾杰飞人力资源有限公司', 'job_name': '日企IT工程师项目经理(编号125921) 日语必须', 'geography': '天津', 'bonus': ['国家法定休假', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/127298349.html?rc=03'}

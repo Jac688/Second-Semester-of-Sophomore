@@ -1,0 +1,1 @@
+{'company_name': '上海至数企业发展有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '专业培训', '弹性工作', '大牛带教'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130308883.html?rc=03'}

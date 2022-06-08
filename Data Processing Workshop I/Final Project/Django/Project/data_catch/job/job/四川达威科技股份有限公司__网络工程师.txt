@@ -1,0 +1,1 @@
+{'company_name': '四川达威科技股份有限公司', 'job_name': '网络工程师', 'geography': '成都', 'bonus': ['绩效奖金', '定期体检', '员工旅游', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/120270564.html?rc=03'}

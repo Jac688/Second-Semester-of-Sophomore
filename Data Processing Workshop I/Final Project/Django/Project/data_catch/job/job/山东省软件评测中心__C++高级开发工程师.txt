@@ -1,0 +1,1 @@
+{'company_name': '山东省软件评测中心', 'job_name': 'C++高级开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '专业培训', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131762436.html?rc=03'}

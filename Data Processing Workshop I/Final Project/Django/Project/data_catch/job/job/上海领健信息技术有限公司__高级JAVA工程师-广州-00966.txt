@@ -1,0 +1,1 @@
+{'company_name': '上海领健信息技术有限公司', 'job_name': '高级JAVA工程师-广州-00966', 'geography': '广州-天河区', 'bonus': ['团队牛', '发展空间大', '产品好'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129998041.html?rc=03'}

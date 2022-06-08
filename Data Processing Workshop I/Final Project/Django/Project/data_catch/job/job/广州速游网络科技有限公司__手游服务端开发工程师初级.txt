@@ -1,0 +1,1 @@
+{'company_name': '广州速游网络科技有限公司', 'job_name': '手游服务端开发工程师初级', 'geography': '广州-天河区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '免费三餐'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/116996257.html?rc=03'}

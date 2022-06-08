@@ -1,0 +1,1 @@
+{'company_name': '广州市显浩医疗设备股份有限公司', 'job_name': '单片机开发工程师', 'geography': '广州-花都区', 'bonus': ['五险', '包住宿', '员工旅游', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/84334933.html?rc=03'}

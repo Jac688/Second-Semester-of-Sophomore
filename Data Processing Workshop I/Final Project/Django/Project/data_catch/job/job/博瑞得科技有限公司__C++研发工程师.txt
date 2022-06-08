@@ -1,0 +1,1 @@
+{'company_name': '博瑞得科技有限公司', 'job_name': 'C++研发工程师', 'geography': '成都-高新区', 'bonus': ['绩效奖金', '五险一金', '定期体检', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127606387.html?rc=03'}

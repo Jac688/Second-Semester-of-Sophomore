@@ -1,0 +1,1 @@
+{'company_name': '广州丽晶软件科技股份有限公司', 'job_name': 'Java开发工程师自研产品', 'geography': '广州-番禺区', 'bonus': ['五险一金', '专业培训', '免费班车', '员工旅游'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131312103.html?rc=03'}

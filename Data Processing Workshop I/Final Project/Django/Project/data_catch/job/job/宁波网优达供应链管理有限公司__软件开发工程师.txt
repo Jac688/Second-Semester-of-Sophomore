@@ -1,0 +1,1 @@
+{'company_name': '宁波网优达供应链管理有限公司', 'job_name': '软件开发工程师', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '带薪年假', '餐饮补贴', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/124024197.html?rc=03'}

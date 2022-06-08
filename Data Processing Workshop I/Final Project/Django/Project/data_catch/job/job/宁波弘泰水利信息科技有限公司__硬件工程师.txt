@@ -1,0 +1,1 @@
+{'company_name': '宁波弘泰水利信息科技有限公司', 'job_name': '硬件工程师', 'geography': '宁波-江北区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129798997.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海金桓企业管理咨询有限公司', 'job_name': 'AWS大数据工程师', 'geography': '上海-杨浦区', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131914706.html?rc=03'}

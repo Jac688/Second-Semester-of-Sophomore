@@ -1,0 +1,1 @@
+{'company_name': '前海联合网络科技有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-龙华区', 'bonus': ['全额五险', '12%公积金', '免费早午餐', '免费班车'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127390999.html?rc=03'}

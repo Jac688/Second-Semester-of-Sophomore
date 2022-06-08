@@ -1,0 +1,1 @@
+{'company_name': '上海辞书出版社有限公司', 'job_name': '数据处理工程师javapython数据工程师', 'geography': '上海-静安区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '健康体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129887144.html?rc=03'}

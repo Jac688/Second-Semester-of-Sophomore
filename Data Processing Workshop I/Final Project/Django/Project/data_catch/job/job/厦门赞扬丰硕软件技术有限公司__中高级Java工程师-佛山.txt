@@ -1,0 +1,1 @@
+{'company_name': '厦门赞扬丰硕软件技术有限公司', 'job_name': '中高级Java工程师-佛山', 'geography': '佛山-南海区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/foshan/130234985.html?rc=03'}

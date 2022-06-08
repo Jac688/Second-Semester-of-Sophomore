@@ -1,0 +1,1 @@
+{'company_name': '北京奕斯伟计算技术有限公司', 'job_name': 'CM 软件配置管理工程师(北京)(J12117)', 'geography': '北京-通州区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130882010.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海蒙马软件技术有限公司', 'job_name': '中间件技术-运维驻场', 'geography': '南京-雨花台区', 'bonus': ['五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130466465.html?rc=03'}

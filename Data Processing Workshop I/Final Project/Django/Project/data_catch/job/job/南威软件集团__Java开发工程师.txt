@@ -1,0 +1,1 @@
+{'company_name': '南威软件集团', 'job_name': 'Java开发工程师', 'geography': '南宁', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/128911978.html?rc=03'}

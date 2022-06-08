@@ -1,0 +1,1 @@
+{'company_name': '天津南开创元信息技术有限公司', 'job_name': '高级java开发工程师', 'geography': '天津', 'bonus': ['五险一金', '员工旅游', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129400978.html?rc=03'}

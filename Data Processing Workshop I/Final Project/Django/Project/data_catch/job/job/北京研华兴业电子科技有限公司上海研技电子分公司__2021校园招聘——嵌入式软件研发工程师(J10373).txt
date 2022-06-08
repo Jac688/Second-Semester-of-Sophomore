@@ -1,0 +1,1 @@
+{'company_name': '北京研华兴业电子科技有限公司上海研技电子分公司', 'job_name': '2021校园招聘——嵌入式软件研发工程师(J10373)', 'geography': '北京', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127750098.html?rc=03'}

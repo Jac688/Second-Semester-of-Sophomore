@@ -1,0 +1,1 @@
+{'company_name': '伍尔特(天津)电子有限公司', 'job_name': '销售工程师-连接器和端子', 'geography': '苏州', 'bonus': ['五险一金', '绩效奖金', '定期体检', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/119188728.html?rc=03'}

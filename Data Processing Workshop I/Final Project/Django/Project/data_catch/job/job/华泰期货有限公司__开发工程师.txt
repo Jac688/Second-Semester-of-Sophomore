@@ -1,0 +1,1 @@
+{'company_name': '华泰期货有限公司', 'job_name': '开发工程师', 'geography': '上海', 'bonus': ['餐饮补贴', '绩效奖金', '定期体检', '补充医疗保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131430551.html?rc=03'}

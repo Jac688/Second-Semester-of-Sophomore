@@ -1,0 +1,1 @@
+{'company_name': '德施曼机电(中国)有限公司', 'job_name': '嵌入式软件工程师', 'geography': '杭州-滨江区', 'bonus': ['餐饮补贴', '五险一金', '周末双休', '节假福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130454726.html?rc=03'}

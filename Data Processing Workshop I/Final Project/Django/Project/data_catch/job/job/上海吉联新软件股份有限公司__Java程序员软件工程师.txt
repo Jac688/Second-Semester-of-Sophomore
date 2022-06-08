@@ -1,0 +1,1 @@
+{'company_name': '上海吉联新软件股份有限公司', 'job_name': 'Java程序员软件工程师', 'geography': '厦门', 'bonus': ['五险一金', '年终奖金', '过节费', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/109624946.html?rc=03'}

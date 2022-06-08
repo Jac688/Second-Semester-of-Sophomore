@@ -1,0 +1,1 @@
+{'company_name': '上海博泰悦臻电子设备制造有限公司', 'job_name': 'Java后端高级开发工程师(R4HK1)', 'geography': '上海', 'bonus': ['五险一金', '团队氛围好', '扁平管理', '餐补'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120655819.html?rc=03'}

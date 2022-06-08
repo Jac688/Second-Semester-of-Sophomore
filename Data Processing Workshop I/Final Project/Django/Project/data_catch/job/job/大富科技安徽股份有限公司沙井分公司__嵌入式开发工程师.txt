@@ -1,0 +1,1 @@
+{'company_name': '大富科技安徽股份有限公司沙井分公司', 'job_name': '嵌入式开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '周末双休'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131026899.html?rc=03'}

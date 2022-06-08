@@ -1,0 +1,1 @@
+{'company_name': '宁波精专人力资源服务有限公司', 'job_name': '资深软件工程师ARM或DSP', 'geography': '异地招聘', 'bonus': ['绩效奖金', '餐饮补贴', '专业培训', '五险一金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/125053699.html?rc=03'}

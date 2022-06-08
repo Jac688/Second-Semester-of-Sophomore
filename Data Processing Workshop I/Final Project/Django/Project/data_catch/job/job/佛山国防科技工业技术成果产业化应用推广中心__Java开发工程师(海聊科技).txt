@@ -1,0 +1,1 @@
+{'company_name': '佛山国防科技工业技术成果产业化应用推广中心', 'job_name': 'Java开发工程师(海聊科技)', 'geography': '佛山-南海区', 'bonus': ['餐饮补贴', '通讯补贴', '交通补贴', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129745495.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海文景信息科技有限公司', 'job_name': '高级java开发工程师广州', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/119436778.html?rc=03'}

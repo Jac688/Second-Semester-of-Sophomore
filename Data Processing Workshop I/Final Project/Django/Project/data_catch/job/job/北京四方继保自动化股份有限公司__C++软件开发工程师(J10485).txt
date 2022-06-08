@@ -1,0 +1,1 @@
+{'company_name': '北京四方继保自动化股份有限公司', 'job_name': 'C++软件开发工程师(J10485)', 'geography': '北京-海淀区', 'bonus': ['年终奖金', '定期体检', '周末双休', '八险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131171781.html?rc=03'}

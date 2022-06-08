@@ -1,0 +1,1 @@
+{'company_name': '四川语言桥信息技术有限公司', 'job_name': '软件开发工程师(J10194)', 'geography': '异地招聘', 'bonus': ['五险一金', '年终奖金', '扁平团队', '重点项目'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/sichuansheng/130141596.html?rc=03'}

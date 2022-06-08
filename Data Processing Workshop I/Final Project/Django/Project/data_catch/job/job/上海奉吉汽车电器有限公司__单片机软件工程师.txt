@@ -1,0 +1,1 @@
+{'company_name': '上海奉吉汽车电器有限公司', 'job_name': '单片机软件工程师', 'geography': '上海-松江区', 'bonus': ['做五休二', '工作餐', '节日福利', '生日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/111897922.html?rc=03'}

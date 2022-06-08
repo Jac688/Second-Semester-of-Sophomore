@@ -1,0 +1,1 @@
+{'company_name': '常州领创物联科技有限公司', 'job_name': 'Java开发工程师', 'geography': '常州-武进区', 'bonus': ['带薪年假', '节日福利', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/131391948.html?rc=03'}

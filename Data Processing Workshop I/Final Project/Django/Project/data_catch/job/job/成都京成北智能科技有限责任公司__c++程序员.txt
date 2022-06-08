@@ -1,0 +1,1 @@
+{'company_name': '成都京成北智能科技有限责任公司', 'job_name': 'c++程序员', 'geography': '成都-高新区', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴', '弹性工作'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128167386.html?rc=03'}

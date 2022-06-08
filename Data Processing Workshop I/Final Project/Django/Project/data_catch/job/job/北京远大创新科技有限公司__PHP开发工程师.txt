@@ -1,0 +1,1 @@
+{'company_name': '北京远大创新科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '菏泽', 'bonus': ['周末双休', '节日福利', '五险', '员工福利'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/heze/122027177.html?rc=03'}

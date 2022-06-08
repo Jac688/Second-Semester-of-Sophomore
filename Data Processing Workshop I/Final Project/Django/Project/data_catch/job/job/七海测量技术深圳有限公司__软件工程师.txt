@@ -1,0 +1,1 @@
+{'company_name': '七海测量技术深圳有限公司', 'job_name': '软件工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '员工旅游', '周末双休', '超长年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130257806.html?rc=03'}

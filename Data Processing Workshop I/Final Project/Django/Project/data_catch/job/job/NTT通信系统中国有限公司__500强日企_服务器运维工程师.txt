@@ -1,0 +1,1 @@
+{'company_name': 'NTT通信系统中国有限公司', 'job_name': '500强日企_服务器运维工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '绩效奖金', '通讯补贴', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/118672872.html?rc=03'}

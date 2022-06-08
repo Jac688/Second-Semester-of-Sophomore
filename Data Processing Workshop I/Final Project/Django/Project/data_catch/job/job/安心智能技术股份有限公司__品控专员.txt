@@ -1,0 +1,1 @@
+{'company_name': '安心智能技术股份有限公司', 'job_name': '品控专员', 'geography': '温州-乐清市', 'bonus': ['全勤奖', '加班补贴', '年终奖金', '股权认购'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wenzhou/131006963.html?rc=03'}

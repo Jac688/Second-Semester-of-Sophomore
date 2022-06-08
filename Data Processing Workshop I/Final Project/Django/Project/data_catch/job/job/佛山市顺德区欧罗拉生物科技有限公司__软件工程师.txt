@@ -1,0 +1,1 @@
+{'company_name': '佛山市顺德区欧罗拉生物科技有限公司', 'job_name': '软件工程师', 'geography': '佛山', 'bonus': ['餐饮补贴', '专业培训', '社会保险', '提供住宿'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/89036990.html?rc=03'}

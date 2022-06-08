@@ -1,0 +1,1 @@
+{'company_name': '广东奋飞教育科技有限公司', 'job_name': '运维工程师', 'geography': '广州', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126387666.html?rc=03'}

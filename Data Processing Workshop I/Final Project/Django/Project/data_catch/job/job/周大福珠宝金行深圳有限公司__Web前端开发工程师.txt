@@ -1,0 +1,1 @@
+{'company_name': '周大福珠宝金行深圳有限公司', 'job_name': 'Web前端开发工程师', 'geography': '深圳-盐田区', 'bonus': ['年终奖金', '专业培训', '绩效奖金', '朝九晚五'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130103254.html?rc=03'}

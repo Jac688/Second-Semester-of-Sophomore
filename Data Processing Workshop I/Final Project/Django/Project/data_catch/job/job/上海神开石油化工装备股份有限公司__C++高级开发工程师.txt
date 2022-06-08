@@ -1,0 +1,1 @@
+{'company_name': '上海神开石油化工装备股份有限公司', 'job_name': 'C++高级开发工程师', 'geography': '上海-闵行区', 'bonus': ['绩效奖金', '年终奖金', '公司体检', '工作餐'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/105994993.html?rc=03'}

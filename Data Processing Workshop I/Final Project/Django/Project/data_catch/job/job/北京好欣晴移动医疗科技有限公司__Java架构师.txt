@@ -1,0 +1,1 @@
+{'company_name': '北京好欣晴移动医疗科技有限公司', 'job_name': 'Java架构师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131903490.html?rc=03'}

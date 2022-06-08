@@ -1,0 +1,1 @@
+{'company_name': '广州市奔步广告有限公司', 'job_name': 'PHP开发实习生(20202021毕业', 'geography': '广州', 'bonus': ['五险一金', '弹性工作', '定期体检', '周末双休'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/119317599.html?rc=03'}

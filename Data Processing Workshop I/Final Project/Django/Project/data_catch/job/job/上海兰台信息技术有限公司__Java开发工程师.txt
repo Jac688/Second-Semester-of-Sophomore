@@ -1,0 +1,1 @@
+{'company_name': '上海兰台信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-普陀区', 'bonus': ['员工旅游', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129790327.html?rc=03'}

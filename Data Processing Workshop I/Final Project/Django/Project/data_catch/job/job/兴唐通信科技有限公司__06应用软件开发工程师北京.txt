@@ -1,0 +1,1 @@
+{'company_name': '兴唐通信科技有限公司', 'job_name': '06应用软件开发工程师北京', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125127846.html?rc=03'}

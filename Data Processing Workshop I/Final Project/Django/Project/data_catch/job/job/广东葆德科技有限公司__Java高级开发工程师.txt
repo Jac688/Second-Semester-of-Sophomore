@@ -1,0 +1,1 @@
+{'company_name': '广东葆德科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '佛山-南海区', 'bonus': ['包吃', '包住宿', '绩效奖金', '全勤奖'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131113980.html?rc=03'}

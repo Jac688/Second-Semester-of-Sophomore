@@ -1,0 +1,1 @@
+{'company_name': '北京理工大学东南信息技术研究院', 'job_name': '大数据开发工程师', 'geography': '莆田', 'bonus': ['五险一金', '专业培训', '带薪年假'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/putian/129028715.html?rc=03'}

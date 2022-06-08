@@ -1,0 +1,1 @@
+{'company_name': '北京飞渡科技有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-南山区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126837594.html?rc=03'}

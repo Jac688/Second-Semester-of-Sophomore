@@ -1,0 +1,1 @@
+{'company_name': '上海励驰半导体有限公司', 'job_name': 'Linux BSP软件工程师', 'geography': '南京-浦口区', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129561314.html?rc=03'}

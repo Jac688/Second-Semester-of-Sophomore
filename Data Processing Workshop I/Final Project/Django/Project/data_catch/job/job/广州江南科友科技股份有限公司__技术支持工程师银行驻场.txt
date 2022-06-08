@@ -1,0 +1,1 @@
+{'company_name': '广州江南科友科技股份有限公司', 'job_name': '技术支持工程师银行驻场', 'geography': '北京-海淀区', 'bonus': ['五险一金', '定期体检', '年终奖金', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126868151.html?rc=03'}

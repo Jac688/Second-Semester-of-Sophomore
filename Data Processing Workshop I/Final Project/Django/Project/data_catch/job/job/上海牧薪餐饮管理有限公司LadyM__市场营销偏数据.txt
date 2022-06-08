@@ -1,0 +1,1 @@
+{'company_name': '上海牧薪餐饮管理有限公司LadyM', 'job_name': '市场营销偏数据', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '交通补贴', '加班补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126591177.html?rc=03'}

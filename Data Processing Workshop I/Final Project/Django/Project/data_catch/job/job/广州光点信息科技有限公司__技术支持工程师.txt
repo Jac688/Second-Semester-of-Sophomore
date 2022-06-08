@@ -1,0 +1,1 @@
+{'company_name': '广州光点信息科技有限公司', 'job_name': '技术支持工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '周末双休', '加班补助', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127029516.html?rc=03'}

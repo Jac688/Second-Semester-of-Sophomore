@@ -1,0 +1,1 @@
+{'company_name': '广西叫酒网络科技有限公司', 'job_name': '运维工程师', 'geography': '南宁-江南区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanning/131735513.html?rc=03'}

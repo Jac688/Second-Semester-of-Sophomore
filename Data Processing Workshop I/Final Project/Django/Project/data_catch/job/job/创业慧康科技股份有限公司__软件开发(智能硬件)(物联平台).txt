@@ -1,0 +1,1 @@
+{'company_name': '创业慧康科技股份有限公司', 'job_name': '软件开发(智能硬件)(物联平台)', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128239771.html?rc=03'}

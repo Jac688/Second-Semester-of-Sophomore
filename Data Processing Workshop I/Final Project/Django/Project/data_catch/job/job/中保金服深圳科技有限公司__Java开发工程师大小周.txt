@@ -1,0 +1,1 @@
+{'company_name': '中保金服深圳科技有限公司', 'job_name': 'Java开发工程师大小周', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '带薪年假', '节日福利', '专业培训'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128365495.html?rc=03'}

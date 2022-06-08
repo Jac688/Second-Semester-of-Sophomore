@@ -1,0 +1,1 @@
+{'company_name': '大连艾思信息技术有限公司', 'job_name': 'C++音视频开发工程师', 'geography': '大连', 'bonus': ['带薪年假', '五险一金', '免费班车', '住房补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dalian/128454530.html?rc=03'}

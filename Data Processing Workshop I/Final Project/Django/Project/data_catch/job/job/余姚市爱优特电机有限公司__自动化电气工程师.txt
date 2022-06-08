@@ -1,0 +1,1 @@
+{'company_name': '余姚市爱优特电机有限公司', 'job_name': '自动化电气工程师', 'geography': '宁波', 'bonus': ['免费班车', '绩效奖金', '全勤奖', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131234341.html?rc=03'}

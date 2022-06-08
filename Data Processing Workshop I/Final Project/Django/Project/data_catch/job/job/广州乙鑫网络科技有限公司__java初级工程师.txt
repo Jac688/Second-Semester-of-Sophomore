@@ -1,0 +1,1 @@
+{'company_name': '广州乙鑫网络科技有限公司', 'job_name': 'java初级工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/122629141.html?rc=03'}

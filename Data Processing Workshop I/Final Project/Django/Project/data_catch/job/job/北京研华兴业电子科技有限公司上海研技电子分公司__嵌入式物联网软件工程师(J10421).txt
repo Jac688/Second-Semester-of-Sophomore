@@ -1,0 +1,1 @@
+{'company_name': '北京研华兴业电子科技有限公司上海研技电子分公司', 'job_name': '嵌入式物联网软件工程师(J10421)', 'geography': '上海-静安区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129146786.html?rc=03'}

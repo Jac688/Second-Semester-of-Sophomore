@@ -1,0 +1,1 @@
+{'company_name': '广东金牌陶瓷有限公司', 'job_name': '数据分析师', 'geography': '佛山', 'bonus': ['年终奖金', '员工旅游', '专业培训', '五险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/130688573.html?rc=03'}

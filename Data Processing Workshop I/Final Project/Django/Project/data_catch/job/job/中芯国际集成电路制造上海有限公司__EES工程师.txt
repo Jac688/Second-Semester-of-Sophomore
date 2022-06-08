@@ -1,0 +1,1 @@
+{'company_name': '中芯国际集成电路制造上海有限公司', 'job_name': 'EES工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132101425.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '好屋', 'job_name': '前端开发工程师', 'geography': '上海', 'bonus': [], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129783916.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东锐博软件科技有限公司', 'job_name': 'web端测试工程师', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '带薪年假', '节日福利', '餐饮补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/125059276.html?rc=03'}

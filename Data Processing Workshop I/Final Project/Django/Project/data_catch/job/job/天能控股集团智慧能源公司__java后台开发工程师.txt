@@ -1,0 +1,1 @@
+{'company_name': '天能控股集团智慧能源公司', 'job_name': 'java后台开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/128505330.html?rc=03'}

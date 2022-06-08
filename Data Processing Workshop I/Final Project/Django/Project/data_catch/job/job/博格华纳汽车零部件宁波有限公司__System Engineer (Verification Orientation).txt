@@ -1,0 +1,1 @@
+{'company_name': '博格华纳汽车零部件宁波有限公司', 'job_name': 'System Engineer (Verification Orientation)', 'geography': '宁波', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131028693.html?rc=03'}

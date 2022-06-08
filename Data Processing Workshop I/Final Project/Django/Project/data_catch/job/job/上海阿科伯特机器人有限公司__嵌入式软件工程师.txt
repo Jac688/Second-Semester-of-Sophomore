@@ -1,0 +1,1 @@
+{'company_name': '上海阿科伯特机器人有限公司', 'job_name': '嵌入式软件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '股票期权'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126269323.html?rc=03'}

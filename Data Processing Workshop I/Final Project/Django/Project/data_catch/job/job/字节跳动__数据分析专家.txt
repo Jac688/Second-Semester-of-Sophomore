@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '数据分析专家', 'geography': '天津', 'bonus': ['下午茶', '六险一金', '团队氛围好', '扁平管理'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128357243.html?rc=03'}

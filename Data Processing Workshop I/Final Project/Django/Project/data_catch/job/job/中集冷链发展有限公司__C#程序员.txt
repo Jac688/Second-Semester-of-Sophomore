@@ -1,0 +1,1 @@
+{'company_name': '中集冷链发展有限公司', 'job_name': 'C#程序员', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132282067.html?rc=03'}

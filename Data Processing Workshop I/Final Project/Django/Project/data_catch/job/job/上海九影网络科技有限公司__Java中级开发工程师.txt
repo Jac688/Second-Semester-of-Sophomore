@@ -1,0 +1,1 @@
+{'company_name': '上海九影网络科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/110382643.html?rc=03'}

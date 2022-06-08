@@ -1,0 +1,1 @@
+{'company_name': '北京晶众智慧交通科技股份有限公司', 'job_name': 'CAD二次开发', 'geography': '无锡-无锡新区', 'bonus': ['做五休二', '周末双休', '五险一金', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/125510568.html?rc=03'}

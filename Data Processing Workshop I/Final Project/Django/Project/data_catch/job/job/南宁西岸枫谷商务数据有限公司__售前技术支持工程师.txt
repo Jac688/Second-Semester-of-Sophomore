@@ -1,0 +1,1 @@
+{'company_name': '南宁西岸枫谷商务数据有限公司', 'job_name': '售前技术支持工程师', 'geography': '南宁', 'bonus': ['员工旅游', '绩效奖金', '年终奖金', '五险'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanning/123292589.html?rc=03'}

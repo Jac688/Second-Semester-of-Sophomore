@@ -1,0 +1,1 @@
+{'company_name': '奥夫工程技术成都有限公司', 'job_name': '工业自动化专家(4.0)', 'geography': '成都-高新区', 'bonus': ['五险一金', '专业培训', '有带薪休假', '海外工作机会'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130565667.html?rc=03'}

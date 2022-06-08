@@ -1,0 +1,1 @@
+{'company_name': '广州安和泰妇产医院有限公司', 'job_name': 'Python开发工程师', 'geography': '佛山-顺德区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/127710016.html?rc=03'}

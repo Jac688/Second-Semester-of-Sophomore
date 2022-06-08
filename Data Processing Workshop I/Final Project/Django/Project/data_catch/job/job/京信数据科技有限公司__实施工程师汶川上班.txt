@@ -1,0 +1,1 @@
+{'company_name': '京信数据科技有限公司', 'job_name': '实施工程师汶川上班', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130244748.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海峰途网络科技有限公司', 'job_name': '中级PHP开发工程师', 'geography': '上海', 'bonus': ['弹性工作', '五险一金', '餐饮补贴', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130594671.html?rc=03'}

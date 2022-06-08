@@ -1,0 +1,1 @@
+{'company_name': '传播易-广告投放平台', 'job_name': 'PHP开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '带薪年假', '绩效奖金', '全勤奖'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126319247.html?rc=03'}

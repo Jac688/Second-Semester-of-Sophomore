@@ -1,0 +1,1 @@
+{'company_name': '哈尔滨工大服务机器人有限公司', 'job_name': 'C++高级开发工程师', 'geography': '上海-青浦区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123435984.html?rc=03'}

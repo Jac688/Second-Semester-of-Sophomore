@@ -1,0 +1,1 @@
+{'company_name': '北京新联财通咨询有限公司', 'job_name': 'Java中高级开发工程师', 'geography': '北京', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/111579882.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海英威腾工业技术有限公司', 'job_name': '系统开发工程师上位机软件开发', 'geography': '上海', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/110086208.html?rc=03'}

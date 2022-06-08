@@ -1,0 +1,1 @@
+{'company_name': '广州荣锋电子科技有限公司', 'job_name': '首席技术官CTO', 'geography': '异地招聘', 'bonus': ['股票期权', '绩效奖金'], 'salary': 7.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131617300.html?rc=03'}

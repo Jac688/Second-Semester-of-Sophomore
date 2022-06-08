@@ -1,0 +1,1 @@
+{'company_name': '中星电子股份有限公司', 'job_name': '高级Java高级开发工程师智能网管', 'geography': '南京-浦口区', 'bonus': ['餐饮补贴', '通讯补贴', '专业培训', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/126751343.html?rc=03'}

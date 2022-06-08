@@ -1,0 +1,1 @@
+{'company_name': '广州道可维斯信息技术有限公司', 'job_name': '技术研究Python方向', 'geography': '广州-荔湾区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132275168.html?rc=03'}

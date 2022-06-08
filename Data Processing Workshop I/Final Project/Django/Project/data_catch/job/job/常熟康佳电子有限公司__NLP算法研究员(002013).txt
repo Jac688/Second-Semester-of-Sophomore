@@ -1,0 +1,1 @@
+{'company_name': '常熟康佳电子有限公司', 'job_name': 'NLP算法研究员(002013)', 'geography': '深圳-南山区', 'bonus': ['五险一金', '上市公司', '重点项目'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127406351.html?rc=03'}

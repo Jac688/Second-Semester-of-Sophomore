@@ -1,0 +1,1 @@
+{'company_name': '上海外服信息技术有限公司', 'job_name': 'Java中级开发工程师', 'geography': '上海', 'bonus': ['专业培训', '定期体检', '节假日礼物', '五险一金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129165360.html?rc=03'}

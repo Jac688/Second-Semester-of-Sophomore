@@ -1,0 +1,1 @@
+{'company_name': '广东新锦成陶瓷集团有限公司', 'job_name': 'SAP工程师', 'geography': '佛山', 'bonus': ['员工旅游', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/126749704.html?rc=03'}

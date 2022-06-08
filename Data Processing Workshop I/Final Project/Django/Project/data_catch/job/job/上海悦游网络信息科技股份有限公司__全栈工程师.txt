@@ -1,0 +1,1 @@
+{'company_name': '上海悦游网络信息科技股份有限公司', 'job_name': '全栈工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '餐饮补贴', '带薪年假'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126290876.html?rc=03'}

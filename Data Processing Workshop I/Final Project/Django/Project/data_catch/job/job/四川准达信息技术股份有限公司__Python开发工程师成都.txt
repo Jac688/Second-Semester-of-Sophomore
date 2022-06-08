@@ -1,0 +1,1 @@
+{'company_name': '四川准达信息技术股份有限公司', 'job_name': 'Python开发工程师成都', 'geography': '成都-武侯区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '定期体检'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131651298.html?rc=03'}

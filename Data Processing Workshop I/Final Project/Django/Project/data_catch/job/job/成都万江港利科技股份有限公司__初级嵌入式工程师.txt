@@ -1,0 +1,1 @@
+{'company_name': '成都万江港利科技股份有限公司', 'job_name': '初级嵌入式工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131826860.html?rc=03'}

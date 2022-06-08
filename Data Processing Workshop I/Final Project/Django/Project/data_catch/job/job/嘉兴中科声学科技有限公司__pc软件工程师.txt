@@ -1,0 +1,1 @@
+{'company_name': '嘉兴中科声学科技有限公司', 'job_name': 'pc软件工程师', 'geography': '嘉兴', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/125697728.html?rc=03'}

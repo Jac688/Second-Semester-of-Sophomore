@@ -1,0 +1,1 @@
+{'company_name': '北京四维图新科技股份有限公司', 'job_name': '高级C++开发工程师专家3729', 'geography': '异地招聘', 'bonus': ['五险一金', '年终奖金', '补充医疗保险', '免费班车'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130207413.html?rc=03'}

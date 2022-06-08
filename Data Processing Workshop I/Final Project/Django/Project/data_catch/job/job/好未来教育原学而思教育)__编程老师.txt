@@ -1,0 +1,1 @@
+{'company_name': '好未来教育原学而思教育)', 'job_name': '编程老师', 'geography': '杭州-下城区', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131803654.html?rc=03'}

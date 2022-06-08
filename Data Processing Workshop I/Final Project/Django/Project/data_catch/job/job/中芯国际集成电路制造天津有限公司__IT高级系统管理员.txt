@@ -1,0 +1,1 @@
+{'company_name': '中芯国际集成电路制造天津有限公司', 'job_name': 'IT高级系统管理员', 'geography': '天津-西青区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '绩效奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130921412.html?rc=03'}

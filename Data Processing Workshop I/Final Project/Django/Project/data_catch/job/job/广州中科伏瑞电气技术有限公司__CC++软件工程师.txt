@@ -1,0 +1,1 @@
+{'company_name': '广州中科伏瑞电气技术有限公司', 'job_name': 'CC++软件工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '员工旅游'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/119152203.html?rc=03'}

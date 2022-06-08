@@ -1,0 +1,1 @@
+{'company_name': '宁波翼动通讯科技有限公司', 'job_name': '音箱软件工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '绩效奖金', '定期体检', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127598086.html?rc=03'}

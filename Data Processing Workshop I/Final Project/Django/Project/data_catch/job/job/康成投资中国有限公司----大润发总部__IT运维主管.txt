@@ -1,0 +1,1 @@
+{'company_name': '康成投资中国有限公司----大润发总部', 'job_name': 'IT运维主管', 'geography': '上海-静安区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132100440.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '好未来教育原学而思教育)', 'job_name': '排班技术师', 'geography': '深圳-福田区', 'bonus': ['做五休二', '带薪年假', '五险一金', '弹性工作'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132294487.html?rc=03'}

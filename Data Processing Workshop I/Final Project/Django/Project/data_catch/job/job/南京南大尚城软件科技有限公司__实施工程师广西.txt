@@ -1,0 +1,1 @@
+{'company_name': '南京南大尚城软件科技有限公司', 'job_name': '实施工程师广西', 'geography': '南宁', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanning/129968232.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '信达生物制药苏州有限公司', 'job_name': '生物信息学高级研究员(J11124)', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/123660493.html?rc=03'}

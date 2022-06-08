@@ -1,0 +1,1 @@
+{'company_name': '中融好车', 'job_name': 'PHP高级开发工程师双休', 'geography': '重庆-江北区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131885135.html?rc=03'}

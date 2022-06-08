@@ -1,0 +1,1 @@
+{'company_name': '北京致远宣大科技有限公司', 'job_name': 'Java', 'geography': '北京-东城区', 'bonus': ['五险一金', '周末双休', '节假日福利'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130406535.html?rc=03'}

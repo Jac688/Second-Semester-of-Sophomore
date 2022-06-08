@@ -1,0 +1,1 @@
+{'company_name': '吉姆西半导体科技无锡有限公司', 'job_name': 'java 工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '免费班车', '员工旅游', '专业培训'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/jiangsusheng/127056064.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海评驾科技有限公司', 'job_name': 'Java工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131776363.html?rc=03'}

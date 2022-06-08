@@ -1,0 +1,1 @@
+{'company_name': '北京外企德科人力资源服务上海有限公司', 'job_name': '外企初级Java开发工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131809844.html?rc=03'}

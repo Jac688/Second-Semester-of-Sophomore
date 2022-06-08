@@ -1,0 +1,1 @@
+{'company_name': '上海开弈人力资源管理有限公司', 'job_name': '软件工程师C++C#', 'geography': '上海-普陀区', 'bonus': ['节日福利', '做五休二', '带薪年假', '五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126699200.html?rc=03'}

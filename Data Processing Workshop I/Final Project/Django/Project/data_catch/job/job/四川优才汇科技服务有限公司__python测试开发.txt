@@ -1,0 +1,1 @@
+{'company_name': '四川优才汇科技服务有限公司', 'job_name': 'python测试开发', 'geography': '成都-武侯区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132309373.html?rc=03'}

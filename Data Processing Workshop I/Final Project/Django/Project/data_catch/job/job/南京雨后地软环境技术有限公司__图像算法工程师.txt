@@ -1,0 +1,1 @@
+{'company_name': '南京雨后地软环境技术有限公司', 'job_name': '图像算法工程师', 'geography': '南京-鼓楼区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132248128.html?rc=03'}

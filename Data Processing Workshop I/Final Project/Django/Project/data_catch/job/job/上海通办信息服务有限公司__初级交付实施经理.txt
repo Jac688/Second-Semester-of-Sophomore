@@ -1,0 +1,1 @@
+{'company_name': '上海通办信息服务有限公司', 'job_name': '初级交付实施经理', 'geography': '南昌', 'bonus': ['五险一金', '免费班车', '通讯补贴', '交通补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/130315373.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '伟创力研发深圳有限公司', 'job_name': 'Firmware Engineer 固件开发工程师可接受应届生', 'geography': '深圳-南山区', 'bonus': ['带薪年假', '五险一金', '节日福利', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129650132.html?rc=03'}

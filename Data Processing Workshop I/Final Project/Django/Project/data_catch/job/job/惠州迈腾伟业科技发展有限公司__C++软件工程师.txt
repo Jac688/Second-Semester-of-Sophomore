@@ -1,0 +1,1 @@
+{'company_name': '惠州迈腾伟业科技发展有限公司', 'job_name': 'C++软件工程师', 'geography': '惠州', 'bonus': ['五险一金', '包住宿', '节日福利', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/119052996.html?rc=03'}

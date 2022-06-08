@@ -1,0 +1,1 @@
+{'company_name': '分众传媒', 'job_name': '运维安全工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '年终奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132302035.html?rc=03'}

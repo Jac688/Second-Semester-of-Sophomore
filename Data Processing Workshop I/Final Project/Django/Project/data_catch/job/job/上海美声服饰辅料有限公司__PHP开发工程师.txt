@@ -1,0 +1,1 @@
+{'company_name': '上海美声服饰辅料有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-闵行区', 'bonus': ['免费班车', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129727175.html?rc=03'}

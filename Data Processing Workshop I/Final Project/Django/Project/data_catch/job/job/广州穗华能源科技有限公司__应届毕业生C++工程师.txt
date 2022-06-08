@@ -1,0 +1,1 @@
+{'company_name': '广州穗华能源科技有限公司', 'job_name': '应届毕业生C++工程师', 'geography': '武汉', 'bonus': ['五险一金', '免费班车', '员工旅游', '通讯补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/132334130.html?rc=03'}

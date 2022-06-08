@@ -1,0 +1,1 @@
+{'company_name': '广州黑胡子游戏开发有限公司', 'job_name': 'C++服务端开发工程师合成休闲类', 'geography': '广州-天河区', 'bonus': [], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132062997.html?rc=03'}

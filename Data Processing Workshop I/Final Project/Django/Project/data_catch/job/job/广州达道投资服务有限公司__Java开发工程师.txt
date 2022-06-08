@@ -1,0 +1,1 @@
+{'company_name': '广州达道投资服务有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-天河区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131024545.html?rc=03'}

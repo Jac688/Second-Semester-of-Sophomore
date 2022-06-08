@@ -1,0 +1,1 @@
+{'company_name': '南京新华夏自动化系统工程有限公司', 'job_name': '嵌入式软件工程师五险一金', 'geography': '南京-建邺区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '出国机会'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131678877.html?rc=03'}

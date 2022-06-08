@@ -1,0 +1,1 @@
+{'company_name': '上海红薯网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126288652.html?rc=03'}

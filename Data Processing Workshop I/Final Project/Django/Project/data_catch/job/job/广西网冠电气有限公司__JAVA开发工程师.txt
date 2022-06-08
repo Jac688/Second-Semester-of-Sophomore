@@ -1,0 +1,1 @@
+{'company_name': '广西网冠电气有限公司', 'job_name': 'JAVA开发工程师', 'geography': '南宁', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/130622546.html?rc=03'}

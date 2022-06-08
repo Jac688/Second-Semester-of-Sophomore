@@ -1,0 +1,1 @@
+{'company_name': '上海新朋程数据科技发展有限公司', 'job_name': '线上技术顾问', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '员工旅游', '定期体检', '带薪年假'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/126441851.html?rc=03'}

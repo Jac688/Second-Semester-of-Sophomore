@@ -1,0 +1,1 @@
+{'company_name': '北京华阅嘉诚科技发展有限公司', 'job_name': 'Android研发工程师', 'geography': '北京-通州区', 'bonus': ['专业培训', '通讯补贴', '交通补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121342999.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京京汇思维科技发展有限公司', 'job_name': '信号处理技术支持工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/78030796.html?rc=03'}

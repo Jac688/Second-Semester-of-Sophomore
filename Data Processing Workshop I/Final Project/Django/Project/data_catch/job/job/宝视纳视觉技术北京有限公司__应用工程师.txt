@@ -1,0 +1,1 @@
+{'company_name': '宝视纳视觉技术北京有限公司', 'job_name': '应用工程师', 'geography': '北京-海淀区', 'bonus': ['补充医疗保险', '专业培训', '定期体检', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131530992.html?rc=03'}

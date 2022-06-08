@@ -1,0 +1,1 @@
+{'company_name': '北京中宇华兴科技有限公司杭州分公司', 'job_name': 'Java高级开发工程师', 'geography': '杭州-滨江区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/125144726.html?rc=03'}

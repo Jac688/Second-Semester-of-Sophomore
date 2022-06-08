@@ -1,0 +1,1 @@
+{'company_name': '北京南天软件有限公司', 'job_name': 'Linux系统工程师(集成2019)', 'geography': '北京', 'bonus': ['五险一金', '专业培训', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/120052326.html?rc=03'}

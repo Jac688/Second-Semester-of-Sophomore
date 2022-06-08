@@ -1,0 +1,1 @@
+{'company_name': '兑嘉上海企业发展有限公司', 'job_name': 'PHP中级开发工程师', 'geography': '上海-静安区', 'bonus': ['五险一金', '弹性工作', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/109041706.html?rc=03'}

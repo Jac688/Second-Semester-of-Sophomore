@@ -1,0 +1,1 @@
+{'company_name': '上海慧贤网络科技有限公司', 'job_name': 'Java架构师', 'geography': '上海-徐汇区', 'bonus': ['员工旅游', '年终奖金', '定期体检'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123840297.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东跃昉科技有限公司', 'job_name': '软件工程师AI 方向', 'geography': '深圳-南山区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127298568.html?rc=03'}

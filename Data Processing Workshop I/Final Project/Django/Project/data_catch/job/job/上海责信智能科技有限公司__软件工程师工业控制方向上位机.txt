@@ -1,0 +1,1 @@
+{'company_name': '上海责信智能科技有限公司', 'job_name': '软件工程师工业控制方向上位机', 'geography': '上海-松江区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126637081.html?rc=03'}

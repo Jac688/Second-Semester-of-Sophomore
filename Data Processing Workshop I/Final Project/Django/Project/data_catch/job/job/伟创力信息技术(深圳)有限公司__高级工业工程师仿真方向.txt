@@ -1,0 +1,1 @@
+{'company_name': '伟创力信息技术(深圳)有限公司', 'job_name': '高级工业工程师仿真方向', 'geography': '深圳-南山区', 'bonus': ['带薪年假', '五险一金', '节日福利', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130467166.html?rc=03'}

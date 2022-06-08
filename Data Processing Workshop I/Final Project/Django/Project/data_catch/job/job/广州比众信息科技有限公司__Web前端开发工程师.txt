@@ -1,0 +1,1 @@
+{'company_name': '广州比众信息科技有限公司', 'job_name': 'Web前端开发工程师', 'geography': '广州-白云区', 'bonus': ['公司活动', '假日福利', '周末双休', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128197450.html?rc=03'}

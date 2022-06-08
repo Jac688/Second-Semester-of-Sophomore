@@ -1,0 +1,1 @@
+{'company_name': '北京禾三科技有限公司', 'job_name': 'C++软件工程师', 'geography': '异地招聘', 'bonus': ['绩效奖金', '周末双休', '全勤奖', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/sichuansheng/127740767.html?rc=03'}

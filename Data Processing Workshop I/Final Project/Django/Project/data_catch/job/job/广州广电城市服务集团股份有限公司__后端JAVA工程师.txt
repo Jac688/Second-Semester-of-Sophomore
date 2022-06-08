@@ -1,0 +1,1 @@
+{'company_name': '广州广电城市服务集团股份有限公司', 'job_name': '后端JAVA工程师', 'geography': '广州-天河区', 'bonus': ['包住宿', '周末双休', '餐费补贴', '年底绩效奖励'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123522254.html?rc=03'}

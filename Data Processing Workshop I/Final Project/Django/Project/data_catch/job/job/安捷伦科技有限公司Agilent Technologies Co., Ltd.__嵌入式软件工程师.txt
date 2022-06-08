@@ -1,0 +1,1 @@
+{'company_name': '安捷伦科技有限公司Agilent Technologies Co., Ltd.', 'job_name': '嵌入式软件工程师', 'geography': '上海', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129320401.html?rc=03'}

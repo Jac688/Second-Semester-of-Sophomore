@@ -1,0 +1,1 @@
+{'company_name': '中国人民解放军国防科技大学电子科学学院导航与时空技术工程研究中心', 'job_name': 'CC++开发工程师', 'geography': '长沙', 'bonus': ['五险一金', '年终奖金', '餐饮补贴', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/changsha/106165141.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'MBP软件集团MBP Software Group', 'job_name': '高级资深开发python', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124962583.html?rc=03'}

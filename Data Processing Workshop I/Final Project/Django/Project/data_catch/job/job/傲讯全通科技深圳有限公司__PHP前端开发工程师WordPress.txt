@@ -1,0 +1,1 @@
+{'company_name': '傲讯全通科技深圳有限公司', 'job_name': 'PHP前端开发工程师WordPress', 'geography': '深圳', 'bonus': ['五险一金', '绩效奖金', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129977849.html?rc=03'}

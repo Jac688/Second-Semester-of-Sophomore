@@ -1,0 +1,1 @@
+{'company_name': '北京神州祥龙投资管理有限公司', 'job_name': 'Professional Services Intern', 'geography': '北京', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129629860.html?rc=03'}

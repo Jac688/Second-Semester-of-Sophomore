@@ -1,0 +1,1 @@
+{'company_name': '冰魄大连科技发展有限公司', 'job_name': '日语RPA', 'geography': '大连-甘井子区', 'bonus': ['五险一金', '绩效奖金', '专业培训', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dalian/130127475.html?rc=03'}

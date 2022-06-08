@@ -1,0 +1,1 @@
+{'company_name': '北京安捷瑞软件有限公司', 'job_name': 'Java中级程序员', 'geography': '东营', 'bonus': ['餐饮补贴', '通讯补贴', '专业培训', '五险一金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/dongying/128643634.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '交银施罗德基金管理有限公司', 'job_name': 'IT开发', 'geography': '上海', 'bonus': ['五大行平台', '五险一金', '补充医疗保险', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127326494.html?rc=03'}

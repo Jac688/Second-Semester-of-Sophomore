@@ -1,0 +1,1 @@
+{'company_name': '佛山市华高自动化设备有限公司', 'job_name': '嵌入式linux系统工程师', 'geography': '佛山', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/111344304.html?rc=03'}

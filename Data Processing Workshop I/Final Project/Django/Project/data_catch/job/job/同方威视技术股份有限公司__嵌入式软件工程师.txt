@@ -1,0 +1,1 @@
+{'company_name': '同方威视技术股份有限公司', 'job_name': '嵌入式软件工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '年终奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131363025.html?rc=03'}

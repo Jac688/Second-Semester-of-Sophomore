@@ -1,0 +1,1 @@
+{'company_name': '北京市计算中心', 'job_name': '自然语言处理工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '带薪年假', '弹性工作', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131006546.html?rc=03'}

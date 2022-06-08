@@ -1,0 +1,1 @@
+{'company_name': '中国光大银行总行信息科技部', 'job_name': '总行信息科技部-运维技术经理岗-云计算平台研发方向', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131530844.html?rc=03'}

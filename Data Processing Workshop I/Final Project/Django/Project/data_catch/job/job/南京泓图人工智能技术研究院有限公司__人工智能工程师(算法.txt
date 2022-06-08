@@ -1,0 +1,1 @@
+{'company_name': '南京泓图人工智能技术研究院有限公司', 'job_name': '人工智能工程师(算法', 'geography': '南京-建邺区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '周末双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/105772283.html?rc=03'}

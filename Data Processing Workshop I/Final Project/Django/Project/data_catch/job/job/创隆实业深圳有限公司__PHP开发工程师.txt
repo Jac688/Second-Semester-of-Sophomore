@@ -1,0 +1,1 @@
+{'company_name': '创隆实业深圳有限公司', 'job_name': 'PHP开发工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '包吃包住'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130334288.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '山东唐跃网络科技有限公司', 'job_name': 'Jave开发工程师', 'geography': '济南-市中区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130789514.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海皓空数码科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '无锡', 'bonus': ['五险一金', '专业培训', '年终奖金', '做五休二'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/128368465.html?rc=03'}

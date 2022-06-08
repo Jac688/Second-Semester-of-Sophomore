@@ -1,0 +1,1 @@
+{'company_name': '交银企业管理服务上海有限公司张江高科技园区分公司', 'job_name': '高级Java开发网络金融', 'geography': '上海-长宁区', 'bonus': ['做五休二', '周末双休', '五险一金', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130296041.html?rc=03'}

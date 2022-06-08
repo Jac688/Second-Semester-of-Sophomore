@@ -1,0 +1,1 @@
+{'company_name': '宁波中哲文墨电子商务有限公司', 'job_name': '数据挖掘', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '补充公积金', '免费班车', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/124877968.html?rc=03'}

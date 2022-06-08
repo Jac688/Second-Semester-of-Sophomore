@@ -1,0 +1,1 @@
+{'company_name': '卓望数码技术深圳有限公司', 'job_name': 'CC++开发工程师2021届校招', 'geography': '北京-西城区', 'bonus': ['补充医疗保险', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131669601.html?rc=03'}

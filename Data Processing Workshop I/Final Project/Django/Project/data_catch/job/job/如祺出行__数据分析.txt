@@ -1,0 +1,1 @@
+{'company_name': '如祺出行', 'job_name': '数据分析', 'geography': '广州-海珠区', 'bonus': ['节日福利', '员工关怀活动', '五险一金', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128626133.html?rc=03'}

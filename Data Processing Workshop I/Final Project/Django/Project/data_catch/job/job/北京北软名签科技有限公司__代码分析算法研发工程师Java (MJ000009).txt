@@ -1,0 +1,1 @@
+{'company_name': '北京北软名签科技有限公司', 'job_name': '代码分析算法研发工程师Java (MJ000009)', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131967915.html?rc=03'}

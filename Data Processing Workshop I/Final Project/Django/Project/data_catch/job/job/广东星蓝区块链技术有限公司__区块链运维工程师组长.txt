@@ -1,0 +1,1 @@
+{'company_name': '广东星蓝区块链技术有限公司', 'job_name': '区块链运维工程师组长', 'geography': '广州-黄埔区', 'bonus': ['补充医疗保险', '免费班车', '员工旅游', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131614312.html?rc=03'}

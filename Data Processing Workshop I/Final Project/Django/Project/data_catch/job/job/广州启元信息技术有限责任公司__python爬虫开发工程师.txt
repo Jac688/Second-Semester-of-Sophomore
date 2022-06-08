@@ -1,0 +1,1 @@
+{'company_name': '广州启元信息技术有限责任公司', 'job_name': 'python爬虫开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/130004410.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国通信服务股份有限公司', 'job_name': '数据分析师设计院公司', 'geography': '重庆', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129231738.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '展讯科技(杭州)有限公司', 'job_name': '嵌入式开发工程师AI方向4075', 'geography': '杭州-滨江区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128136177.html?rc=03'}

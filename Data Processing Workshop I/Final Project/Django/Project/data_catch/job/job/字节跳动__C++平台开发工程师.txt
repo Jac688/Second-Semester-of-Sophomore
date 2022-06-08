@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': 'C++平台开发工程师', 'geography': '杭州', 'bonus': ['用户过亿', '扁平管理', '股票期权', '弹性工作'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/120192005.html?rc=03'}

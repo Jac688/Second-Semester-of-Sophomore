@@ -1,0 +1,1 @@
+{'company_name': '北京呈创科技股份有限公司', 'job_name': '算法研究员', 'geography': '北京-西城区', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '过节福利'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131483034.html?rc=03'}

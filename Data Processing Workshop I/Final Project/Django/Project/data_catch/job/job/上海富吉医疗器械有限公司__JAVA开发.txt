@@ -1,0 +1,1 @@
+{'company_name': '上海富吉医疗器械有限公司', 'job_name': 'JAVA开发', 'geography': '上海', 'bonus': ['五险一金', '通讯补贴', '年终奖金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130169843.html?rc=03'}

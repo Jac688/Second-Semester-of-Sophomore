@@ -1,0 +1,1 @@
+{'company_name': '南京钢铁联合有限公司', 'job_name': '黑色产业高级研究员', 'geography': '南京', 'bonus': ['交通补贴', '通讯补贴', '五险一金', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131826201.html?rc=03'}

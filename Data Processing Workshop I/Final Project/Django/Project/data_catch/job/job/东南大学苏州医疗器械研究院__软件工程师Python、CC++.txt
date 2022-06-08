@@ -1,0 +1,1 @@
+{'company_name': '东南大学苏州医疗器械研究院', 'job_name': '软件工程师Python、CC++', 'geography': '苏州-高新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/119512198.html?rc=03'}

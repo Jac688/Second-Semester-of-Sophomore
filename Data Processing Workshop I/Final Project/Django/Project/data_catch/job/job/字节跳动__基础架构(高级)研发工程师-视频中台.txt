@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '基础架构(高级)研发工程师-视频中台', 'geography': '杭州', 'bonus': ['六险一金', '高薪期权', '弹性工作', '免费三餐'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/119145629.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海迪飞医学检验实验室有限公司', 'job_name': '生信工程师', 'geography': '南京-浦口区', 'bonus': ['五险一金', '专业培训', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131819786.html?rc=03'}

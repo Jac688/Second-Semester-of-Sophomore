@@ -1,0 +1,1 @@
+{'company_name': '哈尔滨工业大学软件工程股份有限公司', 'job_name': 'Java开发工程师', 'geography': '哈尔滨', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/harbin/107681505.html?rc=03'}

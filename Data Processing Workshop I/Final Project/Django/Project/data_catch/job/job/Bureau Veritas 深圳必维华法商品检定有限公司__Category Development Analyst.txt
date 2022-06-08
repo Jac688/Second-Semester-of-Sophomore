@@ -1,0 +1,1 @@
+{'company_name': 'Bureau Veritas 深圳必维华法商品检定有限公司', 'job_name': 'Category Development Analyst', 'geography': '深圳', 'bonus': ['五险一金', '补充公积金', '补充医疗保险', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131696300.html?rc=03'}

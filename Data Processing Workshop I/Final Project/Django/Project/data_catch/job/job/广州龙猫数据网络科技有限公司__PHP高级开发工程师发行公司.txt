@@ -1,0 +1,1 @@
+{'company_name': '广州龙猫数据网络科技有限公司', 'job_name': 'PHP高级开发工程师发行公司', 'geography': '广州-天河区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127170010.html?rc=03'}

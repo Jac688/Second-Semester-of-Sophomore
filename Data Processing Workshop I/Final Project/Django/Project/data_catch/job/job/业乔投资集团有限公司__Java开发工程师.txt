@@ -1,0 +1,1 @@
+{'company_name': '业乔投资集团有限公司', 'job_name': 'Java开发工程师', 'geography': '沈阳-沈河区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenyang/110894639.html?rc=03'}

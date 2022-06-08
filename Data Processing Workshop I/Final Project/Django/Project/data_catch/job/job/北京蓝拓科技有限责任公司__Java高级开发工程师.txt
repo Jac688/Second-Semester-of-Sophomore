@@ -1,0 +1,1 @@
+{'company_name': '北京蓝拓科技有限责任公司', 'job_name': 'Java高级开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '年终奖金', '周末双休'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/117886340.html?rc=03'}

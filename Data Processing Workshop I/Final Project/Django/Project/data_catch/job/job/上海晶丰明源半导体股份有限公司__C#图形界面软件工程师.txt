@@ -1,0 +1,1 @@
+{'company_name': '上海晶丰明源半导体股份有限公司', 'job_name': 'C#图形界面软件工程师', 'geography': '杭州', 'bonus': ['五险一金', '补充公积金', '员工旅游', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/125442331.html?rc=03'}

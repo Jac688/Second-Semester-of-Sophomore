@@ -1,0 +1,1 @@
+{'company_name': '南京图图令科技有限公司', 'job_name': '中高级C++开发工程师', 'geography': '南京-雨花台区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128510463.html?rc=03'}

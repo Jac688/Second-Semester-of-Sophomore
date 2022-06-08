@@ -1,0 +1,1 @@
+{'company_name': '中科软科技股份有限公司', 'job_name': 'C#.Net&PHP开发工程师', 'geography': '北京-西城区', 'bonus': ['餐饮补贴', '通讯补贴', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129791365.html?rc=03'}

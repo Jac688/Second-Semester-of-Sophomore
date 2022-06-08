@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后端开发工程师-外包', 'geography': '北京', 'bonus': ['下午茶', '五险一金', '团队氛围好'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126187562.html?rc=03'}

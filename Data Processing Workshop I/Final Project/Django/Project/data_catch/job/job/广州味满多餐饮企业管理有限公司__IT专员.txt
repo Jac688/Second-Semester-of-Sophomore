@@ -1,0 +1,1 @@
+{'company_name': '广州味满多餐饮企业管理有限公司', 'job_name': 'IT专员', 'geography': '广州-海珠区', 'bonus': ['五险一金', '年终奖金', '通讯补贴', '专业培训'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125999785.html?rc=03'}

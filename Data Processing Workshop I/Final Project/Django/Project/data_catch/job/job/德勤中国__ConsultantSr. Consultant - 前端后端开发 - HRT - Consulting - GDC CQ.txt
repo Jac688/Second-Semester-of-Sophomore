@@ -1,0 +1,1 @@
+{'company_name': '德勤中国', 'job_name': 'ConsultantSr. Consultant - 前端后端开发 - HRT - Consulting - GDC CQ', 'geography': '重庆', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129688838.html?rc=03'}

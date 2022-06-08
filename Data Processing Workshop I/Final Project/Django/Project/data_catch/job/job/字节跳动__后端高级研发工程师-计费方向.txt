@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后端高级研发工程师-计费方向', 'geography': '杭州', 'bonus': ['下午茶', '六险一金', '扁平管理', '弹性工作'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132030552.html?rc=03'}

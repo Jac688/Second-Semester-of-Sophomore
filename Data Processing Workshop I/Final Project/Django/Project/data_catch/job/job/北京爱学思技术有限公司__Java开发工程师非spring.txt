@@ -1,0 +1,1 @@
+{'company_name': '北京爱学思技术有限公司', 'job_name': 'Java开发工程师非spring', 'geography': '西安-高新技术产业开发区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xian/128755464.html?rc=03'}

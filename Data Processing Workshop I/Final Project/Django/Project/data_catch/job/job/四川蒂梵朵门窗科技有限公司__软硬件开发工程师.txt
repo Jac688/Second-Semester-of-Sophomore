@@ -1,0 +1,1 @@
+{'company_name': '四川蒂梵朵门窗科技有限公司', 'job_name': '软硬件开发工程师', 'geography': '德阳', 'bonus': ['免费班车', '节日福利', '餐饮补贴', '专业培训'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/deyang/122654239.html?rc=03'}

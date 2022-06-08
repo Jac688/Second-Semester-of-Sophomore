@@ -1,0 +1,1 @@
+{'company_name': '天津国民健康技术有限公司', 'job_name': 'Java技术专家SAAS业务背景', 'geography': '上海-闵行区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '通讯补贴'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132023019.html?rc=03'}

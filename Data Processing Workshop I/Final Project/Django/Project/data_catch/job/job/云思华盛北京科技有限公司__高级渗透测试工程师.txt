@@ -1,0 +1,1 @@
+{'company_name': '云思华盛北京科技有限公司', 'job_name': '高级渗透测试工程师', 'geography': '成都-武侯区', 'bonus': ['周末双休', '带薪年假', '做五休二', '五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129542402.html?rc=03'}

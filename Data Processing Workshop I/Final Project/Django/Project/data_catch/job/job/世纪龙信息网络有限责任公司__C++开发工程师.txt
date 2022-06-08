@@ -1,0 +1,1 @@
+{'company_name': '世纪龙信息网络有限责任公司', 'job_name': 'C++开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130005118.html?rc=03'}

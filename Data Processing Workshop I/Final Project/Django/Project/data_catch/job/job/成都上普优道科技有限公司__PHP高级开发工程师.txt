@@ -1,0 +1,1 @@
+{'company_name': '成都上普优道科技有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '成都-高新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130717458.html?rc=03'}

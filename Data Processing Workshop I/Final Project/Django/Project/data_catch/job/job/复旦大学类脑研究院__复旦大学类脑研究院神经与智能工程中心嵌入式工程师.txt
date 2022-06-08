@@ -1,0 +1,1 @@
+{'company_name': '复旦大学类脑研究院', 'job_name': '复旦大学类脑研究院神经与智能工程中心嵌入式工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '专业培训', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123038798.html?rc=03'}

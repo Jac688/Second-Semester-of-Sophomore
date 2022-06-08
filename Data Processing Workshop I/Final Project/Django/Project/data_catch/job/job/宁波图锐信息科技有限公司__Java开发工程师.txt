@@ -1,0 +1,1 @@
+{'company_name': '宁波图锐信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '宁波', 'bonus': ['周末双休', '五险一金', '绩效奖金', '近地铁口'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130559673.html?rc=03'}

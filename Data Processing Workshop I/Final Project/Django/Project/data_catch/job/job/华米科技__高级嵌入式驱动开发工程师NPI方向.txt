@@ -1,0 +1,1 @@
+{'company_name': '华米科技', 'job_name': '高级嵌入式驱动开发工程师NPI方向', 'geography': '深圳-南山区', 'bonus': ['周末双休', '弹性工作', '带薪年假', '免费班车'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132052402.html?rc=03'}

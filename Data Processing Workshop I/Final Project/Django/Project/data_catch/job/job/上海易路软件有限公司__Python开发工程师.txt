@@ -1,0 +1,1 @@
+{'company_name': '上海易路软件有限公司', 'job_name': 'Python开发工程师', 'geography': '上海-闵行区', 'bonus': ['大牛带队', '准独角兽企业', '租房补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124897870.html?rc=03'}

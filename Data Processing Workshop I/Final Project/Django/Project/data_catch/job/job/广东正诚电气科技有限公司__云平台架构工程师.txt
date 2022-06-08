@@ -1,0 +1,1 @@
+{'company_name': '广东正诚电气科技有限公司', 'job_name': '云平台架构工程师', 'geography': '汕头', 'bonus': ['社保医保', '全勤奖', '节日福利'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shantou/130446050.html?rc=03'}

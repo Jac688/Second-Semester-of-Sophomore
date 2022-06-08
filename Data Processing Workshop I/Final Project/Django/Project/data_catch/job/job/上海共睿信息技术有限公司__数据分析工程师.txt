@@ -1,0 +1,1 @@
+{'company_name': '上海共睿信息技术有限公司', 'job_name': '数据分析工程师', 'geography': '宁波', 'bonus': ['五险一金', '员工旅游', '不加班', '年底双薪'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125886975.html?rc=03'}

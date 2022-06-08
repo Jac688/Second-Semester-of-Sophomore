@@ -1,0 +1,1 @@
+{'company_name': '卓望数码技术深圳有限公司', 'job_name': '数据开发工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131327846.html?rc=03'}

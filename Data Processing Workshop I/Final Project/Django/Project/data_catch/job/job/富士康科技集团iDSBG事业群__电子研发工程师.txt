@@ -1,0 +1,1 @@
+{'company_name': '富士康科技集团iDSBG事业群', 'job_name': '电子研发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '定期体检', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/121578527.html?rc=03'}

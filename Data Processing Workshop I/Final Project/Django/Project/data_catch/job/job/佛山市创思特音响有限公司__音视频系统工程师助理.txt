@@ -1,0 +1,1 @@
+{'company_name': '佛山市创思特音响有限公司', 'job_name': '音视频系统工程师助理', 'geography': '佛山', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/132317324.html?rc=03'}

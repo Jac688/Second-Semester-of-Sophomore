@@ -1,0 +1,1 @@
+{'company_name': '安徽能赢教育咨询有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-浦东新区', 'bonus': ['做五休二', '五险一金', '节日福利', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130372192.html?rc=03'}

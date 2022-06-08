@@ -1,0 +1,1 @@
+{'company_name': '国家电投集团数字科技有限公司', 'job_name': '渗透测试高级工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/130412399.html?rc=03'}

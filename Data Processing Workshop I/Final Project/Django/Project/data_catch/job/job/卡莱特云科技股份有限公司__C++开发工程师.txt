@@ -1,0 +1,1 @@
+{'company_name': '卡莱特云科技股份有限公司', 'job_name': 'C++开发工程师', 'geography': '西安-高新技术产业开发区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xian/126716200.html?rc=03'}

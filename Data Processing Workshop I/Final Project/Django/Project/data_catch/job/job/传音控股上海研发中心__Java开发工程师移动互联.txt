@@ -1,0 +1,1 @@
+{'company_name': '传音控股上海研发中心', 'job_name': 'Java开发工程师移动互联', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128833456.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川生活家家居集团有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-锦江区', 'bonus': ['定期体检', '超长春节假', '入职购买社保', '节日随机红包'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131330735.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广西南宁佳凯智能技术有限公司', 'job_name': 'Java高级开发工程师', 'geography': '南宁', 'bonus': ['定期体检', '弹性工作', '年终奖金', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanning/125615105.html?rc=03'}

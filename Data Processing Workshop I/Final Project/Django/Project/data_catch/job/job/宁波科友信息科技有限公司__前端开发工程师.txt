@@ -1,0 +1,1 @@
+{'company_name': '宁波科友信息科技有限公司', 'job_name': '前端开发工程师', 'geography': '上海-黄浦区', 'bonus': ['周末双休', '带薪年假', '团队年轻', '出国机会'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130889740.html?rc=03'}

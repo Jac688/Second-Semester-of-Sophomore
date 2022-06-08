@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后台开发工程师-飞书', 'geography': '杭州', 'bonus': ['六险一金', '股票期权', '团队氛围好', '扁平管理'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128223737.html?rc=03'}

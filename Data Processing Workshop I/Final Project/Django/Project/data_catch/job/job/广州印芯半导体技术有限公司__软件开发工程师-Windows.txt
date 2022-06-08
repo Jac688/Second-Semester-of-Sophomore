@@ -1,0 +1,1 @@
+{'company_name': '广州印芯半导体技术有限公司', 'job_name': '软件开发工程师-Windows', 'geography': '广州-黄埔区', 'bonus': ['周末双休', '弹性工作', '五险一金', '带薪年假'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131015865.html?rc=03'}

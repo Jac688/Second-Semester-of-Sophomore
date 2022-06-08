@@ -1,0 +1,1 @@
+{'company_name': '上海安和精密电子电器股份有限公司', 'job_name': '资深Linux驱动开发工程师', 'geography': '上海-青浦区', 'bonus': ['带薪年假', '年底双薪', '包吃', '五险'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131028897.html?rc=03'}

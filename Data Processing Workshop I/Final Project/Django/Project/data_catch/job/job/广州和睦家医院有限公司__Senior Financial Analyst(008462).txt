@@ -1,0 +1,1 @@
+{'company_name': '广州和睦家医院有限公司', 'job_name': 'Senior Financial Analyst(008462)', 'geography': '广州-海珠区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130514331.html?rc=03'}

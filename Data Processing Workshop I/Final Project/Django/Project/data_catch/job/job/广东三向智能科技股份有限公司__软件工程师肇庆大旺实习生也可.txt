@@ -1,0 +1,1 @@
+{'company_name': '广东三向智能科技股份有限公司', 'job_name': '软件工程师肇庆大旺实习生也可', 'geography': '肇庆', 'bonus': ['全勤奖', '五险', '工龄奖', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/zhaoqing/129478263.html?rc=03'}

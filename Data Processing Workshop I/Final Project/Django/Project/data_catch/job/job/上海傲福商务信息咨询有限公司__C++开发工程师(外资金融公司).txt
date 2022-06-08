@@ -1,0 +1,1 @@
+{'company_name': '上海傲福商务信息咨询有限公司', 'job_name': 'C++开发工程师(外资金融公司)', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '弹性工作', '绩效奖金', '年终奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131828096.html?rc=03'}

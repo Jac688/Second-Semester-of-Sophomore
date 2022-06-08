@@ -1,0 +1,1 @@
+{'company_name': '广州深海软件股份有限公司', 'job_name': 'PHP开发工程师-2021届校招', 'geography': '广州-天河区', 'bonus': ['五险一金', '定期体检', '年终双薪', '全勤奖'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129723601.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东汇景湾投资发展有限公司', 'job_name': 'JAVA后端开发', 'geography': '江门', 'bonus': ['专业培训', '节日福利', '社保', '包工作餐'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/jiangmen/127609942.html?rc=03'}

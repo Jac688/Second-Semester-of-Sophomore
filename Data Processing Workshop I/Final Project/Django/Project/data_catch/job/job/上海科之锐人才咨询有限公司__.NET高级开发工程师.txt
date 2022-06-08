@@ -1,0 +1,1 @@
+{'company_name': '上海科之锐人才咨询有限公司', 'job_name': '.NET高级开发工程师', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129571088.html?rc=03'}

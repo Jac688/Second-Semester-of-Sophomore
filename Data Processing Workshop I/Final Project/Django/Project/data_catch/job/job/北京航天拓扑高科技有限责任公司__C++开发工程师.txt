@@ -1,0 +1,1 @@
+{'company_name': '北京航天拓扑高科技有限责任公司', 'job_name': 'C++开发工程师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/122295103.html?rc=03'}

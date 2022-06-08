@@ -1,0 +1,1 @@
+{'company_name': '成都云鹄知乎科技有限公司', 'job_name': '高级软件工程师', 'geography': '成都-青羊区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128918393.html?rc=03'}

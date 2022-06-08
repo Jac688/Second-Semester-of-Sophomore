@@ -1,0 +1,1 @@
+{'company_name': '北京文香信息技术有限公司', 'job_name': 'C++开发工程师高教项目开发', 'geography': '北京-大兴区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127425331.html?rc=03'}

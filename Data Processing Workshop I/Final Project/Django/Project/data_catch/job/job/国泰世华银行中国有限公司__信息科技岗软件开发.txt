@@ -1,0 +1,1 @@
+{'company_name': '国泰世华银行中国有限公司', 'job_name': '信息科技岗软件开发', 'geography': '上海', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130818959.html?rc=03'}

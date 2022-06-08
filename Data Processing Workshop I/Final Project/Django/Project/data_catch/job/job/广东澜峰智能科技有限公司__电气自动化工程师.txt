@@ -1,0 +1,1 @@
+{'company_name': '广东澜峰智能科技有限公司', 'job_name': '电气自动化工程师', 'geography': '佛山-南海区', 'bonus': ['五险一金', '包吃住', '年终奖金', '补充医疗保险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129777009.html?rc=03'}

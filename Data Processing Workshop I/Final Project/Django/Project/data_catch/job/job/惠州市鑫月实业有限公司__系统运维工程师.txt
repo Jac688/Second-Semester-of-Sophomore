@@ -1,0 +1,1 @@
+{'company_name': '惠州市鑫月实业有限公司', 'job_name': '系统运维工程师', 'geography': '惠州', 'bonus': ['五险一金', '包吃', '节日福利', '年终奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/132083925.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州安正软件有限公司', 'job_name': 'JAVA开发工程师北京', 'geography': '北京-东城区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128538879.html?rc=03'}

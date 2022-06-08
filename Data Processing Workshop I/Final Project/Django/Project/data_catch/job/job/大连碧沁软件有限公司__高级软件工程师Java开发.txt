@@ -1,0 +1,1 @@
+{'company_name': '大连碧沁软件有限公司', 'job_name': '高级软件工程师Java开发', 'geography': '大连', 'bonus': ['五险一金', '定期体检', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dalian/121227449.html?rc=03'}

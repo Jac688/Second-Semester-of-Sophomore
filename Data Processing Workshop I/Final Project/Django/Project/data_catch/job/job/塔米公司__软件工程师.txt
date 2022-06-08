@@ -1,0 +1,1 @@
+{'company_name': '塔米公司', 'job_name': '软件工程师', 'geography': '昆山', 'bonus': ['五险一金', '员工旅游', '绩效奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/123008602.html?rc=03'}

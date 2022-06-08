@@ -1,0 +1,1 @@
+{'company_name': '中国金谷国际信托有限责任公司', 'job_name': '信息科技岗3', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130640763.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州海格通信集团股份有限公司', 'job_name': '嵌入式软件协议软件设计师研究院成都研究所', 'geography': '成都-武侯区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131196908.html?rc=03'}

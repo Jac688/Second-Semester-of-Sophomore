@@ -1,0 +1,1 @@
+{'company_name': '佛山市宜所智能科技有限公司', 'job_name': '物联网平台高级后端开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131803591.html?rc=03'}

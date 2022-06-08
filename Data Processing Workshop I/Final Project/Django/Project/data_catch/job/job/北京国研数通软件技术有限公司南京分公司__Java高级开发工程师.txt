@@ -1,0 +1,1 @@
+{'company_name': '北京国研数通软件技术有限公司南京分公司', 'job_name': 'Java高级开发工程师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '年终奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/122604325.html?rc=03'}

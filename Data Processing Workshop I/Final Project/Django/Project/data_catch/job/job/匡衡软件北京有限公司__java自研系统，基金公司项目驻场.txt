@@ -1,0 +1,1 @@
+{'company_name': '匡衡软件北京有限公司', 'job_name': 'java自研系统，基金公司项目驻场', 'geography': '北京-顺义区', 'bonus': ['五险一金', '通讯补贴', '年终奖金', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131320513.html?rc=03'}

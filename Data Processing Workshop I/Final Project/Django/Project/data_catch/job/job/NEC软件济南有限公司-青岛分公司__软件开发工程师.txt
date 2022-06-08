@@ -1,0 +1,1 @@
+{'company_name': 'NEC软件济南有限公司-青岛分公司', 'job_name': '软件开发工程师', 'geography': '青岛-崂山区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/125297235.html?rc=03'}

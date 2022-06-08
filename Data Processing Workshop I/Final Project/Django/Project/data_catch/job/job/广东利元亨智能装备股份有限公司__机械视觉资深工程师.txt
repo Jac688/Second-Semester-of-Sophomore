@@ -1,0 +1,1 @@
+{'company_name': '广东利元亨智能装备股份有限公司', 'job_name': '机械视觉资深工程师', 'geography': '异地招聘', 'bonus': ['包吃', '包住', '五险一金', '免费班车'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130864758.html?rc=03'}

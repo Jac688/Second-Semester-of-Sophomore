@@ -1,0 +1,1 @@
+{'company_name': '喜士多便利店C-STORE-零售业-连锁', 'job_name': 'Java  开发', 'geography': '上海-静安区', 'bonus': ['五险一金', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/105299295.html?rc=03'}

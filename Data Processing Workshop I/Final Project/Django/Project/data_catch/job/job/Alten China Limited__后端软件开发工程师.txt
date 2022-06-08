@@ -1,0 +1,1 @@
+{'company_name': 'Alten China Limited', 'job_name': '后端软件开发工程师', 'geography': '上海-杨浦区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131673325.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '优趣汇', 'job_name': '数据营销项目经理(PM)', 'geography': '杭州-江干区', 'bonus': ['定期体检', '员工旅游', '周末双休', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127142125.html?rc=03'}

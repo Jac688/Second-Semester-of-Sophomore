@@ -1,0 +1,1 @@
+{'company_name': '东方微银科技股份有限公司', 'job_name': '技术经理济南', 'geography': '济南-市中区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/128995302.html?rc=03'}

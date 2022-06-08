@@ -1,0 +1,1 @@
+{'company_name': '南京上古网络科技有限公司', 'job_name': 'Java开发工程师', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '周末双休', '节日福利', '带薪年假'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/128467535.html?rc=03'}

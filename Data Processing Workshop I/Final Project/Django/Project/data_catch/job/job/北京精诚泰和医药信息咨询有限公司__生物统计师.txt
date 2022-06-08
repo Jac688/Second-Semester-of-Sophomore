@@ -1,0 +1,1 @@
+{'company_name': '北京精诚泰和医药信息咨询有限公司', 'job_name': '生物统计师', 'geography': '北京', 'bonus': ['五险一金', '通讯补贴', '交通补贴', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/119262898.html?rc=03'}

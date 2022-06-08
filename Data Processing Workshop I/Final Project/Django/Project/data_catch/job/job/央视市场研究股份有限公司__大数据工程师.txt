@@ -1,0 +1,1 @@
+{'company_name': '央视市场研究股份有限公司', 'job_name': '大数据工程师', 'geography': '北京-西城区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131551137.html?rc=03'}

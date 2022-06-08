@@ -1,0 +1,1 @@
+{'company_name': '八方电气(苏州)股份有限公司', 'job_name': 'BMS及上位机软件工程师', 'geography': '苏州', 'bonus': ['五险一金', '餐饮补贴', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/119043297.html?rc=03'}

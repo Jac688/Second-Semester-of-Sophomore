@@ -1,0 +1,1 @@
+{'company_name': '大连阿尔泰克信息技术有限公司', 'job_name': '日语Java开发工程师', 'geography': '重庆-沙坪坝区', 'bonus': ['专业培训', '五险一金', '试用期全额', '外企'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/123475628.html?rc=03'}

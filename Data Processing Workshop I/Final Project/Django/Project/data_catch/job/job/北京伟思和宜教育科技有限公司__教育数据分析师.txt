@@ -1,0 +1,1 @@
+{'company_name': '北京伟思和宜教育科技有限公司', 'job_name': '教育数据分析师', 'geography': '北京-石景山区', 'bonus': ['五险一金', '绩效奖金', '成长空间大'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130700333.html?rc=03'}

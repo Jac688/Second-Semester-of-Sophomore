@@ -1,0 +1,1 @@
+{'company_name': '厦门宏发电声股份有限公司', 'job_name': 'JAVA工程师', 'geography': '厦门-集美区', 'bonus': ['带薪年假', '免费班车', '包住宿', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/130625821.html?rc=03'}

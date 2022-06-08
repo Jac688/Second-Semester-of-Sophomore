@@ -1,0 +1,1 @@
+{'company_name': '北京长地万方科技有限公司', 'job_name': '百度地图PHP研发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132185087.html?rc=03'}

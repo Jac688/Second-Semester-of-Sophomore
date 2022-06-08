@@ -1,0 +1,1 @@
+{'company_name': '佛山市鲸愉科技有限公司', 'job_name': '前端开发工程师', 'geography': '佛山-禅城区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129277461.html?rc=03'}

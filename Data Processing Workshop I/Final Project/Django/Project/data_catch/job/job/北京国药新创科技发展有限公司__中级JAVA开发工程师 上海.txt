@@ -1,0 +1,1 @@
+{'company_name': '北京国药新创科技发展有限公司', 'job_name': '中级JAVA开发工程师 上海', 'geography': '上海-宝山区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123756188.html?rc=03'}

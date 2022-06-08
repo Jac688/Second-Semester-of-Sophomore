@@ -1,0 +1,1 @@
+{'company_name': '华夏弘康北京国际心理健康咨询有限公司', 'job_name': '前端工程师', 'geography': '北京-石景山区', 'bonus': ['五险'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126209990.html?rc=03'}

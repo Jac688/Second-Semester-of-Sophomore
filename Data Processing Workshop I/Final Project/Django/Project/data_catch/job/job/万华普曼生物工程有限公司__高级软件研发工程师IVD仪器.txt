@@ -1,0 +1,1 @@
+{'company_name': '万华普曼生物工程有限公司', 'job_name': '高级软件研发工程师IVD仪器', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '绩效奖金', '出国机会', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/105045509.html?rc=03'}

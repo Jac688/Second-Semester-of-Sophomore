@@ -1,0 +1,1 @@
+{'company_name': '广东快商科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-海珠区', 'bonus': ['大小周工作制', '全勤奖', '社保五险', '带薪年假'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122328341.html?rc=03'}

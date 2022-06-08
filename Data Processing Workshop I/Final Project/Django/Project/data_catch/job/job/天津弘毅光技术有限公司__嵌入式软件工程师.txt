@@ -1,0 +1,1 @@
+{'company_name': '天津弘毅光技术有限公司', 'job_name': '嵌入式软件工程师', 'geography': '天津-津南区', 'bonus': ['通讯补贴', '餐饮补贴', '交通补贴', '年终奖金'], 'salary': 0.16666666666666666, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129003301.html?rc=03'}

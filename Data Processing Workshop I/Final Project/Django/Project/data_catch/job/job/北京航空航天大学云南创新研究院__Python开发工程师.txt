@@ -1,0 +1,1 @@
+{'company_name': '北京航空航天大学云南创新研究院', 'job_name': 'Python开发工程师', 'geography': '昆明-盘龙区', 'bonus': ['五险一金', '做五休二', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/kunming/130280345.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '大家智合(北京)网络科技股份有限公司', 'job_name': '高级java开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '周末双休'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132260731.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '佛山市中运软件有限公司', 'job_name': 'C++开发工程师', 'geography': '佛山-禅城区', 'bonus': ['社会保险', '意外保险', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/127229914.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '东方时尚驾驶学校股份有限公司', 'job_name': '软件开发', 'geography': '北京-大兴区', 'bonus': ['免费班车', '节日福利', '带薪年假', '全勤奖'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129791103.html?rc=03'}

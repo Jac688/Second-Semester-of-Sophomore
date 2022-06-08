@@ -1,0 +1,1 @@
+{'company_name': '好买财富管理股份有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '年终奖金', '定期体检', '补充医疗保险'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131013567.html?rc=03'}

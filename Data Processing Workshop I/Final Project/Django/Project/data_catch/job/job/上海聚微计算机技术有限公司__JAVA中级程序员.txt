@@ -1,0 +1,1 @@
+{'company_name': '上海聚微计算机技术有限公司', 'job_name': 'JAVA中级程序员', 'geography': '南宁', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/130693301.html?rc=03'}

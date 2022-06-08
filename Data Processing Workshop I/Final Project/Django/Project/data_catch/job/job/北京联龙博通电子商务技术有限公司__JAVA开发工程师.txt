@@ -1,0 +1,1 @@
+{'company_name': '北京联龙博通电子商务技术有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124877379.html?rc=03'}

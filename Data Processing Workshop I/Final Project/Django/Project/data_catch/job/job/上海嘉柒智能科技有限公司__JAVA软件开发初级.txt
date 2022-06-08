@@ -1,0 +1,1 @@
+{'company_name': '上海嘉柒智能科技有限公司', 'job_name': 'JAVA软件开发初级', 'geography': '上海', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128740982.html?rc=03'}

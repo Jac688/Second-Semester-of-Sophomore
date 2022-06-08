@@ -1,0 +1,1 @@
+{'company_name': '中国电信股份有限公司上海分公司', 'job_name': '高级JAVA开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132215956.html?rc=03'}

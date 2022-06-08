@@ -1,0 +1,1 @@
+{'company_name': '久心医疗科技苏州有限公司', 'job_name': 'JAVA开发工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '交通补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/126146352.html?rc=03'}

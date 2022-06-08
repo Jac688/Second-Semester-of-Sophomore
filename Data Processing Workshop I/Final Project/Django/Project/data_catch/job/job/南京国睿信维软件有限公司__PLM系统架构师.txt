@@ -1,0 +1,1 @@
+{'company_name': '南京国睿信维软件有限公司', 'job_name': 'PLM系统架构师', 'geography': '成都', 'bonus': ['周末双休', '五险一金', '带薪年假', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131773985.html?rc=03'}

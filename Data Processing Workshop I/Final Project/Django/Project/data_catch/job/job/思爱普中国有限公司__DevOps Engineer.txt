@@ -1,0 +1,1 @@
+{'company_name': '思爱普中国有限公司', 'job_name': 'DevOps Engineer', 'geography': '成都-高新区', 'bonus': ['专业培训', '定期体检', '五险一金', '补充医疗保险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128713514.html?rc=03'}

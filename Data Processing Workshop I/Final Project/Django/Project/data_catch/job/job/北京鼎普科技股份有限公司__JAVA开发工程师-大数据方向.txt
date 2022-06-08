@@ -1,0 +1,1 @@
+{'company_name': '北京鼎普科技股份有限公司', 'job_name': 'JAVA开发工程师-大数据方向', 'geography': '北京', 'bonus': ['五险一金', '周末双休', '弹性工作', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129141414.html?rc=03'}

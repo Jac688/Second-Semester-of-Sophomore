@@ -1,0 +1,1 @@
+{'company_name': '上海揆安网络科技有限公司', 'job_name': '安全产品经理', 'geography': '上海-徐汇区', 'bonus': ['弹性工作', '员工旅游', '技术大牛', '年假十天'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127482105.html?rc=03'}

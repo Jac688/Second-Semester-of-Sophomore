@@ -1,0 +1,1 @@
+{'company_name': '上海世沃信息科技有限公司', 'job_name': 'C++开发工程师', 'geography': '上海-徐汇区', 'bonus': ['做五休二', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130411206.html?rc=03'}

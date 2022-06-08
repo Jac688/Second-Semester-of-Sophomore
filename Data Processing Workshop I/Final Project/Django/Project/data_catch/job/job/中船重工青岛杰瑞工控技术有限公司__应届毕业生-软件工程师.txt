@@ -1,0 +1,1 @@
+{'company_name': '中船重工青岛杰瑞工控技术有限公司', 'job_name': '应届毕业生-软件工程师', 'geography': '青岛', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/126282639.html?rc=03'}

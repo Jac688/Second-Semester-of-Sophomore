@@ -1,0 +1,1 @@
+{'company_name': '公司总部', 'job_name': '视觉算法工程师大数据和AI中心', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131090098.html?rc=03'}

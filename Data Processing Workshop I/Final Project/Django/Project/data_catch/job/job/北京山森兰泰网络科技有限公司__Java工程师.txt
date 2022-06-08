@@ -1,0 +1,1 @@
+{'company_name': '北京山森兰泰网络科技有限公司', 'job_name': 'Java工程师', 'geography': '北京-大兴区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132115342.html?rc=03'}

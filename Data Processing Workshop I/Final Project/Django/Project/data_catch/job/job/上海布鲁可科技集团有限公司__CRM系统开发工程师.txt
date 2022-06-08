@@ -1,0 +1,1 @@
+{'company_name': '上海布鲁可科技集团有限公司', 'job_name': 'CRM系统开发工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125379026.html?rc=03'}

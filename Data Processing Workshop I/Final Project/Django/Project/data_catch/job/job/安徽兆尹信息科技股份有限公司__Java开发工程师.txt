@@ -1,0 +1,1 @@
+{'company_name': '安徽兆尹信息科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '北京', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130113085.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东广宇科技发展有限公司', 'job_name': '大数据开发工程师', 'geography': '佛山-南海区', 'bonus': ['员工旅游', '专业培训', '年终奖金', '绩效奖金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/foshan/123460878.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海祺科信息工程有限公司', 'job_name': 'Java技术经理', 'geography': '上海-闵行区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/102952862.html?rc=03'}

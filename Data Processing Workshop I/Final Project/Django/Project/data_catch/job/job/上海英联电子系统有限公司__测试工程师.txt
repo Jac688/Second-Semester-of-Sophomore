@@ -1,0 +1,1 @@
+{'company_name': '上海英联电子系统有限公司', 'job_name': '测试工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123100439.html?rc=03'}

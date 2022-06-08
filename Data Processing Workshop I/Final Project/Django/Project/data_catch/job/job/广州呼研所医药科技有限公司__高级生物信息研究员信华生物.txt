@@ -1,0 +1,1 @@
+{'company_name': '广州呼研所医药科技有限公司', 'job_name': '高级生物信息研究员信华生物', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '午餐', '员工宿舍'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125163048.html?rc=03'}

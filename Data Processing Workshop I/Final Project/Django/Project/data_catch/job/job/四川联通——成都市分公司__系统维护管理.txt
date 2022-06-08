@@ -1,0 +1,1 @@
+{'company_name': '四川联通——成都市分公司', 'job_name': '系统维护管理', 'geography': '成都', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129450522.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '伊维氏传动系统平湖有限公司', 'job_name': 'CAE Engineer', 'geography': '上海-闵行区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129160681.html?rc=03'}

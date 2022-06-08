@@ -1,0 +1,1 @@
+{'company_name': '南京乾能信息工程有限公司', 'job_name': 'Java后端开发', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/118681445.html?rc=03'}

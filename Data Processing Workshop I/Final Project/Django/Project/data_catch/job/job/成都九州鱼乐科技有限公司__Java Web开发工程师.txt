@@ -1,0 +1,1 @@
+{'company_name': '成都九州鱼乐科技有限公司', 'job_name': 'Java Web开发工程师', 'geography': '成都-高新区', 'bonus': ['做五休二', '周末双休', '弹性工作', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130262690.html?rc=03'}

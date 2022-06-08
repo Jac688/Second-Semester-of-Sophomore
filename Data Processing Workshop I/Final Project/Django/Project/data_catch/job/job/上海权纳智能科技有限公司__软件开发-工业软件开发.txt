@@ -1,0 +1,1 @@
+{'company_name': '上海权纳智能科技有限公司', 'job_name': '软件开发-工业软件开发', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '重大项目奖励'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/85460395.html?rc=03'}

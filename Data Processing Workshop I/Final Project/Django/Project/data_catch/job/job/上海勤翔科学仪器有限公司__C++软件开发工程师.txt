@@ -1,0 +1,1 @@
+{'company_name': '上海勤翔科学仪器有限公司', 'job_name': 'C++软件开发工程师', 'geography': '上海-宝山区', 'bonus': ['五险一金', '员工旅游', '专业培训', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130399139.html?rc=03'}

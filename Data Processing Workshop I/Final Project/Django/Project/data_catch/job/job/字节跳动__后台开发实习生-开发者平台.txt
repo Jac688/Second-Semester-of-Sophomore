@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后台开发实习生-开发者平台', 'geography': '深圳', 'bonus': ['下午茶', '扁平管理', '健身瑜伽', '免费三餐'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/121793204.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国电信广西公司', 'job_name': 'IT支撑崇左分公司', 'geography': '崇左', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chongzuo/129231766.html?rc=03'}

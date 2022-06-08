@@ -1,0 +1,1 @@
+{'company_name': '北京东方逸腾数码医疗设备技术有限公司', 'job_name': '生物医学信号处理算法工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128936679.html?rc=03'}

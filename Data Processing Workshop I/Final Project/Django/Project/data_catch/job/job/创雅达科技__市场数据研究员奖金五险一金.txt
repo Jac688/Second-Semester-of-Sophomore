@@ -1,0 +1,1 @@
+{'company_name': '创雅达科技', 'job_name': '市场数据研究员奖金五险一金', 'geography': '成都-青羊区', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126951196.html?rc=03'}

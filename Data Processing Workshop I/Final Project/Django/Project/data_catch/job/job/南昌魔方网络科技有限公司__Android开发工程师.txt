@@ -1,0 +1,1 @@
+{'company_name': '南昌魔方网络科技有限公司', 'job_name': 'Android开发工程师', 'geography': '南昌-南昌县', 'bonus': ['专业培训', '全勤奖', '节假日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/132292207.html?rc=03'}

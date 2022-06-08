@@ -1,0 +1,1 @@
+{'company_name': '上海二三四五网络科技有限公司', 'job_name': '资深C++开发经理(J12397)', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '免费自助早餐'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128162673.html?rc=03'}

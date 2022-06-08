@@ -1,0 +1,1 @@
+{'company_name': '域鑫科技惠州有限公司', 'job_name': '软件工程师', 'geography': '惠州', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/91040805.html?rc=03'}

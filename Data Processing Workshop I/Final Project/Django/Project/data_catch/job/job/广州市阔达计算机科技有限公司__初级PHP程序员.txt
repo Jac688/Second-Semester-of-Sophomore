@@ -1,0 +1,1 @@
+{'company_name': '广州市阔达计算机科技有限公司', 'job_name': '初级PHP程序员', 'geography': '广州-海珠区', 'bonus': ['五险一金', '专业培训', '弹性工作', '周末双休'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130905832.html?rc=03'}

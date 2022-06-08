@@ -1,0 +1,1 @@
+{'company_name': '中国光大银行福州分行', 'job_name': '福州分行-金融科技人员', 'geography': '福州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/130884201.html?rc=03'}

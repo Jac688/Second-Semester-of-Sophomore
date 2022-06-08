@@ -1,0 +1,1 @@
+{'company_name': '广州金川文化有限公司', 'job_name': '绑定TD', 'geography': '广州', 'bonus': ['五险一金', '绩效奖金', '周末双休'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125894030.html?rc=03'}

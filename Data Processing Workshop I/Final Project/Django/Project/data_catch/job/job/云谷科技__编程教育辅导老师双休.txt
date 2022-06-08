@@ -1,0 +1,1 @@
+{'company_name': '云谷科技', 'job_name': '编程教育辅导老师双休', 'geography': '成都-青羊区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132126696.html?rc=03'}

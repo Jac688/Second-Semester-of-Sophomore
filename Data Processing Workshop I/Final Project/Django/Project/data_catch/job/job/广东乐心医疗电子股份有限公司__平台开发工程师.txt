@@ -1,0 +1,1 @@
+{'company_name': '广东乐心医疗电子股份有限公司', 'job_name': '平台开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/130621683.html?rc=03'}

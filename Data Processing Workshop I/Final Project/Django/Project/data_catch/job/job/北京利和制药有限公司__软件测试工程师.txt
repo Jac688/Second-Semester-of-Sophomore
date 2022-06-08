@@ -1,0 +1,1 @@
+{'company_name': '北京利和制药有限公司', 'job_name': '软件测试工程师', 'geography': '北京', 'bonus': ['五险一金', '绩效奖金', '发展空间', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128577415.html?rc=03'}

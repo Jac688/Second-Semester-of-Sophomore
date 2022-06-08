@@ -1,0 +1,1 @@
+{'company_name': '大陆汽车研发重庆有限公司', 'job_name': 'System Test Engineer汽车电子系统测试工程师', 'geography': '重庆', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '弹性工作'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/130625893.html?rc=03'}

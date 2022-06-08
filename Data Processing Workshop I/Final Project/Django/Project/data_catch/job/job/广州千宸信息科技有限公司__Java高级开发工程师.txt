@@ -1,0 +1,1 @@
+{'company_name': '广州千宸信息科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '广州-白云区', 'bonus': ['五险一金', '员工旅游', '专业培训', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131281958.html?rc=03'}

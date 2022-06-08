@@ -1,0 +1,1 @@
+{'company_name': '余姚市浙江大学机器人研究中心', 'job_name': '嵌入式软件工程师', 'geography': '宁波-余姚市', 'bonus': ['提供住宿', '年休假', '年终奖金', '缴纳社保'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130424164.html?rc=03'}

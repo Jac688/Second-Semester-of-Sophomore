@@ -1,0 +1,1 @@
+{'company_name': '中电通商数字技术上海有限公司', 'job_name': '医学影像云集成工程师', 'geography': '重庆-渝中区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '弹性工作'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/125651953.html?rc=03'}

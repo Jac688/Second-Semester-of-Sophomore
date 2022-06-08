@@ -1,0 +1,1 @@
+{'company_name': '佛山市比人家居有限公司', 'job_name': '8K-15k电商数据分析师+提', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131290297.html?rc=03'}

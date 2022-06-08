@@ -1,0 +1,1 @@
+{'company_name': '宁波汇知电子信息有限公司', 'job_name': '高级嵌入式软件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '弹性工作', '年终奖金', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128725027.html?rc=03'}

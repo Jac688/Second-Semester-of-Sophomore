@@ -1,0 +1,1 @@
+{'company_name': '中石化易捷澳托猫有限公司', 'job_name': 'Java高级开发工程师', 'geography': '杭州-江干区', 'bonus': ['五险一金', '餐饮补贴', '节日福利', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128939772.html?rc=03'}

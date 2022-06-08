@@ -1,0 +1,1 @@
+{'company_name': '厦门隆力德环境技术开发有限公司', 'job_name': '软件工程师', 'geography': '济南-历城区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/124129183.html?rc=03'}

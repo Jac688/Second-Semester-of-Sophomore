@@ -1,0 +1,1 @@
+{'company_name': '先临三维科技股份有限公司', 'job_name': '算法工程师图形+AI', 'geography': '成都-锦江区', 'bonus': ['餐饮补贴', '交通补贴', '年终奖金', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130791505.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东顺畅科技有限公司', 'job_name': '软件开发工程师(python)', 'geography': '江门', 'bonus': ['面谈', '周末双休', '带薪年假', '节日福利'], 'salary': 0.42, 'detail_url': 'https://msearch.51job.com/jobs/jiangmen/127503000.html?rc=03'}

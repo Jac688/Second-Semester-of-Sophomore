@@ -1,0 +1,1 @@
+{'company_name': '上海欧感电气技术有限公司', 'job_name': '软件编程工程师', 'geography': '上海-松江区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '包吃'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126479568.html?rc=03'}

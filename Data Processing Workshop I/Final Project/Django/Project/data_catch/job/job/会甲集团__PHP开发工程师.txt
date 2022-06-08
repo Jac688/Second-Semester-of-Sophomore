@@ -1,0 +1,1 @@
+{'company_name': '会甲集团', 'job_name': 'PHP开发工程师', 'geography': '上海-长宁区', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '节日福利'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125882076.html?rc=03'}

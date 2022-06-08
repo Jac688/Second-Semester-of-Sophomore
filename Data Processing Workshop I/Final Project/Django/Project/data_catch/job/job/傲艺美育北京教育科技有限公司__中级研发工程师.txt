@@ -1,0 +1,1 @@
+{'company_name': '傲艺美育北京教育科技有限公司', 'job_name': '中级研发工程师', 'geography': '天津-西青区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131681553.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '三盟科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '济南', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '带薪年假'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130526247.html?rc=03'}

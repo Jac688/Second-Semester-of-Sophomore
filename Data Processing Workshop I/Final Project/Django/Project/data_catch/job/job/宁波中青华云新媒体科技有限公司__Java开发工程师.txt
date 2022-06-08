@@ -1,0 +1,1 @@
+{'company_name': '宁波中青华云新媒体科技有限公司', 'job_name': 'Java开发工程师', 'geography': '宁波', 'bonus': ['五险一金', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130545777.html?rc=03'}

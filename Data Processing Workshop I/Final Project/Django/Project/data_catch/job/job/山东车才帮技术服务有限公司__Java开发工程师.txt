@@ -1,0 +1,1 @@
+{'company_name': '山东车才帮技术服务有限公司', 'job_name': 'Java开发工程师', 'geography': '济南-槐荫区', 'bonus': ['五险一金', '周末双休', '员工餐厅', '定期体检'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/128610843.html?rc=03'}

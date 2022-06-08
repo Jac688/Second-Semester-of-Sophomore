@@ -1,0 +1,1 @@
+{'company_name': '中科软科技股份有限公司', 'job_name': 'JAVA开发', 'geography': '北京-丰台区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129953268.html?rc=03'}

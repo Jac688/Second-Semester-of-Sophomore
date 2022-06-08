@@ -1,0 +1,1 @@
+{'company_name': 'AAC Technologies Holdings Inc.', 'job_name': '音频算法工程师机器学习方向', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130930731.html?rc=03'}

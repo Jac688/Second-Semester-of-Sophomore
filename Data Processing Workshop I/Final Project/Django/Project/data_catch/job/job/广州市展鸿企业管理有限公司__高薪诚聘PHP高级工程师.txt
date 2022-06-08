@@ -1,0 +1,1 @@
+{'company_name': '广州市展鸿企业管理有限公司', 'job_name': '高薪诚聘PHP高级工程师', 'geography': '郑州-金水区', 'bonus': ['五险一金', '餐饮补贴', '房补', '交通补'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/zhengzhou/132352742.html?rc=03'}

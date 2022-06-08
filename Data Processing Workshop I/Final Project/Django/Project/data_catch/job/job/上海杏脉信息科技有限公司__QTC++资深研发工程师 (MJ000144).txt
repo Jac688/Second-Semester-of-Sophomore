@@ -1,0 +1,1 @@
+{'company_name': '上海杏脉信息科技有限公司', 'job_name': 'QTC++资深研发工程师 (MJ000144)', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130177467.html?rc=03'}

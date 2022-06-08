@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '中台架构高级资深研发工程师-抖音', 'geography': '北京', 'bonus': ['六险一金', '租房补贴', '股票期权', '下午茶'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131692755.html?rc=03'}

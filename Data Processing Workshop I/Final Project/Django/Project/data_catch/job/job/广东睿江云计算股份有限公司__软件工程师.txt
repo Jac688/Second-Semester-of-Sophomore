@@ -1,0 +1,1 @@
+{'company_name': '广东睿江云计算股份有限公司', 'job_name': '软件工程师', 'geography': '佛山-禅城区', 'bonus': ['专业培训', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/50311687.html?rc=03'}

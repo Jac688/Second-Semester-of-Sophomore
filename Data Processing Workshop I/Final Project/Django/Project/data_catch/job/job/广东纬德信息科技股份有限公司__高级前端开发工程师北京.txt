@@ -1,0 +1,1 @@
+{'company_name': '广东纬德信息科技股份有限公司', 'job_name': '高级前端开发工程师北京', 'geography': '北京', 'bonus': ['做五休二', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131507679.html?rc=03'}

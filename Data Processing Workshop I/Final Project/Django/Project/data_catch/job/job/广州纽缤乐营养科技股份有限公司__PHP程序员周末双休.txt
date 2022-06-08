@@ -1,0 +1,1 @@
+{'company_name': '广州纽缤乐营养科技股份有限公司', 'job_name': 'PHP程序员周末双休', 'geography': '广州-天河区', 'bonus': ['专业培训', '带薪年假', '绩效奖金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123847193.html?rc=03'}

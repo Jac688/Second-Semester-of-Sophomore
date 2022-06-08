@@ -1,0 +1,1 @@
+{'company_name': '广东胜聚信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '无锡-无锡新区', 'bonus': ['周末双休', '弹性工作', '五险一金', '全勤奖'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/131995802.html?rc=03'}

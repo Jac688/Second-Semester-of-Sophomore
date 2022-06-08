@@ -1,0 +1,1 @@
+{'company_name': '南京海泰医疗信息系统有限公司', 'job_name': 'JAVA开发工程师移动端', 'geography': '福州-鼓楼区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '股票期权'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/129244674.html?rc=03'}

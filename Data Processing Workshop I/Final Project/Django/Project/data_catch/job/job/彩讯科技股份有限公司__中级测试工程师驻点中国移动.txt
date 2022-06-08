@@ -1,0 +1,1 @@
+{'company_name': '彩讯科技股份有限公司', 'job_name': '中级测试工程师驻点中国移动', 'geography': '深圳-南山区', 'bonus': ['五险一金', '定期体检', '上市公司', '团建活动'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128210864.html?rc=03'}

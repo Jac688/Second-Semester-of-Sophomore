@@ -1,0 +1,1 @@
+{'company_name': '四川远辰通信科技有限公司', 'job_name': '软件开发师', 'geography': '成都-金牛区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128868212.html?rc=03'}

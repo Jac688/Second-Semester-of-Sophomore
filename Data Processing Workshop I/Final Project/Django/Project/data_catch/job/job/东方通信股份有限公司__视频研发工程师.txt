@@ -1,0 +1,1 @@
+{'company_name': '东方通信股份有限公司', 'job_name': '视频研发工程师', 'geography': '杭州', 'bonus': ['餐饮补贴', '通讯补贴', '年终奖金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/111734991.html?rc=03'}

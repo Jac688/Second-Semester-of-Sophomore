@@ -1,0 +1,1 @@
+{'company_name': '山东蓝力未来信息科技有限公司', 'job_name': 'PLC工程师', 'geography': '济南-历城区', 'bonus': ['五险', '员工旅游', '通讯补贴', '专业培训'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131266113.html?rc=03'}

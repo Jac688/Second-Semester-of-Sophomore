@@ -1,0 +1,1 @@
+{'company_name': '上海上科信息通信工程研究院', 'job_name': '高级研发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127628989.html?rc=03'}

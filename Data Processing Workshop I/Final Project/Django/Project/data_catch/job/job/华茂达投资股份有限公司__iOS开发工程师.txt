@@ -1,0 +1,1 @@
+{'company_name': '华茂达投资股份有限公司', 'job_name': 'iOS开发工程师', 'geography': '广州-天河区', 'bonus': ['周末双休', '餐饮补贴', '季度调薪'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128646120.html?rc=03'}

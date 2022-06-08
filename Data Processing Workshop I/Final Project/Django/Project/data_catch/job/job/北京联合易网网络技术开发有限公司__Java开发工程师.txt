@@ -1,0 +1,1 @@
+{'company_name': '北京联合易网网络技术开发有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-海淀区', 'bonus': ['年终奖金', '绩效奖金', '员工旅游', '做五休二'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126524852.html?rc=03'}

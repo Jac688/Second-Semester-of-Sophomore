@@ -1,0 +1,1 @@
+{'company_name': '上海麦广互娱文化传媒股份有限公司', 'job_name': '后端开发工程师Node js', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '定期体检', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131126162.html?rc=03'}

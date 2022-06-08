@@ -1,0 +1,1 @@
+{'company_name': '上海燧原科技有限公司', 'job_name': 'AI工具软件工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130526530.html?rc=03'}

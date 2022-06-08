@@ -1,0 +1,1 @@
+{'company_name': '中汽数据有限公司', 'job_name': '人工智能算法开发工程师', 'geography': '天津-西青区', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴', '年终奖金'], 'salary': 0.08, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130143704.html?rc=03'}

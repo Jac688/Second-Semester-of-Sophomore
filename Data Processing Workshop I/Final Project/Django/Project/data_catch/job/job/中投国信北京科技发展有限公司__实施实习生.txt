@@ -1,0 +1,1 @@
+{'company_name': '中投国信北京科技发展有限公司', 'job_name': '实施实习生', 'geography': '成都-武侯区', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127393107.html?rc=03'}

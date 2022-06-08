@@ -1,0 +1,1 @@
+{'company_name': '周六福珠宝股份有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-罗湖区', 'bonus': ['五险一金', '全勤奖', '节日福利', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/113393483.html?rc=03'}

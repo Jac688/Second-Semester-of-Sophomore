@@ -1,0 +1,1 @@
+{'company_name': '优得新能源科技宁波有限公司', 'job_name': '嵌入式开发工程师', 'geography': '上海-长宁区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130044168.html?rc=03'}

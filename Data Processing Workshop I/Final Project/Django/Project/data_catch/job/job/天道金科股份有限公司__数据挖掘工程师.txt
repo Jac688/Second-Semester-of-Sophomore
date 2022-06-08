@@ -1,0 +1,1 @@
+{'company_name': '天道金科股份有限公司', 'job_name': '数据挖掘工程师', 'geography': '杭州-下城区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/121260076.html?rc=03'}

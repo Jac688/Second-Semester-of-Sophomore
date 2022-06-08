@@ -1,0 +1,1 @@
+{'company_name': '广州海格通信集团股份有限公司', 'job_name': '机器人ROS软件设计师', 'geography': '广州', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128678185.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '凯易讯网络技术开发南京有限公司', 'job_name': '高级软件工程师 - Simulation', 'geography': '南京', 'bonus': ['弹性工作', '五险一金', '补充医疗保险', '年终奖金'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128511966.html?rc=03'}

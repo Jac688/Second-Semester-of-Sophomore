@@ -1,0 +1,1 @@
+{'company_name': '大都会集团', 'job_name': '南山+Java工程师+1.5-2K', 'geography': '深圳-南山区', 'bonus': ['周末双休', '五险一金', '带薪年假', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129922483.html?rc=03'}

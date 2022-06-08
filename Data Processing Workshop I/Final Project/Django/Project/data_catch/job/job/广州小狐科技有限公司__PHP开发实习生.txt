@@ -1,0 +1,1 @@
+{'company_name': '广州小狐科技有限公司', 'job_name': 'PHP开发实习生', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '专业培训', '员工旅游', '弹性工作'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132350488.html?rc=03'}

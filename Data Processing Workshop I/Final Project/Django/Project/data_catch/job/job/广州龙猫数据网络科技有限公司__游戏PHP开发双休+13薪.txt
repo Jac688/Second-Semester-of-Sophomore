@@ -1,0 +1,1 @@
+{'company_name': '广州龙猫数据网络科技有限公司', 'job_name': '游戏PHP开发双休+13薪', 'geography': '广州-天河区', 'bonus': ['五险一金', '弹性工作', '年终奖金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128640968.html?rc=03'}

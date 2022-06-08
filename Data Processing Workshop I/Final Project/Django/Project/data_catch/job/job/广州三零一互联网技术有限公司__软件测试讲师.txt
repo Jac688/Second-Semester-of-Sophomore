@@ -1,0 +1,1 @@
+{'company_name': '广州三零一互联网技术有限公司', 'job_name': '软件测试讲师', 'geography': '广州-白云区', 'bonus': ['餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129213035.html?rc=03'}

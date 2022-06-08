@@ -1,0 +1,1 @@
+{'company_name': '广西广协智能科技有限公司', 'job_name': '软件工程师', 'geography': '桂林', 'bonus': ['绩效奖金', '年终奖金', '周末双休', '五险'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/guilin/131355995.html?rc=03'}

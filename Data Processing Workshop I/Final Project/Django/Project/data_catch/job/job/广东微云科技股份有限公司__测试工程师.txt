@@ -1,0 +1,1 @@
+{'company_name': '广东微云科技股份有限公司', 'job_name': '测试工程师', 'geography': '东莞-松山湖区', 'bonus': ['五险一金', '交通补贴', '股票期权', '年终奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131602763.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '加百裕(昆山)电子有限公司', 'job_name': 'Java开发工程师', 'geography': '南通-海安市', 'bonus': ['五险一金', '绩效奖金', '全勤奖', '节日福利'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/nantong/132340144.html?rc=03'}

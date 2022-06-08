@@ -1,0 +1,1 @@
+{'company_name': '佛山市广顺电器有限公司', 'job_name': '研发工程师', 'geography': '佛山', 'bonus': ['餐饮补贴', '年终奖金', '购买社保', '提供住宿'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129295476.html?rc=03'}

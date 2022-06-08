@@ -1,0 +1,1 @@
+{'company_name': '中国平安财产保险股份有限公司', 'job_name': '渗透测试工程师', 'geography': '深圳-福田区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127968946.html?rc=03'}

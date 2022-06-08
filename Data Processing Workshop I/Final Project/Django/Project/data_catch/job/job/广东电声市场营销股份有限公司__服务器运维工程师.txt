@@ -1,0 +1,1 @@
+{'company_name': '广东电声市场营销股份有限公司', 'job_name': '服务器运维工程师', 'geography': '广州', 'bonus': ['十三薪', '做五休二', '周末双休', '五险一金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/118949941.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中冶赛迪重庆信息技术有限公司', 'job_name': '产品经理重庆', 'geography': '重庆', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129419848.html?rc=03'}

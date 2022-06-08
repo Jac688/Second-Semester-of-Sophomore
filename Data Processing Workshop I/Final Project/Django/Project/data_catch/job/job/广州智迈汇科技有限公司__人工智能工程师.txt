@@ -1,0 +1,1 @@
+{'company_name': '广州智迈汇科技有限公司', 'job_name': '人工智能工程师', 'geography': '广州-番禺区', 'bonus': ['员工旅游', '专业培训', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128939748.html?rc=03'}

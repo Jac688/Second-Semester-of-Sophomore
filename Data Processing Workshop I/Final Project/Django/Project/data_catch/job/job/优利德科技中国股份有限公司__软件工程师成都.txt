@@ -1,0 +1,1 @@
+{'company_name': '优利德科技中国股份有限公司', 'job_name': '软件工程师成都', 'geography': '成都-郫都区', 'bonus': ['五险一金', '专业培训', '交通补贴', '员工旅游'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129940063.html?rc=03'}

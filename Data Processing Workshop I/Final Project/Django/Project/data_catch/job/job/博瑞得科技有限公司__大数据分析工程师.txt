@@ -1,0 +1,1 @@
+{'company_name': '博瑞得科技有限公司', 'job_name': '大数据分析工程师', 'geography': '重庆', 'bonus': [], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/116861921.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '惠州市源医科技有限公司', 'job_name': 'Android系统架构工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '周末双休', '节日福利', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/131061128.html?rc=03'}

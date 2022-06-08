@@ -1,0 +1,1 @@
+{'company_name': '广州米格文化传播有限公司', 'job_name': 'H5工程师后端', 'geography': '广州-天河区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131485380.html?rc=03'}

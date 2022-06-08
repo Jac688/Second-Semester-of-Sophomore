@@ -1,0 +1,1 @@
+{'company_name': '中国电信10000号', 'job_name': '平台运维工程师', 'geography': '成都', 'bonus': ['带薪年假', '五险一金', '节日福利', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/122194716.html?rc=03'}

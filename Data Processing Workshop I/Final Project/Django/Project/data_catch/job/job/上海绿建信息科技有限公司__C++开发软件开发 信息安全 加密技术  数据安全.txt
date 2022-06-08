@@ -1,0 +1,1 @@
+{'company_name': '上海绿建信息科技有限公司', 'job_name': 'C++开发软件开发 信息安全 加密技术  数据安全', 'geography': '昆山', 'bonus': ['五险一金', '作五休二', '年终奖金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/125737810.html?rc=03'}

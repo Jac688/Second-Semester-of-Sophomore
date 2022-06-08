@@ -1,0 +1,1 @@
+{'company_name': '全筑控股', 'job_name': '数据库开发工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130848309.html?rc=03'}

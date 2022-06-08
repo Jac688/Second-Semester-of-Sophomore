@@ -1,0 +1,1 @@
+{'company_name': '广州医鹭久歌医疗器械有限公司', 'job_name': 'Python开发工程师', 'geography': '广州', 'bonus': ['做五休二', '全勤奖', '节日福利', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126823680.html?rc=03'}

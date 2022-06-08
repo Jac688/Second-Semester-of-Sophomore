@@ -1,0 +1,1 @@
+{'company_name': 'TCL通力电子', 'job_name': 'Linux软件开发', 'geography': '惠州', 'bonus': ['五险一金', '免费班车', '员工旅游', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/123258007.html?rc=03'}

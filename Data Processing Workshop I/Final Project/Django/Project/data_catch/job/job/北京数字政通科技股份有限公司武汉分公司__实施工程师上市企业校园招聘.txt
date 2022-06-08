@@ -1,0 +1,1 @@
+{'company_name': '北京数字政通科技股份有限公司武汉分公司', 'job_name': '实施工程师上市企业校园招聘', 'geography': '济南-历城区', 'bonus': ['六险一金', '高公积金', '周末双休', '13-15薪'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131388791.html?rc=03'}

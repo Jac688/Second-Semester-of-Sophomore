@@ -1,0 +1,1 @@
+{'company_name': '宝星智能科技上海有限公司', 'job_name': 'JAVA工程师', 'geography': '上海-奉贤区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/107772703.html?rc=03'}

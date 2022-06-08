@@ -1,0 +1,1 @@
+{'company_name': '广州市晶密电子有限公司', 'job_name': 'Linux应用开发工程师', 'geography': '广州-花都区', 'bonus': ['专业培训', '五险', '大小周', '意外险'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/121938550.html?rc=03'}

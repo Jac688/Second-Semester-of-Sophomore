@@ -1,0 +1,1 @@
+{'company_name': '中盈优创资讯科技有限公司', 'job_name': 'Java开发工程师-安全子公司', 'geography': '成都-高新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129433587.html?rc=03'}

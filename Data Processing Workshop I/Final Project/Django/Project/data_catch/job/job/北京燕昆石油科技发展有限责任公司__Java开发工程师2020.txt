@@ -1,0 +1,1 @@
+{'company_name': '北京燕昆石油科技发展有限责任公司', 'job_name': 'Java开发工程师2020', 'geography': '北京', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123228542.html?rc=03'}

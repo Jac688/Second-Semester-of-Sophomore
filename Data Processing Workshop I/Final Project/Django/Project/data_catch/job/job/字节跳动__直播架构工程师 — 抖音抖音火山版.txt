@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '直播架构工程师 — 抖音抖音火山版', 'geography': '北京', 'bonus': ['六险一金', '弹性工作', '免费三餐', '扁平管理'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/120938320.html?rc=03'}

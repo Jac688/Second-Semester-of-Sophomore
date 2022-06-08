@@ -1,0 +1,1 @@
+{'company_name': '德阳农业科技职业学院', 'job_name': '软件技术专业课教师', 'geography': '异地招聘', 'bonus': ['年终奖金', '包住宿', '餐饮补贴'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129010899.html?rc=03'}

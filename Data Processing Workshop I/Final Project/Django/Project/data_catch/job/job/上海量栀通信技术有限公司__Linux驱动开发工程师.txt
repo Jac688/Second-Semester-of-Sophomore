@@ -1,0 +1,1 @@
+{'company_name': '上海量栀通信技术有限公司', 'job_name': 'Linux驱动开发工程师', 'geography': '上海-黄浦区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/61502633.html?rc=03'}

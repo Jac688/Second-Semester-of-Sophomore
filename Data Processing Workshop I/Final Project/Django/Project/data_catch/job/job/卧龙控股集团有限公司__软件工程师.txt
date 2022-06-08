@@ -1,0 +1,1 @@
+{'company_name': '卧龙控股集团有限公司', 'job_name': '软件工程师', 'geography': '绍兴', 'bonus': ['五险一金', '出国机会', '专业培训', '绩效奖金'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shaoxing/128821898.html?rc=03'}

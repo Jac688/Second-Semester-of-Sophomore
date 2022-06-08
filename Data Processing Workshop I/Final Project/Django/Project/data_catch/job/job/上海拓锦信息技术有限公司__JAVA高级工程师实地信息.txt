@@ -1,0 +1,1 @@
+{'company_name': '上海拓锦信息技术有限公司', 'job_name': 'JAVA高级工程师实地信息', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125123574.html?rc=03'}

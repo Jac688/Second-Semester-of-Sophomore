@@ -1,0 +1,1 @@
+{'company_name': '中国软件与技术服务股份有限公司', 'job_name': '软件研发负责人', 'geography': '成都-武侯区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131071528.html?rc=03'}

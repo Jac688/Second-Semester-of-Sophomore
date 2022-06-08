@@ -1,0 +1,1 @@
+{'company_name': '四川铁骑力士实业有限公司', 'job_name': '物联网工程师新兴业务事业部', 'geography': '绵阳', 'bonus': ['绩效奖金', '专业培训', '餐饮补贴', '包吃'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/mianyang/131884346.html?rc=03'}

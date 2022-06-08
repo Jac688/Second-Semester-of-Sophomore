@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '测试开发工程师-飞书人力套件', 'geography': '成都', 'bonus': ['六险一金', '弹性工作', '免费三餐', '租房补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/117902873.html?rc=03'}

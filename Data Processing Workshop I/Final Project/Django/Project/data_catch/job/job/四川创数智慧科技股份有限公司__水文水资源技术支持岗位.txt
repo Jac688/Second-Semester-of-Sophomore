@@ -1,0 +1,1 @@
+{'company_name': '四川创数智慧科技股份有限公司', 'job_name': '水文水资源技术支持岗位', 'geography': '成都-武侯区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126814194.html?rc=03'}

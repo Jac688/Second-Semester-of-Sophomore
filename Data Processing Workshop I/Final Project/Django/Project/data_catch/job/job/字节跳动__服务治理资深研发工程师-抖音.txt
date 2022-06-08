@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '服务治理资深研发工程师-抖音', 'geography': '北京', 'bonus': ['股票期权', '扁平管理', '下午茶', '晋升空间大'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131692834.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '大连飞创信息技术有限公司', 'job_name': 'javaee开发工程师', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125041063.html?rc=03'}

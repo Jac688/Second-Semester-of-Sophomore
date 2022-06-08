@@ -1,0 +1,1 @@
+{'company_name': '佛山市联动科技股份有限公司', 'job_name': '应用软件工程师', 'geography': '佛山', 'bonus': ['免费班车', '交通补贴', '加班补贴', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/118010791.html?rc=03'}

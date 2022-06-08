@@ -1,0 +1,1 @@
+{'company_name': '惠州市金山电子有限公司', 'job_name': '高级程序员', 'geography': '惠州', 'bonus': ['五险一金', '定期体检', '免费班车', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/121078799.html?rc=03'}

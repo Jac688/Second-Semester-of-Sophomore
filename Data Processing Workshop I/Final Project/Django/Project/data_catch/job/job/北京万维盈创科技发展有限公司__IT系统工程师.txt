@@ -1,0 +1,1 @@
+{'company_name': '北京万维盈创科技发展有限公司', 'job_name': 'IT系统工程师', 'geography': '北京-昌平区', 'bonus': ['年终奖金', '员工旅游', '定期体检', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129109024.html?rc=03'}

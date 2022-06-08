@@ -1,0 +1,1 @@
+{'company_name': '南京金晟远建信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-秦淮区', 'bonus': ['做五休二', '周末双休', '带薪年假', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131781778.html?rc=03'}

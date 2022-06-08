@@ -1,0 +1,1 @@
+{'company_name': '惠州科美思医用仪器有限公司', 'job_name': '软件工程师', 'geography': '异地招聘', 'bonus': ['员工旅游', '餐饮补贴', '专业培训', '8小时工作制'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/117354497.html?rc=03'}

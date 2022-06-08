@@ -1,0 +1,1 @@
+{'company_name': '北京三维天地科技股份有限公司', 'job_name': '菁英计划-济南开发工程师(J10175)', 'geography': '济南-高新区', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131126734.html?rc=03'}

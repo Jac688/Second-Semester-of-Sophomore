@@ -1,0 +1,1 @@
+{'company_name': '四川神琥实业有限公司', 'job_name': '司法鉴定软件工程师', 'geography': '成都-天府新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128375341.html?rc=03'}

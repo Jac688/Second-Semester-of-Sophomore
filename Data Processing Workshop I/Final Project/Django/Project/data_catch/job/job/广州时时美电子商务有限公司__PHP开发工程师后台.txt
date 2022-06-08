@@ -1,0 +1,1 @@
+{'company_name': '广州时时美电子商务有限公司', 'job_name': 'PHP开发工程师后台', 'geography': '广州-荔湾区', 'bonus': ['五险一金', '餐饮补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/85378352.html?rc=03'}

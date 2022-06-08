@@ -1,0 +1,1 @@
+{'company_name': '广州小鹏汽车科技有限公司', 'job_name': 'Java开发工程师(数据平台方向)', 'geography': '异地招聘', 'bonus': ['弹性工作', '餐饮补贴', '专业培训', '超nice主管'], 'salary': 3.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129106989.html?rc=03'}

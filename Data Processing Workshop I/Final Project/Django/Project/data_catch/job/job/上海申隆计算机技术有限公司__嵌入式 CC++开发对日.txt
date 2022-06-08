@@ -1,0 +1,1 @@
+{'company_name': '上海申隆计算机技术有限公司', 'job_name': '嵌入式 CC++开发对日', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/111558709.html?rc=03'}

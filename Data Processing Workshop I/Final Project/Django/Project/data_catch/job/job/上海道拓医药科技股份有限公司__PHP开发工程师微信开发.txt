@@ -1,0 +1,1 @@
+{'company_name': '上海道拓医药科技股份有限公司', 'job_name': 'PHP开发工程师微信开发', 'geography': '上海-静安区', 'bonus': ['五险一金', '环境良好', '带薪年假', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132165947.html?rc=03'}

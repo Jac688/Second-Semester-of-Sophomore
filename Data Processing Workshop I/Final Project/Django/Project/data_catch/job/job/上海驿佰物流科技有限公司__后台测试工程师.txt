@@ -1,0 +1,1 @@
+{'company_name': '上海驿佰物流科技有限公司', 'job_name': '后台测试工程师', 'geography': '上海-浦东新区', 'bonus': ['绩效奖金', '年终奖金', '专业培训', '节日福利'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126828027.html?rc=03'}

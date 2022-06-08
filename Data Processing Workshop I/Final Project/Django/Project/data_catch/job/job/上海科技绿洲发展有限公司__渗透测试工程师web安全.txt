@@ -1,0 +1,1 @@
+{'company_name': '上海科技绿洲发展有限公司', 'job_name': '渗透测试工程师web安全', 'geography': '上海-奉贤区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130162191.html?rc=03'}

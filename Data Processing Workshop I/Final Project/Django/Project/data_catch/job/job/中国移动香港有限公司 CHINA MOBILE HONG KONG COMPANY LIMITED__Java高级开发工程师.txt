@@ -1,0 +1,1 @@
+{'company_name': '中国移动香港有限公司 CHINA MOBILE HONG KONG COMPANY LIMITED', 'job_name': 'Java高级开发工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '绩效奖金', '带薪年假', '职位晋升'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128575192.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海禾峰环境工程有限公司', 'job_name': '软件开发工程师', 'geography': '上海', 'bonus': ['五险一金', '餐饮补贴', '定期体检'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131436958.html?rc=03'}

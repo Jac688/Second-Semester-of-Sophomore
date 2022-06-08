@@ -1,0 +1,1 @@
+{'company_name': '巨鼎天衡苏州称重设备有限公司', 'job_name': '嵌入式研发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/123168149.html?rc=03'}

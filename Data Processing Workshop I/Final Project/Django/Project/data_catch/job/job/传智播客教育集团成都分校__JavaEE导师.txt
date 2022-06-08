@@ -1,0 +1,1 @@
+{'company_name': '传智播客教育集团成都分校', 'job_name': 'JavaEE导师', 'geography': '成都', 'bonus': ['餐饮补贴', '绩效奖金', '年终奖金', '员工旅游'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129428866.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': 'Python开发工程师研发效率方向', 'geography': '上海', 'bonus': ['六险一金', '弹性工作', '带薪休假', '租房补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131621096.html?rc=03'}

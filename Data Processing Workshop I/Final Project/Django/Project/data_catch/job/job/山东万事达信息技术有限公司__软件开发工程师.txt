@@ -1,0 +1,1 @@
+{'company_name': '山东万事达信息技术有限公司', 'job_name': '软件开发工程师', 'geography': '济南-槐荫区', 'bonus': ['五险一金', '节日福利', '全勤奖', '年底双薪'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/132198086.html?rc=03'}

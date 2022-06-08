@@ -1,0 +1,1 @@
+{'company_name': '北京华安天诚科技有限公司', 'job_name': 'JAVA前台开发', 'geography': '北京-海淀区', 'bonus': ['餐饮补贴', '通讯补贴', '定期体检', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/115435604.html?rc=03'}

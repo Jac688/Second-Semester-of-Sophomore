@@ -1,0 +1,1 @@
+{'company_name': '四川天味食品集团股份有限公司', 'job_name': '数据管理工程师', 'geography': '成都-双流区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132222683.html?rc=03'}

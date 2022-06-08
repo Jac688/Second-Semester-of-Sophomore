@@ -1,0 +1,1 @@
+{'company_name': '东华医为科技有限公司', 'job_name': '后台开发工程师', 'geography': '泰安', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/taian/127881127.html?rc=03'}

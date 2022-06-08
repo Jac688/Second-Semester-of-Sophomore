@@ -1,0 +1,1 @@
+{'company_name': '佛山市南华仪器股份有限公司', 'job_name': 'C++软件维护工程师', 'geography': '杭州-江干区', 'bonus': ['五险一金', '专业培训', '通讯补贴', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/122682890.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京城建智控科技有限公司', 'job_name': 'C#软件工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '定期体检', '做五休二', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123428884.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京三维天地科技有限公司济南分公司', 'job_name': '中高级JAVA开发(J10798)', 'geography': '北京-丰台区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '专业培训'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132264253.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京信安世纪科技股份有限公司', 'job_name': 'Golang开发工程师', 'geography': '北京-西城区', 'bonus': ['五险一金', '餐饮补贴', '带薪年假', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131523305.html?rc=03'}

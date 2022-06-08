@@ -1,0 +1,1 @@
+{'company_name': '太初无锡电子科技有限公司', 'job_name': 'Python开发工程师', 'geography': '无锡-滨湖区', 'bonus': ['周末双休', '五险一金', '工作午餐', '定期体检'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/131642500.html?rc=03'}

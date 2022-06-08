@@ -1,0 +1,1 @@
+{'company_name': '北京思创贯宇科技开发有限公司', 'job_name': '实施项目经理', 'geography': '北京-海淀区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/117968317.html?rc=03'}

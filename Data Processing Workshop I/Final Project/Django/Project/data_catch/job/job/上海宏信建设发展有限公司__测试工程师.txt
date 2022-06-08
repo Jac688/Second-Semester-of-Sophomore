@@ -1,0 +1,1 @@
+{'company_name': '上海宏信建设发展有限公司', 'job_name': '测试工程师', 'geography': '天津-滨海新区', 'bonus': ['五险一金', '周末双休', '带薪年假', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128834963.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '彩讯科技股份有限公司', 'job_name': '后端开发工程师--无极限', 'geography': '广州-天河区', 'bonus': ['五险一金', '定期体检', '上市公司', '团建活动'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130469934.html?rc=03'}

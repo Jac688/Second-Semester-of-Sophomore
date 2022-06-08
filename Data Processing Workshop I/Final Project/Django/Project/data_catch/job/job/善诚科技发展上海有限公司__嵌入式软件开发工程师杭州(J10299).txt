@@ -1,0 +1,1 @@
+{'company_name': '善诚科技发展上海有限公司', 'job_name': '嵌入式软件开发工程师杭州(J10299)', 'geography': '杭州-滨江区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131968283.html?rc=03'}

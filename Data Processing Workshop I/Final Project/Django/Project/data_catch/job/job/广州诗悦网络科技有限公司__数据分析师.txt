@@ -1,0 +1,1 @@
+{'company_name': '广州诗悦网络科技有限公司', 'job_name': '数据分析师', 'geography': '广州-天河区', 'bonus': ['五险一金', '弹性工作', '定期体检', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126034281.html?rc=03'}

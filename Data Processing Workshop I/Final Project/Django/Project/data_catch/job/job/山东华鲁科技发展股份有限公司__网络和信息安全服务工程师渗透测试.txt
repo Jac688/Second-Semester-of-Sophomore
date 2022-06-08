@@ -1,0 +1,1 @@
+{'company_name': '山东华鲁科技发展股份有限公司', 'job_name': '网络和信息安全服务工程师渗透测试', 'geography': '济南', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/102283916.html?rc=03'}

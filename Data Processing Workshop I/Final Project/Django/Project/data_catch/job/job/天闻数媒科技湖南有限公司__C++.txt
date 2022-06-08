@@ -1,0 +1,1 @@
+{'company_name': '天闻数媒科技湖南有限公司', 'job_name': 'C++', 'geography': '长沙-雨花区', 'bonus': ['五险一金', '弹性工作', '带薪年假', '绩效奖金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/changsha/130303720.html?rc=03'}

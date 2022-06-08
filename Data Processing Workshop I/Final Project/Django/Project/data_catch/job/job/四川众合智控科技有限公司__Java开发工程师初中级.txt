@@ -1,0 +1,1 @@
+{'company_name': '四川众合智控科技有限公司', 'job_name': 'Java开发工程师初中级', 'geography': '成都-金牛区', 'bonus': ['五险一金', '带薪年假', '节日福利', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129778812.html?rc=03'}

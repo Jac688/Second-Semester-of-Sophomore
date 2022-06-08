@@ -1,0 +1,1 @@
+{'company_name': '思豪游戏', 'job_name': 'PHP开发工程师', 'geography': '广州-天河区', 'bonus': ['全勤奖', '包吃', '带薪年假', '弹性工作'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131652871.html?rc=03'}

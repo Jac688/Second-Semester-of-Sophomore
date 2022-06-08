@@ -1,0 +1,1 @@
+{'company_name': '北京建筑技术发展有限责任公司', 'job_name': '智慧城市社区研发工程师', 'geography': '北京', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124947754.html?rc=03'}

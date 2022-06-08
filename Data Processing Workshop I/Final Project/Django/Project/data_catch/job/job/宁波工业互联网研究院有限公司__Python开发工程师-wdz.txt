@@ -1,0 +1,1 @@
+{'company_name': '宁波工业互联网研究院有限公司', 'job_name': 'Python开发工程师-wdz', 'geography': '宁波-海曙区', 'bonus': ['六险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131394760.html?rc=03'}

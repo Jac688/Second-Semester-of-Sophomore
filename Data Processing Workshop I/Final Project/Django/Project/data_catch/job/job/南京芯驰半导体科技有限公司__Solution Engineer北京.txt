@@ -1,0 +1,1 @@
+{'company_name': '南京芯驰半导体科技有限公司', 'job_name': 'Solution Engineer北京', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126279166.html?rc=03'}

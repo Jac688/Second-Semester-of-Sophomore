@@ -1,0 +1,1 @@
+{'company_name': '北京兆芯电子科技有限公司', 'job_name': 'FPGA验证实习生', 'geography': '北京-海淀区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129790305.html?rc=03'}

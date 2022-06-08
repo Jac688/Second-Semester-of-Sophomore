@@ -1,0 +1,1 @@
+{'company_name': '广东兴发铝业有限公司', 'job_name': 'Java开发工程师铝业', 'geography': '佛山', 'bonus': ['免费班车', '包住宿', '节日福利', '高温补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/123133757.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '慈铭博鳌国际医院有限公司', 'job_name': '前端开发工程师', 'geography': '琼海', 'bonus': ['五险一金', '免费班车', '绩效奖金', '员工餐'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/qionghai/126487641.html?rc=03'}

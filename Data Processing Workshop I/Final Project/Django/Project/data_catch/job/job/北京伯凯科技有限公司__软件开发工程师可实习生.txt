@@ -1,0 +1,1 @@
+{'company_name': '北京伯凯科技有限公司', 'job_name': '软件开发工程师可实习生', 'geography': '温州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/wenzhou/127857348.html?rc=03'}

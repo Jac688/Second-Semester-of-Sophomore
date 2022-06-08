@@ -1,0 +1,1 @@
+{'company_name': '广州市汇研微电子技术有限公司', 'job_name': '软件工程师', 'geography': '广州-番禺区', 'bonus': ['绩效奖金', '周末双休', '免费培训', '晋升快'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125444011.html?rc=03'}

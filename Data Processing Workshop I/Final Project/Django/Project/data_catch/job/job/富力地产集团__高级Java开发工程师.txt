@@ -1,0 +1,1 @@
+{'company_name': '富力地产集团', 'job_name': '高级Java开发工程师', 'geography': '广州', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124550134.html?rc=03'}

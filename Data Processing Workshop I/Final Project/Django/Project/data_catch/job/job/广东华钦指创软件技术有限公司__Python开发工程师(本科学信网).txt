@@ -1,0 +1,1 @@
+{'company_name': '广东华钦指创软件技术有限公司', 'job_name': 'Python开发工程师(本科学信网)', 'geography': '北京-朝阳区', 'bonus': ['节假日福利', '六险一金', '年终奖金', '弹性工作'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130503943.html?rc=03'}

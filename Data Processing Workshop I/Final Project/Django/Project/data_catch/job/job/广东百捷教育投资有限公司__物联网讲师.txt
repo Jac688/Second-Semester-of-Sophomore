@@ -1,0 +1,1 @@
+{'company_name': '广东百捷教育投资有限公司', 'job_name': '物联网讲师', 'geography': '广州-花都区', 'bonus': ['周末双休', '专业培训', '六险', '双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130364064.html?rc=03'}

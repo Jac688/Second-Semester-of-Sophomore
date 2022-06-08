@@ -1,0 +1,1 @@
+{'company_name': '常州三泰科技有限公司', 'job_name': 'APP软件工程师', 'geography': '常州-新北区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '定期体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/119420165.html?rc=03'}

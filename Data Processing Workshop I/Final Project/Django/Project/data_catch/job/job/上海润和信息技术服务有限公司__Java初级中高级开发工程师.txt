@@ -1,0 +1,1 @@
+{'company_name': '上海润和信息技术服务有限公司', 'job_name': 'Java初级中高级开发工程师', 'geography': '广州-天河区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131826819.html?rc=03'}

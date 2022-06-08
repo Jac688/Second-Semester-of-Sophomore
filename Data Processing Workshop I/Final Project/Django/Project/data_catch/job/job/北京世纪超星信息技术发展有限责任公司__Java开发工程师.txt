@@ -1,0 +1,1 @@
+{'company_name': '北京世纪超星信息技术发展有限责任公司', 'job_name': 'Java开发工程师', 'geography': '上海-宝山区', 'bonus': ['专业培训', '带薪年假', '周末双休', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125873335.html?rc=03'}

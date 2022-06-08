@@ -1,0 +1,1 @@
+{'company_name': '广州七乐康药业连锁有限公司', 'job_name': '系统运维工程师', 'geography': '广州-荔湾区', 'bonus': ['绩效奖金', '五险一金', '免费班车', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131726598.html?rc=03'}

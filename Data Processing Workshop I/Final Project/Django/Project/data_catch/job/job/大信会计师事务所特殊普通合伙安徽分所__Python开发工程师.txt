@@ -1,0 +1,1 @@
+{'company_name': '大信会计师事务所特殊普通合伙安徽分所', 'job_name': 'Python开发工程师', 'geography': '合肥', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hefei/126809270.html?rc=03'}

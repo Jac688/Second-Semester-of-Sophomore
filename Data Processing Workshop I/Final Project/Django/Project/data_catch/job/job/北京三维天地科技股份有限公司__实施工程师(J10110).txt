@@ -1,0 +1,1 @@
+{'company_name': '北京三维天地科技股份有限公司', 'job_name': '实施工程师(J10110)', 'geography': '济南-高新区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/jinan/121190936.html?rc=03'}

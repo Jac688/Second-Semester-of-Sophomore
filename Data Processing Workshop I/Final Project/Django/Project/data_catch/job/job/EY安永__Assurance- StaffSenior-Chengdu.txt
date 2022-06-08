@@ -1,0 +1,1 @@
+{'company_name': 'EY安永', 'job_name': 'Assurance- StaffSenior-Chengdu', 'geography': '成都', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126106237.html?rc=03'}

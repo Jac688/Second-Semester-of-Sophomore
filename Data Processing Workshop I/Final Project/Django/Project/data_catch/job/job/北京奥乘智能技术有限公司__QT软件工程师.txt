@@ -1,0 +1,1 @@
+{'company_name': '北京奥乘智能技术有限公司', 'job_name': 'QT软件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '弹性工作', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130882117.html?rc=03'}

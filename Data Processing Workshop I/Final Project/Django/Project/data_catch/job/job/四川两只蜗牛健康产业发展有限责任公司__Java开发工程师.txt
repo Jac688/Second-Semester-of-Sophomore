@@ -1,0 +1,1 @@
+{'company_name': '四川两只蜗牛健康产业发展有限责任公司', 'job_name': 'Java开发工程师', 'geography': '成都-高新区', 'bonus': ['六险一金', '员工旅游', '定期体检', '弹性工作'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132110326.html?rc=03'}

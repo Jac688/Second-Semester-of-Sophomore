@@ -1,0 +1,1 @@
+{'company_name': '南京新研协同定位导航研究院有限公司', 'job_name': '视觉算法工程师机器学习', 'geography': '南京-建邺区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131389460.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海泰矽微电子有限公司', 'job_name': '协议软件工程师leader', 'geography': '南京-雨花台区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/122948454.html?rc=03'}

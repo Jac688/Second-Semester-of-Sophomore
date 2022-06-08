@@ -1,0 +1,1 @@
+{'company_name': '华盛通无锡影像科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '无锡-无锡新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/132331038.html?rc=03'}

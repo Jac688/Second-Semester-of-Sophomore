@@ -1,0 +1,1 @@
+{'company_name': '国元期货有限公司', 'job_name': '期权投资-程序化开发', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/120104640.html?rc=03'}

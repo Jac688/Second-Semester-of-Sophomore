@@ -1,0 +1,1 @@
+{'company_name': '北京金道天成信息系统服务有限公司', 'job_name': 'Python开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131091636.html?rc=03'}

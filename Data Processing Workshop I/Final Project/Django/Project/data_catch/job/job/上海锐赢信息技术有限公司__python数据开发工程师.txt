@@ -1,0 +1,1 @@
+{'company_name': '上海锐赢信息技术有限公司', 'job_name': 'python数据开发工程师', 'geography': '上海-虹口区', 'bonus': ['五险一金', '通讯补贴', '专业培训', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123307453.html?rc=03'}

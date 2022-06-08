@@ -1,0 +1,1 @@
+{'company_name': '宁波兴易捷网络科技有限公司', 'job_name': '微信开发php程序员', 'geography': '宁波-海曙区', 'bonus': ['五险', '员工旅游', '出国机会', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/90934824.html?rc=03'}

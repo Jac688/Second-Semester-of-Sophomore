@@ -1,0 +1,1 @@
+{'company_name': '天津联信电子科技有限公司', 'job_name': 'Java开发工程师-驻外', 'geography': '天津-南开区', 'bonus': ['餐饮补贴', '五险一金', '绩效奖金', '六日双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/127375356.html?rc=03'}

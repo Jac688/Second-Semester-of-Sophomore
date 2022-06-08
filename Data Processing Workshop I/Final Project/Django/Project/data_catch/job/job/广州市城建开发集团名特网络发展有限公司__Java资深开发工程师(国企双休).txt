@@ -1,0 +1,1 @@
+{'company_name': '广州市城建开发集团名特网络发展有限公司', 'job_name': 'Java资深开发工程师(国企双休)', 'geography': '广州-天河区', 'bonus': ['五险一金', '绩效奖金', '定期体检'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131018865.html?rc=03'}

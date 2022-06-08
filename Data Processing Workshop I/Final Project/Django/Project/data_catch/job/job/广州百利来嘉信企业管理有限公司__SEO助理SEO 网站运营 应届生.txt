@@ -1,0 +1,1 @@
+{'company_name': '广州百利来嘉信企业管理有限公司', 'job_name': 'SEO助理SEO 网站运营 应届生', 'geography': '广州', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '节日福利'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/113789637.html?rc=03'}

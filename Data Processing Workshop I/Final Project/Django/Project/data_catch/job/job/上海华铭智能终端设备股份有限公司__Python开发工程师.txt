@@ -1,0 +1,1 @@
+{'company_name': '上海华铭智能终端设备股份有限公司', 'job_name': 'Python开发工程师', 'geography': '上海', 'bonus': ['五险一金', '出差补贴', '节日福利', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121688427.html?rc=03'}

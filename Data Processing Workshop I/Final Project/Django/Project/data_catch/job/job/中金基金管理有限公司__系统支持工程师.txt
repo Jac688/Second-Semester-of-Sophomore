@@ -1,0 +1,1 @@
+{'company_name': '中金基金管理有限公司', 'job_name': '系统支持工程师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '做五休二', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132128349.html?rc=03'}

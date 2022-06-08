@@ -1,0 +1,1 @@
+{'company_name': '广东华技达精密机械有限公司', 'job_name': '软件工程师C++', 'geography': '东莞-松山湖区', 'bonus': ['提供社保', '免费提供食宿', '带薪年假', '节日福利'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/129951761.html?rc=03'}

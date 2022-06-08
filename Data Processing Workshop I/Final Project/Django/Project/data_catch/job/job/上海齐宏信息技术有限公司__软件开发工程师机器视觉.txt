@@ -1,0 +1,1 @@
+{'company_name': '上海齐宏信息技术有限公司', 'job_name': '软件开发工程师机器视觉', 'geography': '昆山', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/128922692.html?rc=03'}

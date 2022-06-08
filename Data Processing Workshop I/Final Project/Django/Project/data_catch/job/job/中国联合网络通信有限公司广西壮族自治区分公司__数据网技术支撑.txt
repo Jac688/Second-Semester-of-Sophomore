@@ -1,0 +1,1 @@
+{'company_name': '中国联合网络通信有限公司广西壮族自治区分公司', 'job_name': '数据网技术支撑', 'geography': '贺州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/hezhou/126628299.html?rc=03'}

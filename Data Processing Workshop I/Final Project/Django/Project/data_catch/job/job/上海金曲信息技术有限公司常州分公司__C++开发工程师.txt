@@ -1,0 +1,1 @@
+{'company_name': '上海金曲信息技术有限公司常州分公司', 'job_name': 'C++开发工程师', 'geography': '常州-新北区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/124895370.html?rc=03'}

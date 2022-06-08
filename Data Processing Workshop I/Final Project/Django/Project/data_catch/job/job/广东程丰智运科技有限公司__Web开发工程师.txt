@@ -1,0 +1,1 @@
+{'company_name': '广东程丰智运科技有限公司', 'job_name': 'Web开发工程师', 'geography': '广州-白云区', 'bonus': ['弹性工作', '包吃', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126624273.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '山东北科控股有限公司', 'job_name': '网站前端', 'geography': '济南-高新区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131993019.html?rc=03'}

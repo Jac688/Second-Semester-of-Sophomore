@@ -1,0 +1,1 @@
+{'company_name': '东科上海商业保理有限公司', 'job_name': '初级Java开发', 'geography': '上海-闵行区', 'bonus': ['弹性工作', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120782918.html?rc=03'}

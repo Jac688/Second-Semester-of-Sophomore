@@ -1,0 +1,1 @@
+{'company_name': '宁波拓普智能刹车系统有限公司', 'job_name': 'Java开发工程师', 'geography': '宁波-北仑区', 'bonus': ['五险一金', '年终奖金', '餐饮补贴', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/123606694.html?rc=03'}

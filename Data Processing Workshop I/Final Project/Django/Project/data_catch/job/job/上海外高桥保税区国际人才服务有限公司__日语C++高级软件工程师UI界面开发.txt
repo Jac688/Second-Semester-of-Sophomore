@@ -1,0 +1,1 @@
+{'company_name': '上海外高桥保税区国际人才服务有限公司', 'job_name': '日语C++高级软件工程师UI界面开发', 'geography': '上海-浦东新区', 'bonus': ['做五休二', '免费班车', '绩效奖金', '带薪年假'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/106498055.html?rc=03'}

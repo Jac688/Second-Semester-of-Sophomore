@@ -1,0 +1,1 @@
+{'company_name': '四川语言桥信息技术有限公司', 'job_name': 'Python爬虫工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '年终奖金', '弹性工作', '扁平团队'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126058275.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京吉威时代软件股份有限公司', 'job_name': 'web全栈工程师', 'geography': '北京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126030172.html?rc=03'}

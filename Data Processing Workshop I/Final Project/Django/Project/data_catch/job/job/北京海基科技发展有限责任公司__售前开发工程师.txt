@@ -1,0 +1,1 @@
+{'company_name': '北京海基科技发展有限责任公司', 'job_name': '售前开发工程师', 'geography': '北京-顺义区', 'bonus': ['五险一金', '定期体检', '绩效奖金', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131027125.html?rc=03'}

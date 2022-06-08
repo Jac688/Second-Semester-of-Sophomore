@@ -1,0 +1,1 @@
+{'company_name': '君创天辰企业发展上海有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-闵行区', 'bonus': ['带薪年假', '五险一金', '专业培训', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125358286.html?rc=03'}

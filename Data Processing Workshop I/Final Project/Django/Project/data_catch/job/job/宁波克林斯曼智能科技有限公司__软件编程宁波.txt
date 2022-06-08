@@ -1,0 +1,1 @@
+{'company_name': '宁波克林斯曼智能科技有限公司', 'job_name': '软件编程宁波', 'geography': '宁波', 'bonus': ['五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/59315475.html?rc=03'}

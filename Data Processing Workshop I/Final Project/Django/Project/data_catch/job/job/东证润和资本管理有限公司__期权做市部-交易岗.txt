@@ -1,0 +1,1 @@
+{'company_name': '东证润和资本管理有限公司', 'job_name': '期权做市部-交易岗', 'geography': '上海-黄浦区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/118805653.html?rc=03'}

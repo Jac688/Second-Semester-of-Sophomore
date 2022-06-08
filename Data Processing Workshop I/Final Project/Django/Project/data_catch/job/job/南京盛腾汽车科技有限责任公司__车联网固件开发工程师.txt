@@ -1,0 +1,1 @@
+{'company_name': '南京盛腾汽车科技有限责任公司', 'job_name': '车联网固件开发工程师', 'geography': '南京-栖霞区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127162197.html?rc=03'}

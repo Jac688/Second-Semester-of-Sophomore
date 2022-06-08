@@ -1,0 +1,1 @@
+{'company_name': '宇博信诚北京信息技术有限公司', 'job_name': 'Java中级开发工程师银行外包', 'geography': '杭州', 'bonus': ['年终奖金', '五险一金', '员工旅游', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/125059087.html?rc=03'}

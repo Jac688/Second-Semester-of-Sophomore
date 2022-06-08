@@ -1,0 +1,1 @@
+{'company_name': '德基集团有限公司', 'job_name': '大数据架构师', 'geography': '南京-玄武区', 'bonus': ['五险一金', '带薪年假'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/123781047.html?rc=03'}

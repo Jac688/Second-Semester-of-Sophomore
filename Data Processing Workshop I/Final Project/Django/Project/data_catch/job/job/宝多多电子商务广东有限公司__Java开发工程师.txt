@@ -1,0 +1,1 @@
+{'company_name': '宝多多电子商务广东有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-番禺区', 'bonus': ['弹性工作', '社保', '年终奖金', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122694093.html?rc=03'}

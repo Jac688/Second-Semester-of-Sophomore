@@ -1,0 +1,1 @@
+{'company_name': '上海和苏信息科技有限公司', 'job_name': 'JAVA开发工程师', 'geography': '上海-虹口区', 'bonus': ['五险一金', '交通补贴', '补充公积金', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/51496513.html?rc=03'}

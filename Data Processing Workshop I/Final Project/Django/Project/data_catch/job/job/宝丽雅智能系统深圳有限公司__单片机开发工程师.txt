@@ -1,0 +1,1 @@
+{'company_name': '宝丽雅智能系统深圳有限公司', 'job_name': '单片机开发工程师', 'geography': '深圳-福田区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132294237.html?rc=03'}

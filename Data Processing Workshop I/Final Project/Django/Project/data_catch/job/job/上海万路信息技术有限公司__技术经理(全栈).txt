@@ -1,0 +1,1 @@
+{'company_name': '上海万路信息技术有限公司', 'job_name': '技术经理(全栈)', 'geography': '重庆-江北区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/92493077.html?rc=03'}

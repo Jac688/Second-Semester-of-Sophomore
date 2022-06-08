@@ -1,0 +1,1 @@
+{'company_name': '广西恒河沙科技有限公司', 'job_name': 'java开发工程师', 'geography': '南宁', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/129134156.html?rc=03'}

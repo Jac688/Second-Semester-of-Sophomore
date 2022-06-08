@@ -1,0 +1,1 @@
+{'company_name': '北京信华瀚科技有限公司', 'job_name': 'Java开发实习生', 'geography': '南京', 'bonus': ['五险一金', '周末双休', '带薪年假', '年终奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/126027936.html?rc=03'}

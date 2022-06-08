@@ -1,0 +1,1 @@
+{'company_name': '宁波小六电子商务有限公司', 'job_name': 'Java开发工程师', 'geography': '宁波-镇海区', 'bonus': ['餐饮补贴', '高温补贴', '团建活动', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/132056468.html?rc=03'}

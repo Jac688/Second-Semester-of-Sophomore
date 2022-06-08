@@ -1,0 +1,1 @@
+{'company_name': '北京炎黄新天科技有限公司', 'job_name': '软件测试工程师', 'geography': '北京-昌平区', 'bonus': ['绩效奖金', '定期体检', '周末双休', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131764865.html?rc=03'}

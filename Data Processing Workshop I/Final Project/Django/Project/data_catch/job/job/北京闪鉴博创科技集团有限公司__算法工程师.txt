@@ -1,0 +1,1 @@
+{'company_name': '北京闪鉴博创科技集团有限公司', 'job_name': '算法工程师', 'geography': '北京-东城区', 'bonus': ['五险一金', '带薪年假', '绩效奖金', '专业培训'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129444428.html?rc=03'}

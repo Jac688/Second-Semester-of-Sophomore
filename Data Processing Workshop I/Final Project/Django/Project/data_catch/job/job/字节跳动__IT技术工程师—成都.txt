@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': 'IT技术工程师—成都', 'geography': '成都', 'bonus': ['六险一金', '免费三餐', '弹性工作', '租房补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127613129.html?rc=03'}

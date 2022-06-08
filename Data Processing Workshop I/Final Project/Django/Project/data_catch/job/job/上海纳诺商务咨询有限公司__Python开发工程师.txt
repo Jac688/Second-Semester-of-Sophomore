@@ -1,0 +1,1 @@
+{'company_name': '上海纳诺商务咨询有限公司', 'job_name': 'Python开发工程师', 'geography': '上海-松江区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126164269.html?rc=03'}

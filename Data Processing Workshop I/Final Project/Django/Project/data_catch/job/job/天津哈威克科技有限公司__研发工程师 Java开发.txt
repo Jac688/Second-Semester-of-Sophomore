@@ -1,0 +1,1 @@
+{'company_name': '天津哈威克科技有限公司', 'job_name': '研发工程师 Java开发', 'geography': '天津-武清区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/122719919.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天津天堰科技股份有限公司', 'job_name': '电子工程师岗位', 'geography': '天津', 'bonus': ['五险一金', '采暖补贴', '周末双休', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/115561266.html?rc=03'}

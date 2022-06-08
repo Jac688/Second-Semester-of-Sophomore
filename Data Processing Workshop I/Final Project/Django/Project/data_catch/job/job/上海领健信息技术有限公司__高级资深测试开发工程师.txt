@@ -1,0 +1,1 @@
+{'company_name': '上海领健信息技术有限公司', 'job_name': '高级资深测试开发工程师', 'geography': '上海', 'bonus': ['五险一金', '员工旅游', '带薪年假', '技术好'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131961264.html?rc=03'}

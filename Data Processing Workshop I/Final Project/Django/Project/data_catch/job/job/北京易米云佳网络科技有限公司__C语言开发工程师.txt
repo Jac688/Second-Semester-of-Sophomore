@@ -1,0 +1,1 @@
+{'company_name': '北京易米云佳网络科技有限公司', 'job_name': 'C语言开发工程师', 'geography': '北京-朝阳区', 'bonus': ['做五休二', '带薪年假', '专业培训', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129980433.html?rc=03'}

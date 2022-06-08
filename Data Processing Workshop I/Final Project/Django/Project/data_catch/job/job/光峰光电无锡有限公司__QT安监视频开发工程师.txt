@@ -1,0 +1,1 @@
+{'company_name': '光峰光电无锡有限公司', 'job_name': 'QT安监视频开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '通讯补贴', '专业培训', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/131509393.html?rc=03'}

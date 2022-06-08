@@ -1,0 +1,1 @@
+{'company_name': '上海精学锐信息科技有限公司', 'job_name': 'Java开发工程师(J14075)', 'geography': '上海-普陀区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128623632.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '云卡北京网络科技有限公司', 'job_name': 'PHP技术经理', 'geography': '北京', 'bonus': ['五险一金', '专业培训', '绩效奖金', '交通补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/113863901.html?rc=03'}

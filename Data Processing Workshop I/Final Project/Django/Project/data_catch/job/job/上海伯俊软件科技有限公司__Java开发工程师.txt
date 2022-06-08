@@ -1,0 +1,1 @@
+{'company_name': '上海伯俊软件科技有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-天河区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131255344.html?rc=03'}

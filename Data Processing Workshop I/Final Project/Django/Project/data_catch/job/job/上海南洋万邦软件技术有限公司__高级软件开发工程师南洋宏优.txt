@@ -1,0 +1,1 @@
+{'company_name': '上海南洋万邦软件技术有限公司', 'job_name': '高级软件开发工程师南洋宏优', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126665153.html?rc=03'}

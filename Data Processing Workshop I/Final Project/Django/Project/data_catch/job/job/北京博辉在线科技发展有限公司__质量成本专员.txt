@@ -1,0 +1,1 @@
+{'company_name': '北京博辉在线科技发展有限公司', 'job_name': '质量成本专员', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128846524.html?rc=03'}

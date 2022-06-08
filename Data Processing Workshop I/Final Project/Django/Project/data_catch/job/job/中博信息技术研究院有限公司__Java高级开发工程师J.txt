@@ -1,0 +1,1 @@
+{'company_name': '中博信息技术研究院有限公司', 'job_name': 'Java高级开发工程师J', 'geography': '南京', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132254389.html?rc=03'}

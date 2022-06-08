@@ -1,0 +1,1 @@
+{'company_name': '广州蓝光智能科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132005255.html?rc=03'}

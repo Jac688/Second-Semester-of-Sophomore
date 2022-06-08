@@ -1,0 +1,1 @@
+{'company_name': '安联恒信天津信息技术有限公司', 'job_name': '软件实施工程师', 'geography': '天津-南开区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '定期体检'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/126910416.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州百伽科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '广州-番禺区', 'bonus': ['包住宿', '绩效奖金', '包吃', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130061228.html?rc=03'}

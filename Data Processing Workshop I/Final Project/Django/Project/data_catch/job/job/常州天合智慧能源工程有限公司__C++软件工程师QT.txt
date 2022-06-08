@@ -1,0 +1,1 @@
+{'company_name': '常州天合智慧能源工程有限公司', 'job_name': 'C++软件工程师QT', 'geography': '常州-新北区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/123570933.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京每日优鲜电子商务有限公司', 'job_name': 'Java研发专家', 'geography': '北京-朝阳区', 'bonus': ['周末双休', '交通补贴', '餐饮补贴'], 'salary': 4.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131688866.html?rc=03'}

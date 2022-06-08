@@ -1,0 +1,1 @@
+{'company_name': '南昌利泽电子有限公司OPPO', 'job_name': '高级测试工程师', 'geography': '南昌-青山湖区', 'bonus': ['员工旅游', '交通补贴', '通讯补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/127805815.html?rc=03'}

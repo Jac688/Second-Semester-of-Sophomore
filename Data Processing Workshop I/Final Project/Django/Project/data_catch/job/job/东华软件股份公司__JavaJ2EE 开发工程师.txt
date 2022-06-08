@@ -1,0 +1,1 @@
+{'company_name': '东华软件股份公司', 'job_name': 'JavaJ2EE 开发工程师', 'geography': '泰安', 'bonus': ['三险一金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/taian/129995514.html?rc=03'}

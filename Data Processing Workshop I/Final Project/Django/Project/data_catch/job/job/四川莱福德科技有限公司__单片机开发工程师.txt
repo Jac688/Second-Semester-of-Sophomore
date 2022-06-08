@@ -1,0 +1,1 @@
+{'company_name': '四川莱福德科技有限公司', 'job_name': '单片机开发工程师', 'geography': '成都-郫都区', 'bonus': ['员工旅游', '专业培训', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131722649.html?rc=03'}

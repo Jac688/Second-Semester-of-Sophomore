@@ -1,0 +1,1 @@
+{'company_name': '四川双晟石油科技有限公司', 'job_name': '嵌入式产品研发工程师', 'geography': '成都-武侯区', 'bonus': ['节日福利', '绩效奖金', '五险一金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125112921.html?rc=03'}

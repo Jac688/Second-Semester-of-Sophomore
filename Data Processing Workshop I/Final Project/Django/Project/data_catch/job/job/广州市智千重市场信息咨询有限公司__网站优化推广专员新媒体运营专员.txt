@@ -1,0 +1,1 @@
+{'company_name': '广州市智千重市场信息咨询有限公司', 'job_name': '网站优化推广专员新媒体运营专员', 'geography': '广州-越秀区', 'bonus': ['周末双休'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129945994.html?rc=03'}

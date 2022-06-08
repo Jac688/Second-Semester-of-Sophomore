@@ -1,0 +1,1 @@
+{'company_name': '上海乾庾智能科技有限公司', 'job_name': '软件开发应用工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '免费班车', '弹性工作', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130805156.html?rc=03'}

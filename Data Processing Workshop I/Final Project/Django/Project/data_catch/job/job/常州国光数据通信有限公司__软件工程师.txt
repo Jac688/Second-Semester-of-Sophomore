@@ -1,0 +1,1 @@
+{'company_name': '常州国光数据通信有限公司', 'job_name': '软件工程师', 'geography': '常州', 'bonus': ['周末双休', '提供宿舍', '年终奖金', '五险一金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/114914294.html?rc=03'}

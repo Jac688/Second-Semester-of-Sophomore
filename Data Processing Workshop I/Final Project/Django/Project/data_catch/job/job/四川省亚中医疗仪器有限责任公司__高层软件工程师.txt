@@ -1,0 +1,1 @@
+{'company_name': '四川省亚中医疗仪器有限责任公司', 'job_name': '高层软件工程师', 'geography': '成都', 'bonus': ['交通补贴', '年终奖金', '专业培训', '餐饮补贴'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131972712.html?rc=03'}

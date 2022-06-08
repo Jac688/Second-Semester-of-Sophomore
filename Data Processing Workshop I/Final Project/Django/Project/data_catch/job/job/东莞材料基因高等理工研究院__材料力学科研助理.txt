@@ -1,0 +1,1 @@
+{'company_name': '东莞材料基因高等理工研究院', 'job_name': '材料力学科研助理', 'geography': '东莞-松山湖区', 'bonus': ['五险一金', '全额公积金', '定期体检', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/127538109.html?rc=03'}

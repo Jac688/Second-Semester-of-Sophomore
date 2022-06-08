@@ -1,0 +1,1 @@
+{'company_name': '南京邮通智能控制技术研究院有限公司', 'job_name': '边缘计算工程师', 'geography': '南京-栖霞区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127395714.html?rc=03'}

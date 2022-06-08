@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '高级后端开发工程-钱包支付', 'geography': '北京', 'bonus': ['下午茶', '六险一金', '股票期权', '团队氛围好'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123170823.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '佛山维尚家具制造有限公司', 'job_name': '前端开发工程师', 'geography': '佛山', 'bonus': ['免费班车', '员工旅游', '交通补贴', '专业培训'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/foshan/114875574.html?rc=03'}

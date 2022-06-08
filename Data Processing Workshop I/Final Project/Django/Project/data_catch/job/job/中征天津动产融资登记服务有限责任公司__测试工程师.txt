@@ -1,0 +1,1 @@
+{'company_name': '中征天津动产融资登记服务有限责任公司', 'job_name': '测试工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '免费班车', '补充医疗保险', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130664637.html?rc=03'}

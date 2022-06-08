@@ -1,0 +1,1 @@
+{'company_name': '广东吉盛科技有限公司', 'job_name': 'WEB前端开发工程师', 'geography': '南宁', 'bonus': ['五险一金', '带薪年假', '绩效奖金', '全勤奖'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/nanning/116969144.html?rc=03'}

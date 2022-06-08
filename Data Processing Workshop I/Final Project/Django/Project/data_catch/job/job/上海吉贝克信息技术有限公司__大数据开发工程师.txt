@@ -1,0 +1,1 @@
+{'company_name': '上海吉贝克信息技术有限公司', 'job_name': '大数据开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '专业培训', '通讯补贴', '股票期权'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129995484.html?rc=03'}

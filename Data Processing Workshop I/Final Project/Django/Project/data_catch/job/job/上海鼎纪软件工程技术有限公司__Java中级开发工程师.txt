@@ -1,0 +1,1 @@
+{'company_name': '上海鼎纪软件工程技术有限公司', 'job_name': 'Java中级开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127923378.html?rc=03'}

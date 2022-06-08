@@ -1,0 +1,1 @@
+{'company_name': '厦门赞扬丰硕软件技术有限公司', 'job_name': 'Java开发-北京 (MJ008732)', 'geography': '北京-东城区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '年终奖金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130251111.html?rc=03'}

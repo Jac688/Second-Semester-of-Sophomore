@@ -1,0 +1,1 @@
+{'company_name': '上扬软件上海有限公司', 'job_name': '报表开发工程师', 'geography': '成都', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128587298.html?rc=03'}

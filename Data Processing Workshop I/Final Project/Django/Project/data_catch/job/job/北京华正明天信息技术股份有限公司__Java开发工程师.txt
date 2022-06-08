@@ -1,0 +1,1 @@
+{'company_name': '北京华正明天信息技术股份有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-昌平区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131887078.html?rc=03'}

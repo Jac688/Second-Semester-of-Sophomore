@@ -1,0 +1,1 @@
+{'company_name': 'Tymphany', 'job_name': '耳机软件工程师(001692)', 'geography': '异地招聘', 'bonus': ['五险一金', '免费班车', '通讯补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/130778532.html?rc=03'}

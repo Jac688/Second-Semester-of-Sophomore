@@ -1,0 +1,1 @@
+{'company_name': '北京华捷艾米科技有限公司', 'job_name': 'C++开发工程师生产工具', 'geography': '南京-雨花台区', 'bonus': [], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131203467.html?rc=03'}

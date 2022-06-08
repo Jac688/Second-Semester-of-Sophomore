@@ -1,0 +1,1 @@
+{'company_name': '台安科技无锡有限公司', 'job_name': '软件工程师PLC上位机', 'geography': '无锡', 'bonus': ['做五休二', '带薪年假', '五险一金', '全勤奖'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/129783659.html?rc=03'}

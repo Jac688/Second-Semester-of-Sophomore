@@ -1,0 +1,1 @@
+{'company_name': '上海默沙东医药贸易有限公司', 'job_name': 'Executive Assistant to HRVP', 'geography': '上海-徐汇区', 'bonus': ['周末双休', '五险一金', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132045909.html?rc=03'}

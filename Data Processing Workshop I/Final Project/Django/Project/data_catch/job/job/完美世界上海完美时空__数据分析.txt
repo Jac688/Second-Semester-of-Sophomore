@@ -1,0 +1,1 @@
+{'company_name': '完美世界上海完美时空', 'job_name': '数据分析', 'geography': '北京', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131707160.html?rc=03'}

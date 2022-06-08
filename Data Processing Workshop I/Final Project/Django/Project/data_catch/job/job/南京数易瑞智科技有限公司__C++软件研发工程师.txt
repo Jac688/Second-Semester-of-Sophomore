@@ -1,0 +1,1 @@
+{'company_name': '南京数易瑞智科技有限公司', 'job_name': 'C++软件研发工程师', 'geography': '南京-鼓楼区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131656534.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '合肥中科环境监测技术国家工程实验室有限公司', 'job_name': 'Python高级开发工程师', 'geography': '合肥-蜀山区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hefei/128510437.html?rc=03'}

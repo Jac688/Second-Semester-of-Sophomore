@@ -1,0 +1,1 @@
+{'company_name': '中国电子科技集团公司第三十二研究所', 'job_name': '嵌入式软件工程师', 'geography': '成都', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/95541947.html?rc=03'}

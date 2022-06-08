@@ -1,0 +1,1 @@
+{'company_name': '上海四季教育培训有限公司', 'job_name': 'JAVA', 'geography': '上海-静安区', 'bonus': ['五险一金', '带薪年假', '专业培训', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131546675.html?rc=03'}

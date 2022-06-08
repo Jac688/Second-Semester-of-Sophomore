@@ -1,0 +1,1 @@
+{'company_name': '天阳宏业科技股份有限公司', 'job_name': '高级JAVA开发&项目经理银行软件方向', 'geography': '成都-锦江区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/118841618.html?rc=03'}

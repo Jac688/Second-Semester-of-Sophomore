@@ -1,0 +1,1 @@
+{'company_name': '恒玄科技上海股份有限公司', 'job_name': 'USB软件开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124267845.html?rc=03'}

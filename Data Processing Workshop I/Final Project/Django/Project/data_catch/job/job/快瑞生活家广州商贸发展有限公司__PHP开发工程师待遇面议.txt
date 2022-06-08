@@ -1,0 +1,1 @@
+{'company_name': '快瑞生活家广州商贸发展有限公司', 'job_name': 'PHP开发工程师待遇面议', 'geography': '广州-花都区', 'bonus': ['年终分红', '股权期权', '绩效奖金', '父母养老金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130166346.html?rc=03'}

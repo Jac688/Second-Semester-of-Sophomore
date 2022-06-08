@@ -1,0 +1,1 @@
+{'company_name': '广州艾斯西网络科技有限公司', 'job_name': '服务端开发', 'geography': '广州-天河区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128993351.html?rc=03'}

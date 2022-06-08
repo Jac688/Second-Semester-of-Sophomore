@@ -1,0 +1,1 @@
+{'company_name': '上海索菲玛汽车滤清器有限公司', 'job_name': 'IT Engineer', 'geography': '上海-青浦区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126055226.html?rc=03'}

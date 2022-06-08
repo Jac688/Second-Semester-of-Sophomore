@@ -1,0 +1,1 @@
+{'company_name': '中科摩通常州智能制造股份有限公司', 'job_name': '软件工程师上位机', 'geography': '常州-钟楼区', 'bonus': ['五险一金', '员工旅游', '加班费', '团建'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/131125238.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州市合创源精密机电有限公司', 'job_name': '移动APP开发工程师', 'geography': '广州-黄埔区', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122609073.html?rc=03'}

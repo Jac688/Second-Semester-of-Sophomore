@@ -1,0 +1,1 @@
+{'company_name': '上海锐昕普电子科技有限公司', 'job_name': 'Linux系统工程师', 'geography': '上海', 'bonus': ['五险一金', '员工旅游', '股票期权', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/108063153.html?rc=03'}

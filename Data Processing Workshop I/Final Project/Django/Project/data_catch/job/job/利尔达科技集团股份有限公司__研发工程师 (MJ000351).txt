@@ -1,0 +1,1 @@
+{'company_name': '利尔达科技集团股份有限公司', 'job_name': '研发工程师 (MJ000351)', 'geography': '杭州-余杭区', 'bonus': ['节日福利', '专业培训', '交通补贴', '高温补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128672902.html?rc=03'}

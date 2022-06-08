@@ -1,0 +1,1 @@
+{'company_name': '上海凌欣信息科技有限公司', 'job_name': '急招Java后端中高级程序员', 'geography': '上海-黄浦区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131235664.html?rc=03'}

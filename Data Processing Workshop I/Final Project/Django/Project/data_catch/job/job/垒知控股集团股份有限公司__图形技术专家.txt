@@ -1,0 +1,1 @@
+{'company_name': '垒知控股集团股份有限公司', 'job_name': '图形技术专家', 'geography': '成都-武侯区', 'bonus': ['绩效奖金', '节日福利', '周末双休', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131265615.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州多益网络股份有限公司', 'job_name': 'web后端', 'geography': '成都-高新区', 'bonus': ['互联网百强'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127456314.html?rc=03'}

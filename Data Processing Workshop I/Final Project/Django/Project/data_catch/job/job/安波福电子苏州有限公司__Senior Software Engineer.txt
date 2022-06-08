@@ -1,0 +1,1 @@
+{'company_name': '安波福电子苏州有限公司', 'job_name': 'Senior Software Engineer', 'geography': '苏州-工业园区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/109447626.html?rc=03'}

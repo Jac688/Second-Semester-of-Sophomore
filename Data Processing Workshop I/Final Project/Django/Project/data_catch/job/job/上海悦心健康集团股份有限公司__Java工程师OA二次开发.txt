@@ -1,0 +1,1 @@
+{'company_name': '上海悦心健康集团股份有限公司', 'job_name': 'Java工程师OA二次开发', 'geography': '上海-闵行区', 'bonus': ['餐饮补贴', '通讯补贴', '周末双休', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126901975.html?rc=03'}

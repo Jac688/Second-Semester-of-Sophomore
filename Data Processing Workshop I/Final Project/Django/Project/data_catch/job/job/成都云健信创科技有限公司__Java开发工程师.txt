@@ -1,0 +1,1 @@
+{'company_name': '成都云健信创科技有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-锦江区', 'bonus': ['五险', '补充医疗保险', '年终奖金', '项目奖励'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131496921.html?rc=03'}

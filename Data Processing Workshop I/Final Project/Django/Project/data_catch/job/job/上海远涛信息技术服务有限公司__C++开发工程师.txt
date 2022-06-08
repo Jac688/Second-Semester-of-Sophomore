@@ -1,0 +1,1 @@
+{'company_name': '上海远涛信息技术服务有限公司', 'job_name': 'C++开发工程师', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '绩效奖金', '员工旅游', '定期体检'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132040751.html?rc=03'}

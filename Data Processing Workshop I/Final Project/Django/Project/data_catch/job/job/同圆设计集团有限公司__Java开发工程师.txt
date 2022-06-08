@@ -1,0 +1,1 @@
+{'company_name': '同圆设计集团有限公司', 'job_name': 'Java开发工程师', 'geography': '济南-高新区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/113762555.html?rc=03'}

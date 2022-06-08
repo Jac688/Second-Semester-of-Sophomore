@@ -1,0 +1,1 @@
+{'company_name': '华硕科技苏州有限公司', 'job_name': 'JAVA WEB 高级开发工程师(J10126)', 'geography': '苏州', 'bonus': ['餐饮补贴', '五险一金', '补充医疗保险', '员工旅游'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131613999.html?rc=03'}

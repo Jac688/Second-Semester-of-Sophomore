@@ -1,0 +1,1 @@
+{'company_name': '南京南大尚城软件科技有限公司', 'job_name': '实施工程师海口', 'geography': '异地招聘', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/haikou/132026196.html?rc=03'}

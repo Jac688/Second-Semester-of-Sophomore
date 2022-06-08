@@ -1,0 +1,1 @@
+{'company_name': '宁波格劳博智能工业有限公司', 'job_name': '软件开发工程师', 'geography': '宁波', 'bonus': ['做五休二', '带薪年假', '餐饮补贴', '创业公司'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128845927.html?rc=03'}

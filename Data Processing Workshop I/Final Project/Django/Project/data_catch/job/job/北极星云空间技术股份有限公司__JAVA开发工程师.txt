@@ -1,0 +1,1 @@
+{'company_name': '北极星云空间技术股份有限公司', 'job_name': 'JAVA开发工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130607139.html?rc=03'}

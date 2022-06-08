@@ -1,0 +1,1 @@
+{'company_name': '惠州贝壳闹海房地产经纪有限公司', 'job_name': '数据主管 14薪jy', 'geography': '惠州', 'bonus': ['弹性工作'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/128034791.html?rc=03'}

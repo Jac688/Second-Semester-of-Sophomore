@@ -1,0 +1,1 @@
+{'company_name': '一起赋能大数据科技成都集团有限公司', 'job_name': 'Android开发工程师', 'geography': '成都-天府新区', 'bonus': ['定期团建', '购买五险', '不加班'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132000647.html?rc=03'}

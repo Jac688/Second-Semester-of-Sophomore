@@ -1,0 +1,1 @@
+{'company_name': '凡方数码技术有限公司', 'job_name': '软件工程师Java', 'geography': '深圳-福田区', 'bonus': ['五险一金', '员工旅游', '周末双休', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/65501624.html?rc=03'}

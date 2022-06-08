@@ -1,0 +1,1 @@
+{'company_name': '四川川大智胜软件股份有限公司', 'job_name': 'Java后端开发智胜云猫公司', 'geography': '成都-武侯区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130765512.html?rc=03'}

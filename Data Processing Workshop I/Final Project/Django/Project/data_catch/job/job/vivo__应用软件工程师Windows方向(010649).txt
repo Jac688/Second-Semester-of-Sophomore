@@ -1,0 +1,1 @@
+{'company_name': 'vivo', 'job_name': '应用软件工程师Windows方向(010649)', 'geography': '东莞-长安镇', 'bonus': ['股票期权', '交通补助', '带薪年假', '岗位晋升'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/129927746.html?rc=03'}

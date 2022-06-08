@@ -1,0 +1,1 @@
+{'company_name': '上海励驰半导体有限公司', 'job_name': 'IC 验证工程师IC Verification Engineer )', 'geography': '南京-浦口区', 'bonus': ['五险一金', '绩效奖金', '年终奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127298891.html?rc=03'}

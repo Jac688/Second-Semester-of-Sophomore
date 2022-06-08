@@ -1,0 +1,1 @@
+{'company_name': '业成光电无锡有限公司', 'job_name': '系统开发工程师', 'geography': '无锡', 'bonus': ['五险一金', '包吃', '免费班车', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/118184647.html?rc=03'}

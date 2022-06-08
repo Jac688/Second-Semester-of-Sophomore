@@ -1,0 +1,1 @@
+{'company_name': '北京银信长远科技股份有限公司', 'job_name': '招行Java开发工程师全日制本科', 'geography': '深圳-南山区', 'bonus': ['五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126122555.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天地常州自动化股份有限公司', 'job_name': '机器视觉算法工程师央企上市公司研究院', 'geography': '常州-钟楼区', 'bonus': ['五险一金', '企业年金', '误餐补助', '职称津贴'], 'salary': 1.33, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/130382951.html?rc=03'}

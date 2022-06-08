@@ -1,0 +1,1 @@
+{'company_name': 'OPPO广东移动通信有限公司', 'job_name': '软件测试开发工程师13228', 'geography': '深圳-南山区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132305153.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '五军防务科技无锡股份有限公司', 'job_name': 'Java开发工程师', 'geography': '无锡-无锡新区', 'bonus': ['周末双休', '餐饮补贴', '通讯补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/120481110.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '吉达克精密金属科技常熟有限公司', 'job_name': '视觉软件工程师', 'geography': '常熟', 'bonus': ['通讯补贴', '专业培训', '员工旅游', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/changshu/128494552.html?rc=03'}

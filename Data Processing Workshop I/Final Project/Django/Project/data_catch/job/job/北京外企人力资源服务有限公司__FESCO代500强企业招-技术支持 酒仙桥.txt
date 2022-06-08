@@ -1,0 +1,1 @@
+{'company_name': '北京外企人力资源服务有限公司', 'job_name': 'FESCO代500强企业招-技术支持 酒仙桥', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '带薪年假', '周末双休', '补充医疗险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131796228.html?rc=03'}

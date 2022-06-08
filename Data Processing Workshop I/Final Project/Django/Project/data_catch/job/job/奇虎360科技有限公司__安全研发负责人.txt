@@ -1,0 +1,1 @@
+{'company_name': '奇虎360科技有限公司', 'job_name': '安全研发负责人', 'geography': '苏州-工业园区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/123435730.html?rc=03'}

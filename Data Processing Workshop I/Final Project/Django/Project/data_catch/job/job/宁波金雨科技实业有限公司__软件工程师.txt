@@ -1,0 +1,1 @@
+{'company_name': '宁波金雨科技实业有限公司', 'job_name': '软件工程师', 'geography': '宁波-余姚市', 'bonus': ['五险一金', '包吃', '包住宿', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128869048.html?rc=03'}

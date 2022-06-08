@@ -1,0 +1,1 @@
+{'company_name': '丰田汽车金融中国有限公司', 'job_name': '催收部-运营管理专员主管北京', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128493822.html?rc=03'}

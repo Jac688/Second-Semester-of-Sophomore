@@ -1,0 +1,1 @@
+{'company_name': '中软国际科技服务有限公司', 'job_name': '前端开发工程师', 'geography': '深圳', 'bonus': ['五险一金', '定期体检', '弹性工作', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126454587.html?rc=03'}

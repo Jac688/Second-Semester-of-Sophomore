@@ -1,0 +1,1 @@
+{'company_name': '北京科电航宇空间技术有限公司', 'job_name': 'QT开发工程师', 'geography': '成都-青羊区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131158824.html?rc=03'}

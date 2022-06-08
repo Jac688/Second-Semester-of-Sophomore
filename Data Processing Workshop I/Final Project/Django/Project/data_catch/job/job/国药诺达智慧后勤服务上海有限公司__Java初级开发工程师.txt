@@ -1,0 +1,1 @@
+{'company_name': '国药诺达智慧后勤服务上海有限公司', 'job_name': 'Java初级开发工程师', 'geography': '杭州-拱墅区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129767716.html?rc=03'}

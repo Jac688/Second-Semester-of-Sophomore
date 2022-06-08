@@ -1,0 +1,1 @@
+{'company_name': '广东正业科技股份有限公司', 'job_name': '算法工程师宜宾', 'geography': '宜宾', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '股票期权'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/yibin/130583441.html?rc=03'}

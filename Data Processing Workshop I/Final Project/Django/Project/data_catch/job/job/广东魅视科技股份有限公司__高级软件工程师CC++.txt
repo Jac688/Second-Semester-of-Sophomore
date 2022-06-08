@@ -1,0 +1,1 @@
+{'company_name': '广东魅视科技股份有限公司', 'job_name': '高级软件工程师CC++', 'geography': '广州-天河区', 'bonus': ['高速发展', '年终奖金', '五险一金', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128714404.html?rc=03'}

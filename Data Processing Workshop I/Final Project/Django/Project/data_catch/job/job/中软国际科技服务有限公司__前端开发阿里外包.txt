@@ -1,0 +1,1 @@
+{'company_name': '中软国际科技服务有限公司', 'job_name': '前端开发阿里外包', 'geography': '杭州-滨江区', 'bonus': [], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/123772125.html?rc=03'}

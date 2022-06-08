@@ -1,0 +1,1 @@
+{'company_name': '广东翼卡车联网服务有限公司', 'job_name': 'Java开发工程师(短期', 'geography': '深圳', 'bonus': ['餐饮补贴', '年终奖金', '五险一金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131623162.html?rc=03'}

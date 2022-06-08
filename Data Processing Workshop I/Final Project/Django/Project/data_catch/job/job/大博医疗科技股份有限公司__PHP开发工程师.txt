@@ -1,0 +1,1 @@
+{'company_name': '大博医疗科技股份有限公司', 'job_name': 'PHP开发工程师', 'geography': '厦门', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/131986291.html?rc=03'}

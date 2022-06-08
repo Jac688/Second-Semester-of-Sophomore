@@ -1,0 +1,1 @@
+{'company_name': '上海陌远网络科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '弹性工作', '绩效奖金', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130792065.html?rc=03'}

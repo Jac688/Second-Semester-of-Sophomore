@@ -1,0 +1,1 @@
+{'company_name': '上海开沙信息科技有限公司', 'job_name': '软件项目经理', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/96650595.html?rc=03'}

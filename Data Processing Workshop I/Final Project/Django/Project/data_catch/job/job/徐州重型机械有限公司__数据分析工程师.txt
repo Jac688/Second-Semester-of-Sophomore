@@ -1,0 +1,1 @@
+{'company_name': '徐州重型机械有限公司', 'job_name': '数据分析工程师', 'geography': '徐州', 'bonus': ['五险一金', '带薪年假', '包吃', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/130145264.html?rc=03'}

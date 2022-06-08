@@ -1,0 +1,1 @@
+{'company_name': '上海乐白机器人有限公司', 'job_name': 'Go后端开发工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129759794.html?rc=03'}

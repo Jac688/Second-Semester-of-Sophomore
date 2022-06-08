@@ -1,0 +1,1 @@
+{'company_name': '广西利码优信息科技有限公司', 'job_name': '小程序开发', 'geography': '南宁-西乡塘区', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/nanning/131076256.html?rc=03'}

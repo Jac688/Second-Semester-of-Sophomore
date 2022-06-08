@@ -1,0 +1,1 @@
+{'company_name': '广东乐得鲜科技有限公司', 'job_name': '.NET软件工程师惠州', 'geography': '异地招聘', 'bonus': ['专业培训', '股票期权', '五险一金', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124313884.html?rc=03'}

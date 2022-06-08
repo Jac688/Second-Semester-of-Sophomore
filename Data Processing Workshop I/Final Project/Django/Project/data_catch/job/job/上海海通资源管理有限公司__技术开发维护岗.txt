@@ -1,0 +1,1 @@
+{'company_name': '上海海通资源管理有限公司', 'job_name': '技术开发维护岗', 'geography': '上海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127647229.html?rc=03'}

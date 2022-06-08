@@ -1,0 +1,1 @@
+{'company_name': '广东联塑科技实业有限公司', 'job_name': 'Java高级开发工程师', 'geography': '佛山-顺德区', 'bonus': ['专业培训', '餐饮补贴', '五险一金', '免费提供住宿'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/121375211.html?rc=03'}

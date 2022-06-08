@@ -1,0 +1,1 @@
+{'company_name': '南京捷希科技有限公司', 'job_name': '嵌入式高级工程师', 'geography': '南京-玄武区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/109728398.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海客恒信息技术有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-黄浦区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131913180.html?rc=03'}

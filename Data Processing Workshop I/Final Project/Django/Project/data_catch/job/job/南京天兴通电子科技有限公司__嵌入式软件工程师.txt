@@ -1,0 +1,1 @@
+{'company_name': '南京天兴通电子科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '南京-栖霞区', 'bonus': ['免费班车', '交通补贴', '年终奖金', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/118109144.html?rc=03'}

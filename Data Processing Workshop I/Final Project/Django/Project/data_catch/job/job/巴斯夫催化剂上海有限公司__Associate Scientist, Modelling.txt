@@ -1,0 +1,1 @@
+{'company_name': '巴斯夫催化剂上海有限公司', 'job_name': 'Associate Scientist, Modelling', 'geography': '上海-浦东新区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131187462.html?rc=03'}

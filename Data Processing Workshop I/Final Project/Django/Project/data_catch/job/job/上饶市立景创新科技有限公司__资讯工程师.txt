@@ -1,0 +1,1 @@
+{'company_name': '上饶市立景创新科技有限公司', 'job_name': '资讯工程师', 'geography': '江西省', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jiangxisheng/128462099.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京锐安科技有限公司', 'job_name': 'C++Linux 软件工程师', 'geography': '北京', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131300952.html?rc=03'}

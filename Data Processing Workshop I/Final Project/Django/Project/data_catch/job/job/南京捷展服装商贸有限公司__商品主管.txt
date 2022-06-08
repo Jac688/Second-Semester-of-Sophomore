@@ -1,0 +1,1 @@
+{'company_name': '南京捷展服装商贸有限公司', 'job_name': '商品主管', 'geography': '南京-建邺区', 'bonus': ['五险一金', '带薪年假', '绩效奖金', '全勤奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125765447.html?rc=03'}

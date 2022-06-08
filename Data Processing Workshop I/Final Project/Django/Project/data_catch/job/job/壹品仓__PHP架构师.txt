@@ -1,0 +1,1 @@
+{'company_name': '壹品仓', 'job_name': 'PHP架构师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126396080.html?rc=03'}

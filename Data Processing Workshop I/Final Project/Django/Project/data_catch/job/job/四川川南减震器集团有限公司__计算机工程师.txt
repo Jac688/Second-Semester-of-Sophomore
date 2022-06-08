@@ -1,0 +1,1 @@
+{'company_name': '四川川南减震器集团有限公司', 'job_name': '计算机工程师', 'geography': '乐山', 'bonus': ['五险一金', '带薪年假', '绩效奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/leshan/94801759.html?rc=03'}

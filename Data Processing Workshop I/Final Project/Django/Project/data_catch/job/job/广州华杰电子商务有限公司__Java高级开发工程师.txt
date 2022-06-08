@@ -1,0 +1,1 @@
+{'company_name': '广州华杰电子商务有限公司', 'job_name': 'Java高级开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/129574004.html?rc=03'}

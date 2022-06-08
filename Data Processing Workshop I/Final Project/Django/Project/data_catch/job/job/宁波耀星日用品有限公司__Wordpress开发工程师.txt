@@ -1,0 +1,1 @@
+{'company_name': '宁波耀星日用品有限公司', 'job_name': 'Wordpress开发工程师', 'geography': '宁波-高新区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/102162702.html?rc=03'}

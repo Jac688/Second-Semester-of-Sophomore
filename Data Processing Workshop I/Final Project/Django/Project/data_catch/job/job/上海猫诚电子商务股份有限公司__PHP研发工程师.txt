@@ -1,0 +1,1 @@
+{'company_name': '上海猫诚电子商务股份有限公司', 'job_name': 'PHP研发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '做五休二', '周末双休', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131478913.html?rc=03'}

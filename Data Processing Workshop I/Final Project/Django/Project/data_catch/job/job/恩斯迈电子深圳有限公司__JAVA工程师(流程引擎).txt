@@ -1,0 +1,1 @@
+{'company_name': '恩斯迈电子深圳有限公司', 'job_name': 'JAVA工程师(流程引擎)', 'geography': '深圳', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '包住'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129670100.html?rc=03'}

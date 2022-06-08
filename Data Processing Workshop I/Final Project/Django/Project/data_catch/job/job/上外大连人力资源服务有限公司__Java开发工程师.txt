@@ -1,0 +1,1 @@
+{'company_name': '上外大连人力资源服务有限公司', 'job_name': 'Java开发工程师', 'geography': '大连-高新园区', 'bonus': ['五险一金', '周末双休'], 'salary': 0.58, 'detail_url': 'https://msearch.51job.com/jobs/dalian/132332034.html?rc=03'}

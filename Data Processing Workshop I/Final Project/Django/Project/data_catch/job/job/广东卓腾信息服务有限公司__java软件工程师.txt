@@ -1,0 +1,1 @@
+{'company_name': '广东卓腾信息服务有限公司', 'job_name': 'java软件工程师', 'geography': '佛山-南海区', 'bonus': ['绩效奖金', '年终奖金', '弹性工作', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/117915484.html?rc=03'}

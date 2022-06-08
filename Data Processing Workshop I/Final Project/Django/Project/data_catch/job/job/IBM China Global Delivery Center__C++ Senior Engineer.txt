@@ -1,0 +1,1 @@
+{'company_name': 'IBM China Global Delivery Center', 'job_name': 'C++ Senior Engineer', 'geography': '上海', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128554026.html?rc=03'}

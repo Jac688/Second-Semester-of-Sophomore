@@ -1,0 +1,1 @@
+{'company_name': '北京富士通系统工程有限公司', 'job_name': '软件开发项目经理', 'geography': '重庆', 'bonus': ['五险一金', '定期体检', '补充医疗保险', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/128970931.html?rc=03'}

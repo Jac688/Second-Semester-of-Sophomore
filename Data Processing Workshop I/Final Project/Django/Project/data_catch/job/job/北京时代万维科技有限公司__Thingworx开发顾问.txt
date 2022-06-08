@@ -1,0 +1,1 @@
+{'company_name': '北京时代万维科技有限公司', 'job_name': 'Thingworx开发顾问', 'geography': '北京-丰台区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '做五休二'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129115417.html?rc=03'}

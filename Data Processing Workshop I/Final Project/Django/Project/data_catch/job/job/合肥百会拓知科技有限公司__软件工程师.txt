@@ -1,0 +1,1 @@
+{'company_name': '合肥百会拓知科技有限公司', 'job_name': '软件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '带薪年假', '年终奖金', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132219344.html?rc=03'}

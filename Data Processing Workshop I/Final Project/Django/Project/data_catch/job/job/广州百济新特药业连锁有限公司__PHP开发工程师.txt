@@ -1,0 +1,1 @@
+{'company_name': '广州百济新特药业连锁有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州', 'bonus': ['周末双休', '五险一金', '带薪年假', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130427816.html?rc=03'}

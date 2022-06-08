@@ -1,0 +1,1 @@
+{'company_name': '慢云SLOWCOM科技', 'job_name': 'Java开发工程师', 'geography': '深圳-南山区', 'bonus': [], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/121118183.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '安费诺金事达电子系统白城有限公司', 'job_name': 'JAVA程序工程师 软件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '年终奖金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/jilinsheng/106641536.html?rc=03'}

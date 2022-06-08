@@ -1,0 +1,1 @@
+{'company_name': '上海商米科技集团股份有限公司', 'job_name': '高级java工程师内部系统建设方向 (MJ001188)', 'geography': '上海', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132193589.html?rc=03'}

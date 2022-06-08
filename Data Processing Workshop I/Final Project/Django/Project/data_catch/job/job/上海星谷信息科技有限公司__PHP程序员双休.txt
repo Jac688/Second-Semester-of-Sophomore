@@ -1,0 +1,1 @@
+{'company_name': '上海星谷信息科技有限公司', 'job_name': 'PHP程序员双休', 'geography': '上海', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131640110.html?rc=03'}

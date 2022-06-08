@@ -1,0 +1,1 @@
+{'company_name': '嘉里大通物流有限公司深圳分公司', 'job_name': '程序员JAVA', 'geography': '深圳-福田区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 0.75, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/114817697.html?rc=03'}

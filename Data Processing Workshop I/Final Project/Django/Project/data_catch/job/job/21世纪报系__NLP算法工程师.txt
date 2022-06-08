@@ -1,0 +1,1 @@
+{'company_name': '21世纪报系', 'job_name': 'NLP算法工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128423536.html?rc=03'}

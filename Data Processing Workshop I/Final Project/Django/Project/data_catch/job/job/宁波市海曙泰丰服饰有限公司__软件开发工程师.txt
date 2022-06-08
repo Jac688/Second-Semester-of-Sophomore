@@ -1,0 +1,1 @@
+{'company_name': '宁波市海曙泰丰服饰有限公司', 'job_name': '软件开发工程师', 'geography': '宁波-海曙区', 'bonus': ['全勤奖', '五险一金', '带薪年假', '包住宿'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125898423.html?rc=03'}

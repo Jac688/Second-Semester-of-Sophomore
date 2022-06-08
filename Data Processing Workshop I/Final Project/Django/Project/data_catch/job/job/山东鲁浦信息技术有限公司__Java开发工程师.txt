@@ -1,0 +1,1 @@
+{'company_name': '山东鲁浦信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '济南-槐荫区', 'bonus': ['五险一金', '定期体检', '专业培训', '周末双休'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131595517.html?rc=03'}

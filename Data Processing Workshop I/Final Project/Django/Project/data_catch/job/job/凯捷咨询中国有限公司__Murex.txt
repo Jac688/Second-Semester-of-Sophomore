@@ -1,0 +1,1 @@
+{'company_name': '凯捷咨询中国有限公司', 'job_name': 'Murex', 'geography': '天津-滨海新区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/127273167.html?rc=03'}

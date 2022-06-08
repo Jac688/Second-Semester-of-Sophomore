@@ -1,0 +1,1 @@
+{'company_name': '乐享乐家上海电子商务有限公司', 'job_name': '网站程序员网站设计闵行 双休7h5K', 'geography': '上海-闵行区', 'bonus': ['弹性工作'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131201634.html?rc=03'}

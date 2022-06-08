@@ -1,0 +1,1 @@
+{'company_name': '和光精电重庆科技有限公司', 'job_name': '软件工程师', 'geography': '重庆-九龙坡区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/130805664.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京南北天地科技股份有限公司', 'job_name': '软件实施顾问', 'geography': '青岛-市北区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/129088423.html?rc=03'}

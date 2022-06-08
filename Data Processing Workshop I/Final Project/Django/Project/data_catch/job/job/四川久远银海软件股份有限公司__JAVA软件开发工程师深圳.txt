@@ -1,0 +1,1 @@
+{'company_name': '四川久远银海软件股份有限公司', 'job_name': 'JAVA软件开发工程师深圳', 'geography': '深圳-南山区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132004473.html?rc=03'}

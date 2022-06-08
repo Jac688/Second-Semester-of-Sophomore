@@ -1,0 +1,1 @@
+{'company_name': '好大夫在线', 'job_name': '服务端开发工程师2021届', 'geography': '北京-朝阳区', 'bonus': ['周末双休', '带薪年假', '五险一金', '免费班车'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129362349.html?rc=03'}

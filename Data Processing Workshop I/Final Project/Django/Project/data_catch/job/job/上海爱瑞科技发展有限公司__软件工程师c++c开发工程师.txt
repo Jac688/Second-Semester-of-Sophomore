@@ -1,0 +1,1 @@
+{'company_name': '上海爱瑞科技发展有限公司', 'job_name': '软件工程师c++c开发工程师', 'geography': '上海-奉贤区', 'bonus': ['五险一金', '免费班车', '年终奖金', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130324164.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '奔讯电子科技北京有限公司', 'job_name': '中高级Java开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '定期体检', '出国机会', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130386263.html?rc=03'}

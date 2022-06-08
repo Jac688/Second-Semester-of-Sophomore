@@ -1,0 +1,1 @@
+{'company_name': '城信科技股份有限公司', 'job_name': 'Linux运维工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132341374.html?rc=03'}

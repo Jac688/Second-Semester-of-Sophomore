@@ -1,0 +1,1 @@
+{'company_name': '宁波龙升制衣有限公司', 'job_name': 'IT软件开发工程师', 'geography': '宁波', 'bonus': ['餐饮补贴', '通讯补贴', '住房补贴', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128579310.html?rc=03'}

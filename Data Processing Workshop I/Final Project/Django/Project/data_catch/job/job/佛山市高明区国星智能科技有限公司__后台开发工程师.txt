@@ -1,0 +1,1 @@
+{'company_name': '佛山市高明区国星智能科技有限公司', 'job_name': '后台开发工程师', 'geography': '佛山', 'bonus': ['技能培训', '社保', '绩效奖金', '项目奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/115717245.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东格兰仕集团有限公司', 'job_name': '电控软件工程师', 'geography': '中山', 'bonus': ['专业培训', '免费班车', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/127410530.html?rc=03'}

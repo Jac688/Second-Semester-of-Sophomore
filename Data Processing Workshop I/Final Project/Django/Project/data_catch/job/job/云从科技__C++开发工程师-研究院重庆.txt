@@ -1,0 +1,1 @@
+{'company_name': '云从科技', 'job_name': 'C++开发工程师-研究院重庆', 'geography': '重庆', 'bonus': [], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/128061670.html?rc=03'}

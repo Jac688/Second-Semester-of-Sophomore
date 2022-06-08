@@ -1,0 +1,1 @@
+{'company_name': '广州云聚信息科技有限公司', 'job_name': 'IDC技术经理云迁移方向', 'geography': '广州', 'bonus': ['交通补贴', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127111437.html?rc=03'}

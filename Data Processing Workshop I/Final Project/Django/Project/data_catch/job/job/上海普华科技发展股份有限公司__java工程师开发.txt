@@ -1,0 +1,1 @@
+{'company_name': '上海普华科技发展股份有限公司', 'job_name': 'java工程师开发', 'geography': '深圳-南山区', 'bonus': ['五险一金', '弹性工作', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/62314952.html?rc=03'}

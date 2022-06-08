@@ -1,0 +1,1 @@
+{'company_name': '华强方特文化科技集团股份有限公司', 'job_name': 'slam算法工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '员工旅游', '弹性工作', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129559924.html?rc=03'}

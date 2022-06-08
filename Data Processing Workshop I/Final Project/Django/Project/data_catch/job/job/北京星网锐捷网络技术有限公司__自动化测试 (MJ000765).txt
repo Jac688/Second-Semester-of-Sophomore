@@ -1,0 +1,1 @@
+{'company_name': '北京星网锐捷网络技术有限公司', 'job_name': '自动化测试 (MJ000765)', 'geography': '福州', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/130041529.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京亚控科技发展有限公司', 'job_name': '软件开发工程师', 'geography': '天津', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129967855.html?rc=03'}

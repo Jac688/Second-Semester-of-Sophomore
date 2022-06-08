@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '服务端高级开发工程师-教育业务', 'geography': '北京', 'bonus': ['六险一金', '弹性工作', '免费三餐', '餐补'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124256218.html?rc=03'}

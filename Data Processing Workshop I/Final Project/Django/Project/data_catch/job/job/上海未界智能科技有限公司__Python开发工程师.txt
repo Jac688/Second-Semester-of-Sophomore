@@ -1,0 +1,1 @@
+{'company_name': '上海未界智能科技有限公司', 'job_name': 'Python开发工程师', 'geography': '无锡-无锡新区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/132265717.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海汽车集团股份有限公司商用车技术中心', 'job_name': 'AD-22-数据分析与应用工程师', 'geography': '上海', 'bonus': ['五险一金', '交通补贴', '年终奖金', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131636245.html?rc=03'}

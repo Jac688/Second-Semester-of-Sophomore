@@ -1,0 +1,1 @@
+{'company_name': '上海态特网络科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海-静安区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127080037.html?rc=03'}

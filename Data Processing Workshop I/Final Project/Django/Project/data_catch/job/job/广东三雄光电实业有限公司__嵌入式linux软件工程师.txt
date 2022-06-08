@@ -1,0 +1,1 @@
+{'company_name': '广东三雄光电实业有限公司', 'job_name': '嵌入式linux软件工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '大小周', '带薪年假', '享有法定假日'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/122297866.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '厦门天南星企业管理咨询有限公司', 'job_name': '大数据开发', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/fujiansheng/130631316.html?rc=03'}

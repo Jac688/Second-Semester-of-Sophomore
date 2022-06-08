@@ -1,0 +1,1 @@
+{'company_name': '匠人智慧江苏科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '南京-栖霞区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '员工旅游'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/123649755.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '山东亚微软件股份有限公司', 'job_name': '软件运维工程师', 'geography': '青岛-高新区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/130252704.html?rc=03'}

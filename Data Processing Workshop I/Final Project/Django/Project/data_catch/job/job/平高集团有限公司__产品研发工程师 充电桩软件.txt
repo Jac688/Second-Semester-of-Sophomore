@@ -1,0 +1,1 @@
+{'company_name': '平高集团有限公司', 'job_name': '产品研发工程师 充电桩软件', 'geography': '天津', 'bonus': ['五险二金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/132212260.html?rc=03'}

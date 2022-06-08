@@ -1,0 +1,1 @@
+{'company_name': '四创科技有限公司', 'job_name': 'Java开发工程师', 'geography': '福州-闽侯县', 'bonus': ['周末双休', '节日福利', '交通补贴', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/126992062.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '弘基投资集团有限公司', 'job_name': '软件开发工程师', 'geography': '南昌', 'bonus': ['五险一金', '包吃', '节日福利', '绩效奖金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/128929766.html?rc=03'}

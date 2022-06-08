@@ -1,0 +1,1 @@
+{'company_name': '中通服创立信息科技有限责任公司', 'job_name': '高级Java开发工程师', 'geography': '成都', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127098957.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中芯国际集成电路制造深圳有限公司', 'job_name': '系统管理工程师', 'geography': '深圳-坪山区', 'bonus': ['周末双休', '带薪年假', '五险一金', '包住宿'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132005810.html?rc=03'}

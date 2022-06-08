@@ -1,0 +1,1 @@
+{'company_name': '北京映翰通网络技术股份有限公司', 'job_name': '售前技术支持工程师数通产品', 'geography': '广州-天河区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '通讯补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129179542.html?rc=03'}

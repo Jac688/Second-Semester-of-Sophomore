@@ -1,0 +1,1 @@
+{'company_name': '成都主导科技有限责任公司', 'job_name': '信号算法工程师中级', 'geography': '成都-青羊区', 'bonus': ['五险一金', '免费班车', '员工旅游', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125055133.html?rc=03'}

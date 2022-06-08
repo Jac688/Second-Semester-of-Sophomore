@@ -1,0 +1,1 @@
+{'company_name': '上海麦星网络科技有限公司', 'job_name': '资深Java工程师 30-50万年薪', 'geography': '深圳', 'bonus': ['五险一金', '绩效奖金', '全勤奖', '交通补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131748223.html?rc=03'}

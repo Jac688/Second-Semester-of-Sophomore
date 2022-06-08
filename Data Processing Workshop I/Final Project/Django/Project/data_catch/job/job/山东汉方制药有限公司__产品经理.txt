@@ -1,0 +1,1 @@
+{'company_name': '山东汉方制药有限公司', 'job_name': '产品经理', 'geography': '济南-历下区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/jinan/129083286.html?rc=03'}

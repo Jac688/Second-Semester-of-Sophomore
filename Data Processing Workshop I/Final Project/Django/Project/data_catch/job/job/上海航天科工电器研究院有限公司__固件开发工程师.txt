@@ -1,0 +1,1 @@
+{'company_name': '上海航天科工电器研究院有限公司', 'job_name': '固件开发工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '补充公积金', '免费班车', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129624411.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京淳中科技股份有限公司', 'job_name': 'C++客户端工程师', 'geography': '北京-海淀区', 'bonus': ['弹性工作', '五险一金', '带薪年假', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/114072824.html?rc=03'}

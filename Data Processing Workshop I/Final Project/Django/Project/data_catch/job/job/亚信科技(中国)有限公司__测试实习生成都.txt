@@ -1,0 +1,1 @@
+{'company_name': '亚信科技(中国)有限公司', 'job_name': '测试实习生成都', 'geography': '成都', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128646516.html?rc=03'}

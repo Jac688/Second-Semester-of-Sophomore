@@ -1,0 +1,1 @@
+{'company_name': '平湖波汇通信科技有限公司', 'job_name': 'CC++', 'geography': '上海-浦东新区', 'bonus': ['节日福利', '做五休二', '带薪年假', '五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127325356.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天狮集团有限公司中国区', 'job_name': '爬虫开发工程师', 'geography': '北京', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130885429.html?rc=03'}

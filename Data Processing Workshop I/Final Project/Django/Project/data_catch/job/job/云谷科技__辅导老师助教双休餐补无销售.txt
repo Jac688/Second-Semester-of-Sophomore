@@ -1,0 +1,1 @@
+{'company_name': '云谷科技', 'job_name': '辅导老师助教双休餐补无销售', 'geography': '成都-青羊区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132036262.html?rc=03'}

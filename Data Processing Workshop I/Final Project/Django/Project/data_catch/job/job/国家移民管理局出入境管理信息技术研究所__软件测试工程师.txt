@@ -1,0 +1,1 @@
+{'company_name': '国家移民管理局出入境管理信息技术研究所', 'job_name': '软件测试工程师', 'geography': '北京-东城区', 'bonus': [], 'salary': 1.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131045854.html?rc=03'}

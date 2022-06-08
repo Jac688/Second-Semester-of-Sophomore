@@ -1,0 +1,1 @@
+{'company_name': '宁波申江控股集团有限公司', 'job_name': 'PHP开发人员申江万国北京', 'geography': '异地招聘', 'bonus': ['免费班车', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129718175.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州达人互娱科技有限公司', 'job_name': '游戏服务器开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131352050.html?rc=03'}

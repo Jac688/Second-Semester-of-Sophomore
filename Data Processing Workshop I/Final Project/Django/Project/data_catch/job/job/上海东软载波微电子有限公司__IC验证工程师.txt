@@ -1,0 +1,1 @@
+{'company_name': '上海东软载波微电子有限公司', 'job_name': 'IC验证工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '定期体检'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/111959688.html?rc=03'}

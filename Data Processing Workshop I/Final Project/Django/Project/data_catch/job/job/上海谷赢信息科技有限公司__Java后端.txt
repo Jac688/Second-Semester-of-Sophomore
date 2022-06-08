@@ -1,0 +1,1 @@
+{'company_name': '上海谷赢信息科技有限公司', 'job_name': 'Java后端', 'geography': '异地招聘', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130720833.html?rc=03'}

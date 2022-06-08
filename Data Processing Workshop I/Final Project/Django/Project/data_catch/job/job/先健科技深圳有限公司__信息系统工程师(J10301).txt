@@ -1,0 +1,1 @@
+{'company_name': '先健科技深圳有限公司', 'job_name': '信息系统工程师(J10301)', 'geography': '深圳-南山区', 'bonus': ['年底双薪', '绩效奖金', '补充医疗保险', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128327199.html?rc=03'}

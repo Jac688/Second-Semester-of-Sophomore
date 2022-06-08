@@ -1,0 +1,1 @@
+{'company_name': '中电文思海辉', 'job_name': '数据分析师', 'geography': '广州', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128856551.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海今创信息技术有限公司江苏分公司', 'job_name': 'Java开发工程师', 'geography': '徐州', 'bonus': ['周末双休', '五险一金', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/89888196.html?rc=03'}

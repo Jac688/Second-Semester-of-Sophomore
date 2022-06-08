@@ -1,0 +1,1 @@
+{'company_name': 'JD京东-江苏分公司', 'job_name': '网络工程师', 'geography': '宿迁', 'bonus': ['五险一金', '全勤奖', '节日福利', '住房补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suqian/130773594.html?rc=03'}

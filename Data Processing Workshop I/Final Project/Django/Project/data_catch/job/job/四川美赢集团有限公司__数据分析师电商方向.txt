@@ -1,0 +1,1 @@
+{'company_name': '四川美赢集团有限公司', 'job_name': '数据分析师电商方向', 'geography': '成都-新都区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129509807.html?rc=03'}

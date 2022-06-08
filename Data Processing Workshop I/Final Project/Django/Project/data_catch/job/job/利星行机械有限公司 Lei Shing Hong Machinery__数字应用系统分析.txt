@@ -1,0 +1,1 @@
+{'company_name': '利星行机械有限公司 Lei Shing Hong Machinery', 'job_name': '数字应用系统分析', 'geography': '异地招聘', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131855631.html?rc=03'}

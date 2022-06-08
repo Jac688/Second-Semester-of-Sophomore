@@ -1,0 +1,1 @@
+{'company_name': '中科创达软件股份有限公司', 'job_name': 'OS工程师CC++方向-深圳(004226)', 'geography': '深圳-南山区', 'bonus': ['交通补助', '餐补', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125435282.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海今创信息技术有限公司徐州云龙分公司', 'job_name': '数据挖掘工程师', 'geography': '徐州-云龙区', 'bonus': ['周末双休', '五险一金', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/131909589.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京南天软件有限公司', 'job_name': 'Java开发工程师(集成2038)', 'geography': '北京', 'bonus': ['五险一金', '定期体检', '年终奖金', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/120649859.html?rc=03'}

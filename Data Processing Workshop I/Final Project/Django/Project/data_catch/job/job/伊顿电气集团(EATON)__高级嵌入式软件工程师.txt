@@ -1,0 +1,1 @@
+{'company_name': '伊顿电气集团(EATON)', 'job_name': '高级嵌入式软件工程师', 'geography': '深圳', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129265120.html?rc=03'}

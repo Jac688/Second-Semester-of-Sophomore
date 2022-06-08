@@ -1,0 +1,1 @@
+{'company_name': '北京居家科技有限公司', 'job_name': 'Java开发工程师(初级、中级)', 'geography': '重庆-渝北区', 'bonus': ['年终奖金', '绩效奖金', '通讯补贴', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/126922110.html?rc=03'}

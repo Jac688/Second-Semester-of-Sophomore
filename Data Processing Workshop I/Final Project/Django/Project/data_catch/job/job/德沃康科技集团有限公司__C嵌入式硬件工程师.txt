@@ -1,0 +1,1 @@
+{'company_name': '德沃康科技集团有限公司', 'job_name': 'C嵌入式硬件工程师', 'geography': '嘉兴', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/130545298.html?rc=03'}

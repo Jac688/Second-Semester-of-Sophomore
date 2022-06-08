@@ -1,0 +1,1 @@
+{'company_name': '微源光子深圳科技有限公司', 'job_name': '软件开发工程师', 'geography': '深圳-龙华区', 'bonus': ['五险一金', '股票期权', '年终奖金', '绩效奖金'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132179160.html?rc=03'}

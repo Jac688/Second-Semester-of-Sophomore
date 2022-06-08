@@ -1,0 +1,1 @@
+{'company_name': '成都九玄数码信息有限责任公司', 'job_name': 'CC++高级开发工程师', 'geography': '成都', 'bonus': ['五险一金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/112548591.html?rc=03'}

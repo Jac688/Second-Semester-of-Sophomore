@@ -1,0 +1,1 @@
+{'company_name': '广东速美达自动化股份有限公司', 'job_name': '软件工程师QT', 'geography': '东莞-长安镇', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/123893800.html?rc=03'}

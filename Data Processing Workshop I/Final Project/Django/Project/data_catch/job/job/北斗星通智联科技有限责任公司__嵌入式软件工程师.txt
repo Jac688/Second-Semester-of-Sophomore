@@ -1,0 +1,1 @@
+{'company_name': '北斗星通智联科技有限责任公司', 'job_name': '嵌入式软件工程师', 'geography': '重庆', 'bonus': ['五险一金', '餐饮补贴', '周末双休', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/127910425.html?rc=03'}

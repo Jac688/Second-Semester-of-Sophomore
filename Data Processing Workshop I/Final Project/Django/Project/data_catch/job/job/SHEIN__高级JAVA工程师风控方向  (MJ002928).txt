@@ -1,0 +1,1 @@
+{'company_name': 'SHEIN', 'job_name': '高级JAVA工程师风控方向  (MJ002928)', 'geography': '异地招聘', 'bonus': [], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128588234.html?rc=03'}

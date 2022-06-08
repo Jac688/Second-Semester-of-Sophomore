@@ -1,0 +1,1 @@
+{'company_name': '北京数字联盟网络科技有限公司', 'job_name': 'Android安全工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131537184.html?rc=03'}

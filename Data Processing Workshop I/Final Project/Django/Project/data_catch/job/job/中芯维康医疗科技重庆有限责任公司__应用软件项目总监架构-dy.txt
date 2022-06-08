@@ -1,0 +1,1 @@
+{'company_name': '中芯维康医疗科技重庆有限责任公司', 'job_name': '应用软件项目总监架构-dy', 'geography': '重庆-九龙坡区', 'bonus': ['五险一金', '定期体检', '包吃包住', '带薪年假'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129983588.html?rc=03'}

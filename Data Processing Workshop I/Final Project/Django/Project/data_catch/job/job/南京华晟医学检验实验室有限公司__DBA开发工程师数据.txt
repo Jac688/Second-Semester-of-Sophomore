@@ -1,0 +1,1 @@
+{'company_name': '南京华晟医学检验实验室有限公司', 'job_name': 'DBA开发工程师数据', 'geography': '南京-浦口区', 'bonus': ['五险一金', '年终奖金', '补充意外险', '节日福利'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/126287134.html?rc=03'}

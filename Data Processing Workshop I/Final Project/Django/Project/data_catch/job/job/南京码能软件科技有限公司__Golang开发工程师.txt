@@ -1,0 +1,1 @@
+{'company_name': '南京码能软件科技有限公司', 'job_name': 'Golang开发工程师', 'geography': '南京-栖霞区', 'bonus': ['年终奖金', '项目奖', '13薪'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130840119.html?rc=03'}

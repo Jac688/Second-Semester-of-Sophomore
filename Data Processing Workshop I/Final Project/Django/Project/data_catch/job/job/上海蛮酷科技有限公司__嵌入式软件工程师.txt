@@ -1,0 +1,1 @@
+{'company_name': '上海蛮酷科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '股票期权'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120487173.html?rc=03'}

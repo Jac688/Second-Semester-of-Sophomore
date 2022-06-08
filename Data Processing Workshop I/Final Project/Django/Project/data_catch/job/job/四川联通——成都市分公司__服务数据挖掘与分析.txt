@@ -1,0 +1,1 @@
+{'company_name': '四川联通——成都市分公司', 'job_name': '服务数据挖掘与分析', 'geography': '成都', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129450625.html?rc=03'}

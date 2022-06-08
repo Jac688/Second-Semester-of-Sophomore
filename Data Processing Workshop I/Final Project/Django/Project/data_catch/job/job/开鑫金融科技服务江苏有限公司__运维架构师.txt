@@ -1,0 +1,1 @@
+{'company_name': '开鑫金融科技服务江苏有限公司', 'job_name': '运维架构师', 'geography': '南京-雨花台区', 'bonus': ['餐补', '出差补贴', '13薪', '五险一金'], 'salary': 2.4, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129690069.html?rc=03'}

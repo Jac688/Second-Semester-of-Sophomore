@@ -1,0 +1,1 @@
+{'company_name': '北京清华同衡规划设计研究院有限公司', 'job_name': '后端工程师Java 方向(J10257)', 'geography': '北京', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128834059.html?rc=03'}

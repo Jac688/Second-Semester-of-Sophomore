@@ -1,0 +1,1 @@
+{'company_name': '四川安鲜集供应链管理有限公司', 'job_name': '运维工程师', 'geography': '成都-高新区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129630066.html?rc=03'}

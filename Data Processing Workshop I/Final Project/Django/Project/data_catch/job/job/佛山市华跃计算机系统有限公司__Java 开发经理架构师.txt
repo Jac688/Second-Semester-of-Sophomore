@@ -1,0 +1,1 @@
+{'company_name': '佛山市华跃计算机系统有限公司', 'job_name': 'Java 开发经理架构师', 'geography': '佛山-顺德区', 'bonus': ['月休6天', '带薪年假', '节日福利', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/121625246.html?rc=03'}

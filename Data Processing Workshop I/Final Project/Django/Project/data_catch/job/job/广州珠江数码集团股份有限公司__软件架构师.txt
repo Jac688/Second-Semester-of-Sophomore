@@ -1,0 +1,1 @@
+{'company_name': '广州珠江数码集团股份有限公司', 'job_name': '软件架构师', 'geography': '广州', 'bonus': ['五险一金', '补充医疗保险', '年金', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126184623.html?rc=03'}

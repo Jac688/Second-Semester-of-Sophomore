@@ -1,0 +1,1 @@
+{'company_name': '南京雷电信息技术有限公司', 'job_name': 'CC++QT开发工程师', 'geography': '成都-青羊区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125529201.html?rc=03'}

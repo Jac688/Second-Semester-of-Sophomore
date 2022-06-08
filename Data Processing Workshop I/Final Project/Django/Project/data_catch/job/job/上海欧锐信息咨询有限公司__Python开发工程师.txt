@@ -1,0 +1,1 @@
+{'company_name': '上海欧锐信息咨询有限公司', 'job_name': 'Python开发工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '全勤奖', '节日福利', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120474003.html?rc=03'}

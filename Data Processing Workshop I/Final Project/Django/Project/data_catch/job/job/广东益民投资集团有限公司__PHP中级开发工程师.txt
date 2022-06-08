@@ -1,0 +1,1 @@
+{'company_name': '广东益民投资集团有限公司', 'job_name': 'PHP中级开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129101516.html?rc=03'}

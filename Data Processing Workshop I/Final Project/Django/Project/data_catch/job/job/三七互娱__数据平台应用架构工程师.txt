@@ -1,0 +1,1 @@
+{'company_name': '三七互娱', 'job_name': '数据平台应用架构工程师', 'geography': '广州', 'bonus': ['餐饮补贴', '弹性工作', '员工旅游', '交通补贴'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127131849.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海柯渡医学科技股份有限公司', 'job_name': 'Java高级开发工程师', 'geography': '苏州-工业园区', 'bonus': ['带薪年假', '五险一金', '节日福利', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131946346.html?rc=03'}

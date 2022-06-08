@@ -1,0 +1,1 @@
+{'company_name': '上海卓川人力资源有限公司', 'job_name': 'Java开发工程师(大数据开发', 'geography': '上海-虹口区', 'bonus': ['五险一金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131711334.html?rc=03'}

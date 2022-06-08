@@ -1,0 +1,1 @@
+{'company_name': '博世上海安保系统有限公司成都高新分公司博世通讯中心', 'job_name': 'Junior Automation Developer自动化开发', 'geography': '成都-高新区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129075489.html?rc=03'}

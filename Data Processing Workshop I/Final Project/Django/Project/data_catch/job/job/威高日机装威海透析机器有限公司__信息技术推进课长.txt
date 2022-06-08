@@ -1,0 +1,1 @@
+{'company_name': '威高日机装威海透析机器有限公司', 'job_name': '信息技术推进课长', 'geography': '威海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/weihai/128235474.html?rc=03'}

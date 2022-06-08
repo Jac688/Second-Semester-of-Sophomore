@@ -1,0 +1,1 @@
+{'company_name': '先进科技中国有限公司', 'job_name': 'C++开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '专业培训'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/101462546.html?rc=03'}

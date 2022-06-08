@@ -1,0 +1,1 @@
+{'company_name': '优品财富管理股份有限公司', 'job_name': 'Linux CC++开发工程师', 'geography': '北京-东城区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129891478.html?rc=03'}

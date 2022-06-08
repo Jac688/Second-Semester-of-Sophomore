@@ -1,0 +1,1 @@
+{'company_name': '北京辰安科技股份有限公司', 'job_name': '高级数据处理工程师(002872)', 'geography': '北京-海淀区', 'bonus': ['五险一金', '免费班车', '员工旅游', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131681685.html?rc=03'}

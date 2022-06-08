@@ -1,0 +1,1 @@
+{'company_name': '上海杰狮信息技术有限公司', 'job_name': 'Java开发主管', 'geography': '上海', 'bonus': ['周末双休', '五险一金', '餐饮补贴'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126156056.html?rc=03'}

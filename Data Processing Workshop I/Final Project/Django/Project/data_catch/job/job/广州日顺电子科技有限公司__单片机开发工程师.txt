@@ -1,0 +1,1 @@
+{'company_name': '广州日顺电子科技有限公司', 'job_name': '单片机开发工程师', 'geography': '广州', 'bonus': ['餐饮补贴', '员工旅游', '五险一金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123242267.html?rc=03'}

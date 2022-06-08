@@ -1,0 +1,1 @@
+{'company_name': '北京志翔科技股份有限公司', 'job_name': '技术支持工程师广州', 'geography': '广州-越秀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131242928.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海风语筑文化科技股份有限公司', 'job_name': 'C++软件工程师', 'geography': '上海', 'bonus': ['五险一金', '年终奖金', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129061887.html?rc=03'}

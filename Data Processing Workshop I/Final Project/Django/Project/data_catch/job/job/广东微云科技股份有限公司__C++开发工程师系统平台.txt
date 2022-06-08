@@ -1,0 +1,1 @@
+{'company_name': '广东微云科技股份有限公司', 'job_name': 'C++开发工程师系统平台', 'geography': '深圳-南山区', 'bonus': ['五险一金', '交通补贴', '股票期权', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129086403.html?rc=03'}

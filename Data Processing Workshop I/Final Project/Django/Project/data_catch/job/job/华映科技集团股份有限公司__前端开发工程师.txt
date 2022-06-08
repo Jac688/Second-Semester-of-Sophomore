@@ -1,0 +1,1 @@
+{'company_name': '华映科技集团股份有限公司', 'job_name': '前端开发工程师', 'geography': '福州-马尾区', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/130547887.html?rc=03'}

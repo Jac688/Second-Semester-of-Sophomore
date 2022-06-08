@@ -1,0 +1,1 @@
+{'company_name': '宁波华飞进出口有限公司', 'job_name': 'Python开发工程师', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127244874.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '信息安全实验室', 'job_name': '物联网安全研究工程师(001251)', 'geography': '成都', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125300971.html?rc=03'}

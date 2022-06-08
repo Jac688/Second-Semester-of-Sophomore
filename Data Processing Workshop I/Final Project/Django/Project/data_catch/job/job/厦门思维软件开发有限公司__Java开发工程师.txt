@@ -1,0 +1,1 @@
+{'company_name': '厦门思维软件开发有限公司', 'job_name': 'Java开发工程师', 'geography': '厦门', 'bonus': ['五险一金', '专业培训', '弹性工作', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/130341084.html?rc=03'}

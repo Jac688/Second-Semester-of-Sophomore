@@ -1,0 +1,1 @@
+{'company_name': '北京东西分析仪器有限公司', 'job_name': '高级软件工程师', 'geography': '北京-门头沟区', 'bonus': ['餐饮补贴', '年终奖金', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/71522178.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海红星共赢云计算科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122058266.html?rc=03'}

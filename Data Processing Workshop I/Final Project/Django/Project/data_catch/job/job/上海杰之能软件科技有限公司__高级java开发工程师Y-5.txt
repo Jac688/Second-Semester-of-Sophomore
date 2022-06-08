@@ -1,0 +1,1 @@
+{'company_name': '上海杰之能软件科技有限公司', 'job_name': '高级java开发工程师Y-5', 'geography': '上海-静安区', 'bonus': ['五险一金', '定期体检'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/64123483.html?rc=03'}

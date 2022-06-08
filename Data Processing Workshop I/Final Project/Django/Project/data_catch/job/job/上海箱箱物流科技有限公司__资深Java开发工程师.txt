@@ -1,0 +1,1 @@
+{'company_name': '上海箱箱物流科技有限公司', 'job_name': '资深Java开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '股票期权'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126304716.html?rc=03'}

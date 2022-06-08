@@ -1,0 +1,1 @@
+{'company_name': '工业互联网创新中心上海有限公司', 'job_name': '网络信息安全工程师', 'geography': '上海', 'bonus': ['做五休二', '带薪年假', '绩效奖金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131592946.html?rc=03'}

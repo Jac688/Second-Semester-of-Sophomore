@@ -1,0 +1,1 @@
+{'company_name': '大都会集团', 'job_name': '数据分析', 'geography': '深圳-南山区', 'bonus': ['做五休二', '带薪年假', '五险一金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131469719.html?rc=03'}

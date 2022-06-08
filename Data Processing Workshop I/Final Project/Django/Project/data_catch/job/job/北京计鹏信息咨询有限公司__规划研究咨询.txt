@@ -1,0 +1,1 @@
+{'company_name': '北京计鹏信息咨询有限公司', 'job_name': '规划研究咨询', 'geography': '北京-东城区', 'bonus': ['五险一金', '绩效奖金', '专业培训', '弹性工作'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/93755760.html?rc=03'}

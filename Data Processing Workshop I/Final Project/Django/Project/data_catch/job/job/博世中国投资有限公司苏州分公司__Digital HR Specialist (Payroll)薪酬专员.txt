@@ -1,0 +1,1 @@
+{'company_name': '博世中国投资有限公司苏州分公司', 'job_name': 'Digital HR Specialist (Payroll)薪酬专员', 'geography': '苏州-工业园区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/127174861.html?rc=03'}

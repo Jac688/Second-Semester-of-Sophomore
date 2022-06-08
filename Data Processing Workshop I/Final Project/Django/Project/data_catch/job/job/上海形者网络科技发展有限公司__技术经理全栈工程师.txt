@@ -1,0 +1,1 @@
+{'company_name': '上海形者网络科技发展有限公司', 'job_name': '技术经理全栈工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '做五休二', '周末双休'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131718766.html?rc=03'}

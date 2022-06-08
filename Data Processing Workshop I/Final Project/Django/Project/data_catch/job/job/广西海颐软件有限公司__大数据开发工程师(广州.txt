@@ -1,0 +1,1 @@
+{'company_name': '广西海颐软件有限公司', 'job_name': '大数据开发工程师(广州', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanning/129217216.html?rc=03'}

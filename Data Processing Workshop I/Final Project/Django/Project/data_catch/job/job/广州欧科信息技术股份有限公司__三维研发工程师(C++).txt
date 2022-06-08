@@ -1,0 +1,1 @@
+{'company_name': '广州欧科信息技术股份有限公司', 'job_name': '三维研发工程师(C++)', 'geography': '广州-黄埔区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128824699.html?rc=03'}

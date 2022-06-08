@@ -1,0 +1,1 @@
+{'company_name': '四川成都贝壳闹海房地产经纪有限公司', 'job_name': 'AI找房走路上下班房产销售TQ', 'geography': '成都-温江区', 'bonus': ['弹性工作', '带薪年假', '专业培训', '节日福利'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126842590.html?rc=03'}

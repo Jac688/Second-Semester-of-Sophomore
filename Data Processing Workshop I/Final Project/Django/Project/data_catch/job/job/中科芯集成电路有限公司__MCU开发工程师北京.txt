@@ -1,0 +1,1 @@
+{'company_name': '中科芯集成电路有限公司', 'job_name': 'MCU开发工程师北京', 'geography': '北京', 'bonus': ['五险一金', '专业培训', '年终奖金', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/119795311.html?rc=03'}

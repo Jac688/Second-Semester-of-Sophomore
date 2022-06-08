@@ -1,0 +1,1 @@
+{'company_name': '广州市华奕电子科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '广州', 'bonus': ['员工旅游', '通讯补贴', '专业培训', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131501031.html?rc=03'}

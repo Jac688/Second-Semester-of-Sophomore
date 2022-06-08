@@ -1,0 +1,1 @@
+{'company_name': '慈溪市顺通网络技术有限公司', 'job_name': 'JAVA开发工程师', 'geography': '宁波-慈溪市', 'bonus': ['餐饮补贴', '通讯补贴', '交通补贴', '年终奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/98277328.html?rc=03'}

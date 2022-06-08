@@ -1,0 +1,1 @@
+{'company_name': '上海德瑞姆职业技能培训有限公司', 'job_name': 'PHP开发实习生', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '餐饮补贴', '专业培训'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128033665.html?rc=03'}

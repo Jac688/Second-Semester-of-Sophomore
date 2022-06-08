@@ -1,0 +1,1 @@
+{'company_name': '上海梁玉玺实业集团有限公司', 'job_name': 'php开发工程师', 'geography': '上海-嘉定区', 'bonus': ['专业培训', '年终奖金', '通讯补贴', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131475578.html?rc=03'}

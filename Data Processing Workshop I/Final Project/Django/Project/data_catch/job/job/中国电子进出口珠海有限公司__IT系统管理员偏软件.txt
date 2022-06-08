@@ -1,0 +1,1 @@
+{'company_name': '中国电子进出口珠海有限公司', 'job_name': 'IT系统管理员偏软件', 'geography': '珠海', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/118543342.html?rc=03'}

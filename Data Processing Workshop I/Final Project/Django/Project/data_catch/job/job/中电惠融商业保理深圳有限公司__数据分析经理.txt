@@ -1,0 +1,1 @@
+{'company_name': '中电惠融商业保理深圳有限公司', 'job_name': '数据分析经理', 'geography': '北京-海淀区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131162084.html?rc=03'}

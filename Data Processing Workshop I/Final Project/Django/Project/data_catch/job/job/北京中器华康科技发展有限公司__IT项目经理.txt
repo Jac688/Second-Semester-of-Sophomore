@@ -1,0 +1,1 @@
+{'company_name': '北京中器华康科技发展有限公司', 'job_name': 'IT项目经理', 'geography': '北京-海淀区', 'bonus': ['交通补贴', '年终奖金', '绩效奖金', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/120065293.html?rc=03'}

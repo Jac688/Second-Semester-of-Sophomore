@@ -1,0 +1,1 @@
+{'company_name': '大连海蓝达科技有限公司', 'job_name': 'Java开发工程师', 'geography': '宁波-海曙区', 'bonus': ['五险一金', '出国机会', '专业培训', '住房补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130844211.html?rc=03'}

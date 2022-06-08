@@ -1,0 +1,1 @@
+{'company_name': '四川世毅云网络科技有限公司', 'job_name': 'cocos2d-X客户端开发', 'geography': '异地招聘', 'bonus': [], 'salary': 0.16666666666666666, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131370230.html?rc=03'}

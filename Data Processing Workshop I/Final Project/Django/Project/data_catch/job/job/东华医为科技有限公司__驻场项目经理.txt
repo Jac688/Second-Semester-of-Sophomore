@@ -1,0 +1,1 @@
+{'company_name': '东华医为科技有限公司', 'job_name': '驻场项目经理', 'geography': '天津', 'bonus': ['补充医疗保险', '定期体检', '弹性工作', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128497858.html?rc=03'}

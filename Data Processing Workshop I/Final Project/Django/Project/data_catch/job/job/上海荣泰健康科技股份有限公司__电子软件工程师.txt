@@ -1,0 +1,1 @@
+{'company_name': '上海荣泰健康科技股份有限公司', 'job_name': '电子软件工程师', 'geography': '上海-青浦区', 'bonus': ['五险一金', '免费班车', '员工旅游', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/46794327.html?rc=03'}

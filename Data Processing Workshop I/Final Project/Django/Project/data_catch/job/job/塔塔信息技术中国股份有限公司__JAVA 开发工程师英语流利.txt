@@ -1,0 +1,1 @@
+{'company_name': '塔塔信息技术中国股份有限公司', 'job_name': 'JAVA 开发工程师英语流利', 'geography': '异地招聘', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132024607.html?rc=03'}

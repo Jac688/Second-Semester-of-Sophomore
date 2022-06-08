@@ -1,0 +1,1 @@
+{'company_name': '上海滇航智能科技有限公司龙岩新罗分公司', 'job_name': '项目经理', 'geography': '龙岩', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/longyan/130610359.html?rc=03'}

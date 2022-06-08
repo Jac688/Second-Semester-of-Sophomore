@@ -1,0 +1,1 @@
+{'company_name': '天津市拓甫网络科技开发有限公司', 'job_name': 'Java开发工程师', 'geography': '天津-北辰区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/124310044.html?rc=03'}

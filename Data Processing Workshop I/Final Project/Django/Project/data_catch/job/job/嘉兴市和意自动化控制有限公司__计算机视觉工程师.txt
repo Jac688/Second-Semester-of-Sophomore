@@ -1,0 +1,1 @@
+{'company_name': '嘉兴市和意自动化控制有限公司', 'job_name': '计算机视觉工程师', 'geography': '嘉兴', 'bonus': ['五险一金', '餐饮补贴', '节日福利', '周末双休'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/125783375.html?rc=03'}

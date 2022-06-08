@@ -1,0 +1,1 @@
+{'company_name': '中国电信集团系统集成有限责任公司海南分公司', 'job_name': '软件项目经理', 'geography': '海口-龙华区', 'bonus': ['五险一金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/haikou/127493526.html?rc=03'}

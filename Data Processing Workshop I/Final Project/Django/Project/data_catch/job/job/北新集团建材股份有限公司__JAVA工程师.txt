@@ -1,0 +1,1 @@
+{'company_name': '北新集团建材股份有限公司', 'job_name': 'JAVA工程师', 'geography': '北京-昌平区', 'bonus': ['带薪年假', '福利体检', '提供职工食堂', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131826019.html?rc=03'}

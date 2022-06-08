@@ -1,0 +1,1 @@
+{'company_name': '中国航空工业集团公司雷华电子技术研究所', 'job_name': '软件开发工程师', 'geography': '无锡-滨湖区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/124446746.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '华通科技有限公司', 'job_name': '导航工程师C++)', 'geography': '重庆-渝北区', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/121058752.html?rc=03'}

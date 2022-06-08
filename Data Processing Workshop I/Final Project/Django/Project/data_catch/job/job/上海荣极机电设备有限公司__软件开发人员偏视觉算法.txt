@@ -1,0 +1,1 @@
+{'company_name': '上海荣极机电设备有限公司', 'job_name': '软件开发人员偏视觉算法', 'geography': '上海-杨浦区', 'bonus': ['据情况加提成', '做五休二', '周末双休', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128953424.html?rc=03'}

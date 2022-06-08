@@ -1,0 +1,1 @@
+{'company_name': '北京银信长远科技股份有限公司', 'job_name': 'Java开发工程师安贞门', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '电脑补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132112617.html?rc=03'}

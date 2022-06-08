@@ -1,0 +1,1 @@
+{'company_name': '上海仰邦科技股份有限公司', 'job_name': 'JAVA工程师中级苏州', 'geography': '苏州-吴中区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/119685999.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海中兆信息技术有限公司', 'job_name': '中级软件开发工程师Java', 'geography': '上海-长宁区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123569730.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '佳峰投资控股集团有限公司', 'job_name': '数据分析师', 'geography': '深圳-罗湖区', 'bonus': ['五险一金', '免费午餐', '全勤奖', '生日会'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132221397.html?rc=03'}

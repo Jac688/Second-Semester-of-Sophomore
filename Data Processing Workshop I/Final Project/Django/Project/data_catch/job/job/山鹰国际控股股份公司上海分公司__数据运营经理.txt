@@ -1,0 +1,1 @@
+{'company_name': '山鹰国际控股股份公司上海分公司', 'job_name': '数据运营经理', 'geography': '嘉兴', 'bonus': ['五险一金', '绩效奖金', '节日福利', '高温补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/119620357.html?rc=03'}

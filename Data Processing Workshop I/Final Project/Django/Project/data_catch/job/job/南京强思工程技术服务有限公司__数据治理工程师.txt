@@ -1,0 +1,1 @@
+{'company_name': '南京强思工程技术服务有限公司', 'job_name': '数据治理工程师', 'geography': '南京', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '员工旅游'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129573489.html?rc=03'}

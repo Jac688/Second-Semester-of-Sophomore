@@ -1,0 +1,1 @@
+{'company_name': '中电科蓉威电子技术有限公司', 'job_name': '软件设计师', 'geography': '成都-青羊区', 'bonus': ['补充医疗保险', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130994481.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '安歆·YU', 'job_name': '运维工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '带薪年假', '包住宿', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129116417.html?rc=03'}

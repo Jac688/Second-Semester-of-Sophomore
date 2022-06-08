@@ -1,0 +1,1 @@
+{'company_name': '卓云科技服务长春有限公司', 'job_name': 'java开发实习生双休', 'geography': '长春-高新技术产业开发区', 'bonus': [], 'salary': 0.35, 'detail_url': 'https://msearch.51job.com/jobs/changchun/123655785.html?rc=03'}

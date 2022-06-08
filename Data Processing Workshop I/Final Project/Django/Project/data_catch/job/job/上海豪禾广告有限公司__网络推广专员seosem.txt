@@ -1,0 +1,1 @@
+{'company_name': '上海豪禾广告有限公司', 'job_name': '网络推广专员seosem', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126564383.html?rc=03'}

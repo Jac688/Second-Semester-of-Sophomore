@@ -1,0 +1,1 @@
+{'company_name': '上海合杰人才服务有限公司', 'job_name': 'Java开发工程师', 'geography': '厦门-思明区', 'bonus': ['五险一金', '做五休二', '免费班车', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/130295439.html?rc=03'}

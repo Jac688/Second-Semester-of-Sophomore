@@ -1,0 +1,1 @@
+{'company_name': '中电文思海辉', 'job_name': 'java开发', 'geography': '成都', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131369985.html?rc=03'}

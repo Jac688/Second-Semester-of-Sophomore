@@ -1,0 +1,1 @@
+{'company_name': '南宁华资电子科技有限公司', 'job_name': 'java初级程序员贵港', 'geography': '贵港', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '专业培训'], 'salary': 0.35, 'detail_url': 'https://msearch.51job.com/jobs/guigang/127395870.html?rc=03'}

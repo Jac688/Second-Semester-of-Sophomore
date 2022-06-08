@@ -1,0 +1,1 @@
+{'company_name': '上海康达医疗器械集团股份有限公司', 'job_name': '软件工程师', 'geography': '宁波-北仑区', 'bonus': ['午餐补助', '管理规范', '技能培训', '公司规模大'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131814921.html?rc=03'}

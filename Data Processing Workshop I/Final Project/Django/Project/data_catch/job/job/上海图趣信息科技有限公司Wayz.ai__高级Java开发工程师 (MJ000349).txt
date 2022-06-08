@@ -1,0 +1,1 @@
+{'company_name': '上海图趣信息科技有限公司Wayz.ai', 'job_name': '高级Java开发工程师 (MJ000349)', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132224531.html?rc=03'}

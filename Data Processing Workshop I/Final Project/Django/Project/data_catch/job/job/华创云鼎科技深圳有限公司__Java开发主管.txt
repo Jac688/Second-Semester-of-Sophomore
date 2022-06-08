@@ -1,0 +1,1 @@
+{'company_name': '华创云鼎科技深圳有限公司', 'job_name': 'Java开发主管', 'geography': '深圳', 'bonus': ['带薪年假', '五险一金', '专业培训', '餐饮补贴'], 'salary': 2.3, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128738496.html?rc=03'}

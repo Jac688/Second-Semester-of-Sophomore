@@ -1,0 +1,1 @@
+{'company_name': '天津松昌国际货运有限责任公司', 'job_name': '网站开发', 'geography': '天津-河东区', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128778493.html?rc=03'}

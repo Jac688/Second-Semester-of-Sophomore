@@ -1,0 +1,1 @@
+{'company_name': '山东桥联智能科技有限公司', 'job_name': 'java', 'geography': '青岛-黄岛区', 'bonus': [], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/130751075.html?rc=03'}

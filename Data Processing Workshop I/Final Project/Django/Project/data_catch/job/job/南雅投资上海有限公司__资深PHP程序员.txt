@@ -1,0 +1,1 @@
+{'company_name': '南雅投资上海有限公司', 'job_name': '资深PHP程序员', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132023502.html?rc=03'}

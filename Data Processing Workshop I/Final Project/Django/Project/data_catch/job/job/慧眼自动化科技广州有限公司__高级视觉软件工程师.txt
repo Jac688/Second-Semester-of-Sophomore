@@ -1,0 +1,1 @@
+{'company_name': '慧眼自动化科技广州有限公司', 'job_name': '高级视觉软件工程师', 'geography': '广州-南沙区', 'bonus': ['五险一金', '定期体检', '绩效奖金', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/102282879.html?rc=03'}

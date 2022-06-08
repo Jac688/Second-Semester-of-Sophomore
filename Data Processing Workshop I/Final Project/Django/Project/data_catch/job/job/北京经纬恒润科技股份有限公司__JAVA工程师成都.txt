@@ -1,0 +1,1 @@
+{'company_name': '北京经纬恒润科技股份有限公司', 'job_name': 'JAVA工程师成都', 'geography': '成都', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129747751.html?rc=03'}

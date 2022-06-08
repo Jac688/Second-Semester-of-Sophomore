@@ -1,0 +1,1 @@
+{'company_name': '广东中科纵横健康管理服务有限公司', 'job_name': 'PHP开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130333603.html?rc=03'}

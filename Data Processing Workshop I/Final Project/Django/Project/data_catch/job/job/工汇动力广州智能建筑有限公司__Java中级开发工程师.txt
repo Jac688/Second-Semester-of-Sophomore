@@ -1,0 +1,1 @@
+{'company_name': '工汇动力广州智能建筑有限公司', 'job_name': 'Java中级开发工程师', 'geography': '广州-南沙区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128917379.html?rc=03'}

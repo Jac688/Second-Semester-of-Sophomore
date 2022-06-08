@@ -1,0 +1,1 @@
+{'company_name': '广东智科电子股份有限公司', 'job_name': '信息技术管理员', 'geography': '异地招聘', 'bonus': ['绩效奖金', '专业培训', '员工旅游'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/foshan/127550815.html?rc=03'}

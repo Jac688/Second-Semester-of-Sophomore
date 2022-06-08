@@ -1,0 +1,1 @@
+{'company_name': '广州昭阳和牧场广告有限公司', 'job_name': 'PHP中级开发工程师', 'geography': '广州', 'bonus': ['绩效奖金', '员工旅游', '周末双休', '带薪年假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124035697.html?rc=03'}

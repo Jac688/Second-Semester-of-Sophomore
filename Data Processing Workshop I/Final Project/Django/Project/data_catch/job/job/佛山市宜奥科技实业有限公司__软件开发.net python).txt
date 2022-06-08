@@ -1,0 +1,1 @@
+{'company_name': '佛山市宜奥科技实业有限公司', 'job_name': '软件开发.net python)', 'geography': '异地招聘', 'bonus': ['五险', '带薪年假', '公费旅游', '优质企业'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/131658039.html?rc=03'}

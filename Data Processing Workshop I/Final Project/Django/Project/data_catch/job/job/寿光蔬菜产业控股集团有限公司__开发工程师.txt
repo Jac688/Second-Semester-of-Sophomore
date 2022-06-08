@@ -1,0 +1,1 @@
+{'company_name': '寿光蔬菜产业控股集团有限公司', 'job_name': '开发工程师', 'geography': '潍坊', 'bonus': ['免费班车', '餐饮补贴', '五险一金', '节日福利'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/weifang/130374050.html?rc=03'}

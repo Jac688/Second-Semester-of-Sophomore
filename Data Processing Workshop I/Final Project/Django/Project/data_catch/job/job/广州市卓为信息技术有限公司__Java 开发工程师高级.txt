@@ -1,0 +1,1 @@
+{'company_name': '广州市卓为信息技术有限公司', 'job_name': 'Java 开发工程师高级', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '周末双休', '双薪'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130813372.html?rc=03'}

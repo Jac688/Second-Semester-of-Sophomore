@@ -1,0 +1,1 @@
+{'company_name': '广东蓝海项目管理有限公司', 'job_name': 'Python开发工程师', 'geography': '广州-海珠区', 'bonus': ['绩效奖金', '弹性工作', '五险一金', '交通补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122429267.html?rc=03'}

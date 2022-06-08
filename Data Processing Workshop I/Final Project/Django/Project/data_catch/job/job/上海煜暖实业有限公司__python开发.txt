@@ -1,0 +1,1 @@
+{'company_name': '上海煜暖实业有限公司', 'job_name': 'python开发', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/118924590.html?rc=03'}

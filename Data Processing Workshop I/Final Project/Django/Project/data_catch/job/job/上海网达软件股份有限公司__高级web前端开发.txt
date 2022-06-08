@@ -1,0 +1,1 @@
+{'company_name': '上海网达软件股份有限公司', 'job_name': '高级web前端开发', 'geography': '上海-虹口区', 'bonus': ['五险一金', '免费班车', '专业培训', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130997286.html?rc=03'}

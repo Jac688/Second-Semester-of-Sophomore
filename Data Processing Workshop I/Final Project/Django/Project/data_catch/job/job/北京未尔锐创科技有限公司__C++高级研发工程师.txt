@@ -1,0 +1,1 @@
+{'company_name': '北京未尔锐创科技有限公司', 'job_name': 'C++高级研发工程师', 'geography': '成都-青羊区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132082936.html?rc=03'}

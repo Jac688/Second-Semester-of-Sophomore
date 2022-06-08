@@ -1,0 +1,1 @@
+{'company_name': '宁波利特网络科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '节日福利', '专业培训', '高温补贴'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130988845.html?rc=03'}

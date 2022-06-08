@@ -1,0 +1,1 @@
+{'company_name': '天地伟业技术有限公司', 'job_name': 'Java技术经理', 'geography': '天津-西青区', 'bonus': ['五险一金', '年底双薪', '绩效奖金', '股票期权'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/119913593.html?rc=03'}

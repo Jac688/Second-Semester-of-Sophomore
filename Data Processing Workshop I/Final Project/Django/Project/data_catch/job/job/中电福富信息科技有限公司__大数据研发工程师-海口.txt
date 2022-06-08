@@ -1,0 +1,1 @@
+{'company_name': '中电福富信息科技有限公司', 'job_name': '大数据研发工程师-海口', 'geography': '海口', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/haikou/90294692.html?rc=03'}

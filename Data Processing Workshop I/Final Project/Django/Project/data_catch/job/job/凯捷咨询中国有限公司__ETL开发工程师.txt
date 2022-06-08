@@ -1,0 +1,1 @@
+{'company_name': '凯捷咨询中国有限公司', 'job_name': 'ETL开发工程师', 'geography': '广州-海珠区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131821316.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '惠州旭鑫智能技术有限公司', 'job_name': '机器视觉工程师', 'geography': '惠州', 'bonus': ['包吃包住', '餐补', '养老保险', '医疗保险'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/110771257.html?rc=03'}

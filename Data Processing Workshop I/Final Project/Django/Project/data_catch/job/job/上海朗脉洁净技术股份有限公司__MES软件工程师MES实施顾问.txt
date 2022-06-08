@@ -1,0 +1,1 @@
+{'company_name': '上海朗脉洁净技术股份有限公司', 'job_name': 'MES软件工程师MES实施顾问', 'geography': '杭州', 'bonus': ['五险一金', '年终奖金', '股票期权', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131748401.html?rc=03'}

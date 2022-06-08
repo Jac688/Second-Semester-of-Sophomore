@@ -1,0 +1,1 @@
+{'company_name': '南京群志光电有限公司', 'job_name': '质量工程师出货品质管理', 'geography': '南京', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/91233337.html?rc=03'}

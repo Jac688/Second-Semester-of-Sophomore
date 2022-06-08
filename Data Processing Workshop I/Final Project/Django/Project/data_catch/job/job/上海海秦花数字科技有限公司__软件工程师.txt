@@ -1,0 +1,1 @@
+{'company_name': '上海海秦花数字科技有限公司', 'job_name': '软件工程师', 'geography': '上海-闵行区', 'bonus': ['餐饮补贴', '通讯补贴', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125458185.html?rc=03'}

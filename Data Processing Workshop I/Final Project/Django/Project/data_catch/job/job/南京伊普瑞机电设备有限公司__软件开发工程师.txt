@@ -1,0 +1,1 @@
+{'company_name': '南京伊普瑞机电设备有限公司', 'job_name': '软件开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130620260.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '展讯半导体南京有限公司', 'job_name': '多媒体算法工程师音频算法类3420', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hefei/123805857.html?rc=03'}

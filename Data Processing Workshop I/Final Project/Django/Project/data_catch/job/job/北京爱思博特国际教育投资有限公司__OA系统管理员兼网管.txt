@@ -1,0 +1,1 @@
+{'company_name': '北京爱思博特国际教育投资有限公司', 'job_name': 'OA系统管理员兼网管', 'geography': '北京', 'bonus': ['五险一金', '通讯补贴', '节日福利', '带薪年假'], 'salary': 0.65, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123915541.html?rc=03'}

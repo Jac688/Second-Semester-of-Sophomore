@@ -1,0 +1,1 @@
+{'company_name': '东软云科技有限公司', 'job_name': 'Java软件高级开发工程师青岛', 'geography': '青岛-崂山区', 'bonus': ['五险一金', '交通补贴', '定期体检', '补充医疗保险'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/123739685.html?rc=03'}

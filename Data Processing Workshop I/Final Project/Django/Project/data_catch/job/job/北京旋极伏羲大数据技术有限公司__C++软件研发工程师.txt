@@ -1,0 +1,1 @@
+{'company_name': '北京旋极伏羲大数据技术有限公司', 'job_name': 'C++软件研发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131323357.html?rc=03'}

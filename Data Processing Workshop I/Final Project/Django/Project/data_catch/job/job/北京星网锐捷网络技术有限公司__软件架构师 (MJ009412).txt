@@ -1,0 +1,1 @@
+{'company_name': '北京星网锐捷网络技术有限公司', 'job_name': '软件架构师 (MJ009412)', 'geography': '福州', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/130068641.html?rc=03'}

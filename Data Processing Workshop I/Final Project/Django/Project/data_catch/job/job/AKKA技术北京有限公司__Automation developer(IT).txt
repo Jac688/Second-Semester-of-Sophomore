@@ -1,0 +1,1 @@
+{'company_name': 'AKKA技术北京有限公司', 'job_name': 'Automation developer(IT)', 'geography': '北京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131167957.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东中视信息科技有限公司杭州分公司', 'job_name': '架构师', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '弹性工作', '周末双休', '团建下午茶'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130955966.html?rc=03'}

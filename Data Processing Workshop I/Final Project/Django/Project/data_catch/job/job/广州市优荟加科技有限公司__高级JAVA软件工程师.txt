@@ -1,0 +1,1 @@
+{'company_name': '广州市优荟加科技有限公司', 'job_name': '高级JAVA软件工程师', 'geography': '广州-越秀区', 'bonus': ['年终奖金', '绩效奖金', '周末双休', '员工旅游'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/113995065.html?rc=03'}

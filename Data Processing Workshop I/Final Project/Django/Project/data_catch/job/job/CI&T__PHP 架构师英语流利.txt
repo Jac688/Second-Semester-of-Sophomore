@@ -1,0 +1,1 @@
+{'company_name': 'CI&T', 'job_name': 'PHP 架构师英语流利', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/118527717.html?rc=03'}

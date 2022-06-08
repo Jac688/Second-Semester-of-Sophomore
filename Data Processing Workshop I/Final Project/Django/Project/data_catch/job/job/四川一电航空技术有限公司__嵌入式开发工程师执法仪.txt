@@ -1,0 +1,1 @@
+{'company_name': '四川一电航空技术有限公司', 'job_name': '嵌入式开发工程师执法仪', 'geography': '深圳', 'bonus': ['五险一金', '定期体检', '年终奖金', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/117684866.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东森旭通用设备科技有限公司', 'job_name': '人工智能AI开发工程师', 'geography': '佛山-禅城区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/123180668.html?rc=03'}

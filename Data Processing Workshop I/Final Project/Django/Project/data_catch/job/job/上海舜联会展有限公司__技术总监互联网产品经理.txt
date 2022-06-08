@@ -1,0 +1,1 @@
+{'company_name': '上海舜联会展有限公司', 'job_name': '技术总监互联网产品经理', 'geography': '上海-闵行区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124520554.html?rc=03'}

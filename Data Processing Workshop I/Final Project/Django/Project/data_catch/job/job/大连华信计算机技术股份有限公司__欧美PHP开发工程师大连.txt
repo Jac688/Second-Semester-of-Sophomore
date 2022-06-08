@@ -1,0 +1,1 @@
+{'company_name': '大连华信计算机技术股份有限公司', 'job_name': '欧美PHP开发工程师大连', 'geography': '大连', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dalian/106018290.html?rc=03'}

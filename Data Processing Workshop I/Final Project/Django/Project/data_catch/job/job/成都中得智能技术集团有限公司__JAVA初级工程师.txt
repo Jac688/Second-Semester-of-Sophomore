@@ -1,0 +1,1 @@
+{'company_name': '成都中得智能技术集团有限公司', 'job_name': 'JAVA初级工程师', 'geography': '成都-高新区', 'bonus': ['周末双休', '绩效奖金', '年终奖金', '五险'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128989386.html?rc=03'}

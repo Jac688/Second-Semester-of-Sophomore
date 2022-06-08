@@ -1,0 +1,1 @@
+{'company_name': '北京思特奇信息技术股份有限公司山东分公司', 'job_name': 'GIS开发工程师', 'geography': '济南-高新区', 'bonus': ['五险一金', '定期体检', '年终奖金', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131484946.html?rc=03'}

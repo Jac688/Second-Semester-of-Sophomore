@@ -1,0 +1,1 @@
+{'company_name': '北谷电子有限公司', 'job_name': 'Java开发工程师(智慧制造专岗', 'geography': '济南-高新区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '专业培训'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/jinan/132071852.html?rc=03'}

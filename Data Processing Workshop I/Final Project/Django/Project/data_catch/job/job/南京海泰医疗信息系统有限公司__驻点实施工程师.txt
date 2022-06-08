@@ -1,0 +1,1 @@
+{'company_name': '南京海泰医疗信息系统有限公司', 'job_name': '驻点实施工程师', 'geography': '厦门-思明区', 'bonus': ['做五休二', '周末双休', '五险一金', '餐饮补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/124024910.html?rc=03'}

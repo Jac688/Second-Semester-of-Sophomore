@@ -1,0 +1,1 @@
+{'company_name': '广州城市信息研究所有限公司', 'job_name': 'JAVA开发工程师中级-北京', 'geography': '北京-海淀区', 'bonus': ['五险一金', '年终奖金', '定期体检', '周末双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132067724.html?rc=03'}

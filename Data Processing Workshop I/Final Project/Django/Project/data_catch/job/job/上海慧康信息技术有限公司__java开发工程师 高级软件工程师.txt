@@ -1,0 +1,1 @@
+{'company_name': '上海慧康信息技术有限公司', 'job_name': 'java开发工程师 高级软件工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/99236033.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'Topgames', 'job_name': '《50万顶薪》游戏服务端主程02', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '弹性工作', '周末双休', '包吃'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130227598.html?rc=03'}

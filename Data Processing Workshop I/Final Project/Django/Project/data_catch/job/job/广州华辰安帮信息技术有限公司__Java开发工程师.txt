@@ -1,0 +1,1 @@
+{'company_name': '广州华辰安帮信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '专业培训', '出国机会'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/98853187.html?rc=03'}

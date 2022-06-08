@@ -1,0 +1,1 @@
+{'company_name': '上海澜博半导体设备有限公司', 'job_name': '电气工程师 应届生', 'geography': '天津-西青区', 'bonus': ['五险一金', '员工旅游', '节日福利', '带薪年假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131153304.html?rc=03'}

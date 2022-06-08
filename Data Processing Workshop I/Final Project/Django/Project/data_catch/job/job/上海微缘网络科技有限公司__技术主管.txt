@@ -1,0 +1,1 @@
+{'company_name': '上海微缘网络科技有限公司', 'job_name': '技术主管', 'geography': '上海-松江区', 'bonus': ['绩效奖金', '全勤奖', '五险一金', '带薪年假'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/106055323.html?rc=03'}

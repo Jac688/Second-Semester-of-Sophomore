@@ -1,0 +1,1 @@
+{'company_name': '上海绯逸信息技术有限公司', 'job_name': '前端开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '弹性工作'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128154174.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京奥视威电子科技股份有限公司', 'job_name': '嵌入式linux软件工程师', 'geography': '南京-玄武区', 'bonus': ['定期体检', '免费班车', '五险一金', '交通补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130093439.html?rc=03'}

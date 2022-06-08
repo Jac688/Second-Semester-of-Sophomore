@@ -1,0 +1,1 @@
+{'company_name': '上海汉得信息技术股份有限公司', 'job_name': '初级数据开发工程师(J11117)', 'geography': '重庆', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/129390210.html?rc=03'}

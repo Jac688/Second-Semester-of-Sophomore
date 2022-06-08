@@ -1,0 +1,1 @@
+{'company_name': '中科启航科技北京有限公司', 'job_name': '人工智能软件工程师C++、Yolo、Opencv', 'geography': '北京-海淀区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129913822.html?rc=03'}

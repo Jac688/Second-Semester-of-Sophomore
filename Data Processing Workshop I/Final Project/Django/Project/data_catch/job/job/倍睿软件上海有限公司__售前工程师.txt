@@ -1,0 +1,1 @@
+{'company_name': '倍睿软件上海有限公司', 'job_name': '售前工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '年终奖金', '商业保险', '团队奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121856643.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '工保科技浙江有限公司', 'job_name': 'Java开发工程师', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/125615118.html?rc=03'}

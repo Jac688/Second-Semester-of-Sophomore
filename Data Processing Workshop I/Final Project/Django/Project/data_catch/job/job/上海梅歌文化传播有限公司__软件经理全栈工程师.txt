@@ -1,0 +1,1 @@
+{'company_name': '上海梅歌文化传播有限公司', 'job_name': '软件经理全栈工程师', 'geography': '上海-徐汇区', 'bonus': ['年终奖金', '绩效奖金', '交通补贴', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/110210619.html?rc=03'}

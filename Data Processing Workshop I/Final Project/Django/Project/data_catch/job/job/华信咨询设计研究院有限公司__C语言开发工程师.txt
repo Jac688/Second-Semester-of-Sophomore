@@ -1,0 +1,1 @@
+{'company_name': '华信咨询设计研究院有限公司', 'job_name': 'C语言开发工程师', 'geography': '成都', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129285877.html?rc=03'}

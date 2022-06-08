@@ -1,0 +1,1 @@
+{'company_name': '厦门万泰凯瑞生物技术有限公司', 'job_name': '软件工程师', 'geography': '厦门-海沧区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/128392676.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '成都云中钧川网络技术有限公司', 'job_name': 'Linux系统工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '绩效奖金', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128875157.html?rc=03'}

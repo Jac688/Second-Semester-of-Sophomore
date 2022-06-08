@@ -1,0 +1,1 @@
+{'company_name': '广东星创众谱仪器有限公司', 'job_name': '软件工程师', 'geography': '广州', 'bonus': ['五险一金', '周末双休', '年度调薪', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125398768.html?rc=03'}

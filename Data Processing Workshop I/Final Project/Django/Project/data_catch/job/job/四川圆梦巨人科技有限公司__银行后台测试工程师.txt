@@ -1,0 +1,1 @@
+{'company_name': '四川圆梦巨人科技有限公司', 'job_name': '银行后台测试工程师', 'geography': '成都-高新区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131284531.html?rc=03'}

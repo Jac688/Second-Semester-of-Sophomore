@@ -1,0 +1,1 @@
+{'company_name': '上海世艾生物科技有限公司', 'job_name': '嵌入式硬件工程师C++C#', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125767065.html?rc=03'}

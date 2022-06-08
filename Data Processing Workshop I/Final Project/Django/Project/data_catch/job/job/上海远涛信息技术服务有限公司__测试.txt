@@ -1,0 +1,1 @@
+{'company_name': '上海远涛信息技术服务有限公司', 'job_name': '测试', 'geography': '杭州-滨江区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130577336.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中软国际科技服务有限公司', 'job_name': '大数据开发五险一金+大平台', 'geography': '深圳-福田区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128422802.html?rc=03'}

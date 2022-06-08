@@ -1,0 +1,1 @@
+{'company_name': '国际贤盟系统股份有限公司 INTERNATIONAL ALLIANCE SYSTEMS LIMITED', 'job_name': '平台运维开发工程师', 'geography': '珠海-横琴新区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/125458720.html?rc=03'}

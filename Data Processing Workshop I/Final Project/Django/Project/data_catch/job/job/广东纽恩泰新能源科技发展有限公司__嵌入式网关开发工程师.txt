@@ -1,0 +1,1 @@
+{'company_name': '广东纽恩泰新能源科技发展有限公司', 'job_name': '嵌入式网关开发工程师', 'geography': '广州-增城区', 'bonus': ['节日福利', '领导好', '晋升快', '专业培训'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129049213.html?rc=03'}

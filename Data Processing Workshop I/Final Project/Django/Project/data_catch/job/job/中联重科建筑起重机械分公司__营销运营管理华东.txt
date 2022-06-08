@@ -1,0 +1,1 @@
+{'company_name': '中联重科建筑起重机械分公司', 'job_name': '营销运营管理华东', 'geography': '上海', 'bonus': ['五险一金', '免费班车', '定期体检', '包吃'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127854585.html?rc=03'}

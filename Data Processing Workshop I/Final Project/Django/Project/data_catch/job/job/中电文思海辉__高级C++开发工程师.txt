@@ -1,0 +1,1 @@
+{'company_name': '中电文思海辉', 'job_name': '高级C++开发工程师', 'geography': '深圳', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/123836274.html?rc=03'}

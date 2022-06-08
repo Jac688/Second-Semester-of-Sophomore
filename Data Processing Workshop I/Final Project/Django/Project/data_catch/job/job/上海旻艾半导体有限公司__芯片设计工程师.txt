@@ -1,0 +1,1 @@
+{'company_name': '上海旻艾半导体有限公司', 'job_name': '芯片设计工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/115796853.html?rc=03'}

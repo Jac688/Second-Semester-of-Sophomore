@@ -1,0 +1,1 @@
+{'company_name': '意欧斯物流科技上海有限公司', 'job_name': 'C++软件工程师', 'geography': '合肥-高新区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hefei/131197957.html?rc=03'}

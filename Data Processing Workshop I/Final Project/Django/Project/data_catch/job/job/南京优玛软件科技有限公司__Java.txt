@@ -1,0 +1,1 @@
+{'company_name': '南京优玛软件科技有限公司', 'job_name': 'Java', 'geography': '南京', 'bonus': [], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130971835.html?rc=03'}

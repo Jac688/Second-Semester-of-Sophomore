@@ -1,0 +1,1 @@
+{'company_name': '大连同方软银科技股份有限公司', 'job_name': 'Java开发工程师成都', 'geography': '成都', 'bonus': ['五险一金', '意外伤害险', '交通补贴', '餐饮补贴'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/121463669.html?rc=03'}

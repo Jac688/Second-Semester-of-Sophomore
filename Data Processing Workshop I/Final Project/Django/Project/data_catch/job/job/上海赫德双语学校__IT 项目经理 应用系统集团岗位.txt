@@ -1,0 +1,1 @@
+{'company_name': '上海赫德双语学校', 'job_name': 'IT 项目经理 应用系统集团岗位', 'geography': '上海-松江区', 'bonus': ['五险一金', '定期体检', '免费班车', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130055914.html?rc=03'}

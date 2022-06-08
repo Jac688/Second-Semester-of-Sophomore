@@ -1,0 +1,1 @@
+{'company_name': '上海寰联科技有限公司', 'job_name': 'java web软件开发工程师', 'geography': '上海-静安区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/45148716.html?rc=03'}

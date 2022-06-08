@@ -1,0 +1,1 @@
+{'company_name': '上海悠欧网络工程有限公司', 'job_name': '系统软件开发工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/125459837.html?rc=03'}

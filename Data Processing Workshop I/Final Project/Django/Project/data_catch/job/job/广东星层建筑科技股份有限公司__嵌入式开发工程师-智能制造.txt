@@ -1,0 +1,1 @@
+{'company_name': '广东星层建筑科技股份有限公司', 'job_name': '嵌入式开发工程师-智能制造', 'geography': '广州-海珠区', 'bonus': ['五险一金', '员工旅游', '定期体检', '股票期权'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131179783.html?rc=03'}

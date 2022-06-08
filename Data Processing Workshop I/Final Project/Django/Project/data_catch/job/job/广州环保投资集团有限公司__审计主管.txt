@@ -1,0 +1,1 @@
+{'company_name': '广州环保投资集团有限公司', 'job_name': '审计主管', 'geography': '广州', 'bonus': [], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129832950.html?rc=03'}

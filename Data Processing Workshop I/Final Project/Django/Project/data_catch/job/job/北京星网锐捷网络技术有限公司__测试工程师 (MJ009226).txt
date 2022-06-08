@@ -1,0 +1,1 @@
+{'company_name': '北京星网锐捷网络技术有限公司', 'job_name': '测试工程师 (MJ009226)', 'geography': '福州', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/129764048.html?rc=03'}

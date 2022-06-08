@@ -1,0 +1,1 @@
+{'company_name': '尚善口腔', 'job_name': '网络信息管理员', 'geography': '杭州-西湖区', 'bonus': ['定期体检', '员工旅游', '五险一金', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/119499277.html?rc=03'}

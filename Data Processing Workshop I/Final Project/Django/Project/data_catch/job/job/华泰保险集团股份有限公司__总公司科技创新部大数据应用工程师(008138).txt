@@ -1,0 +1,1 @@
+{'company_name': '华泰保险集团股份有限公司', 'job_name': '总公司科技创新部大数据应用工程师(008138)', 'geography': '北京-西城区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '补充公积金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131376433.html?rc=03'}

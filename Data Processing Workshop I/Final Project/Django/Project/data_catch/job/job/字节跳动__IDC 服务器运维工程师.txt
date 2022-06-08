@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': 'IDC 服务器运维工程师', 'geography': '上海', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129218044.html?rc=03'}

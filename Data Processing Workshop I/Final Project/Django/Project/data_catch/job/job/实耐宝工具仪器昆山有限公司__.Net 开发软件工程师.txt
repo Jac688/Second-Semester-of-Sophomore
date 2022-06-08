@@ -1,0 +1,1 @@
+{'company_name': '实耐宝工具仪器昆山有限公司', 'job_name': '.Net 开发软件工程师', 'geography': '昆山', 'bonus': ['五险一金', '免费班车', '员工旅游', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/63199880.html?rc=03'}

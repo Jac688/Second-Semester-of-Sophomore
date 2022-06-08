@@ -1,0 +1,1 @@
+{'company_name': '北京启明星辰信息安全技术有限公司', 'job_name': '靶场底层研发工程师', 'geography': '成都', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132149364.html?rc=03'}

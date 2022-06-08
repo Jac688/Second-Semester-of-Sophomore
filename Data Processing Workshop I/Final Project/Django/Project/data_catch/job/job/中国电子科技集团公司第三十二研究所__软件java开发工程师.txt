@@ -1,0 +1,1 @@
+{'company_name': '中国电子科技集团公司第三十二研究所', 'job_name': '软件java开发工程师', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '专业培训'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122424658.html?rc=03'}

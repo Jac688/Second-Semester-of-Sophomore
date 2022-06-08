@@ -1,0 +1,1 @@
+{'company_name': '上海贝尔企业通信有限公司', 'job_name': '嵌入式软件开发工程师', 'geography': '上海-浦东新区', 'bonus': ['弹性工作', '交通补贴', '免费班车', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127576093.html?rc=03'}

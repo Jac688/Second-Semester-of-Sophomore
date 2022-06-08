@@ -1,0 +1,1 @@
+{'company_name': '山东山大华特科技股份有限公司', 'job_name': '软件开发工程师', 'geography': '济南-高新区', 'bonus': ['定期体检', '节假日福利', '交通补贴', '餐饮补贴'], 'salary': 0.85, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130305937.html?rc=03'}

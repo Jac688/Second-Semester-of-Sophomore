@@ -1,0 +1,1 @@
+{'company_name': '广西小虎牙科技有限公司', 'job_name': '后端Java工程师', 'geography': '柳州', 'bonus': ['单双休', '生日福利', '节日福利', '法定节假日'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/liuzhou/127349434.html?rc=03'}

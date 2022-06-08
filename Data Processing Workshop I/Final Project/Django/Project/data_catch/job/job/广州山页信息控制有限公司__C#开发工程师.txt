@@ -1,0 +1,1 @@
+{'company_name': '广州山页信息控制有限公司', 'job_name': 'C#开发工程师', 'geography': '广州', 'bonus': ['员工旅游', '节日福利', '全勤奖', '带薪年假'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/105112627.html?rc=03'}

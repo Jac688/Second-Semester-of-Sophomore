@@ -1,0 +1,1 @@
+{'company_name': '上海外服集团有限公司', 'job_name': '测试工程师滨海新区', 'geography': '天津', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '节日礼物'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131958956.html?rc=03'}

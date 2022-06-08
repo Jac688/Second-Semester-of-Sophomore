@@ -1,0 +1,1 @@
+{'company_name': '启维智能科技江苏有限公司', 'job_name': '数据中台应用开发工程师', 'geography': '徐州-泉山区', 'bonus': ['做五休二', '周末双休', '带薪年假', '绩效奖金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/130052170.html?rc=03'}

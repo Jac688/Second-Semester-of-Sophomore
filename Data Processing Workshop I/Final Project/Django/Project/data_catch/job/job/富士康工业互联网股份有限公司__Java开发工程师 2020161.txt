@@ -1,0 +1,1 @@
+{'company_name': '富士康工业互联网股份有限公司', 'job_name': 'Java开发工程师 2020161', 'geography': '杭州-余杭区', 'bonus': ['五险一金', '免费班车', '专业培训', '绩效奖金'], 'salary': 0.97, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/123497920.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '京北方信息技术股份有限公司成都分公司', 'job_name': 'Java中级开发工程师', 'geography': '重庆', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/128467438.html?rc=03'}

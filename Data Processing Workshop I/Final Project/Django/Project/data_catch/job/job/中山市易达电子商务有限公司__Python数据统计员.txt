@@ -1,0 +1,1 @@
+{'company_name': '中山市易达电子商务有限公司', 'job_name': 'Python数据统计员', 'geography': '中山', 'bonus': ['五险一金', '补充公积金', '员工旅游', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/128139181.html?rc=03'}

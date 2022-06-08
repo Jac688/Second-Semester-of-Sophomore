@@ -1,0 +1,1 @@
+{'company_name': '广州城市信息研究所有限公司', 'job_name': 'java开发工程师中级', 'geography': '广州-白云区', 'bonus': ['五险一金', '年终奖金', '定期体检', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129847871.html?rc=03'}

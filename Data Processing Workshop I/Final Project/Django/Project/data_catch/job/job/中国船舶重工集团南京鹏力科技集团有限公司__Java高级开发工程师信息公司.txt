@@ -1,0 +1,1 @@
+{'company_name': '中国船舶重工集团南京鹏力科技集团有限公司', 'job_name': 'Java高级开发工程师信息公司', 'geography': '南京', 'bonus': ['免费班车', '定期体检', '五险一金', '出差补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130997500.html?rc=03'}

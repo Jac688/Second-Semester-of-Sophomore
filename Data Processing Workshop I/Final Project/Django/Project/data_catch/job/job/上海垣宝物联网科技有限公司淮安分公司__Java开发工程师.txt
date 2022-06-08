@@ -1,0 +1,1 @@
+{'company_name': '上海垣宝物联网科技有限公司淮安分公司', 'job_name': 'Java开发工程师', 'geography': '淮安-清江浦区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/huaian/125887369.html?rc=03'}

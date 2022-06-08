@@ -1,0 +1,1 @@
+{'company_name': '天府.星空购物集团', 'job_name': 'PHP开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '周末双休', '部门零食', '部门活动'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130066834.html?rc=03'}

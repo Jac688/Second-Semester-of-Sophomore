@@ -1,0 +1,1 @@
+{'company_name': '山东省轻工业安全生产管理协会', 'job_name': 'java开发工程师', 'geography': '济南-历城区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/124308275.html?rc=03'}

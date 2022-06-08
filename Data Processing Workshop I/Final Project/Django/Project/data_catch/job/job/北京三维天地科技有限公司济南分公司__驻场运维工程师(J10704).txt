@@ -1,0 +1,1 @@
+{'company_name': '北京三维天地科技有限公司济南分公司', 'job_name': '驻场运维工程师(J10704)', 'geography': '南宁-青秀区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '专业培训'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/nanning/130388269.html?rc=03'}

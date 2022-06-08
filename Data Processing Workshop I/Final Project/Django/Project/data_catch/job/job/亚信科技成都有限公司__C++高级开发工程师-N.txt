@@ -1,0 +1,1 @@
+{'company_name': '亚信科技成都有限公司', 'job_name': 'C++高级开发工程师-N', 'geography': '南京', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '定期体检'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130103035.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海绘擎智能科技有限公司', 'job_name': '软件工程师--苏州昆山', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131596094.html?rc=03'}

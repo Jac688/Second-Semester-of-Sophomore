@@ -1,0 +1,1 @@
+{'company_name': '南京畅索软件科技有限公司', 'job_name': '安卓下位机开发', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131616269.html?rc=03'}

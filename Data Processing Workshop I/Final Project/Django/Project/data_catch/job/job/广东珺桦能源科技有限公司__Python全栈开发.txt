@@ -1,0 +1,1 @@
+{'company_name': '广东珺桦能源科技有限公司', 'job_name': 'Python全栈开发', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/98192508.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波波导易联电子有限公司', 'job_name': '系统软件开发工程师高级', 'geography': '宁波', 'bonus': ['五险一金', '员工旅游', '定期体检', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125861905.html?rc=03'}

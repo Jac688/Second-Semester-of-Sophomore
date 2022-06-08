@@ -1,0 +1,1 @@
+{'company_name': '北京嘉华汇诚科技股份有限公司', 'job_name': '嵌入式软件工程师', 'geography': '北京', 'bonus': ['周末双休', '弹性工作', '带薪年假', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129376610.html?rc=03'}

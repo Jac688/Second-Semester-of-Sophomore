@@ -1,0 +1,1 @@
+{'company_name': '广东中科云健康科技有限公司', 'job_name': 'Java开发', 'geography': '广州-黄埔区', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129121283.html?rc=03'}

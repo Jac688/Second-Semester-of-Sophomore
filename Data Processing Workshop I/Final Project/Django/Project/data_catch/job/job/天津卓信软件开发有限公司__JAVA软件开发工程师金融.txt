@@ -1,0 +1,1 @@
+{'company_name': '天津卓信软件开发有限公司', 'job_name': 'JAVA软件开发工程师金融', 'geography': '天津-和平区', 'bonus': ['五险一金', '餐饮补贴', '节日福利', '带薪年假'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/74290216.html?rc=03'}

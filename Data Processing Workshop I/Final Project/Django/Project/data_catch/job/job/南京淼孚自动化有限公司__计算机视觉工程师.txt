@@ -1,0 +1,1 @@
+{'company_name': '南京淼孚自动化有限公司', 'job_name': '计算机视觉工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130651700.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东天农食品集团股份有限公司', 'job_name': '数据分析师', 'geography': '异地招聘', 'bonus': ['交通补贴', '餐饮补贴', '年终奖金', '客户开发奖'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/127636952.html?rc=03'}

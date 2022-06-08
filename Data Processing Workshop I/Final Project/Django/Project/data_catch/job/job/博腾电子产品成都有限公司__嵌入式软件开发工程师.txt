@@ -1,0 +1,1 @@
+{'company_name': '博腾电子产品成都有限公司', 'job_name': '嵌入式软件开发工程师', 'geography': '成都', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130418132.html?rc=03'}

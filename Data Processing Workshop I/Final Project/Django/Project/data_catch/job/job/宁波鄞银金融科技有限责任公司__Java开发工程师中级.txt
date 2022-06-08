@@ -1,0 +1,1 @@
+{'company_name': '宁波鄞银金融科技有限责任公司', 'job_name': 'Java开发工程师中级', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/120459188.html?rc=03'}

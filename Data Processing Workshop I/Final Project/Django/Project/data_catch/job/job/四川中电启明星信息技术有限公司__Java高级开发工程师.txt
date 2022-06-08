@@ -1,0 +1,1 @@
+{'company_name': '四川中电启明星信息技术有限公司', 'job_name': 'Java高级开发工程师', 'geography': '成都', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129061607.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川合纵药易购医药股份有限公司', 'job_name': '大数据架构师', 'geography': '成都-金牛区', 'bonus': ['五险一金', '年终奖金', '弹性工作', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130122939.html?rc=03'}

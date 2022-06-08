@@ -1,0 +1,1 @@
+{'company_name': '惠州市熊猫不走烘焙有限公司', 'job_name': '数据分析师', 'geography': '惠州-惠城区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/128155266.html?rc=03'}

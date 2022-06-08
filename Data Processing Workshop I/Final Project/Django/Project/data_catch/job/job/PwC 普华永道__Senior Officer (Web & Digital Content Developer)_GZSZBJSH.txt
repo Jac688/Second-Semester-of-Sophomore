@@ -1,0 +1,1 @@
+{'company_name': 'PwC 普华永道', 'job_name': 'Senior Officer (Web & Digital Content Developer)_GZSZBJSH', 'geography': '上海', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130329960.html?rc=03'}

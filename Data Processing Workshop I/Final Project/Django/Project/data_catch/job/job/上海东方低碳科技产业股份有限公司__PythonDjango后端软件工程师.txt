@@ -1,0 +1,1 @@
+{'company_name': '上海东方低碳科技产业股份有限公司', 'job_name': 'PythonDjango后端软件工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/109764789.html?rc=03'}

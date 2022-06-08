@@ -1,0 +1,1 @@
+{'company_name': '元码基因科技北京股份有限公司', 'job_name': '生物信息-生产', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129618630.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'Bureau Veritas 必维欧亚电气技术咨询服务上海有限公司', 'job_name': '网络安全工程师(渗透测试', 'geography': '上海-松江区', 'bonus': ['周末双休', '五险一金', '带薪年假', '专业培训'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128845436.html?rc=03'}

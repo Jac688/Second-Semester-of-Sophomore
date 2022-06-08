@@ -1,0 +1,1 @@
+{'company_name': '天津云科世讯科技有限公司', 'job_name': 'Java开发工程师中级', 'geography': '天津-北辰区', 'bonus': ['员工旅游', '年终奖金', '弹性工作', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/126048016.html?rc=03'}

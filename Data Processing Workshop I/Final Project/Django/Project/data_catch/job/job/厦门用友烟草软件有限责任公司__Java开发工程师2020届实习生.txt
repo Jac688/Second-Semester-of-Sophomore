@@ -1,0 +1,1 @@
+{'company_name': '厦门用友烟草软件有限责任公司', 'job_name': 'Java开发工程师2020届实习生', 'geography': '异地招聘', 'bonus': ['五险一金', '弹性工作', '餐饮补贴', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/114533002.html?rc=03'}

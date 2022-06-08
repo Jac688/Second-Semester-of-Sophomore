@@ -1,0 +1,1 @@
+{'company_name': '喜临门家具股份有限公司', 'job_name': '软件开发工程师(000956)(001523)', 'geography': '绍兴', 'bonus': ['绩效奖金', '带薪年假', '午餐补助', '通讯津贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shaoxing/129136781.html?rc=03'}

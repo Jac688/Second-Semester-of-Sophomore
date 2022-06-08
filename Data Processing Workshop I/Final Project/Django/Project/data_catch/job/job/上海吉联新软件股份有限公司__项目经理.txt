@@ -1,0 +1,1 @@
+{'company_name': '上海吉联新软件股份有限公司', 'job_name': '项目经理', 'geography': '厦门', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/129438268.html?rc=03'}

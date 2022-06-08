@@ -1,0 +1,1 @@
+{'company_name': '山鹰国际控股股份公司', 'job_name': '营销管培生-数据方向', 'geography': '嘉兴-海盐县', 'bonus': ['五险一金', '免费班车', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/131139019.html?rc=03'}

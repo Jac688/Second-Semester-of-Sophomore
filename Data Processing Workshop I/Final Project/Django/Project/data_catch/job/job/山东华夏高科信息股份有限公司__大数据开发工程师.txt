@@ -1,0 +1,1 @@
+{'company_name': '山东华夏高科信息股份有限公司', 'job_name': '大数据开发工程师', 'geography': '临沂', 'bonus': ['员工旅游', '定期体检', '免费班车', '包住宿'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/linyi/130504553.html?rc=03'}

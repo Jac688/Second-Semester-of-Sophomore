@@ -1,0 +1,1 @@
+{'company_name': '南京披云信息科技有限公司', 'job_name': 'Java软件工程师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/106102766.html?rc=03'}

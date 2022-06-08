@@ -1,0 +1,1 @@
+{'company_name': '上海太阳生物技术有限公司', 'job_name': 'IT专员  系统工程师', 'geography': '上海', 'bonus': ['周末双休', '带薪年假', '专业培训', '年终奖金'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130664935.html?rc=03'}

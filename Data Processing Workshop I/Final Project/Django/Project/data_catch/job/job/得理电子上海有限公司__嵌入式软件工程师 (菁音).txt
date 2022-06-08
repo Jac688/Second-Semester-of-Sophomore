@@ -1,0 +1,1 @@
+{'company_name': '得理电子上海有限公司', 'job_name': '嵌入式软件工程师 (菁音)', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125551784.html?rc=03'}

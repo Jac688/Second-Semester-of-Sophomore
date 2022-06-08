@@ -1,0 +1,1 @@
+{'company_name': '上海英众信息科技有限公司', 'job_name': '单片机(C语言)研发工程师', 'geography': '上海-松江区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '做五休二'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127847524.html?rc=03'}

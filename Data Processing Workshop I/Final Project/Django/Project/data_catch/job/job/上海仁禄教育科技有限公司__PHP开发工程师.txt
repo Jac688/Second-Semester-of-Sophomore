@@ -1,0 +1,1 @@
+{'company_name': '上海仁禄教育科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '池州', 'bonus': ['五险一金', '专业培训', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chizhou/126686316.html?rc=03'}

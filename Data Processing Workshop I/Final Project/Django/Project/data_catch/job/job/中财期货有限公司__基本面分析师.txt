@@ -1,0 +1,1 @@
+{'company_name': '中财期货有限公司', 'job_name': '基本面分析师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129462981.html?rc=03'}

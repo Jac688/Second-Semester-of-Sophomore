@@ -1,0 +1,1 @@
+{'company_name': '北京梆梆安全科技有限公司', 'job_name': '渗透测试工程师天津', 'geography': '天津-西青区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131271828.html?rc=03'}

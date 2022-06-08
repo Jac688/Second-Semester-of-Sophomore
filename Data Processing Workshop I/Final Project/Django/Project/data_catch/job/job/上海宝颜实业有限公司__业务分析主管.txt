@@ -1,0 +1,1 @@
+{'company_name': '上海宝颜实业有限公司', 'job_name': '业务分析主管', 'geography': '上海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127402859.html?rc=03'}

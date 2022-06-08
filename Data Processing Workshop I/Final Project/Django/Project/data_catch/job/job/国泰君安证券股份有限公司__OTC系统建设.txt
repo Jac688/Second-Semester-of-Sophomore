@@ -1,0 +1,1 @@
+{'company_name': '国泰君安证券股份有限公司', 'job_name': 'OTC系统建设', 'geography': '上海-静安区', 'bonus': ['五险一金', '绩效奖金'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132262082.html?rc=03'}

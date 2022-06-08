@@ -1,0 +1,1 @@
+{'company_name': '广东亿讯电子有限公司', 'job_name': 'software Engineer Product Design Dept.', 'geography': '佛山-顺德区', 'bonus': ['周末双休', '五险一金', '带薪年假', '包三餐'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/foshan/119271356.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '富士康科技集团CESBG事业群', 'job_name': 'SA系统运维工程师(WindowsLinux)', 'geography': '天津-滨海新区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/126272003.html?rc=03'}

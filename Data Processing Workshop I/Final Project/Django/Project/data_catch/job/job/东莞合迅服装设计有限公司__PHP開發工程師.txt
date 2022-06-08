@@ -1,0 +1,1 @@
+{'company_name': '东莞合迅服装设计有限公司', 'job_name': 'PHP開發工程師', 'geography': '东莞', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131076708.html?rc=03'}

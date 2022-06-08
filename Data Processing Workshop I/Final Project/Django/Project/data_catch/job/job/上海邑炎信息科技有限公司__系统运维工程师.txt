@@ -1,0 +1,1 @@
+{'company_name': '上海邑炎信息科技有限公司', 'job_name': '系统运维工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130557636.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中建西部建设股份有限公司', 'job_name': 'Java研发工程师(J10135)', 'geography': '成都-双流区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132170378.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中软国际科技服务有限公司', 'job_name': 'CC++开发', 'geography': '北京-昌平区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129952287.html?rc=03'}

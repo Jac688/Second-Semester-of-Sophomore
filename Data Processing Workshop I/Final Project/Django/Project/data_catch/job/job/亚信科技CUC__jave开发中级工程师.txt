@@ -1,0 +1,1 @@
+{'company_name': '亚信科技CUC', 'job_name': 'jave开发中级工程师', 'geography': '海口-龙华区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/haikou/130417021.html?rc=03'}

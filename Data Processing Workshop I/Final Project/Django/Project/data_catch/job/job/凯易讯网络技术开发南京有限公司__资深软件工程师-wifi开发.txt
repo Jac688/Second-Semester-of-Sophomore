@@ -1,0 +1,1 @@
+{'company_name': '凯易讯网络技术开发南京有限公司', 'job_name': '资深软件工程师-wifi开发', 'geography': '南京', 'bonus': ['弹性工作', '五险一金', '补充医疗保险', '年终奖金'], 'salary': 2.17, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132221590.html?rc=03'}

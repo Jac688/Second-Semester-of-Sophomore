@@ -1,0 +1,1 @@
+{'company_name': '云鲸智能科技东莞有限公司', 'job_name': '嵌入式软件工程师', 'geography': '东莞-东坑镇', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/129606786.html?rc=03'}

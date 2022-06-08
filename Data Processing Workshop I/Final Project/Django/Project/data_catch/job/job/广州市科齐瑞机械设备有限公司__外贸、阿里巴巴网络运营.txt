@@ -1,0 +1,1 @@
+{'company_name': '广州市科齐瑞机械设备有限公司', 'job_name': '外贸、阿里巴巴网络运营', 'geography': '广州-花都区', 'bonus': ['餐饮补贴', '五险', '补充意外险', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129058572.html?rc=03'}

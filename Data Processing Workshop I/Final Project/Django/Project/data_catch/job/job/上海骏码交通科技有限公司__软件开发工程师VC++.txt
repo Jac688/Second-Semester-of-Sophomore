@@ -1,0 +1,1 @@
+{'company_name': '上海骏码交通科技有限公司', 'job_name': '软件开发工程师VC++', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130470715.html?rc=03'}

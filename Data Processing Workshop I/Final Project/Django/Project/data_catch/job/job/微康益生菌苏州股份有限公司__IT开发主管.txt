@@ -1,0 +1,1 @@
+{'company_name': '微康益生菌苏州股份有限公司', 'job_name': 'IT开发主管', 'geography': '苏州-吴江区', 'bonus': ['绩效奖金', '专业培训', '带薪年假', '定期体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/129988089.html?rc=03'}

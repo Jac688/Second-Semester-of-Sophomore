@@ -1,0 +1,1 @@
+{'company_name': 'NTT DATA中国有限公司', 'job_name': 'Java开发工程师日语', 'geography': '无锡', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/132050851.html?rc=03'}

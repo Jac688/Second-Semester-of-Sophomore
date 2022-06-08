@@ -1,0 +1,1 @@
+{'company_name': '康达洲际医疗器械有限公司', 'job_name': '软件工程师', 'geography': '宁波-北仑区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/114872352.html?rc=03'}

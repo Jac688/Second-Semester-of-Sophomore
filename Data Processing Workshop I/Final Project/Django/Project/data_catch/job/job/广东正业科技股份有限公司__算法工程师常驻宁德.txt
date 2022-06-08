@@ -1,0 +1,1 @@
+{'company_name': '广东正业科技股份有限公司', 'job_name': '算法工程师常驻宁德', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '全勤奖', '包吃'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/125300416.html?rc=03'}

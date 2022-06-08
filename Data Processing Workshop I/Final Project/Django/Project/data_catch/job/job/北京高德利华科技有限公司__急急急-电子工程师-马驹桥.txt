@@ -1,0 +1,1 @@
+{'company_name': '北京高德利华科技有限公司', 'job_name': '急急急-电子工程师-马驹桥', 'geography': '北京-通州区', 'bonus': ['包吃', '全勤奖', '绩效奖金', '加班补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131879785.html?rc=03'}

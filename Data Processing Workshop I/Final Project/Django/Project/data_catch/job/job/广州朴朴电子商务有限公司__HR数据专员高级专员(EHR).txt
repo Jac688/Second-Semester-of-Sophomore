@@ -1,0 +1,1 @@
+{'company_name': '广州朴朴电子商务有限公司', 'job_name': 'HR数据专员高级专员(EHR)', 'geography': '广州-越秀区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128423208.html?rc=03'}

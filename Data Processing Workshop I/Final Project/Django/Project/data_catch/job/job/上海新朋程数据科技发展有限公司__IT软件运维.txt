@@ -1,0 +1,1 @@
+{'company_name': '上海新朋程数据科技发展有限公司', 'job_name': 'IT软件运维', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '员工旅游', '定期体检', '带薪年假'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128433665.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国移动通信有限公司在线营销服务中心', 'job_name': '产品开发', 'geography': '广州-天河区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131758737.html?rc=03'}

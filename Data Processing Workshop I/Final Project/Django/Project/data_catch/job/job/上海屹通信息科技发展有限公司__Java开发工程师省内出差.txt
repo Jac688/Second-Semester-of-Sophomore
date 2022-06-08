@@ -1,0 +1,1 @@
+{'company_name': '上海屹通信息科技发展有限公司', 'job_name': 'Java开发工程师省内出差', 'geography': '南宁', 'bonus': ['五险一金', '年终奖金', '专业培训', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanning/128179427.html?rc=03'}

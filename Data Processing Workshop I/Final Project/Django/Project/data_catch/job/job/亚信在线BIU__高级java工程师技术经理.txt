@@ -1,0 +1,1 @@
+{'company_name': '亚信在线BIU', 'job_name': '高级java工程师技术经理', 'geography': '成都-高新区', 'bonus': ['五险一金', '弹性工作', '周末双休', '生日福利'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131500367.html?rc=03'}

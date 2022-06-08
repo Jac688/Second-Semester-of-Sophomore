@@ -1,0 +1,1 @@
+{'company_name': '佛吉亚排气控制技术开发(上海)有限公司', 'job_name': 'Software Engineer 软件工程师', 'geography': '上海-闵行区', 'bonus': ['交通补贴', '通讯补贴', '弹性工作', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128706321.html?rc=03'}

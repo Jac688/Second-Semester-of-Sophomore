@@ -1,0 +1,1 @@
+{'company_name': '上海博恩登特科技有限公司', 'job_name': 'C++高级开发工程师', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '专业培训', '带薪年假', '节日福利'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130733931.html?rc=03'}

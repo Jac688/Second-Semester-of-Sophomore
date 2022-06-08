@@ -1,0 +1,1 @@
+{'company_name': '北京锐马视讯科技有限公司', 'job_name': '视音频编解码工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '员工旅游'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/120999708.html?rc=03'}

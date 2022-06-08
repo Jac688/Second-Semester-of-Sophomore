@@ -1,0 +1,1 @@
+{'company_name': '同方鼎欣科技股份有限公司', 'job_name': 'Java开发工程师3-4年 M', 'geography': '南京', 'bonus': ['五险一金', '定期体检', '年终奖金', '绩效奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/122775757.html?rc=03'}

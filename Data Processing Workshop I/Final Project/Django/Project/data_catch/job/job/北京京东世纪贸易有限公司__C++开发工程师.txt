@@ -1,0 +1,1 @@
+{'company_name': '北京京东世纪贸易有限公司', 'job_name': 'C++开发工程师', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127655190.html?rc=03'}

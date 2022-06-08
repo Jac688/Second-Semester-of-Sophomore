@@ -1,0 +1,1 @@
+{'company_name': '中移杭州信息技术有限公司', 'job_name': '国标网关开发工程师(J10349)', 'geography': '异地招聘', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/129080222.html?rc=03'}

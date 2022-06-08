@@ -1,0 +1,1 @@
+{'company_name': '广东兴发铝业有限公司', 'job_name': 'DBA工程师铝业', 'geography': '佛山', 'bonus': ['员工旅游', '专业培训', '定期体检', '免费班车'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/119730603.html?rc=03'}

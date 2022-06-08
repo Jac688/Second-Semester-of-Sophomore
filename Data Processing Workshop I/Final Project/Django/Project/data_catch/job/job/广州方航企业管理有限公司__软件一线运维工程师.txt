@@ -1,0 +1,1 @@
+{'company_name': '广州方航企业管理有限公司', 'job_name': '软件一线运维工程师', 'geography': '青岛-崂山区', 'bonus': ['加班补贴', '五险一金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/130091454.html?rc=03'}

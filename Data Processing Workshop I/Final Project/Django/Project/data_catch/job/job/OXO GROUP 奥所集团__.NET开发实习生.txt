@@ -1,0 +1,1 @@
+{'company_name': 'OXO GROUP 奥所集团', 'job_name': '.NET开发实习生', 'geography': '上海-闵行区', 'bonus': ['五险一金', '年终奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123031128.html?rc=03'}

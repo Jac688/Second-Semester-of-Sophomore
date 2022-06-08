@@ -1,0 +1,1 @@
+{'company_name': '德比软件上海有限公司', 'job_name': 'Java开发工程师-SH(J10152)', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132105877.html?rc=03'}

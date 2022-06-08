@@ -1,0 +1,1 @@
+{'company_name': '北京波尔通信技术股份有限公司', 'job_name': 'Java开发工程师', 'geography': '长春-朝阳区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changchun/124402680.html?rc=03'}

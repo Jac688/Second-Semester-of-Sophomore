@@ -1,0 +1,1 @@
+{'company_name': '安盛天平财产保险股份有限公司山东分公司', 'job_name': '汽车保险销售内勤编制', 'geography': '烟台-高新区', 'bonus': ['做五休二', '五险一金', '周末双休', '弹性工作'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/yantai/127197285.html?rc=03'}

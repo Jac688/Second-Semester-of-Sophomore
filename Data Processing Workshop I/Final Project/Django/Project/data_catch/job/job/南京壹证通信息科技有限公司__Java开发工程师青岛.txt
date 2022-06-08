@@ -1,0 +1,1 @@
+{'company_name': '南京壹证通信息科技有限公司', 'job_name': 'Java开发工程师青岛', 'geography': '青岛-崂山区', 'bonus': ['五险一金', '餐饮补贴', '带薪年假', '周末双休'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/131673333.html?rc=03'}

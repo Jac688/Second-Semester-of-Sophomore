@@ -1,0 +1,1 @@
+{'company_name': '山东隆悦信息科技有限公司', 'job_name': 'java(双休+五险一金+带薪年假)', 'geography': '济南-历下区', 'bonus': ['五险一金', '周末双休', '年终奖金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/132155329.html?rc=03'}

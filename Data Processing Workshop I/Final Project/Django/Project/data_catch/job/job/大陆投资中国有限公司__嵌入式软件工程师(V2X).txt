@@ -1,0 +1,1 @@
+{'company_name': '大陆投资中国有限公司', 'job_name': '嵌入式软件工程师(V2X)', 'geography': '上海-杨浦区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132035439.html?rc=03'}

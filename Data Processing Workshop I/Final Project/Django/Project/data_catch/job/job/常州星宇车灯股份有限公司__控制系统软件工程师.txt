@@ -1,0 +1,1 @@
+{'company_name': '常州星宇车灯股份有限公司', 'job_name': '控制系统软件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '定期体检', '员工旅游', '年终奖金'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128078583.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东宝莱特医用科技股份有限公司', 'job_name': '软件工程师血透', 'geography': '珠海', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/128378854.html?rc=03'}

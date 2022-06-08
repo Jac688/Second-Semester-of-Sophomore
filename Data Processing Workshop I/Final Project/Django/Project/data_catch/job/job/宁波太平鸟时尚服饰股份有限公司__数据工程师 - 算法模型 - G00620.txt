@@ -1,0 +1,1 @@
+{'company_name': '宁波太平鸟时尚服饰股份有限公司', 'job_name': '数据工程师 - 算法模型 - G00620', 'geography': '宁波-高新区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129491497.html?rc=03'}

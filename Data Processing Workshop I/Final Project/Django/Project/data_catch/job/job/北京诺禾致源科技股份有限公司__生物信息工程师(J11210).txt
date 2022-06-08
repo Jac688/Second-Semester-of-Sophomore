@@ -1,0 +1,1 @@
+{'company_name': '北京诺禾致源科技股份有限公司', 'job_name': '生物信息工程师(J11210)', 'geography': '异地招聘', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131408536.html?rc=03'}

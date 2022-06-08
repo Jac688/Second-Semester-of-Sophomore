@@ -1,0 +1,1 @@
+{'company_name': '上海畅联智融通讯科技有限公司', 'job_name': 'Android Framework开发工程师(重庆)', 'geography': '重庆-渝北区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/99191188.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京快鱼电子股份公司', 'job_name': 'Java后台开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '全勤奖', '节假日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127148645.html?rc=03'}

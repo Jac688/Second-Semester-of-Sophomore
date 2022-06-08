@@ -1,0 +1,1 @@
+{'company_name': '南京深度信息科技有限公司', 'job_name': 'C++高级开发工程师', 'geography': '南京-鼓楼区', 'bonus': ['五险一金', '年终奖金', '周末双休', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/79095801.html?rc=03'}

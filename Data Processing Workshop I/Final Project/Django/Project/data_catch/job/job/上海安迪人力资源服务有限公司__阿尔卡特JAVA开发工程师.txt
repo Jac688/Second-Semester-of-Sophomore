@@ -1,0 +1,1 @@
+{'company_name': '上海安迪人力资源服务有限公司', 'job_name': '阿尔卡特JAVA开发工程师', 'geography': '上海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131528309.html?rc=03'}

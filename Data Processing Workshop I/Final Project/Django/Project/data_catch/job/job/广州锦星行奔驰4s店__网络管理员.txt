@@ -1,0 +1,1 @@
+{'company_name': '广州锦星行奔驰4s店', 'job_name': '网络管理员', 'geography': '广州-天河区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '免费班车'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/115230839.html?rc=03'}

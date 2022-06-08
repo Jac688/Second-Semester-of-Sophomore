@@ -1,0 +1,1 @@
+{'company_name': '东莞铭普光磁股份有限公司', 'job_name': '应用软件开发工程师', 'geography': '东莞-石排镇', 'bonus': ['周末双休', '包食宿', '五险一金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/93423584.html?rc=03'}

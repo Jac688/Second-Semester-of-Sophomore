@@ -1,0 +1,1 @@
+{'company_name': '宁波盛世泓业集团有限公司', 'job_name': '数据分析师', 'geography': '宁波-海曙区', 'bonus': ['周末双休', '带薪年假', '五险一金', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129003274.html?rc=03'}

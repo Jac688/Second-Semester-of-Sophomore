@@ -1,0 +1,1 @@
+{'company_name': '广州盛原成科技有限公司', 'job_name': '系统架构师C++)', 'geography': '广州-番禺区', 'bonus': ['五险一金', '专业培训', '员工旅游', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132285123.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '思极星能科技四川有限公司', 'job_name': '开发工程师', 'geography': '北京-西城区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129413589.html?rc=03'}

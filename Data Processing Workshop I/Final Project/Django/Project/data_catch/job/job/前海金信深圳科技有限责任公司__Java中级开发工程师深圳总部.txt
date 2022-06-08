@@ -1,0 +1,1 @@
+{'company_name': '前海金信深圳科技有限责任公司', 'job_name': 'Java中级开发工程师深圳总部', 'geography': '深圳-罗湖区', 'bonus': ['五险一金', '周末双休', '加班补贴', '做五休二'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132009258.html?rc=03'}

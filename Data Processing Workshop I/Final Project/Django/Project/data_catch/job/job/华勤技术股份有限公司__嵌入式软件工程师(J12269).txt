@@ -1,0 +1,1 @@
+{'company_name': '华勤技术股份有限公司', 'job_name': '嵌入式软件工程师(J12269)', 'geography': '东莞-松山湖区', 'bonus': ['弹性工作', '餐饮补贴', '交通补贴', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131060364.html?rc=03'}

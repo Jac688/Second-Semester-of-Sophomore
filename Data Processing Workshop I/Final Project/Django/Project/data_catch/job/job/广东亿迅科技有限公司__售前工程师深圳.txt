@@ -1,0 +1,1 @@
+{'company_name': '广东亿迅科技有限公司', 'job_name': '售前工程师深圳', 'geography': '深圳-福田区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131263144.html?rc=03'}

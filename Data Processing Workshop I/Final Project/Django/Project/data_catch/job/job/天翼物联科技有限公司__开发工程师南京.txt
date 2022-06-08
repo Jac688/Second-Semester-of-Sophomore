@@ -1,0 +1,1 @@
+{'company_name': '天翼物联科技有限公司', 'job_name': '开发工程师南京', 'geography': '南京-鼓楼区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131667053.html?rc=03'}

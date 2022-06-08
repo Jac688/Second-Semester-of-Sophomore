@@ -1,0 +1,1 @@
+{'company_name': '佳速投资咨询上海有限公司', 'job_name': '数据工程师 Genetsis', 'geography': '上海-静安区', 'bonus': ['弹性工作', '出国机会', '国际团队'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129694102.html?rc=03'}

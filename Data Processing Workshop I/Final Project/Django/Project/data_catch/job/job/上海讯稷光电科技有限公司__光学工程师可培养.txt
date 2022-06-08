@@ -1,0 +1,1 @@
+{'company_name': '上海讯稷光电科技有限公司', 'job_name': '光学工程师可培养', 'geography': '上海-普陀区', 'bonus': ['五险一金', '弹性工作', '定期体检', '员工旅游'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/109612325.html?rc=03'}

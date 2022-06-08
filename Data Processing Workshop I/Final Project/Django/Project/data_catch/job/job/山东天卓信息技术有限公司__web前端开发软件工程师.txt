@@ -1,0 +1,1 @@
+{'company_name': '山东天卓信息技术有限公司', 'job_name': 'web前端开发软件工程师', 'geography': '济南-市中区', 'bonus': ['五险一金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130386734.html?rc=03'}

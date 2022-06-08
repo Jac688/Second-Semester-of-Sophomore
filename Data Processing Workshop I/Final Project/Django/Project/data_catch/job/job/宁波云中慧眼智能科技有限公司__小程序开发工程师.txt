@@ -1,0 +1,1 @@
+{'company_name': '宁波云中慧眼智能科技有限公司', 'job_name': '小程序开发工程师', 'geography': '宁波-鄞州区', 'bonus': ['专业培训', '弹性工作', '五险一金', '绩效奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127860305.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东瑞洲科技有限公司', 'job_name': '高级软件工程师', 'geography': '佛山', 'bonus': ['全勤奖', '五险一金', '员工旅游', '包吃住'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/130685666.html?rc=03'}

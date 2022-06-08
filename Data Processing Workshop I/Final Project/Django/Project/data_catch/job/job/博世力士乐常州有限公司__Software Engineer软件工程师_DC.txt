@@ -1,0 +1,1 @@
+{'company_name': '博世力士乐常州有限公司', 'job_name': 'Software Engineer软件工程师_DC', 'geography': '常州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/130816454.html?rc=03'}

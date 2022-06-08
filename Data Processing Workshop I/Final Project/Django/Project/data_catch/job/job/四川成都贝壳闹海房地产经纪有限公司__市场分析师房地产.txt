@@ -1,0 +1,1 @@
+{'company_name': '四川成都贝壳闹海房地产经纪有限公司', 'job_name': '市场分析师房地产', 'geography': '成都-武侯区', 'bonus': ['五险一金', '带薪年假', '专业培训', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131093160.html?rc=03'}

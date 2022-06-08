@@ -1,0 +1,1 @@
+{'company_name': '乐山无线电股份有限公司', 'job_name': '软件工程师WMS', 'geography': '乐山', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '员工旅游'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/leshan/129831980.html?rc=03'}

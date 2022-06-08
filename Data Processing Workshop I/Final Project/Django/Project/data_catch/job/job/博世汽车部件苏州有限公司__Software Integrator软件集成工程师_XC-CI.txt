@@ -1,0 +1,1 @@
+{'company_name': '博世汽车部件苏州有限公司', 'job_name': 'Software Integrator软件集成工程师_XC-CI', 'geography': '上海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129254048.html?rc=03'}

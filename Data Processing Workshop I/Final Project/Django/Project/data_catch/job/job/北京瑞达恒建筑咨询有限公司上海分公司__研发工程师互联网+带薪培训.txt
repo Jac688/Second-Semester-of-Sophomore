@@ -1,0 +1,1 @@
+{'company_name': '北京瑞达恒建筑咨询有限公司上海分公司', 'job_name': '研发工程师互联网+带薪培训', 'geography': '上海-黄浦区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126151495.html?rc=03'}

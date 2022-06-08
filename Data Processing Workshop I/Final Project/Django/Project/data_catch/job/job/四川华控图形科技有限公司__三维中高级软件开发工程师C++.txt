@@ -1,0 +1,1 @@
+{'company_name': '四川华控图形科技有限公司', 'job_name': '三维中高级软件开发工程师C++', 'geography': '成都-成华区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/50905945.html?rc=03'}

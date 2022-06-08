@@ -1,0 +1,1 @@
+{'company_name': '华强方特文化科技集团股份有限公司', 'job_name': 'JAVA开发工程师', 'geography': '深圳', 'bonus': ['五险一金', '员工旅游', '年终奖金', '弹性工作'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/120960216.html?rc=03'}

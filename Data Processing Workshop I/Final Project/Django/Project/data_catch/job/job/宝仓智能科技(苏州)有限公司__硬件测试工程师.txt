@@ -1,0 +1,1 @@
+{'company_name': '宝仓智能科技(苏州)有限公司', 'job_name': '硬件测试工程师', 'geography': '苏州', 'bonus': ['五险一金', '交通补贴', '节日福利', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/125494316.html?rc=03'}

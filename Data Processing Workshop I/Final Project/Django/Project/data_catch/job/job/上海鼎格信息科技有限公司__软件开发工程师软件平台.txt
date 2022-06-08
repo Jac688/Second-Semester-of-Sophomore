@@ -1,0 +1,1 @@
+{'company_name': '上海鼎格信息科技有限公司', 'job_name': '软件开发工程师软件平台', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '股票期权'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129981085.html?rc=03'}

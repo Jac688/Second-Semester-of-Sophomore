@@ -1,0 +1,1 @@
+{'company_name': '卓望数码技术深圳有限公司', 'job_name': 'JAVA开发工程师G835089', 'geography': '北京-丰台区', 'bonus': ['七险二金', '通讯补贴', '午餐补贴', '中国移动控股'], 'salary': 2.33, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132037647.html?rc=03'}

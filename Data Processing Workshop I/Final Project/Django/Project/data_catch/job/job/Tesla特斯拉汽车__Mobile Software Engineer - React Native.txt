@@ -1,0 +1,1 @@
+{'company_name': 'Tesla特斯拉汽车', 'job_name': 'Mobile Software Engineer - React Native', 'geography': '异地招聘', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130566912.html?rc=03'}

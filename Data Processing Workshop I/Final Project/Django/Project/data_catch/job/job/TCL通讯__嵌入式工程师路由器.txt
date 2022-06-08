@@ -1,0 +1,1 @@
+{'company_name': 'TCL通讯', 'job_name': '嵌入式工程师路由器', 'geography': '深圳-南山区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128413686.html?rc=03'}

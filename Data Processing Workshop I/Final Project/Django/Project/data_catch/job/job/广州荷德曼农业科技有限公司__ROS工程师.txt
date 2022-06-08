@@ -1,0 +1,1 @@
+{'company_name': '广州荷德曼农业科技有限公司', 'job_name': 'ROS工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '弹性工作'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130667908.html?rc=03'}

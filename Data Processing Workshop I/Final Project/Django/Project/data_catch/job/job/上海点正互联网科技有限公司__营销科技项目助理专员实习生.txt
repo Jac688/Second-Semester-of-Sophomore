@@ -1,0 +1,1 @@
+{'company_name': '上海点正互联网科技有限公司', 'job_name': '营销科技项目助理专员实习生', 'geography': '上海', 'bonus': ['休闲小食', '扁平管理', '专业培训', '领导好'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132156592.html?rc=03'}

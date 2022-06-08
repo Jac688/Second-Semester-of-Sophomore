@@ -1,0 +1,1 @@
+{'company_name': '上海铧盛计算机系统科技有限公司', 'job_name': 'JAVA全栈工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127607932.html?rc=03'}

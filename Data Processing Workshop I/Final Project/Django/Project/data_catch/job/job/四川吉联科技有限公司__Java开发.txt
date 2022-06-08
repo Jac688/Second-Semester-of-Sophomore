@@ -1,0 +1,1 @@
+{'company_name': '四川吉联科技有限公司', 'job_name': 'Java开发', 'geography': '成都', 'bonus': ['专业培训', '五险一金', '全勤奖', '公司重点项目'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130364532.html?rc=03'}

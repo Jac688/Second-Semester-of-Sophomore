@@ -1,0 +1,1 @@
+{'company_name': 'National Instruments (美国国家仪器)', 'job_name': 'Graduate Rotational Program毕业生轮岗计划', 'geography': '异地招聘', 'bonus': ['五险一金', '免费班车', '专业培训', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127276058.html?rc=03'}

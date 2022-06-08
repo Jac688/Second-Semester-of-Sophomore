@@ -1,0 +1,1 @@
+{'company_name': '博格华纳中国投资有限公司', 'job_name': 'APP Testing Enginner', 'geography': '上海-闵行区', 'bonus': ['补充医疗保险', '补充公积金', '免费班车', '员工旅游'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126830680.html?rc=03'}

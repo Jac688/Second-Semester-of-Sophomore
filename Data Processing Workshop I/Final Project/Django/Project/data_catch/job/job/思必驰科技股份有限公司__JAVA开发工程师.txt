@@ -1,0 +1,1 @@
+{'company_name': '思必驰科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130214922.html?rc=03'}

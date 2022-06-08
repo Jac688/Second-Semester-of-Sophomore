@@ -1,0 +1,1 @@
+{'company_name': '史丹利农业集团股份有限公司', 'job_name': 'Java开发工程师', 'geography': '临沂-临沭县', 'bonus': ['五险一金', '定期体检', '带薪假期', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/linyi/132260494.html?rc=03'}

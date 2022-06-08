@@ -1,0 +1,1 @@
+{'company_name': '上海国际主题乐园有限公司上海迪士尼度假区', 'job_name': '人力资源信息系统需求分析师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '免费班车', '定期体检', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130669515.html?rc=03'}

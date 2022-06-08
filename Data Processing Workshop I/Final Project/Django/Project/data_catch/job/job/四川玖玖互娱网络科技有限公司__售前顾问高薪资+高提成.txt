@@ -1,0 +1,1 @@
+{'company_name': '四川玖玖互娱网络科技有限公司', 'job_name': '售前顾问高薪资+高提成', 'geography': '成都-锦江区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126436162.html?rc=03'}

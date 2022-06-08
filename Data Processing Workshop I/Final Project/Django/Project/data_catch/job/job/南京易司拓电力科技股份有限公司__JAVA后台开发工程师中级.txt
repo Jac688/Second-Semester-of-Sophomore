@@ -1,0 +1,1 @@
+{'company_name': '南京易司拓电力科技股份有限公司', 'job_name': 'JAVA后台开发工程师中级', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '员工旅游', '专业培训', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/74715738.html?rc=03'}

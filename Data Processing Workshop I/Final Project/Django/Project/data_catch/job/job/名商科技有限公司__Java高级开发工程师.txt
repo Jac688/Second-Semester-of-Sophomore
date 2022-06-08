@@ -1,0 +1,1 @@
+{'company_name': '名商科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '惠州', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/127429885.html?rc=03'}

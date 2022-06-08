@@ -1,0 +1,1 @@
+{'company_name': '上海遨有信息技术有限公司', 'job_name': '嵌入式协议软件工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128943565.html?rc=03'}

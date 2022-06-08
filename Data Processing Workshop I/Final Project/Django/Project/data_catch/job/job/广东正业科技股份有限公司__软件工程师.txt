@@ -1,0 +1,1 @@
+{'company_name': '广东正业科技股份有限公司', 'job_name': '软件工程师', 'geography': '东莞-松山湖区', 'bonus': ['五险一金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/125586992.html?rc=03'}

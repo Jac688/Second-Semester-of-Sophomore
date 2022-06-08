@@ -1,0 +1,1 @@
+{'company_name': '华灿光电苏州有限公司', 'job_name': 'MES工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '全勤奖', '带薪年假'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/126081537.html?rc=03'}

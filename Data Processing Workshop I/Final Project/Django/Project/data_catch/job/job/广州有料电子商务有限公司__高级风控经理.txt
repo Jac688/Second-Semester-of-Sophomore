@@ -1,0 +1,1 @@
+{'company_name': '广州有料电子商务有限公司', 'job_name': '高级风控经理', 'geography': '广州-黄埔区', 'bonus': ['周末双休', '带薪年假', '五险一金', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127518701.html?rc=03'}

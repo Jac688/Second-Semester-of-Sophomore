@@ -1,0 +1,1 @@
+{'company_name': '上海猎英人才服务有限公司', 'job_name': 'China Digital Solution(Wechat)', 'geography': '上海', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '年终奖金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128211869.html?rc=03'}

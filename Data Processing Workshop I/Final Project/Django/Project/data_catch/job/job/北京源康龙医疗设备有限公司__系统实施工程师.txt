@@ -1,0 +1,1 @@
+{'company_name': '北京源康龙医疗设备有限公司', 'job_name': '系统实施工程师', 'geography': '天津-武清区', 'bonus': ['交通补贴', '通讯补贴', '餐饮补贴', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130701214.html?rc=03'}

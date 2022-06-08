@@ -1,0 +1,1 @@
+{'company_name': '大连东软教育科技集团有限公司', 'job_name': '软件开发技术讲师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '专业培训', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125861596.html?rc=03'}

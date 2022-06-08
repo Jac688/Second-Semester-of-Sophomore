@@ -1,0 +1,1 @@
+{'company_name': '天津市云智人力资源服务有限公司', 'job_name': 'Java开发工程师', 'geography': '天津-和平区', 'bonus': ['节日福利', '五险一金', '专业培训', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130338163.html?rc=03'}

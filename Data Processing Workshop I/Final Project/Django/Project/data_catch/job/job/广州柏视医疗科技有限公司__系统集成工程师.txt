@@ -1,0 +1,1 @@
+{'company_name': '广州柏视医疗科技有限公司', 'job_name': '系统集成工程师', 'geography': '北京-海淀区', 'bonus': ['弹性工作', '带薪年假', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131728447.html?rc=03'}

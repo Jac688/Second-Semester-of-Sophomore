@@ -1,0 +1,1 @@
+{'company_name': '京东商城', 'job_name': '数据分析岗', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/114268429.html?rc=03'}

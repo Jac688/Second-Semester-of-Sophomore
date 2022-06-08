@@ -1,0 +1,1 @@
+{'company_name': '中科融合感知智能研究院苏州工业园区有限公司', 'job_name': 'C++高级开发工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/109848524.html?rc=03'}

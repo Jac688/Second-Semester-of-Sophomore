@@ -1,0 +1,1 @@
+{'company_name': '恩智浦中国管理有限公司', 'job_name': 'Sr Linux Multimedia Software Engineer', 'geography': '异地招聘', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131775920.html?rc=03'}

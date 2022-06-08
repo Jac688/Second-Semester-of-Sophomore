@@ -1,0 +1,1 @@
+{'company_name': '常州市常居房地产营销策划有限公司', 'job_name': '后端工程师Java 中高级)', 'geography': '常州-新北区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/130538325.html?rc=03'}

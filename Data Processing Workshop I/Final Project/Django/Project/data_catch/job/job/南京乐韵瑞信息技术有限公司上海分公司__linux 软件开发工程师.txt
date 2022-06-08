@@ -1,0 +1,1 @@
+{'company_name': '南京乐韵瑞信息技术有限公司上海分公司', 'job_name': 'linux 软件开发工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/111019998.html?rc=03'}

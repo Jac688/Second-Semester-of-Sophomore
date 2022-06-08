@@ -1,0 +1,1 @@
+{'company_name': '中电海康集团有限公司', 'job_name': 'BSP工程师', 'geography': '杭州-余杭区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131480164.html?rc=03'}

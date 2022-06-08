@@ -1,0 +1,1 @@
+{'company_name': '唯晶科技( Winking Corporation)', 'job_name': 'Maya绑定师急招', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/115726060.html?rc=03'}

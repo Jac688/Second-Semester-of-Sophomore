@@ -1,0 +1,1 @@
+{'company_name': '北软互联北京科技有限公司', 'job_name': 'JAVA软件开发工程师-福州-00112', 'geography': '福州', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/118551812.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京安科兴业科技股份有限公司', 'job_name': '软件开发Cc++', 'geography': '北京-昌平区', 'bonus': ['年终奖金', '带薪病假', '带薪年假', '员工宿舍'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124136747.html?rc=03'}

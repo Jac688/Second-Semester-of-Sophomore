@@ -1,0 +1,1 @@
+{'company_name': '广东中天宏基智能科技有限公司', 'job_name': 'Java开发程序工程师', 'geography': '广州-天河区', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/120055528.html?rc=03'}

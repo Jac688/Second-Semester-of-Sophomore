@@ -1,0 +1,1 @@
+{'company_name': '广州信邦智能装备股份有限公司', 'job_name': '软件工程师', 'geography': '广州-花都区', 'bonus': ['绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131088920.html?rc=03'}

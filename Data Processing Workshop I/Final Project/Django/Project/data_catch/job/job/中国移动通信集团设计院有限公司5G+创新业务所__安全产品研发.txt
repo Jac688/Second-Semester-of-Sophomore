@@ -1,0 +1,1 @@
+{'company_name': '中国移动通信集团设计院有限公司5G+创新业务所', 'job_name': '安全产品研发', 'geography': '北京', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126928921.html?rc=03'}

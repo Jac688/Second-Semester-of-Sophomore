@@ -1,0 +1,1 @@
+{'company_name': '中煤科工集团上海有限公司', 'job_name': '机器学习工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '定期体检', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128862023.html?rc=03'}

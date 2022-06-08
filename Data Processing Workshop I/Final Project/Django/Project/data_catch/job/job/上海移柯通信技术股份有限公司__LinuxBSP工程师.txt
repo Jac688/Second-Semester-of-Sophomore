@@ -1,0 +1,1 @@
+{'company_name': '上海移柯通信技术股份有限公司', 'job_name': 'LinuxBSP工程师', 'geography': '上海-闵行区', 'bonus': ['弹性工作', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129070744.html?rc=03'}

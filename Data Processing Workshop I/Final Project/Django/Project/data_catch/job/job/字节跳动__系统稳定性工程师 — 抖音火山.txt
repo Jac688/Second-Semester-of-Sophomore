@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '系统稳定性工程师 — 抖音火山', 'geography': '北京', 'bonus': ['弹性工作', '免费三餐', '六险一金', '租房补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131694359.html?rc=03'}

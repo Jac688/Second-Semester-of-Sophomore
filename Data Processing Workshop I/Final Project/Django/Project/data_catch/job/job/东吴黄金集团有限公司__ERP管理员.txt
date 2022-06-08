@@ -1,0 +1,1 @@
+{'company_name': '东吴黄金集团有限公司', 'job_name': 'ERP管理员', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '包吃', '提供住宿', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/117914302.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中电文思海辉', 'job_name': 'C++开发工程师', 'geography': '北京', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125621020.html?rc=03'}

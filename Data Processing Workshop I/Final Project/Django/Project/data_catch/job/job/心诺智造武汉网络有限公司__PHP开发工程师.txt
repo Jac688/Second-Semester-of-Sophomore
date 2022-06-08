@@ -1,0 +1,1 @@
+{'company_name': '心诺智造武汉网络有限公司', 'job_name': 'PHP开发工程师', 'geography': '武汉-洪山区', 'bonus': ['带薪年假', '五险', '全勤奖', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/126776932.html?rc=03'}

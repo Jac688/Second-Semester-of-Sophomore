@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '测试开发工程师 — 抖音抖音火山版', 'geography': '成都', 'bonus': ['六险一金', '股票期权', '晋升空间大', '用户过亿'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/122621002.html?rc=03'}

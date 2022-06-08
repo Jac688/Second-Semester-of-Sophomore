@@ -1,0 +1,1 @@
+{'company_name': '上海音明信息技术有限公司', 'job_name': 'Java中级开发工程师', 'geography': '苏州-吴中区', 'bonus': ['五险一金', '定期体检', '弹性工作', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/122247558.html?rc=03'}

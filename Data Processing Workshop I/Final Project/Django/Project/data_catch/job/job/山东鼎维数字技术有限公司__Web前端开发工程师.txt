@@ -1,0 +1,1 @@
+{'company_name': '山东鼎维数字技术有限公司', 'job_name': 'Web前端开发工程师', 'geography': '济南-高新区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130458331.html?rc=03'}

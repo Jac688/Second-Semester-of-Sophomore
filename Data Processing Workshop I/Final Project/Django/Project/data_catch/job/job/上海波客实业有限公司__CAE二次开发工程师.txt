@@ -1,0 +1,1 @@
+{'company_name': '上海波客实业有限公司', 'job_name': 'CAE二次开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '年终奖金', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128282947.html?rc=03'}

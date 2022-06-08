@@ -1,0 +1,1 @@
+{'company_name': '上海电机系统节能工程技术研究中心有限公司', 'job_name': 'java开发工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '补充公积金', '员工旅游', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120306122.html?rc=03'}

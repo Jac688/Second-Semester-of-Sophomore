@@ -1,0 +1,1 @@
+{'company_name': '大连东软思维科技发展有限公司', 'job_name': 'Java开发工程师', 'geography': '连云港', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/lianyungang/130206385.html?rc=03'}

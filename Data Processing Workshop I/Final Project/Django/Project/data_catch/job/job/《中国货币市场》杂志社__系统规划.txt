@@ -1,0 +1,1 @@
+{'company_name': '《中国货币市场》杂志社', 'job_name': '系统规划', 'geography': '上海', 'bonus': [], 'salary': 0.22, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132306715.html?rc=03'}

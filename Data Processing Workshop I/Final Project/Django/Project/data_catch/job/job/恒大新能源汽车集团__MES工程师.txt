@@ -1,0 +1,1 @@
+{'company_name': '恒大新能源汽车集团', 'job_name': 'MES工程师', 'geography': '天津-东丽区', 'bonus': ['五险一金', '免费班车', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130325888.html?rc=03'}

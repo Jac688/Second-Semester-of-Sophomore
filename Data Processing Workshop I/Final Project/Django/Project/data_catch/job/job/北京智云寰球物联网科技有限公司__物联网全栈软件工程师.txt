@@ -1,0 +1,1 @@
+{'company_name': '北京智云寰球物联网科技有限公司', 'job_name': '物联网全栈软件工程师', 'geography': '北京-东城区', 'bonus': ['员工旅游', '弹性工作', '股票期权', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130758830.html?rc=03'}

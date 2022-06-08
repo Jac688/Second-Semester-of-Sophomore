@@ -1,0 +1,1 @@
+{'company_name': '心韵恒安医疗科技北京有限公司', 'job_name': 'android研发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123749802.html?rc=03'}

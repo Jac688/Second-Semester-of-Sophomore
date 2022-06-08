@@ -1,0 +1,1 @@
+{'company_name': '南通嘉骏信息科技有限公司', 'job_name': '资深图像处理工程师', 'geography': '南通-崇川区', 'bonus': ['五险一金', '年终奖金', '定期体检', '员工旅游'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nantong/129549516.html?rc=03'}

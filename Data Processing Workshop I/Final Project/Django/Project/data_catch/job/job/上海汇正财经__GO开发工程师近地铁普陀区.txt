@@ -1,0 +1,1 @@
+{'company_name': '上海汇正财经', 'job_name': 'GO开发工程师近地铁普陀区', 'geography': '上海', 'bonus': ['周末双休', '带薪年假', '五险一金', '绩效奖金'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131680551.html?rc=03'}

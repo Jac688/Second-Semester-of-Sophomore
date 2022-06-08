@@ -1,0 +1,1 @@
+{'company_name': '北京致远互联软件股份有限公司', 'job_name': 'Java开发工程师', 'geography': '南宁-青秀区', 'bonus': ['专业培训', '五险一金', '员工旅游', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanning/132234345.html?rc=03'}

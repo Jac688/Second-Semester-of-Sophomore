@@ -1,0 +1,1 @@
+{'company_name': '上海岱嘉医学信息系统有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131855338.html?rc=03'}

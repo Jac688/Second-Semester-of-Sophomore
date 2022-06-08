@@ -1,0 +1,1 @@
+{'company_name': '北京南天软件有限公司', 'job_name': '邮储JAVA开发工程师', 'geography': '北京-丰台区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131846913.html?rc=03'}

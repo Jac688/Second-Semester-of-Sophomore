@@ -1,0 +1,1 @@
+{'company_name': '山东中联佳裕软件股份有限公司', 'job_name': 'Java开发工程师', 'geography': '烟台-开发区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/yantai/132156109.html?rc=03'}

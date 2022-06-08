@@ -1,0 +1,1 @@
+{'company_name': '南昌市微轲联信息技术有限公司', 'job_name': '软件架构师', 'geography': '南昌', 'bonus': ['生日福利', '节日福利', '提供中餐', '周末双休'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/120565275.html?rc=03'}

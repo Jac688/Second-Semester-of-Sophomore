@@ -1,0 +1,1 @@
+{'company_name': 'TTI创科集团—东莞创机电业制品有限公司', 'job_name': 'Database Engineer', 'geography': '东莞', 'bonus': ['周末双休', '五险一金', '包住宿', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130908204.html?rc=03'}

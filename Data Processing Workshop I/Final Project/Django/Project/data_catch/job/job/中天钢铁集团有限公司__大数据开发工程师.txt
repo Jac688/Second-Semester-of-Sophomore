@@ -1,0 +1,1 @@
+{'company_name': '中天钢铁集团有限公司', 'job_name': '大数据开发工程师', 'geography': '常州-武进区', 'bonus': ['五险一金', '免费班车', '员工旅游', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/131863983.html?rc=03'}

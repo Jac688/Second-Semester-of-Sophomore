@@ -1,0 +1,1 @@
+{'company_name': '云谷科技', 'job_name': '无销售双休线上教育', 'geography': '成都-青羊区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132084818.html?rc=03'}

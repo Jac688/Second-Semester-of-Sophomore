@@ -1,0 +1,1 @@
+{'company_name': '乌镇旅游股份有限公司', 'job_name': 'PHP后端开发工程师', 'geography': '嘉兴', 'bonus': ['五险一金', '专业培训', '节日福利', '高温补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/129947186.html?rc=03'}

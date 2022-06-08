@@ -1,0 +1,1 @@
+{'company_name': '北京诺禾致源科技股份有限公司', 'job_name': '初级高级生信工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '专业培训', '绩效奖金', '定期体检'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/124210191.html?rc=03'}

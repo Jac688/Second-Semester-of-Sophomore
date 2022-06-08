@@ -1,0 +1,1 @@
+{'company_name': '中饮巴比食品股份有限公司', 'job_name': 'Java开发工程师', 'geography': '上海', 'bonus': ['弹性工作', '绩效奖金', '节日福利', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128456730.html?rc=03'}

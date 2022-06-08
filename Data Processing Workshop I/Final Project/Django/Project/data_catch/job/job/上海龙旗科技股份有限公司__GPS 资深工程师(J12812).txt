@@ -1,0 +1,1 @@
+{'company_name': '上海龙旗科技股份有限公司', 'job_name': 'GPS 资深工程师(J12812)', 'geography': '上海-徐汇区', 'bonus': ['做五休二', '周末双休', '绩效奖金', '带薪年假'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128747702.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '凯京融资租赁上海有限公司', 'job_name': 'JAVA开发工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '员工旅游', '股票期权', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120041020.html?rc=03'}

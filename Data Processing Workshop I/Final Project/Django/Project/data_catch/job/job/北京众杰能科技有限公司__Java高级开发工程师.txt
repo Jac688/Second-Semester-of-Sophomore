@@ -1,0 +1,1 @@
+{'company_name': '北京众杰能科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '北京-西城区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/122403189.html?rc=03'}

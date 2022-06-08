@@ -1,0 +1,1 @@
+{'company_name': '广州市力融计算机技术有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-天河区', 'bonus': ['员工旅游', '交通补贴', '餐饮补贴', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130652977.html?rc=03'}

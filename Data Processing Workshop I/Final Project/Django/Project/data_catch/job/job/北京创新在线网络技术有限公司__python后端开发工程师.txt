@@ -1,0 +1,1 @@
+{'company_name': '北京创新在线网络技术有限公司', 'job_name': 'python后端开发工程师', 'geography': '深圳-福田区', 'bonus': ['做五休二', '带薪年假', '五险一金', '节日福利'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/110777697.html?rc=03'}

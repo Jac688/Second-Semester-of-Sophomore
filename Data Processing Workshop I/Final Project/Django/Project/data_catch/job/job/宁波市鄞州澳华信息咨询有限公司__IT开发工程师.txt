@@ -1,0 +1,1 @@
+{'company_name': '宁波市鄞州澳华信息咨询有限公司', 'job_name': 'IT开发工程师', 'geography': '宁波', 'bonus': ['出国机会', '员工旅游', '专业培训', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127809300.html?rc=03'}

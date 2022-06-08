@@ -1,0 +1,1 @@
+{'company_name': '北京天融信科技有限公司', 'job_name': 'golang开发工程师云计算深圳(J10874)', 'geography': '深圳-南山区', 'bonus': ['交通补贴', '餐饮补贴', '五险一金', '补充医疗保险'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129656458.html?rc=03'}

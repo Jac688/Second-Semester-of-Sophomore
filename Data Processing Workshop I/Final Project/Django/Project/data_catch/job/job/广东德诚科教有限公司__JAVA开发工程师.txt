@@ -1,0 +1,1 @@
+{'company_name': '广东德诚科教有限公司', 'job_name': 'JAVA开发工程师', 'geography': '广州', 'bonus': ['拟上市公司', '互联网教育', '定期体检', '带薪假期'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122400306.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天津辉远工程技术咨询有限公司', 'job_name': 'UE4开发工程师', 'geography': '天津', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '提供食宿'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/127522917.html?rc=03'}

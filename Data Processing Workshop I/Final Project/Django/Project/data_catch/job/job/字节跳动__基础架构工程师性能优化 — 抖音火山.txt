@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '基础架构工程师性能优化 — 抖音火山', 'geography': '北京', 'bonus': ['免费三餐', '弹性工作', '租房补贴', '六险一金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131694378.html?rc=03'}

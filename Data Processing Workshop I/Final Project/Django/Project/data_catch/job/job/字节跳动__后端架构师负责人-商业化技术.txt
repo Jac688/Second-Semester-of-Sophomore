@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '后端架构师负责人-商业化技术', 'geography': '杭州', 'bonus': ['下午茶', '六险一金', '股票期权', '团队氛围好'], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128530435.html?rc=03'}

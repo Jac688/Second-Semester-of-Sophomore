@@ -1,0 +1,1 @@
+{'company_name': '四川虹信软件股份有限公司', 'job_name': 'Java高级开发工程师石家庄', 'geography': '异地招聘', 'bonus': ['五险一金', '年终奖金', '通讯补贴', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127116868.html?rc=03'}

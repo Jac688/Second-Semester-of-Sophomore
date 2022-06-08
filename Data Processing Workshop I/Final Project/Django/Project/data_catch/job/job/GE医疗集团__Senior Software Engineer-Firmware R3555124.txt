@@ -1,0 +1,1 @@
+{'company_name': 'GE医疗集团', 'job_name': 'Senior Software Engineer-Firmware R3555124', 'geography': '北京', 'bonus': ['五险一金', '年终奖金', '弹性工作', '专业培训'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129132621.html?rc=03'}

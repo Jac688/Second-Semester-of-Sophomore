@@ -1,0 +1,1 @@
+{'company_name': '凌阳利华科技深圳有限公司', 'job_name': '软件工程师IT方向', 'geography': '深圳-南山区', 'bonus': ['五险一金', '员工旅游', '弹性工作', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131855507.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海移远通信技术股份有限公司', 'job_name': '工具开发工程师 (MJ000711)', 'geography': '上海', 'bonus': ['五险一金', '交通补贴', '员工旅游', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132309983.html?rc=03'}

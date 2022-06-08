@@ -1,0 +1,1 @@
+{'company_name': '哈工大机器人湖州国际创新研究院', 'job_name': '嵌入式软件工程师建筑机器人', 'geography': '异地招聘', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/121834354.html?rc=03'}

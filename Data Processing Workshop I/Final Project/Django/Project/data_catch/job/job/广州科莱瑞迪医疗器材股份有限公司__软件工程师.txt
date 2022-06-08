@@ -1,0 +1,1 @@
+{'company_name': '广州科莱瑞迪医疗器材股份有限公司', 'job_name': '软件工程师', 'geography': '异地招聘', 'bonus': ['年终奖金', '五险一金', '专业培训', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/126175760.html?rc=03'}

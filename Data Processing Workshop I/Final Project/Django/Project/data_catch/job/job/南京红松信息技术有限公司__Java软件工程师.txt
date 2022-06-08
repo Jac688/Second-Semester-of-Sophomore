@@ -1,0 +1,1 @@
+{'company_name': '南京红松信息技术有限公司', 'job_name': 'Java软件工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130705952.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '山东浪谷信息科技有限公司', 'job_name': '项目经理助理', 'geography': '济南', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131210929.html?rc=03'}

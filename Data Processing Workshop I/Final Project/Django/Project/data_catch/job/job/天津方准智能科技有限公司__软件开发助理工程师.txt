@@ -1,0 +1,1 @@
+{'company_name': '天津方准智能科技有限公司', 'job_name': '软件开发助理工程师', 'geography': '天津-滨海新区', 'bonus': ['包吃', '包住宿', '加班补助', '员工旅游'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131196000.html?rc=03'}

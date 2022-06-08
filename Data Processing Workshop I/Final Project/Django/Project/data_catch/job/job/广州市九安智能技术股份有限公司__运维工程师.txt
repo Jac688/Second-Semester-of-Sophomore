@@ -1,0 +1,1 @@
+{'company_name': '广州市九安智能技术股份有限公司', 'job_name': '运维工程师', 'geography': '广州-番禺区', 'bonus': ['出国机会', '绩效奖金', '年终奖金', '五险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123040620.html?rc=03'}

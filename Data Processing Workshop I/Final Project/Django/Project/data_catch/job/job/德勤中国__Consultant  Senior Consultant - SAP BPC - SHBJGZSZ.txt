@@ -1,0 +1,1 @@
+{'company_name': '德勤中国', 'job_name': 'Consultant  Senior Consultant - SAP BPC - SHBJGZSZ', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131496449.html?rc=03'}

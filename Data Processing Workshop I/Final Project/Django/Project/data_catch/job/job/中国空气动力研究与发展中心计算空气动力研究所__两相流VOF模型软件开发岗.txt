@@ -1,0 +1,1 @@
+{'company_name': '中国空气动力研究与发展中心计算空气动力研究所', 'job_name': '两相流VOF模型软件开发岗', 'geography': '成都-天府新区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '通讯补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130259379.html?rc=03'}

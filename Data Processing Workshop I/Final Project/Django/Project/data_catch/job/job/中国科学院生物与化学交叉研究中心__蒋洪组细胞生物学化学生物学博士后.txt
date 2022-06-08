@@ -1,0 +1,1 @@
+{'company_name': '中国科学院生物与化学交叉研究中心', 'job_name': '蒋洪组细胞生物学化学生物学博士后', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/69938848.html?rc=03'}

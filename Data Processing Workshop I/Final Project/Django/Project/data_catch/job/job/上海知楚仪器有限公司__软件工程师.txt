@@ -1,0 +1,1 @@
+{'company_name': '上海知楚仪器有限公司', 'job_name': '软件工程师', 'geography': '上海-松江区', 'bonus': ['年终奖金', '员工旅游', '五险一金', '节日福利'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130448158.html?rc=03'}

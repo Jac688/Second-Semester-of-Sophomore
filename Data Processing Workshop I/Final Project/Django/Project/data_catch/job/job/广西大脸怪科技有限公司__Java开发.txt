@@ -1,0 +1,1 @@
+{'company_name': '广西大脸怪科技有限公司', 'job_name': 'Java开发', 'geography': '南宁-西乡塘区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanning/131698413.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川聚能峰科技有限公司', 'job_name': '实施工程师', 'geography': '成都-金牛区', 'bonus': ['交通补贴', '通讯补贴', '年终奖金', '周末双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130457694.html?rc=03'}

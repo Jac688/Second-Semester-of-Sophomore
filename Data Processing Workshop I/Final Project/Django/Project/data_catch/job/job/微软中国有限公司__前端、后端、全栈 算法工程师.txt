@@ -1,0 +1,1 @@
+{'company_name': '微软中国有限公司', 'job_name': '前端、后端、全栈 算法工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '餐饮补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/129850657.html?rc=03'}

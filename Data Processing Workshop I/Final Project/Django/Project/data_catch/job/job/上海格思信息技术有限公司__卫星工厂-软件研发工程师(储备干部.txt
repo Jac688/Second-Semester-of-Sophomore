@@ -1,0 +1,1 @@
+{'company_name': '上海格思信息技术有限公司', 'job_name': '卫星工厂-软件研发工程师(储备干部', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131958986.html?rc=03'}

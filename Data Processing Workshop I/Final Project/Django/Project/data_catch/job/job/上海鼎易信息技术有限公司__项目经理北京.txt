@@ -1,0 +1,1 @@
+{'company_name': '上海鼎易信息技术有限公司', 'job_name': '项目经理北京', 'geography': '异地招聘', 'bonus': ['五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128012893.html?rc=03'}

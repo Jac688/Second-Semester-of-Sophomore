@@ -1,0 +1,1 @@
+{'company_name': '大连展锋文化传媒有限公司', 'job_name': 'Fraud Prevention Senior Manager', 'geography': '成都', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131002405.html?rc=03'}

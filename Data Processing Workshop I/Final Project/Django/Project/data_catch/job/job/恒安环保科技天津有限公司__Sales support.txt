@@ -1,0 +1,1 @@
+{'company_name': '恒安环保科技天津有限公司', 'job_name': 'Sales support', 'geography': '天津-津南区', 'bonus': ['周末双休', '带薪年假', '五险一金', '免费班车'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128850235.html?rc=03'}

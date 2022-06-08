@@ -1,0 +1,1 @@
+{'company_name': '北京麦田房产经纪有限公司', 'job_name': '管培生高薪酬业务方向', 'geography': '北京-昌平区', 'bonus': ['专业培训', '弹性工作', '年终奖金', '绩效奖金'], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131319754.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海牙典软件科技有限公司', 'job_name': '智能软件开发工程师', 'geography': '上海-浦东新区', 'bonus': ['弹性工作', '免费午餐'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131721649.html?rc=03'}

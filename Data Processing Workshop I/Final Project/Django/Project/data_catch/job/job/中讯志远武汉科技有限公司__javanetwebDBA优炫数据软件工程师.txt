@@ -1,0 +1,1 @@
+{'company_name': '中讯志远武汉科技有限公司', 'job_name': 'javanetwebDBA优炫数据软件工程师', 'geography': '重庆-渝中区', 'bonus': ['年终奖金', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/121038494.html?rc=03'}

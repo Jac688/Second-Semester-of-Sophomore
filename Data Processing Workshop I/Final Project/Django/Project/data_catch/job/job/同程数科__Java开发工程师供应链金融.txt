@@ -1,0 +1,1 @@
+{'company_name': '同程数科', 'job_name': 'Java开发工程师供应链金融', 'geography': '上海-浦东新区', 'bonus': ['做五休二', '带薪年假', '五险一金', '节日福利'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122939756.html?rc=03'}

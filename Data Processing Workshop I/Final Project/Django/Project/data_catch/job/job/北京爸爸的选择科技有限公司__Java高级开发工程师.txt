@@ -1,0 +1,1 @@
+{'company_name': '北京爸爸的选择科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '济南-槐荫区', 'bonus': ['节日福利', '专业培训', '期权股权激励', '弹性工作'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/jinan/125554484.html?rc=03'}

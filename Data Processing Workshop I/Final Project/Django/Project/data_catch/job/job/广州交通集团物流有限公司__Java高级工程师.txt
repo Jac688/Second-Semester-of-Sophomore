@@ -1,0 +1,1 @@
+{'company_name': '广州交通集团物流有限公司', 'job_name': 'Java高级工程师', 'geography': '广州-越秀区', 'bonus': ['五险一金', '绩效奖金', '节日福利', '周末双休'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/115548409.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川旭日司法鉴定中心', 'job_name': '电子数据司法鉴定人', 'geography': '成都-武侯区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130693803.html?rc=03'}

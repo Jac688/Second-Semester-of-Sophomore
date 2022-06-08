@@ -1,0 +1,1 @@
+{'company_name': '上海意承实业有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海-松江区', 'bonus': ['五险一金', '年终奖金', '餐饮补贴', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130272976.html?rc=03'}

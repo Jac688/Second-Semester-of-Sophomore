@@ -1,0 +1,1 @@
+{'company_name': '山东车才帮技术服务有限公司', 'job_name': '大数据项目经理', 'geography': '青岛-李沧区', 'bonus': ['五险一金', '周末双休', '员工餐厅', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/130892257.html?rc=03'}

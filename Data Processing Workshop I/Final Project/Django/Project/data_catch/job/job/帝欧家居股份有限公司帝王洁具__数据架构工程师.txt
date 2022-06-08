@@ -1,0 +1,1 @@
+{'company_name': '帝欧家居股份有限公司帝王洁具', 'job_name': '数据架构工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '弹性工作', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/sichuansheng/128435667.html?rc=03'}

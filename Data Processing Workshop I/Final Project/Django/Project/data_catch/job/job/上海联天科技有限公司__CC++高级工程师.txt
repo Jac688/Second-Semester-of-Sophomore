@@ -1,0 +1,1 @@
+{'company_name': '上海联天科技有限公司', 'job_name': 'CC++高级工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131036029.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京用友政务软件股份有限公司宁波分公司', 'job_name': 'Java后端开发工程师', 'geography': '宁波-海曙区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/112078880.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '函钛科技重庆有限公司', 'job_name': 'Java开发工程师(中级', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '绩效奖金', '弹性工作', '定期体检'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/130317706.html?rc=03'}

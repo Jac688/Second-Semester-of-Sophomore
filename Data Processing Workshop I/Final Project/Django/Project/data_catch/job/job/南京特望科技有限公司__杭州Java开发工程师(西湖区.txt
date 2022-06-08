@@ -1,0 +1,1 @@
+{'company_name': '南京特望科技有限公司', 'job_name': '杭州Java开发工程师(西湖区', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '节假日福利', '定期体检', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131820327.html?rc=03'}

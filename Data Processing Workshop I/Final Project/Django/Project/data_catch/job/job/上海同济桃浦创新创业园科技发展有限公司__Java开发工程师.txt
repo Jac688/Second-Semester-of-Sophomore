@@ -1,0 +1,1 @@
+{'company_name': '上海同济桃浦创新创业园科技发展有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-普陀区', 'bonus': [], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130913765.html?rc=03'}

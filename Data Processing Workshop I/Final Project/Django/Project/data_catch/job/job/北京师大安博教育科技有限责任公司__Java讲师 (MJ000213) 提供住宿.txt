@@ -1,0 +1,1 @@
+{'company_name': '北京师大安博教育科技有限责任公司', 'job_name': 'Java讲师 (MJ000213) 提供住宿', 'geography': '济南-长清区', 'bonus': ['五险一金', '带薪年假', '节日福利', '双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/132260644.html?rc=03'}

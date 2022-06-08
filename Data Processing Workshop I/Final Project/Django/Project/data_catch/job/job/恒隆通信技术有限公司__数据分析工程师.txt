@@ -1,0 +1,1 @@
+{'company_name': '恒隆通信技术有限公司', 'job_name': '数据分析工程师', 'geography': '南京-建邺区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131607687.html?rc=03'}

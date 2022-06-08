@@ -1,0 +1,1 @@
+{'company_name': '广州市盈泽信息科技有限公司', 'job_name': 'JAVA工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '周末双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131939318.html?rc=03'}

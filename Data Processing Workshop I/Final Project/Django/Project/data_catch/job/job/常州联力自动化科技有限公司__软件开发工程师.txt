@@ -1,0 +1,1 @@
+{'company_name': '常州联力自动化科技有限公司', 'job_name': '软件开发工程师', 'geography': '常州', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/128294492.html?rc=03'}

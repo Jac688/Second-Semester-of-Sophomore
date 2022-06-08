@@ -1,0 +1,1 @@
+{'company_name': '山东捷瑞数字科技股份有限公司', 'job_name': '网站售后', 'geography': '烟台', 'bonus': ['五险一金', '补充公积金', '员工旅游', '交通补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/yantai/132049738.html?rc=03'}

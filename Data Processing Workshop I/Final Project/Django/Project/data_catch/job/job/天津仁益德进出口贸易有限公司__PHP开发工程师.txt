@@ -1,0 +1,1 @@
+{'company_name': '天津仁益德进出口贸易有限公司', 'job_name': 'PHP开发工程师', 'geography': '天津-河西区', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/123106838.html?rc=03'}

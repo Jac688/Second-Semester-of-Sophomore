@@ -1,0 +1,1 @@
+{'company_name': '上海技美科技股份有限公司', 'job_name': 'VC软件助理工程师', 'geography': '苏州-吴江区', 'bonus': ['弹性工作', '周末双休', '做五休二', '包吃'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/96666755.html?rc=03'}

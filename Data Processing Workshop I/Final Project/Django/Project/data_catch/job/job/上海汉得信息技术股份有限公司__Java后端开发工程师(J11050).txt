@@ -1,0 +1,1 @@
+{'company_name': '上海汉得信息技术股份有限公司', 'job_name': 'Java后端开发工程师(J11050)', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '补充公积金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129509143.html?rc=03'}

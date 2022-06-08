@@ -1,0 +1,1 @@
+{'company_name': '南京迈珂优软件科技有限公司', 'job_name': '运维工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129686396.html?rc=03'}

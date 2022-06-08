@@ -1,0 +1,1 @@
+{'company_name': '上海驰助汽车零部件有限公司', 'job_name': '软件工程师', 'geography': '上海-闵行区', 'bonus': ['弹性工作', '年终奖金', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130829335.html?rc=03'}

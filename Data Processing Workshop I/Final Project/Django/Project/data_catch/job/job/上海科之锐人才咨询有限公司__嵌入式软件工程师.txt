@@ -1,0 +1,1 @@
+{'company_name': '上海科之锐人才咨询有限公司', 'job_name': '嵌入式软件工程师', 'geography': '苏州-虎丘区', 'bonus': ['六险一金', '平台大', '定期体检', '周末双休'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128270150.html?rc=03'}

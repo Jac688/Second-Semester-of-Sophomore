@@ -1,0 +1,1 @@
+{'company_name': '北京洛施德企业管理咨询有限公司', 'job_name': 'JAVA开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '员工旅游', '出国机会', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/112313368.html?rc=03'}

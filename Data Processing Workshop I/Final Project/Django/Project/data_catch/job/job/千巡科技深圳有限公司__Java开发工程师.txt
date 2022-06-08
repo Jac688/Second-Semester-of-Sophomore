@@ -1,0 +1,1 @@
+{'company_name': '千巡科技深圳有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '带薪年假', '节日福利', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130241773.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京京东方光电科技有限公司', 'job_name': '指纹识别图像算法J22316', 'geography': '北京-大兴区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128589229.html?rc=03'}

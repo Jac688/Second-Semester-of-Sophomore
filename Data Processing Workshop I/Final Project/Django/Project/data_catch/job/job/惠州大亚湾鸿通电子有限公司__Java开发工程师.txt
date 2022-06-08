@@ -1,0 +1,1 @@
+{'company_name': '惠州大亚湾鸿通电子有限公司', 'job_name': 'Java开发工程师', 'geography': '惠州', 'bonus': ['包吃住', '节日福利', '带薪年假', '定期体检'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/126582042.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海励驰半导体有限公司', 'job_name': 'Android多媒体开发工程师', 'geography': '深圳', 'bonus': [], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129184231.html?rc=03'}

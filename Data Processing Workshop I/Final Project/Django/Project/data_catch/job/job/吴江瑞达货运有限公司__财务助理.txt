@@ -1,0 +1,1 @@
+{'company_name': '吴江瑞达货运有限公司', 'job_name': '财务助理', 'geography': '苏州-吴江区', 'bonus': ['员工旅游', '五险', '餐饮补贴', '专业培训'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/107602774.html?rc=03'}

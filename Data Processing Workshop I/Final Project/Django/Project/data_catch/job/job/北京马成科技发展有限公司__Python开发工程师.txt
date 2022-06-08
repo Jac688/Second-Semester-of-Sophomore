@@ -1,0 +1,1 @@
+{'company_name': '北京马成科技发展有限公司', 'job_name': 'Python开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '法定节假日', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132315288.html?rc=03'}

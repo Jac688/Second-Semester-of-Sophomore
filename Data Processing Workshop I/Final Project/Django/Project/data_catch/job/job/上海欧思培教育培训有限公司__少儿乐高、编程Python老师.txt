@@ -1,0 +1,1 @@
+{'company_name': '上海欧思培教育培训有限公司', 'job_name': '少儿乐高、编程Python老师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119268838.html?rc=03'}

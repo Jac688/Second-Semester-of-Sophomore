@@ -1,0 +1,1 @@
+{'company_name': '广东亿迅科技有限公司', 'job_name': '高级前端开发工程师', 'geography': '广州-天河区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131264019.html?rc=03'}

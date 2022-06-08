@@ -1,0 +1,1 @@
+{'company_name': '云驼武汉网络科技有限公司', 'job_name': 'Java开发工程师', 'geography': '武汉-江汉区', 'bonus': ['五险', '餐饮补贴', '节日福利', '团建活动'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/129022206.html?rc=03'}

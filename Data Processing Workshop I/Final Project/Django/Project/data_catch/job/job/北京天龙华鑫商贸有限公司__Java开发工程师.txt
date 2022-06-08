@@ -1,0 +1,1 @@
+{'company_name': '北京天龙华鑫商贸有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-东城区', 'bonus': ['年终奖金', '带薪年假', '五险一金', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125842037.html?rc=03'}

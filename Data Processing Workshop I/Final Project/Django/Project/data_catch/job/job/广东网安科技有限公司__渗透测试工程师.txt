@@ -1,0 +1,1 @@
+{'company_name': '广东网安科技有限公司', 'job_name': '渗透测试工程师', 'geography': '东莞-南城区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '补充医疗保险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/129598543.html?rc=03'}

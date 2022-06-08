@@ -1,0 +1,1 @@
+{'company_name': '北京广利核系统工程有限公司', 'job_name': 'C++高级软件设计师', 'geography': '北京', 'bonus': ['六险二金', '补充医疗保险', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/122517375.html?rc=03'}

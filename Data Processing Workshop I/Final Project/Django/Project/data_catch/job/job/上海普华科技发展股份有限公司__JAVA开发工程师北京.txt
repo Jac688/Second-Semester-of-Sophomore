@@ -1,0 +1,1 @@
+{'company_name': '上海普华科技发展股份有限公司', 'job_name': 'JAVA开发工程师北京', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '员工旅游', '定期体检', '股票期权'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131485653.html?rc=03'}

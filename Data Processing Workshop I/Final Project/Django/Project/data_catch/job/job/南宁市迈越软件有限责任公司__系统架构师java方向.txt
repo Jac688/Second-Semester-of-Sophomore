@@ -1,0 +1,1 @@
+{'company_name': '南宁市迈越软件有限责任公司', 'job_name': '系统架构师java方向', 'geography': '南宁', 'bonus': ['五险一金', '员工旅游', '交通补贴', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanning/98446088.html?rc=03'}

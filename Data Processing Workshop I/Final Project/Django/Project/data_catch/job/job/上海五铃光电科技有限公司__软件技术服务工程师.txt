@@ -1,0 +1,1 @@
+{'company_name': '上海五铃光电科技有限公司', 'job_name': '软件技术服务工程师', 'geography': '上海-宝山区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132117019.html?rc=03'}

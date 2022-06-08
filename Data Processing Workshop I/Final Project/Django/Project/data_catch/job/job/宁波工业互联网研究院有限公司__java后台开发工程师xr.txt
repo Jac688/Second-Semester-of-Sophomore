@@ -1,0 +1,1 @@
+{'company_name': '宁波工业互联网研究院有限公司', 'job_name': 'java后台开发工程师xr', 'geography': '宁波-海曙区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131534879.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京文泽智远信息技术有限公司', 'job_name': 'Java中级开发工程师', 'geography': '昆明-盘龙区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/kunming/126658093.html?rc=03'}

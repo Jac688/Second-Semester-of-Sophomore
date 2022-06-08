@@ -1,0 +1,1 @@
+{'company_name': '北京先进数通信息技术股份公司', 'job_name': 'java工程师(J10092)', 'geography': '济南', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131819142.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京天拓数信科技有限责任公司', 'job_name': 'Java开发工程师', 'geography': '北京-房山区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129971073.html?rc=03'}

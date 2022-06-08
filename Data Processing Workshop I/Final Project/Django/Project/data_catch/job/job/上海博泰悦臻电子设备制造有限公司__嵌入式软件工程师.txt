@@ -1,0 +1,1 @@
+{'company_name': '上海博泰悦臻电子设备制造有限公司', 'job_name': '嵌入式软件工程师', 'geography': '南京-浦口区', 'bonus': ['下午茶', '六险一金', '团队氛围好', '带薪休假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129850614.html?rc=03'}

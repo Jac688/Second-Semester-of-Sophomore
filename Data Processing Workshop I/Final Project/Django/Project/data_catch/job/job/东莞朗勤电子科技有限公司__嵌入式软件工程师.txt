@@ -1,0 +1,1 @@
+{'company_name': '东莞朗勤电子科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '东莞', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/124307259.html?rc=03'}

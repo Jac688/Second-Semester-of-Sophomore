@@ -1,0 +1,1 @@
+{'company_name': '佛山隆深机器人有限公司', 'job_name': '电气控制工程师', 'geography': '佛山', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/foshan/126976083.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '多燕瘦中国有限公司', 'job_name': '数据分析主管', 'geography': '广州-白云区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128839119.html?rc=03'}

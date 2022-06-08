@@ -1,0 +1,1 @@
+{'company_name': '东杰智能软件深圳有限公司', 'job_name': 'JAVA中级软件工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '节假日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/89885672.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '山东指游针信息技术股份有限公司', 'job_name': '五险双休PHP软件工程师', 'geography': '异地招聘', 'bonus': ['五险', '周末双休', '带薪年假', '交通补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130833028.html?rc=03'}

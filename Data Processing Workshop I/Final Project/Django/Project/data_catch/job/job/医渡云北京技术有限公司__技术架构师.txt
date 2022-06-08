@@ -1,0 +1,1 @@
+{'company_name': '医渡云北京技术有限公司', 'job_name': '技术架构师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132013196.html?rc=03'}

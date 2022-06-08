@@ -1,0 +1,1 @@
+{'company_name': '宁波精专人力资源服务有限公司', 'job_name': 'linux网络软件工程师', 'geography': '杭州-西湖区', 'bonus': ['绩效奖金', '餐饮补贴', '专业培训', '五险一金'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127521580.html?rc=03'}

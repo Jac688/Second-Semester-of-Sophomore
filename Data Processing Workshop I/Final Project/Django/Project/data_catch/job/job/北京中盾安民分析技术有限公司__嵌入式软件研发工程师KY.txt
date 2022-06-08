@@ -1,0 +1,1 @@
+{'company_name': '北京中盾安民分析技术有限公司', 'job_name': '嵌入式软件研发工程师KY', 'geography': '北京-昌平区', 'bonus': ['五险一金', '绩效奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129769270.html?rc=03'}

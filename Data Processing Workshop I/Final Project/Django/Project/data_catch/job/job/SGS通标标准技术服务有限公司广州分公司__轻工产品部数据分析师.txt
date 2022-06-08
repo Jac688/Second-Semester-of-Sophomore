@@ -1,0 +1,1 @@
+{'company_name': 'SGS通标标准技术服务有限公司广州分公司', 'job_name': '轻工产品部数据分析师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '免费班车'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129251809.html?rc=03'}

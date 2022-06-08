@@ -1,0 +1,1 @@
+{'company_name': '恒大充电通科技有限公司', 'job_name': '技术支持工程师', 'geography': '北京', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129775092.html?rc=03'}

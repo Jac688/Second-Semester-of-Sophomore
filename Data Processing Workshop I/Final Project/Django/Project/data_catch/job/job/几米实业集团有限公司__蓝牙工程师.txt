@@ -1,0 +1,1 @@
+{'company_name': '几米实业集团有限公司', 'job_name': '蓝牙工程师', 'geography': '深圳-宝安区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132203114.html?rc=03'}

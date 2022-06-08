@@ -1,0 +1,1 @@
+{'company_name': '广州趣炫信息技术有限公司', 'job_name': '动画角色绑定师', 'geography': '广州-天河区', 'bonus': ['五险一金', '包吃', '节日福利', '全勤奖'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/110023356.html?rc=03'}

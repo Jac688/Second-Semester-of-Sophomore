@@ -1,0 +1,1 @@
+{'company_name': '北京国遥新天地信息技术有限公司', 'job_name': 'Python开发工程师', 'geography': '天津-西青区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129457879.html?rc=03'}

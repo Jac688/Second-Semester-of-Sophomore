@@ -1,0 +1,1 @@
+{'company_name': '博世热力技术上海有限公司', 'job_name': 'Embedded Software Developer_TT', 'geography': '上海', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123488891.html?rc=03'}

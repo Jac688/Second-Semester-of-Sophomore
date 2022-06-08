@@ -1,0 +1,1 @@
+{'company_name': '北京航空航天大学软件测评实验室', 'job_name': '高级软件测试工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130158661.html?rc=03'}

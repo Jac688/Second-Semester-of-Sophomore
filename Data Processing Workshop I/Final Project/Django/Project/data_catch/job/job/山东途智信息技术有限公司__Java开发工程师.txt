@@ -1,0 +1,1 @@
+{'company_name': '山东途智信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '济南-高新区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131072212.html?rc=03'}

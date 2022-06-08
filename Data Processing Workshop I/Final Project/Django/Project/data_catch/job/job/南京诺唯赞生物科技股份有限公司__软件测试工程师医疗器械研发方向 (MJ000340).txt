@@ -1,0 +1,1 @@
+{'company_name': '南京诺唯赞生物科技股份有限公司', 'job_name': '软件测试工程师医疗器械研发方向 (MJ000340)', 'geography': '深圳', 'bonus': ['周末双休', '节日福利', '餐饮补贴', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130199022.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州谷创信息科技有限公司', 'job_name': 'Java开发工程师8k-12k+周末双休', 'geography': '宁波-镇海区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130729208.html?rc=03'}

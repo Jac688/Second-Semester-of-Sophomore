@@ -1,0 +1,1 @@
+{'company_name': '宜通世纪科技股份有限公司', 'job_name': '初级中级软件开发工程师C++方向', 'geography': '广州-天河区', 'bonus': ['五险一金', '专业培训', '通讯补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131979895.html?rc=03'}

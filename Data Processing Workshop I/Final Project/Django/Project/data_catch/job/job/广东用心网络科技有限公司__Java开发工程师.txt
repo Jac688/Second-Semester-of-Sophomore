@@ -1,0 +1,1 @@
+{'company_name': '广东用心网络科技有限公司', 'job_name': 'Java开发工程师', 'geography': '佛山-顺德区', 'bonus': ['大小周', '顺德社保', '员工旅游', '内部晋升制'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129861023.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '富德保险控股股份有限公司', 'job_name': '大数据平台架构设计岗(J10182)', 'geography': '深圳-龙岗区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126834223.html?rc=03'}

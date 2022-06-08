@@ -1,0 +1,1 @@
+{'company_name': '儒拉玛特自动化技术苏州有限公司', 'job_name': '软件工程师PC追溯方向', 'geography': '苏州', 'bonus': ['五险一金', '免费班车', '员工旅游', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130959721.html?rc=03'}

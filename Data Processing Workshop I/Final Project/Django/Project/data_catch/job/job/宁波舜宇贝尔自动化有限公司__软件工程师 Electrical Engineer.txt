@@ -1,0 +1,1 @@
+{'company_name': '宁波舜宇贝尔自动化有限公司', 'job_name': '软件工程师 Electrical Engineer', 'geography': '异地招聘', 'bonus': ['五险一金', '通讯补贴', '出国机会', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/127694562.html?rc=03'}

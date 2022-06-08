@@ -1,0 +1,1 @@
+{'company_name': '北京阿豆心理医疗科技发展有限公司', 'job_name': '运维工程师', 'geography': '北京-朝阳区', 'bonus': ['绩效奖金', '五险一金', '年终奖金', '创业成长'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123274247.html?rc=03'}

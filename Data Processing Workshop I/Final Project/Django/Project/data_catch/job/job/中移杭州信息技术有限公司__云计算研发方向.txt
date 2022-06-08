@@ -1,0 +1,1 @@
+{'company_name': '中移杭州信息技术有限公司', 'job_name': '云计算研发方向', 'geography': '杭州', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130523597.html?rc=03'}

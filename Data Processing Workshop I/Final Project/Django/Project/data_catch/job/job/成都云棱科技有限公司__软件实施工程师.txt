@@ -1,0 +1,1 @@
+{'company_name': '成都云棱科技有限公司', 'job_name': '软件实施工程师', 'geography': '成都-郫都区', 'bonus': ['五险一金', '年终奖金', '免费班车', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131510630.html?rc=03'}

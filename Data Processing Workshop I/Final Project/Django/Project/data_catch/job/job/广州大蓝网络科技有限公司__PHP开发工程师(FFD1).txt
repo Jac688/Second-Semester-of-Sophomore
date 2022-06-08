@@ -1,0 +1,1 @@
+{'company_name': '广州大蓝网络科技有限公司', 'job_name': 'PHP开发工程师(FFD1)', 'geography': '广州-海珠区', 'bonus': ['下午茶', '六险一金', '团队氛围好', '带薪休假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/120493382.html?rc=03'}

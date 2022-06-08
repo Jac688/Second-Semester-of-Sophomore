@@ -1,0 +1,1 @@
+{'company_name': '天音通信有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-西城区', 'bonus': ['五险一金', '绩效奖金', '弹性工作', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132036365.html?rc=03'}

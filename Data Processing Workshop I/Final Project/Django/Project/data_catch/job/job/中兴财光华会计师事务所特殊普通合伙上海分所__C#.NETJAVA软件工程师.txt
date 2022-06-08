@@ -1,0 +1,1 @@
+{'company_name': '中兴财光华会计师事务所特殊普通合伙上海分所', 'job_name': 'C#.NETJAVA软件工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '做五休二', '带薪年假', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120464958.html?rc=03'}

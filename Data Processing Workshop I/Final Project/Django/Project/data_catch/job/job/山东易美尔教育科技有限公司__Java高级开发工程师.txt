@@ -1,0 +1,1 @@
+{'company_name': '山东易美尔教育科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '济南-高新区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '双休'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/jinan/126125693.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东智能无人系统研究院', 'job_name': '大数据开发工程师', 'geography': '广州-南沙区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '专业培训'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128579785.html?rc=03'}

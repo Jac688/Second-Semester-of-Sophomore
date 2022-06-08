@@ -1,0 +1,1 @@
+{'company_name': '广州新升商务信息服务有限公司', 'job_name': '软件测试讲师', 'geography': '广州-天河区', 'bonus': ['专业培训', '年终奖金', '员工旅游', '绩效奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131830985.html?rc=03'}

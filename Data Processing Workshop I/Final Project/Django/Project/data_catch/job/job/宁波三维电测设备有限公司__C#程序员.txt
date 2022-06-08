@@ -1,0 +1,1 @@
+{'company_name': '宁波三维电测设备有限公司', 'job_name': 'C#程序员', 'geography': '宁波-江北区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/74200706.html?rc=03'}

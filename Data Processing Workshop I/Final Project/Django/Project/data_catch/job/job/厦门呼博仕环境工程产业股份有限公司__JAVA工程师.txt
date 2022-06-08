@@ -1,0 +1,1 @@
+{'company_name': '厦门呼博仕环境工程产业股份有限公司', 'job_name': 'JAVA工程师', 'geography': '深圳', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '免费班车'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129420035.html?rc=03'}

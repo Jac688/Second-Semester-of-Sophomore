@@ -1,0 +1,1 @@
+{'company_name': '广西柳工机械股份有限公司', 'job_name': '软件开发项目工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '定期体检', '交通补贴', '餐饮补贴'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/liuzhou/132256086.html?rc=03'}

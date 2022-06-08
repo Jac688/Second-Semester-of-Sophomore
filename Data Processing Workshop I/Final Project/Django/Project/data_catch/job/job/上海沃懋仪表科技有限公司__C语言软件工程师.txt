@@ -1,0 +1,1 @@
+{'company_name': '上海沃懋仪表科技有限公司', 'job_name': 'C语言软件工程师', 'geography': '上海-浦东新区', 'bonus': ['周末双休', '带薪年假', '五险一金', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131308609.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海宝藤生物医药科技股份有限公司', 'job_name': '生物信息工程师', 'geography': '上海', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128728518.html?rc=03'}

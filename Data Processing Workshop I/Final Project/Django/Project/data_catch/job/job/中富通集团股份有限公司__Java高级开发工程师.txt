@@ -1,0 +1,1 @@
+{'company_name': '中富通集团股份有限公司', 'job_name': 'Java高级开发工程师', 'geography': '福州', 'bonus': ['年终奖金', '五险一金', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/124158532.html?rc=03'}

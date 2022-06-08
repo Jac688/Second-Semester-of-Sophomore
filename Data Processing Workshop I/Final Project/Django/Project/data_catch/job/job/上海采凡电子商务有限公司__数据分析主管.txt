@@ -1,0 +1,1 @@
+{'company_name': '上海采凡电子商务有限公司', 'job_name': '数据分析主管', 'geography': '上海-闵行区', 'bonus': ['带薪年假', '五险一金', '专业培训', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130025362.html?rc=03'}

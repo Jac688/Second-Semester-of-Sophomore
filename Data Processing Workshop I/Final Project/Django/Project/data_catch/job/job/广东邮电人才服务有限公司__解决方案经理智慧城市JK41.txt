@@ -1,0 +1,1 @@
+{'company_name': '广东邮电人才服务有限公司', 'job_name': '解决方案经理智慧城市JK41', 'geography': '广州-越秀区', 'bonus': ['重点项目', '五险一金', '周末双休', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/121952966.html?rc=03'}

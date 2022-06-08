@@ -1,0 +1,1 @@
+{'company_name': '南京嘉能食品有限公司', 'job_name': '高级C++开发工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '节日福利', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130066473.html?rc=03'}

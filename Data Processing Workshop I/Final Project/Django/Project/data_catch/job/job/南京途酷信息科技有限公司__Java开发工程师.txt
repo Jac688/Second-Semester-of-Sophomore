@@ -1,0 +1,1 @@
+{'company_name': '南京途酷信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '合肥-高新区', 'bonus': ['年终奖金', '带薪年休假', '节日福利', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hefei/98823119.html?rc=03'}

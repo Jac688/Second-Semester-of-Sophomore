@@ -1,0 +1,1 @@
+{'company_name': '北海石基信息技术有限公司', 'job_name': '产品专员', 'geography': '异地招聘', 'bonus': ['五险一金', '通讯补贴', '员工旅游', '定期体检'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangxi/127630983.html?rc=03'}

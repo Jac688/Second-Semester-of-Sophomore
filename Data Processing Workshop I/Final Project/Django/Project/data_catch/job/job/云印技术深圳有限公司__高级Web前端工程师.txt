@@ -1,0 +1,1 @@
+{'company_name': '云印技术深圳有限公司', 'job_name': '高级web前端工程师', 'geography': '厦门-思明区', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/127426353.html?rc=03'}

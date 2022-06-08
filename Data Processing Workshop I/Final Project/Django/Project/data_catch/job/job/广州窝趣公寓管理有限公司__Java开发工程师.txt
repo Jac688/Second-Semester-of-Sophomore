@@ -1,0 +1,1 @@
+{'company_name': '广州窝趣公寓管理有限公司', 'job_name': 'Java开发工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/128865127.html?rc=03'}

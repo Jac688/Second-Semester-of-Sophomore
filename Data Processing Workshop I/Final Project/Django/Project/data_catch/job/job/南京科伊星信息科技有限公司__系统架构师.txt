@@ -1,0 +1,1 @@
+{'company_name': '南京科伊星信息科技有限公司', 'job_name': '系统架构师', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131147876.html?rc=03'}

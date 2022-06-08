@@ -1,0 +1,1 @@
+{'company_name': '广州仿真机器人有限公司', 'job_name': '嵌入式工程师', 'geography': '广州-花都区', 'bonus': ['员工旅游', '股票期权'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128426777.html?rc=03'}

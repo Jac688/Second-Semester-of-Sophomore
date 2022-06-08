@@ -1,0 +1,1 @@
+{'company_name': '北京赛思天成科技有限责任公司', 'job_name': '数据分析', 'geography': '北京-昌平区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127877220.html?rc=03'}

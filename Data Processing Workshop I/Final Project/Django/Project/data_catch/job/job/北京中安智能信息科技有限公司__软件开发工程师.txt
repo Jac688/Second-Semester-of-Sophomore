@@ -1,0 +1,1 @@
+{'company_name': '北京中安智能信息科技有限公司', 'job_name': '软件开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '定期体检', '专业培训', '节日福利'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128197874.html?rc=03'}

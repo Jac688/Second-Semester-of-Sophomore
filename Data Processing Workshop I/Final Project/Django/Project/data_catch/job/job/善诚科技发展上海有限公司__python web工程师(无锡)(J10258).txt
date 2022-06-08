@@ -1,0 +1,1 @@
+{'company_name': '善诚科技发展上海有限公司', 'job_name': 'python web工程师(无锡)(J10258)', 'geography': '无锡-无锡新区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/129843140.html?rc=03'}

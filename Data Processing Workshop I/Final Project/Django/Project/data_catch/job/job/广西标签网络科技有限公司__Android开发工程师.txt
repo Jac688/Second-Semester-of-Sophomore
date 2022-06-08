@@ -1,0 +1,1 @@
+{'company_name': '广西标签网络科技有限公司', 'job_name': 'Android开发工程师', 'geography': '柳州', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '通讯补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/liuzhou/98376233.html?rc=03'}

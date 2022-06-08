@@ -1,0 +1,1 @@
+{'company_name': '广西鹏越数字科技有限公司', 'job_name': 'JAVA架构师项目合伙人', 'geography': '南宁-青秀区', 'bonus': [], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/nanning/129700973.html?rc=03'}

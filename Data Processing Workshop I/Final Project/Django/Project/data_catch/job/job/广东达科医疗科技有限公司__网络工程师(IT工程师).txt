@@ -1,0 +1,1 @@
+{'company_name': '广东达科医疗科技有限公司', 'job_name': '网络工程师(IT工程师)', 'geography': '东莞-高埗镇', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/118358771.html?rc=03'}

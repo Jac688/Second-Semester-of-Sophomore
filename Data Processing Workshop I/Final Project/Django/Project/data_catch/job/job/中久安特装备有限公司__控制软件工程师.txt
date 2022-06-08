@@ -1,0 +1,1 @@
+{'company_name': '中久安特装备有限公司', 'job_name': '控制软件工程师', 'geography': '德阳', 'bonus': ['周末双休', '带薪年假', '五险一金', '交通补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/deyang/132259551.html?rc=03'}

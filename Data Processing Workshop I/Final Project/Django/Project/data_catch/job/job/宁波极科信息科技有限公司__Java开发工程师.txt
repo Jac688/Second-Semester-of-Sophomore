@@ -1,0 +1,1 @@
+{'company_name': '宁波极科信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '异地招聘', 'bonus': ['周末双休', '弹性工作', '节日福利', '年终奖金'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131261574.html?rc=03'}

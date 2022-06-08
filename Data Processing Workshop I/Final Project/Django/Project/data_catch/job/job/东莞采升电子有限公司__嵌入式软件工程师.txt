@@ -1,0 +1,1 @@
+{'company_name': '东莞采升电子有限公司', 'job_name': '嵌入式软件工程师', 'geography': '东莞-常平镇', 'bonus': ['包三餐', '包住宿', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/128978293.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '成都中嘉微视科技有限公司', 'job_name': '视觉工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '免费班车', '定期体检', '定期团建'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129186376.html?rc=03'}

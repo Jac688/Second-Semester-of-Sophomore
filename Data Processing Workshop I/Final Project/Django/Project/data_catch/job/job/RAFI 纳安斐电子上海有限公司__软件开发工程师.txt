@@ -1,0 +1,1 @@
+{'company_name': 'RAFI 纳安斐电子上海有限公司', 'job_name': '软件开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '免费班车', '员工旅游', '餐饮补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128987685.html?rc=03'}

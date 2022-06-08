@@ -1,0 +1,1 @@
+{'company_name': '合肥市合趣网络科技有限公司', 'job_name': 'Python开发工程师', 'geography': '合肥', 'bonus': ['五险', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hefei/94095081.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '合肥华邦工贸有限责任公司', 'job_name': 'PHP程序员', 'geography': '合肥-包河区', 'bonus': ['五险', '单休', '带薪年假', '包吃'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hefei/118294949.html?rc=03'}

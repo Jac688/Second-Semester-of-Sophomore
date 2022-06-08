@@ -1,0 +1,1 @@
+{'company_name': '广州金科文化科技有限公司', 'job_name': '服务端开发工程师', 'geography': '珠海-香洲区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/128424312.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '万得信息技术股份有限公司Wind资讯', 'job_name': '高级C#软件工程师(TC0006)', 'geography': '南京', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '定期体检'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/70585911.html?rc=03'}

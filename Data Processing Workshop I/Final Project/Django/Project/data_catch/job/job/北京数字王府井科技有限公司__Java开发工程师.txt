@@ -1,0 +1,1 @@
+{'company_name': '北京数字王府井科技有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-东城区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126590308.html?rc=03'}

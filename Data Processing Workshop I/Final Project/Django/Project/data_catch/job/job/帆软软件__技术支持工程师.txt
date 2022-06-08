@@ -1,0 +1,1 @@
+{'company_name': '帆软软件', 'job_name': '技术支持工程师', 'geography': '广州', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127831223.html?rc=03'}

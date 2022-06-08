@@ -1,0 +1,1 @@
+{'company_name': '北京先进数通信息技术股份公司', 'job_name': 'C语言工程师(J10115)', 'geography': '异地招聘', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131824616.html?rc=03'}

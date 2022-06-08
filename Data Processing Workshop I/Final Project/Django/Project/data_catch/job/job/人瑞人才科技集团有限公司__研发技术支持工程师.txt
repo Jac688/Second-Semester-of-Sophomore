@@ -1,0 +1,1 @@
+{'company_name': '人瑞人才科技集团有限公司', 'job_name': '研发技术支持工程师', 'geography': '上海-长宁区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128148368.html?rc=03'}

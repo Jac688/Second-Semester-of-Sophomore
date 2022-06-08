@@ -1,0 +1,1 @@
+{'company_name': '北京益祺邦科技有限公司', 'job_name': '对日Java软件工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '定期体检', '出国机会'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125318568.html?rc=03'}

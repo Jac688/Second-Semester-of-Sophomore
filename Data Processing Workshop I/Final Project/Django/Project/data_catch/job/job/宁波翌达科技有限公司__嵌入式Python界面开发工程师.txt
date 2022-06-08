@@ -1,0 +1,1 @@
+{'company_name': '宁波翌达科技有限公司', 'job_name': '嵌入式Python界面开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/117753828.html?rc=03'}

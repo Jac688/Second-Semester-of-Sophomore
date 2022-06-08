@@ -1,0 +1,1 @@
+{'company_name': '广州市南方人力资源评价中心有限公司成都分公司', 'job_name': 'Java开发工程师后端', 'geography': '成都-武侯区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130518991.html?rc=03'}

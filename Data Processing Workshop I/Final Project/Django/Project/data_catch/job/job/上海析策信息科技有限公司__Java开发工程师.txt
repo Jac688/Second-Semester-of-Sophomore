@@ -1,0 +1,1 @@
+{'company_name': '上海析策信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '无锡-江阴市', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/130038556.html?rc=03'}

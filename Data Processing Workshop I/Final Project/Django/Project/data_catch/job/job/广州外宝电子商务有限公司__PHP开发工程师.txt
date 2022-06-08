@@ -1,0 +1,1 @@
+{'company_name': '广州外宝电子商务有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-荔湾区', 'bonus': ['五险一金', '餐饮补贴', '加班补助', '全勤奖'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/82245652.html?rc=03'}

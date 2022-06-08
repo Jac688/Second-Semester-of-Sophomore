@@ -1,0 +1,1 @@
+{'company_name': '北京先进数通信息技术股份公司', 'job_name': 'C语言开发工程师佛山顺德', 'geography': '佛山-顺德区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/126648434.html?rc=03'}

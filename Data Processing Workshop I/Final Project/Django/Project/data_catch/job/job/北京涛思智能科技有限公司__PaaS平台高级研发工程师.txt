@@ -1,0 +1,1 @@
+{'company_name': '北京涛思智能科技有限公司', 'job_name': 'PaaS平台高级研发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130616331.html?rc=03'}

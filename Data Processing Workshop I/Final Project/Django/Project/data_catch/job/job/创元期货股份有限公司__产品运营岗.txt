@@ -1,0 +1,1 @@
+{'company_name': '创元期货股份有限公司', 'job_name': '产品运营岗', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130997369.html?rc=03'}

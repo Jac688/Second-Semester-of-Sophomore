@@ -1,0 +1,1 @@
+{'company_name': '北京甲子科技有限责任公司', 'job_name': '前端开发工程师VUE北京', 'geography': '北京-丰台区', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128934580.html?rc=03'}

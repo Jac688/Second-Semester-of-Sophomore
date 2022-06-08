@@ -1,0 +1,1 @@
+{'company_name': '四川生活家家居集团有限公司', 'job_name': 'SEO专员', 'geography': '成都-锦江区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130829179.html?rc=03'}

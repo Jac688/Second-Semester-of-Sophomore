@@ -1,0 +1,1 @@
+{'company_name': '上海共添市场营销服务股份有限公司', 'job_name': 'PHP程序员', 'geography': '上海', 'bonus': ['五险一金', '绩效奖金', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126521169.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京数码大方科技股份有限公司', 'job_name': 'c++开发机械或数控专业', 'geography': '北京-海淀区', 'bonus': ['周末双休', '五险一金', '绩效奖金', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130750915.html?rc=03'}

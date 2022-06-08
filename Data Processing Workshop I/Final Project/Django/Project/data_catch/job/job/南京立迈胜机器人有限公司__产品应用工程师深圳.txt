@@ -1,0 +1,1 @@
+{'company_name': '南京立迈胜机器人有限公司', 'job_name': '产品应用工程师深圳', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '过节费'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/116534700.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北明软件有限公司', 'job_name': '高级Java开发', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '餐饮补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128689972.html?rc=03'}

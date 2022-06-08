@@ -1,0 +1,1 @@
+{'company_name': '北京沁世涵宇生物医药研究中心有限合伙', 'job_name': '生信分析工程师', 'geography': '北京', 'bonus': ['五险一金', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128246508.html?rc=03'}

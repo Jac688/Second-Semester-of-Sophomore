@@ -1,0 +1,1 @@
+{'company_name': '广州诺特软件开发有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-越秀区', 'bonus': ['专业培训', '五险一金', '弹性工作', '员工旅游'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132227128.html?rc=03'}

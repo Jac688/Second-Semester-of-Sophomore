@@ -1,0 +1,1 @@
+{'company_name': '中安云科科技发展山东有限公司', 'job_name': '交付测试工程师', 'geography': '济南', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131934048.html?rc=03'}

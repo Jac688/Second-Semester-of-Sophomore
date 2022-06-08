@@ -1,0 +1,1 @@
+{'company_name': '广东卡百利新材料科技有限公司', 'job_name': '数据分析师', 'geography': '佛山-顺德区', 'bonus': ['交通补贴', '餐饮补贴', '专业培训', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/118715371.html?rc=03'}

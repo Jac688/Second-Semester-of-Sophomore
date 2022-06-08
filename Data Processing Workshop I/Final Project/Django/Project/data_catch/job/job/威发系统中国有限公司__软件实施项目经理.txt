@@ -1,0 +1,1 @@
+{'company_name': '威发系统中国有限公司', 'job_name': '软件实施项目经理', 'geography': '上海-长宁区', 'bonus': ['五险一金', '周末双休', '绩效奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127365500.html?rc=03'}

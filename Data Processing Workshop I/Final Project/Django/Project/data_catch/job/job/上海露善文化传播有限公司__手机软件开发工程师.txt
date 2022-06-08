@@ -1,0 +1,1 @@
+{'company_name': '上海露善文化传播有限公司', 'job_name': '手机软件开发工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123007346.html?rc=03'}

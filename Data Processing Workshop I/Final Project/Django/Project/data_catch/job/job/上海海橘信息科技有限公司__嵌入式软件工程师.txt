@@ -1,0 +1,1 @@
+{'company_name': '上海海橘信息科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海', 'bonus': ['五险一金', '弹性工作', '团建活动', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119058187.html?rc=03'}

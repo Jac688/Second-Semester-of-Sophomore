@@ -1,0 +1,1 @@
+{'company_name': '上海杰胜商务咨询有限公司常州分公司', 'job_name': '.net 开发工程师', 'geography': '常州-天宁区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/122843861.html?rc=03'}

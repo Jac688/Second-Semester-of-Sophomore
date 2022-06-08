@@ -1,0 +1,1 @@
+{'company_name': '南京科远智慧科技集团股份有限公司', 'job_name': 'C++开发工程师-南京', 'geography': '南京-江宁区', 'bonus': ['五险一金', '员工旅游', '专业培训', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131969456.html?rc=03'}

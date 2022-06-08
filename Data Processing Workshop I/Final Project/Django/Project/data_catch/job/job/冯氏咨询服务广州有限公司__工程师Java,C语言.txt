@@ -1,0 +1,1 @@
+{'company_name': '冯氏咨询服务广州有限公司', 'job_name': '工程师Java,C语言', 'geography': '广州-番禺区', 'bonus': ['五险一金', '定期体检', '专业培训', '补充商业保险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128286134.html?rc=03'}

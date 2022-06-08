@@ -1,0 +1,1 @@
+{'company_name': '安徽即刻智能科技有限公司', 'job_name': '高级项目经理南京联通', 'geography': '南京-建邺区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131632085.html?rc=03'}

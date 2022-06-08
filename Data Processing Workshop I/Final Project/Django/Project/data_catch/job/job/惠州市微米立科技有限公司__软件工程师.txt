@@ -1,0 +1,1 @@
+{'company_name': '惠州市微米立科技有限公司', 'job_name': '软件工程师', 'geography': '惠州-惠城区', 'bonus': ['绩效奖金', '弹性工作', '项目分红奖金'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/129804494.html?rc=03'}

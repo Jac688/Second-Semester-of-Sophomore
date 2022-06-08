@@ -1,0 +1,1 @@
+{'company_name': '北京华云通达通信技术有限公司', 'job_name': '高级嵌入式软件工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/122123998.html?rc=03'}

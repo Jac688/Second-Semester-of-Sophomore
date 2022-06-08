@@ -1,0 +1,1 @@
+{'company_name': '上海臼井发动机零部件有限公司', 'job_name': '大数据工程师', 'geography': '上海-金山区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '员工旅游'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122528882.html?rc=03'}

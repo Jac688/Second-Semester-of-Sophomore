@@ -1,0 +1,1 @@
+{'company_name': '上海挚信文化传播有限责任公司', 'job_name': '后台大数据开发工程师', 'geography': '上海-普陀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131968267.html?rc=03'}

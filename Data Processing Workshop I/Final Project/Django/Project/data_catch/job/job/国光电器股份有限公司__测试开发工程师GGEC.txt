@@ -1,0 +1,1 @@
+{'company_name': '国光电器股份有限公司', 'job_name': '测试开发工程师GGEC', 'geography': '广州-花都区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123482083.html?rc=03'}

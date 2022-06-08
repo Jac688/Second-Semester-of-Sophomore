@@ -1,0 +1,1 @@
+{'company_name': '上海兆殷特科技有限公司', 'job_name': 'CC++嵌入式软件开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '固定底薪', '专业培训'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126721234.html?rc=03'}

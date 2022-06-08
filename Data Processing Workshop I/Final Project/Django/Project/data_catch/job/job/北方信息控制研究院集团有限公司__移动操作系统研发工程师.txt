@@ -1,0 +1,1 @@
+{'company_name': '北方信息控制研究院集团有限公司', 'job_name': '移动操作系统研发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '免费班车', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131468519.html?rc=03'}

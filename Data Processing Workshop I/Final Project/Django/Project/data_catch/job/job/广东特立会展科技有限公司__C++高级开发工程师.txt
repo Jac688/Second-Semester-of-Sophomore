@@ -1,0 +1,1 @@
+{'company_name': '广东特立会展科技有限公司', 'job_name': 'C++高级开发工程师', 'geography': '广州-番禺区', 'bonus': ['五险一金', '员工旅游', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130365347.html?rc=03'}

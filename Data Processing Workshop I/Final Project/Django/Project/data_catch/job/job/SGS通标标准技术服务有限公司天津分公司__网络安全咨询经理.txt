@@ -1,0 +1,1 @@
+{'company_name': 'SGS通标标准技术服务有限公司天津分公司', 'job_name': '网络安全咨询经理', 'geography': '天津-滨海新区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '带薪年假'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/122474633.html?rc=03'}

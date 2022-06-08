@@ -1,0 +1,1 @@
+{'company_name': '四川九洲空管科技有限责任公司', 'job_name': '大数据人工职能', 'geography': '成都-双流区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132194687.html?rc=03'}

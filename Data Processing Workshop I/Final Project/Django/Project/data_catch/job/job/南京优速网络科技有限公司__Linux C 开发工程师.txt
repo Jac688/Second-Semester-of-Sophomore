@@ -1,0 +1,1 @@
+{'company_name': '南京优速网络科技有限公司', 'job_name': 'Linux C 开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129445576.html?rc=03'}

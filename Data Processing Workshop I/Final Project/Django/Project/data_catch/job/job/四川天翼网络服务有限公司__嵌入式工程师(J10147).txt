@@ -1,0 +1,1 @@
+{'company_name': '四川天翼网络服务有限公司', 'job_name': '嵌入式工程师(J10147)', 'geography': '成都-高新区', 'bonus': ['带薪年假', '五险一金', '节日福利', '餐饮补贴'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/122644861.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海安路信息科技股份有限公司', 'job_name': 'SOC系统软件开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '专业培训', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/108740439.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东天福连锁商业集团有限公司', 'job_name': 'JavaDelphi开发程序员凯特斯', 'geography': '东莞-南城区', 'bonus': ['五险一金', '通讯补贴', '交通补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/125944125.html?rc=03'}

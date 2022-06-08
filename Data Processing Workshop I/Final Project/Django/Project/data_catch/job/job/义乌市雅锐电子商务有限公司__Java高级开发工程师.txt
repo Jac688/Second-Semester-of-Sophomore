@@ -1,0 +1,1 @@
+{'company_name': '义乌市雅锐电子商务有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/102035056.html?rc=03'}

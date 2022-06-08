@@ -1,0 +1,1 @@
+{'company_name': '四川东方物流集团有限公司', 'job_name': 'JAVA后端开发工程师', 'geography': '成都-金牛区', 'bonus': ['周末双休', '带薪年假', '五险一金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131305723.html?rc=03'}

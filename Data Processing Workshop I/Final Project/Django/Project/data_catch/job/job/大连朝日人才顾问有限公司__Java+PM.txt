@@ -1,0 +1,1 @@
+{'company_name': '大连朝日人才顾问有限公司', 'job_name': 'Java+PM', 'geography': '大连-沙河口区', 'bonus': ['五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dalian/132242402.html?rc=03'}

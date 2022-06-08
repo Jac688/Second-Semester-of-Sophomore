@@ -1,0 +1,1 @@
+{'company_name': '广州扩普科技发展有限公司', 'job_name': 'java开发工程师高级', 'geography': '广州', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '专业培训'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/56535486.html?rc=03'}

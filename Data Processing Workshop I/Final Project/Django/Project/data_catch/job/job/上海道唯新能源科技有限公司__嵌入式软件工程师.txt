@@ -1,0 +1,1 @@
+{'company_name': '上海道唯新能源科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海-松江区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '股票期权'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129119022.html?rc=03'}

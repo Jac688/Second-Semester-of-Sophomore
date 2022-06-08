@@ -1,0 +1,1 @@
+{'company_name': '仙桃市志博无纺布制品有限公司', 'job_name': '爬虫开发工程师', 'geography': '武汉', 'bonus': ['绩效奖金', '全勤奖', '节日福利', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/132354260.html?rc=03'}

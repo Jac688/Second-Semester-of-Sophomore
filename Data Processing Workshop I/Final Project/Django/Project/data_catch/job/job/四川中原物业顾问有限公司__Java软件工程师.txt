@@ -1,0 +1,1 @@
+{'company_name': '四川中原物业顾问有限公司', 'job_name': 'Java软件工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '补充公积金', '员工旅游', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128301096.html?rc=03'}

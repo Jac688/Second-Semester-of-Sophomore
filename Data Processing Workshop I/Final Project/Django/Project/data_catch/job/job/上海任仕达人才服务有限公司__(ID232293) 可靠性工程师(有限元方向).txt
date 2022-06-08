@@ -1,0 +1,1 @@
+{'company_name': '上海任仕达人才服务有限公司', 'job_name': '(ID232293) 可靠性工程师(有限元方向)', 'geography': '杭州', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132040527.html?rc=03'}

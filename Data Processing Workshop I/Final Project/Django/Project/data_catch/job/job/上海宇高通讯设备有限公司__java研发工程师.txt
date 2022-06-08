@@ -1,0 +1,1 @@
+{'company_name': '上海宇高通讯设备有限公司', 'job_name': 'java研发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129662843.html?rc=03'}

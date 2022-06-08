@@ -1,0 +1,1 @@
+{'company_name': '中外运动力网络科技苏州有限公司', 'job_name': 'Java开发工程师', 'geography': '苏州-高新区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/125533147.html?rc=03'}

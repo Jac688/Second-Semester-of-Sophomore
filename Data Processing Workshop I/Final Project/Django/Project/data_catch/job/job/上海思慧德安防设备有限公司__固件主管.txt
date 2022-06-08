@@ -1,0 +1,1 @@
+{'company_name': '上海思慧德安防设备有限公司', 'job_name': '固件主管', 'geography': '上海', 'bonus': ['五险一金', '通讯补贴', '年终奖金', '意外保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130620955.html?rc=03'}

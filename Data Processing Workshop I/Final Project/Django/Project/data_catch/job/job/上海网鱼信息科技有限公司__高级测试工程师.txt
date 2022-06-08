@@ -1,0 +1,1 @@
+{'company_name': '上海网鱼信息科技有限公司', 'job_name': '高级测试工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129725387.html?rc=03'}

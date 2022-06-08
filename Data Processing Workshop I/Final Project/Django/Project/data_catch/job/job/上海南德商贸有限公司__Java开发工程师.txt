@@ -1,0 +1,1 @@
+{'company_name': '上海南德商贸有限公司', 'job_name': 'Java开发工程师', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '国定年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129620058.html?rc=03'}

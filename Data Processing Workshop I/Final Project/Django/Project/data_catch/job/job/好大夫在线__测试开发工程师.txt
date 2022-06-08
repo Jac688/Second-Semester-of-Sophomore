@@ -1,0 +1,1 @@
+{'company_name': '好大夫在线', 'job_name': '测试开发工程师', 'geography': '北京-朝阳区', 'bonus': ['周末双休', '带薪年假', '五险一金', '免费班车'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128638730.html?rc=03'}

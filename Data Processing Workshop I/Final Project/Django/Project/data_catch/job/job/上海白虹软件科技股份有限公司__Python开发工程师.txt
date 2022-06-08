@@ -1,0 +1,1 @@
+{'company_name': '上海白虹软件科技股份有限公司', 'job_name': 'Python开发工程师', 'geography': '武汉-武昌区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/128447649.html?rc=03'}

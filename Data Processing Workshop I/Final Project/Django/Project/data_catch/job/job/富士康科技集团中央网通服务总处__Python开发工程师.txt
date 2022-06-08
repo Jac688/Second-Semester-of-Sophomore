@@ -1,0 +1,1 @@
+{'company_name': '富士康科技集团中央网通服务总处', 'job_name': 'Python开发工程师', 'geography': '深圳', 'bonus': ['周末双休', '高温补贴', '带薪年假', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131062571.html?rc=03'}

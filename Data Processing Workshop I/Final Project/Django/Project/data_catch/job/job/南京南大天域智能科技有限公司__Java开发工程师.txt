@@ -1,0 +1,1 @@
+{'company_name': '南京南大天域智能科技有限公司', 'job_name': 'Java开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '弹性工作', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/96568756.html?rc=03'}

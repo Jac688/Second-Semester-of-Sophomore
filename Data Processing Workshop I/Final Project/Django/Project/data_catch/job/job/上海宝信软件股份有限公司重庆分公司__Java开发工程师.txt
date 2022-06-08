@@ -1,0 +1,1 @@
+{'company_name': '上海宝信软件股份有限公司重庆分公司', 'job_name': 'Java开发工程师', 'geography': '重庆-长寿区', 'bonus': ['五险一金', '通讯补贴', '定期体检', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/114327158.html?rc=03'}

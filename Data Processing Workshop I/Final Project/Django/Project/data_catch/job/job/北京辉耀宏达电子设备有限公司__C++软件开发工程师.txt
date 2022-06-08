@@ -1,0 +1,1 @@
+{'company_name': '北京辉耀宏达电子设备有限公司', 'job_name': 'C++软件开发工程师', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/beijing/91020177.html?rc=03'}

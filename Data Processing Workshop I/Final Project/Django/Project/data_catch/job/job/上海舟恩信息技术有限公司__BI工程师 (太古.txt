@@ -1,0 +1,1 @@
+{'company_name': '上海舟恩信息技术有限公司', 'job_name': 'BI工程师 (太古', 'geography': '杭州', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '商业保险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131066343.html?rc=03'}

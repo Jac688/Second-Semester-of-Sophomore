@@ -1,0 +1,1 @@
+{'company_name': '国泰百安信息技术有限公司', 'job_name': 'Java中级开发工程师', 'geography': '广州-越秀区', 'bonus': ['五险一金', '交通补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129418700.html?rc=03'}

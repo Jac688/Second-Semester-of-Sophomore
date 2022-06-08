@@ -1,0 +1,1 @@
+{'company_name': '广发银行股份有限公司信用卡中心', 'job_name': 'Java开发工程师', 'geography': '佛山-南海区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/126262972.html?rc=03'}

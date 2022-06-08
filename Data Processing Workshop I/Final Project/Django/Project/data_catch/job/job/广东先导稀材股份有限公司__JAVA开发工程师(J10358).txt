@@ -1,0 +1,1 @@
+{'company_name': '广东先导稀材股份有限公司', 'job_name': 'JAVA开发工程师(J10358)', 'geography': '清远', 'bonus': ['五险一金', '免费班车', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/qingyuan/130871234.html?rc=03'}

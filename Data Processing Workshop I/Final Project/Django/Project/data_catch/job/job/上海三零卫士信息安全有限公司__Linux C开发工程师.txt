@@ -1,0 +1,1 @@
+{'company_name': '上海三零卫士信息安全有限公司', 'job_name': 'Linux C开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126071958.html?rc=03'}

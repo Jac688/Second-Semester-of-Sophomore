@@ -1,0 +1,1 @@
+{'company_name': '德阳数字城市科技有限公司', 'job_name': '运维工程师', 'geography': '德阳', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/deyang/128518081.html?rc=03'}

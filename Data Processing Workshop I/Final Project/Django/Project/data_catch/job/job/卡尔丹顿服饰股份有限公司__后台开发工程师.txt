@@ -1,0 +1,1 @@
+{'company_name': '卡尔丹顿服饰股份有限公司', 'job_name': '后台开发工程师', 'geography': '深圳-龙华区', 'bonus': ['五险一金', '免费班车', '专业培训', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127066280.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州小秋阳信息技术有限公司', 'job_name': '运维工程师', 'geography': '广州-海珠区', 'bonus': ['五险一金', '周末双休', '包吃', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132275462.html?rc=03'}

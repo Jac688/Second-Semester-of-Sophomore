@@ -1,0 +1,1 @@
+{'company_name': '上海微盟企业发展有限公司', 'job_name': '数据分析师 (W00941)', 'geography': '上海-宝山区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132266235.html?rc=03'}

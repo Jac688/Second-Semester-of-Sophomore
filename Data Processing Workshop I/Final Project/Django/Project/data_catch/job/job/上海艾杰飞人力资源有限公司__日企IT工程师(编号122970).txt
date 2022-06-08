@@ -1,0 +1,1 @@
+{'company_name': '上海艾杰飞人力资源有限公司', 'job_name': '日企IT工程师(编号122970)', 'geography': '东莞', 'bonus': ['国家法定休假', '带薪年假', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/123906144.html?rc=03'}

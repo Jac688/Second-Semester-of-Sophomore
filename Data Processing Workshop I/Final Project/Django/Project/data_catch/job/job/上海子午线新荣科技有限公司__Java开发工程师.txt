@@ -1,0 +1,1 @@
+{'company_name': '上海子午线新荣科技有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '免费班车', '员工旅游', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122185284.html?rc=03'}

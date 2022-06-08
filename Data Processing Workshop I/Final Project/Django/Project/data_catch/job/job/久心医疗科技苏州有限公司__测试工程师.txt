@@ -1,0 +1,1 @@
+{'company_name': '久心医疗科技苏州有限公司', 'job_name': '测试工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '年终奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/118199185.html?rc=03'}

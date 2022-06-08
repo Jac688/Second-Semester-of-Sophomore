@@ -1,0 +1,1 @@
+{'company_name': '宁波世贸通国际贸易有限公司', 'job_name': '004Java工程师社招', 'geography': '宁波', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131001361.html?rc=03'}

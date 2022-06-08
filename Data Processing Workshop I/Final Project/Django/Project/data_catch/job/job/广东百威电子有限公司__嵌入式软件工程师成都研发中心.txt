@@ -1,0 +1,1 @@
+{'company_name': '广东百威电子有限公司', 'job_name': '嵌入式软件工程师成都研发中心', 'geography': '成都-武侯区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/94253570.html?rc=03'}

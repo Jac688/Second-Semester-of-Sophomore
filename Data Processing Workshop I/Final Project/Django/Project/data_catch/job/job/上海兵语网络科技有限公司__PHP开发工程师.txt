@@ -1,0 +1,1 @@
+{'company_name': '上海兵语网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129829331.html?rc=03'}

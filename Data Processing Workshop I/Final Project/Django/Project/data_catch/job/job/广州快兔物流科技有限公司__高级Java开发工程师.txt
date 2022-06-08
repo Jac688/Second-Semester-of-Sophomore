@@ -1,0 +1,1 @@
+{'company_name': '广州快兔物流科技有限公司', 'job_name': '高级Java开发工程师', 'geography': '广州', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126158880.html?rc=03'}

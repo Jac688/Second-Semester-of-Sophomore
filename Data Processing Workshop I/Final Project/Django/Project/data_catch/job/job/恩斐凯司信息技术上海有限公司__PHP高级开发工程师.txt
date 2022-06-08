@@ -1,0 +1,1 @@
+{'company_name': '恩斐凯司信息技术上海有限公司', 'job_name': 'PHP高级开发工程师', 'geography': '杭州-西湖区', 'bonus': ['绩效奖金', '弹性工作', '补充医疗保险', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/105476561.html?rc=03'}

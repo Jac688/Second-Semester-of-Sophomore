@@ -1,0 +1,1 @@
+{'company_name': '天津红日药业股份有限公司总部', 'job_name': '高级项目经理(J12940)', 'geography': '天津-武清区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128658041.html?rc=03'}

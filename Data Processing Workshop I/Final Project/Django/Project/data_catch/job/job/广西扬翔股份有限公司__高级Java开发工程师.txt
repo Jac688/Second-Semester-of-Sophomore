@@ -1,0 +1,1 @@
+{'company_name': '广西扬翔股份有限公司', 'job_name': '高级Java开发工程师', 'geography': '贵港', 'bonus': ['五险一金', '免费班车', '年终奖金', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guigang/128035491.html?rc=03'}

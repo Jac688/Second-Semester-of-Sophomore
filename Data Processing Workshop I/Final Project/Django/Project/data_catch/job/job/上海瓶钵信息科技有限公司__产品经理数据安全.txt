@@ -1,0 +1,1 @@
+{'company_name': '上海瓶钵信息科技有限公司', 'job_name': '产品经理数据安全', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129937629.html?rc=03'}

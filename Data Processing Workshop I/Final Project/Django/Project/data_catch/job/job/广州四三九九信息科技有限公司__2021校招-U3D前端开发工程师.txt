@@ -1,0 +1,1 @@
+{'company_name': '广州四三九九信息科技有限公司', 'job_name': '2021校招-U3D前端开发工程师', 'geography': '广州-黄埔区', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125830585.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东耀东华装饰材料科技有限公司', 'job_name': '肇庆 ERP工程师', 'geography': '肇庆-四会市', 'bonus': ['绩效奖金', '年终奖金', '专业培训', '员工旅游'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/zhaoqing/127093925.html?rc=03'}

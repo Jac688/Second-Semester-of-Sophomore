@@ -1,0 +1,1 @@
+{'company_name': '南京大树智能科技股份有限公司', 'job_name': '软件工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '通讯补贴', '绩效奖金', '节假日福利'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/125590804.html?rc=03'}

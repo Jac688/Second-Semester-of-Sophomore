@@ -1,0 +1,1 @@
+{'company_name': '四川军工人力资源有限责任公司', 'job_name': '软件实施工程师', 'geography': '成都-青羊区', 'bonus': ['节日福利', '绩效奖金', '带薪年假', '周末双休'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131562834.html?rc=03'}

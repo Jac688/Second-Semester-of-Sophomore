@@ -1,0 +1,1 @@
+{'company_name': '中国海诚工程科技股份有限公司 China Haisum Engineering Co.,Ltd.', 'job_name': 'EIM技术平台开发经理', 'geography': '上海', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120846254.html?rc=03'}

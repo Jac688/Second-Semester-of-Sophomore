@@ -1,0 +1,1 @@
+{'company_name': '卓志供应链集团', 'job_name': 'JAVA开发初级', 'geography': '厦门-思明区', 'bonus': ['五险一金', '定期体检', '员工旅游', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/129973414.html?rc=03'}

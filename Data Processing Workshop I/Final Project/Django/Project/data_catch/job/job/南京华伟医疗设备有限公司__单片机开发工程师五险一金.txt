@@ -1,0 +1,1 @@
+{'company_name': '南京华伟医疗设备有限公司', 'job_name': '单片机开发工程师五险一金', 'geography': '南京', 'bonus': ['五险一金', '周末双休', '绩效奖金', '年终奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/112749445.html?rc=03'}

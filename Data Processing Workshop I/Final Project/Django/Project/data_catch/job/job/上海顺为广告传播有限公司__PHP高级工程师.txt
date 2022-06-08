@@ -1,0 +1,1 @@
+{'company_name': '上海顺为广告传播有限公司', 'job_name': 'PHP高级工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119333930.html?rc=03'}

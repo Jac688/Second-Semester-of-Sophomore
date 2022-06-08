@@ -1,0 +1,1 @@
+{'company_name': '上海复深蓝软件股份有限公司', 'job_name': 'APP测试工程师编号06', 'geography': '北京-丰台区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130156252.html?rc=03'}

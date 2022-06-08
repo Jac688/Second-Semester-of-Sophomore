@@ -1,0 +1,1 @@
+{'company_name': '合肥智芯半导体有限公司', 'job_name': 'windows工具开发', 'geography': '苏州-姑苏区', 'bonus': ['弹性工作', '股票期权', '年终奖金', '员工旅游'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/125318488.html?rc=03'}

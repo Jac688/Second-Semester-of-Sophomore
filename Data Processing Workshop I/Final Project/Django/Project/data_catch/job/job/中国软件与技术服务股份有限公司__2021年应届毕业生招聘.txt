@@ -1,0 +1,1 @@
+{'company_name': '中国软件与技术服务股份有限公司', 'job_name': '2021年应届毕业生招聘', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '通讯补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/126014648.html?rc=03'}

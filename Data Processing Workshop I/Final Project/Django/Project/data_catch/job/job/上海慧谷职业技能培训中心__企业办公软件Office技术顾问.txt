@@ -1,0 +1,1 @@
+{'company_name': '上海慧谷职业技能培训中心', 'job_name': '企业办公软件Office技术顾问', 'geography': '上海', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/118593364.html?rc=03'}

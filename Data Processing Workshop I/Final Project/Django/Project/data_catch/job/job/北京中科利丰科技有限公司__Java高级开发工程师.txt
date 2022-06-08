@@ -1,0 +1,1 @@
+{'company_name': '北京中科利丰科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '南京', 'bonus': ['五险一金', '绩效奖金', '岗位晋升', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130368919.html?rc=03'}

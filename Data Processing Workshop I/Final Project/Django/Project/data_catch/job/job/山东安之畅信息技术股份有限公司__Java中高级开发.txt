@@ -1,0 +1,1 @@
+{'company_name': '山东安之畅信息技术股份有限公司', 'job_name': 'Java中高级开发', 'geography': '济南-天桥区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130482258.html?rc=03'}

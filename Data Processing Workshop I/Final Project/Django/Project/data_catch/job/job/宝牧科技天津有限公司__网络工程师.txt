@@ -1,0 +1,1 @@
+{'company_name': '宝牧科技天津有限公司', 'job_name': '网络工程师', 'geography': '天津-南开区', 'bonus': ['五险一金', '绩效奖金', '弹性工作', '节日福利'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/125739832.html?rc=03'}

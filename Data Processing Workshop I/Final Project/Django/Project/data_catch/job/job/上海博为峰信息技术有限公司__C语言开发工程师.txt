@@ -1,0 +1,1 @@
+{'company_name': '上海博为峰信息技术有限公司', 'job_name': 'C语言开发工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130825889.html?rc=03'}

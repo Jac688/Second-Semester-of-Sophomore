@@ -1,0 +1,1 @@
+{'company_name': '帕科视讯科技杭州股份有限公司', 'job_name': '软件测试工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/86226829.html?rc=03'}

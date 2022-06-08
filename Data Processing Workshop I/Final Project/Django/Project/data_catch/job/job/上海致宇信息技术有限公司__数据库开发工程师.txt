@@ -1,0 +1,1 @@
+{'company_name': '上海致宇信息技术有限公司', 'job_name': '数据库开发工程师', 'geography': '宁波-江北区', 'bonus': ['专业培训', '五险一金', '年终奖金', '股票期权'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131850634.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中财招商投资集团有限公司', 'job_name': 'Java软件工程师', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '免费班车', '员工旅游', '餐饮补贴'], 'salary': 0.58, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/79360480.html?rc=03'}

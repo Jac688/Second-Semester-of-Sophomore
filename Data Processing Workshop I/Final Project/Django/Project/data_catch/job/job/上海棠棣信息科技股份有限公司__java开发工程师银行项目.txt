@@ -1,0 +1,1 @@
+{'company_name': '上海棠棣信息科技股份有限公司', 'job_name': 'java开发工程师银行项目', 'geography': '青岛-市南区', 'bonus': ['五险一金', '弹性工作', '定期体检', '专业培训'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/112434377.html?rc=03'}

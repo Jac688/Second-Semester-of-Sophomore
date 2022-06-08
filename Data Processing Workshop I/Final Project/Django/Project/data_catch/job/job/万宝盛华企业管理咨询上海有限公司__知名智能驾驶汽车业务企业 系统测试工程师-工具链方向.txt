@@ -1,0 +1,1 @@
+{'company_name': '万宝盛华企业管理咨询上海有限公司', 'job_name': '知名智能驾驶汽车业务企业 系统测试工程师-工具链方向', 'geography': '北京-房山区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130047651.html?rc=03'}

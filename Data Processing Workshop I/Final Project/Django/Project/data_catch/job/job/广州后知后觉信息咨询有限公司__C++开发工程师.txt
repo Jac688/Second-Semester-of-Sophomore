@@ -1,0 +1,1 @@
+{'company_name': '广州后知后觉信息咨询有限公司', 'job_name': 'C++开发工程师', 'geography': '广州', 'bonus': ['节日福利', '团队有活力', '企业文化好', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126673449.html?rc=03'}

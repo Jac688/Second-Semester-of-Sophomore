@@ -1,0 +1,1 @@
+{'company_name': '上海梯之星信息科技有限公司', 'job_name': '销售经理带队', 'geography': '北京-通州区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126341651.html?rc=03'}

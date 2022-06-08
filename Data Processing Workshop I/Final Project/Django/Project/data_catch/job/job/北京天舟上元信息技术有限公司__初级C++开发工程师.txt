@@ -1,0 +1,1 @@
+{'company_name': '北京天舟上元信息技术有限公司', 'job_name': '初级C++开发工程师', 'geography': '北京-石景山区', 'bonus': ['国家重点行业', '市场潜力巨大', '成长空广阔', '绩效考核奖励'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125338996.html?rc=03'}

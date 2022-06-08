@@ -1,0 +1,1 @@
+{'company_name': '上海长江唯诚科技股份有限公司', 'job_name': 'Java后台研发工程师', 'geography': '成都-青羊区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/100640251.html?rc=03'}

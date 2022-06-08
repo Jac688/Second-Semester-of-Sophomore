@@ -1,0 +1,1 @@
+{'company_name': '安世亚太科技股份有限公司', 'job_name': '仿真平台显式动力学数值算法研发工程师', 'geography': '北京', 'bonus': [], 'salary': 5.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130564147.html?rc=03'}

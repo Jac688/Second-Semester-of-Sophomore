@@ -1,0 +1,1 @@
+{'company_name': '大金来科技深圳有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-龙岗区', 'bonus': ['五险一金', '定期体检', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124529270.html?rc=03'}

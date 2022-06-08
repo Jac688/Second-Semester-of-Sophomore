@@ -1,0 +1,1 @@
+{'company_name': '中健云康广州物流供应链有限公司', 'job_name': 'JAVA开发组长', 'geography': '广州-番禺区', 'bonus': ['通讯补贴', '年终奖金', '员工旅游', '五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128616290.html?rc=03'}

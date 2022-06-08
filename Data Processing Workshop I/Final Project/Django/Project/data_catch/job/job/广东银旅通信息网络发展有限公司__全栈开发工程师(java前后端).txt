@@ -1,0 +1,1 @@
+{'company_name': '广东银旅通信息网络发展有限公司', 'job_name': '全栈开发工程师(java前后端)', 'geography': '广州-天河区', 'bonus': ['五险一金', '周末双休'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131542692.html?rc=03'}

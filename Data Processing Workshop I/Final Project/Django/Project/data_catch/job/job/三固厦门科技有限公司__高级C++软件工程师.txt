@@ -1,0 +1,1 @@
+{'company_name': '三固厦门科技有限公司', 'job_name': '高级C++软件工程师', 'geography': '异地招聘', 'bonus': ['五险', '专业培训', '员工旅游', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129351545.html?rc=03'}

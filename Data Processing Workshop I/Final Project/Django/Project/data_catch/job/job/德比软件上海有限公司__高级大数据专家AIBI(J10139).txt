@@ -1,0 +1,1 @@
+{'company_name': '德比软件上海有限公司', 'job_name': '高级大数据专家AIBI(J10139)', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130002781.html?rc=03'}

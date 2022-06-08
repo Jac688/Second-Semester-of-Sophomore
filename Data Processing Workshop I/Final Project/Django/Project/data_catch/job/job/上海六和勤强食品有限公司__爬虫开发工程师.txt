@@ -1,0 +1,1 @@
+{'company_name': '上海六和勤强食品有限公司', 'job_name': '爬虫开发工程师', 'geography': '上海-宝山区', 'bonus': ['包住宿', '绩效奖金', '节日福利', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127576123.html?rc=03'}

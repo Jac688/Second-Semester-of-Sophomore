@@ -1,0 +1,1 @@
+{'company_name': '云森威尔智能环境深圳有限公司', 'job_name': '程序员兼网络计算机维护', 'geography': '深圳-宝安区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/123871372.html?rc=03'}

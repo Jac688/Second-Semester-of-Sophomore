@@ -1,0 +1,1 @@
+{'company_name': '北京高升数据系统有限公司', 'job_name': '系统运维工程师', 'geography': '天津-东丽区', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130504039.html?rc=03'}

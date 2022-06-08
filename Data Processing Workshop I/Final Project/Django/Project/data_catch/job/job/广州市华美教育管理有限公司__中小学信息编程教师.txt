@@ -1,0 +1,1 @@
+{'company_name': '广州市华美教育管理有限公司', 'job_name': '中小学信息编程教师', 'geography': '广州-天河区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '补充医疗保险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124396536.html?rc=03'}

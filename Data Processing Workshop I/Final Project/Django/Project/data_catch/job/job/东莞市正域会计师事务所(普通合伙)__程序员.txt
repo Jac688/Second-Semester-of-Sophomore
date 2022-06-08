@@ -1,0 +1,1 @@
+{'company_name': '东莞市正域会计师事务所(普通合伙)', 'job_name': '程序员', 'geography': '东莞-南城区', 'bonus': ['五险一金', '员工旅游', '专业培训', '年终奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/127466466.html?rc=03'}

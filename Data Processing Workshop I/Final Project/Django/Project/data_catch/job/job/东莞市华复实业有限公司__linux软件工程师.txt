@@ -1,0 +1,1 @@
+{'company_name': '东莞市华复实业有限公司', 'job_name': 'linux软件工程师', 'geography': '东莞-长安镇', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/113523948.html?rc=03'}

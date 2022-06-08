@@ -1,0 +1,1 @@
+{'company_name': '山东祥顺财税服务有限公司', 'job_name': 'Java开发工程师', 'geography': '淄博', 'bonus': ['五险一金', '免费班车', '交通补贴', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/zibo/130867197.html?rc=03'}

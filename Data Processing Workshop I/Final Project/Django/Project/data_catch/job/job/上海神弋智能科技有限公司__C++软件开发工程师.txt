@@ -1,0 +1,1 @@
+{'company_name': '上海神弋智能科技有限公司', 'job_name': 'C++软件开发工程师', 'geography': '上海-奉贤区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125550011.html?rc=03'}

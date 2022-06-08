@@ -1,0 +1,1 @@
+{'company_name': '上海辉电电力设备工程有限公司', 'job_name': '高级编程开发', 'geography': '北京-西城区', 'bonus': ['五险一金', '节日福利', '高温补贴', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130769796.html?rc=03'}

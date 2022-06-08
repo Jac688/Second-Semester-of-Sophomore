@@ -1,0 +1,1 @@
+{'company_name': '广州禾信仪器股份有限公司', 'job_name': 'c++工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '免费班车', '员工旅游', '餐饮补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130133236.html?rc=03'}

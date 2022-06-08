@@ -1,0 +1,1 @@
+{'company_name': '四川万信数字科技有限公司', 'job_name': 'JAVA中级工程师', 'geography': '成都', 'bonus': ['五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129706592.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '和昌未来科技深圳有限公司', 'job_name': 'CC++开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130767390.html?rc=03'}

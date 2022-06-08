@@ -1,0 +1,1 @@
+{'company_name': '北京诺禾致源科技股份有限公司', 'job_name': '.NET开发工程师', 'geography': '天津-武清区', 'bonus': ['五险一金', '绩效奖金', '专业培训', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/132145589.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京汽车集团财务有限公司', 'job_name': '信息管理部项目经理汽车金融方向', 'geography': '北京-丰台区', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '节日福利'], 'salary': 2.08, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128712047.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京清月智能科技研发有限公司', 'job_name': 'java开发工程师南京', 'geography': '南京-鼓楼区', 'bonus': ['七险一金', '年终奖金', '补充医疗保险', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130939267.html?rc=03'}

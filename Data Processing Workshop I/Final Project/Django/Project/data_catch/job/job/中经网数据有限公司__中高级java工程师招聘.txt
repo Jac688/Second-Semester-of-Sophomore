@@ -1,0 +1,1 @@
+{'company_name': '中经网数据有限公司', 'job_name': '中高级java工程师招聘', 'geography': '北京-西城区', 'bonus': ['餐饮补贴', '五险一金', '定期体检', '供暖补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131458254.html?rc=03'}

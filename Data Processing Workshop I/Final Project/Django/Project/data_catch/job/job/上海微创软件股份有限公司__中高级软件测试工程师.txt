@@ -1,0 +1,1 @@
+{'company_name': '上海微创软件股份有限公司', 'job_name': '中高级软件测试工程师', 'geography': '杭州', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131006358.html?rc=03'}

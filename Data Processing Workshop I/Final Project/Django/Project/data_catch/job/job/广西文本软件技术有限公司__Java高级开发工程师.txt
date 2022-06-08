@@ -1,0 +1,1 @@
+{'company_name': '广西文本软件技术有限公司', 'job_name': 'Java高级开发工程师', 'geography': '来宾', 'bonus': ['五险一金', '年终奖金', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/laibin/131554155.html?rc=03'}

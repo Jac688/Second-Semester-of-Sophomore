@@ -1,0 +1,1 @@
+{'company_name': '南凌科技股份有限公司', 'job_name': '研发工程师C++Python', 'geography': '深圳-南山区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/112446633.html?rc=03'}

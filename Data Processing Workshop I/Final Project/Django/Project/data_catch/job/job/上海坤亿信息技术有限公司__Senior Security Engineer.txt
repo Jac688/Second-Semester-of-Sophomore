@@ -1,0 +1,1 @@
+{'company_name': '上海坤亿信息技术有限公司', 'job_name': 'Senior Security Engineer', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128574009.html?rc=03'}

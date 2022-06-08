@@ -1,0 +1,1 @@
+{'company_name': '南京英斯特网络科技有限公司', 'job_name': 'C++QT开发工程师', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/120995656.html?rc=03'}

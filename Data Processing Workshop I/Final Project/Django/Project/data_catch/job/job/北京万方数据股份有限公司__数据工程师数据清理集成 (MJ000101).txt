@@ -1,0 +1,1 @@
+{'company_name': '北京万方数据股份有限公司', 'job_name': '数据工程师数据清理集成 (MJ000101)', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130383117.html?rc=03'}

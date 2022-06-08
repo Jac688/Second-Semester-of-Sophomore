@@ -1,0 +1,1 @@
+{'company_name': '上海越钥电子有限公司', 'job_name': '电子工程师研发生产', 'geography': '上海', 'bonus': ['员工旅游', '弹性工作', '包吃住', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129221000.html?rc=03'}

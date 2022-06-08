@@ -1,0 +1,1 @@
+{'company_name': '上海联影医疗科技股份有限公司', 'job_name': '嵌入式软件工程师-UIM', 'geography': '上海-嘉定区', 'bonus': ['免费班车', '五险一金', '补充医疗保险', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121902938.html?rc=03'}

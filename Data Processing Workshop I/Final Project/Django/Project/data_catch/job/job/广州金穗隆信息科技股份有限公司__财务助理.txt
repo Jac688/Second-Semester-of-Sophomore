@@ -1,0 +1,1 @@
+{'company_name': '广州金穗隆信息科技股份有限公司', 'job_name': '财务助理', 'geography': '广州-天河区', 'bonus': ['六险一金', '年终奖金', '绩效奖金', '国内外旅游'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132248239.html?rc=03'}

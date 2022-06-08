@@ -1,0 +1,1 @@
+{'company_name': '上海交通大学四川研究院', 'job_name': '人工智能算法工程师', 'geography': '成都-双流区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/123509886.html?rc=03'}

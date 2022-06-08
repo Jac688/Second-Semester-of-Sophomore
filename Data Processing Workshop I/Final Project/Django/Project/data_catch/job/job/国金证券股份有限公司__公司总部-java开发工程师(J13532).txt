@@ -1,0 +1,1 @@
+{'company_name': '国金证券股份有限公司', 'job_name': '公司总部-java开发工程师(J13532)', 'geography': '上海-浦东新区', 'bonus': ['丰厚年终奖'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131104732.html?rc=03'}

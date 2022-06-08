@@ -1,0 +1,1 @@
+{'company_name': '大连东博恒翼科技有限公司', 'job_name': 'C++开发工程师', 'geography': '大连-沙河口区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dalian/130425367.html?rc=03'}

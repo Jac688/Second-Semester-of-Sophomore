@@ -1,0 +1,1 @@
+{'company_name': '嘉利国际控股有限公司', 'job_name': '高级软件开发工程师', 'geography': '异地招聘', 'bonus': ['免费班车', '带薪年假', '五险一金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129646250.html?rc=03'}

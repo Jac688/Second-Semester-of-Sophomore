@@ -1,0 +1,1 @@
+{'company_name': '云南白药集团股份有限公司', 'job_name': '数据开发工程师AI骨科', 'geography': '北京', 'bonus': ['绩效奖金', '交通补助', '弹性工作', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130840436.html?rc=03'}

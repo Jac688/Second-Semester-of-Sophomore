@@ -1,0 +1,1 @@
+{'company_name': '上海优克锡企业管理顾问有限公司', 'job_name': '软件测试工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/104250128.html?rc=03'}

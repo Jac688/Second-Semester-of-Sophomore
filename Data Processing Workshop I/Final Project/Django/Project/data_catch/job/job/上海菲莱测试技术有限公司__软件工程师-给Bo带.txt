@@ -1,0 +1,1 @@
+{'company_name': '上海菲莱测试技术有限公司', 'job_name': '软件工程师-给Bo带', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130550718.html?rc=03'}

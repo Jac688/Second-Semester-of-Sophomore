@@ -1,0 +1,1 @@
+{'company_name': '上海天正软件有限公司', 'job_name': 'IOS开发工程师 (J10057)', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '年终奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131991403.html?rc=03'}

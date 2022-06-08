@@ -1,0 +1,1 @@
+{'company_name': '南京百敖软件有限公司', 'job_name': '前端开发工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128718848.html?rc=03'}

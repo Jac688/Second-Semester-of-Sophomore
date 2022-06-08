@@ -1,0 +1,1 @@
+{'company_name': '广东德怡电子科技有限公司', 'job_name': '软件工程师', 'geography': '佛山', 'bonus': ['五险', '提供食宿', '带薪年假', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/128561238.html?rc=03'}

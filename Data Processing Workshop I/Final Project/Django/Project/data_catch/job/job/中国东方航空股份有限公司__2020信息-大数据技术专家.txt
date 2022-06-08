@@ -1,0 +1,1 @@
+{'company_name': '中国东方航空股份有限公司', 'job_name': '2020信息-大数据技术专家', 'geography': '上海-闵行区', 'bonus': ['做五休二', '带薪年假', '五险一金', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120384675.html?rc=03'}

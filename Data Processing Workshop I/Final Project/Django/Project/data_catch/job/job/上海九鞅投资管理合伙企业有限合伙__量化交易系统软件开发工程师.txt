@@ -1,0 +1,1 @@
+{'company_name': '上海九鞅投资管理合伙企业有限合伙', 'job_name': '量化交易系统软件开发工程师', 'geography': '上海-杨浦区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123131533.html?rc=03'}

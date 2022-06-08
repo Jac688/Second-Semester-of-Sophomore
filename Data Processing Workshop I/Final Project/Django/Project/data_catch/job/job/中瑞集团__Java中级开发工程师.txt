@@ -1,0 +1,1 @@
+{'company_name': '中瑞集团', 'job_name': 'Java中级开发工程师', 'geography': '青岛-李沧区', 'bonus': ['五险一金', '周末双休', '员工餐厅', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/122095095.html?rc=03'}

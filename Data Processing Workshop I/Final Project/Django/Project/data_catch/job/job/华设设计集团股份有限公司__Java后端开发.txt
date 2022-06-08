@@ -1,0 +1,1 @@
+{'company_name': '华设设计集团股份有限公司', 'job_name': 'Java后端开发', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '定期体检'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131783087.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中山市博顿光电科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '佛山-南海区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131428106.html?rc=03'}

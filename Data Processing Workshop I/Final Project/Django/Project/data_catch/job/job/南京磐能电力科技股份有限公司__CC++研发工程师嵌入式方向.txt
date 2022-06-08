@@ -1,0 +1,1 @@
+{'company_name': '南京磐能电力科技股份有限公司', 'job_name': 'CC++研发工程师嵌入式方向', 'geography': '南京', 'bonus': ['五险一金', '免费班车', '交通补贴', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131673968.html?rc=03'}

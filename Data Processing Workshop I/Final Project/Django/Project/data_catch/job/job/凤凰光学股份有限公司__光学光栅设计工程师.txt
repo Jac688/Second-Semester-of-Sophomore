@@ -1,0 +1,1 @@
+{'company_name': '凤凰光学股份有限公司', 'job_name': '光学光栅设计工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '住房补贴', '绩效奖金'], 'salary': 2.08, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/126757441.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州安正软件有限公司', 'job_name': 'Java中级开发工程师', 'geography': '深圳', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128773987.html?rc=03'}

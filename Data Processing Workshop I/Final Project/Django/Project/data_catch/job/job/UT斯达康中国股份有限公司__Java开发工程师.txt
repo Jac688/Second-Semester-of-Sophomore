@@ -1,0 +1,1 @@
+{'company_name': 'UT斯达康中国股份有限公司', 'job_name': 'Java开发工程师', 'geography': '武汉-武昌区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/122530153.html?rc=03'}

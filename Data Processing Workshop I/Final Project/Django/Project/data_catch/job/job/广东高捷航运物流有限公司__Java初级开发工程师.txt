@@ -1,0 +1,1 @@
+{'company_name': '广东高捷航运物流有限公司', 'job_name': 'Java初级开发工程师', 'geography': '广州', 'bonus': ['五险一金', '专业培训', '年终奖金', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124060917.html?rc=03'}

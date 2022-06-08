@@ -1,0 +1,1 @@
+{'company_name': '北京普汇融智咨询有限公司', 'job_name': '反作弊策略工程师---头部互联网公司', 'geography': '北京-海淀区', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴', '年终奖金'], 'salary': 4.17, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126342358.html?rc=03'}

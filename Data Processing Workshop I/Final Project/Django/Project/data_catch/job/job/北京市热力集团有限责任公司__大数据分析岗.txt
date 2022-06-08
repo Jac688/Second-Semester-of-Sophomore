@@ -1,0 +1,1 @@
+{'company_name': '北京市热力集团有限责任公司', 'job_name': '大数据分析岗', 'geography': '北京-朝阳区', 'bonus': ['带薪年假', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132071456.html?rc=03'}

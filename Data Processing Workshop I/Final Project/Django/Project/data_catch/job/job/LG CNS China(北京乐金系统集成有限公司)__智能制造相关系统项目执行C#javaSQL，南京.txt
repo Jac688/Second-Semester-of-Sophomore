@@ -1,0 +1,1 @@
+{'company_name': 'LG CNS China(北京乐金系统集成有限公司)', 'job_name': '智能制造相关系统项目执行C#javaSQL，南京', 'geography': '南京-江宁区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125985802.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '丹佛斯天津有限公司 Danfoss (Tianjin) Co., Ltd', 'job_name': 'Solution Architect- DGIT China', 'geography': '异地招聘', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131626426.html?rc=03'}

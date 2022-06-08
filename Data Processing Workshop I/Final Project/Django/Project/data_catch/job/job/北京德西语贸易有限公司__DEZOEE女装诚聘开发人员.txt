@@ -1,0 +1,1 @@
+{'company_name': '北京德西语贸易有限公司', 'job_name': 'DEZOEE女装诚聘开发人员', 'geography': '北京-海淀区', 'bonus': ['年假', '工龄工资', '五险一金', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126200742.html?rc=03'}

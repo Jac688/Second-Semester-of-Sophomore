@@ -1,0 +1,1 @@
+{'company_name': '丰柯电子科技上海有限公司', 'job_name': '嵌入式软件工程师Linux', 'geography': '重庆-渝北区', 'bonus': ['周末双休', '弹性工作', '带薪年假', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/123779524.html?rc=03'}

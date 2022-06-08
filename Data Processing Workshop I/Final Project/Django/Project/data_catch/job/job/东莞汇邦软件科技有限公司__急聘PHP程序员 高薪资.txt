@@ -1,0 +1,1 @@
+{'company_name': '东莞汇邦软件科技有限公司', 'job_name': '急聘PHP程序员 高薪资', 'geography': '东莞-南城区', 'bonus': ['节日福利', '全勤奖', '专业培训', '通讯补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/123256922.html?rc=03'}

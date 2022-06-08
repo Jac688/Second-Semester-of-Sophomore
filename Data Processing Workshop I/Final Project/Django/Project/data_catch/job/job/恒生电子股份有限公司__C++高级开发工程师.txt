@@ -1,0 +1,1 @@
+{'company_name': '恒生电子股份有限公司', 'job_name': 'C++高级开发工程师', 'geography': '杭州-滨江区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130721065.html?rc=03'}

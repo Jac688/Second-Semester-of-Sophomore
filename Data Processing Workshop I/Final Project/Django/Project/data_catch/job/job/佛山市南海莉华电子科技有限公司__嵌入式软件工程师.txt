@@ -1,0 +1,1 @@
+{'company_name': '佛山市南海莉华电子科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '佛山', 'bonus': ['出国机会', '交通补贴', '弹性工作', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/117200667.html?rc=03'}

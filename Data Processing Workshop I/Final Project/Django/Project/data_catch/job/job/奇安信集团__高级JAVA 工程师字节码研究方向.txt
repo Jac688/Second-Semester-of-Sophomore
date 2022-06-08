@@ -1,0 +1,1 @@
+{'company_name': '奇安信集团', 'job_name': '高级JAVA 工程师字节码研究方向', 'geography': '珠海-珠海高新区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/130859579.html?rc=03'}

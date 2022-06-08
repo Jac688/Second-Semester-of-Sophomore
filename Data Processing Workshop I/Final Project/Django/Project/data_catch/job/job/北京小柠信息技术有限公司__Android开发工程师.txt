@@ -1,0 +1,1 @@
+{'company_name': '北京小柠信息技术有限公司', 'job_name': 'Android开发工程师', 'geography': '北京-大兴区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128383676.html?rc=03'}

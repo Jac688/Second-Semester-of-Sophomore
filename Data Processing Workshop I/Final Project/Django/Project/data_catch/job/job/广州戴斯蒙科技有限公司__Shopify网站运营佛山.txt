@@ -1,0 +1,1 @@
+{'company_name': '广州戴斯蒙科技有限公司', 'job_name': 'Shopify网站运营佛山', 'geography': '佛山-顺德区', 'bonus': ['弹性工作', '带薪年假', '绩效奖金', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129441879.html?rc=03'}

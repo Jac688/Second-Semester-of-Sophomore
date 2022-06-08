@@ -1,0 +1,1 @@
+{'company_name': '华泰财产保险有限公司', 'job_name': '总公司信息技术部数据应用工程师(007660)', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125406106.html?rc=03'}

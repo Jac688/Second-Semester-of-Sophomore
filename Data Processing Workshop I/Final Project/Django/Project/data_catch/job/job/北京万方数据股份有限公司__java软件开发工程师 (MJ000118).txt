@@ -1,0 +1,1 @@
+{'company_name': '北京万方数据股份有限公司', 'job_name': 'java软件开发工程师 (MJ000118)', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131299516.html?rc=03'}

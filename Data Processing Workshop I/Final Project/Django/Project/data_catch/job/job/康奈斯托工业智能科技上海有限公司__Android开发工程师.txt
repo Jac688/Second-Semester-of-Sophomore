@@ -1,0 +1,1 @@
+{'company_name': '康奈斯托工业智能科技上海有限公司', 'job_name': 'Android开发工程师', 'geography': '青岛-城阳区', 'bonus': ['五险', '交通补贴', '专业培训', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/122420112.html?rc=03'}

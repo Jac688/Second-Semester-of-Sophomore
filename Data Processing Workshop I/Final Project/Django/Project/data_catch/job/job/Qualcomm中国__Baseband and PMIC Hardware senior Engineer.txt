@@ -1,0 +1,1 @@
+{'company_name': 'Qualcomm中国', 'job_name': 'Baseband and PMIC Hardware senior Engineer', 'geography': '上海-浦东新区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126846694.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '安徽即刻智能科技有限公司', 'job_name': '高级运维工程师南京联通', 'geography': '南京-建邺区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131633588.html?rc=03'}

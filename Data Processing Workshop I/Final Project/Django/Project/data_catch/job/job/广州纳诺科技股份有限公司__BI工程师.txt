@@ -1,0 +1,1 @@
+{'company_name': '广州纳诺科技股份有限公司', 'job_name': 'BI工程师', 'geography': '广州-花都区', 'bonus': ['做五休二', '带薪年假', '五险一金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132221897.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海毕迪信息技术有限公司', 'job_name': 'TC开发顾问开发工程师', 'geography': '上海-徐汇区', 'bonus': ['做五休二', '周末双休', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127127270.html?rc=03'}

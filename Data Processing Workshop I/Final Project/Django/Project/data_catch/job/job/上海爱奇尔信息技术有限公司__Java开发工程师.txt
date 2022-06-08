@@ -1,0 +1,1 @@
+{'company_name': '上海爱奇尔信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-普陀区', 'bonus': ['做五休二', '周末双休', '弹性工作', '加班补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132166473.html?rc=03'}

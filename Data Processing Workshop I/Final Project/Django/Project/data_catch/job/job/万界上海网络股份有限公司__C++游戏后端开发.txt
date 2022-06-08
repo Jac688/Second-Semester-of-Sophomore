@@ -1,0 +1,1 @@
+{'company_name': '万界上海网络股份有限公司', 'job_name': 'C++游戏后端开发', 'geography': '广州-天河区', 'bonus': ['五险一金', '定期体检', '包三餐'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123243785.html?rc=03'}

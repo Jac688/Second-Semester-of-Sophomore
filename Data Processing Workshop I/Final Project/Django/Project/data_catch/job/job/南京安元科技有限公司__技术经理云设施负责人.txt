@@ -1,0 +1,1 @@
+{'company_name': '南京安元科技有限公司', 'job_name': '技术经理云设施负责人', 'geography': '南京-浦口区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131525890.html?rc=03'}

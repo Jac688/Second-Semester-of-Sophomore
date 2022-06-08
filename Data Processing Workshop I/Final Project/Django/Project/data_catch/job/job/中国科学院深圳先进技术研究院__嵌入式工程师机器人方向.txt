@@ -1,0 +1,1 @@
+{'company_name': '中国科学院深圳先进技术研究院', 'job_name': '嵌入式工程师机器人方向', 'geography': '深圳-南山区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129717802.html?rc=03'}

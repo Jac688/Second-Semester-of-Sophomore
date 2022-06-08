@@ -1,0 +1,1 @@
+{'company_name': '宁波速普电子有限公司', 'job_name': '系统开发工程师-基础版', 'geography': '宁波-慈溪市', 'bonus': ['五险一金', '专业培训', '员工旅游', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128539394.html?rc=03'}

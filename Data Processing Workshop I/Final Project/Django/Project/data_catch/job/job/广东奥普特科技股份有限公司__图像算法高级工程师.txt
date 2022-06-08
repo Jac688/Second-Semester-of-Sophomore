@@ -1,0 +1,1 @@
+{'company_name': '广东奥普特科技股份有限公司', 'job_name': '图像算法高级工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '包食宿', '带薪年假', '企业前景好'], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/120192851.html?rc=03'}

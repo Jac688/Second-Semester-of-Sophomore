@@ -1,0 +1,1 @@
+{'company_name': '中国联合网络通信有限公司江苏省分公司', 'job_name': 'Java后端开发工程师-江苏产互', 'geography': '南京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/120656252.html?rc=03'}

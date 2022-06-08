@@ -1,0 +1,1 @@
+{'company_name': '宁波市远东零点市场调研咨询有限公司', 'job_name': '软件工程师', 'geography': '宁波-海曙区', 'bonus': ['弹性工作', '五险一金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129653991.html?rc=03'}

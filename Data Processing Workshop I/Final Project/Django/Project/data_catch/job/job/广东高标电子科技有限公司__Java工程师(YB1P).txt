@@ -1,0 +1,1 @@
+{'company_name': '广东高标电子科技有限公司', 'job_name': 'Java工程师(YB1P)', 'geography': '东莞-松山湖区', 'bonus': ['五险一金', '股票期权', '团队氛围好', '带薪休假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/127492795.html?rc=03'}

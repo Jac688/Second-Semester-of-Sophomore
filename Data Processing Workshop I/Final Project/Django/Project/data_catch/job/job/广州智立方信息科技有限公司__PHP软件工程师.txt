@@ -1,0 +1,1 @@
+{'company_name': '广州智立方信息科技有限公司', 'job_name': 'PHP软件工程师', 'geography': '广州-黄埔区', 'bonus': ['员工旅游', '年终奖金', '餐饮补贴', '免费班车'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/112709873.html?rc=03'}

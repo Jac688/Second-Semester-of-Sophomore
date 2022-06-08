@@ -1,0 +1,1 @@
+{'company_name': '北京中科特瑞科技有限公司', 'job_name': '枣庄大数据工程师', 'geography': '枣庄', 'bonus': ['五险一金', '定期体检', '专业培训', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zaozhuang/131860470.html?rc=03'}

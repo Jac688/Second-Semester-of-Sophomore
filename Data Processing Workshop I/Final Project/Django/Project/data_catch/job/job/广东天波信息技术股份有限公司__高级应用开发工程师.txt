@@ -1,0 +1,1 @@
+{'company_name': '广东天波信息技术股份有限公司', 'job_name': '高级应用开发工程师', 'geography': '佛山', 'bonus': ['五险一金', '领导好', '提供住宿午餐', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/126336972.html?rc=03'}

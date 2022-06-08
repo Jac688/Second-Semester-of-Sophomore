@@ -1,0 +1,1 @@
+{'company_name': '中恒天越野汽车有限公司', 'job_name': '信息化主管', 'geography': '雅安', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/yaan/126875444.html?rc=03'}

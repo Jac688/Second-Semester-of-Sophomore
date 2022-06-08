@@ -1,0 +1,1 @@
+{'company_name': '北京数码大方科技股份有限公司', 'job_name': '高级C++开发工程师', 'geography': '北京', 'bonus': ['五险一金', '绩效奖金', '专业培训', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/56524014.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海交大重庆临近空间创新研发中心', 'job_name': '飞控算法工程师', 'geography': '重庆-渝北区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/128800813.html?rc=03'}

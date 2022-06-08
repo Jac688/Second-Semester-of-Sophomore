@@ -1,0 +1,1 @@
+{'company_name': '上海交大慧谷通用技术有限公司', 'job_name': 'Java高级开发工程师', 'geography': '重庆', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/128870880.html?rc=03'}

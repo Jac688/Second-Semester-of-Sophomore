@@ -1,0 +1,1 @@
+{'company_name': '广州飞歌汽车音响有限公司', 'job_name': '嵌入式软件工程师成都', 'geography': '成都-双流区', 'bonus': ['五险一金', '生日会福利', '年度免费体检', '带薪年假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131707544.html?rc=03'}

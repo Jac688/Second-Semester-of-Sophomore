@@ -1,0 +1,1 @@
+{'company_name': '中驰车福互联科技有限公司', 'job_name': '数据运营', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128374821.html?rc=03'}

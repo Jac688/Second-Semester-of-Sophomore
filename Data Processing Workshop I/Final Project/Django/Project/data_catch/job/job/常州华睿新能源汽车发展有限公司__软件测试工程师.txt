@@ -1,0 +1,1 @@
+{'company_name': '常州华睿新能源汽车发展有限公司', 'job_name': '软件测试工程师', 'geography': '常州-钟楼区', 'bonus': [], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/130898234.html?rc=03'}

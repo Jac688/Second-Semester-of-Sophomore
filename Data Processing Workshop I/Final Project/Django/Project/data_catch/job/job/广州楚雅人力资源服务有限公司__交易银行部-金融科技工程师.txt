@@ -1,0 +1,1 @@
+{'company_name': '广州楚雅人力资源服务有限公司', 'job_name': '交易银行部-金融科技工程师', 'geography': '北京-西城区', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126372186.html?rc=03'}

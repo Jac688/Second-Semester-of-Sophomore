@@ -1,0 +1,1 @@
+{'company_name': '四川联通——资阳市分公司', 'job_name': 'AI人工智能产品运营', 'geography': '资阳', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/ziyang/129450669.html?rc=03'}

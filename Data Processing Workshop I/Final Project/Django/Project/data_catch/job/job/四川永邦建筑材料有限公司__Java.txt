@@ -1,0 +1,1 @@
+{'company_name': '四川永邦建筑材料有限公司', 'job_name': 'Java', 'geography': '武汉-洪山区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/132006601.html?rc=03'}

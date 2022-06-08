@@ -1,0 +1,1 @@
+{'company_name': '北京诺禾致源科技股份有限公司', 'job_name': '生信研发工程师(J11171)', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130749318.html?rc=03'}

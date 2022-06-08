@@ -1,0 +1,1 @@
+{'company_name': '北京路遥科技有限公司', 'job_name': 'Andriod开发工程师', 'geography': '广州-天河区', 'bonus': ['股票期权', '出国机会', '免费班车', '补充医疗保险'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/120283135.html?rc=03'}

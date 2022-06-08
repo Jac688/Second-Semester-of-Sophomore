@@ -1,0 +1,1 @@
+{'company_name': '广州致讯信息科技有限责任公司', 'job_name': '目标检测算法工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '免费班车', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130124903.html?rc=03'}

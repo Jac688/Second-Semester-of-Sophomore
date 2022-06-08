@@ -1,0 +1,1 @@
+{'company_name': '广东领智电子商务有限公司', 'job_name': 'C++开发工程师', 'geography': '佛山-顺德区', 'bonus': ['五险一金', '餐饮补贴', '周末双休', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/125337460.html?rc=03'}

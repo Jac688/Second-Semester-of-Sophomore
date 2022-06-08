@@ -1,0 +1,1 @@
+{'company_name': '广州英荔教育科技有限公司', 'job_name': '少儿编程老师', 'geography': '台州-椒江区', 'bonus': ['餐饮补贴', '年终奖金', '绩效奖金', '专业培训'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/taizhoue/124215591.html?rc=03'}

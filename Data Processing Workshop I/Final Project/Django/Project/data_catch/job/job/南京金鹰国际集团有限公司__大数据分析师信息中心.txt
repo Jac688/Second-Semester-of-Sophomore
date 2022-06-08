@@ -1,0 +1,1 @@
+{'company_name': '南京金鹰国际集团有限公司', 'job_name': '大数据分析师信息中心', 'geography': '南京', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125291059.html?rc=03'}

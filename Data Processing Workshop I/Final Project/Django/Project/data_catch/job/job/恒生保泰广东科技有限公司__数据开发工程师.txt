@@ -1,0 +1,1 @@
+{'company_name': '恒生保泰广东科技有限公司', 'job_name': '数据开发工程师', 'geography': '北京', 'bonus': ['五险一金', '年终奖金', '定期体检', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130553061.html?rc=03'}

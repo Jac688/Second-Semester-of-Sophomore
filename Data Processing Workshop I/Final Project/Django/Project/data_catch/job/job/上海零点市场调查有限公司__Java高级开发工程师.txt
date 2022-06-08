@@ -1,0 +1,1 @@
+{'company_name': '上海零点市场调查有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '做五休二'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119523703.html?rc=03'}

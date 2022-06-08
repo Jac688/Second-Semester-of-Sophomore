@@ -1,0 +1,1 @@
+{'company_name': '博世创新软件开发无锡有限公司', 'job_name': 'Function Test Engineer控制器软件功能测试工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124073484.html?rc=03'}

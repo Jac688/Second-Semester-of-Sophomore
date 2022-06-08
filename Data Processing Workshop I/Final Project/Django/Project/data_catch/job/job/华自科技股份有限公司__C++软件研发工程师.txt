@@ -1,0 +1,1 @@
+{'company_name': '华自科技股份有限公司', 'job_name': 'C++软件研发工程师', 'geography': '长沙', 'bonus': ['五险一金', '专业培训', '免费班车', '定期体检'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/changsha/114569824.html?rc=03'}

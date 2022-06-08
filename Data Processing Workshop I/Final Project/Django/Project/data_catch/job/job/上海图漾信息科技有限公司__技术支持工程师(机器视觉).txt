@@ -1,0 +1,1 @@
+{'company_name': '上海图漾信息科技有限公司', 'job_name': '技术支持工程师(机器视觉)', 'geography': '深圳-南山区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '弹性工作'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128935076.html?rc=03'}

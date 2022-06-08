@@ -1,0 +1,1 @@
+{'company_name': '傲拓科技股份有限公司', 'job_name': '上位机软件工程师', 'geography': '南京-雨花台区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/49799879.html?rc=03'}

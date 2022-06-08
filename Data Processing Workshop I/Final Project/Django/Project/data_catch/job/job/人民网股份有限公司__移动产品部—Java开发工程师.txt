@@ -1,0 +1,1 @@
+{'company_name': '人民网股份有限公司', 'job_name': '移动产品部—Java开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '绩效奖金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131019230.html?rc=03'}

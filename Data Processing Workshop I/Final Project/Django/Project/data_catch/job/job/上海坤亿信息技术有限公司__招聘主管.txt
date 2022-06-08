@@ -1,0 +1,1 @@
+{'company_name': '上海坤亿信息技术有限公司', 'job_name': '招聘主管', 'geography': '上海', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129065365.html?rc=03'}

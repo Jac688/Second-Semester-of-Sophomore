@@ -1,0 +1,1 @@
+{'company_name': '惠州广顺网络科技有限公司', 'job_name': 'Java工程师-公司直招', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '周末双休', '年底双薪', '交通补助'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130866210.html?rc=03'}

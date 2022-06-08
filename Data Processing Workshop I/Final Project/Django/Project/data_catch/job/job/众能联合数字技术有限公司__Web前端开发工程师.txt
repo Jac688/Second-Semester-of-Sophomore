@@ -1,0 +1,1 @@
+{'company_name': '众能联合数字技术有限公司', 'job_name': 'Web前端开发工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131656519.html?rc=03'}

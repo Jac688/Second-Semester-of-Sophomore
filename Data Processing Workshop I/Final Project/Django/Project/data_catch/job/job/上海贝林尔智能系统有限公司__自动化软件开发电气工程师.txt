@@ -1,0 +1,1 @@
+{'company_name': '上海贝林尔智能系统有限公司', 'job_name': '自动化软件开发电气工程师', 'geography': '上海-松江区', 'bonus': ['做五休二', '五险一金', '包吃', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131085655.html?rc=03'}

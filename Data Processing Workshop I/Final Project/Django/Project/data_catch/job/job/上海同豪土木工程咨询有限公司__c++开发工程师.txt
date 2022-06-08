@@ -1,0 +1,1 @@
+{'company_name': '上海同豪土木工程咨询有限公司', 'job_name': 'c++开发工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '补充公积金', '员工旅游', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117769689.html?rc=03'}

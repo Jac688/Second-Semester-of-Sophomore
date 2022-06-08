@@ -1,0 +1,1 @@
+{'company_name': '奥托立夫上海汽车安全系统研发有限公司', 'job_name': '软件验证工程师 Software Validation Engineer', 'geography': '上海-嘉定区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128060609.html?rc=03'}

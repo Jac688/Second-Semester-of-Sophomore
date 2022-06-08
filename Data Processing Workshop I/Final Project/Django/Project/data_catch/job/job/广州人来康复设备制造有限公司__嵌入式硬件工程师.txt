@@ -1,0 +1,1 @@
+{'company_name': '广州人来康复设备制造有限公司', 'job_name': '嵌入式硬件工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '交通补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/129561121.html?rc=03'}

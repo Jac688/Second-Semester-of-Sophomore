@@ -1,0 +1,1 @@
+{'company_name': '云从科技', 'job_name': '高级数据库运维工程师', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131964976.html?rc=03'}

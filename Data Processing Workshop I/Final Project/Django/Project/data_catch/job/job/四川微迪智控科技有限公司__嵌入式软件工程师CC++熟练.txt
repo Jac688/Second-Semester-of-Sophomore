@@ -1,0 +1,1 @@
+{'company_name': '四川微迪智控科技有限公司', 'job_name': '嵌入式软件工程师CC++熟练', 'geography': '成都-双流区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125861061.html?rc=03'}

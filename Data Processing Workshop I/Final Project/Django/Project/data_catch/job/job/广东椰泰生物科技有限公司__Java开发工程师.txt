@@ -1,0 +1,1 @@
+{'company_name': '广东椰泰生物科技有限公司', 'job_name': 'Java开发工程师', 'geography': '惠州-博罗县', 'bonus': ['通讯补贴', '绩效奖金', '员工旅游', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/129366070.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州蔚来汽车销售服务有限公司', 'job_name': '道路服务运营主管', 'geography': '广州-天河区', 'bonus': ['上市公司', '五险一金', '股票期权', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130955227.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海二三四五网络科技有限公司', 'job_name': 'PHP技术总监(J12443)', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '定期体检'], 'salary': 5.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129333794.html?rc=03'}

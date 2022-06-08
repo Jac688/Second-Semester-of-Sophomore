@@ -1,0 +1,1 @@
+{'company_name': '上海柏维信息技术有限公司', 'job_name': 'Java开发工程师2年+', 'geography': '杭州-余杭区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128951783.html?rc=03'}

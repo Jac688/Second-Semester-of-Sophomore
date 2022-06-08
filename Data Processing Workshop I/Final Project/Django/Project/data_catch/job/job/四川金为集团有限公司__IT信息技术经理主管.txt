@@ -1,0 +1,1 @@
+{'company_name': '四川金为集团有限公司', 'job_name': 'IT信息技术经理主管', 'geography': '成都-武侯区', 'bonus': ['五险一金', '交通补贴', '年终奖金', '包吃包住'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128665701.html?rc=03'}

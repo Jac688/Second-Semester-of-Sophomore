@@ -1,0 +1,1 @@
+{'company_name': '宁波中茂网络科技有限公司', 'job_name': 'dba运维工程师', 'geography': '杭州-拱墅区', 'bonus': [], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131782570.html?rc=03'}

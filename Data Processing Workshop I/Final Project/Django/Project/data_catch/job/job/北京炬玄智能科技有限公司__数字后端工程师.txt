@@ -1,0 +1,1 @@
+{'company_name': '北京炬玄智能科技有限公司', 'job_name': '数字后端工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131312940.html?rc=03'}

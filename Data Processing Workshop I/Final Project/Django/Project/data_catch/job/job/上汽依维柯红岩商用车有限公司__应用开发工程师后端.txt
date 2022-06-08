@@ -1,0 +1,1 @@
+{'company_name': '上汽依维柯红岩商用车有限公司', 'job_name': '应用开发工程师后端', 'geography': '重庆-渝北区', 'bonus': ['带薪年假', '五险一金', '免费班车', '绩效奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/114934496.html?rc=03'}

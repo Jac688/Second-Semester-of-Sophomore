@@ -1,0 +1,1 @@
+{'company_name': '广州彩色新电子技术有限公司', 'job_name': 'windows C++软件工程师', 'geography': '广州-海珠区', 'bonus': ['五险一金', '员工旅游', '出国机会', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/84497496.html?rc=03'}

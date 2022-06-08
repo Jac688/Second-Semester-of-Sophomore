@@ -1,0 +1,1 @@
+{'company_name': '广东荣文科技集团有限公司', 'job_name': 'PHP开发主管经理', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/103973549.html?rc=03'}

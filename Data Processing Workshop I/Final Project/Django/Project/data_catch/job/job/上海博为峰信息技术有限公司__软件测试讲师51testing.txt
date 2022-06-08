@@ -1,0 +1,1 @@
+{'company_name': '上海博为峰信息技术有限公司', 'job_name': '软件测试讲师51testing', 'geography': '重庆-渝中区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/126469152.html?rc=03'}

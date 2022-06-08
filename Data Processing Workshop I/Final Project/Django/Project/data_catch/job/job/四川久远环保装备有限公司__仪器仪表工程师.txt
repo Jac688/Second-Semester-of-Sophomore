@@ -1,0 +1,1 @@
+{'company_name': '四川久远环保装备有限公司', 'job_name': '仪器仪表工程师', 'geography': '绵阳', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/mianyang/127409916.html?rc=03'}

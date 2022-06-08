@@ -1,0 +1,1 @@
+{'company_name': '上海启高信息科技有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-闵行区', 'bonus': ['绩效奖金', '年终奖金', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126032475.html?rc=03'}

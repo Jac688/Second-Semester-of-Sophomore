@@ -1,0 +1,1 @@
+{'company_name': '创芯荔广州教育科技有限公司', 'job_name': '少儿编程创客机器人讲师助教', 'geography': '广州-番禺区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '股票期权'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129528177.html?rc=03'}

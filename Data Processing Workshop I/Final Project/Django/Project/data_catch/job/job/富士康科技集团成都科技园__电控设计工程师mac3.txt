@@ -1,0 +1,1 @@
+{'company_name': '富士康科技集团成都科技园', 'job_name': '电控设计工程师mac3', 'geography': '成都-郫都区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '带薪年假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132343920.html?rc=03'}

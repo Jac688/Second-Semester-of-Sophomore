@@ -1,0 +1,1 @@
+{'company_name': '上海现代摩比斯汽车零部件有限公司', 'job_name': 'Tuner软件工程师', 'geography': '上海', 'bonus': ['周末双休', '带薪年假', '五险一金', '绩效奖金'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117444467.html?rc=03'}

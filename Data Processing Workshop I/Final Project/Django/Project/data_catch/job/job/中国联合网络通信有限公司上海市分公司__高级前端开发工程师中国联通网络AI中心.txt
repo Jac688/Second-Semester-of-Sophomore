@@ -1,0 +1,1 @@
+{'company_name': '中国联合网络通信有限公司上海市分公司', 'job_name': '高级前端开发工程师中国联通网络AI中心', 'geography': '上海-长宁区', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/118973891.html?rc=03'}

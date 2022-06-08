@@ -1,0 +1,1 @@
+{'company_name': '北京阿丘机器人科技有限公司', 'job_name': 'C++软件工程师', 'geography': '深圳-龙华区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '专业培训'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129359680.html?rc=03'}

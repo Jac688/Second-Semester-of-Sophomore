@@ -1,0 +1,1 @@
+{'company_name': '南昌优行科技有限责任公司', 'job_name': 'JAVA软件工程师', 'geography': '南昌-青山湖区', 'bonus': ['五险一金', '年终奖金', '定期体检'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/111280915.html?rc=03'}

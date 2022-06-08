@@ -1,0 +1,1 @@
+{'company_name': '南宁西岸枫谷商务数据有限公司', 'job_name': 'Java高级开发工程师', 'geography': '南宁', 'bonus': ['员工旅游', '绩效奖金', '年终奖金', '五险'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanning/129526477.html?rc=03'}

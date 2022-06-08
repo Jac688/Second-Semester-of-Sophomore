@@ -1,0 +1,1 @@
+{'company_name': '平安国际融资租赁有限公司', 'job_name': '2631O0-测试工程师急招', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '绩效奖金', '带薪年假', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128478072.html?rc=03'}

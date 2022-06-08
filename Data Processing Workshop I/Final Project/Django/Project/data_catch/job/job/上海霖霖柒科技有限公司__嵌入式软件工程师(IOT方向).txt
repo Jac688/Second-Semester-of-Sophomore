@@ -1,0 +1,1 @@
+{'company_name': '上海霖霖柒科技有限公司', 'job_name': '嵌入式软件工程师(IOT方向)', 'geography': '上海-普陀区', 'bonus': ['五险一金', '员工旅游', '专业培训', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125640608.html?rc=03'}

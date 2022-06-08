@@ -1,0 +1,1 @@
+{'company_name': '北京正合天宜科技有限公司', 'job_name': '系统架构师', 'geography': '济南-历下区', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131500736.html?rc=03'}

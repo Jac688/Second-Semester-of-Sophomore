@@ -1,0 +1,1 @@
+{'company_name': '广州猎奇互娱网络有限公司', 'job_name': '大数据开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129103721.html?rc=03'}

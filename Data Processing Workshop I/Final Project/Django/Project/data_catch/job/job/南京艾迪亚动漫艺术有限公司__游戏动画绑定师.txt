@@ -1,0 +1,1 @@
+{'company_name': '南京艾迪亚动漫艺术有限公司', 'job_name': '游戏动画绑定师', 'geography': '南京', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/68126135.html?rc=03'}

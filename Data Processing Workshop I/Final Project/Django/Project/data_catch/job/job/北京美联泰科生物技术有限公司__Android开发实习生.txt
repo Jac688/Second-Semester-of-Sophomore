@@ -1,0 +1,1 @@
+{'company_name': '北京美联泰科生物技术有限公司', 'job_name': 'Android开发实习生', 'geography': '北京-大兴区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '员工旅游'], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/120916917.html?rc=03'}

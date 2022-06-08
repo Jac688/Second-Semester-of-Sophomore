@@ -1,0 +1,1 @@
+{'company_name': '启德教育集团', 'job_name': 'Java开发工程师懂 rails', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '专业培训', '年终奖金', '定期体检'], 'salary': 1.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132209414.html?rc=03'}

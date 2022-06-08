@@ -1,0 +1,1 @@
+{'company_name': '平安科技深圳有限公司', 'job_name': '114186-资深测试工程师', 'geography': '成都-锦江区', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130382833.html?rc=03'}

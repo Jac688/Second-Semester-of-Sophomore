@@ -1,0 +1,1 @@
+{'company_name': '中国航天科工集团第二研究院未来实验室', 'job_name': '先进流体力学计算力学技术研发人员', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 2.08, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125974870.html?rc=03'}

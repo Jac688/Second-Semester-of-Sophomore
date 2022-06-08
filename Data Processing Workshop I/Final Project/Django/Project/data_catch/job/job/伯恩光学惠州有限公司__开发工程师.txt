@@ -1,0 +1,1 @@
+{'company_name': '伯恩光学惠州有限公司', 'job_name': '开发工程师', 'geography': '惠州', 'bonus': ['免费班车', '餐饮补贴', '免费住宿', '五险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/125209220.html?rc=03'}

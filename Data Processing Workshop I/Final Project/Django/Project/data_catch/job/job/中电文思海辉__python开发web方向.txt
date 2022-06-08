@@ -1,0 +1,1 @@
+{'company_name': '中电文思海辉', 'job_name': 'python开发web方向', 'geography': '无锡', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/122547000.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '京盛天和安防科技北京有限公司', 'job_name': '后端工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.08, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131280797.html?rc=03'}

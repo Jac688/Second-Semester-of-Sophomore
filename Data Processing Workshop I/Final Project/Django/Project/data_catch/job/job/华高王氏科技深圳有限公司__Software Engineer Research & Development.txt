@@ -1,0 +1,1 @@
+{'company_name': '华高王氏科技深圳有限公司', 'job_name': 'Software Engineer Research & Development', 'geography': '深圳-罗湖区', 'bonus': ['五险一金', '餐饮补贴', '周末双休', '住宿补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/114996959.html?rc=03'}

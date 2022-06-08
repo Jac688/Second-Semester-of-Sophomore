@@ -1,0 +1,1 @@
+{'company_name': '广州多益网络股份有限公司', 'job_name': 'Python开发工程师', 'geography': '广州-黄埔区', 'bonus': ['互联网百强'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127457985.html?rc=03'}

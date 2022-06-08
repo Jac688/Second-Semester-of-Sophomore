@@ -1,0 +1,1 @@
+{'company_name': '广州易动文化传播有限公司', 'job_name': '绑定师', 'geography': '广州-荔湾区', 'bonus': ['周末双休', '五险一金', '全勤奖', '带薪病假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131586702.html?rc=03'}

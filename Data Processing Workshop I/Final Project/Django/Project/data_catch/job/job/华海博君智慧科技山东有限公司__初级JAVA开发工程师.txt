@@ -1,0 +1,1 @@
+{'company_name': '华海博君智慧科技山东有限公司', 'job_name': '初级JAVA开发工程师', 'geography': '潍坊-奎文区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/weifang/124279719.html?rc=03'}

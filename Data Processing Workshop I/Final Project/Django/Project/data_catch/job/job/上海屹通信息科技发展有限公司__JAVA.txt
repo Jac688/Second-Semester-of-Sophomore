@@ -1,0 +1,1 @@
+{'company_name': '上海屹通信息科技发展有限公司', 'job_name': 'JAVA', 'geography': '杭州-萧山区', 'bonus': ['五险一金', '餐饮补贴', '周末双休', '13薪·'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131145106.html?rc=03'}

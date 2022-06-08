@@ -1,0 +1,1 @@
+{'company_name': '博世上海安保系统有限公司成都高新分公司博世通讯中心', 'job_name': '全栈软件开发工程师( 人工智能数据科学 应用方向)', 'geography': '成都-高新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131861769.html?rc=03'}

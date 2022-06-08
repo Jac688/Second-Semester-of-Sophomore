@@ -1,0 +1,1 @@
+{'company_name': '广州飞进信息科技有限公司', 'job_name': 'Java高级开发', 'geography': '广州-天河区', 'bonus': ['员工旅游', '领导易相处', '公司氛围好', '弹性工作'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131417827.html?rc=03'}

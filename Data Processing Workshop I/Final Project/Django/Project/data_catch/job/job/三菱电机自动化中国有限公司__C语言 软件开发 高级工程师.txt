@@ -1,0 +1,1 @@
+{'company_name': '三菱电机自动化中国有限公司', 'job_name': 'C语言 软件开发 高级工程师', 'geography': '上海', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123620484.html?rc=03'}

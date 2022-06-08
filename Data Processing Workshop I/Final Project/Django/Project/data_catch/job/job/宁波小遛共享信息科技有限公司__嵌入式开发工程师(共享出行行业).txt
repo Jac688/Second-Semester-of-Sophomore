@@ -1,0 +1,1 @@
+{'company_name': '宁波小遛共享信息科技有限公司', 'job_name': '嵌入式开发工程师(共享出行行业)', 'geography': '杭州-江干区', 'bonus': ['团建', '全勤奖', '节假日福利', '绩效奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131952816.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京新兴东方航空装备股份有限公司', 'job_name': '图像算法工程师', 'geography': '北京-海淀区', 'bonus': ['周末双休', '免费班车', '绩效奖金', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131386208.html?rc=03'}

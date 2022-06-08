@@ -1,0 +1,1 @@
+{'company_name': '宁波二姥爷家具软装有限公司百强家具', 'job_name': '高级java前端开发', 'geography': '宁波-鄞州区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/114618933.html?rc=03'}

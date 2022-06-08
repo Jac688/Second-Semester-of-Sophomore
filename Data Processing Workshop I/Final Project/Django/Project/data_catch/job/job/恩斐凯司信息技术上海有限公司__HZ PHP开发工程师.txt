@@ -1,0 +1,1 @@
+{'company_name': '恩斐凯司信息技术上海有限公司', 'job_name': 'HZ PHP开发工程师', 'geography': '杭州-西湖区', 'bonus': ['餐饮补贴', '弹性工作', '周末双休', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/123078394.html?rc=03'}

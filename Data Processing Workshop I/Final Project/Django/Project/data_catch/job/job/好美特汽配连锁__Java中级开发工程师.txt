@@ -1,0 +1,1 @@
+{'company_name': '好美特汽配连锁', 'job_name': 'Java中级开发工程师', 'geography': '广州-白云区', 'bonus': ['节日福利', '专业培训', '五险一金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131561135.html?rc=03'}

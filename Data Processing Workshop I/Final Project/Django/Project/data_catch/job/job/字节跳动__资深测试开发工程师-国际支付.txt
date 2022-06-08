@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '资深测试开发工程师-国际支付', 'geography': '深圳', 'bonus': ['下午茶', '六险一金', '晋升空间大', '带薪休假'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130465527.html?rc=03'}

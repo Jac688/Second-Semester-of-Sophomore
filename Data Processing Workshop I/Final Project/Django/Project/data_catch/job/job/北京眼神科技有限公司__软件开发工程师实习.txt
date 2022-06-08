@@ -1,0 +1,1 @@
+{'company_name': '北京眼神科技有限公司', 'job_name': '软件开发工程师实习', 'geography': '北京', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129581739.html?rc=03'}

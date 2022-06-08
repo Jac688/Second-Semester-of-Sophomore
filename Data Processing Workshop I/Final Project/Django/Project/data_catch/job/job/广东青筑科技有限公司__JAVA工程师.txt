@@ -1,0 +1,1 @@
+{'company_name': '广东青筑科技有限公司', 'job_name': 'JAVA工程师', 'geography': '东莞', 'bonus': ['员工旅游', '餐饮补贴', '五险', '全勤奖'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/126772699.html?rc=03'}

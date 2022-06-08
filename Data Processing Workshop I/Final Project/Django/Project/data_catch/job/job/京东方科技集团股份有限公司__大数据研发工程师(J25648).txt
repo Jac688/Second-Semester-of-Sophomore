@@ -1,0 +1,1 @@
+{'company_name': '京东方科技集团股份有限公司', 'job_name': '大数据研发工程师(J25648)', 'geography': '苏州-工业园区', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128002224.html?rc=03'}

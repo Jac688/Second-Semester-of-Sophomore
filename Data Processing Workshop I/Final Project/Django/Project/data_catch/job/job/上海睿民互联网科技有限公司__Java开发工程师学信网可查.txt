@@ -1,0 +1,1 @@
+{'company_name': '上海睿民互联网科技有限公司', 'job_name': 'Java开发工程师学信网可查', 'geography': '福州', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '晋升空间'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/131074157.html?rc=03'}

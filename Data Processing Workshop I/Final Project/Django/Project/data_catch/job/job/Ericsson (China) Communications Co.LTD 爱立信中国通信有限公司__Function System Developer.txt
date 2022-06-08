@@ -1,0 +1,1 @@
+{'company_name': 'Ericsson (China) Communications Co.LTD 爱立信中国通信有限公司', 'job_name': 'Function System Developer', 'geography': '成都-高新区', 'bonus': ['五险一金', '弹性工作', '补充医疗保险', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131777686.html?rc=03'}

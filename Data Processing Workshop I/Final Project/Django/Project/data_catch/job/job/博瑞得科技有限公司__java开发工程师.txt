@@ -1,0 +1,1 @@
+{'company_name': '博瑞得科技有限公司', 'job_name': 'java开发工程师', 'geography': '南京-建邺区', 'bonus': ['绩效奖金', '五险一金', '定期体检', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125884909.html?rc=03'}

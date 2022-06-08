@@ -1,0 +1,1 @@
+{'company_name': '四川天润德环境工程有限公司', 'job_name': '软件实施工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131973430.html?rc=03'}

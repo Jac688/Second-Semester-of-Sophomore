@@ -1,0 +1,1 @@
+{'company_name': '南充电子工业学校', 'job_name': '计算机专业教师', 'geography': '南充', 'bonus': [], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/nanchong/122310634.html?rc=03'}

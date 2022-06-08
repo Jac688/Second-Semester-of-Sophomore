@@ -1,0 +1,1 @@
+{'company_name': '宁波海天炜业信息科技有限公司', 'job_name': '开发工程师', 'geography': '宁波-鄞州区', 'bonus': ['定期体检', '五险一金', '补充医疗保险', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125371659.html?rc=03'}

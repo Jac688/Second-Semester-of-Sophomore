@@ -1,0 +1,1 @@
+{'company_name': '客迈软件杭州有限公司长沙分公司', 'job_name': '首席架构师', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '股票期权'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127413578.html?rc=03'}

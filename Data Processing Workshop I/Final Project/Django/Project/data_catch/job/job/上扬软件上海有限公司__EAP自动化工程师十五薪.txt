@@ -1,0 +1,1 @@
+{'company_name': '上扬软件上海有限公司', 'job_name': 'EAP自动化工程师十五薪', 'geography': '成都', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/123316607.html?rc=03'}

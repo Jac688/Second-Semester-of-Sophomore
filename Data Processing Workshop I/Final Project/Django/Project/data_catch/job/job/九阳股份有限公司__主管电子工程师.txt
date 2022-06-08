@@ -1,0 +1,1 @@
+{'company_name': '九阳股份有限公司', 'job_name': '主管电子工程师', 'geography': '杭州-江干区', 'bonus': ['五险一金', '免费班车', '员工旅游', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/121080699.html?rc=03'}

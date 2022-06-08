@@ -1,0 +1,1 @@
+{'company_name': '哈啰出行哈罗单车hellobike', 'job_name': '高级数据运营-北方大区(J14604)', 'geography': '北京-朝阳区', 'bonus': ['弹性工作', '绩效奖金', '节日福利', '五险一金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129727295.html?rc=03'}

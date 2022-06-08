@@ -1,0 +1,1 @@
+{'company_name': '北京都在哪网讯科技有限公司成都分公司', 'job_name': 'Java后端开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132232766.html?rc=03'}

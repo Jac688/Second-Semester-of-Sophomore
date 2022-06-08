@@ -1,0 +1,1 @@
+{'company_name': '宁波艾捷康宁生物科技有限公司', 'job_name': '软件工程师', 'geography': '宁波-高新区', 'bonus': ['周末双休', '五险一金', '餐饮补贴', '通讯补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128807879.html?rc=03'}

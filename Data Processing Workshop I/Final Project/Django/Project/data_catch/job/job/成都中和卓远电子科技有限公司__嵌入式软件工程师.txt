@@ -1,0 +1,1 @@
+{'company_name': '成都中和卓远电子科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '成都-青羊区', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/117588983.html?rc=03'}

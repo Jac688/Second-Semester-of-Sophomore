@@ -1,0 +1,1 @@
+{'company_name': '山东万巷坊网络科技有限公司', 'job_name': 'Java开发工程师', 'geography': '济南-历城区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/129482879.html?rc=03'}

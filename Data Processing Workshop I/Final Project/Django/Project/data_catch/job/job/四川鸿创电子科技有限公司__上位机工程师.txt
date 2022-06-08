@@ -1,0 +1,1 @@
+{'company_name': '四川鸿创电子科技有限公司', 'job_name': '上位机工程师', 'geography': '成都', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/113330091.html?rc=03'}

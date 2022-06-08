@@ -1,0 +1,1 @@
+{'company_name': '中国科学院北京纳米能源与系统研究所', 'job_name': '纳米能源所王中林院士研究组招聘启事', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/75789123.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'TCL实业控股股份有限公司', 'job_name': 'JAVA开发工程师', 'geography': '深圳-南山区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132243016.html?rc=03'}

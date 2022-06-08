@@ -1,0 +1,1 @@
+{'company_name': '四川文轩在线电子商务有限公司', 'job_name': 'Java中级开发工程师', 'geography': '成都-金牛区', 'bonus': ['周末双休', '带薪年假', '五险一金', '包吃'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128136776.html?rc=03'}

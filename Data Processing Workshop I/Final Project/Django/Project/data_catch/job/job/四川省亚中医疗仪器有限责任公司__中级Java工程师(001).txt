@@ -1,0 +1,1 @@
+{'company_name': '四川省亚中医疗仪器有限责任公司', 'job_name': '中级Java工程师(001)', 'geography': '成都', 'bonus': ['交通补贴', '年终奖金', '专业培训', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131644529.html?rc=03'}

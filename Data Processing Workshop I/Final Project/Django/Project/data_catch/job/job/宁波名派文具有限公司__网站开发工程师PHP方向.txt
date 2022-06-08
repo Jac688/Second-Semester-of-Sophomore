@@ -1,0 +1,1 @@
+{'company_name': '宁波名派文具有限公司', 'job_name': '网站开发工程师PHP方向', 'geography': '宁波-鄞州区', 'bonus': ['专业培训', '带薪年假', '十三薪', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127912798.html?rc=03'}

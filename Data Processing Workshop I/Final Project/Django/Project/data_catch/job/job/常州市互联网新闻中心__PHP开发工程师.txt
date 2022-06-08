@@ -1,0 +1,1 @@
+{'company_name': '常州市互联网新闻中心', 'job_name': 'PHP开发工程师', 'geography': '常州', 'bonus': ['五险一金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/128419607.html?rc=03'}

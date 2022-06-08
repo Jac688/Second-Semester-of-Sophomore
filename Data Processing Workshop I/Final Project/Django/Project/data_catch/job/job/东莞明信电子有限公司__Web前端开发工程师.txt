@@ -1,0 +1,1 @@
+{'company_name': '东莞明信电子有限公司', 'job_name': 'Web前端开发工程师', 'geography': '东莞-东坑镇', 'bonus': ['五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/118361859.html?rc=03'}

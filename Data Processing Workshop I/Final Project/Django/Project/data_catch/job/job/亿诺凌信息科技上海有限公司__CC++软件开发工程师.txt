@@ -1,0 +1,1 @@
+{'company_name': '亿诺凌信息科技上海有限公司', 'job_name': 'CC++软件开发工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/101626435.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '华晨宝马汽车有限公司', 'job_name': '高级数仓开发工程师(digital)', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131524279.html?rc=03'}

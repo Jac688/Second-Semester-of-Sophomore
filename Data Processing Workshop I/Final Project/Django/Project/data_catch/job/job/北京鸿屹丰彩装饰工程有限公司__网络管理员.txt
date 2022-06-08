@@ -1,0 +1,1 @@
+{'company_name': '北京鸿屹丰彩装饰工程有限公司', 'job_name': '网络管理员', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '餐饮补贴', '带薪年假', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130550514.html?rc=03'}

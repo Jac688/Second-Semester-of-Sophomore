@@ -1,0 +1,1 @@
+{'company_name': '一兆韦德健身管理有限公司', 'job_name': '资深JAVA架构师', 'geography': '上海', 'bonus': ['专业培训', '弹性工作', '带薪年假', '绩效奖金'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128854527.html?rc=03'}

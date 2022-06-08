@@ -1,0 +1,1 @@
+{'company_name': '惠州市百思达精密机械有限公司', 'job_name': '视觉工程师', 'geography': '惠州-仲恺区', 'bonus': ['五险一金', '年终奖金', '员工旅游', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/128058647.html?rc=03'}

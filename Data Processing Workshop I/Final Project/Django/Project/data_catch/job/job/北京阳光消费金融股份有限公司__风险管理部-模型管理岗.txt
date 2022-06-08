@@ -1,0 +1,1 @@
+{'company_name': '北京阳光消费金融股份有限公司', 'job_name': '风险管理部-模型管理岗', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127562149.html?rc=03'}

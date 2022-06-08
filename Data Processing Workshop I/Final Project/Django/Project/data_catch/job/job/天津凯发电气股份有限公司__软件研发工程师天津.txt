@@ -1,0 +1,1 @@
+{'company_name': '天津凯发电气股份有限公司', 'job_name': '软件研发工程师天津', 'geography': '天津', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/125492252.html?rc=03'}

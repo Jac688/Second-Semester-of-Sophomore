@@ -1,0 +1,1 @@
+{'company_name': '北京纵目安驰智能科技有限公司', 'job_name': 'C++开发工程师', 'geography': '北京-昌平区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '定期体检'], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130432818.html?rc=03'}

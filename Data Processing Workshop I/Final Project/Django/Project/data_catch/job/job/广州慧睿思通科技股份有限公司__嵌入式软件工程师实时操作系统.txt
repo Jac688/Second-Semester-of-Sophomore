@@ -1,0 +1,1 @@
+{'company_name': '广州慧睿思通科技股份有限公司', 'job_name': '嵌入式软件工程师实时操作系统', 'geography': '广州-番禺区', 'bonus': ['周末双休', '五险一金', '免费班车', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125632759.html?rc=03'}

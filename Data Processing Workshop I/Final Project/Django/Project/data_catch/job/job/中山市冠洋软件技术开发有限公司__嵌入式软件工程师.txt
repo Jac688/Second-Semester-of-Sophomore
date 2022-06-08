@@ -1,0 +1,1 @@
+{'company_name': '中山市冠洋软件技术开发有限公司', 'job_name': '嵌入式软件工程师', 'geography': '中山-东区', 'bonus': ['节日福利', '专业培训', '带薪年假', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/130182242.html?rc=03'}

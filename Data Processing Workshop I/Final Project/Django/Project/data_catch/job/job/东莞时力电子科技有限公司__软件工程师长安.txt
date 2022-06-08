@@ -1,0 +1,1 @@
+{'company_name': '东莞时力电子科技有限公司', 'job_name': '软件工程师长安', 'geography': '东莞', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131301226.html?rc=03'}

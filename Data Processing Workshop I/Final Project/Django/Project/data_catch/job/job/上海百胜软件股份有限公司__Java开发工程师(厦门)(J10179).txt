@@ -1,0 +1,1 @@
+{'company_name': '上海百胜软件股份有限公司', 'job_name': 'Java开发工程师(厦门)(J10179)', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '出国机会'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/fujiansheng/129558868.html?rc=03'}

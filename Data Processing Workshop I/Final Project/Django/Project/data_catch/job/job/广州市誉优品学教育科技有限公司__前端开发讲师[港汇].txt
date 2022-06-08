@@ -1,0 +1,1 @@
+{'company_name': '广州市誉优品学教育科技有限公司', 'job_name': '前端开发讲师[港汇]', 'geography': '广州-越秀区', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127338840.html?rc=03'}

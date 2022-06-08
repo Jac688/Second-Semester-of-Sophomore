@@ -1,0 +1,1 @@
+{'company_name': '中国电子科技集团公司第十一研究所', 'job_name': '软件工程师波谱公司', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '年终奖金', '专业培训', '交通补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/120535814.html?rc=03'}

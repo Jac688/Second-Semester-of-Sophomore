@@ -1,0 +1,1 @@
+{'company_name': '恒林家居股份有限公司', 'job_name': '电机驱动控制工程师', 'geography': '湖州', 'bonus': ['五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huzhou/129631367.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '云迪互联科技杭州有限公司', 'job_name': '软件开发全栈工程师', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '弹性工作', '节日福利'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130718601.html?rc=03'}

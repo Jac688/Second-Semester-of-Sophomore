@@ -1,0 +1,1 @@
+{'company_name': '广州市钱大妈农产品有限公司', 'job_name': 'JAVA开发工程师电商 (MJ002441)', 'geography': '异地招聘', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131323643.html?rc=03'}

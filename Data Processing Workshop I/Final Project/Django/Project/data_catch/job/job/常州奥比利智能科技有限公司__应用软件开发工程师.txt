@@ -1,0 +1,1 @@
+{'company_name': '常州奥比利智能科技有限公司', 'job_name': '应用软件开发工程师', 'geography': '常州-天宁区', 'bonus': ['周末双休', '五险一金', '交通补贴', '通讯补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/125564146.html?rc=03'}

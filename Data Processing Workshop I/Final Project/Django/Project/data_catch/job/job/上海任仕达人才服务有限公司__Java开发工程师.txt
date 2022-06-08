@@ -1,0 +1,1 @@
+{'company_name': '上海任仕达人才服务有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131132713.html?rc=03'}

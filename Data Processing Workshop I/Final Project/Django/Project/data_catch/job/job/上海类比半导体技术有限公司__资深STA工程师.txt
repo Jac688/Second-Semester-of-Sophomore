@@ -1,0 +1,1 @@
+{'company_name': '上海类比半导体技术有限公司', 'job_name': '资深STA工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '餐饮补贴', '股票期权', '定期体检'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130962283.html?rc=03'}

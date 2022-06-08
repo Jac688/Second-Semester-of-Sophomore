@@ -1,0 +1,1 @@
+{'company_name': '上海索广映像有限公司', 'job_name': 'SONY索尼软件开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充公积金', '免费班车', '员工旅游'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128060899.html?rc=03'}

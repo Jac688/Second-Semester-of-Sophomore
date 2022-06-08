@@ -1,0 +1,1 @@
+{'company_name': '中科芯集成电路股份有限公司', 'job_name': '软件工程师', 'geography': '南京', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '餐饮补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128331961.html?rc=03'}

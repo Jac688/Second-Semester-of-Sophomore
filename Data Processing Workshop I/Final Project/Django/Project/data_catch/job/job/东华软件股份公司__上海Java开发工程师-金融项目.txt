@@ -1,0 +1,1 @@
+{'company_name': '东华软件股份公司', 'job_name': '上海Java开发工程师-金融项目', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '双休', '年终奖金', '13薪'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126557000.html?rc=03'}

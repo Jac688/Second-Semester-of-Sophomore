@@ -1,0 +1,1 @@
+{'company_name': '东华软件股份公司', 'job_name': '济南软件项目经理', 'geography': '济南-历城区', 'bonus': ['周末双休', '13薪', '定期体检', '五险一金'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130108964.html?rc=03'}

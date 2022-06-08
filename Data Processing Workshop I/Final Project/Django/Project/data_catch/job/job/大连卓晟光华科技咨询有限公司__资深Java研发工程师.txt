@@ -1,0 +1,1 @@
+{'company_name': '大连卓晟光华科技咨询有限公司', 'job_name': '资深Java研发工程师', 'geography': '杭州-西湖区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131963889.html?rc=03'}

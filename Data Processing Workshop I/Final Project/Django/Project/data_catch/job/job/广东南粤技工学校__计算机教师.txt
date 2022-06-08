@@ -1,0 +1,1 @@
+{'company_name': '广东南粤技工学校', 'job_name': '计算机教师', 'geography': '广州-从化区', 'bonus': ['周末双休', '五险一金', '寒暑假'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129700669.html?rc=03'}

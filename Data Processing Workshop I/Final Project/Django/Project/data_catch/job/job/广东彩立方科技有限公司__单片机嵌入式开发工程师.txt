@@ -1,0 +1,1 @@
+{'company_name': '广东彩立方科技有限公司', 'job_name': '单片机嵌入式开发工程师', 'geography': '江门', 'bonus': ['五险一金', '年终奖金', '专业培训', '加班补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jiangmen/120551250.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京美均电子科技有限公司', 'job_name': 'JAVA开发工程师', 'geography': '南京-江宁区', 'bonus': ['弹性工作', '五险一金', '员工旅游', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132200481.html?rc=03'}

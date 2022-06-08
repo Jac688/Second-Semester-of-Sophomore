@@ -1,0 +1,1 @@
+{'company_name': '北京中电华大电子设计有限责任公司', 'job_name': '应用工程师', 'geography': '北京', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129569258.html?rc=03'}

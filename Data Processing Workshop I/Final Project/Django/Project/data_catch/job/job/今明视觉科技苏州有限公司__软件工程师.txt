@@ -1,0 +1,1 @@
+{'company_name': '今明视觉科技苏州有限公司', 'job_name': '软件工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '员工旅游', '专业培训', '出国机会'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130661146.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '号百控股股份有限公司', 'job_name': '软件开发天翼视讯传媒有限公司', 'geography': '上海', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129104370.html?rc=03'}

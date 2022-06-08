@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '高级技术美术 — 抖音短视频', 'geography': '杭州', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '团队氛围好'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128667595.html?rc=03'}

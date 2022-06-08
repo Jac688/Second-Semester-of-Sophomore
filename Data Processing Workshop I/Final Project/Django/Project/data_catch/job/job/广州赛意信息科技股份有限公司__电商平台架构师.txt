@@ -1,0 +1,1 @@
+{'company_name': '广州赛意信息科技股份有限公司', 'job_name': '电商平台架构师', 'geography': '广州-天河区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/69357557.html?rc=03'}

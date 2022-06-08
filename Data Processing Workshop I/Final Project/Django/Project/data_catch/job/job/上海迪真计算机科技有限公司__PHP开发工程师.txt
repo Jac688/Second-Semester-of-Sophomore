@@ -1,0 +1,1 @@
+{'company_name': '上海迪真计算机科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '专业培训', '年终奖金', '员工旅游'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129731009.html?rc=03'}

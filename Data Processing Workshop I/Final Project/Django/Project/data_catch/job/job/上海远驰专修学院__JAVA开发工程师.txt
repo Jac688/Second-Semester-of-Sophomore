@@ -1,0 +1,1 @@
+{'company_name': '上海远驰专修学院', 'job_name': 'JAVA开发工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '员工旅游', '定期体检', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/69681315.html?rc=03'}

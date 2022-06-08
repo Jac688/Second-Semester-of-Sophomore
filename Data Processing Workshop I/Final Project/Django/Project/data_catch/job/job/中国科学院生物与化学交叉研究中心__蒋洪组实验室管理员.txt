@@ -1,0 +1,1 @@
+{'company_name': '中国科学院生物与化学交叉研究中心', 'job_name': '蒋洪组实验室管理员', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '定期体检'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/69901989.html?rc=03'}

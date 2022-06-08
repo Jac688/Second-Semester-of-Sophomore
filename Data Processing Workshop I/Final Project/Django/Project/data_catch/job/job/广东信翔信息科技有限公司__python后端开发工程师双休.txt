@@ -1,0 +1,1 @@
+{'company_name': '广东信翔信息科技有限公司', 'job_name': 'python后端开发工程师双休', 'geography': '广州-天河区', 'bonus': ['周末双休', '购买社保', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130800331.html?rc=03'}

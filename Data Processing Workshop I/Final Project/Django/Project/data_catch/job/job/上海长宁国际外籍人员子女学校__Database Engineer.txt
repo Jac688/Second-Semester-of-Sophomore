@@ -1,0 +1,1 @@
+{'company_name': '上海长宁国际外籍人员子女学校', 'job_name': 'Database Engineer', 'geography': '上海', 'bonus': ['餐饮补贴', '五险一金', '专业培训', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131160994.html?rc=03'}

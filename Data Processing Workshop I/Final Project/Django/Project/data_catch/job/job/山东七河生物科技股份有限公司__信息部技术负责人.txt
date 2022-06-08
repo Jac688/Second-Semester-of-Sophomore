@@ -1,0 +1,1 @@
+{'company_name': '山东七河生物科技股份有限公司', 'job_name': '信息部技术负责人', 'geography': '淄博', 'bonus': ['五险一金', '免费班车', '员工旅游', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zibo/131558482.html?rc=03'}

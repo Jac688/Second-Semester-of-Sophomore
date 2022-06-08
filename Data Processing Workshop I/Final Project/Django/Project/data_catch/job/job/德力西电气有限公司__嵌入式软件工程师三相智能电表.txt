@@ -1,0 +1,1 @@
+{'company_name': '德力西电气有限公司', 'job_name': '嵌入式软件工程师三相智能电表', 'geography': '温州', 'bonus': ['年终奖金', '定期体检', '通讯补贴', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/wenzhou/125157445.html?rc=03'}

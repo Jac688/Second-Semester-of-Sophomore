@@ -1,0 +1,1 @@
+{'company_name': '中嘉仁和科技北京有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '定期体检', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/45973781.html?rc=03'}

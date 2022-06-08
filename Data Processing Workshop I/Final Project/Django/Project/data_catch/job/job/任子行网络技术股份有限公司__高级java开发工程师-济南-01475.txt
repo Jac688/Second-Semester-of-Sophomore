@@ -1,0 +1,1 @@
+{'company_name': '任子行网络技术股份有限公司', 'job_name': '高级java开发工程师-济南-01475', 'geography': '济南-历下区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130478859.html?rc=03'}

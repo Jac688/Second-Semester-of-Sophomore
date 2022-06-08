@@ -1,0 +1,1 @@
+{'company_name': '中国铁道科学研究院集团有限公司铁道建筑研究所下属企业', 'job_name': '研发项目经理BIM和信息化', 'geography': '北京-海淀区', 'bonus': ['五险一金', '定期体检', '出差补助', '午餐'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121781781.html?rc=03'}

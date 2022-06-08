@@ -1,0 +1,1 @@
+{'company_name': '伟易达东莞通讯设备有限公司', 'job_name': '程序员', 'geography': '东莞-寮步镇', 'bonus': ['包吃包住', '五险一金', '试用期全薪', '员工旅游'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131508901.html?rc=03'}

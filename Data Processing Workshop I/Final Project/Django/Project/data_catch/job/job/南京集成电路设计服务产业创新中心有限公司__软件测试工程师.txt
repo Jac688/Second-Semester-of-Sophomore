@@ -1,0 +1,1 @@
+{'company_name': '南京集成电路设计服务产业创新中心有限公司', 'job_name': '软件测试工程师', 'geography': '南京-江北新区', 'bonus': [], 'salary': 1.42, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131804601.html?rc=03'}

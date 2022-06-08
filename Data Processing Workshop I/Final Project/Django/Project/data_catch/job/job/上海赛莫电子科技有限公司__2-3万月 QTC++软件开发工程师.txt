@@ -1,0 +1,1 @@
+{'company_name': '上海赛莫电子科技有限公司', 'job_name': '2-3万月 QTC++软件开发工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '定期体检', '弹性工作', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/132093061.html?rc=03'}

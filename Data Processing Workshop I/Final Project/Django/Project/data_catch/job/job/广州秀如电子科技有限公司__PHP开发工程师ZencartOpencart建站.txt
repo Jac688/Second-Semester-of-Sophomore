@@ -1,0 +1,1 @@
+{'company_name': '广州秀如电子科技有限公司', 'job_name': 'PHP开发工程师ZencartOpencart建站', 'geography': '佛山-南海区', 'bonus': ['专业培训', '出国机会', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/foshan/130773030.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '厦门为正生物科技股份有限公司', 'job_name': '软件工程师', 'geography': '厦门', 'bonus': ['五险一金', '周末双休', '绩效奖金', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/125383917.html?rc=03'}

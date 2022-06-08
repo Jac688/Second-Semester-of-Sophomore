@@ -1,0 +1,1 @@
+{'company_name': '四川久远银海软件股份有限公司', 'job_name': 'Java初级开发工程师', 'geography': '福州-仓山区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/129579120.html?rc=03'}

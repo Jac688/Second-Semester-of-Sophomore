@@ -1,0 +1,1 @@
+{'company_name': '广西一物一码科技有限公司', 'job_name': '软件技术总监', 'geography': '南宁', 'bonus': ['五险', '周末双休', '弹性工作', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/nanning/130960978.html?rc=03'}

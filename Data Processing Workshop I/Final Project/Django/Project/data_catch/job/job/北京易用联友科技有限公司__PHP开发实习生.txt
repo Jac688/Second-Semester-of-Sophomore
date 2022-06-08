@@ -1,0 +1,1 @@
+{'company_name': '北京易用联友科技有限公司', 'job_name': 'PHP开发实习生', 'geography': '北京-海淀区', 'bonus': ['五险一金', '员工旅游', '弹性工作', '股票期权'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125886065.html?rc=03'}

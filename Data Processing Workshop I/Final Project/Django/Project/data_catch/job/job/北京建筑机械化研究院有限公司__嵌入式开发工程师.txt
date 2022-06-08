@@ -1,0 +1,1 @@
+{'company_name': '北京建筑机械化研究院有限公司', 'job_name': '嵌入式开发工程师', 'geography': '北京-东城区', 'bonus': ['五险一金', '定期体检', '年终奖金', '补充医疗保险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132199449.html?rc=03'}

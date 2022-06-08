@@ -1,0 +1,1 @@
+{'company_name': '威马汽车科技集团有限公司', 'job_name': '产品质量工程师(002647)', 'geography': '成都-龙泉驿区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130157904.html?rc=03'}

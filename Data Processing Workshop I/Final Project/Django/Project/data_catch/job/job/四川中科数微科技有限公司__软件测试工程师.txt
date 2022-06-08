@@ -1,0 +1,1 @@
+{'company_name': '四川中科数微科技有限公司', 'job_name': '软件测试工程师', 'geography': '成都-武侯区', 'bonus': [], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130465279.html?rc=03'}

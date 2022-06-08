@@ -1,0 +1,1 @@
+{'company_name': '东野精机昆山有限公司', 'job_name': '资讯专员', 'geography': '异地招聘', 'bonus': ['补充医疗保险', '出国机会', '员工旅游', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/121353064.html?rc=03'}

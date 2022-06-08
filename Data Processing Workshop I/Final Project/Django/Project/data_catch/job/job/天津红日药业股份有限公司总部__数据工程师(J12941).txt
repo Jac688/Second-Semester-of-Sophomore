@@ -1,0 +1,1 @@
+{'company_name': '天津红日药业股份有限公司总部', 'job_name': '数据工程师(J12941)', 'geography': '天津-武清区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128661731.html?rc=03'}

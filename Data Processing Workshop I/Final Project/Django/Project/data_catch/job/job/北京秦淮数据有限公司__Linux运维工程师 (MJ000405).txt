@@ -1,0 +1,1 @@
+{'company_name': '北京秦淮数据有限公司', 'job_name': 'Linux运维工程师 (MJ000405)', 'geography': '北京', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129221097.html?rc=03'}

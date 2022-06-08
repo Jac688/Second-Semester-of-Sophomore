@@ -1,0 +1,1 @@
+{'company_name': '山东华亿信息科技有限公司', 'job_name': 'Web前端开发工程师', 'geography': '济南-高新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130994787.html?rc=03'}

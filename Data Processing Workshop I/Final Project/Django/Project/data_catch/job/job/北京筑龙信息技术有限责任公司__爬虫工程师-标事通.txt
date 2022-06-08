@@ -1,0 +1,1 @@
+{'company_name': '北京筑龙信息技术有限责任公司', 'job_name': '爬虫工程师-标事通', 'geography': '深圳-福田区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130628257.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京诺禾致源科技股份有限公司', 'job_name': '生物信息工程师(J11170)', 'geography': '天津-武清区', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130737195.html?rc=03'}

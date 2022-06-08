@@ -1,0 +1,1 @@
+{'company_name': '中国国际电子商务中心', 'job_name': '高级软件工程师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/120316314.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宝马诚迈信息技术有限公司', 'job_name': 'C++ Dev.C++开发', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '免费班车', '专业培训', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132329895.html?rc=03'}

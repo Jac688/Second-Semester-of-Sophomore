@@ -1,0 +1,1 @@
+{'company_name': '山东荣信集团有限公司', 'job_name': 'IT运维技术员', 'geography': '济宁', 'bonus': ['五险一金', '免费班车', '员工旅游', '周末双休'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/jining/122477259.html?rc=03'}

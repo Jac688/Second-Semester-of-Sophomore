@@ -1,0 +1,1 @@
+{'company_name': '上海金蝶网络科技有限公司', 'job_name': '软件测试工程师HY028', 'geography': '上海', 'bonus': ['五险一金', '上市公司', '管理规范'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126528044.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国科学院自动化研究所广州人工智能与先进计算研究院', 'job_name': 'CC++工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130021786.html?rc=03'}

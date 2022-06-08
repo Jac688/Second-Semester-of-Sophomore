@@ -1,0 +1,1 @@
+{'company_name': '上海新空间工程设计管理有限公司', 'job_name': 'java后端开发工程师', 'geography': '上海-杨浦区', 'bonus': ['做五休二', '周末双休', '专业培训', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128576246.html?rc=03'}

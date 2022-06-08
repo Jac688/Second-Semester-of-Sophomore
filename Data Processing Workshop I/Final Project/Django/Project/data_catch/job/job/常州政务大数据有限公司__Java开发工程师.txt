@@ -1,0 +1,1 @@
+{'company_name': '常州政务大数据有限公司', 'job_name': 'Java开发工程师', 'geography': '常州-钟楼区', 'bonus': ['五险一金', '周末双休', '定期体检', '节日福利'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/128871161.html?rc=03'}

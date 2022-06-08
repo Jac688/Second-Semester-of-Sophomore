@@ -1,0 +1,1 @@
+{'company_name': '亿嘉和科技股份有限公司', 'job_name': '软件测试工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132301642.html?rc=03'}

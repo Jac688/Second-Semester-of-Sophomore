@@ -1,0 +1,1 @@
+{'company_name': '北京森美希克玛生物科技有限公司', 'job_name': '软件工程师C++', 'geography': '北京-大兴区', 'bonus': ['五险一金', '免费班车', '员工旅游', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/90386290.html?rc=03'}

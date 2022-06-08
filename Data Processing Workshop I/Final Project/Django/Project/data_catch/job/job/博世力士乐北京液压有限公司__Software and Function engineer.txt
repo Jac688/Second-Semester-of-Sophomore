@@ -1,0 +1,1 @@
+{'company_name': '博世力士乐北京液压有限公司', 'job_name': 'Software and Function engineer', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127960306.html?rc=03'}

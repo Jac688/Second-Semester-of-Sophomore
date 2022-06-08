@@ -1,0 +1,1 @@
+{'company_name': '上海爱谨人工智能科技有限公司', 'job_name': '全栈开发工程师Web后端前端客户端UI', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '弹性工作', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131697320.html?rc=03'}

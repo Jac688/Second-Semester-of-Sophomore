@@ -1,0 +1,1 @@
+{'company_name': '上海倍通医药科技咨询有限公司', 'job_name': 'Java软件开发工程师后端', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130243487.html?rc=03'}

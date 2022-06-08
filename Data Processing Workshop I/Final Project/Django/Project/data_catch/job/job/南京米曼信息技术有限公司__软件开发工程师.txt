@@ -1,0 +1,1 @@
+{'company_name': '南京米曼信息技术有限公司', 'job_name': '软件开发工程师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130913488.html?rc=03'}

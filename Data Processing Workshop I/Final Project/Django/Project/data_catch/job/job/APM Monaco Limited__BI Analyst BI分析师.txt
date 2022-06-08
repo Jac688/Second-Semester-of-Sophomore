@@ -1,0 +1,1 @@
+{'company_name': 'APM Monaco Limited', 'job_name': 'BI Analyst BI分析师', 'geography': '广州-番禺区', 'bonus': ['优厚薪酬', '五险一金', '膳食津贴', '生日假/津贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129784649.html?rc=03'}

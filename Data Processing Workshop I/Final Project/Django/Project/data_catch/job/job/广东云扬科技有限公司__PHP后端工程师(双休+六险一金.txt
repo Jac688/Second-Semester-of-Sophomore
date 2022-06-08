@@ -1,0 +1,1 @@
+{'company_name': '广东云扬科技有限公司', 'job_name': 'PHP后端工程师(双休+六险一金', 'geography': '汕头', 'bonus': ['餐饮补贴', '员工旅游', '年终奖金', '专业培训'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/shantou/123881591.html?rc=03'}

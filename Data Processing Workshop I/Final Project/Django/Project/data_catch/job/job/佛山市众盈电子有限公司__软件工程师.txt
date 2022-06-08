@@ -1,0 +1,1 @@
+{'company_name': '佛山市众盈电子有限公司', 'job_name': '软件工程师', 'geography': '佛山-禅城区', 'bonus': ['包吃', '包住宿', '绩效奖金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/128030947.html?rc=03'}

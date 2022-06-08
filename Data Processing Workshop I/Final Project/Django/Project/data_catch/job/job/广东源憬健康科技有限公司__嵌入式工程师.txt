@@ -1,0 +1,1 @@
+{'company_name': '广东源憬健康科技有限公司', 'job_name': '嵌入式工程师', 'geography': '东莞-松山湖区', 'bonus': ['大小周', '购买社保', '提成奖金', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131830622.html?rc=03'}

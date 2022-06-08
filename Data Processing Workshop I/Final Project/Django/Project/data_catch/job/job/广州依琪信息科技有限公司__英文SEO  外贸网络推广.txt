@@ -1,0 +1,1 @@
+{'company_name': '广州依琪信息科技有限公司', 'job_name': '英文SEO  外贸网络推广', 'geography': '广州-白云区', 'bonus': ['社会保险', '补充医疗保险', '带薪年假', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/115802335.html?rc=03'}

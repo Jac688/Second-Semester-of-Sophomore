@@ -1,0 +1,1 @@
+{'company_name': '大都会集团', 'job_name': 'Java高级开发工程师万翼', 'geography': '深圳-南山区', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '节日福利'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129910972.html?rc=03'}

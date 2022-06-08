@@ -1,0 +1,1 @@
+{'company_name': '上海亿盟信息技术开发有限公司', 'job_name': 'java开发工程师', 'geography': '上海-嘉定区', 'bonus': ['绩效奖金', '五险一金', '免费班车', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/59556000.html?rc=03'}

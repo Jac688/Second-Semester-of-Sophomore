@@ -1,0 +1,1 @@
+{'company_name': '广州欧莱雅百库网络科技有限公司', 'job_name': '测试职位1124', 'geography': '广州-海珠区', 'bonus': [], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127261551.html?rc=03'}

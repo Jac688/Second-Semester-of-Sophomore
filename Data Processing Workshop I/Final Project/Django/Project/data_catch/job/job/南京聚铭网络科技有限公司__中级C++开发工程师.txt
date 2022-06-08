@@ -1,0 +1,1 @@
+{'company_name': '南京聚铭网络科技有限公司', 'job_name': '中级C++开发工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '员工旅游', '专业培训', '年终奖金'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129418384.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海高凯信息科技有限公司', 'job_name': 'Linux开发工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '定期体检', '员工旅游', '绩效奖金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/114819091.html?rc=03'}

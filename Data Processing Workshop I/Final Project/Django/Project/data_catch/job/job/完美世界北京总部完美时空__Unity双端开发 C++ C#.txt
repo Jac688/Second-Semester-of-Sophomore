@@ -1,0 +1,1 @@
+{'company_name': '完美世界北京总部完美时空', 'job_name': 'Unity双端开发 C++ C#', 'geography': '北京', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129745089.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '德仪科技有限公司', 'job_name': '物联网研发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充公积金', '员工旅游', '出国机会'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131908462.html?rc=03'}

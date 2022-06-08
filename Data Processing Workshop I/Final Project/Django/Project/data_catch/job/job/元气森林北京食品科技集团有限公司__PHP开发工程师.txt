@@ -1,0 +1,1 @@
+{'company_name': '元气森林北京食品科技集团有限公司', 'job_name': 'PHP开发工程师', 'geography': '异地招聘', 'bonus': ['弹性工作', '周末双休', '五险一金', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130752356.html?rc=03'}

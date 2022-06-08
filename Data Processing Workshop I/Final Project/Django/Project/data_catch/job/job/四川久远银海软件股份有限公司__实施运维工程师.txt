@@ -1,0 +1,1 @@
+{'company_name': '四川久远银海软件股份有限公司', 'job_name': '实施运维工程师', 'geography': '南宁-青秀区', 'bonus': ['五险一金', '定期体检', '带薪年假', '周末双休'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanning/129541275.html?rc=03'}

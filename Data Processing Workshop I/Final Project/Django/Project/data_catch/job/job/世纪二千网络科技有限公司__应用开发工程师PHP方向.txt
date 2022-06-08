@@ -1,0 +1,1 @@
+{'company_name': '世纪二千网络科技有限公司', 'job_name': '应用开发工程师PHP方向', 'geography': '北京-朝阳区', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132044889.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京嘉联诚业医疗器械销售有限公司', 'job_name': '软件工程师', 'geography': '嘉兴-嘉善县', 'bonus': ['餐饮补贴', '周末双休', '五险一金', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/125067037.html?rc=03'}

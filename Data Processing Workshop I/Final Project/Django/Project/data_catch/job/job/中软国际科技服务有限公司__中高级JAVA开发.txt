@@ -1,0 +1,1 @@
+{'company_name': '中软国际科技服务有限公司', 'job_name': '中高级JAVA开发', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126358625.html?rc=03'}

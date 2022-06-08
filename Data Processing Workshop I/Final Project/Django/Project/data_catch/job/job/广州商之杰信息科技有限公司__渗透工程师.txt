@@ -1,0 +1,1 @@
+{'company_name': '广州商之杰信息科技有限公司', 'job_name': '渗透工程师', 'geography': '广州', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131185863.html?rc=03'}

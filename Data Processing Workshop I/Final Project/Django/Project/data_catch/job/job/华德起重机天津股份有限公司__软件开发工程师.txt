@@ -1,0 +1,1 @@
+{'company_name': '华德起重机天津股份有限公司', 'job_name': '软件开发工程师', 'geography': '天津-西青区', 'bonus': ['餐饮补贴', '通讯补贴', '绩效奖金', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/109004675.html?rc=03'}

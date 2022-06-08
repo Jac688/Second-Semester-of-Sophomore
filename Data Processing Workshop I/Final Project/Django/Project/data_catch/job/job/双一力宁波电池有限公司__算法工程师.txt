@@ -1,0 +1,1 @@
+{'company_name': '双一力宁波电池有限公司', 'job_name': '算法工程师', 'geography': '宁波-宁海县', 'bonus': ['交通补贴', '节日福利', '加班补贴', '高温补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/122321606.html?rc=03'}

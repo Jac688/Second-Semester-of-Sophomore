@@ -1,0 +1,1 @@
+{'company_name': '宏华中国投资有限公司', 'job_name': '信息业务主管', 'geography': '成都-金牛区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131264531.html?rc=03'}

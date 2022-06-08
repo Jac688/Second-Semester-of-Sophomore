@@ -1,0 +1,1 @@
+{'company_name': '宁波新鼎瑞利进出口有限公司', 'job_name': 'PHP开发工程师', 'geography': '宁波-海曙区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '周末双休'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/101821012.html?rc=03'}

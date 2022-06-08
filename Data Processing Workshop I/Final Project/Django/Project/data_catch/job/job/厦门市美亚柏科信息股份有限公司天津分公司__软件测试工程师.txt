@@ -1,0 +1,1 @@
+{'company_name': '厦门市美亚柏科信息股份有限公司天津分公司', 'job_name': '软件测试工程师', 'geography': '天津-西青区', 'bonus': ['弹性工作', '股票期权', '年终奖金', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/132012973.html?rc=03'}

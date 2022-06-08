@@ -1,0 +1,1 @@
+{'company_name': '上海博阳精讯信息科技有限公司', 'job_name': '咨询顾问数据分析方向', 'geography': '北京-东城区', 'bonus': ['五险一金', '定期体检', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/80621232.html?rc=03'}

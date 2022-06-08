@@ -1,0 +1,1 @@
+{'company_name': '广州广弘品牌管理有限公司', 'job_name': '商品数据专员电商', 'geography': '广州-白云区', 'bonus': ['五险一金', '年终奖金', '员工旅游', '包吃'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129615555.html?rc=03'}

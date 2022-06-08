@@ -1,0 +1,1 @@
+{'company_name': '常州韦斯佰瑞电子科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '常州-天宁区', 'bonus': ['五险一金', '专业培训', '弹性工作', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/110015701.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '优商美地云产业园丽水有限公司', 'job_name': '系统运维工程师', 'geography': '丽水', 'bonus': ['免费人才公寓'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/lishui/127709958.html?rc=03'}

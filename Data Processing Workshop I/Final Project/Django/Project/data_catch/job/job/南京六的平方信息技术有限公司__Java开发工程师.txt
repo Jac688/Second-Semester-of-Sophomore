@@ -1,0 +1,1 @@
+{'company_name': '南京六的平方信息技术有限公司', 'job_name': 'JAVA开发工程师', 'geography': '南京', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130972128.html?rc=03'}

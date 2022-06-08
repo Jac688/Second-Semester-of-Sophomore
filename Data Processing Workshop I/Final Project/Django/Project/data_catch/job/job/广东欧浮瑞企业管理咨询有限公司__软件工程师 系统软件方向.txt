@@ -1,0 +1,1 @@
+{'company_name': '广东欧浮瑞企业管理咨询有限公司', 'job_name': '软件工程师 系统软件方向', 'geography': '成都', 'bonus': ['五险一金', '年终奖金', '定期体检', '补充医疗保险'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131546864.html?rc=03'}

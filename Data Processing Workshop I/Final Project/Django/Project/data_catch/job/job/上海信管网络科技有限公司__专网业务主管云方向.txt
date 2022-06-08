@@ -1,0 +1,1 @@
+{'company_name': '上海信管网络科技有限公司', 'job_name': '专网业务主管云方向', 'geography': '上海-徐汇区', 'bonus': ['做五休二', '带薪年假', '绩效奖金', '专业培训'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128610788.html?rc=03'}

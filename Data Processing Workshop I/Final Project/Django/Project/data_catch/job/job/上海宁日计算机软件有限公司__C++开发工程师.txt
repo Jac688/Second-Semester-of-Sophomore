@@ -1,0 +1,1 @@
+{'company_name': '上海宁日计算机软件有限公司', 'job_name': 'C++开发工程师', 'geography': '上海-宝山区', 'bonus': ['五险一金', '绩效奖金', '弹性工作', '定期体检'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125020458.html?rc=03'}

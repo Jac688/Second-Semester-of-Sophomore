@@ -1,0 +1,1 @@
+{'company_name': '二六三网络通信股份有限公司', 'job_name': '系统运维工程师', 'geography': '北京', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129218370.html?rc=03'}

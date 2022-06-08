@@ -1,0 +1,1 @@
+{'company_name': '广东博成网络科技有限公司', 'job_name': '中级前端开发工程师', 'geography': '广州-天河区', 'bonus': ['专业培训', '年终奖金', '周末双休', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128173172.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '云度新能源汽车股份有限公司', 'job_name': '自动驾驶视觉工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '周末双休', '补充医疗保险', '免费休闲零食'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128792659.html?rc=03'}

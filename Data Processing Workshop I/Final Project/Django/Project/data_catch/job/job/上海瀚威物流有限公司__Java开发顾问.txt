@@ -1,0 +1,1 @@
+{'company_name': '上海瀚威物流有限公司', 'job_name': 'Java开发顾问', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130172070.html?rc=03'}

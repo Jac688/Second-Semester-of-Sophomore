@@ -1,0 +1,1 @@
+{'company_name': '四川志高展示装饰工程有限公司', 'job_name': '互动多媒体程序师工程师', 'geography': '成都', 'bonus': ['交通补贴', '专业培训', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/102363614.html?rc=03'}

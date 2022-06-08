@@ -1,0 +1,1 @@
+{'company_name': '广州星赫信息科技有限公司', 'job_name': '商品数据分析专员', 'geography': '广州', 'bonus': ['定期体检', '年终奖金', '绩效奖金', '五险'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130139809.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京源泉环保科技股份有限公司', 'job_name': '软件工程师机器视觉方向', 'geography': '南京-鼓楼区', 'bonus': ['餐饮补贴', '绩效奖金', '定期体检', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131990009.html?rc=03'}

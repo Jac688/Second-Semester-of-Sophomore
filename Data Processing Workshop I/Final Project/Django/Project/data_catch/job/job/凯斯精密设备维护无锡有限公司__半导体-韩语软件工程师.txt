@@ -1,0 +1,1 @@
+{'company_name': '凯斯精密设备维护无锡有限公司', 'job_name': '半导体-韩语软件工程师', 'geography': '无锡-无锡新区', 'bonus': ['五险一金', '定期体检', '出国机会'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/123433828.html?rc=03'}

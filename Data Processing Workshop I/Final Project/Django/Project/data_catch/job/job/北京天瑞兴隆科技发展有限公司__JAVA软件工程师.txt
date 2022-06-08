@@ -1,0 +1,1 @@
+{'company_name': '北京天瑞兴隆科技发展有限公司', 'job_name': 'JAVA软件工程师', 'geography': '北京', 'bonus': ['五险一金', '定期体检', '通讯补贴', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/63938673.html?rc=03'}

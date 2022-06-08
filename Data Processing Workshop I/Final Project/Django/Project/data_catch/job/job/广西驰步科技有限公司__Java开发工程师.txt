@@ -1,0 +1,1 @@
+{'company_name': '广西驰步科技有限公司', 'job_name': 'Java开发工程师', 'geography': '南宁-江南区', 'bonus': ['五险', '年终奖金', '生日福利', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/129926382.html?rc=03'}

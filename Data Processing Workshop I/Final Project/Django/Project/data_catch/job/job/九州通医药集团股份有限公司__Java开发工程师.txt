@@ -1,0 +1,1 @@
+{'company_name': '九州通医药集团股份有限公司', 'job_name': 'Java开发工程师', 'geography': '武汉-汉阳区', 'bonus': ['五险一金', '员工旅游', '包吃保住', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/128288372.html?rc=03'}

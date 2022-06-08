@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '智能视频客户成功经理 -火山引擎', 'geography': '深圳', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '团队氛围好'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128370810.html?rc=03'}

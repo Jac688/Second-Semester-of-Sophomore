@@ -1,0 +1,1 @@
+{'company_name': 'IBM China', 'job_name': 'Application Developer-Java-Japanese', 'geography': '大连-甘井子区', 'bonus': ['五险一金', '商业医疗保险', '年度体检', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dalian/132308539.html?rc=03'}

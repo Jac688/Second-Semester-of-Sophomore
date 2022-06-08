@@ -1,0 +1,1 @@
+{'company_name': '南京广电猫猫新媒体有限公司', 'job_name': '运维工程师(代招)', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131855263.html?rc=03'}

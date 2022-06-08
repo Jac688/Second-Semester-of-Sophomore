@@ -1,0 +1,1 @@
+{'company_name': '中国共产党余姚市委员会组织部', 'job_name': '视觉软件开发高级工程师(r人才引进', 'geography': '宁波-余姚市', 'bonus': [], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131094187.html?rc=03'}

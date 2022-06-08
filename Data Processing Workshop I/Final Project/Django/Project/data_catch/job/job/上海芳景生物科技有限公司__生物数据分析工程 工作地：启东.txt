@@ -1,0 +1,1 @@
+{'company_name': '上海芳景生物科技有限公司', 'job_name': '生物数据分析工程 工作地：启东', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126736945.html?rc=03'}

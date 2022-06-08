@@ -1,0 +1,1 @@
+{'company_name': '东软云科技有限公司', 'job_name': '初级测试工程师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130426816.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海晖企网络科技有限公司', 'job_name': 'Java研发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '员工旅游'], 'salary': 3.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128473130.html?rc=03'}

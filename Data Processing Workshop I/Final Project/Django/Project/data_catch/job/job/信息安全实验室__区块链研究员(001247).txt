@@ -1,0 +1,1 @@
+{'company_name': '信息安全实验室', 'job_name': '区块链研究员(001247)', 'geography': '成都', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125300985.html?rc=03'}

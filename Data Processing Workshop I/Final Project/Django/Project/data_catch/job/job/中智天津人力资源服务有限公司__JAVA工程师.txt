@@ -1,0 +1,1 @@
+{'company_name': '中智天津人力资源服务有限公司', 'job_name': 'JAVA工程师', 'geography': '天津-和平区', 'bonus': ['周末双休', '五险一金', '通讯补贴', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128292292.html?rc=03'}

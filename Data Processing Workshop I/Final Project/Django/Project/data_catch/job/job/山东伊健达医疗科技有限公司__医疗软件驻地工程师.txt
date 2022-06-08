@@ -1,0 +1,1 @@
+{'company_name': '山东伊健达医疗科技有限公司', 'job_name': '医疗软件驻地工程师', 'geography': '临沂-莒南县', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/linyi/128408518.html?rc=03'}

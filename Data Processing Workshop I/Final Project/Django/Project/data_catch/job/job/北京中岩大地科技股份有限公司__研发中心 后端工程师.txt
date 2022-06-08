@@ -1,0 +1,1 @@
+{'company_name': '北京中岩大地科技股份有限公司', 'job_name': '研发中心 后端工程师', 'geography': '北京', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '定期体检'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130391051.html?rc=03'}

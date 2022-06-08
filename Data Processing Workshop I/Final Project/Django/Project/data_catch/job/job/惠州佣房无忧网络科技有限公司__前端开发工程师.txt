@@ -1,0 +1,1 @@
+{'company_name': '惠州佣房无忧网络科技有限公司', 'job_name': '前端开发工程师', 'geography': '惠州-惠城区', 'bonus': ['五险一金', '年终奖金', '弹性工作'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/129972063.html?rc=03'}

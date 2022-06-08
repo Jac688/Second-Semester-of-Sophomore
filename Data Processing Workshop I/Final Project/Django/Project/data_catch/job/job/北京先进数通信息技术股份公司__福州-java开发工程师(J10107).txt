@@ -1,0 +1,1 @@
+{'company_name': '北京先进数通信息技术股份公司', 'job_name': '福州-java开发工程师(J10107)', 'geography': '异地招聘', 'bonus': ['五险一金', '定期体检', '年终奖金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/fujiansheng/131895358.html?rc=03'}

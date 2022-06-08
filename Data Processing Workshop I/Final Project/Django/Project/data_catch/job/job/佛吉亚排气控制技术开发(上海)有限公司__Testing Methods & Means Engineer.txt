@@ -1,0 +1,1 @@
+{'company_name': '佛吉亚排气控制技术开发(上海)有限公司', 'job_name': 'Testing Methods & Means Engineer', 'geography': '上海-闵行区', 'bonus': ['五险一金', '专业培训', '年终奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132115700.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州华购计算机科技有限公司', 'job_name': 'Java开发工程师擅长搜索引擎', 'geography': '广州-番禺区', 'bonus': ['绩效奖金', '五险一金', '免费班车', '通讯补贴'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131720902.html?rc=03'}

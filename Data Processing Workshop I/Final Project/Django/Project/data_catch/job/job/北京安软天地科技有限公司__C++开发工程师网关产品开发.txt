@@ -1,0 +1,1 @@
+{'company_name': '北京安软天地科技有限公司', 'job_name': 'C++开发工程师网关产品开发', 'geography': '北京-海淀区', 'bonus': ['五险一金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125176388.html?rc=03'}

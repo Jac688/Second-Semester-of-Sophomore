@@ -1,0 +1,1 @@
+{'company_name': '四川中锐信息技术有限公司', 'job_name': '测试开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129382902.html?rc=03'}

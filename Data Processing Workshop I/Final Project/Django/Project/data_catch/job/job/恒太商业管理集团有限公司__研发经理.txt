@@ -1,0 +1,1 @@
+{'company_name': '恒太商业管理集团有限公司', 'job_name': '研发经理', 'geography': '杭州-江干区', 'bonus': ['专业培训', '高温补贴', '带薪年假', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130313466.html?rc=03'}

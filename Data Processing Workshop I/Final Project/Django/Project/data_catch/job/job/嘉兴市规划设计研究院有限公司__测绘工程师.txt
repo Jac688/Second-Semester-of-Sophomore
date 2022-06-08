@@ -1,0 +1,1 @@
+{'company_name': '嘉兴市规划设计研究院有限公司', 'job_name': '测绘工程师', 'geography': '嘉兴', 'bonus': ['五险一金', '带薪年假', '绩效奖金', '每年一次疗养'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/130551052.html?rc=03'}

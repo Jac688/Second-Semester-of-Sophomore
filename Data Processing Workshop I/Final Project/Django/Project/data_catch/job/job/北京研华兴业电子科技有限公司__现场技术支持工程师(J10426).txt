@@ -1,0 +1,1 @@
+{'company_name': '北京研华兴业电子科技有限公司', 'job_name': '现场技术支持工程师(J10426)', 'geography': '天津-南开区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129428104.html?rc=03'}

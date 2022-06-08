@@ -1,0 +1,1 @@
+{'company_name': '上海凡米智能科技有限公司', 'job_name': '初级Java工程师软件开发工程师2021应届生', 'geography': '上海-闵行区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.33, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129017583.html?rc=03'}

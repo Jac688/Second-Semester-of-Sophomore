@@ -1,0 +1,1 @@
+{'company_name': '上海吉联新软件股份有限公司', 'job_name': 'Java开发实习生', 'geography': '青岛-城阳区', 'bonus': ['五险一金', '年终奖金', '员工旅游', '出国机会'], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/122572392.html?rc=03'}

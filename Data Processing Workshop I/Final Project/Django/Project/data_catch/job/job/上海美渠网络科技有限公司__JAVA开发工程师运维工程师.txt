@@ -1,0 +1,1 @@
+{'company_name': '上海美渠网络科技有限公司', 'job_name': 'JAVA开发工程师运维工程师', 'geography': '上海-奉贤区', 'bonus': ['五险一金', '包吃', '包住', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122281685.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波立捷电子有限公司', 'job_name': '系统开发工程师', 'geography': '宁波-镇海区', 'bonus': ['带薪年假', '绩效奖金', '节日福利', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130631492.html?rc=03'}

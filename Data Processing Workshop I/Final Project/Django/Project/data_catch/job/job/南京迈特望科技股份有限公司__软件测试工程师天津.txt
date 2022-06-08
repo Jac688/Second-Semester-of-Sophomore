@@ -1,0 +1,1 @@
+{'company_name': '南京迈特望科技股份有限公司', 'job_name': '软件测试工程师天津', 'geography': '天津-和平区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128502741.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中航空管系统装备有限公司', 'job_name': '应用软件开发工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/111649529.html?rc=03'}

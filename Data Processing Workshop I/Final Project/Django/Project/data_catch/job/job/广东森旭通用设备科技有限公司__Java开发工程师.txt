@@ -1,0 +1,1 @@
+{'company_name': '广东森旭通用设备科技有限公司', 'job_name': 'Java开发工程师', 'geography': '佛山-禅城区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '项目奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131527011.html?rc=03'}

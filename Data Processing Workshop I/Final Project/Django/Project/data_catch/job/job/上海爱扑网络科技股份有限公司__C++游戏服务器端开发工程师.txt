@@ -1,0 +1,1 @@
+{'company_name': '上海爱扑网络科技股份有限公司', 'job_name': 'C++游戏服务器端开发工程师', 'geography': '上海-宝山区', 'bonus': ['五险一金', '定期体检', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117119012.html?rc=03'}

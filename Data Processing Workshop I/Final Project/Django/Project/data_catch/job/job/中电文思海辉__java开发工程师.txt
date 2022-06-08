@@ -1,0 +1,1 @@
+{'company_name': '中电文思海辉', 'job_name': 'java开发工程师', 'geography': '杭州', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131291480.html?rc=03'}

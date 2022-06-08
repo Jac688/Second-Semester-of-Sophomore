@@ -1,0 +1,1 @@
+{'company_name': '徐州芒旭软件科技有限公司', 'job_name': 'Java开发工程师', 'geography': '徐州', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/129966162.html?rc=03'}

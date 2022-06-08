@@ -1,0 +1,1 @@
+{'company_name': '南京绿野仙踪生物科技有限公司', 'job_name': '流程管理应用系统工程师', 'geography': '南京-栖霞区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127821389.html?rc=03'}

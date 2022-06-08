@@ -1,0 +1,1 @@
+{'company_name': '上海菜信网络科技有限公司', 'job_name': 'Java技术负责人资深工程师', 'geography': '苏州-吴中区', 'bonus': ['五险一金', '周末双休', '年底十三薪'], 'salary': 2.2, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131214109.html?rc=03'}

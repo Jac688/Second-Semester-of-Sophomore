@@ -1,0 +1,1 @@
+{'company_name': '广州长丰纺织有限公司', 'job_name': '数据分析师', 'geography': '广州-海珠区', 'bonus': ['餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129313483.html?rc=03'}

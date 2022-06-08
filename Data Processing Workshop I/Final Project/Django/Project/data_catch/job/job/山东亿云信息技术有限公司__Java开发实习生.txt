@@ -1,0 +1,1 @@
+{'company_name': '山东亿云信息技术有限公司', 'job_name': 'Java开发实习生', 'geography': '济南-高新区', 'bonus': ['五险一金', '年终奖金', '通讯补贴', '定期体检'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131453089.html?rc=03'}

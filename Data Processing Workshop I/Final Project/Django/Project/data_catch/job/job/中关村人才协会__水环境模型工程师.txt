@@ -1,0 +1,1 @@
+{'company_name': '中关村人才协会', 'job_name': '水环境模型工程师', 'geography': '北京-海淀区', 'bonus': ['交通补贴', '餐饮补贴', '五险一金', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130933660.html?rc=03'}

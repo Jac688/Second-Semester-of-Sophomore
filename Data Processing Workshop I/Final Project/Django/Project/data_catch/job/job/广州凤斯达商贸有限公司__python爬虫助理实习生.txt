@@ -1,0 +1,1 @@
+{'company_name': '广州凤斯达商贸有限公司', 'job_name': 'python爬虫助理实习生', 'geography': '深圳-宝安区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124388251.html?rc=03'}

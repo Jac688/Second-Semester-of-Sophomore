@@ -1,0 +1,1 @@
+{'company_name': '健康之路(中国)信息技术有限公司', 'job_name': 'Android开发工程师', 'geography': '福州', 'bonus': ['五险一金', '通讯补贴', '年终奖金', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/131833510.html?rc=03'}

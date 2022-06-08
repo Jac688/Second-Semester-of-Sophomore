@@ -1,0 +1,1 @@
+{'company_name': '上海鸣啸信息科技股份有限公司', 'job_name': '信息技术主管', 'geography': '上海-静安区', 'bonus': ['五险一金', '年终奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/94450148.html?rc=03'}

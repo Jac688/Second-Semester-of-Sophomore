@@ -1,0 +1,1 @@
+{'company_name': '上海舟恩信息技术有限公司', 'job_name': '外包长期项目-java-平安医保', 'geography': '南京-雨花台区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132220645.html?rc=03'}

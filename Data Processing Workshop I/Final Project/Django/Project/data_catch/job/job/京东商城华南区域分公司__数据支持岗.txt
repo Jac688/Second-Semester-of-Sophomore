@@ -1,0 +1,1 @@
+{'company_name': '京东商城华南区域分公司', 'job_name': '数据支持岗', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130756404.html?rc=03'}

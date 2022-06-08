@@ -1,0 +1,1 @@
+{'company_name': '千城智联上海网络科技有限公司', 'job_name': 'PHP工程师', 'geography': '上海-长宁区', 'bonus': ['餐饮补贴', '五险一金', '全勤奖', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130887874.html?rc=03'}

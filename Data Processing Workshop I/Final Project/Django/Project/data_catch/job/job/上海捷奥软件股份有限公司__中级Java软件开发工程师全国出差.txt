@@ -1,0 +1,1 @@
+{'company_name': '上海捷奥软件股份有限公司', 'job_name': '中级Java软件开发工程师全国出差', 'geography': '南京-建邺区', 'bonus': ['做五休二', '带薪年假', '五险一金', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128377210.html?rc=03'}

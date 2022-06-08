@@ -1,0 +1,1 @@
+{'company_name': '宁波春秋环保工程有限公司', 'job_name': '嵌入式软件工程师', 'geography': '宁波-鄞州区', 'bonus': ['交通补贴', '通讯补贴', '绩效奖金', '做五休二'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131110845.html?rc=03'}

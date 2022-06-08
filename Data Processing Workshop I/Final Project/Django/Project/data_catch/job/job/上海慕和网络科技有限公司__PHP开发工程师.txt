@@ -1,0 +1,1 @@
+{'company_name': '上海慕和网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124393956.html?rc=03'}

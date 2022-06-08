@@ -1,0 +1,1 @@
+{'company_name': '徐州市凯信电子设备有限公司', 'job_name': '软件工程师', 'geography': '徐州', 'bonus': ['五险一金', '定期体检', '年终奖金', '员工旅游'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/74740125.html?rc=03'}

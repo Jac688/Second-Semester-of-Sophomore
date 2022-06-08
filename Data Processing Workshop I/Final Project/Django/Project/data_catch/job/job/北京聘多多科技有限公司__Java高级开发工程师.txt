@@ -1,0 +1,1 @@
+{'company_name': '北京聘多多科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '珠海-香洲区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '做五休二'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/131987866.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东宏石激光技术股份有限公司', 'job_name': 'Java开发工程师', 'geography': '佛山-顺德区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '提供住宿'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131291842.html?rc=03'}

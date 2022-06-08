@@ -1,0 +1,1 @@
+{'company_name': '南京森根科技股份有限公司', 'job_name': '实施运维工程师 湖州  005', 'geography': '湖州-吴兴区', 'bonus': ['五险一金', '补充医疗保险', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/huzhou/128334931.html?rc=03'}

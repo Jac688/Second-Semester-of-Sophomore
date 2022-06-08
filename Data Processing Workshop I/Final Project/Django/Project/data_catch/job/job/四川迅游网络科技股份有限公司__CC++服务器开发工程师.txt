@@ -1,0 +1,1 @@
+{'company_name': '四川迅游网络科技股份有限公司', 'job_name': 'CC++服务器开发工程师', 'geography': '成都-高新区', 'bonus': ['餐饮补贴', '定期体检', '补充医疗保险', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131367726.html?rc=03'}

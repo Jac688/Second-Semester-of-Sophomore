@@ -1,0 +1,1 @@
+{'company_name': '上海巨人网络科技有限公司', 'job_name': '产品经理运维平台', 'geography': '上海-松江区', 'bonus': ['免费班车', '员工旅游', '五险一金', '补充医疗保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/118960040.html?rc=03'}

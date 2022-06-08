@@ -1,0 +1,1 @@
+{'company_name': '上海因致信息科技有限公司', 'job_name': '软件开发主管(上海', 'geography': '上海', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '员工旅游'], 'salary': 2.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122162297.html?rc=03'}

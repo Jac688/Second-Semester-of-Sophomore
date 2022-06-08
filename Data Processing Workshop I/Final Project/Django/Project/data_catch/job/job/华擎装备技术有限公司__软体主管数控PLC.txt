@@ -1,0 +1,1 @@
+{'company_name': '华擎装备技术有限公司', 'job_name': '软体主管数控PLC', 'geography': '异地招聘', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/122072076.html?rc=03'}

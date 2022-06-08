@@ -1,0 +1,1 @@
+{'company_name': '宁德新能源科技有限公司', 'job_name': '软件研发工程师-JAVA', 'geography': '异地招聘', 'bonus': ['带薪年假', '五险一金', '包住宿', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/131290792.html?rc=03'}

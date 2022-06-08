@@ -1,0 +1,1 @@
+{'company_name': '宏利金融全球服务中心', 'job_name': '高级Java开发工程师', 'geography': '成都', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/93203805.html?rc=03'}

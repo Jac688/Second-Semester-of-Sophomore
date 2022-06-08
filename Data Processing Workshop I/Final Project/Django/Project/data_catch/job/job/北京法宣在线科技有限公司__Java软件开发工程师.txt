@@ -1,0 +1,1 @@
+{'company_name': '北京法宣在线科技有限公司', 'job_name': 'Java软件开发工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/112237800.html?rc=03'}

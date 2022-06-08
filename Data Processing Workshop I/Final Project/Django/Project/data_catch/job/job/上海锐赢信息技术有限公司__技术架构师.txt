@@ -1,0 +1,1 @@
+{'company_name': '上海锐赢信息技术有限公司', 'job_name': '技术架构师', 'geography': '福州-鼓楼区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '弹性工作'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/122530289.html?rc=03'}

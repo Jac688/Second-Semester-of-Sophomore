@@ -1,0 +1,1 @@
+{'company_name': '上海卓迅汽车科技有限公司', 'job_name': '电子电器软件工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124008221.html?rc=03'}

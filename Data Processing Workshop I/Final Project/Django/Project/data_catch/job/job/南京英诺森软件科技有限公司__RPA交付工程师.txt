@@ -1,0 +1,1 @@
+{'company_name': '南京英诺森软件科技有限公司', 'job_name': 'RPA交付工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '专业培训'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/126768328.html?rc=03'}

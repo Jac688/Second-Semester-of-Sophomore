@@ -1,0 +1,1 @@
+{'company_name': '广东炬森智能装备有限公司', 'job_name': '图像处理机器视觉AI软件总监', 'geography': '广州-黄埔区', 'bonus': ['绩效奖金', '通讯补贴', '员工旅游', '节日福利'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129169703.html?rc=03'}

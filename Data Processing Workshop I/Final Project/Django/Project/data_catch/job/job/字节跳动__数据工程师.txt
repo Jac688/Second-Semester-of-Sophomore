@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '数据工程师', 'geography': '深圳', 'bonus': ['六险一金', '弹性工作', '租房补贴', '扁平管理'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124331639.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京华路时代信息技术股份有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-石景山区', 'bonus': ['五险一金', '餐饮补贴', '节假日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131689320.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '博思数采科技发展有限公司', 'job_name': 'java开发工程师(J12085)', 'geography': '福州', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/131262535.html?rc=03'}

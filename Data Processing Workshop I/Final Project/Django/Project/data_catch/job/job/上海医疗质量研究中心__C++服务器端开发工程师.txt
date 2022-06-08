@@ -1,0 +1,1 @@
+{'company_name': '上海医疗质量研究中心', 'job_name': 'C++服务器端开发工程师', 'geography': '上海-闵行区', 'bonus': ['做五休二', '五险一金', '绩效奖金', '餐饮补贴'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117908401.html?rc=03'}

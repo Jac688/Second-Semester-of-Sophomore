@@ -1,0 +1,1 @@
+{'company_name': '南京海泰医疗信息系统有限公司', 'job_name': 'JAVAC#软件开发工程师', 'geography': '南京-玄武区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '股票期权'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/94675792.html?rc=03'}

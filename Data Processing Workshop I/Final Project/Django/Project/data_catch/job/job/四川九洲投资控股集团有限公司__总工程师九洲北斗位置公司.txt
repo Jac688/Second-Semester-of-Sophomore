@@ -1,0 +1,1 @@
+{'company_name': '四川九洲投资控股集团有限公司', 'job_name': '总工程师九洲北斗位置公司', 'geography': '成都-金牛区', 'bonus': ['交通补贴', '餐饮补贴', '绩效奖金', '年终奖金'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132279134.html?rc=03'}

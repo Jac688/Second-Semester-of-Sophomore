@@ -1,0 +1,1 @@
+{'company_name': '北京融数易雨科技有限公司', 'job_name': '爬虫工程师', 'geography': '成都', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126743065.html?rc=03'}

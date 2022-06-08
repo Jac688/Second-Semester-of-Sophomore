@@ -1,0 +1,1 @@
+{'company_name': '中国软件与技术服务股份有限公司', 'job_name': 'C++Qt方向开发工程师', 'geography': '北京-海淀区', 'bonus': ['七险一金', '定期体检', '通讯补贴', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126180934.html?rc=03'}

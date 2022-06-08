@@ -1,0 +1,1 @@
+{'company_name': '上海仰源自动化技术有限公司', 'job_name': '软件工程师', 'geography': '上海-闵行区', 'bonus': ['年终奖金', '交通补贴', '绩效奖金', '员工激励'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/106732413.html?rc=03'}

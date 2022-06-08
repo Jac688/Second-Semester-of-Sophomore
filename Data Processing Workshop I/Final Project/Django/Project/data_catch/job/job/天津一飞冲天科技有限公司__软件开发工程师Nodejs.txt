@@ -1,0 +1,1 @@
+{'company_name': '天津一飞冲天科技有限公司', 'job_name': '软件开发工程师Nodejs', 'geography': '天津-西青区', 'bonus': ['年终奖金', '弹性工作', '周末双休', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128915702.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京好食好吃进出口有限公司', 'job_name': 'PHP开发工程师', 'geography': '武汉-洪山区', 'bonus': ['五险', '带薪年假', '绩效奖金', '年终奖'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/118740128.html?rc=03'}

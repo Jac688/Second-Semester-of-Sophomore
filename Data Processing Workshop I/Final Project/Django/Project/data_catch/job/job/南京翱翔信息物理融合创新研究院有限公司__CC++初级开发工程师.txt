@@ -1,0 +1,1 @@
+{'company_name': '南京翱翔信息物理融合创新研究院有限公司', 'job_name': 'CC++初级开发工程师', 'geography': '南京-溧水区', 'bonus': ['五险一金', '弹性工作', '餐饮补贴', '团建'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/126619537.html?rc=03'}

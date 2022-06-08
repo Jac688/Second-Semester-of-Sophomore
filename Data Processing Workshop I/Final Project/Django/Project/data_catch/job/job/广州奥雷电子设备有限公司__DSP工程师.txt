@@ -1,0 +1,1 @@
+{'company_name': '广州奥雷电子设备有限公司', 'job_name': 'DSP工程师', 'geography': '广州-花都区', 'bonus': ['五险', '专业培训', '5.5天8小时', '全勤奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127392359.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东省智能机器人研究院', 'job_name': '控制软件工程师', 'geography': '东莞', 'bonus': ['周末双休', '交通补贴', '节日福利', '五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/123994977.html?rc=03'}

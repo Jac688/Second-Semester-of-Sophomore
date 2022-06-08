@@ -1,0 +1,1 @@
+{'company_name': '博瑞得科技有限公司', 'job_name': '储备项目经理实习生', 'geography': '重庆', 'bonus': ['五险一金', '员工旅游', '交通补贴', '年终奖金'], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/121567999.html?rc=03'}

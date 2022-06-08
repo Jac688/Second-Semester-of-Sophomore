@@ -1,0 +1,1 @@
+{'company_name': '中汽院智能网联科技有限公司', 'job_name': '感知融合算法工程师智能网联', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '免费班车'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130815788.html?rc=03'}

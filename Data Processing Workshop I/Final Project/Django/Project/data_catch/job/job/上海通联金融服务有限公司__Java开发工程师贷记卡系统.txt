@@ -1,0 +1,1 @@
+{'company_name': '上海通联金融服务有限公司', 'job_name': 'Java开发工程师贷记卡系统', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '定期体检', '补充医疗保险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/78746454.html?rc=03'}

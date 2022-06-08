@@ -1,0 +1,1 @@
+{'company_name': '上海中期期货股份有限公司', 'job_name': '期权研究员期权事业部', 'geography': '上海', 'bonus': ['五险一金', '绩效奖金', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123346649.html?rc=03'}

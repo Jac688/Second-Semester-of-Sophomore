@@ -1,0 +1,1 @@
+{'company_name': '中国电信集团号百信息服务有限公司', 'job_name': '服务和维护支撑智能连接部-外包', 'geography': '上海', 'bonus': [], 'salary': 1.24, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129105702.html?rc=03'}

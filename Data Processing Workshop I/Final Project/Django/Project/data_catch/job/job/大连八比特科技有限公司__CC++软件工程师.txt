@@ -1,0 +1,1 @@
+{'company_name': '大连八比特科技有限公司', 'job_name': 'CC++软件工程师', 'geography': '大连', 'bonus': ['五险一金', '年终奖金', '定期体检', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dalian/130564672.html?rc=03'}

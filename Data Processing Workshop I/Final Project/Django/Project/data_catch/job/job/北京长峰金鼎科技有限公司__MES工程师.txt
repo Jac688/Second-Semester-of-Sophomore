@@ -1,0 +1,1 @@
+{'company_name': '北京长峰金鼎科技有限公司', 'job_name': 'MES工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '定期体检', '绩效奖金', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127873193.html?rc=03'}

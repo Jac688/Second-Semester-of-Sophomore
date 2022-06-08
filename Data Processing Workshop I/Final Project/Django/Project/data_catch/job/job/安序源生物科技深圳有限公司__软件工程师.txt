@@ -1,0 +1,1 @@
+{'company_name': '安序源生物科技深圳有限公司', 'job_name': '软件工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '定期体检'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/98710702.html?rc=03'}

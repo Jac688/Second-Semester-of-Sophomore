@@ -1,0 +1,1 @@
+{'company_name': '南京智杰物联科技股份有限公司', 'job_name': 'Java中级开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '专业培训', '加班福利', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/114395499.html?rc=03'}

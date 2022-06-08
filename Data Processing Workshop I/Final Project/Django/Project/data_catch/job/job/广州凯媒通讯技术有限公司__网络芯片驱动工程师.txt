@@ -1,0 +1,1 @@
+{'company_name': '广州凯媒通讯技术有限公司', 'job_name': '网络芯片驱动工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127544963.html?rc=03'}

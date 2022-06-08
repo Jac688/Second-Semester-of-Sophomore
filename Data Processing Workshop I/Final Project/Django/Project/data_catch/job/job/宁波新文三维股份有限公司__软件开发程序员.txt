@@ -1,0 +1,1 @@
+{'company_name': '宁波新文三维股份有限公司', 'job_name': '软件开发程序员', 'geography': '宁波', 'bonus': ['五险一金', '绩效奖金', '员工旅游', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/59605975.html?rc=03'}

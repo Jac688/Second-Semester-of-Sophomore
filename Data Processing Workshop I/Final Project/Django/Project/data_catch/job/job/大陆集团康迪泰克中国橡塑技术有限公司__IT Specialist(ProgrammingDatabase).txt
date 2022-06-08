@@ -1,0 +1,1 @@
+{'company_name': '大陆集团康迪泰克中国橡塑技术有限公司', 'job_name': 'IT Specialist(ProgrammingDatabase)', 'geography': '常熟', 'bonus': ['周末双休', '办公环境好', '免费班车', '弹性工作'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/changshu/131132054.html?rc=03'}

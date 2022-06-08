@@ -1,0 +1,1 @@
+{'company_name': '上海摩提工房食品有限公司', 'job_name': '西树泡芙 爬虫工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131337749.html?rc=03'}

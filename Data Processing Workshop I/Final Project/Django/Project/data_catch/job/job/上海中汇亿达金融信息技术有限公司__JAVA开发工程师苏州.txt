@@ -1,0 +1,1 @@
+{'company_name': '上海中汇亿达金融信息技术有限公司', 'job_name': 'JAVA开发工程师苏州', 'geography': '苏州', 'bonus': ['五险一金', '带薪休假', '专业培训', '定期体检'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/129116283.html?rc=03'}

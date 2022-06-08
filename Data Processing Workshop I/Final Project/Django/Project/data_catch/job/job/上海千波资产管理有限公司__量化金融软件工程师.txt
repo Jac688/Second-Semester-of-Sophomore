@@ -1,0 +1,1 @@
+{'company_name': '上海千波资产管理有限公司', 'job_name': '量化金融软件工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充公积金', '餐饮补贴', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/84688352.html?rc=03'}

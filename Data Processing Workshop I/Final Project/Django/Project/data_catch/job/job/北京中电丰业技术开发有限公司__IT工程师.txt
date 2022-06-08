@@ -1,0 +1,1 @@
+{'company_name': '北京中电丰业技术开发有限公司', 'job_name': 'IT工程师', 'geography': '潍坊-昌乐县', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '节日福利'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/weifang/131657368.html?rc=03'}

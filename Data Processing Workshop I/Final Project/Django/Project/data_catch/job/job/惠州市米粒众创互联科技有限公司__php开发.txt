@@ -1,0 +1,1 @@
+{'company_name': '惠州市米粒众创互联科技有限公司', 'job_name': 'php开发', 'geography': '深圳-龙岗区', 'bonus': ['五险一金', '带薪年假', '包吃', '健身房俱乐部'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130710784.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京数字政通科技股份有限公司武汉分公司', 'job_name': '项目实施经理', 'geography': '杭州-拱墅区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127919438.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京广图软件科技有限公司', 'job_name': '微服务架构师', 'geography': '北京', 'bonus': ['面议', '五险一金', '交通补贴', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130756857.html?rc=03'}

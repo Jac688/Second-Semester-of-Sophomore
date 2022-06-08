@@ -1,0 +1,1 @@
+{'company_name': '北京中诺链捷数字科技有限公司', 'job_name': '中级Java开发工程师深圳', 'geography': '深圳', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129982620.html?rc=03'}

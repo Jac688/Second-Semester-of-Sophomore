@@ -1,0 +1,1 @@
+{'company_name': '成都乐创自动化技术股份有限公司', 'job_name': 'PC软件开发与技术支持工程师', 'geography': '成都', 'bonus': ['带薪年假', '五险一金', '交通补贴', '年度体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127070373.html?rc=03'}

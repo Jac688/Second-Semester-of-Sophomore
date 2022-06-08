@@ -1,0 +1,1 @@
+{'company_name': '厦门山国饮艺茶业有限公司', 'job_name': 'H5、小程序前端开发人员', 'geography': '厦门', 'bonus': ['员工旅游', '餐饮补贴', '年终奖金', '五险'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/121770248.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '国际化业务中台资深研发工程师', 'geography': '北京', 'bonus': ['下午茶', '团队氛围好', '扁平管理', '免费三餐'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131878665.html?rc=03'}

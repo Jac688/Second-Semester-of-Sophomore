@@ -1,0 +1,1 @@
+{'company_name': '上海嘉天信息技术有限公司', 'job_name': 'Java初级开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '定期体检'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131871371.html?rc=03'}

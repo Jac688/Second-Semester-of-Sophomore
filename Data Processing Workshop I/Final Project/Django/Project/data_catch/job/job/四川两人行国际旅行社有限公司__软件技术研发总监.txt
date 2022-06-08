@@ -1,0 +1,1 @@
+{'company_name': '四川两人行国际旅行社有限公司', 'job_name': '软件技术研发总监', 'geography': '成都-武侯区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131438982.html?rc=03'}

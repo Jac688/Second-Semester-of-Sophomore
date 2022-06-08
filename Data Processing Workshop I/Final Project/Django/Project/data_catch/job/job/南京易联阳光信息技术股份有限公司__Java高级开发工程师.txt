@@ -1,0 +1,1 @@
+{'company_name': '南京易联阳光信息技术股份有限公司', 'job_name': 'Java高级开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '额外提成', '节日福利', '生日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/sichuansheng/124824987.html?rc=03'}

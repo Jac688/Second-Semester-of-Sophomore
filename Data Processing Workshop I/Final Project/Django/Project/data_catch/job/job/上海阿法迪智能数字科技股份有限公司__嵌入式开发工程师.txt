@@ -1,0 +1,1 @@
+{'company_name': '上海阿法迪智能数字科技股份有限公司', 'job_name': '嵌入式开发工程师', 'geography': '上海-徐汇区', 'bonus': ['餐饮补贴', '专业培训', '五险一金', '补充医疗保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126984337.html?rc=03'}

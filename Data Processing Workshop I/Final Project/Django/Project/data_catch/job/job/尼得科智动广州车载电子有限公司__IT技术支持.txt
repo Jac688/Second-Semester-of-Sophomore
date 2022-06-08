@@ -1,0 +1,1 @@
+{'company_name': '尼得科智动广州车载电子有限公司', 'job_name': 'IT技术支持', 'geography': '广州', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129949392.html?rc=03'}

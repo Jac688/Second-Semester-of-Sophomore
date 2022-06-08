@@ -1,0 +1,1 @@
+{'company_name': '南京绿和信息技术有限公司', 'job_name': 'java开发工程师物联网', 'geography': '南京', 'bonus': ['五险一金', '年终奖金', '弹性工作', '加班补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131675464.html?rc=03'}

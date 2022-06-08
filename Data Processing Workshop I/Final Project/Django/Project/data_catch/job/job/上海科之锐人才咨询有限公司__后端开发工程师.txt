@@ -1,0 +1,1 @@
+{'company_name': '上海科之锐人才咨询有限公司', 'job_name': '后端开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '节日福利', '额外商业保险', '包吃'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/121635255.html?rc=03'}

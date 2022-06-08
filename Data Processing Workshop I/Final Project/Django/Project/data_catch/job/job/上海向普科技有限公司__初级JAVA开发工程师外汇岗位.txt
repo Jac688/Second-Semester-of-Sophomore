@@ -1,0 +1,1 @@
+{'company_name': '上海向普科技有限公司', 'job_name': '初级JAVA开发工程师外汇岗位', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '专业培训', '定期体检', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131550506.html?rc=03'}

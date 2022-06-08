@@ -1,0 +1,1 @@
+{'company_name': '南京睿辰欣创网络科技股份有限公司', 'job_name': 'C++Qt软件工程师', 'geography': '南京', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '员工旅游'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/116258237.html?rc=03'}

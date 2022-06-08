@@ -1,0 +1,1 @@
+{'company_name': '上海仙途智能科技有限公司', 'job_name': '感知平台工程师', 'geography': '杭州-西湖区', 'bonus': ['节日福利', '免费体检', '弹性工作', '五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/130614574.html?rc=03'}

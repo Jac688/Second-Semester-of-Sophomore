@@ -1,0 +1,1 @@
+{'company_name': '四川纷领信息技术有限公司', 'job_name': '风控总监', 'geography': '成都', 'bonus': ['补充医疗保险', '带薪年假', '弹性工作', '五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132182146.html?rc=03'}

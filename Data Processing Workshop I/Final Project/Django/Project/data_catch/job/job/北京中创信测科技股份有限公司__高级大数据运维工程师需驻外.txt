@@ -1,0 +1,1 @@
+{'company_name': '北京中创信测科技股份有限公司', 'job_name': '高级大数据运维工程师需驻外', 'geography': '重庆-江北区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '年终奖金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/127129085.html?rc=03'}

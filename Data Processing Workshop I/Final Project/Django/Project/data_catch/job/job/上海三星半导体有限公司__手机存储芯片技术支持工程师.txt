@@ -1,0 +1,1 @@
+{'company_name': '上海三星半导体有限公司', 'job_name': '手机存储芯片技术支持工程师', 'geography': '北京-朝阳区', 'bonus': ['年终奖金', '绩效奖金', '弹性工作', '定期体检'], 'salary': 2.08, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132031487.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广西点购软件科技有限公司', 'job_name': 'Android开发专员', 'geography': '异地招聘', 'bonus': ['年终奖金', '社保', '周末双休'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangxi/129689386.html?rc=03'}

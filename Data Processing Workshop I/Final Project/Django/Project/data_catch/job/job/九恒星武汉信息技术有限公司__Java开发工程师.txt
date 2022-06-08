@@ -1,0 +1,1 @@
+{'company_name': '九恒星武汉信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-虹口区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124613924.html?rc=03'}

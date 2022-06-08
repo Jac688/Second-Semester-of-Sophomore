@@ -1,0 +1,1 @@
+{'company_name': '南京宝姐科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '南京-秦淮区', 'bonus': [], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/111637084.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中电通商数字技术上海有限公司', 'job_name': '后端开发工程师', 'geography': '重庆-渝中区', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '绩效奖金'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/128293749.html?rc=03'}

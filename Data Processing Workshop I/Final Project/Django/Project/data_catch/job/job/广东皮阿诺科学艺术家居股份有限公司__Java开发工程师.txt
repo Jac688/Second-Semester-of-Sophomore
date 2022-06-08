@@ -1,0 +1,1 @@
+{'company_name': '广东皮阿诺科学艺术家居股份有限公司', 'job_name': 'Java开发工程师', 'geography': '中山', 'bonus': ['五险一金', '包住宿', '包吃', '全勤奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/130369013.html?rc=03'}

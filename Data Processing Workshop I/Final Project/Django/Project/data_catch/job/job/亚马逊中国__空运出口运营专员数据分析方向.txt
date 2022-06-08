@@ -1,0 +1,1 @@
+{'company_name': '亚马逊中国', 'job_name': '空运出口运营专员数据分析方向', 'geography': '上海-长宁区', 'bonus': ['五险一金', '餐饮补贴', '补充医疗保险', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131066651.html?rc=03'}

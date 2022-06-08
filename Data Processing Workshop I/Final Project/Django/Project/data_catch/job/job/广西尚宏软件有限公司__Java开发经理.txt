@@ -1,0 +1,1 @@
+{'company_name': '广西尚宏软件有限公司', 'job_name': 'Java开发经理', 'geography': '南宁', 'bonus': ['社保', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanning/129616449.html?rc=03'}

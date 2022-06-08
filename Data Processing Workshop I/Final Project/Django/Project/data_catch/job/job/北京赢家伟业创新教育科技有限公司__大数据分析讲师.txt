@@ -1,0 +1,1 @@
+{'company_name': '北京赢家伟业创新教育科技有限公司', 'job_name': '大数据分析讲师', 'geography': '广州-天河区', 'bonus': ['绩效奖金', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132334024.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京英斯特网络科技有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127696137.html?rc=03'}

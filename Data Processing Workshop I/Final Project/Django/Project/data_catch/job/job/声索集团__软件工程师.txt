@@ -1,0 +1,1 @@
+{'company_name': '声索集团', 'job_name': '软件工程师', 'geography': '深圳-龙华区', 'bonus': ['五险一金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127971394.html?rc=03'}

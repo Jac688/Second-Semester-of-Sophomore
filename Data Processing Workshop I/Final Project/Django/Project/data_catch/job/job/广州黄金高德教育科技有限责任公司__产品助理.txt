@@ -1,0 +1,1 @@
+{'company_name': '广州黄金高德教育科技有限责任公司', 'job_name': '产品助理', 'geography': '广州-天河区', 'bonus': ['五险一金', '周末双休', '年终奖金', '下午茶'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122956529.html?rc=03'}

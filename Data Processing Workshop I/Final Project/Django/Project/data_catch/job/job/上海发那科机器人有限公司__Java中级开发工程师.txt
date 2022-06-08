@@ -1,0 +1,1 @@
+{'company_name': '上海发那科机器人有限公司', 'job_name': 'Java中级开发工程师', 'geography': '上海', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/109471777.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京迈特望科技股份有限公司', 'job_name': 'Java开发济南', 'geography': '济南', 'bonus': ['五险一金', '周末双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131959406.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京柱石科技有限公司', 'job_name': 'NLP算法工程师', 'geography': '北京-昌平区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131768138.html?rc=03'}

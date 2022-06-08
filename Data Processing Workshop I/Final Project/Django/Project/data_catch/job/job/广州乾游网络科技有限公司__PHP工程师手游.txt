@@ -1,0 +1,1 @@
+{'company_name': '广州乾游网络科技有限公司', 'job_name': 'PHP工程师手游', 'geography': '广州-天河区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127077767.html?rc=03'}

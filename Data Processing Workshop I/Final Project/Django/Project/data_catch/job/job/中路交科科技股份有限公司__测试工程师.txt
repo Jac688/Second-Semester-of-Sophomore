@@ -1,0 +1,1 @@
+{'company_name': '中路交科科技股份有限公司', 'job_name': '测试工程师', 'geography': '南京-浦口区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131935674.html?rc=03'}

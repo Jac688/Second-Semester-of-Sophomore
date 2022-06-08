@@ -1,0 +1,1 @@
+{'company_name': '成都云祺科技有限公司', 'job_name': 'cc++研发工程师', 'geography': '成都-高新区', 'bonus': ['股票期权', '年终奖金', '餐饮补贴', '员工旅游'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/120353458.html?rc=03'}

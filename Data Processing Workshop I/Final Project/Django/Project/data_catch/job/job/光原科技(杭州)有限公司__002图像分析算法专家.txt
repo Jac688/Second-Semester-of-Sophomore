@@ -1,0 +1,1 @@
+{'company_name': '光原科技(杭州)有限公司', 'job_name': '002图像分析算法专家', 'geography': '杭州', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131304544.html?rc=03'}

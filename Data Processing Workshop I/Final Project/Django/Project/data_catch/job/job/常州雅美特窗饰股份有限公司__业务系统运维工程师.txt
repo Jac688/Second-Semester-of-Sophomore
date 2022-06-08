@@ -1,0 +1,1 @@
+{'company_name': '常州雅美特窗饰股份有限公司', 'job_name': '业务系统运维工程师', 'geography': '常州-新北区', 'bonus': ['五险一金', '通讯补贴', '定期体检', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/130593437.html?rc=03'}

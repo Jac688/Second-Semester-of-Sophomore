@@ -1,0 +1,1 @@
+{'company_name': '上海赐麓网络科技有限公司广州分公司', 'job_name': 'H5游戏后端开发工程师', 'geography': '广州-天河区', 'bonus': ['包吃', '绩效奖金', '节日福利', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129582527.html?rc=03'}

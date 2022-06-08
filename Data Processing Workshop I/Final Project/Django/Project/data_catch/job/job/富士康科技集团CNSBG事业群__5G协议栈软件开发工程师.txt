@@ -1,0 +1,1 @@
+{'company_name': '富士康科技集团CNSBG事业群', 'job_name': '5G协议栈软件开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '专业培训', '年终奖金', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/84852700.html?rc=03'}

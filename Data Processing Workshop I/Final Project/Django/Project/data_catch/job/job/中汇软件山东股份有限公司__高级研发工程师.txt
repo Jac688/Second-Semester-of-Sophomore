@@ -1,0 +1,1 @@
+{'company_name': '中汇软件山东股份有限公司', 'job_name': '高级研发工程师', 'geography': '济宁', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jining/131192303.html?rc=03'}

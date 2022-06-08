@@ -1,0 +1,1 @@
+{'company_name': '厦门用友烟草软件有限责任公司', 'job_name': '技术支持工程师', 'geography': '厦门', 'bonus': ['五险一金', '年终奖金', '专业培训', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/127290336.html?rc=03'}

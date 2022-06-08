@@ -1,0 +1,1 @@
+{'company_name': '南京柏丝特软件技术有限公司', 'job_name': '软件测试实习助理岗', 'geography': '南京-江宁区', 'bonus': ['五险一金', '交通补贴', '绩效奖金', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/122231486.html?rc=03'}

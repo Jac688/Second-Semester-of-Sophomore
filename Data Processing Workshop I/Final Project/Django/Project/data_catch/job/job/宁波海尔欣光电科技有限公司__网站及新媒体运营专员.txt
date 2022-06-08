@@ -1,0 +1,1 @@
+{'company_name': '宁波海尔欣光电科技有限公司', 'job_name': '网站及新媒体运营专员', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/132157049.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '惠州华阳通用电子有限公司', 'job_name': '算法工程师 感知算法方向', 'geography': '惠州', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '免费班车'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/130003189.html?rc=03'}

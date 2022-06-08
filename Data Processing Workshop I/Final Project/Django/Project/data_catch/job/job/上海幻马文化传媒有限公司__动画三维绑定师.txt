@@ -1,0 +1,1 @@
+{'company_name': '上海幻马文化传媒有限公司', 'job_name': '动画三维绑定师', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '弹性工作', '扁平化管理', '大牛带队'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132184486.html?rc=03'}

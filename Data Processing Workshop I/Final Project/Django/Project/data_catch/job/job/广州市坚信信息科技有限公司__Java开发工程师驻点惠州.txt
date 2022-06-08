@@ -1,0 +1,1 @@
+{'company_name': '广州市坚信信息科技有限公司', 'job_name': 'Java开发工程师驻点惠州', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '补充公积金', '餐饮补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/130996450.html?rc=03'}

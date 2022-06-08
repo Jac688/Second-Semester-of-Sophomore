@@ -1,0 +1,1 @@
+{'company_name': '广州优路加信息科技有限公司', 'job_name': 'PHP开发工程师成都', 'geography': '成都-成华区', 'bonus': ['六险一金', '餐饮补贴', '交通补贴', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131906230.html?rc=03'}

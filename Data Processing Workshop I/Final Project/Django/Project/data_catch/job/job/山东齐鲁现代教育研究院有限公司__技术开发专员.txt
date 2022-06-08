@@ -1,0 +1,1 @@
+{'company_name': '山东齐鲁现代教育研究院有限公司', 'job_name': '技术开发专员', 'geography': '济南-市中区', 'bonus': ['绩效奖金', '专业培训', '节日福利', '五险'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131603937.html?rc=03'}

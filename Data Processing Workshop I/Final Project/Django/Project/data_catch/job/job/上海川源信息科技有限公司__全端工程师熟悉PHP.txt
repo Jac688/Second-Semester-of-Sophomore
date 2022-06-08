@@ -1,0 +1,1 @@
+{'company_name': '上海川源信息科技有限公司', 'job_name': '全端工程师熟悉PHP', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '专业培训', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126101240.html?rc=03'}

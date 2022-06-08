@@ -1,0 +1,1 @@
+{'company_name': '中核凯利深圳餐饮管理有限公司', 'job_name': '软件运维工程师', 'geography': '深圳-南山区', 'bonus': ['包吃', '包住宿', '节日福利', '高温补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127651259.html?rc=03'}

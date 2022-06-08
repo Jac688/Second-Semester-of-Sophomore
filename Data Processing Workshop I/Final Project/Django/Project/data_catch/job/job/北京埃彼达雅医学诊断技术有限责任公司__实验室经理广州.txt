@@ -1,0 +1,1 @@
+{'company_name': '北京埃彼达雅医学诊断技术有限责任公司', 'job_name': '实验室经理广州', 'geography': '广州-海珠区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/109178134.html?rc=03'}

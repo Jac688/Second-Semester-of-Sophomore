@@ -1,0 +1,1 @@
+{'company_name': '中山杰士美电子有限公司', 'job_name': '嵌入式软件工程师', 'geography': '中山', 'bonus': ['包住宿', '带薪年假', '绩效奖金', '包吃'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/129544811.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中亿深圳信息科技有限公司', 'job_name': '架构师   Java', 'geography': '深圳-南山区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132282387.html?rc=03'}

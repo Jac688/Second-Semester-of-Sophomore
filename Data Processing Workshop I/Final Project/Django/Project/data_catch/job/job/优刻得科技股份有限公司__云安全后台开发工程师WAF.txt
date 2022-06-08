@@ -1,0 +1,1 @@
+{'company_name': '优刻得科技股份有限公司', 'job_name': '云安全后台开发工程师WAF', 'geography': '深圳', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/123227961.html?rc=03'}

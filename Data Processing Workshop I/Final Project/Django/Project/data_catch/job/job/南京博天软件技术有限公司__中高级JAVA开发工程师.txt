@@ -1,0 +1,1 @@
+{'company_name': '南京博天软件技术有限公司', 'job_name': '中高级JAVA开发工程师', 'geography': '南京-江北新区', 'bonus': ['五险一金', '员工旅游', '专业培训', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127087552.html?rc=03'}

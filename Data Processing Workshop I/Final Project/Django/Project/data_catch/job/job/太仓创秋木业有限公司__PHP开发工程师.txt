@@ -1,0 +1,1 @@
+{'company_name': '太仓创秋木业有限公司', 'job_name': 'PHP开发工程师', 'geography': '太仓', 'bonus': ['全勤奖', '包吃', '五险', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/taicang/130899934.html?rc=03'}

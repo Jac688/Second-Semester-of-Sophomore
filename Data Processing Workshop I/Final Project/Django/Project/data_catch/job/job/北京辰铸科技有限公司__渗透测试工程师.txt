@@ -1,0 +1,1 @@
+{'company_name': '北京辰铸科技有限公司', 'job_name': '渗透测试工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129682092.html?rc=03'}

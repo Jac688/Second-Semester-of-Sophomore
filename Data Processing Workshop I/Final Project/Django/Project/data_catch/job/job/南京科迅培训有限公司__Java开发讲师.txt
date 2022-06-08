@@ -1,0 +1,1 @@
+{'company_name': '南京科迅培训有限公司', 'job_name': 'Java开发讲师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/118842595.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京仕嘉信息咨询服务有限公司', 'job_name': 'java架构师', 'geography': '北京', 'bonus': [], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130685593.html?rc=03'}

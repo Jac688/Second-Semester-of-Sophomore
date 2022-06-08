@@ -1,0 +1,1 @@
+{'company_name': '上海次方信息技术有限公司', 'job_name': 'PHP开发工程师', 'geography': '常州-新北区', 'bonus': ['专业培训', '五险一金', '节日福利', '做五休二'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/131996829.html?rc=03'}

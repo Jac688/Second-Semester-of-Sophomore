@@ -1,0 +1,1 @@
+{'company_name': '广州市达瑞生物技术股份有限公司', 'job_name': '生物信息工程师', 'geography': '广州', 'bonus': ['五险一金', '绩效奖金', '专业培训', '定期体检'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/67834651.html?rc=03'}

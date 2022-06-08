@@ -1,0 +1,1 @@
+{'company_name': '广州硕星信息科技股份有限公司', 'job_name': 'C++开发工程师游戏开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '年终奖金', '定期体检', '工作餐'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128944203.html?rc=03'}

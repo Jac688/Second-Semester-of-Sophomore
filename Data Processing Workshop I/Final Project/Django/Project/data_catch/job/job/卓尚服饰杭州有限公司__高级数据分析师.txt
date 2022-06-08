@@ -1,0 +1,1 @@
+{'company_name': '卓尚服饰杭州有限公司', 'job_name': '高级数据分析师', 'geography': '杭州-江干区', 'bonus': ['五险一金', '餐饮补贴', '免费班车', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129041658.html?rc=03'}

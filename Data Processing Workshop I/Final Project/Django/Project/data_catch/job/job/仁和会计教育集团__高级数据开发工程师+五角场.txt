@@ -1,0 +1,1 @@
+{'company_name': '仁和会计教育集团', 'job_name': '高级数据开发工程师+五角场', 'geography': '上海-杨浦区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127453609.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海移远通信技术股份有限公司', 'job_name': 'Python 软件工程师 (MJ000345)', 'geography': '深圳-南山区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125333619.html?rc=03'}

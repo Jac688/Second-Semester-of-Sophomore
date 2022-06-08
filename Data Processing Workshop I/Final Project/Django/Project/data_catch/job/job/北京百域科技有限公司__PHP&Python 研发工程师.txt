@@ -1,0 +1,1 @@
+{'company_name': '北京百域科技有限公司', 'job_name': 'PHP&Python 研发工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130425927.html?rc=03'}

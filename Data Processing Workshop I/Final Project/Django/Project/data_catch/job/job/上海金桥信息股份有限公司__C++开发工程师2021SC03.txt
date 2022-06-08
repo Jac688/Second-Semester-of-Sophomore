@@ -1,0 +1,1 @@
+{'company_name': '上海金桥信息股份有限公司', 'job_name': 'C++开发工程师2021SC03', 'geography': '上海', 'bonus': ['五险一金', '专业培训', '通讯补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129446277.html?rc=03'}

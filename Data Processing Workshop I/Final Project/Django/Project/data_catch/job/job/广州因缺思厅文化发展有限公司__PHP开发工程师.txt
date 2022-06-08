@@ -1,0 +1,1 @@
+{'company_name': '广州因缺思厅文化发展有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-天河区', 'bonus': ['员工旅游', '绩效奖金', '年终奖金', '待遇好'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130417341.html?rc=03'}

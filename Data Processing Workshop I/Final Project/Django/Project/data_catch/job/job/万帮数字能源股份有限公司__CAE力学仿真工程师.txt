@@ -1,0 +1,1 @@
+{'company_name': '万帮数字能源股份有限公司', 'job_name': 'CAE力学仿真工程师', 'geography': '常州-武进区', 'bonus': ['五险一金', '免费班车', '员工旅游', '交通补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/129559998.html?rc=03'}

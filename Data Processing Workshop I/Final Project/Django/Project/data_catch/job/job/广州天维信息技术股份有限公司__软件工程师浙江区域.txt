@@ -1,0 +1,1 @@
+{'company_name': '广州天维信息技术股份有限公司', 'job_name': '软件工程师浙江区域', 'geography': '杭州', 'bonus': ['七险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/91049959.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '大连会越科技有限公司', 'job_name': 'C++开发工程师--智能制造方向', 'geography': '大连-金州区', 'bonus': ['五险一金', '年终奖金', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dalian/127903937.html?rc=03'}

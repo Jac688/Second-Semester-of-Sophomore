@@ -1,0 +1,1 @@
+{'company_name': '广州数易信息技术有限公司', 'job_name': '管理培训生', 'geography': '广州-天河区', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130420297.html?rc=03'}

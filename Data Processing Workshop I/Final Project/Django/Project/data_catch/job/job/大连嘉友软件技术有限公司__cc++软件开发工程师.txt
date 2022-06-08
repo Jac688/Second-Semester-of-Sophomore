@@ -1,0 +1,1 @@
+{'company_name': '大连嘉友软件技术有限公司', 'job_name': 'cc++软件开发工程师', 'geography': '大连', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dalian/66102886.html?rc=03'}

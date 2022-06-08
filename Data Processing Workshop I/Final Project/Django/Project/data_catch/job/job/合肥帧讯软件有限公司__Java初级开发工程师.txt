@@ -1,0 +1,1 @@
+{'company_name': '合肥帧讯软件有限公司', 'job_name': 'Java初级开发工程师', 'geography': '合肥-高新区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hefei/132273195.html?rc=03'}

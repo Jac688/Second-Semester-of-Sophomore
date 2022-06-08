@@ -1,0 +1,1 @@
+{'company_name': '安永中国企业咨询有限公司', 'job_name': 'EY Mtel - JAVA高级开发工程师 - 广州', 'geography': '广州', 'bonus': ['五险一金', '专业培训', '弹性工作', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131056690.html?rc=03'}

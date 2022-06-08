@@ -1,0 +1,1 @@
+{'company_name': '广州赛泽科技有限公司', 'job_name': '迅雷后台开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '餐饮补贴', '年底双薪', '入职体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128401748.html?rc=03'}

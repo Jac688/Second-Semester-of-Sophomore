@@ -1,0 +1,1 @@
+{'company_name': '广州海格娜食品有限公司', 'job_name': '后台开发工程师', 'geography': '佛山', 'bonus': ['绩效奖金', '年终奖金', '五险', '下午茶'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/120592631.html?rc=03'}

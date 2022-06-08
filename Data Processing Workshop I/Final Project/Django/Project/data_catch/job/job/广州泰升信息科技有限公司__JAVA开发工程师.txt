@@ -1,0 +1,1 @@
+{'company_name': '广州泰升信息科技有限公司', 'job_name': 'JAVA开发工程师', 'geography': '广州-天河区', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130726308.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京中易银合科技有限公司', 'job_name': 'JAVA开发工程师', 'geography': '北京-通州区', 'bonus': ['五险一金', '员工旅游', '出国机会', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132249804.html?rc=03'}

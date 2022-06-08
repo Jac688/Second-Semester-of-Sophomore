@@ -1,0 +1,1 @@
+{'company_name': '优地网络有限公司', 'job_name': 'WEB前端开发驻场工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128300268.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '七色纺商业连锁有限公司', 'job_name': '数据分析师', 'geography': '成都', 'bonus': ['五险一金', '住房补贴', '包住宿', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129397405.html?rc=03'}

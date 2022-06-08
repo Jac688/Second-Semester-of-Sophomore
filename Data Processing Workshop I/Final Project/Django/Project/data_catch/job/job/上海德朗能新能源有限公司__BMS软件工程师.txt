@@ -1,0 +1,1 @@
+{'company_name': '上海德朗能新能源有限公司', 'job_name': 'BMS软件工程师', 'geography': '上海-奉贤区', 'bonus': ['五险一金', '员工旅游', '免费班车', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/95047610.html?rc=03'}

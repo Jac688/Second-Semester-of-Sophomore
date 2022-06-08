@@ -1,0 +1,1 @@
+{'company_name': '归创通桥医疗科技股份有限公司', 'job_name': '研发工程师软件', 'geography': '杭州', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/114621379.html?rc=03'}

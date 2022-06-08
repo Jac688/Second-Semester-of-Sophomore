@@ -1,0 +1,1 @@
+{'company_name': '南京昭凌精密机械有限公司', 'job_name': '销售代表 工业设备 8-15W', 'geography': '南京-浦口区', 'bonus': ['通讯补贴', '免费住宿', '五险一金', '差旅补贴'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129707666.html?rc=03'}

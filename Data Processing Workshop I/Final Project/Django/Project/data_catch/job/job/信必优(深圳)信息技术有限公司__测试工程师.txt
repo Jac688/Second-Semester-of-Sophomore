@@ -1,0 +1,1 @@
+{'company_name': '信必优(深圳)信息技术有限公司', 'job_name': '测试工程师', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131699239.html?rc=03'}

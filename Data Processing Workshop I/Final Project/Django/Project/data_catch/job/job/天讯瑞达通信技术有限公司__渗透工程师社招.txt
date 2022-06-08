@@ -1,0 +1,1 @@
+{'company_name': '天讯瑞达通信技术有限公司', 'job_name': '渗透工程师社招', 'geography': '广州', 'bonus': ['绩效奖金', '年终奖金', '周末双休', '每周体育活动'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127964208.html?rc=03'}

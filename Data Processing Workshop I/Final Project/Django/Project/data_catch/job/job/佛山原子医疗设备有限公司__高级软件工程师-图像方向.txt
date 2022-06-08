@@ -1,0 +1,1 @@
+{'company_name': '佛山原子医疗设备有限公司', 'job_name': '高级软件工程师-图像方向', 'geography': '北京-昌平区', 'bonus': ['五险一金', '年终奖金', '弹性工作', '绩效奖金'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/119336831.html?rc=03'}

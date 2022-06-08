@@ -1,0 +1,1 @@
+{'company_name': '上海海隆信技软件有限公司', 'job_name': '对日JAVA软件工程师', 'geography': '上海-黄浦区', 'bonus': ['做五休二', '交通补贴', '出国机会'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130019072.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '喜科上海软件系统有限公司', 'job_name': '软件测试工程师', 'geography': '上海-徐汇区', 'bonus': ['定期体检', '五险一金', '补充医疗保险', '员工旅游'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132330824.html?rc=03'}

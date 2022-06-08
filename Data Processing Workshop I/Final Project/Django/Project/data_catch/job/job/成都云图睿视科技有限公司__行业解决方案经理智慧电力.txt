@@ -1,0 +1,1 @@
+{'company_name': '成都云图睿视科技有限公司', 'job_name': '行业解决方案经理智慧电力', 'geography': '成都-高新区', 'bonus': ['五险一金', '年终奖金', '通讯补贴', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130721050.html?rc=03'}

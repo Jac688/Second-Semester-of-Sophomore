@@ -1,0 +1,1 @@
+{'company_name': '四川弘和集团', 'job_name': 'C++开发工程师(算法应用方向)', 'geography': '成都-武侯区', 'bonus': ['周末双休', '绩效奖金', '餐饮补贴', '五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129622759.html?rc=03'}

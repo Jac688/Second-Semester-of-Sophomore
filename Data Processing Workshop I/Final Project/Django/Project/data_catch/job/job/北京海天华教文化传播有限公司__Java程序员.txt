@@ -1,0 +1,1 @@
+{'company_name': '北京海天华教文化传播有限公司', 'job_name': 'Java程序员', 'geography': '北京-海淀区', 'bonus': ['周末双休', '餐饮补贴', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132189515.html?rc=03'}

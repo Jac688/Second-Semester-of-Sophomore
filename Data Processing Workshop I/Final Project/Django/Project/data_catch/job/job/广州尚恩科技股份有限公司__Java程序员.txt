@@ -1,0 +1,1 @@
+{'company_name': '广州尚恩科技股份有限公司', 'job_name': 'Java程序员', 'geography': '广州', 'bonus': ['五险一金', '弹性工作', '定期体检', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/80924003.html?rc=03'}

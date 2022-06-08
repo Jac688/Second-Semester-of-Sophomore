@@ -1,0 +1,1 @@
+{'company_name': '宁波麦度智联科技股份有限公司', 'job_name': '软件集成工程师', 'geography': '宁波-高新区', 'bonus': ['五险一金', '定期体检', '年终奖金', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130608674.html?rc=03'}

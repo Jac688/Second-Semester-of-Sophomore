@@ -1,0 +1,1 @@
+{'company_name': '广东省工业设备安装有限公司', 'job_name': '软件开发工程师', 'geography': '广州-海珠区', 'bonus': ['定期体检', '五险一金', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130976472.html?rc=03'}

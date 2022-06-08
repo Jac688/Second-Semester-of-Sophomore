@@ -1,0 +1,1 @@
+{'company_name': '广东南电智控系统有限公司', 'job_name': 'Java中级开发工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '通讯补贴', '双休', '节日福利'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127980944.html?rc=03'}

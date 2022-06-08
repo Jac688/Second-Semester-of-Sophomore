@@ -1,0 +1,1 @@
+{'company_name': '仟金顶网络科技有限公司', 'job_name': '数据采集工程师', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '交通补贴', '年终奖金', '周末双休'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129102911.html?rc=03'}

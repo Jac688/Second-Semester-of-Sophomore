@@ -1,0 +1,1 @@
+{'company_name': '广州恒利信息科技有限公司', 'job_name': 'Python开发工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '员工旅游', '专业培训', '弹性工作'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128937290.html?rc=03'}

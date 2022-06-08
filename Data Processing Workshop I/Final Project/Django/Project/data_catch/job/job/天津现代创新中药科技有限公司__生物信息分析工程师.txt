@@ -1,0 +1,1 @@
+{'company_name': '天津现代创新中药科技有限公司', 'job_name': '生物信息分析工程师', 'geography': '天津-西青区', 'bonus': ['五险一金', '餐饮补贴', '带薪年假', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129080339.html?rc=03'}

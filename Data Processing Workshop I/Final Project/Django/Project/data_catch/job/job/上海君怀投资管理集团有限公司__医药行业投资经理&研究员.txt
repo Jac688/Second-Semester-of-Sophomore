@@ -1,0 +1,1 @@
+{'company_name': '上海君怀投资管理集团有限公司', 'job_name': '医药行业投资经理&研究员', 'geography': '上海', 'bonus': ['定期体检', '员工旅游', '五险一金', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123173616.html?rc=03'}

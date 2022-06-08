@@ -1,0 +1,1 @@
+{'company_name': 'SHEIN', 'job_name': '容器云技术专家 (MJ003038)', 'geography': '南京-雨花台区', 'bonus': [], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128934143.html?rc=03'}

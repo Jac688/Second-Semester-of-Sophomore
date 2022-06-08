@@ -1,0 +1,1 @@
+{'company_name': '中建投资珠海有限公司', 'job_name': 'IT工程师', 'geography': '珠海', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/129342872.html?rc=03'}

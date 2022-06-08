@@ -1,0 +1,1 @@
+{'company_name': '华扬联众数字技术股份有限公司', 'job_name': 'Python开发工程师', 'geography': '南京-鼓楼区', 'bonus': ['专业培训', '大平台', '团队氛围好', '领导亲和'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130530960.html?rc=03'}

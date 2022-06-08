@@ -1,0 +1,1 @@
+{'company_name': '广东紫云平台数据服务有限公司', 'job_name': '数据分析师', 'geography': '广州-海珠区', 'bonus': ['五险一金', '定期体检', '员工旅游', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124773824.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波拓普集团', 'job_name': '软件工程师', 'geography': '宁波-北仑区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/126475529.html?rc=03'}

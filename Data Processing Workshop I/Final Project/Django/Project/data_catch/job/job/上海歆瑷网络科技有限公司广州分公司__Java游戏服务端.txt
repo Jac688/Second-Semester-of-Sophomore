@@ -1,0 +1,1 @@
+{'company_name': '上海歆瑷网络科技有限公司广州分公司', 'job_name': 'Java游戏服务端', 'geography': '广州-海珠区', 'bonus': ['五险一金', '专业培训', '年终奖金', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/120709195.html?rc=03'}

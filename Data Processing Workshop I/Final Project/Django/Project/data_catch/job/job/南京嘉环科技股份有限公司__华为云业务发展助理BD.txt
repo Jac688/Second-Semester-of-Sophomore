@@ -1,0 +1,1 @@
+{'company_name': '南京嘉环科技股份有限公司', 'job_name': '华为云业务发展助理BD', 'geography': '异地招聘', 'bonus': ['五险一金', '专业培训', '绩效奖金', '导师带教'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/131283650.html?rc=03'}

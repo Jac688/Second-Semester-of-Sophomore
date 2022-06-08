@@ -1,0 +1,1 @@
+{'company_name': '宁波汇盒信息技术有限公司', 'job_name': 'C++开发工程师', 'geography': '宁波-镇海区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130551244.html?rc=03'}

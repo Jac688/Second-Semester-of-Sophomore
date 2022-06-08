@@ -1,0 +1,1 @@
+{'company_name': '广州空格盛世教育咨询有限公司', 'job_name': '游戏后端开发工程师', 'geography': '广州-越秀区', 'bonus': ['弹性工作', '专业培训', '绩效奖金', '周末双休'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131034345.html?rc=03'}

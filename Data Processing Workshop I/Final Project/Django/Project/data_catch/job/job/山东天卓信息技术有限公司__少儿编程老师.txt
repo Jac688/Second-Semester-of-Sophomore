@@ -1,0 +1,1 @@
+{'company_name': '山东天卓信息技术有限公司', 'job_name': '少儿编程老师', 'geography': '临沂-沂水县', 'bonus': ['五险一金', '绩效奖金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/linyi/127855716.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海弘联医学科技集团有限公司', 'job_name': '研发中心_VC++软件工程师', 'geography': '上海', 'bonus': ['年底双薪', '带薪年假', '年终奖金', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/41298485.html?rc=03'}

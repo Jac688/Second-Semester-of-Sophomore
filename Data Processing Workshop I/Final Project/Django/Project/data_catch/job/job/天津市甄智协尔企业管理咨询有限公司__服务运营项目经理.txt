@@ -1,0 +1,1 @@
+{'company_name': '天津市甄智协尔企业管理咨询有限公司', 'job_name': '服务运营项目经理', 'geography': '异地招聘', 'bonus': ['五险一金', '带薪年假', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/130105597.html?rc=03'}

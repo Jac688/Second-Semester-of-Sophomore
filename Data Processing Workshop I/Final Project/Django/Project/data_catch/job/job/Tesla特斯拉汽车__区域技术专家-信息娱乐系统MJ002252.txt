@@ -1,0 +1,1 @@
+{'company_name': 'Tesla特斯拉汽车', 'job_name': '区域技术专家-信息娱乐系统MJ002252', 'geography': '杭州-拱墅区', 'bonus': ['股票期权', '高端医疗保险', '弹性工作', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128528742.html?rc=03'}

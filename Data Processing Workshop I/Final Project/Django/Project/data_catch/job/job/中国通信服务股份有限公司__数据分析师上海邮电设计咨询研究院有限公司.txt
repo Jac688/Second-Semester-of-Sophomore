@@ -1,0 +1,1 @@
+{'company_name': '中国通信服务股份有限公司', 'job_name': '数据分析师上海邮电设计咨询研究院有限公司', 'geography': '上海', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129231776.html?rc=03'}

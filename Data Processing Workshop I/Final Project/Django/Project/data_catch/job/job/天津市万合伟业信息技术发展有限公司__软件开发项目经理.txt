@@ -1,0 +1,1 @@
+{'company_name': '天津市万合伟业信息技术发展有限公司', 'job_name': '软件开发项目经理', 'geography': '天津-南开区', 'bonus': ['五险一金', '通讯补贴', '员工旅游', '年终奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129190799.html?rc=03'}

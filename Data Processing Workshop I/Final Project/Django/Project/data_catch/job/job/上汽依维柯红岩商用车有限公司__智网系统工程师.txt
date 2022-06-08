@@ -1,0 +1,1 @@
+{'company_name': '上汽依维柯红岩商用车有限公司', 'job_name': '智网系统工程师', 'geography': '重庆-渝北区', 'bonus': ['周末双休', '带薪年假', '五险一金', '免费班车'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/132315202.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海芮想信息科技有限公司', 'job_name': '开发测试', 'geography': '青岛-黄岛区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/122192487.html?rc=03'}

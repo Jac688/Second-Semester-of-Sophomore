@@ -1,0 +1,1 @@
+{'company_name': '中国科学院上海微系统与信息技术研究所', 'job_name': '4S03嵌入式网络协议开发工程师', 'geography': '上海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131931788.html?rc=03'}

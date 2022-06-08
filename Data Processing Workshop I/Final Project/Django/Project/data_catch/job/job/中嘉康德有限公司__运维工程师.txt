@@ -1,0 +1,1 @@
+{'company_name': '中嘉康德有限公司', 'job_name': '运维工程师', 'geography': '重庆-南岸区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/123773271.html?rc=03'}

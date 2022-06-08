@@ -1,0 +1,1 @@
+{'company_name': '小雨伞保险经纪有限公司', 'job_name': 'Go研发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/123226818.html?rc=03'}

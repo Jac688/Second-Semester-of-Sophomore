@@ -1,0 +1,1 @@
+{'company_name': '克诺尔商用车系统企业管理上海有限公司', 'job_name': 'Software Development Engineer软件开发工程师', 'geography': '苏州-高新区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '出国机会'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/132320869.html?rc=03'}

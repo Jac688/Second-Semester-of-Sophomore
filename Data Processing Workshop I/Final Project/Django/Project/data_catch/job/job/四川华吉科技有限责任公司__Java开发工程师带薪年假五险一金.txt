@@ -1,0 +1,1 @@
+{'company_name': '四川华吉科技有限责任公司', 'job_name': 'Java开发工程师带薪年假五险一金', 'geography': '成都-天府新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127420160.html?rc=03'}

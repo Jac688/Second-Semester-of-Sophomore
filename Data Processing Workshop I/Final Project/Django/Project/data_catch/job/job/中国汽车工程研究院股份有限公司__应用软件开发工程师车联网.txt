@@ -1,0 +1,1 @@
+{'company_name': '中国汽车工程研究院股份有限公司', 'job_name': '应用软件开发工程师车联网', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '免费班车'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/128326190.html?rc=03'}

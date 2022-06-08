@@ -1,0 +1,1 @@
+{'company_name': '北京四维图新科技股份有限公司', 'job_name': '仿真云平台后端开发工程师3941', 'geography': '北京-海淀区', 'bonus': ['五险一金', '年终奖金', '补充医疗保险', '免费班车'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131700722.html?rc=03'}

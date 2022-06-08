@@ -1,0 +1,1 @@
+{'company_name': '四川九强通信科技有限公司', 'job_name': 'C++开发工程师(初级中级)', 'geography': '成都-武侯区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '交通补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/119799382.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国科学院上海微系统与信息技术研究所', 'job_name': '1S09脑机接口软件工程师', 'geography': '上海', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131931696.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '厦门宏发电声股份有限公司', 'job_name': '彼格科技-视觉应用工程师', 'geography': '厦门-集美区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/127433727.html?rc=03'}

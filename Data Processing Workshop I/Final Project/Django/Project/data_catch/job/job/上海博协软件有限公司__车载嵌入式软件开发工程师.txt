@@ -1,0 +1,1 @@
+{'company_name': '上海博协软件有限公司', 'job_name': '车载嵌入式软件开发工程师', 'geography': '上海-普陀区', 'bonus': ['员工旅游', '绩效奖金', '年终奖金', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128471792.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京移数通电讯有限公司', 'job_name': 'JAVA开发工程师 研发工程师', 'geography': '上海-浦东新区', 'bonus': ['绩效奖金', '全勤奖', '节日福利', '五险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131024559.html?rc=03'}

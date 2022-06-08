@@ -1,0 +1,1 @@
+{'company_name': '四川睿创风行科技有限公司', 'job_name': '渗透测试工程师', 'geography': '成都-高新区', 'bonus': ['定期体检', '员工旅游', '带薪年假', '零食下午茶'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130970908.html?rc=03'}

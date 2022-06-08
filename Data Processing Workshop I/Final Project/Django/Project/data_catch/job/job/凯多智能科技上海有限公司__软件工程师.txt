@@ -1,0 +1,1 @@
+{'company_name': '凯多智能科技上海有限公司', 'job_name': '软件工程师', 'geography': '异地招聘', 'bonus': ['员工旅游', '绩效奖金', '做五休二', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120864143.html?rc=03'}

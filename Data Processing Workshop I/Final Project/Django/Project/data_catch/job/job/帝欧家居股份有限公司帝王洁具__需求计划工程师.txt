@@ -1,0 +1,1 @@
+{'company_name': '帝欧家居股份有限公司帝王洁具', 'job_name': '需求计划工程师', 'geography': '成都-简阳市', 'bonus': ['五险一金', '绩效奖金', '带薪年假', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130548195.html?rc=03'}

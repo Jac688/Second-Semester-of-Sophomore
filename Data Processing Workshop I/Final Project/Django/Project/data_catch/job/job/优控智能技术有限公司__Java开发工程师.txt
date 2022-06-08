@@ -1,0 +1,1 @@
+{'company_name': '优控智能技术有限公司', 'job_name': 'Java开发工程师', 'geography': '杭州-富阳区', 'bonus': ['通讯补贴', '餐饮补贴', '交通补贴', '五险一金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/116626931.html?rc=03'}

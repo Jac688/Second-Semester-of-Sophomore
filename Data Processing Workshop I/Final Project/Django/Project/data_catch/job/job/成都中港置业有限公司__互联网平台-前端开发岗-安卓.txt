@@ -1,0 +1,1 @@
+{'company_name': '成都中港置业有限公司', 'job_name': '互联网平台-前端开发岗-安卓', 'geography': '成都-锦江区', 'bonus': [], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130722289.html?rc=03'}

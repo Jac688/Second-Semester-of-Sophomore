@@ -1,0 +1,1 @@
+{'company_name': '广西标签网络科技有限公司', 'job_name': '微信小程序开发工程师', 'geography': '柳州', 'bonus': ['补充医疗保险', '专业培训', '通讯补贴', '餐饮补贴'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/liuzhou/103984557.html?rc=03'}

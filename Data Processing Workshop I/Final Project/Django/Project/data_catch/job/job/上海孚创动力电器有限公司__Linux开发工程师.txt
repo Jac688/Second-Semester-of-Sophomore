@@ -1,0 +1,1 @@
+{'company_name': '上海孚创动力电器有限公司', 'job_name': 'Linux开发工程师', 'geography': '上海', 'bonus': ['五险一金', '弹性工作', '年终奖金', '加班补助'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119952698.html?rc=03'}

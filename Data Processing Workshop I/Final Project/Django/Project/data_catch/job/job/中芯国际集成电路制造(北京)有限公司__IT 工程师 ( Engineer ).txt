@@ -1,0 +1,1 @@
+{'company_name': '中芯国际集成电路制造(北京)有限公司', 'job_name': 'IT 工程师 ( Engineer )', 'geography': '北京-大兴区', 'bonus': ['五险一金', '专业培训', '餐饮补贴', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/109646185.html?rc=03'}

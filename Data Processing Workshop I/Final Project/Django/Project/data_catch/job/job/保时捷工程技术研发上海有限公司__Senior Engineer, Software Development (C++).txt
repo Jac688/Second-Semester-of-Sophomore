@@ -1,0 +1,1 @@
+{'company_name': '保时捷工程技术研发上海有限公司', 'job_name': 'Senior Engineer, Software Development (C++)', 'geography': '上海-嘉定区', 'bonus': ['周末双休', '做五休二', '带薪年假'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128854700.html?rc=03'}

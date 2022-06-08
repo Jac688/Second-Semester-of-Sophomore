@@ -1,0 +1,1 @@
+{'company_name': '东海期货有限责任公司', 'job_name': '东海资本 量化策略开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充公积金', '年终奖金', '通讯补贴'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123876749.html?rc=03'}

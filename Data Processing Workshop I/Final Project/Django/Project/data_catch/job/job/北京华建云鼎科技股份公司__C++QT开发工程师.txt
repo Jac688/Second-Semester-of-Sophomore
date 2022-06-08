@@ -1,0 +1,1 @@
+{'company_name': '北京华建云鼎科技股份公司', 'job_name': 'C++QT开发工程师', 'geography': '北京-海淀区', 'bonus': ['周末双休', '五险一金', '节日福利', '餐饮补贴'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128435228.html?rc=03'}

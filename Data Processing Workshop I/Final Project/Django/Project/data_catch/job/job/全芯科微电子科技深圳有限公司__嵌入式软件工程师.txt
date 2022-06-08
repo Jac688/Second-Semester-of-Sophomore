@@ -1,0 +1,1 @@
+{'company_name': '全芯科微电子科技深圳有限公司', 'job_name': '嵌入式软件工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '餐饮补贴'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131738650.html?rc=03'}

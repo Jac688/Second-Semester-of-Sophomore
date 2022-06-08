@@ -1,0 +1,1 @@
+{'company_name': '上海宽文是风软件有限公司', 'job_name': 'C++开发工程师', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '免费班车', '弹性工作', '定期体检'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130159983.html?rc=03'}

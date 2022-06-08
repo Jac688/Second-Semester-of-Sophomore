@@ -1,0 +1,1 @@
+{'company_name': '四川锐狐网络科技有限公司', 'job_name': 'Java开发中高级软件工程师周末双休+五险一金', 'geography': '成都', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130158879.html?rc=03'}

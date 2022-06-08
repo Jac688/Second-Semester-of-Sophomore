@@ -1,0 +1,1 @@
+{'company_name': '上海一机游信息技术有限公司', 'job_name': '资深前端工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '工作午餐', '弹性工作', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130648163.html?rc=03'}

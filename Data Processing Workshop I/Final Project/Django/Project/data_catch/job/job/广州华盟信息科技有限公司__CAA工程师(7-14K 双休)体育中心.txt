@@ -1,0 +1,1 @@
+{'company_name': '广州华盟信息科技有限公司', 'job_name': 'CAA工程师(7-14K 双休)体育中心', 'geography': '异地招聘', 'bonus': ['周末双休', '带薪年假', '绩效奖金', '全勤奖'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/119992647.html?rc=03'}

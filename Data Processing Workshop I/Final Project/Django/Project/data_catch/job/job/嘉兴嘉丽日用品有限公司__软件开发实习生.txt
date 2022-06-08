@@ -1,0 +1,1 @@
+{'company_name': '嘉兴嘉丽日用品有限公司', 'job_name': '软件开发实习生', 'geography': '嘉兴', 'bonus': [], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/129056443.html?rc=03'}

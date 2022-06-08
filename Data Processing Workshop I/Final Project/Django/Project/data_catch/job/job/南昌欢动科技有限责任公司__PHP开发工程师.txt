@@ -1,0 +1,1 @@
+{'company_name': '南昌欢动科技有限责任公司', 'job_name': 'PHP开发工程师', 'geography': '南昌-青云谱区', 'bonus': ['五险', '国外假期', '单双休', '各种补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/129829962.html?rc=03'}

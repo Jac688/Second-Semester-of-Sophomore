@@ -1,0 +1,1 @@
+{'company_name': '予果生物科技北京有限公司', 'job_name': '算法工程师', 'geography': '北京-大兴区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130888227.html?rc=03'}

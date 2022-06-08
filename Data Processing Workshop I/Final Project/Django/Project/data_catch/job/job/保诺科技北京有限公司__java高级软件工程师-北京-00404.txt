@@ -1,0 +1,1 @@
+{'company_name': '保诺科技北京有限公司', 'job_name': 'java高级软件工程师-北京-00404', 'geography': '北京-昌平区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/beijing/113941954.html?rc=03'}

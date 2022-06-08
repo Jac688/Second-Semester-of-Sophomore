@@ -1,0 +1,1 @@
+{'company_name': '上海震旦办公自动化销售有限公司', 'job_name': '系统分析师', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '专业培训', '年终奖金', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130860618.html?rc=03'}

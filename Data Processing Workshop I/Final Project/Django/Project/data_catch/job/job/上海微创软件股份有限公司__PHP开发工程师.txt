@@ -1,0 +1,1 @@
+{'company_name': '上海微创软件股份有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '弹性工作'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131547342.html?rc=03'}

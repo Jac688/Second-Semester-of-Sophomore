@@ -1,0 +1,1 @@
+{'company_name': '北京美科艺数码科技发展有限公司', 'job_name': '软件工程师C++天津', 'geography': '天津-和平区', 'bonus': ['五险一金', '带薪年假'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/128805011.html?rc=03'}

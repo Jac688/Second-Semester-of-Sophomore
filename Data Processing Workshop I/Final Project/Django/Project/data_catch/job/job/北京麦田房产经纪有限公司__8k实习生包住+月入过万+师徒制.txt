@@ -1,0 +1,1 @@
+{'company_name': '北京麦田房产经纪有限公司', 'job_name': '8k实习生包住+月入过万+师徒制', 'geography': '北京-通州区', 'bonus': ['员工旅游', '弹性工作', '住房补贴', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131093773.html?rc=03'}

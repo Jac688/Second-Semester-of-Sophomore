@@ -1,0 +1,1 @@
+{'company_name': '上海金魔方实业集团文化传媒有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '员工旅游'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132151864.html?rc=03'}

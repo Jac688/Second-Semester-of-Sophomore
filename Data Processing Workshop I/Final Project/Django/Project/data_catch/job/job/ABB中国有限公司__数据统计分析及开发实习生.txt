@@ -1,0 +1,1 @@
+{'company_name': 'ABB中国有限公司', 'job_name': '数据统计分析及开发实习生', 'geography': '江门', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '专业培训'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/jiangmen/132127609.html?rc=03'}

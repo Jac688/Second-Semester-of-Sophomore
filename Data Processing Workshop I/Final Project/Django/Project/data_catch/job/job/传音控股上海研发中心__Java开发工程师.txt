@@ -1,0 +1,1 @@
+{'company_name': '传音控股上海研发中心', 'job_name': 'Java开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127214938.html?rc=03'}

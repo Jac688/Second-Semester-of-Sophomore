@@ -1,0 +1,1 @@
+{'company_name': '广东银洋环保新材料有限公司', 'job_name': '数据分析员', 'geography': '佛山-三水区', 'bonus': ['包吃', '买社保', '节日福利', '专业培训'], 'salary': 0.55, 'detail_url': 'https://msearch.51job.com/jobs/foshan/128986265.html?rc=03'}

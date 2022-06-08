@@ -1,0 +1,1 @@
+{'company_name': '东莞市水务集团有限公司', 'job_name': '工程管理处项目软件管理工程师实业公司', 'geography': '东莞', 'bonus': ['绩效奖金', '年终奖金', '餐饮补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/132056937.html?rc=03'}

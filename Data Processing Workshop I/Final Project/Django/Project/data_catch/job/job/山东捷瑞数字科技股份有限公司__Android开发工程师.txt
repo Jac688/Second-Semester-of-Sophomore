@@ -1,0 +1,1 @@
+{'company_name': '山东捷瑞数字科技股份有限公司', 'job_name': 'Android开发工程师', 'geography': '烟台', 'bonus': ['五险一金', '定期体检', '年终奖金', '免费午餐'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/yantai/123874080.html?rc=03'}

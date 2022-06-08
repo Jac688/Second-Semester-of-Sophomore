@@ -1,0 +1,1 @@
+{'company_name': '四川弘和集团', 'job_name': '算法工程师', 'geography': '成都-武侯区', 'bonus': ['周末双休', '绩效奖金', '餐饮补贴', '五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126316123.html?rc=03'}

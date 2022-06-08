@@ -1,0 +1,1 @@
+{'company_name': '上海迅时通信设备有限公司', 'job_name': '嵌入式Linux应用开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '弹性工作', '绩效奖金', '股票期权'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129672808.html?rc=03'}

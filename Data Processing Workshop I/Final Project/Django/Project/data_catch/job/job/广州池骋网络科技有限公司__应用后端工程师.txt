@@ -1,0 +1,1 @@
+{'company_name': '广州池骋网络科技有限公司', 'job_name': '应用后端工程师', 'geography': '广州-天河区', 'bonus': ['周末双休', '弹性工作', '五险一金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129285647.html?rc=03'}

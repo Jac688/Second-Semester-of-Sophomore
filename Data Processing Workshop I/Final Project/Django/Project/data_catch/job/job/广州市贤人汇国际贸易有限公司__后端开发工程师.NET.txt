@@ -1,0 +1,1 @@
+{'company_name': '广州市贤人汇国际贸易有限公司', 'job_name': '后端开发工程师.NET', 'geography': '广州-海珠区', 'bonus': ['周末双休', '绩效奖金', '全勤奖', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128289631.html?rc=03'}

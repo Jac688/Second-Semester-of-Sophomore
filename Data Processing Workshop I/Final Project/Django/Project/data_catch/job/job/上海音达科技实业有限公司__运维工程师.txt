@@ -1,0 +1,1 @@
+{'company_name': '上海音达科技实业有限公司', 'job_name': '运维工程师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '年终奖金', '定期体检', '员工旅游'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130357122.html?rc=03'}

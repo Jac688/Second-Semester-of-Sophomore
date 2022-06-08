@@ -1,0 +1,1 @@
+{'company_name': '先临三维科技股份有限公司', 'job_name': 'Linux嵌入式软件工程师', 'geography': '天津-津南区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129793727.html?rc=03'}

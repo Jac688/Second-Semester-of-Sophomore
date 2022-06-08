@@ -1,0 +1,1 @@
+{'company_name': '中国太平保险集团稽核中心', 'job_name': '西部区域中心-稽核岗', 'geography': '成都', 'bonus': ['五险一金', '绩效奖金', '补充商业保险', '企业年金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132183060.html?rc=03'}

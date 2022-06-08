@@ -1,0 +1,1 @@
+{'company_name': '宁波普锐明汽车零部件有限公司', 'job_name': '003Phthon开发工程师社招', 'geography': '宁波', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130762217.html?rc=03'}

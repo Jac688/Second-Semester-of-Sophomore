@@ -1,0 +1,1 @@
+{'company_name': '创维集团科技园管理有限公司', 'job_name': 'java后端开发工程师', 'geography': '深圳-宝安区', 'bonus': ['六险一金', '年终奖金', '项目奖金', '话费补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/122589719.html?rc=03'}

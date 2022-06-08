@@ -1,0 +1,1 @@
+{'company_name': '北京大地盛业房地产土地评估有限公司', 'job_name': '高级JAVA开发工程师', 'geography': '北京-通州区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128299871.html?rc=03'}

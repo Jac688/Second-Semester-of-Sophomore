@@ -1,0 +1,1 @@
+{'company_name': '威讯柏睿数据科技北京有限公司', 'job_name': 'CC++软件开发工程师成都', 'geography': '成都-高新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130539948.html?rc=03'}

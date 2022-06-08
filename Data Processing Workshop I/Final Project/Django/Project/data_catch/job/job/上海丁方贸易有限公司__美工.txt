@@ -1,0 +1,1 @@
+{'company_name': '上海丁方贸易有限公司', 'job_name': '美工', 'geography': '上海-浦东新区', 'bonus': ['弹性工作', '节日福利', '专业培训', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/119776929.html?rc=03'}

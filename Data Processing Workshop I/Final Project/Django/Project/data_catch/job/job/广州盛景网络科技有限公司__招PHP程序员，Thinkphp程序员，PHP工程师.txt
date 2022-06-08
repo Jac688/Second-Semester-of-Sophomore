@@ -1,0 +1,1 @@
+{'company_name': '广州盛景网络科技有限公司', 'job_name': '招PHP程序员，Thinkphp程序员，PHP工程师', 'geography': '广州-越秀区', 'bonus': ['员工旅游', '年终奖金', '五险一金', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/126881962.html?rc=03'}

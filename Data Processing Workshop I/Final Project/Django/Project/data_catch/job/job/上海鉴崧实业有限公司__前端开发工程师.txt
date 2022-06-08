@@ -1,0 +1,1 @@
+{'company_name': '上海鉴崧实业有限公司', 'job_name': '前端开发工程师', 'geography': '上海-松江区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128950356.html?rc=03'}

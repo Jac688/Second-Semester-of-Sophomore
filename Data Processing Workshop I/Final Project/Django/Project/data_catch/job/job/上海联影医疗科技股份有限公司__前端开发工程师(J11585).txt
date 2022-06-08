@@ -1,0 +1,1 @@
+{'company_name': '上海联影医疗科技股份有限公司', 'job_name': '前端开发工程师(J11585)', 'geography': '上海-嘉定区', 'bonus': [], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130753876.html?rc=03'}

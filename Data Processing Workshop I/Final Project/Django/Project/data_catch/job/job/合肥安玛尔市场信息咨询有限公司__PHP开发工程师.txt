@@ -1,0 +1,1 @@
+{'company_name': '合肥安玛尔市场信息咨询有限公司', 'job_name': 'PHP开发工程师', 'geography': '合肥-蜀山区', 'bonus': ['周末双休', '五险', '员工旅游', '节日福利'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hefei/131759874.html?rc=03'}

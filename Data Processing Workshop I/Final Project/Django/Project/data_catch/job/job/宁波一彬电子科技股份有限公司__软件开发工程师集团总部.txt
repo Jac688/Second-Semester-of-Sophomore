@@ -1,0 +1,1 @@
+{'company_name': '宁波一彬电子科技股份有限公司', 'job_name': '软件开发工程师集团总部', 'geography': '宁波', 'bonus': ['五险一金', '交通补贴', '定期体检', '员工旅游'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/106943379.html?rc=03'}

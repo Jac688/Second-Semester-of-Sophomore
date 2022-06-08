@@ -1,0 +1,1 @@
+{'company_name': '宁波市斯汀教育科技有限公司', 'job_name': '少儿编程老师，计算机编程老师', 'geography': '宁波-海曙区', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128701679.html?rc=03'}

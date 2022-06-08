@@ -1,0 +1,1 @@
+{'company_name': '广东中汇云梯科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '佛山-禅城区', 'bonus': ['五险一金', '员工旅游', '专业培训', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/124597665.html?rc=03'}

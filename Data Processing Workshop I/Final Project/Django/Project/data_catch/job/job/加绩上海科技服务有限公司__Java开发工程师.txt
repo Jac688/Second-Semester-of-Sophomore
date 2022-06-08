@@ -1,0 +1,1 @@
+{'company_name': '加绩上海科技服务有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '专业培训'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130334174.html?rc=03'}

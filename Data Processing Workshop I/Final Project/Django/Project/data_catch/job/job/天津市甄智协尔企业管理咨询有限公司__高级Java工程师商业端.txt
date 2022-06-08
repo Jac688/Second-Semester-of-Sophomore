@@ -1,0 +1,1 @@
+{'company_name': '天津市甄智协尔企业管理咨询有限公司', 'job_name': '高级Java工程师商业端', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129557562.html?rc=03'}

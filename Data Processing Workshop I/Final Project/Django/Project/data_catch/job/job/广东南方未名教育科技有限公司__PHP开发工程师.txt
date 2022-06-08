@@ -1,0 +1,1 @@
+{'company_name': '广东南方未名教育科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-白云区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '房补'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127755080.html?rc=03'}

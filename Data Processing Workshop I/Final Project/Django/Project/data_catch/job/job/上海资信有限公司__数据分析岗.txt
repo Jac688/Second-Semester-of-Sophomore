@@ -1,0 +1,1 @@
+{'company_name': '上海资信有限公司', 'job_name': '数据分析岗', 'geography': '上海', 'bonus': ['专业培训', '带薪年假', '五险一金', '免费班车'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132310560.html?rc=03'}

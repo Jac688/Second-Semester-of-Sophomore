@@ -1,0 +1,1 @@
+{'company_name': '北京石大万嘉新材料科技有限公司', 'job_name': '网络运维文案管理工程师房山', 'geography': '北京-房山区', 'bonus': ['绩效奖金', '五险', '周末双休', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128367040.html?rc=03'}

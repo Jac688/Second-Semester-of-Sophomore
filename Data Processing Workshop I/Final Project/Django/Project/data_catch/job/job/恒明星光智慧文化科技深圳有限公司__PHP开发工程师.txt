@@ -1,0 +1,1 @@
+{'company_name': '恒明星光智慧文化科技深圳有限公司', 'job_name': 'PHP开发工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '补充公积金', '员工旅游', '绩效奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/120326576.html?rc=03'}

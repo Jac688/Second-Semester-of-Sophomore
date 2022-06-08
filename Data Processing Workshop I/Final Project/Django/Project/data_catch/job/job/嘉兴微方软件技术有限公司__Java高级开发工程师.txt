@@ -1,0 +1,1 @@
+{'company_name': '嘉兴微方软件技术有限公司', 'job_name': 'Java高级开发工程师', 'geography': '嘉兴', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '定期体检'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/88550190.html?rc=03'}

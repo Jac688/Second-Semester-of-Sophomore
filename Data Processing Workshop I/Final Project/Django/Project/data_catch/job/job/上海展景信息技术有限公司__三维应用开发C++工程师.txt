@@ -1,0 +1,1 @@
+{'company_name': '上海展景信息技术有限公司', 'job_name': '三维应用开发C++工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131672909.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '佛山市锦亨源电子科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '佛山', 'bonus': ['住房补贴', '通讯补贴', '专业培训', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/129347702.html?rc=03'}

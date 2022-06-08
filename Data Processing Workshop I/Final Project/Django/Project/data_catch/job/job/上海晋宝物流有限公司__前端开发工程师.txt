@@ -1,0 +1,1 @@
+{'company_name': '上海晋宝物流有限公司', 'job_name': '前端开发工程师', 'geography': '上海-虹口区', 'bonus': ['绩效奖金', '年终奖金', '员工旅游', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128727808.html?rc=03'}

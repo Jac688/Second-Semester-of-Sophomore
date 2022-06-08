@@ -1,0 +1,1 @@
+{'company_name': '南京杰科丰环保技术装备研究院有限公司', 'job_name': '前端开发工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '通讯补贴', '专业培训', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128830123.html?rc=03'}

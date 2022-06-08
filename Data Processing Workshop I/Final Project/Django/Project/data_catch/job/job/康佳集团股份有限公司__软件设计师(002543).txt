@@ -1,0 +1,1 @@
+{'company_name': '康佳集团股份有限公司', 'job_name': '软件设计师(002543)', 'geography': '深圳-南山区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131288038.html?rc=03'}

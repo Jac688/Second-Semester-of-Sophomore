@@ -1,0 +1,1 @@
+{'company_name': '南京英诺森软件科技有限公司', 'job_name': 'Java开发工程师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130619465.html?rc=03'}

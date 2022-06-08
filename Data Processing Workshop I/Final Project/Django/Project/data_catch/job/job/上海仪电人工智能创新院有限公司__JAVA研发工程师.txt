@@ -1,0 +1,1 @@
+{'company_name': '上海仪电人工智能创新院有限公司', 'job_name': 'JAVA研发工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131667680.html?rc=03'}

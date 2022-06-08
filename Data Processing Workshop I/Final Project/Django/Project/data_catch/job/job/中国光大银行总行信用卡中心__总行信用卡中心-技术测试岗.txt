@@ -1,0 +1,1 @@
+{'company_name': '中国光大银行总行信用卡中心', 'job_name': '总行信用卡中心-技术测试岗', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131552277.html?rc=03'}

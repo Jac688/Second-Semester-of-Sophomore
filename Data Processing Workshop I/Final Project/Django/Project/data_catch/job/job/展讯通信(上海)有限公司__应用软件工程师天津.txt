@@ -1,0 +1,1 @@
+{'company_name': '展讯通信(上海)有限公司', 'job_name': '应用软件工程师天津', 'geography': '天津', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/124378321.html?rc=03'}

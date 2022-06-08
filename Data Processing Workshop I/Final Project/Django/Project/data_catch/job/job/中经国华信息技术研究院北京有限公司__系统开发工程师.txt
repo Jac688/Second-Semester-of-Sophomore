@@ -1,0 +1,1 @@
+{'company_name': '中经国华信息技术研究院北京有限公司', 'job_name': '系统开发工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131790132.html?rc=03'}

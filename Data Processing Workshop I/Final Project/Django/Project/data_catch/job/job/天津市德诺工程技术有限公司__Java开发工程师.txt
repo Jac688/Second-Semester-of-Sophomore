@@ -1,0 +1,1 @@
+{'company_name': '天津市德诺工程技术有限公司', 'job_name': 'Java开发工程师', 'geography': '天津-武清区', 'bonus': ['五险一金', '法定节假日', '六日双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131530860.html?rc=03'}

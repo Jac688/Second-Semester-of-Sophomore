@@ -1,0 +1,1 @@
+{'company_name': '云茂电子(南通)有限公司', 'job_name': 'java开发', 'geography': '南通', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nantong/129788131.html?rc=03'}

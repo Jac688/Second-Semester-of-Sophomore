@@ -1,0 +1,1 @@
+{'company_name': '同方知网北京技术有限公司山东分公司', 'job_name': '研发工程师', 'geography': '济南', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/128367530.html?rc=03'}

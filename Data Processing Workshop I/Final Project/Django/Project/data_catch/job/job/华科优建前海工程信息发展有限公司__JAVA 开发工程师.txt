@@ -1,0 +1,1 @@
+{'company_name': '华科优建前海工程信息发展有限公司', 'job_name': 'JAVA 开发工程师', 'geography': '广州-天河区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/120519406.html?rc=03'}

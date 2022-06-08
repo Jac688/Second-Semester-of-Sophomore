@@ -1,0 +1,1 @@
+{'company_name': '中汇会计师事务所特殊普通合伙', 'job_name': 'Z004 java开发工程师(J10533)', 'geography': '杭州', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129736546.html?rc=03'}

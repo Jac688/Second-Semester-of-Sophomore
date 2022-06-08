@@ -1,0 +1,1 @@
+{'company_name': '四川知周科技有限责任公司', 'job_name': '硬件工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '年终奖金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131115870.html?rc=03'}

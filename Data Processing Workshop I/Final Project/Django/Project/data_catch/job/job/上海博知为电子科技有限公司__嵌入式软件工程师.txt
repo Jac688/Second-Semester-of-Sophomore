@@ -1,0 +1,1 @@
+{'company_name': '上海博知为电子科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '青岛-市南区', 'bonus': ['五险一金', '员工旅游', '专业培训', '牛人带队'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/117547829.html?rc=03'}

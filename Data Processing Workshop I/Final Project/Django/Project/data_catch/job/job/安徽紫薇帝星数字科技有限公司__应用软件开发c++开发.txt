@@ -1,0 +1,1 @@
+{'company_name': '安徽紫薇帝星数字科技有限公司', 'job_name': '应用软件开发c++开发', 'geography': '合肥-高新区', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hefei/118170283.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京欣奕华科技有限公司', 'job_name': '应届生-硕、博-人工智能-算法工程师', 'geography': '异地招聘', 'bonus': ['通讯补贴', '年终奖金', '定期体检', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/130100100.html?rc=03'}

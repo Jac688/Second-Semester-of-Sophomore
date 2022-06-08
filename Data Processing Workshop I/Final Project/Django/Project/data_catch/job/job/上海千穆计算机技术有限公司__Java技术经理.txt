@@ -1,0 +1,1 @@
+{'company_name': '上海千穆计算机技术有限公司', 'job_name': 'Java技术经理', 'geography': '西安', 'bonus': ['五险一金', '员工旅游', '定期体检', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/xian/122927734.html?rc=03'}

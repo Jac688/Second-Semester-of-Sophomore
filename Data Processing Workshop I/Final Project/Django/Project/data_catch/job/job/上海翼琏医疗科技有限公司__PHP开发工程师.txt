@@ -1,0 +1,1 @@
+{'company_name': '上海翼琏医疗科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '国定假日', '弹性工作', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128856640.html?rc=03'}

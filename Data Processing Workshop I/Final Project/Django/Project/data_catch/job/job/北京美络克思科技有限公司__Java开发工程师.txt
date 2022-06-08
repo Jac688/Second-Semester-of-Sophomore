@@ -1,0 +1,1 @@
+{'company_name': '北京美络克思科技有限公司', 'job_name': 'Java开发工程师', 'geography': '北京', 'bonus': ['五险', '节日福利', '通讯补贴', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124119365.html?rc=03'}

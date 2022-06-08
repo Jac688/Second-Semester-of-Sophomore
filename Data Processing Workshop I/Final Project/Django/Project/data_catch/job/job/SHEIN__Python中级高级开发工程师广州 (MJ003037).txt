@@ -1,0 +1,1 @@
+{'company_name': 'SHEIN', 'job_name': 'Python中级高级开发工程师广州 (MJ003037)', 'geography': '异地招聘', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131716249.html?rc=03'}

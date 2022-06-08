@@ -1,0 +1,1 @@
+{'company_name': '云医购平台科技杭州集团有限公司', 'job_name': 'C#开发工程师', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/126890320.html?rc=03'}

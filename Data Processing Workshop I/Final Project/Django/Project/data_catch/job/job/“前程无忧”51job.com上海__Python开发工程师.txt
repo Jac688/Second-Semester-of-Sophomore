@@ -1,0 +1,1 @@
+{'company_name': '“前程无忧”51job.com上海', 'job_name': 'Python开发工程师', 'geography': '上海', 'bonus': ['五险一金', '专业培训', '定期体检', '周末双休'], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/115980776.html?rc=03'}

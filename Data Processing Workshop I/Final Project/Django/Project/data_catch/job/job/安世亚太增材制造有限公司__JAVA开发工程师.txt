@@ -1,0 +1,1 @@
+{'company_name': '安世亚太增材制造有限公司', 'job_name': 'JAVA开发工程师', 'geography': '杭州-萧山区', 'bonus': ['五险一金', '员工旅游', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/123211234.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州市光大电力工程有限公司', 'job_name': '电力智能运维工程师', 'geography': '广州-黄埔区', 'bonus': ['年终奖金', '绩效奖金', '交通补贴', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122472954.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海澜博半导体设备有限公司', 'job_name': '软件工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '员工旅游', '节日福利', '带薪年假'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128147652.html?rc=03'}

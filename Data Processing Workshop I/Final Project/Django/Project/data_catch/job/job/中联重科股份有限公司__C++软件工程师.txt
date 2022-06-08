@@ -1,0 +1,1 @@
+{'company_name': '中联重科股份有限公司', 'job_name': 'C++软件工程师', 'geography': '长沙', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/changsha/123730469.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东和诚信息技术有限公司', 'job_name': 'Java工程师高级', 'geography': '惠州', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/90828777.html?rc=03'}

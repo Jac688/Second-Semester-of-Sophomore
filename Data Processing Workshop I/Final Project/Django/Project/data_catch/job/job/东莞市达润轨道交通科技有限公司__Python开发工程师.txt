@@ -1,0 +1,1 @@
+{'company_name': '东莞市达润轨道交通科技有限公司', 'job_name': 'Python开发工程师', 'geography': '东莞-常平镇', 'bonus': ['五险一金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/119462879.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '慢钱科技控股集团有限公司', 'job_name': 'Java高级开发工程师', 'geography': '深圳', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '股票期权'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130446377.html?rc=03'}

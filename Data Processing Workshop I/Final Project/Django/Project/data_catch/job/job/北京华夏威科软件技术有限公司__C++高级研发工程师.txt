@@ -1,0 +1,1 @@
+{'company_name': '北京华夏威科软件技术有限公司', 'job_name': 'C++高级研发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128951571.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '平湖波汇通信科技有限公司', 'job_name': '软件工程师科谱', 'geography': '嘉兴', 'bonus': ['五险一金', '定期体检', '补充医疗保险', '员工旅游'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/123380221.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '感图网络科技有限公司', 'job_name': '中级算法开发python', 'geography': '无锡-滨湖区', 'bonus': ['五险一金', '周末双休', '年终奖金', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/131501278.html?rc=03'}

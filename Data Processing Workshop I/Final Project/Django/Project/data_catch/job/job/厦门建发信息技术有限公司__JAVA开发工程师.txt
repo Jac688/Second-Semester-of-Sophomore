@@ -1,0 +1,1 @@
+{'company_name': '厦门建发信息技术有限公司', 'job_name': 'JAVA开发工程师', 'geography': '厦门-思明区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '交通补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/132093049.html?rc=03'}

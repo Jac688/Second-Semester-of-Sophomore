@@ -1,0 +1,1 @@
+{'company_name': '南京九洲会计咨询有限公司', 'job_name': 'Java中级开发工程师', 'geography': '南京-秦淮区', 'bonus': ['年终奖金', '节日福利', '五险一金', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/120922814.html?rc=03'}

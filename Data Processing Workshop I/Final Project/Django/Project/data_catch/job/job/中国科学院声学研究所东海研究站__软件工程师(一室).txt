@@ -1,0 +1,1 @@
+{'company_name': '中国科学院声学研究所东海研究站', 'job_name': '软件工程师(一室)', 'geography': '上海-嘉定区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/113268573.html?rc=03'}

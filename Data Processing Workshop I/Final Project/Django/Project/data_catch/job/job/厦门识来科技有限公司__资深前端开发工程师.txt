@@ -1,0 +1,1 @@
+{'company_name': '厦门识来科技有限公司', 'job_name': '资深前端开发工程师', 'geography': '厦门-湖里区', 'bonus': ['交通补贴', '通讯补贴', '弹性工作', '带薪年假'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/130221579.html?rc=03'}

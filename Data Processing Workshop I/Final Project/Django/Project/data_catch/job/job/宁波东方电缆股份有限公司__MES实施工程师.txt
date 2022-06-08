@@ -1,0 +1,1 @@
+{'company_name': '宁波东方电缆股份有限公司', 'job_name': 'MES实施工程师', 'geography': '宁波-北仑区', 'bonus': ['五险一金', '节日福利', '加班补贴', '高温补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125239538.html?rc=03'}

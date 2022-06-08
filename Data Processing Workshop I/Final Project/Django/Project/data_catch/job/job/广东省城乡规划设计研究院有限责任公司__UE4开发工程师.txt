@@ -1,0 +1,1 @@
+{'company_name': '广东省城乡规划设计研究院有限责任公司', 'job_name': 'UE4开发工程师', 'geography': '广州-海珠区', 'bonus': ['专业培训', '免费工作餐', '通讯费报销', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131122734.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '安徽百得思维信息科技有限公司', 'job_name': 'C++开发工程师', 'geography': '合肥-蜀山区', 'bonus': ['五险一金', '双休', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hefei/129146372.html?rc=03'}

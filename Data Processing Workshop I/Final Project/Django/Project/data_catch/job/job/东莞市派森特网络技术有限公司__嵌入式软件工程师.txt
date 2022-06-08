@@ -1,0 +1,1 @@
+{'company_name': '东莞市派森特网络技术有限公司', 'job_name': '嵌入式软件工程师', 'geography': '东莞-大岭山镇', 'bonus': ['带薪年假', '节日福利', '餐饮补贴', '五险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/122486229.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '业如金融控股有限公司', 'job_name': '系统开发与维护岗(J11882)', 'geography': '重庆-渝北区', 'bonus': ['五险一金', '免费班车', '员工旅游', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131616115.html?rc=03'}

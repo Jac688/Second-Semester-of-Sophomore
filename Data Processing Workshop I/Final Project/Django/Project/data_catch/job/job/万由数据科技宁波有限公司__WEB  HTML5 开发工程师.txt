@@ -1,0 +1,1 @@
+{'company_name': '万由数据科技宁波有限公司', 'job_name': 'WEB  HTML5 开发工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '员工旅游', '专业培训', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129479944.html?rc=03'}

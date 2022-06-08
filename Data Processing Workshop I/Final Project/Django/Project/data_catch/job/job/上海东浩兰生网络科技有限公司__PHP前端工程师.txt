@@ -1,0 +1,1 @@
+{'company_name': '上海东浩兰生网络科技有限公司', 'job_name': 'PHP前端工程师', 'geography': '上海-虹口区', 'bonus': ['五险一金', '专业培训', '定期体检', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131767370.html?rc=03'}

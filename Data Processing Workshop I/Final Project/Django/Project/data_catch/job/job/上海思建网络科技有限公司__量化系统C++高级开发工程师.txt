@@ -1,0 +1,1 @@
+{'company_name': '上海思建网络科技有限公司', 'job_name': '量化系统C++高级开发工程师', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '年终奖金', '定期团建', '免费零食饮料'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129552672.html?rc=03'}

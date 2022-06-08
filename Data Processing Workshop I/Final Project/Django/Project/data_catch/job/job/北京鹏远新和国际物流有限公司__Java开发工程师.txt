@@ -1,0 +1,1 @@
+{'company_name': '北京鹏远新和国际物流有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '带薪年假', '高温补贴', '旅游团建'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131391650.html?rc=03'}

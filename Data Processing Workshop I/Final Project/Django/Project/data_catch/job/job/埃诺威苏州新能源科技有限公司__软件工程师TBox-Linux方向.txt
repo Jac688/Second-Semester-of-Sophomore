@@ -1,0 +1,1 @@
+{'company_name': '埃诺威苏州新能源科技有限公司', 'job_name': '软件工程师TBox-Linux方向', 'geography': '苏州-吴中区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '绩效奖金'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/122723734.html?rc=03'}

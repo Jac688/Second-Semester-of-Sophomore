@@ -1,0 +1,1 @@
+{'company_name': '上海龙辕供应链管理有限公司', 'job_name': 'PHP高级工程师', 'geography': '上海-虹口区', 'bonus': ['弹性工作', '带薪年假', '绩效奖金', '全勤奖'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123507905.html?rc=03'}

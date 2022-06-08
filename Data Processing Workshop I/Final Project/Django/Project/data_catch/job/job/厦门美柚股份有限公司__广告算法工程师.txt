@@ -1,0 +1,1 @@
+{'company_name': '厦门美柚股份有限公司', 'job_name': '广告算法工程师', 'geography': '厦门-思明区', 'bonus': ['六险一金', '免费班车', '年终奖金', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/131485368.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波天资人力资源服务有限公司', 'job_name': '工程项目经理', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127210237.html?rc=03'}

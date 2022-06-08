@@ -1,0 +1,1 @@
+{'company_name': '惠氏制药有限公司', 'job_name': '生产技术员', 'geography': '苏州', 'bonus': ['五险一金', '补充医疗保险', '年终奖金', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/127820288.html?rc=03'}

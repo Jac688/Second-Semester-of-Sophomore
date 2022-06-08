@@ -1,0 +1,1 @@
+{'company_name': '上海金仕达卫宁软件科技有限公司', 'job_name': 'JAVA中级开发工程师', 'geography': '上海-静安区', 'bonus': ['五险一金', '定期体检', '通讯补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130722127.html?rc=03'}

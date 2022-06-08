@@ -1,0 +1,1 @@
+{'company_name': '天津红日药业股份有限公司', 'job_name': 'Java开发工程师(J12896)', 'geography': '杭州-上城区', 'bonus': ['五险一金', '节日福利', '做五休二'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128018210.html?rc=03'}

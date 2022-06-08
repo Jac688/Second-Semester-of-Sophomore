@@ -1,0 +1,1 @@
+{'company_name': '广东华信雅迪斯时装有限公司', 'job_name': '商品运营', 'geography': '广州-海珠区', 'bonus': ['带薪年假', '社保', '节日福利', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129484214.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东热立方热泵系统有限公司', 'job_name': '软件工程师 Soft engineer', 'geography': '异地招聘', 'bonus': ['五险', '员工旅游', '出国机会', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/125891956.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京壳木软件有限责任公司', 'job_name': 'Houdini程序化生成技术美术', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130020926.html?rc=03'}

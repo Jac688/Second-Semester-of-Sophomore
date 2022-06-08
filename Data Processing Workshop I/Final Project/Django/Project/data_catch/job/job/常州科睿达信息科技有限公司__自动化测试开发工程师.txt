@@ -1,0 +1,1 @@
+{'company_name': '常州科睿达信息科技有限公司', 'job_name': '自动化测试开发工程师', 'geography': '东莞-松山湖区', 'bonus': ['五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131895533.html?rc=03'}

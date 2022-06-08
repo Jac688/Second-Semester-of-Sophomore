@@ -1,0 +1,1 @@
+{'company_name': '东莞市好理想软件有限公司', 'job_name': '.NET Core开发工程师', 'geography': '嘉兴', 'bonus': ['绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/130970823.html?rc=03'}

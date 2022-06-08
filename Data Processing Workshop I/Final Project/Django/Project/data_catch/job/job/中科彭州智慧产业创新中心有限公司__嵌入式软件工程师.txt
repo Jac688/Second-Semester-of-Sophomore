@@ -1,0 +1,1 @@
+{'company_name': '中科彭州智慧产业创新中心有限公司', 'job_name': '嵌入式软件工程师', 'geography': '成都-锦江区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131596385.html?rc=03'}

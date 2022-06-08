@@ -1,0 +1,1 @@
+{'company_name': '广东省信息工程有限公司', 'job_name': 'Java高级开发工程师', 'geography': '广州-黄埔区', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/118081985.html?rc=03'}

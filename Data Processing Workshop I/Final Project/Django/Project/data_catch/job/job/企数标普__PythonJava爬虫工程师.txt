@@ -1,0 +1,1 @@
+{'company_name': '企数标普', 'job_name': 'PythonJava爬虫工程师', 'geography': '广州-黄埔区', 'bonus': ['周末双休', '餐饮补贴', '五险一金', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/127289544.html?rc=03'}

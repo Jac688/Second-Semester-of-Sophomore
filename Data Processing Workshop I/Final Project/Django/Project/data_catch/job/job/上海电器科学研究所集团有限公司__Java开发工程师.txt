@@ -1,0 +1,1 @@
+{'company_name': '上海电器科学研究所集团有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '补充公积金', '员工旅游', '交通补贴'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128466382.html?rc=03'}

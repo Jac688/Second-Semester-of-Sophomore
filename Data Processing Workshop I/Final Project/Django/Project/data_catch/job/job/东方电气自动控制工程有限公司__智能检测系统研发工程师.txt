@@ -1,0 +1,1 @@
+{'company_name': '东方电气自动控制工程有限公司', 'job_name': '智能检测系统研发工程师', 'geography': '成都', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130709412.html?rc=03'}

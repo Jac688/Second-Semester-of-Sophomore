@@ -1,0 +1,1 @@
+{'company_name': '中顺洁柔纸业股份有限公司', 'job_name': '中顺洁柔全国网络安全经理--中山', 'geography': '中山', 'bonus': ['五险一金', '定期体检', '节日福利', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/128525782.html?rc=03'}

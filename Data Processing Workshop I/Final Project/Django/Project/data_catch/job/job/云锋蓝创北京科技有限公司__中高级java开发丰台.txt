@@ -1,0 +1,1 @@
+{'company_name': '云锋蓝创北京科技有限公司', 'job_name': '中高级java开发丰台', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '弹性工作', '年终奖金', '员工旅游'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129947968.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '信达期货有限公司', 'job_name': '网络推广主管', 'geography': '杭州-萧山区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131460191.html?rc=03'}

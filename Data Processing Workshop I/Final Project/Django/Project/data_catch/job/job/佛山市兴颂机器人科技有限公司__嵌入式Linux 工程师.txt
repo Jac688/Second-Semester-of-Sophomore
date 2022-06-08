@@ -1,0 +1,1 @@
+{'company_name': '佛山市兴颂机器人科技有限公司', 'job_name': '嵌入式Linux 工程师', 'geography': '佛山-顺德区', 'bonus': ['补充医疗保险', '员工旅游', '餐饮补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131427844.html?rc=03'}

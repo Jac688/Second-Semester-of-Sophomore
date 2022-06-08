@@ -1,0 +1,1 @@
+{'company_name': '华夏航空股份有限公司', 'job_name': '研发工程师后端-python(J10148)', 'geography': '重庆', 'bonus': ['五险一金', '带薪年假', '节日福利', '免费班车'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/130536324.html?rc=03'}

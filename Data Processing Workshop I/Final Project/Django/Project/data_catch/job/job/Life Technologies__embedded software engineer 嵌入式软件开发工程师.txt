@@ -1,0 +1,1 @@
+{'company_name': 'Life Technologies', 'job_name': 'embedded software engineer 嵌入式软件开发工程师', 'geography': '苏州-高新区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/130727240.html?rc=03'}

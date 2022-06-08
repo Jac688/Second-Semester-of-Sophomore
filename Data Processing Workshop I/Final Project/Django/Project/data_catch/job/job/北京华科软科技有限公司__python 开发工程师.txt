@@ -1,0 +1,1 @@
+{'company_name': '北京华科软科技有限公司', 'job_name': 'python 开发工程师', 'geography': '西安-雁塔区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xian/131749810.html?rc=03'}

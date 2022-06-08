@@ -1,0 +1,1 @@
+{'company_name': '安徽银通物联有限公司', 'job_name': 'C++软件工程师', 'geography': '合肥-瑶海区', 'bonus': ['五险一金', '周末双休', '年终奖金', '项目奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hefei/104801042.html?rc=03'}

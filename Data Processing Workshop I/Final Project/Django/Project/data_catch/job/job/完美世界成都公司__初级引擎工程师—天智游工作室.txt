@@ -1,0 +1,1 @@
+{'company_name': '完美世界成都公司', 'job_name': '初级引擎工程师—天智游工作室', 'geography': '成都', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129549266.html?rc=03'}

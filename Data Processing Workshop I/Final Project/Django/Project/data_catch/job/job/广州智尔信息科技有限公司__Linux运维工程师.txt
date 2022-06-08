@@ -1,0 +1,1 @@
+{'company_name': '广州智尔信息科技有限公司', 'job_name': 'Linux运维工程师', 'geography': '广州-番禺区', 'bonus': ['专业培训', '年终奖金', '分红', '节日福利'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132192155.html?rc=03'}

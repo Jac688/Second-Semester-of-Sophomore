@@ -1,0 +1,1 @@
+{'company_name': '南威软件集团', 'job_name': '软件项目经理', 'geography': '南宁', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanning/128201264.html?rc=03'}

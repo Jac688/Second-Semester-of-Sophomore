@@ -1,0 +1,1 @@
+{'company_name': '宁波钰诚企业管理咨询有限公司', 'job_name': '嵌入式软件工程师-上市公司，双休', 'geography': '宁波', 'bonus': ['五险一金', '周末双休', '年终奖金', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/110372353.html?rc=03'}

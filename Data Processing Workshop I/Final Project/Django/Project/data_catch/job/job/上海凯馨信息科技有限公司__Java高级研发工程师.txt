@@ -1,0 +1,1 @@
+{'company_name': '上海凯馨信息科技有限公司', 'job_name': 'Java高级研发工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125840355.html?rc=03'}

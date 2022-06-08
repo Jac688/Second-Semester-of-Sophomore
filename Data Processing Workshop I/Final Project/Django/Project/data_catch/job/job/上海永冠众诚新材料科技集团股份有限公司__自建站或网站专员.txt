@@ -1,0 +1,1 @@
+{'company_name': '上海永冠众诚新材料科技集团股份有限公司', 'job_name': '自建站或网站专员', 'geography': '上海-青浦区', 'bonus': ['做五休二', '包住宿', '五险一金', '包吃'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130906774.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海保隆汽车科技股份有限公司', 'job_name': '嵌入式软件开发工程师(ADAS)', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '绩效奖金', '节日福利', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131318366.html?rc=03'}

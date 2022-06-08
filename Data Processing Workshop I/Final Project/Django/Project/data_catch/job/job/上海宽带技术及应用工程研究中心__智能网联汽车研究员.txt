@@ -1,0 +1,1 @@
+{'company_name': '上海宽带技术及应用工程研究中心', 'job_name': '智能网联汽车研究员', 'geography': '上海-静安区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '出国机会'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125028600.html?rc=03'}

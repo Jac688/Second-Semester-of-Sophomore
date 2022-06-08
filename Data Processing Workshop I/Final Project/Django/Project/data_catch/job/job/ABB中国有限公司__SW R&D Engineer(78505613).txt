@@ -1,0 +1,1 @@
+{'company_name': 'ABB中国有限公司', 'job_name': 'SW R&D Engineer(78505613)', 'geography': '厦门', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/131138962.html?rc=03'}

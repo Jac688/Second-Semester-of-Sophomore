@@ -1,0 +1,1 @@
+{'company_name': '卡悦网络科技', 'job_name': '.NET开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '通讯补贴', '员工旅游', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131730148.html?rc=03'}

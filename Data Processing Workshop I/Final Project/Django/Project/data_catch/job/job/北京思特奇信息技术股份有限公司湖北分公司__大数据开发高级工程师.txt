@@ -1,0 +1,1 @@
+{'company_name': '北京思特奇信息技术股份有限公司湖北分公司', 'job_name': '大数据开发高级工程师', 'geography': '武汉', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/123514751.html?rc=03'}

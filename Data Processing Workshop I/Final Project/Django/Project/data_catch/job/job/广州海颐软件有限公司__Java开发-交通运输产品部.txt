@@ -1,0 +1,1 @@
+{'company_name': '广州海颐软件有限公司', 'job_name': 'Java开发-交通运输产品部', 'geography': '广州', 'bonus': ['五险一金', '员工旅游', '年终奖金', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130237062.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海工友天下企业发展集团有限公司', 'job_name': '小程序前端开发工程师', 'geography': '上海-青浦区', 'bonus': ['五险一金', '绩效奖金', '弹性工作', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130558918.html?rc=03'}

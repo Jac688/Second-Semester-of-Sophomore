@@ -1,0 +1,1 @@
+{'company_name': '上海易恒健康生物科技有限公司', 'job_name': 'java主管', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '弹性工作', '专业培训', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127351980.html?rc=03'}

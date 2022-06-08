@@ -1,0 +1,1 @@
+{'company_name': '一令通上海科技有限公司', 'job_name': 'python开发工程师', 'geography': '上海-闵行区', 'bonus': ['带薪年假', '五险一金', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130712331.html?rc=03'}

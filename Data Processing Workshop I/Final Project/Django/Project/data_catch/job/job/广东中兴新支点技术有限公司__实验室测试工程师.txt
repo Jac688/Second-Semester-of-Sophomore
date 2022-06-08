@@ -1,0 +1,1 @@
+{'company_name': '广东中兴新支点技术有限公司', 'job_name': '实验室测试工程师', 'geography': '广州', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '弹性工作'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132154983.html?rc=03'}

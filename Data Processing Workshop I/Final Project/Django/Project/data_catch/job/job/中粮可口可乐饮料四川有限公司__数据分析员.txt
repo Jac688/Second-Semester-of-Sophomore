@@ -1,0 +1,1 @@
+{'company_name': '中粮可口可乐饮料四川有限公司', 'job_name': '数据分析员', 'geography': '成都-金牛区', 'bonus': ['餐饮补贴', '交通补贴', '绩效奖金', '通讯补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/111213067.html?rc=03'}

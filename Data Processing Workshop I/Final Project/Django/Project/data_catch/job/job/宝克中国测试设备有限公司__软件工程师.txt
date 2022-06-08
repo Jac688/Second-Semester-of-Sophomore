@@ -1,0 +1,1 @@
+{'company_name': '宝克中国测试设备有限公司', 'job_name': '软件工程师', 'geography': '无锡-无锡新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/105688144.html?rc=03'}

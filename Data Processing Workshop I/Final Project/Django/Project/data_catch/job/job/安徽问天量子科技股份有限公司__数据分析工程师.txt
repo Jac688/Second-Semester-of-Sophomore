@@ -1,0 +1,1 @@
+{'company_name': '安徽问天量子科技股份有限公司', 'job_name': '数据分析工程师', 'geography': '天津', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131535138.html?rc=03'}

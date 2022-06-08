@@ -1,0 +1,1 @@
+{'company_name': '北京有竹居网络技术有限公司', 'job_name': '紧缺急需岗—计算机科学与技术类', 'geography': '北京-平谷区', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129487720.html?rc=03'}

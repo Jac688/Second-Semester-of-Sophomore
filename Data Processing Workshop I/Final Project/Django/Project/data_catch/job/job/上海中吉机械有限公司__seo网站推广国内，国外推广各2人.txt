@@ -1,0 +1,1 @@
+{'company_name': '上海中吉机械有限公司', 'job_name': 'seo网站推广国内，国外推广各2人', 'geography': '上海', 'bonus': ['节日福利', '五险一金', '包吃', '包住宿'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129381618.html?rc=03'}

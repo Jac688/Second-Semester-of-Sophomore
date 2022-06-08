@@ -1,0 +1,1 @@
+{'company_name': '天津三英精密仪器股份有限公司', 'job_name': '重建算法工程师', 'geography': '天津-东丽区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/111655299.html?rc=03'}

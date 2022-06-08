@@ -1,0 +1,1 @@
+{'company_name': '北京京德致远科技有限公司', 'job_name': '嵌入式 DSP 软件工程师', 'geography': '北京-海淀区', 'bonus': ['带薪年假', '弹性工作', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131317728.html?rc=03'}

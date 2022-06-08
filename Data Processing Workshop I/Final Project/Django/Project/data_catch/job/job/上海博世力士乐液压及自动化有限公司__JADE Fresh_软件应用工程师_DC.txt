@@ -1,0 +1,1 @@
+{'company_name': '上海博世力士乐液压及自动化有限公司', 'job_name': 'JADE Fresh_软件应用工程师_DC', 'geography': '上海', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131404003.html?rc=03'}

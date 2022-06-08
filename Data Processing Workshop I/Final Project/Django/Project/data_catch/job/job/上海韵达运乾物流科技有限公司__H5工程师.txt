@@ -1,0 +1,1 @@
+{'company_name': '上海韵达运乾物流科技有限公司', 'job_name': 'H5工程师', 'geography': '上海-青浦区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126334386.html?rc=03'}

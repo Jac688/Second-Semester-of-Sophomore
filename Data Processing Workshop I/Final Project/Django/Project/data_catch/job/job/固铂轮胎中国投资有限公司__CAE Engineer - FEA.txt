@@ -1,0 +1,1 @@
+{'company_name': '固铂轮胎中国投资有限公司', 'job_name': 'CAE Engineer - FEA', 'geography': '昆山', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/127275106.html?rc=03'}

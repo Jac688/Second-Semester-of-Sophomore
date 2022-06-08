@@ -1,0 +1,1 @@
+{'company_name': '宁波威尔杰企业咨询管理有限公司', 'job_name': '软件工程师B', 'geography': '宁波', 'bonus': ['年终奖金', '五险一金', '节日福利', '高温补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127956240.html?rc=03'}

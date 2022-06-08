@@ -1,0 +1,1 @@
+{'company_name': '上海船用柴油机研究所中国船舶重工集团公司第七一一研究所', 'job_name': '自动化工程事业部-平台后端工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '补充公积金', '补充医疗保险', '免费班车'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131748314.html?rc=03'}

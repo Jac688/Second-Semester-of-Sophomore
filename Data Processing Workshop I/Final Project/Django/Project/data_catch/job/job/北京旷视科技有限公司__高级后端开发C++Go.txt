@@ -1,0 +1,1 @@
+{'company_name': '北京旷视科技有限公司', 'job_name': '高级后端开发C++Go', 'geography': '北京-海淀区', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127890974.html?rc=03'}

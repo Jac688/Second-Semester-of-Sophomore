@@ -1,0 +1,1 @@
+{'company_name': '固德威电源科技广德有限公司深圳分公司', 'job_name': 'DSP软件工程师', 'geography': '深圳-宝安区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125831553.html?rc=03'}

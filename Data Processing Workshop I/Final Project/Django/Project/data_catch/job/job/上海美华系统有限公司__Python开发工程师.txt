@@ -1,0 +1,1 @@
+{'company_name': '上海美华系统有限公司', 'job_name': 'Python开发工程师', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131479099.html?rc=03'}

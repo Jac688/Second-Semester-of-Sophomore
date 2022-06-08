@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': 'C++研发工程师 — 抖音短视频', 'geography': '杭州', 'bonus': ['租房补贴', '用户过亿', '弹性工作', '大牛带队'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/120192003.html?rc=03'}

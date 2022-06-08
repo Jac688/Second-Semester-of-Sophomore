@@ -1,0 +1,1 @@
+{'company_name': '北京精华学校', 'job_name': '网络工程师4号线人民大学站', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '员工旅游', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131819410.html?rc=03'}

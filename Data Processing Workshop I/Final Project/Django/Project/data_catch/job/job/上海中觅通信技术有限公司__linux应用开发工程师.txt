@@ -1,0 +1,1 @@
+{'company_name': '上海中觅通信技术有限公司', 'job_name': 'linux应用开发工程师', 'geography': '上海', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128116409.html?rc=03'}

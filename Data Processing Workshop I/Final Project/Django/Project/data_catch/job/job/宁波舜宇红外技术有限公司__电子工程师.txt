@@ -1,0 +1,1 @@
+{'company_name': '宁波舜宇红外技术有限公司', 'job_name': '电子工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '专业培训', '餐饮补贴', '弹性工作'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/115153366.html?rc=03'}

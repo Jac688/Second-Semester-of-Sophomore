@@ -1,0 +1,1 @@
+{'company_name': '墨斗东莞信息科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '东莞-南城区', 'bonus': ['员工旅游', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/116876182.html?rc=03'}

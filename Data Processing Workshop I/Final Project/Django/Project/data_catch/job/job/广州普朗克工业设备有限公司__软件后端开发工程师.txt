@@ -1,0 +1,1 @@
+{'company_name': '广州普朗克工业设备有限公司', 'job_name': '软件后端开发工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '绩效奖金', '餐饮补贴', '交通补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130057258.html?rc=03'}

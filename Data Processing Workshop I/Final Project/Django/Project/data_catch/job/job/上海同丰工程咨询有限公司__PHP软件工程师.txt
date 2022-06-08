@@ -1,0 +1,1 @@
+{'company_name': '上海同丰工程咨询有限公司', 'job_name': 'PHP软件工程师', 'geography': '上海', 'bonus': ['节日福利', '员工旅游', '定期体检', '免费班车'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129681917.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '心科上海网络科技有限公司', 'job_name': '软件测试工程师', 'geography': '上海-普陀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123701147.html?rc=03'}

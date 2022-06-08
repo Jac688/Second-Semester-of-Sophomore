@@ -1,0 +1,1 @@
+{'company_name': '大连馨天地科技有限公司', 'job_name': 'PHP对日软件开发工程师', 'geography': '大连-高新园区', 'bonus': ['五险一金', '年终奖金', '定期体检', '补充医疗保险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dalian/127214308.html?rc=03'}

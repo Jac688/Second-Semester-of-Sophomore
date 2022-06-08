@@ -1,0 +1,1 @@
+{'company_name': '北京华航智造科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129997957.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '惠州市指南测控技术有限公司', 'job_name': '运动控制工程师', 'geography': '惠州-惠城区', 'bonus': ['年终奖金', '五险', '包吃包住', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/128364609.html?rc=03'}

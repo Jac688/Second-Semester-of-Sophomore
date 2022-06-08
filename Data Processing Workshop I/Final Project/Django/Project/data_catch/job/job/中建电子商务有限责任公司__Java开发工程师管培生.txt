@@ -1,0 +1,1 @@
+{'company_name': '中建电子商务有限责任公司', 'job_name': 'Java开发工程师管培生', 'geography': '成都-高新区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130065436.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广西南宁艾薇格尔物流咨询有限公司', 'job_name': 'IT专员', 'geography': '南宁', 'bonus': ['周末双休', '专业培训', '五险一金', '节日福利'], 'salary': 0.35, 'detail_url': 'https://msearch.51job.com/jobs/nanning/131552753.html?rc=03'}

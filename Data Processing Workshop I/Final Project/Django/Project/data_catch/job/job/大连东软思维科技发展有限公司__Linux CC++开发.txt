@@ -1,0 +1,1 @@
+{'company_name': '大连东软思维科技发展有限公司', 'job_name': 'Linux CC++开发', 'geography': '沈阳-和平区', 'bonus': ['五险一金', '定期体检', '补充医疗保险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenyang/130486809.html?rc=03'}

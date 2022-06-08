@@ -1,0 +1,1 @@
+{'company_name': '上海妙可蓝多食品科技股份有限公司', 'job_name': 'CRM开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '交通补贴', '年终奖金', '通讯补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131478178.html?rc=03'}

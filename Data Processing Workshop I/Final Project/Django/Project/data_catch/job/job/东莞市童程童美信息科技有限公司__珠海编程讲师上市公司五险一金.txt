@@ -1,0 +1,1 @@
+{'company_name': '东莞市童程童美信息科技有限公司', 'job_name': '珠海编程讲师上市公司五险一金', 'geography': '珠海-香洲区', 'bonus': ['五险一金', '专业培训', '餐饮补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/130881062.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天逸瑞狮苏州口腔医疗科技股份有限公司', 'job_name': '嵌入式软件工程师', 'geography': '苏州-高新区', 'bonus': ['年终奖金', '定期体检', '周末双休', '做五休二'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/117308357.html?rc=03'}

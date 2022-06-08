@@ -1,0 +1,1 @@
+{'company_name': '北京昆仑联通科技发展股份有限公司', 'job_name': '渗透测试工程师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/105838099.html?rc=03'}

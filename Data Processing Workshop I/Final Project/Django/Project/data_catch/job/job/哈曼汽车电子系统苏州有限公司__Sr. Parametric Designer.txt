@@ -1,0 +1,1 @@
+{'company_name': '哈曼汽车电子系统苏州有限公司', 'job_name': 'Sr. Parametric Designer', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/128438536.html?rc=03'}

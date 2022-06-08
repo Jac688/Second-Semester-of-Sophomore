@@ -1,0 +1,1 @@
+{'company_name': '上海华虹宏力半导体制造有限公司', 'job_name': '设备自动化工程师 EAP Engineer', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 1.17, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/75687656.html?rc=03'}

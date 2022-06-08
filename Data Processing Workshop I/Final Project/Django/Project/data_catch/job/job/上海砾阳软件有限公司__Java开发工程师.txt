@@ -1,0 +1,1 @@
+{'company_name': '上海砾阳软件有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-福田区', 'bonus': ['做五休二', '周末双休', '带薪年假', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/124978338.html?rc=03'}

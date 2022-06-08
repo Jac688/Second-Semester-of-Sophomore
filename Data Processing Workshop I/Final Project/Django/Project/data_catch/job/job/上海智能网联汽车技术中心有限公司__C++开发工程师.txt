@@ -1,0 +1,1 @@
+{'company_name': '上海智能网联汽车技术中心有限公司', 'job_name': 'C++开发工程师', 'geography': '上海-奉贤区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127454701.html?rc=03'}

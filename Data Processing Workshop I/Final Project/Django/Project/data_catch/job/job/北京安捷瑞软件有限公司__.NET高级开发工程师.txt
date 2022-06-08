@@ -1,0 +1,1 @@
+{'company_name': '北京安捷瑞软件有限公司', 'job_name': '.NET高级开发工程师', 'geography': '东营', 'bonus': ['餐饮补贴', '通讯补贴', '专业培训', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongying/128643622.html?rc=03'}

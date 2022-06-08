@@ -1,0 +1,1 @@
+{'company_name': '力方数字科技集团有限公司', 'job_name': '多媒体部经理', 'geography': '成都-武侯区', 'bonus': ['五险', '带薪年假', '定期体检', '补充医疗'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131696444.html?rc=03'}

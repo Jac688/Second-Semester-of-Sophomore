@@ -1,0 +1,1 @@
+{'company_name': '恩士迅信息科技上海有限公司', 'job_name': 'Golang开发工程师', 'geography': '深圳', 'bonus': ['周末双休', '带薪年假', '五险一金', '绩效奖金'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130635001.html?rc=03'}

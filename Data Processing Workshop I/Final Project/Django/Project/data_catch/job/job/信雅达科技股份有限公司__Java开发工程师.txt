@@ -1,0 +1,1 @@
+{'company_name': '信雅达科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '交通补贴', '年终奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132222216.html?rc=03'}

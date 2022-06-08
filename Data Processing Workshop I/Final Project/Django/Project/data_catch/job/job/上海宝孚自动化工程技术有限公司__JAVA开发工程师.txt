@@ -1,0 +1,1 @@
+{'company_name': '上海宝孚自动化工程技术有限公司', 'job_name': 'JAVA开发工程师', 'geography': '青岛-市南区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/130814873.html?rc=03'}

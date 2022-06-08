@@ -1,0 +1,1 @@
+{'company_name': '佛山市淇特科技有限公司', 'job_name': 'Java平台架构师', 'geography': '异地招聘', 'bonus': ['绩效奖金', '专业培训', '包吃包住', '带薪年假'], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/127674180.html?rc=03'}

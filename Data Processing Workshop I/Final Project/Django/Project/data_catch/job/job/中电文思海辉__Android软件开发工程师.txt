@@ -1,0 +1,1 @@
+{'company_name': '中电文思海辉', 'job_name': 'Android软件开发工程师', 'geography': '潍坊', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/weifang/125380443.html?rc=03'}

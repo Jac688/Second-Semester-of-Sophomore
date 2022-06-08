@@ -1,0 +1,1 @@
+{'company_name': '天津优控智行科技有限公司', 'job_name': '路径规划算法工程师', 'geography': '天津', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/122574323.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中邮信息科技北京有限公司', 'job_name': '云平台资深工程师', 'geography': '北京', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '企业年金'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/119407343.html?rc=03'}

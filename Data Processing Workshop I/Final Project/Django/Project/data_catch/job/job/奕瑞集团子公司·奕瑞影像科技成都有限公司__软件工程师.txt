@@ -1,0 +1,1 @@
+{'company_name': '奕瑞集团子公司·奕瑞影像科技成都有限公司', 'job_name': '软件工程师', 'geography': '成都-郫都区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132318152.html?rc=03'}

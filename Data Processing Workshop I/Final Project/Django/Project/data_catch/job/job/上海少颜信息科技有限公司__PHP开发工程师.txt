@@ -1,0 +1,1 @@
+{'company_name': '上海少颜信息科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-松江区', 'bonus': ['员工旅游', '定期体检', '出国机会', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131139492.html?rc=03'}

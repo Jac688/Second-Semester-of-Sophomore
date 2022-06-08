@@ -1,0 +1,1 @@
+{'company_name': '上海允弈信息科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '南京-玄武区', 'bonus': ['五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128580135.html?rc=03'}

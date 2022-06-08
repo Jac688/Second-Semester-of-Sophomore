@@ -1,0 +1,1 @@
+{'company_name': '上海中科深江电动车辆有限公司', 'job_name': 'TCU软件助理工程师2021届硕士及以上学历', 'geography': '上海', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129138857.html?rc=03'}

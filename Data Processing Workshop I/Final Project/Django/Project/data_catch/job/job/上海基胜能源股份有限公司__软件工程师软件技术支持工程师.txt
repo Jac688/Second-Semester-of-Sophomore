@@ -1,0 +1,1 @@
+{'company_name': '上海基胜能源股份有限公司', 'job_name': '软件工程师软件技术支持工程师', 'geography': '上海-奉贤区', 'bonus': ['周末双休', '带薪年假', '五险一金', '包吃'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/101532220.html?rc=03'}

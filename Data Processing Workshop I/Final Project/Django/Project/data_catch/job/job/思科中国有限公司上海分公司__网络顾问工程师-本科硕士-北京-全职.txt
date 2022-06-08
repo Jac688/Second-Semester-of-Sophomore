@@ -1,0 +1,1 @@
+{'company_name': '思科中国有限公司上海分公司', 'job_name': '网络顾问工程师-本科硕士-北京-全职', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123959518.html?rc=03'}

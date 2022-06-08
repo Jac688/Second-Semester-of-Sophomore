@@ -1,0 +1,1 @@
+{'company_name': '宁波伊士通技术股份有限公司', 'job_name': 'JAVA开发工程师双休', 'geography': '宁波-江北区', 'bonus': ['周末双休', '五险一金', '补充医疗保险', '员工旅游'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/107863172.html?rc=03'}

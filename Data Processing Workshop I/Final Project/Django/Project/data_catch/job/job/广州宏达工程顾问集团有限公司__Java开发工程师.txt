@@ -1,0 +1,1 @@
+{'company_name': '广州宏达工程顾问集团有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-黄埔区', 'bonus': ['餐饮补贴', '五险一金', '免费班车', '专业培训'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130945392.html?rc=03'}

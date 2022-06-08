@@ -1,0 +1,1 @@
+{'company_name': '南京擎天科技有限公司', 'job_name': 'Java中级开发工程师双休', 'geography': '南京', 'bonus': ['五险一金', '绩效奖金', '定期体检', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/126591405.html?rc=03'}

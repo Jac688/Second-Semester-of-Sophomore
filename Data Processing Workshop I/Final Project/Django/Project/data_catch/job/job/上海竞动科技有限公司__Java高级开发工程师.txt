@@ -1,0 +1,1 @@
+{'company_name': '上海竞动科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '下午茶零食', '弹性工作'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126884720.html?rc=03'}

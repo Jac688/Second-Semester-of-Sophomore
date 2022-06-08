@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '测试开发工程师专家 - 安全测试方向 - 飞书北京', 'geography': '北京', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '股票期权'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131619138.html?rc=03'}

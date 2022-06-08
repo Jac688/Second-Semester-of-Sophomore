@@ -1,0 +1,1 @@
+{'company_name': '上海思贤信息技术有限公司', 'job_name': 'Java开发工程师 (base：杭州', 'geography': '杭州-滨江区', 'bonus': [], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132249883.html?rc=03'}

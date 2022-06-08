@@ -1,0 +1,1 @@
+{'company_name': '北京知元创通信息技术有限公司', 'job_name': 'ETL开发工程师', 'geography': '北京-丰台区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131932698.html?rc=03'}

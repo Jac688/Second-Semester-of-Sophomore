@@ -1,0 +1,1 @@
+{'company_name': '上海冉修科技有限公司', 'job_name': 'TC开发工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124883245.html?rc=03'}

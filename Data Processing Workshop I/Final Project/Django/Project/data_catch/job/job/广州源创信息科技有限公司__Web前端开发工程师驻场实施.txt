@@ -1,0 +1,1 @@
+{'company_name': '广州源创信息科技有限公司', 'job_name': 'Web前端开发工程师驻场实施', 'geography': '上海-虹口区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130384328.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '华润置地商业地产宁波余姚五彩城', 'job_name': '购物中心WEB开发工程师', 'geography': '宁波-余姚市', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '绩效奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129621637.html?rc=03'}

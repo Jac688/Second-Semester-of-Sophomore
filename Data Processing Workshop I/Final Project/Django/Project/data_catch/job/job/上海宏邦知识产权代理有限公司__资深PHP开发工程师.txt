@@ -1,0 +1,1 @@
+{'company_name': '上海宏邦知识产权代理有限公司', 'job_name': '资深PHP开发工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '通讯补贴', '专业培训', '绩效奖金'], 'salary': 1.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128823005.html?rc=03'}

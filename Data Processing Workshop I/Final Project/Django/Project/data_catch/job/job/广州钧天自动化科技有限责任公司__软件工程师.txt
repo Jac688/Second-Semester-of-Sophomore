@@ -1,0 +1,1 @@
+{'company_name': '广州钧天自动化科技有限责任公司', 'job_name': '软件工程师', 'geography': '广州-黄埔区', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128243216.html?rc=03'}

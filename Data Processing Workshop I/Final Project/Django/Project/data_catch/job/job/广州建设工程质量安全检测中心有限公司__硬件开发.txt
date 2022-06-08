@@ -1,0 +1,1 @@
+{'company_name': '广州建设工程质量安全检测中心有限公司', 'job_name': '硬件开发', 'geography': '广州-白云区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '高温补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125674051.html?rc=03'}

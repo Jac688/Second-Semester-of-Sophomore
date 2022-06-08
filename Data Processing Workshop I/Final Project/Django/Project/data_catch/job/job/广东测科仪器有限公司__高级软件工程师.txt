@@ -1,0 +1,1 @@
+{'company_name': '广东测科仪器有限公司', 'job_name': '高级软件工程师', 'geography': '东莞-万江区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '包食宿'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/127995748.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '仲利国际租赁有限公司', 'job_name': '.NET软件开发(上海', 'geography': '上海', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/37217750.html?rc=03'}

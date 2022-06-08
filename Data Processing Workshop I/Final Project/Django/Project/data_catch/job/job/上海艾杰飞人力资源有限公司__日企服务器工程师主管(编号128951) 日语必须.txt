@@ -1,0 +1,1 @@
+{'company_name': '上海艾杰飞人力资源有限公司', 'job_name': '日企服务器工程师主管(编号128951) 日语必须', 'geography': '上海', 'bonus': ['国家法定休假', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130021606.html?rc=03'}

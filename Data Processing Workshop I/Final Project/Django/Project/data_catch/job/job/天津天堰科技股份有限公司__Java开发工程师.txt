@@ -1,0 +1,1 @@
+{'company_name': '天津天堰科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '周末双休', '带薪年假', '交通补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129625783.html?rc=03'}

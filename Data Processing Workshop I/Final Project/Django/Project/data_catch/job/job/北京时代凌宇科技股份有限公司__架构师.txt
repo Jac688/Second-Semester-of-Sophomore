@@ -1,0 +1,1 @@
+{'company_name': '北京时代凌宇科技股份有限公司', 'job_name': '架构师', 'geography': '厦门', 'bonus': ['餐饮补贴', '五险一金', '补充医疗保险', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/122909187.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州华宇信息技术有限公司广西分公司', 'job_name': '系统实施工程师', 'geography': '南宁', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanning/132044635.html?rc=03'}

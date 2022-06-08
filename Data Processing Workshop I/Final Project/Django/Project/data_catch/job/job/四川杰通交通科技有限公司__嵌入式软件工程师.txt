@@ -1,0 +1,1 @@
+{'company_name': '四川杰通交通科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '节日福利', '年终奖金', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124511396.html?rc=03'}

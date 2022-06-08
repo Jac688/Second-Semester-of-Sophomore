@@ -1,0 +1,1 @@
+{'company_name': '南京民基悠步信息技术有限公司', 'job_name': 'Java Web开发工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130669737.html?rc=03'}

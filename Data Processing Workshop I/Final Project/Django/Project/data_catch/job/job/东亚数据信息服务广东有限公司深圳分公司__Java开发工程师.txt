@@ -1,0 +1,1 @@
+{'company_name': '东亚数据信息服务广东有限公司深圳分公司', 'job_name': 'Java开发工程师', 'geography': '深圳', 'bonus': ['五险一金', '绩效奖金', '补充医疗保险', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131258207.html?rc=03'}

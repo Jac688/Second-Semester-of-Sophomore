@@ -1,0 +1,1 @@
+{'company_name': '上海益叶信息技术有限公司', 'job_name': 'Java资深开发工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128034423.html?rc=03'}

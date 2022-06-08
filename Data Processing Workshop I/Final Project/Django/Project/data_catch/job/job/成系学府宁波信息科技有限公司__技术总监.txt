@@ -1,0 +1,1 @@
+{'company_name': '成系学府宁波信息科技有限公司', 'job_name': '技术总监', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '股票期权', '年终奖金', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131400267.html?rc=03'}

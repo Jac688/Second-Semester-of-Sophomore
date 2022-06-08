@@ -1,0 +1,1 @@
+{'company_name': '北京清流技术股份有限公司', 'job_name': 'JAVA全栈工程师', 'geography': '北京-丰台区', 'bonus': ['五险一金', '定期体检', '通讯补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129780532.html?rc=03'}

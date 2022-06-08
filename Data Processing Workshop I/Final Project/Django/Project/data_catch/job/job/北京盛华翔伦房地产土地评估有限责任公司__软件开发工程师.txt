@@ -1,0 +1,1 @@
+{'company_name': '北京盛华翔伦房地产土地评估有限责任公司', 'job_name': '软件开发工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '员工旅游', '定期体检', '周末双休'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128593982.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州源井生物科技有限公司', 'job_name': 'Python后端工程师', 'geography': '广州-黄埔区', 'bonus': ['周末双休', '带薪年假', '节日福利', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124277832.html?rc=03'}

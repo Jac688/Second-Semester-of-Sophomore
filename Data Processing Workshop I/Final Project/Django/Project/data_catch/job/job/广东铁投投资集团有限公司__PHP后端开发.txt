@@ -1,0 +1,1 @@
+{'company_name': '广东铁投投资集团有限公司', 'job_name': 'PHP后端开发', 'geography': '异地招聘', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangdongsheng/127909495.html?rc=03'}

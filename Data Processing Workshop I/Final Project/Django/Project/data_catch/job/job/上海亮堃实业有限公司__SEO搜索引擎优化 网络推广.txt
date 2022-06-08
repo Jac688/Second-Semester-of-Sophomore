@@ -1,0 +1,1 @@
+{'company_name': '上海亮堃实业有限公司', 'job_name': 'SEO搜索引擎优化 网络推广', 'geography': '上海-松江区', 'bonus': ['五险一金', '员工旅游', '专业培训', '出国机会'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129053949.html?rc=03'}

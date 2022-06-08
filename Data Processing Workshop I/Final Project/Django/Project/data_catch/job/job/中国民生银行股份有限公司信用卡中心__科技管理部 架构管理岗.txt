@@ -1,0 +1,1 @@
+{'company_name': '中国民生银行股份有限公司信用卡中心', 'job_name': '科技管理部 架构管理岗', 'geography': '北京', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130604629.html?rc=03'}

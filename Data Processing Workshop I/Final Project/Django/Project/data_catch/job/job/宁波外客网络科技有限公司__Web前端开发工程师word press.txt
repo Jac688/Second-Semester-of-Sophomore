@@ -1,0 +1,1 @@
+{'company_name': '宁波外客网络科技有限公司', 'job_name': 'Web前端开发工程师word press', 'geography': '宁波-高新区', 'bonus': ['五险一金', '周末双休', '带薪年假', '带薪培训'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/121181208.html?rc=03'}

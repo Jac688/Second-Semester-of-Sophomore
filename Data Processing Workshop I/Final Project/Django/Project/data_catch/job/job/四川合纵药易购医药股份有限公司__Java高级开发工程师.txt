@@ -1,0 +1,1 @@
+{'company_name': '四川合纵药易购医药股份有限公司', 'job_name': 'Java高级开发工程师', 'geography': '成都-金牛区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/110149155.html?rc=03'}

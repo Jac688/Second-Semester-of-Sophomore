@@ -1,0 +1,1 @@
+{'company_name': '中国电子系统工程第二建设有限公司', 'job_name': '软件开发主管', 'geography': '无锡', 'bonus': ['六险二金', '定期体检', '周末双休', '岗位晋升'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/128167241.html?rc=03'}

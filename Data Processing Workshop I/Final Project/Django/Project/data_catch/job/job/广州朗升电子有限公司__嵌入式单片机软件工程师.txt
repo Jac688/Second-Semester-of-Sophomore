@@ -1,0 +1,1 @@
+{'company_name': '广州朗升电子有限公司', 'job_name': '嵌入式单片机软件工程师', 'geography': '广州-番禺区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/112071576.html?rc=03'}

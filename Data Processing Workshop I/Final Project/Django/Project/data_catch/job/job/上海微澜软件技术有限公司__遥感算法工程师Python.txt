@@ -1,0 +1,1 @@
+{'company_name': '上海微澜软件技术有限公司', 'job_name': '遥感算法工程师Python', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130726806.html?rc=03'}

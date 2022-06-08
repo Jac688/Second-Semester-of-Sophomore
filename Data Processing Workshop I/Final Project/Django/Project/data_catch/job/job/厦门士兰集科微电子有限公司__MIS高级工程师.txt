@@ -1,0 +1,1 @@
+{'company_name': '厦门士兰集科微电子有限公司', 'job_name': 'MIS高级工程师', 'geography': '厦门', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/127475753.html?rc=03'}

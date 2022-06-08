@@ -1,0 +1,1 @@
+{'company_name': '慧择网', 'job_name': 'PHP开发工程师SEO方向 (MJ000590)', 'geography': '深圳-南山区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127825699.html?rc=03'}

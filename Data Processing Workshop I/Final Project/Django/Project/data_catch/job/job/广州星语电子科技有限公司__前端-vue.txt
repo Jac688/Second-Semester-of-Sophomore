@@ -1,0 +1,1 @@
+{'company_name': '广州星语电子科技有限公司', 'job_name': '前端-vue', 'geography': '广州-白云区', 'bonus': ['五险一金', '补充公积金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132191590.html?rc=03'}

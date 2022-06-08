@@ -1,0 +1,1 @@
+{'company_name': '上海宽带技术及应用工程研究中心', 'job_name': '原型系统集成研究员', 'geography': '异地招聘', 'bonus': ['专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127247959.html?rc=03'}

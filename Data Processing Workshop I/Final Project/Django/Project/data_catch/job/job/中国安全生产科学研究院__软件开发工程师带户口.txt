@@ -1,0 +1,1 @@
+{'company_name': '中国安全生产科学研究院', 'job_name': '软件开发工程师带户口', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '通讯补贴', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130510934.html?rc=03'}

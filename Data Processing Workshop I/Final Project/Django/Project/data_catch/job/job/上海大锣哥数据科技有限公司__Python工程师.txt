@@ -1,0 +1,1 @@
+{'company_name': '上海大锣哥数据科技有限公司', 'job_name': 'Python工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129703238.html?rc=03'}

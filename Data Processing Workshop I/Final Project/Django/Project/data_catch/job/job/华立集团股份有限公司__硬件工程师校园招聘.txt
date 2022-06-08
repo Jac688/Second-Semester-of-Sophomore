@@ -1,0 +1,1 @@
+{'company_name': '华立集团股份有限公司', 'job_name': '硬件工程师校园招聘', 'geography': '重庆-北碚区', 'bonus': ['餐饮补贴', '年终奖金', '周末双休', '包住宿'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131429595.html?rc=03'}

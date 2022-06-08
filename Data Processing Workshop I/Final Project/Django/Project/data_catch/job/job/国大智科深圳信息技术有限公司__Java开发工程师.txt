@@ -1,0 +1,1 @@
+{'company_name': '国大智科深圳信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-宝安区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132354069.html?rc=03'}

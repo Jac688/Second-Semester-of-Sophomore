@@ -1,0 +1,1 @@
+{'company_name': '上海科之锐人才咨询有限公司', 'job_name': '人事行政专员', 'geography': '苏州-工业园区', 'bonus': ['周末双休', '五险一金', '商业保险', '班车'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/117137150.html?rc=03'}

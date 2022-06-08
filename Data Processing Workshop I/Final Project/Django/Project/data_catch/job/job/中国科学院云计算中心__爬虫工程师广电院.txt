@@ -1,0 +1,1 @@
+{'company_name': '中国科学院云计算中心', 'job_name': '爬虫工程师广电院', 'geography': '东莞-松山湖区', 'bonus': ['周末双休', '带薪年假', '五险一金', '包住宿'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/119024059.html?rc=03'}

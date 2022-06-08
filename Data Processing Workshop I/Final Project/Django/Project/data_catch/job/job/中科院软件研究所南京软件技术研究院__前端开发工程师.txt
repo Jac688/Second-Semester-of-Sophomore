@@ -1,0 +1,1 @@
+{'company_name': '中科院软件研究所南京软件技术研究院', 'job_name': '前端开发工程师', 'geography': '南京', 'bonus': ['五险一金', '定期体检', '绩效奖金', '年底双薪'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/119748360.html?rc=03'}

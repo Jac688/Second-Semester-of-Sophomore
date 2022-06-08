@@ -1,0 +1,1 @@
+{'company_name': '广州市讯码通讯科技有限公司', 'job_name': '图像识别算法工程师', 'geography': '广州-番禺区', 'bonus': ['五险一金', '餐饮补贴', '全勤奖', '加班补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130561415.html?rc=03'}

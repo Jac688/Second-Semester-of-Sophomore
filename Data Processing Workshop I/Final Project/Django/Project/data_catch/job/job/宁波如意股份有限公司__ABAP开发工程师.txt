@@ -1,0 +1,1 @@
+{'company_name': '宁波如意股份有限公司', 'job_name': 'ABAP开发工程师', 'geography': '宁波-宁海县', 'bonus': ['专业培训', '年终奖金', '五险一金', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/128934829.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海如鼎信息科技有限公司', 'job_name': '网站运营', 'geography': '上海-黄浦区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122513708.html?rc=03'}

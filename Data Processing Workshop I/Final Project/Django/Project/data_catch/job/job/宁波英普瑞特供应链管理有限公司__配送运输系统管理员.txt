@@ -1,0 +1,1 @@
+{'company_name': '宁波英普瑞特供应链管理有限公司', 'job_name': '配送运输系统管理员', 'geography': '重庆-渝北区', 'bonus': ['节日福利', '绩效奖金', '员工旅游', '年终奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/126908079.html?rc=03'}

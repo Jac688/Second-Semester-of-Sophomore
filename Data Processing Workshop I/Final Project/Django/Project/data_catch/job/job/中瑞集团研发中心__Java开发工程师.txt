@@ -1,0 +1,1 @@
+{'company_name': '中瑞集团研发中心', 'job_name': 'Java开发工程师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '周末双休', '定期体检', '交通补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/125726360.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '奥的斯电梯管理上海有限公司', 'job_name': 'Java开发工程师', 'geography': '上海', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132074042.html?rc=03'}

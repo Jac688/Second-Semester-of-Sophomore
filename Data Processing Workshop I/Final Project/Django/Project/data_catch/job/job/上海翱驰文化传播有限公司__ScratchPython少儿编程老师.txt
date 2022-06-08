@@ -1,0 +1,1 @@
+{'company_name': '上海翱驰文化传播有限公司', 'job_name': 'ScratchPython少儿编程老师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '餐饮补贴', '弹性工作', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117714760.html?rc=03'}

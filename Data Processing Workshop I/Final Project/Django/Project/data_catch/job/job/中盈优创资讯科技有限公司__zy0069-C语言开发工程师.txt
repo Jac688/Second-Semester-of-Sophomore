@@ -1,0 +1,1 @@
+{'company_name': '中盈优创资讯科技有限公司', 'job_name': 'zy0069-C语言开发工程师', 'geography': '南京-建邺区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129418875.html?rc=03'}

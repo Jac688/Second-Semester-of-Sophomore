@@ -1,0 +1,1 @@
+{'company_name': '山东顺能网络科技有限公司', 'job_name': '软件开发工程师', 'geography': '济南', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/jinan/128745107.html?rc=03'}

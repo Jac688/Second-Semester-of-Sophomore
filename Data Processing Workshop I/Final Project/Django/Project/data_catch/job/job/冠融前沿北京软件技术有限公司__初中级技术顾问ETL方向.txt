@@ -1,0 +1,1 @@
+{'company_name': '冠融前沿北京软件技术有限公司', 'job_name': '初中级技术顾问ETL方向', 'geography': '北京', 'bonus': ['五险一金', '交通补贴', '通讯补贴', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125670401.html?rc=03'}

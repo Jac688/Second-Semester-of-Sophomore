@@ -1,0 +1,1 @@
+{'company_name': '延长壳牌四川石油有限公司', 'job_name': '数据分析专员', 'geography': '成都', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '绩效奖金'], 'salary': 0.75, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132331489.html?rc=03'}

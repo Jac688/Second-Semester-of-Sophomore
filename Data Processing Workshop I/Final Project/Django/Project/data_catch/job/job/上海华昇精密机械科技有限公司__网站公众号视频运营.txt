@@ -1,0 +1,1 @@
+{'company_name': '上海华昇精密机械科技有限公司', 'job_name': '网站公众号视频运营', 'geography': '上海-嘉定区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130796492.html?rc=03'}

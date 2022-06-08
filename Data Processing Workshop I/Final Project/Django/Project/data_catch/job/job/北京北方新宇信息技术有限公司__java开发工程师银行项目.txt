@@ -1,0 +1,1 @@
+{'company_name': '北京北方新宇信息技术有限公司', 'job_name': 'java开发工程师银行项目', 'geography': '成都', 'bonus': ['年终奖金', '五险一金', '出国机会'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131813310.html?rc=03'}

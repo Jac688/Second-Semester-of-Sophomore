@@ -1,0 +1,1 @@
+{'company_name': '上海秋晟资产管理有限公司', 'job_name': 'Python工程师爬虫数据', 'geography': '上海-静安区', 'bonus': ['补充公积金', '定期体检', '做五休二', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128778213.html?rc=03'}

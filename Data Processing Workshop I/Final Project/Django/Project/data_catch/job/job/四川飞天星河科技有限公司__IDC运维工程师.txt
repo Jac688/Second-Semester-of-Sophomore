@@ -1,0 +1,1 @@
+{'company_name': '四川飞天星河科技有限公司', 'job_name': 'IDC运维工程师', 'geography': '成都-天府新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/125395679.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州市顶丰自动化设备有限公司', 'job_name': '系统架构师软件框架', 'geography': '广州-番禺区', 'bonus': ['五险一金', '生日津贴', '节日福利', '周六下午茶'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131403404.html?rc=03'}

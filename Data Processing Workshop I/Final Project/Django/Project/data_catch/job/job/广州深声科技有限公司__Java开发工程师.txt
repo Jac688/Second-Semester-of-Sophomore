@@ -1,0 +1,1 @@
+{'company_name': '广州深声科技有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-天河区', 'bonus': ['周末双休', '弹性工作', '餐饮补贴', '节日福利'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/123235973.html?rc=03'}

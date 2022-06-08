@@ -1,0 +1,1 @@
+{'company_name': '上海酷芯微电子有限公司', 'job_name': 'SDK软件开发工程师', 'geography': '上海-杨浦区', 'bonus': ['生日福利', '弹性工作', '商业保险', '五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126889118.html?rc=03'}

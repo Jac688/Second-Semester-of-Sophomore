@@ -1,0 +1,1 @@
+{'company_name': '广州速威智能系统科技有限公司', 'job_name': 'Java初级开发工程师', 'geography': '广州-黄埔区', 'bonus': ['带薪年假', '营养午餐供应', '节日福利', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132352225.html?rc=03'}

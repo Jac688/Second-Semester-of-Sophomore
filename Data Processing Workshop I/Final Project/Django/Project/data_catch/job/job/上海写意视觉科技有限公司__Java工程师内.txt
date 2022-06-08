@@ -1,0 +1,1 @@
+{'company_name': '上海写意视觉科技有限公司', 'job_name': 'Java工程师内', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '员工旅游'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127518592.html?rc=03'}

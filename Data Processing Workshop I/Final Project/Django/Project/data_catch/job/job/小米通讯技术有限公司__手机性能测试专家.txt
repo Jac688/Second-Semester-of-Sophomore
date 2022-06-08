@@ -1,0 +1,1 @@
+{'company_name': '小米通讯技术有限公司', 'job_name': '手机性能测试专家', 'geography': '南京-建邺区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130761767.html?rc=03'}

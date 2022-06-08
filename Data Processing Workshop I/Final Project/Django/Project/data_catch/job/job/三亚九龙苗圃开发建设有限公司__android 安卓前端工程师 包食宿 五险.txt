@@ -1,0 +1,1 @@
+{'company_name': '三亚九龙苗圃开发建设有限公司', 'job_name': 'android 安卓前端工程师 包食宿 五险', 'geography': '三亚', 'bonus': ['包三餐', '五险', '年终奖金', '包住宿'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/sanya/115521660.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '东南数字经济发展研究院', 'job_name': '008多媒体研发工程师', 'geography': '衢州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/quzhou/128819563.html?rc=03'}

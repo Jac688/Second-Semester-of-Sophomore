@@ -1,0 +1,1 @@
+{'company_name': '威创集团股份有限公司', 'job_name': 'Web前端开发工程师可视化产品', 'geography': '广州', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '弹性工作'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131101300.html?rc=03'}

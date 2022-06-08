@@ -1,0 +1,1 @@
+{'company_name': '南京集成电路设计服务产业创新中心有限公司', 'job_name': 'C++软件开发工程师', 'geography': '南京-浦口区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127397939.html?rc=03'}

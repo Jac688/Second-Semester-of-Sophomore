@@ -1,0 +1,1 @@
+{'company_name': '上海米居网络科技有限公司', 'job_name': '前端开发工程师', 'geography': '上海', 'bonus': ['包吃', '绩效奖金', '节日福利', '全勤奖'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117630147.html?rc=03'}

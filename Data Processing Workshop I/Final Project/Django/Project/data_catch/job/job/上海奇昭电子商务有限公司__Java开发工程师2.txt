@@ -1,0 +1,1 @@
+{'company_name': '上海奇昭电子商务有限公司', 'job_name': 'Java开发工程师2', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '员工旅游', '专业培训', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129187222.html?rc=03'}

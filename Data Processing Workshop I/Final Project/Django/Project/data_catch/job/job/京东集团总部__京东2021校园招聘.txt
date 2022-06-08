@@ -1,0 +1,1 @@
+{'company_name': '京东集团总部', 'job_name': '京东2021校园招聘', 'geography': '北京-大兴区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129544264.html?rc=03'}

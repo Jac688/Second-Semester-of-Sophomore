@@ -1,0 +1,1 @@
+{'company_name': '北京兰格电子商务有限公司', 'job_name': 'Java开发工程师', 'geography': '北京', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128859851.html?rc=03'}

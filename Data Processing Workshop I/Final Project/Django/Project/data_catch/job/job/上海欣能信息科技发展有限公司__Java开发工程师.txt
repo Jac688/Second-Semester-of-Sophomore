@@ -1,0 +1,1 @@
+{'company_name': '上海欣能信息科技发展有限公司', 'job_name': 'Java开发工程师', 'geography': '上海-黄浦区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/42713907.html?rc=03'}

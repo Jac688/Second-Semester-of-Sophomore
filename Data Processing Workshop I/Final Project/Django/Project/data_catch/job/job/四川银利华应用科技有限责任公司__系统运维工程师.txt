@@ -1,0 +1,1 @@
+{'company_name': '四川银利华应用科技有限责任公司', 'job_name': '系统运维工程师', 'geography': '成都-金牛区', 'bonus': ['年终奖金', '专业培训', '绩效奖金', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/126816756.html?rc=03'}

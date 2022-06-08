@@ -1,0 +1,1 @@
+{'company_name': '广州国联通信有限公司', 'job_name': '高级嵌入式软件工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/99181187.html?rc=03'}

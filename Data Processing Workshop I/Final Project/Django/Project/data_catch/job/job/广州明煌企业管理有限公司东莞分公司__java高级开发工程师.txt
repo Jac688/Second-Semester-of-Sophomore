@@ -1,0 +1,1 @@
+{'company_name': '广州明煌企业管理有限公司东莞分公司', 'job_name': 'java高级开发工程师', 'geography': '杭州-西湖区', 'bonus': ['五险一金', '16薪', '餐补', '期权'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/132184975.html?rc=03'}

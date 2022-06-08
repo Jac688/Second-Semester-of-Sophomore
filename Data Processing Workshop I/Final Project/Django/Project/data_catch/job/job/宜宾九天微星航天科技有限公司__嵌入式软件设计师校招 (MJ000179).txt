@@ -1,0 +1,1 @@
+{'company_name': '宜宾九天微星航天科技有限公司', 'job_name': '嵌入式软件设计师校招 (MJ000179)', 'geography': '成都-高新区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131307701.html?rc=03'}

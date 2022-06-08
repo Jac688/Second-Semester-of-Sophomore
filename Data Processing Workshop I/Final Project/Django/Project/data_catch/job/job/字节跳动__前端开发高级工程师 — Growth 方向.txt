@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '前端开发高级工程师 — Growth 方向', 'geography': '上海', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '团队氛围好'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123407410.html?rc=03'}

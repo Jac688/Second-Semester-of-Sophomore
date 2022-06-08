@@ -1,0 +1,1 @@
+{'company_name': '中科天工武汉智能技术有限公司', 'job_name': '高级软件工程师C++方向', 'geography': '武汉-江夏区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/106718235.html?rc=03'}

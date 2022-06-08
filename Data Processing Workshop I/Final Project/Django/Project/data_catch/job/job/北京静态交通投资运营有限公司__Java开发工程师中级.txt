@@ -1,0 +1,1 @@
+{'company_name': '北京静态交通投资运营有限公司', 'job_name': 'Java开发工程师中级', 'geography': '北京-丰台区', 'bonus': ['五险一金', '补充医疗保险', '定期体检'], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129208140.html?rc=03'}

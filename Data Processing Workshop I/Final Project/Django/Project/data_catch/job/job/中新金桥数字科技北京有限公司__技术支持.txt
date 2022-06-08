@@ -1,0 +1,1 @@
+{'company_name': '中新金桥数字科技北京有限公司', 'job_name': '技术支持', 'geography': '北京-海淀区', 'bonus': ['做五休二', '周末双休', '带薪年假', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126453662.html?rc=03'}

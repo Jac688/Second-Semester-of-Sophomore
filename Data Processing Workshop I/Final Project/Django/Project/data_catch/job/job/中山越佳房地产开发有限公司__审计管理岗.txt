@@ -1,0 +1,1 @@
+{'company_name': '中山越佳房地产开发有限公司', 'job_name': '审计管理岗', 'geography': '佛山-南海区', 'bonus': ['五险一金', '定期体检', '专业培训'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/foshan/128086213.html?rc=03'}

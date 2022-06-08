@@ -1,0 +1,1 @@
+{'company_name': '大连豪森瑞德设备制造有限公司', 'job_name': 'c++工程师', 'geography': '大连-甘井子区', 'bonus': ['交通补贴', '员工旅游', '绩效奖金', '免费班车'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dalian/110626221.html?rc=03'}

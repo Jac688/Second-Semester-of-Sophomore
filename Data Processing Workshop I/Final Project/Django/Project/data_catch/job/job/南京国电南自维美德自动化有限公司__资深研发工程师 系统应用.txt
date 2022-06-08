@@ -1,0 +1,1 @@
+{'company_name': '南京国电南自维美德自动化有限公司', 'job_name': '资深研发工程师 系统应用', 'geography': '南京-浦口区', 'bonus': ['五险一金', '免费班车', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128975918.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海翔明信息技术有限公司', 'job_name': '.NET开发工程师', 'geography': '济南-高新区', 'bonus': ['五险一金', '补充公积金', '员工旅游', '交通补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/jinan/118101219.html?rc=03'}

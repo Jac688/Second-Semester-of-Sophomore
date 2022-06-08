@@ -1,0 +1,1 @@
+{'company_name': '倍睿软件上海有限公司', 'job_name': '嵌入式技术工程师 - CC++', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '年终奖金', '商业保险', '团队奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/113880191.html?rc=03'}

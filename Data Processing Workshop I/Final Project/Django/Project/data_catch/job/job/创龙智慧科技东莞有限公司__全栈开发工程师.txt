@@ -1,0 +1,1 @@
+{'company_name': '创龙智慧科技东莞有限公司', 'job_name': '全栈开发工程师', 'geography': '东莞', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131131200.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海艾杰飞人力资源有限公司', 'job_name': '日企软件开发高级工程师(编号127795) 日语必须', 'geography': '异地招聘', 'bonus': ['国家法定休假', '五险一金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/128813314.html?rc=03'}

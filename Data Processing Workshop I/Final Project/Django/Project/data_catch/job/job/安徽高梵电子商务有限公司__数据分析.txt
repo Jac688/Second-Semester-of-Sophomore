@@ -1,0 +1,1 @@
+{'company_name': '安徽高梵电子商务有限公司', 'job_name': '数据分析', 'geography': '杭州-江干区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131082829.html?rc=03'}

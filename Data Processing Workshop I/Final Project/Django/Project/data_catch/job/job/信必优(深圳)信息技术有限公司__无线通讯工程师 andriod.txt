@@ -1,0 +1,1 @@
+{'company_name': '信必优(深圳)信息技术有限公司', 'job_name': '无线通讯工程师 andriod', 'geography': '深圳-南山区', 'bonus': ['年终奖金', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130535017.html?rc=03'}

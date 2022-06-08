@@ -1,0 +1,1 @@
+{'company_name': '北京万维盈创科技发展有限公司', 'job_name': 'JAVA开发工程师北京', 'geography': '北京-昌平区', 'bonus': ['年终奖金', '员工旅游', '定期体检', '专业培训'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/119828884.html?rc=03'}

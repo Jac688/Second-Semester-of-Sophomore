@@ -1,0 +1,1 @@
+{'company_name': '广州市南方人力资源评价中心有限公司', 'job_name': 'JAVA软件工程师', 'geography': '广州-番禺区', 'bonus': ['五险一金', '免费班车', '定期体检', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/111952977.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京龙腾信扬信息技术有限公司', 'job_name': 'Java开发工程师', 'geography': '安阳', 'bonus': ['餐饮补贴', '周末双休', '五险', '节日福利'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/anyang/127639739.html?rc=03'}

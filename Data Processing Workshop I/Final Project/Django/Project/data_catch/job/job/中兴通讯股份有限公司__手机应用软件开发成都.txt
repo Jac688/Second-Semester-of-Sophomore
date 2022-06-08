@@ -1,0 +1,1 @@
+{'company_name': '中兴通讯股份有限公司', 'job_name': '手机应用软件开发成都', 'geography': '成都', 'bonus': ['免费班车', '专业培训', '定期体检', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132345456.html?rc=03'}

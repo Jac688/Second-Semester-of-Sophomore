@@ -1,0 +1,1 @@
+{'company_name': '广西创视天成信息科技有限公司', 'job_name': '后端开发工程师', 'geography': '北海', 'bonus': ['五险', '年终奖金', '项目奖金', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beihai/128223419.html?rc=03'}

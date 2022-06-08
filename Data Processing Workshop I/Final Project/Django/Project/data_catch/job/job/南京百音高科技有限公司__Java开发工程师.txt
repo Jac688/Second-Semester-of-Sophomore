@@ -1,0 +1,1 @@
+{'company_name': '南京百音高科技有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-秦淮区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129943580.html?rc=03'}

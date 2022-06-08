@@ -1,0 +1,1 @@
+{'company_name': '一线医疗科技广东有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '专业培训', '弹性工作', '节日福利'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131271660.html?rc=03'}

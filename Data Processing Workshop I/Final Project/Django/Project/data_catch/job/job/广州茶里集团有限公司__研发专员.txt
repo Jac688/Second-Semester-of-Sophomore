@@ -1,0 +1,1 @@
+{'company_name': '广州茶里集团有限公司', 'job_name': '研发专员', 'geography': '广州-海珠区', 'bonus': ['五险一金', '带薪年假', '绩效奖金', '交通补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131718702.html?rc=03'}

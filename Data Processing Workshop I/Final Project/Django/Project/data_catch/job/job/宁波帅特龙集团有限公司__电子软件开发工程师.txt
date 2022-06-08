@@ -1,0 +1,1 @@
+{'company_name': '宁波帅特龙集团有限公司', 'job_name': '电子软件开发工程师', 'geography': '宁波-海曙区', 'bonus': ['社保', '工作餐', '五险一金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131195221.html?rc=03'}

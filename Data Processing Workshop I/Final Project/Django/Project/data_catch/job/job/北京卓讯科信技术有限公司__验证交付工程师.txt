@@ -1,0 +1,1 @@
+{'company_name': '北京卓讯科信技术有限公司', 'job_name': '验证交付工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '弹性工作'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126931384.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '三一重能股份有限公司', 'job_name': '控制软件工程师北京', 'geography': '北京', 'bonus': [], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129449661.html?rc=03'}

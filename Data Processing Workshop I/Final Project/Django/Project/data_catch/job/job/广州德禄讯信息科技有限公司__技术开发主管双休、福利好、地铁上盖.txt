@@ -1,0 +1,1 @@
+{'company_name': '广州德禄讯信息科技有限公司', 'job_name': '技术开发主管双休、福利好、地铁上盖', 'geography': '广州-海珠区', 'bonus': ['周末双休', '带薪年假', '绩效奖金', '全勤奖'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/103365329.html?rc=03'}

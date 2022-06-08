@@ -1,0 +1,1 @@
+{'company_name': '四川联通——甘孜市分公司', 'job_name': 'IT服务运营信息化', 'geography': '甘孜', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/ganzi/129450689.html?rc=03'}

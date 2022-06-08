@@ -1,0 +1,1 @@
+{'company_name': '小熊电器股份有限公司', 'job_name': '信息安全工程师', 'geography': '佛山-顺德区', 'bonus': ['五险', '员工旅游', '提供食宿', '年终奖金'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131923737.html?rc=03'}

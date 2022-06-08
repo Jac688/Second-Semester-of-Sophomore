@@ -1,0 +1,1 @@
+{'company_name': '前海七剑科技深圳有限公司', 'job_name': '智能座舱软件配置主任工程师', 'geography': '深圳', 'bonus': ['五险一金', '年终奖金', '定期体检', '免费班车'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132121164.html?rc=03'}

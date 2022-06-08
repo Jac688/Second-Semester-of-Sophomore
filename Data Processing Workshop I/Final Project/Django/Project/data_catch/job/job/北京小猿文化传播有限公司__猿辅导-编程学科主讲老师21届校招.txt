@@ -1,0 +1,1 @@
+{'company_name': '北京小猿文化传播有限公司', 'job_name': '猿辅导-编程学科主讲老师21届校招', 'geography': '北京', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129965926.html?rc=03'}

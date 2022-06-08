@@ -1,0 +1,1 @@
+{'company_name': '完美世界上海完美时空', 'job_name': 'C++开发工程师次世代游戏引擎', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130987302.html?rc=03'}

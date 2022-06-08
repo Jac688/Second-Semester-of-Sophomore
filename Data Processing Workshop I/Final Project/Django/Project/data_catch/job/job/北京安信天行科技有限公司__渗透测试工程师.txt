@@ -1,0 +1,1 @@
+{'company_name': '北京安信天行科技有限公司', 'job_name': '渗透测试工程师', 'geography': '北京', 'bonus': ['周末双休', '带薪年假', '五险一金', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125294921.html?rc=03'}

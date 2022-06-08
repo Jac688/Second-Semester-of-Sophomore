@@ -1,0 +1,1 @@
+{'company_name': '京信网络系统股份有限公司', 'job_name': '业务软件工程师OAM', 'geography': '广州-黄埔区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129004975.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波海上鲜信息技术股份有限公司', 'job_name': 'Java高级开发工程师', 'geography': '宁波-奉化区', 'bonus': ['周末双休', '做五休二', '弹性工作', '带薪年假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/106691461.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '亚东工业苏州有限公司', 'job_name': '001软件开发工程师', 'geography': '苏州', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131962810.html?rc=03'}

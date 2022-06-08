@@ -1,0 +1,1 @@
+{'company_name': '四川联通——达州市分公司', 'job_name': '信息化建设管理', 'geography': '达州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/dazhou/129450501.html?rc=03'}

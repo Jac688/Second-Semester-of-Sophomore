@@ -1,0 +1,1 @@
+{'company_name': '南方电网深圳数字电网研究院有限公司', 'job_name': '高级软件工程师C++-南京', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127583318.html?rc=03'}

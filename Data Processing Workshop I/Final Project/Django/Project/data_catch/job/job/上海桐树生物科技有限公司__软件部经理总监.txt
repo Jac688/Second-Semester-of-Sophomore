@@ -1,0 +1,1 @@
+{'company_name': '上海桐树生物科技有限公司', 'job_name': '软件部经理总监', 'geography': '北京-海淀区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '员工旅游'], 'salary': 4.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127382152.html?rc=03'}

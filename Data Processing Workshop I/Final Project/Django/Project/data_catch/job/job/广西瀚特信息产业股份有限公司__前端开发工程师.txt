@@ -1,0 +1,1 @@
+{'company_name': '广西瀚特信息产业股份有限公司', 'job_name': '前端开发工程师', 'geography': '桂林', 'bonus': ['周末双休', '五险一金', '绩效奖金', '全勤奖'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/guilin/116405090.html?rc=03'}

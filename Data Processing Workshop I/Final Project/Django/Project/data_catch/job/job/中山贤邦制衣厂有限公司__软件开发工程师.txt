@@ -1,0 +1,1 @@
+{'company_name': '中山贤邦制衣厂有限公司', 'job_name': '软件开发工程师', 'geography': '中山', 'bonus': ['带薪年假', '绩效奖金', '节日福利', '包吃包住'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/130521018.html?rc=03'}

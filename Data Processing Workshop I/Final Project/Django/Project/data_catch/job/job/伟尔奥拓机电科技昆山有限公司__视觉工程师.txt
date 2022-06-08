@@ -1,0 +1,1 @@
+{'company_name': '伟尔奥拓机电科技昆山有限公司', 'job_name': '视觉工程师', 'geography': '昆山', 'bonus': ['通讯补贴', '全勤奖', '五险一金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/127643960.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '合肥创发微电子有限公司', 'job_name': 'C++开发工程师', 'geography': '合肥-高新区', 'bonus': ['带薪年假', '五险一金', '节日福利', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hefei/126511319.html?rc=03'}

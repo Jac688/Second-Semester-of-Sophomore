@@ -1,0 +1,1 @@
+{'company_name': '天津晨星衡祥科技有限公司', 'job_name': 'Java服务器开发工程师', 'geography': '天津-红桥区', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/125318375.html?rc=03'}

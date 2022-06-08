@@ -1,0 +1,1 @@
+{'company_name': '北京汉克时代科技有限公司', 'job_name': 'Java工程师大数据产品', 'geography': '南京-建邺区', 'bonus': ['五险一金', '专业培训', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130903640.html?rc=03'}

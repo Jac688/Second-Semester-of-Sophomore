@@ -1,0 +1,1 @@
+{'company_name': '广东绘宇智能勘测科技有限公司', 'job_name': 'JAVA开发工程师五险一金周末双休', 'geography': '广州-天河区', 'bonus': ['五险一金', '补充公积金', '员工旅游', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/111224120.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '天津市眼科医院视光中心', 'job_name': '大数据开发工程师', 'geography': '天津-和平区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '出国机会'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131211304.html?rc=03'}

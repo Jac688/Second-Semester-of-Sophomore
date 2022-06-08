@@ -1,0 +1,1 @@
+{'company_name': '哈尔滨新光光电科技股份有限公司', 'job_name': '21-04C++软件开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '周末双休', '项目奖金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130271687.html?rc=03'}

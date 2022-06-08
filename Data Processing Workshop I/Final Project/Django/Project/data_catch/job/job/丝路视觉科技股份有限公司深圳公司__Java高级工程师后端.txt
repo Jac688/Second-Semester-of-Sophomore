@@ -1,0 +1,1 @@
+{'company_name': '丝路视觉科技股份有限公司深圳公司', 'job_name': 'Java高级工程师后端', 'geography': '深圳-福田区', 'bonus': ['五险一金', '员工旅游', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/132053320.html?rc=03'}

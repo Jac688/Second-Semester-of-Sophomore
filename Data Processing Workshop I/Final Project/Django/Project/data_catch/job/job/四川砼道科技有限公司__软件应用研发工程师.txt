@@ -1,0 +1,1 @@
+{'company_name': '四川砼道科技有限公司', 'job_name': '软件应用研发工程师', 'geography': '成都-双流区', 'bonus': ['交通补贴', '通讯补贴', '出国机会', '定期体检'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131782287.html?rc=03'}

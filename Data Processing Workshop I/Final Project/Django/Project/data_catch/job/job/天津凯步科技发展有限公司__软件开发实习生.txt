@@ -1,0 +1,1 @@
+{'company_name': '天津凯步科技发展有限公司', 'job_name': '软件开发实习生', 'geography': '天津-红桥区', 'bonus': ['五险一金'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/96012915.html?rc=03'}

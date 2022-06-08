@@ -1,0 +1,1 @@
+{'company_name': '南京楚航科技有限公司', 'job_name': '工具开发工程师-Python', 'geography': '上海-嘉定区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131853400.html?rc=03'}

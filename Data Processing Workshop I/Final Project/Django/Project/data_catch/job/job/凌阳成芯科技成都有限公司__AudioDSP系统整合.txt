@@ -1,0 +1,1 @@
+{'company_name': '凌阳成芯科技成都有限公司', 'job_name': 'AudioDSP系统整合', 'geography': '异地招聘', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/131172045.html?rc=03'}

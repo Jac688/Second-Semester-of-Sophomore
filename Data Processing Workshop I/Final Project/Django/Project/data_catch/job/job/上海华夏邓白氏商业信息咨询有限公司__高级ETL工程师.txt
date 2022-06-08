@@ -1,0 +1,1 @@
+{'company_name': '上海华夏邓白氏商业信息咨询有限公司', 'job_name': '高级ETL工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '免费班车', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132173914.html?rc=03'}

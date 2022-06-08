@@ -1,0 +1,1 @@
+{'company_name': '宁波商库网络科技有限公司', 'job_name': 'Web前端开发工程师双休+五险一金+带薪年假等', 'geography': '宁波-江北区', 'bonus': ['周末双休', '带薪年假', '节日福利', '五险一金'], 'salary': 0.67, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127885031.html?rc=03'}

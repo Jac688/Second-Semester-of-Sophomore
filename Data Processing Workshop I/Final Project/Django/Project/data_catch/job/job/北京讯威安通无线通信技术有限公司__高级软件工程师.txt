@@ -1,0 +1,1 @@
+{'company_name': '北京讯威安通无线通信技术有限公司', 'job_name': '高级软件工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '通讯补贴', '餐饮补贴', '出国机会'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/122663395.html?rc=03'}

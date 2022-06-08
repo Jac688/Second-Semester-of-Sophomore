@@ -1,0 +1,1 @@
+{'company_name': '中加健康工程研究院合肥有限公司', 'job_name': 'C++软件工程师', 'geography': '合肥-高新区', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hefei/123311401.html?rc=03'}

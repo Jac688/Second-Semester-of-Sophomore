@@ -1,0 +1,1 @@
+{'company_name': '思源电气股份有限公司', 'job_name': '高级IT工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '免费班车', '交通补贴', '年终奖金'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123849968.html?rc=03'}

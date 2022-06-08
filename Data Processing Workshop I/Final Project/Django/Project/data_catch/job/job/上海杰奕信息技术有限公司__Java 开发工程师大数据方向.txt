@@ -1,0 +1,1 @@
+{'company_name': '上海杰奕信息技术有限公司', 'job_name': 'Java 开发工程师大数据方向', 'geography': '上海-虹口区', 'bonus': ['五险一金', '专业培训', '周末双休', '员工聚餐'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/80003939.html?rc=03'}

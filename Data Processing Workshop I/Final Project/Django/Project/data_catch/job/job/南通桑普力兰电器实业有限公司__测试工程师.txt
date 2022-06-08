@@ -1,0 +1,1 @@
+{'company_name': '南通桑普力兰电器实业有限公司', 'job_name': '测试工程师', 'geography': '南通', 'bonus': ['包住宿', '五险一金', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nantong/124502003.html?rc=03'}

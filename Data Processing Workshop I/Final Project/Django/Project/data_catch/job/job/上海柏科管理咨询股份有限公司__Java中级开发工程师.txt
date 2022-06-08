@@ -1,0 +1,1 @@
+{'company_name': '上海柏科管理咨询股份有限公司', 'job_name': 'Java中级开发工程师', 'geography': '上海-虹口区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/110612243.html?rc=03'}

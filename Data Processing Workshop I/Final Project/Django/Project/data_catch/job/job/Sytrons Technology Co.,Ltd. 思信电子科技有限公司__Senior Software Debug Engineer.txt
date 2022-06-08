@@ -1,0 +1,1 @@
+{'company_name': 'Sytrons Technology Co.,Ltd. 思信电子科技有限公司', 'job_name': 'Senior Software Debug Engineer', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充公积金', '年终奖金', '免费班车'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/116229034.html?rc=03'}

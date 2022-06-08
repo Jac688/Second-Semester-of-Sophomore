@@ -1,0 +1,1 @@
+{'company_name': '北京乐志行科技有限公司', 'job_name': '初级软件开发工程师', 'geography': '北京-海淀区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/123879899.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中科卓望', 'job_name': '软件测试工程师', 'geography': '常州-新北区', 'bonus': ['五险一金', '带薪年假', '入职体检', '节日福利'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/131577659.html?rc=03'}

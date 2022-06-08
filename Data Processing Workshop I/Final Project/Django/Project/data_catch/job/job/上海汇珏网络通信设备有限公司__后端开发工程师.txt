@@ -1,0 +1,1 @@
+{'company_name': '上海汇珏网络通信设备有限公司', 'job_name': '后端开发工程师', 'geography': '上海-奉贤区', 'bonus': ['五险一金', '专业培训', '绩效奖金', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/110159326.html?rc=03'}

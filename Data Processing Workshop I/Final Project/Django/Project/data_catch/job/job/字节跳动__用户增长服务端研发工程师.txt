@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '用户增长服务端研发工程师', 'geography': '北京', 'bonus': ['下午茶', '健身瑜伽', '六险一金', '股票期权'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129550490.html?rc=03'}

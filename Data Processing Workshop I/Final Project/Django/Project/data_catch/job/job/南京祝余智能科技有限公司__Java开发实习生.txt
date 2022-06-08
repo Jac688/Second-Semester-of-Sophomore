@@ -1,0 +1,1 @@
+{'company_name': '南京祝余智能科技有限公司', 'job_name': 'Java开发实习生', 'geography': '南京-玄武区', 'bonus': [], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132304537.html?rc=03'}

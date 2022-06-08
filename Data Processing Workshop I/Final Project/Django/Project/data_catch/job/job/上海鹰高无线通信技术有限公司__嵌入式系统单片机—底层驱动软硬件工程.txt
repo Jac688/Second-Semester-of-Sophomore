@@ -1,0 +1,1 @@
+{'company_name': '上海鹰高无线通信技术有限公司', 'job_name': '嵌入式系统单片机—底层驱动软硬件工程', 'geography': '上海-杨浦区', 'bonus': ['五险一金', '年终奖金', '定期体检', '高温补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/113159524.html?rc=03'}

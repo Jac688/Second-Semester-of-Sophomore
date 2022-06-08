@@ -1,0 +1,1 @@
+{'company_name': '如薇化妆品苏州有限公司上海分公司', 'job_name': '系统架构师(PHP)', 'geography': '苏州-吴中区', 'bonus': ['周末双休', '带薪年假', '五险一金', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/131184859.html?rc=03'}

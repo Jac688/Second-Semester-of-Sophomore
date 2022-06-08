@@ -1,0 +1,1 @@
+{'company_name': '广州市新豪精密科技有限公司', 'job_name': '工业机器人工程师', 'geography': '广州', 'bonus': ['五险一金', '专业培训', '出国机会', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128269320.html?rc=03'}

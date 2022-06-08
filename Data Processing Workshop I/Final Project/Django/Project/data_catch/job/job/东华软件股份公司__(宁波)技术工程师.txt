@@ -1,0 +1,1 @@
+{'company_name': '东华软件股份公司', 'job_name': '(宁波)技术工程师', 'geography': '宁波-鄞州区', 'bonus': ['五险一金', '双休', '年终奖金', '13薪'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125616950.html?rc=03'}

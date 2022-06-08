@@ -1,0 +1,1 @@
+{'company_name': '广东琴叶健康日用品科技有限公司', 'job_name': '电商客服', 'geography': '广州-天河区', 'bonus': ['带薪年假', '节日福利', '全勤奖'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/120799699.html?rc=03'}

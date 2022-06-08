@@ -1,0 +1,1 @@
+{'company_name': '上海乾升建设集团有限公司', 'job_name': '高级大数据工程师', 'geography': '上海-徐汇区', 'bonus': ['面议'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125014814.html?rc=03'}

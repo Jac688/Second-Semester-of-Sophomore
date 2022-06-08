@@ -1,0 +1,1 @@
+{'company_name': '广东明世教育集团有限公司', 'job_name': 'seo优化师', 'geography': '广州-番禺区', 'bonus': ['弹性工作', '五险一金', '绩效奖金', '全勤奖'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130524142.html?rc=03'}

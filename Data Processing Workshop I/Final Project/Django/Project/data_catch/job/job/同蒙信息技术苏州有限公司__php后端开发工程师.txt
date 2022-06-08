@@ -1,0 +1,1 @@
+{'company_name': '同蒙信息技术苏州有限公司', 'job_name': 'php后端开发工程师', 'geography': '无锡-无锡新区', 'bonus': ['年终奖金', '绩效奖金', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/131586399.html?rc=03'}

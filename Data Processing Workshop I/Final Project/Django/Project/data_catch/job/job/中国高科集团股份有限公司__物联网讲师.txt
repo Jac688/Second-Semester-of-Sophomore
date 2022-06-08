@@ -1,0 +1,1 @@
+{'company_name': '中国高科集团股份有限公司', 'job_name': '物联网讲师', 'geography': '南充', 'bonus': ['五险一金', '周末双休', '节日福利', '岗位晋升'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanchong/125678086.html?rc=03'}

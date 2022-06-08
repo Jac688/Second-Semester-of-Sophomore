@@ -1,0 +1,1 @@
+{'company_name': '恒大新能源科技集团有限公司', 'job_name': '数据分析师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '免费班车', '免费健身房', '包吃'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128779063.html?rc=03'}

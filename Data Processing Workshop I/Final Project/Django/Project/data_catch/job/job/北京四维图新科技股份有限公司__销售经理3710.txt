@@ -1,0 +1,1 @@
+{'company_name': '北京四维图新科技股份有限公司', 'job_name': '销售经理3710', 'geography': '异地招聘', 'bonus': ['弹性工作', '通讯补贴', '餐补', '补充医疗保险'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/jinan/130066414.html?rc=03'}

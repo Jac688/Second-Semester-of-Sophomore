@@ -1,0 +1,1 @@
+{'company_name': '成都与梦同行科技有限公司', 'job_name': 'Java架构师', 'geography': '成都-武侯区', 'bonus': ['五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131582692.html?rc=03'}

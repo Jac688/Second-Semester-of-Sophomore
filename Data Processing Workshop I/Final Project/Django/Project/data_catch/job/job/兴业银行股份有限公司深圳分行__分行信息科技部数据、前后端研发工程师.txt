@@ -1,0 +1,1 @@
+{'company_name': '兴业银行股份有限公司深圳分行', 'job_name': '分行信息科技部数据、前后端研发工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 2.08, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129801774.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海恺英网络科技有限公司', 'job_name': 'PHP开发工程师2021届', 'geography': '上海', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131198154.html?rc=03'}

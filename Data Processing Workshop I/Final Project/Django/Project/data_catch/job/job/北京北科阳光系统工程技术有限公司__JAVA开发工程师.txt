@@ -1,0 +1,1 @@
+{'company_name': '北京北科阳光系统工程技术有限公司', 'job_name': 'JAVA开发工程师', 'geography': '北京', 'bonus': ['餐饮补贴', '周末双休', '社会保险', '补充医疗保险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129507934.html?rc=03'}

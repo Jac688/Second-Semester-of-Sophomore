@@ -1,0 +1,1 @@
+{'company_name': '上海沪工汽车电器有限公司', 'job_name': '汽车电子产品设计及测试工程师', 'geography': '上海', 'bonus': ['五险一金', '免费班车', '通讯补贴', '专业培训'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128628728.html?rc=03'}

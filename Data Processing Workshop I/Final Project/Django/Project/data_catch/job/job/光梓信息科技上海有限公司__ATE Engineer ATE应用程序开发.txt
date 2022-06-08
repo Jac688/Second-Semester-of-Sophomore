@@ -1,0 +1,1 @@
+{'company_name': '光梓信息科技上海有限公司', 'job_name': 'ATE Engineer ATE应用程序开发', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '股票期权'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128714968.html?rc=03'}

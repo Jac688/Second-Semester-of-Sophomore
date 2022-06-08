@@ -1,0 +1,1 @@
+{'company_name': '兴业数字金融服务上海股份有限公司', 'job_name': 'RPA开发工程师杭州', 'geography': '杭州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129211238.html?rc=03'}

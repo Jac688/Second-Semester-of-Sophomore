@@ -1,0 +1,1 @@
+{'company_name': '广东帝豪药业有限公司', 'job_name': 'Java开发工程师', 'geography': '广州-海珠区', 'bonus': ['五险一金', '带薪年假', '餐饮补贴', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131094760.html?rc=03'}

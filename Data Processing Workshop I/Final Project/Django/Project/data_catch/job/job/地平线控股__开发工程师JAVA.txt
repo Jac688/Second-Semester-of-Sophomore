@@ -1,0 +1,1 @@
+{'company_name': '地平线控股', 'job_name': '开发工程师JAVA', 'geography': '上海-浦东新区', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '节日福利'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129396841.html?rc=03'}

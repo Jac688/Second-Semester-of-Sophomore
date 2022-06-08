@@ -1,0 +1,1 @@
+{'company_name': '广东德尔智慧工厂科技有限公司', 'job_name': '大数据处理与挖掘、智能故障诊断研发工程师合肥', 'geography': '异地招聘', 'bonus': ['员工旅游', '绩效奖金', '年终奖金', '专业培训'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/131565866.html?rc=03'}

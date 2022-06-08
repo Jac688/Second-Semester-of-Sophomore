@@ -1,0 +1,1 @@
+{'company_name': '徐州新盛绿源循环经济产业投资发展有限公司', 'job_name': 'Java开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '周末双休', '带薪年假', '国企'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/jiangsusheng/130963083.html?rc=03'}

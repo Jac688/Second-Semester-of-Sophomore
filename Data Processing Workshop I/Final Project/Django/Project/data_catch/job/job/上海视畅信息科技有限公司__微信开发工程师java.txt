@@ -1,0 +1,1 @@
+{'company_name': '上海视畅信息科技有限公司', 'job_name': '微信开发工程师java', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/118863578.html?rc=03'}

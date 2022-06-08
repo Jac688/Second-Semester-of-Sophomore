@@ -1,0 +1,1 @@
+{'company_name': '凯捷咨询中国有限公司', 'job_name': '自动化软件测试工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '绩效奖金', '专业培训', '通讯补贴'], 'salary': 1.4, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/129889726.html?rc=03'}

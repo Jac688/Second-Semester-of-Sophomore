@@ -1,0 +1,1 @@
+{'company_name': '佳思德科技深圳有限公司', 'job_name': '驱动工程师', 'geography': '深圳', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/122432968.html?rc=03'}

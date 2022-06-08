@@ -1,0 +1,1 @@
+{'company_name': '中育数据广州科技有限公司', 'job_name': '高级WEB前端工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/128158756.html?rc=03'}

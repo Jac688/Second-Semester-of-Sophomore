@@ -1,0 +1,1 @@
+{'company_name': '卡尔蔡司上海管理有限公司', 'job_name': 'IQS-Application Engineer', 'geography': '南京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129542772.html?rc=03'}

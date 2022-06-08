@@ -1,0 +1,1 @@
+{'company_name': '广州南方测绘科技股份有限公司', 'job_name': '电子工程师实习(J10940)', 'geography': '北京-大兴区', 'bonus': ['周末双休', '五险一金', '餐饮补贴', '节日福利'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129496330.html?rc=03'}

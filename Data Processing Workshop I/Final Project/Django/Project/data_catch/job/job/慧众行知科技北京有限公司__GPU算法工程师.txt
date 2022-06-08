@@ -1,0 +1,1 @@
+{'company_name': '慧众行知科技北京有限公司', 'job_name': 'GPU算法工程师', 'geography': '成都-武侯区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128245619.html?rc=03'}

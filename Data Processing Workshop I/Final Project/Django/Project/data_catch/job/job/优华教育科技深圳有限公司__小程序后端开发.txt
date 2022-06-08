@@ -1,0 +1,1 @@
+{'company_name': '优华教育科技深圳有限公司', 'job_name': '小程序后端开发', 'geography': '深圳-龙华区', 'bonus': ['五险一金', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131160510.html?rc=03'}

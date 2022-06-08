@@ -1,0 +1,1 @@
+{'company_name': '北京领为军融科技有限公司', 'job_name': '人工智能算法工程师', 'geography': '北京-大兴区', 'bonus': ['做五休二', '五险一金', '带薪年假', '周末双休'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129949701.html?rc=03'}

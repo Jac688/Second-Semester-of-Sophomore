@@ -1,0 +1,1 @@
+{'company_name': '天津日博工业技术有限公司', 'job_name': '机器视觉软件工程师', 'geography': '天津-东丽区', 'bonus': ['五险一金', '包住宿'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/123399185.html?rc=03'}

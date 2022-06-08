@@ -1,0 +1,1 @@
+{'company_name': '广州市苏明达光学有限公司', 'job_name': 'IT技术经理', 'geography': '广州-越秀区', 'bonus': ['五險一金', '通訊補貼', '年終獎金', '績效獎金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122890330.html?rc=03'}

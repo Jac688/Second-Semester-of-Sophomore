@@ -1,0 +1,1 @@
+{'company_name': '南京杰游信息技术有限公司', 'job_name': 'Java中级开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '节日福利', '年终奖', '不定期团建'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129528435.html?rc=03'}

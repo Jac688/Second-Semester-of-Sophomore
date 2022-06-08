@@ -1,0 +1,1 @@
+{'company_name': '南棠武汉分公司仕耀', 'job_name': 'PHP开发工程师', 'geography': '武汉-武昌区', 'bonus': ['绩效奖金', '年终奖金', '每年多次调薪', '五险'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/119679216.html?rc=03'}

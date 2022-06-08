@@ -1,0 +1,1 @@
+{'company_name': '上海帝博企业管理咨询有限公司', 'job_name': '软件工程师Software Engineer', 'geography': '异地招聘', 'bonus': [], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/129099183.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海中核维思仪器仪表有限公司', 'job_name': '高级嵌入式工程师', 'geography': '上海-松江区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/52022040.html?rc=03'}

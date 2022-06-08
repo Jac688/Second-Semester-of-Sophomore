@@ -1,0 +1,1 @@
+{'company_name': '同方知网北京技术有限公司', 'job_name': '用户画像算法工程师', 'geography': '北京', 'bonus': ['免费早午餐', '办公环境好', '健身俱乐部', '五险一金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/127307505.html?rc=03'}

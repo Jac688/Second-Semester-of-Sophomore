@@ -1,0 +1,1 @@
+{'company_name': '华润雪花啤酒', 'job_name': 'Java工程师', 'geography': '成都-高新区', 'bonus': ['交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130447878.html?rc=03'}

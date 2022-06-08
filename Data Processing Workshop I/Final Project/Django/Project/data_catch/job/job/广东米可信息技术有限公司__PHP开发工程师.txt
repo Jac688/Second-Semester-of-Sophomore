@@ -1,0 +1,1 @@
+{'company_name': '广东米可信息技术有限公司', 'job_name': 'PHP开发工程师', 'geography': '东莞-南城区', 'bonus': ['通讯补贴', '绩效奖金', '生日会', '节假日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/121763764.html?rc=03'}

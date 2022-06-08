@@ -1,0 +1,1 @@
+{'company_name': '上海察贤科技有限公司', 'job_name': 'C++工程师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 1.6, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132030760.html?rc=03'}

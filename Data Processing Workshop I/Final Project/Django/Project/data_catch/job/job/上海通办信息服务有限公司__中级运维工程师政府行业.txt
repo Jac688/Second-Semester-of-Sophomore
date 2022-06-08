@@ -1,0 +1,1 @@
+{'company_name': '上海通办信息服务有限公司', 'job_name': '中级运维工程师政府行业', 'geography': '北京', 'bonus': ['五险一金', '免费班车', '通讯补贴', '交通补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130323378.html?rc=03'}

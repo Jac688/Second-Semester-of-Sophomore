@@ -1,0 +1,1 @@
+{'company_name': '南京艺赛旗智能科技有限公司', 'job_name': 'Python高级开发工程师', 'geography': '南京', 'bonus': ['五险一金', '周末双休', '餐饮补贴', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/113403684.html?rc=03'}

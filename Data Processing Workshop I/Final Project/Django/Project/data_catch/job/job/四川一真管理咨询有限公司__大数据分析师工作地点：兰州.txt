@@ -1,0 +1,1 @@
+{'company_name': '四川一真管理咨询有限公司', 'job_name': '大数据分析师工作地点：兰州', 'geography': '异地招聘', 'bonus': ['五险一金', '员工旅游', '专业培训', '弹性工作'], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131811348.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州光娱信息科技有限公司', 'job_name': '手游服务端c++开发', 'geography': '广州-天河区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/82365768.html?rc=03'}

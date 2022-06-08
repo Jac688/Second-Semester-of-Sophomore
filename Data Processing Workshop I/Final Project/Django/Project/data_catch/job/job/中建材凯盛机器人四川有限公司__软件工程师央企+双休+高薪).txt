@@ -1,0 +1,1 @@
+{'company_name': '中建材凯盛机器人四川有限公司', 'job_name': '软件工程师央企+双休+高薪)', 'geography': '内江', 'bonus': ['五险一金', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/neijiang/129050670.html?rc=03'}

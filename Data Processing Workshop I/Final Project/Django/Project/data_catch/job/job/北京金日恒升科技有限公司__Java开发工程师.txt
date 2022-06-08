@@ -1,0 +1,1 @@
+{'company_name': '北京金日恒升科技有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '交通补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129837029.html?rc=03'}

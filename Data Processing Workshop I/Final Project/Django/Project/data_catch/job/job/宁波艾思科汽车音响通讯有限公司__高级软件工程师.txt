@@ -1,0 +1,1 @@
+{'company_name': '宁波艾思科汽车音响通讯有限公司', 'job_name': '高级软件工程师', 'geography': '宁波', 'bonus': ['五险一金', '专业培训', '年终奖金', '住房补贴'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/129226921.html?rc=03'}

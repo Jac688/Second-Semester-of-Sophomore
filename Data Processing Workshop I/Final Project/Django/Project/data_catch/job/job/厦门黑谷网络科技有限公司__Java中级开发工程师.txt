@@ -1,0 +1,1 @@
+{'company_name': '厦门黑谷网络科技有限公司', 'job_name': 'Java中级开发工程师', 'geography': '厦门-湖里区', 'bonus': ['出国游', '人性化管理', '下午茶', '免费健身'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/128669489.html?rc=03'}

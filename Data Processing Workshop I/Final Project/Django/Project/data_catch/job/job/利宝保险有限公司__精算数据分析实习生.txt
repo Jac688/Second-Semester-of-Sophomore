@@ -1,0 +1,1 @@
+{'company_name': '利宝保险有限公司', 'job_name': '精算数据分析实习生', 'geography': '重庆', 'bonus': [], 'salary': 0.18, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/119134097.html?rc=03'}

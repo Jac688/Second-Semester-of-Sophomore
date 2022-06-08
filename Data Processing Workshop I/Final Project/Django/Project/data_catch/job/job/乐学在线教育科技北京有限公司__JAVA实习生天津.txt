@@ -1,0 +1,1 @@
+{'company_name': '乐学在线教育科技北京有限公司', 'job_name': 'JAVA实习生天津', 'geography': '天津', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/129623280.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '徽通金融服务外包有限公司', 'job_name': 'JAVA项目经理', 'geography': '成都-高新区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130113032.html?rc=03'}

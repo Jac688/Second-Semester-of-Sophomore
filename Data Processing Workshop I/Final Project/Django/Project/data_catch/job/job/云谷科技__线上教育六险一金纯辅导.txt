@@ -1,0 +1,1 @@
+{'company_name': '云谷科技', 'job_name': '线上教育六险一金纯辅导', 'geography': '成都-青羊区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132036018.html?rc=03'}

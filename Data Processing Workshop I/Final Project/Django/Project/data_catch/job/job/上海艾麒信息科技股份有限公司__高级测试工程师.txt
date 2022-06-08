@@ -1,0 +1,1 @@
+{'company_name': '上海艾麒信息科技股份有限公司', 'job_name': '高级测试工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131393952.html?rc=03'}

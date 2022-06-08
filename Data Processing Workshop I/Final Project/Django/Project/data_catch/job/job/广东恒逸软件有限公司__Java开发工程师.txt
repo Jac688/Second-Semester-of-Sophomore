@@ -1,0 +1,1 @@
+{'company_name': '广东恒逸软件有限公司', 'job_name': 'Java开发工程师', 'geography': '肇庆', 'bonus': ['五险一金', '专业培训', '员工旅游', '弹性工作'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/zhaoqing/124136449.html?rc=03'}

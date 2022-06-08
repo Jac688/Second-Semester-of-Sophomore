@@ -1,0 +1,1 @@
+{'company_name': '友邦资讯科技(广州)有限公司', 'job_name': '外企DevOps运维工程师-坐标北京东单', 'geography': '北京', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/122932161.html?rc=03'}

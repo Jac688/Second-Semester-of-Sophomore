@@ -1,0 +1,1 @@
+{'company_name': '上海阳关网络信息技术有限公司', 'job_name': 'JAVA软件工程师驻常州', 'geography': '常州-新北区', 'bonus': ['交通补贴', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/changzhou/103862765.html?rc=03'}

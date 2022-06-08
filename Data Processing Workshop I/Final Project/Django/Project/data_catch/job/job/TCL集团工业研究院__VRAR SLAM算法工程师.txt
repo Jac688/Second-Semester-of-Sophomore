@@ -1,0 +1,1 @@
+{'company_name': 'TCL集团工业研究院', 'job_name': 'VRAR SLAM算法工程师', 'geography': '深圳', 'bonus': ['专业培训', '五险一金', '补充医疗保险', '通讯补贴'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130184614.html?rc=03'}

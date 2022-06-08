@@ -1,0 +1,1 @@
+{'company_name': '天津美电医疗科技有限公司', 'job_name': '算法工程师', 'geography': '天津-西青区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/118001797.html?rc=03'}

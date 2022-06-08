@@ -1,0 +1,1 @@
+{'company_name': 'SHEIN', 'job_name': 'Java开发工程师 (MJ003330)', 'geography': '广州-番禺区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130297742.html?rc=03'}

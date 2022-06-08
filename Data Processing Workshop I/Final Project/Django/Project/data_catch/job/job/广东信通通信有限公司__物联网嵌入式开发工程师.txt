@@ -1,0 +1,1 @@
+{'company_name': '广东信通通信有限公司', 'job_name': '物联网嵌入式开发工程师', 'geography': '中山', 'bonus': ['通讯补贴', '专业培训', '年终奖金', '定期体检'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/132354191.html?rc=03'}

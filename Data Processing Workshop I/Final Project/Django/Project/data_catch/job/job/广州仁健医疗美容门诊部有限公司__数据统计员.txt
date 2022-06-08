@@ -1,0 +1,1 @@
+{'company_name': '广州仁健医疗美容门诊部有限公司', 'job_name': '数据统计员', 'geography': '广州-白云区', 'bonus': [], 'salary': 0.58, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129623192.html?rc=03'}

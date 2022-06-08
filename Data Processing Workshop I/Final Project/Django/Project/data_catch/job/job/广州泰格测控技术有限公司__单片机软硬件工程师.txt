@@ -1,0 +1,1 @@
+{'company_name': '广州泰格测控技术有限公司', 'job_name': '单片机软硬件工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '节日福利', '加班补贴', '高温补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129535552.html?rc=03'}

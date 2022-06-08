@@ -1,0 +1,1 @@
+{'company_name': '北京晋江原创网络科技有限公司', 'job_name': 'iOS开发实习生', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131842981.html?rc=03'}

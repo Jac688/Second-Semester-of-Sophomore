@@ -1,0 +1,1 @@
+{'company_name': '广州酷旅旅行社有限公司', 'job_name': '高级运维工程师', 'geography': '杭州-滨江区', 'bonus': ['五险一金', '绩效奖金', '周末双休'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128402441.html?rc=03'}

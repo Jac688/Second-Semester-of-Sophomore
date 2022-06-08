@@ -1,0 +1,1 @@
+{'company_name': '嘉兴维亚生物科技有限公司', 'job_name': '结构解析研究员', 'geography': '嘉兴', 'bonus': ['五险一金', '绩效奖金', '员工旅游', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/jiaxing/123464705.html?rc=03'}

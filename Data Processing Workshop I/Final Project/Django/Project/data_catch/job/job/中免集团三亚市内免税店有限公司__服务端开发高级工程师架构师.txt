@@ -1,0 +1,1 @@
+{'company_name': '中免集团三亚市内免税店有限公司', 'job_name': '服务端开发高级工程师架构师', 'geography': '异地招聘', 'bonus': ['带薪年假', '五险一金', '免费班车', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hainansheng/123484798.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'Green Dot Corporation', 'job_name': 'Payment Systems- System Engineer', 'geography': '上海-浦东新区', 'bonus': ['技术培训', '英语培训', '弹性工作', '文体活动'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132206030.html?rc=03'}

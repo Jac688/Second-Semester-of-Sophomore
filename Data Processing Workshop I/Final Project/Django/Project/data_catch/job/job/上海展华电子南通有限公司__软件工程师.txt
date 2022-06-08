@@ -1,0 +1,1 @@
+{'company_name': '上海展华电子南通有限公司', 'job_name': '软件工程师', 'geography': '异地招聘', 'bonus': ['员工旅游', '专业培训', '出国机会', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127096816.html?rc=03'}

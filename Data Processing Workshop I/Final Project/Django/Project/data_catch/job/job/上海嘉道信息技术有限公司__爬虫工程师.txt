@@ -1,0 +1,1 @@
+{'company_name': '上海嘉道信息技术有限公司', 'job_name': '爬虫工程师', 'geography': '上海-长宁区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/111310289.html?rc=03'}

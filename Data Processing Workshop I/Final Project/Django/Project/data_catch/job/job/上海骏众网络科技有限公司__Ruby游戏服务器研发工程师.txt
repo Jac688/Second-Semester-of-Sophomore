@@ -1,0 +1,1 @@
+{'company_name': '上海骏众网络科技有限公司', 'job_name': 'Ruby游戏服务器研发工程师', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/120443888.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '嗨创网络科技广州有限公司', 'job_name': '技术主管', 'geography': '广州-白云区', 'bonus': ['绩效奖金', '专业培训', '五险一金', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124174873.html?rc=03'}

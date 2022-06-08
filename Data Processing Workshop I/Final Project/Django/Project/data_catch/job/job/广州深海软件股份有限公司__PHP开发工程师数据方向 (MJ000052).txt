@@ -1,0 +1,1 @@
+{'company_name': '广州深海软件股份有限公司', 'job_name': 'PHP开发工程师数据方向 (MJ000052)', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/129522809.html?rc=03'}

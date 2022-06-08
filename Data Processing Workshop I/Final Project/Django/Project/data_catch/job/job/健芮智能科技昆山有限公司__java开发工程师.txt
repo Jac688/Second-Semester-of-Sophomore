@@ -1,0 +1,1 @@
+{'company_name': '健芮智能科技昆山有限公司', 'job_name': 'java开发工程师', 'geography': '昆山', 'bonus': ['五险一金', '年终奖金', '绩效奖金', '餐饮补贴'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/125556494.html?rc=03'}

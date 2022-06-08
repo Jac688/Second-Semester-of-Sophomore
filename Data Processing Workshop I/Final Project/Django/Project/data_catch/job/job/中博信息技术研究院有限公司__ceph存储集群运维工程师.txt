@@ -1,0 +1,1 @@
+{'company_name': '中博信息技术研究院有限公司', 'job_name': 'ceph存储集群运维工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '带薪年假', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130877933.html?rc=03'}

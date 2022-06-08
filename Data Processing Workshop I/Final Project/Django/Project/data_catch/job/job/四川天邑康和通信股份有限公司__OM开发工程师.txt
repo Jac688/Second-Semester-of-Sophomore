@@ -1,0 +1,1 @@
+{'company_name': '四川天邑康和通信股份有限公司', 'job_name': 'OM开发工程师', 'geography': '成都-武侯区', 'bonus': ['五险一金', '专业培训', '年终奖金', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124283902.html?rc=03'}

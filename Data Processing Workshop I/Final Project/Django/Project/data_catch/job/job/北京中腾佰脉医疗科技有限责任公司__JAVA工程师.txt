@@ -1,0 +1,1 @@
+{'company_name': '北京中腾佰脉医疗科技有限责任公司', 'job_name': 'JAVA工程师', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '年终奖金', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125242081.html?rc=03'}

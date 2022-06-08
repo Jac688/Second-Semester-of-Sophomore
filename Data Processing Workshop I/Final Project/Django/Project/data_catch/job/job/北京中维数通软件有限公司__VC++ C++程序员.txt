@@ -1,0 +1,1 @@
+{'company_name': '北京中维数通软件有限公司', 'job_name': 'VC++ C++程序员', 'geography': '北京-昌平区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124315489.html?rc=03'}

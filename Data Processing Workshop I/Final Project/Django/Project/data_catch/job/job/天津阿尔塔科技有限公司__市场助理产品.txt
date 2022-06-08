@@ -1,0 +1,1 @@
+{'company_name': '天津阿尔塔科技有限公司', 'job_name': '市场助理产品', 'geography': '天津-滨海新区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '交通补贴'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/124664934.html?rc=03'}

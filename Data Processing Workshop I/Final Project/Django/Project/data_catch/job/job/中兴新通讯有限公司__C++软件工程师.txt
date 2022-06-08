@@ -1,0 +1,1 @@
+{'company_name': '中兴新通讯有限公司', 'job_name': 'C++软件工程师', 'geography': '深圳', 'bonus': ['带薪年假', '交通补贴', '通讯补贴', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/130508907.html?rc=03'}

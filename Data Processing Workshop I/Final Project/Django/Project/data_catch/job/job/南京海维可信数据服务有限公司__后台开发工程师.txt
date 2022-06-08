@@ -1,0 +1,1 @@
+{'company_name': '南京海维可信数据服务有限公司', 'job_name': '后台开发工程师', 'geography': '南京', 'bonus': ['五险一金', '定期体检', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131699960.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京三维天地科技股份有限公司成都分公司', 'job_name': 'Java开发工程师(J10695)', 'geography': '成都', 'bonus': ['五险一金', '补充公积金', '员工旅游', '交通补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130254879.html?rc=03'}

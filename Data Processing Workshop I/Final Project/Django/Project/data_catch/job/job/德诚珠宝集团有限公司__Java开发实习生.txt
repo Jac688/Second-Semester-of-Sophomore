@@ -1,0 +1,1 @@
+{'company_name': '德诚珠宝集团有限公司', 'job_name': 'Java开发实习生', 'geography': '福州-长乐区', 'bonus': ['五险一金', '绩效奖金', '全勤奖', '节日福利'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/127679910.html?rc=03'}

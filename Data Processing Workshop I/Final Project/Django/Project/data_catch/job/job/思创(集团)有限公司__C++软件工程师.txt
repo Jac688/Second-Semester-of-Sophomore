@@ -1,0 +1,1 @@
+{'company_name': '思创(集团)有限公司', 'job_name': 'C++软件工程师', 'geography': '深圳', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/50885721.html?rc=03'}

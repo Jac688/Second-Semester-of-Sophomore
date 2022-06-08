@@ -1,0 +1,1 @@
+{'company_name': '北京新忆科技有限公司', 'job_name': '数字电路设计验证工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '定期体检'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126487462.html?rc=03'}

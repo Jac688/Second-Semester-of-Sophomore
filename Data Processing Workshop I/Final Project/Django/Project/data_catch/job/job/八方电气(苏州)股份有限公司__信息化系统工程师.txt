@@ -1,0 +1,1 @@
+{'company_name': '八方电气(苏州)股份有限公司', 'job_name': '信息化系统工程师', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '餐饮补贴', '员工旅游'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/129317293.html?rc=03'}

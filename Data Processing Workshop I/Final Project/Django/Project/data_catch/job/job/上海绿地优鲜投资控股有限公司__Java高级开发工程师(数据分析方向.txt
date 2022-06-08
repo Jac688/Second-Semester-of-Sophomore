@@ -1,0 +1,1 @@
+{'company_name': '上海绿地优鲜投资控股有限公司', 'job_name': 'Java高级开发工程师(数据分析方向', 'geography': '上海-青浦区', 'bonus': ['做五休二', '带薪年假', '五险一金', '全勤奖'], 'salary': 2.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125896879.html?rc=03'}

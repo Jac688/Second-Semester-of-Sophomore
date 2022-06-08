@@ -1,0 +1,1 @@
+{'company_name': '宁波掌政通新媒体科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '宁波-高新区', 'bonus': ['员工旅游', '专业培训', '年终奖金', '五险'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/125441999.html?rc=03'}

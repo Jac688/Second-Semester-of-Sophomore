@@ -1,0 +1,1 @@
+{'company_name': '成运国际物流供应链深圳有限公司', 'job_name': 'Java开发工程师', 'geography': '深圳-龙华区', 'bonus': ['餐饮补贴', '补充医疗保险', '员工旅游', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131774103.html?rc=03'}

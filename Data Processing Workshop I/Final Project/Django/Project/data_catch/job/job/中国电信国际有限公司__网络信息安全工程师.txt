@@ -1,0 +1,1 @@
+{'company_name': '中国电信国际有限公司', 'job_name': '网络信息安全工程师', 'geography': '深圳-南山区', 'bonus': ['通讯补贴', '年底双薪', '年终奖金', '定期体检'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/111694310.html?rc=03'}

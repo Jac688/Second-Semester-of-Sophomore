@@ -1,0 +1,1 @@
+{'company_name': '上海邮币卡交易中心股份有限公司', 'job_name': 'Java资深开发工程师', 'geography': '上海-虹口区', 'bonus': ['五险一金', '补充医疗保险', '定期体检', '年终奖金'], 'salary': 2.3, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/126086488.html?rc=03'}

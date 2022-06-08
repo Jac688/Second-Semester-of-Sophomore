@@ -1,0 +1,1 @@
+{'company_name': '京北方信息技术股份有限公司成都分公司', 'job_name': 'Java开发工程师中高级-成都-01852', 'geography': '成都-高新区', 'bonus': ['五险一金', '员工旅游', '专业培训', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/114186803.html?rc=03'}

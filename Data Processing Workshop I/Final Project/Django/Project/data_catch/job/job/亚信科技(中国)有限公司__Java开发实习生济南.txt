@@ -1,0 +1,1 @@
+{'company_name': '亚信科技(中国)有限公司', 'job_name': 'Java开发实习生济南', 'geography': '济南', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/jinan/128646417.html?rc=03'}

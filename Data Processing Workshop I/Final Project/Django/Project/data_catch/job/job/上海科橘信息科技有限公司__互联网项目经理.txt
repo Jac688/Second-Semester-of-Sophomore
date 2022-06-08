@@ -1,0 +1,1 @@
+{'company_name': '上海科橘信息科技有限公司', 'job_name': '互联网项目经理', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '免费班车'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129283659.html?rc=03'}

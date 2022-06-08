@@ -1,0 +1,1 @@
+{'company_name': '微智信息技术云南有限公司', 'job_name': 'Java开发工程师+六险一金', 'geography': '昆明-西山区', 'bonus': ['六险一金', '绩效奖金', '项目奖金', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/kunming/131514981.html?rc=03'}

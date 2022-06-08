@@ -1,0 +1,1 @@
+{'company_name': '北京中创信测科技股份有限公司', 'job_name': 'CC++开发工程师', 'geography': '重庆-江北区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/125775966.html?rc=03'}

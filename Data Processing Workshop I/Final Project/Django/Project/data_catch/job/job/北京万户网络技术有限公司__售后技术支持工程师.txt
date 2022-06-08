@@ -1,0 +1,1 @@
+{'company_name': '北京万户网络技术有限公司', 'job_name': '售后技术支持工程师', 'geography': '异地招聘', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/jinan/124602355.html?rc=03'}

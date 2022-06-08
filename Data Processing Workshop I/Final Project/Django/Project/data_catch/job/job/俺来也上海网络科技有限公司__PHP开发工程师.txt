@@ -1,0 +1,1 @@
+{'company_name': '俺来也上海网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '交通补贴'], 'salary': 0.15, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130865049.html?rc=03'}

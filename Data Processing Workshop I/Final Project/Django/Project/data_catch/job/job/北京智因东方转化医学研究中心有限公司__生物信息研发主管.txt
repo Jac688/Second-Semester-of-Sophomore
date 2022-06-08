@@ -1,0 +1,1 @@
+{'company_name': '北京智因东方转化医学研究中心有限公司', 'job_name': '生物信息研发主管', 'geography': '北京-大兴区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/114187715.html?rc=03'}

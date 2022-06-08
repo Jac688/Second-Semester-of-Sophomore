@@ -1,0 +1,1 @@
+{'company_name': '千锋教育', 'job_name': 'java实训讲师', 'geography': '杭州-江干区', 'bonus': ['五险一金', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129095228.html?rc=03'}

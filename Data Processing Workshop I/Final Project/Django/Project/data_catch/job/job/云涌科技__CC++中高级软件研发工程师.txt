@@ -1,0 +1,1 @@
+{'company_name': '云涌科技', 'job_name': 'CC++中高级软件研发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131032774.html?rc=03'}

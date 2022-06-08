@@ -1,0 +1,1 @@
+{'company_name': '北京安捷瑞软件有限公司', 'job_name': '大数据师知识图谱工程师', 'geography': '东营', 'bonus': ['餐饮补贴', '通讯补贴', '专业培训', '五险一金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/dongying/128640290.html?rc=03'}

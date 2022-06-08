@@ -1,0 +1,1 @@
+{'company_name': '广州乐带实业有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-海珠区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/121924055.html?rc=03'}

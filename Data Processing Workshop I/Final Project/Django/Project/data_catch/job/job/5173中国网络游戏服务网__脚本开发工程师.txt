@@ -1,0 +1,1 @@
+{'company_name': '5173中国网络游戏服务网', 'job_name': '脚本开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '补充公积金', '绩效奖金', '专业培训'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/zhejiangsheng/129467904.html?rc=03'}

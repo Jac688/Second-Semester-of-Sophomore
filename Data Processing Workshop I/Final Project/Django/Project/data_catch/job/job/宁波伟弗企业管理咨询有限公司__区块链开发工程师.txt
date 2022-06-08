@@ -1,0 +1,1 @@
+{'company_name': '宁波伟弗企业管理咨询有限公司', 'job_name': '区块链开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '双休'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/127977918.html?rc=03'}

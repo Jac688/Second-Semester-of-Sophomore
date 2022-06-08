@@ -1,0 +1,1 @@
+{'company_name': '北京国研科技咨询有限公司', 'job_name': '软件测试工程师', 'geography': '北京-东城区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129328358.html?rc=03'}

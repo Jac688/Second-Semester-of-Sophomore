@@ -1,0 +1,1 @@
+{'company_name': '大连新隆计算机技术有限公司', 'job_name': 'Java开发工程师', 'geography': '大连', 'bonus': ['五险一金', '交通补贴', '年终奖金', '出国机会'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/dalian/130221520.html?rc=03'}

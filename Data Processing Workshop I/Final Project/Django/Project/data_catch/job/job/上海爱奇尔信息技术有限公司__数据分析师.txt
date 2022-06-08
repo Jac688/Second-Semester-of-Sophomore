@@ -1,0 +1,1 @@
+{'company_name': '上海爱奇尔信息技术有限公司', 'job_name': '数据分析师', 'geography': '上海-普陀区', 'bonus': ['弹性工作', '加班补贴', '节日福利', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131654966.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '利安达会计师事务所特殊普通合伙', 'job_name': '国际咨询助理', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '绩效奖金', '节日福利', '专业培训'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/121852385.html?rc=03'}

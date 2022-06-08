@@ -1,0 +1,1 @@
+{'company_name': '云从科技', 'job_name': 'java开发工程师-云服务方向', 'geography': '苏州', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '专业培训'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/126875440.html?rc=03'}

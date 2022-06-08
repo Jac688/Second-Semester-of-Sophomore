@@ -1,0 +1,1 @@
+{'company_name': '奥雅纳工程咨询(上海)有限公司', 'job_name': '助理可持续建筑设计工程师北京', 'geography': '北京', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124430778.html?rc=03'}

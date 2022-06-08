@@ -1,0 +1,1 @@
+{'company_name': '恒宝股份有限公司', 'job_name': '智能合约开发工程师', 'geography': '南京', 'bonus': ['绩效奖金', '交通补贴', '带薪年假', '五险一金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/131365344.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京鼎傲科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '南京-雨花台区', 'bonus': ['五险', '周末双休', '生日会'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129545291.html?rc=03'}

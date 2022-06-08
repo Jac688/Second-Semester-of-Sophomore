@@ -1,0 +1,1 @@
+{'company_name': '云计算分公司', 'job_name': '云资源管理调度算法与数据分析(博士实习生)', 'geography': '北京', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131128290.html?rc=03'}

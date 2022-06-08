@@ -1,0 +1,1 @@
+{'company_name': '上海波汇科技有限公司', 'job_name': '软件工程师-JAVA', 'geography': '上海', 'bonus': [], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132076941.html?rc=03'}

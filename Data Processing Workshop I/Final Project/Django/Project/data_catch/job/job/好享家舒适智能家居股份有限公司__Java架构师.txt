@@ -1,0 +1,1 @@
+{'company_name': '好享家舒适智能家居股份有限公司', 'job_name': 'Java架构师', 'geography': '南京', 'bonus': ['无责底薪', '带薪旅游', '内部晋升', '高额提成'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128444493.html?rc=03'}

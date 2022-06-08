@@ -1,0 +1,1 @@
+{'company_name': '乐堂控股集团', 'job_name': 'java服务端开发', 'geography': '合肥', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '节日福利'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hefei/130791635.html?rc=03'}

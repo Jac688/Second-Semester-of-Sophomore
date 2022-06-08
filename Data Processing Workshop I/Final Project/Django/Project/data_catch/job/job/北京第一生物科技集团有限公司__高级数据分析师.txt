@@ -1,0 +1,1 @@
+{'company_name': '北京第一生物科技集团有限公司', 'job_name': '高级数据分析师', 'geography': '北京', 'bonus': ['五险一金', '绩效奖金', '带薪年假', '领导nice'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125232679.html?rc=03'}

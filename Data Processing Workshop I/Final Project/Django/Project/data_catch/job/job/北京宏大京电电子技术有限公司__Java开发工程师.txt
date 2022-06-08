@@ -1,0 +1,1 @@
+{'company_name': '北京宏大京电电子技术有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-大兴区', 'bonus': ['住宿', '五险一金', '年终奖金', '定期体检'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129383502.html?rc=03'}

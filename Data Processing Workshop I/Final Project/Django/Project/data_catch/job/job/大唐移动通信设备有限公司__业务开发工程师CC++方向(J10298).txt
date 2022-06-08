@@ -1,0 +1,1 @@
+{'company_name': '大唐移动通信设备有限公司', 'job_name': '业务开发工程师CC++方向(J10298)', 'geography': '北京-海淀区', 'bonus': ['餐饮补贴', '五险一金', '补充医疗保险', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131431230.html?rc=03'}

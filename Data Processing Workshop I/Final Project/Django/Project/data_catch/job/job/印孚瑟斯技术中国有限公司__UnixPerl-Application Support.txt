@@ -1,0 +1,1 @@
+{'company_name': '印孚瑟斯技术中国有限公司', 'job_name': 'UnixPerl-Application Support', 'geography': '上海-静安区', 'bonus': ['五险一金', '补充医疗保险', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129484808.html?rc=03'}

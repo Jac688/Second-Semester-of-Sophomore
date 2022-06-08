@@ -1,0 +1,1 @@
+{'company_name': '厦门青叶软件股份有限公司', 'job_name': 'Java中级开发工程师', 'geography': '厦门-思明区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/xiamen/130928673.html?rc=03'}

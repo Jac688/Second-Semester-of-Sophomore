@@ -1,0 +1,1 @@
+{'company_name': '北京中电飞华通信有限公司', 'job_name': '数据分析工程师', 'geography': '北京-丰台区', 'bonus': ['五险一金', '补充医疗保险', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/132313860.html?rc=03'}

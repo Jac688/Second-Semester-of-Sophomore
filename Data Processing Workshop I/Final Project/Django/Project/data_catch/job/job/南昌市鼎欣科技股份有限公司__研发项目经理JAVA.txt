@@ -1,0 +1,1 @@
+{'company_name': '南昌市鼎欣科技股份有限公司', 'job_name': '研发项目经理JAVA', 'geography': '南昌', 'bonus': ['五险一金', '补充医疗保险', '补充公积金', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/80681978.html?rc=03'}

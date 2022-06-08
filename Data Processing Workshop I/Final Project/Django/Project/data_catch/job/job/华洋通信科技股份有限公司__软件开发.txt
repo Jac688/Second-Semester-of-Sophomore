@@ -1,0 +1,1 @@
+{'company_name': '华洋通信科技股份有限公司', 'job_name': '软件开发', 'geography': '徐州', 'bonus': ['绩效奖金', '五险一金', '年底双薪', '节日福利'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/xuzhou/124084929.html?rc=03'}

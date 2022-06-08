@@ -1,0 +1,1 @@
+{'company_name': '中国联合网络通信有限公司温州市分公司', 'job_name': 'Linux运维工程师', 'geography': '温州', 'bonus': ['五险一金', '补充医疗保险', '专业培训', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/wenzhou/132213974.html?rc=03'}

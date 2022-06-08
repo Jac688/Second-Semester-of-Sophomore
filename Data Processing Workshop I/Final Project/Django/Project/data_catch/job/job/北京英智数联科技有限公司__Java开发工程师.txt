@@ -1,0 +1,1 @@
+{'company_name': '北京英智数联科技有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-海淀区', 'bonus': ['弹性工作', '专业培训', '通讯补贴', '餐饮补贴'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129500652.html?rc=03'}

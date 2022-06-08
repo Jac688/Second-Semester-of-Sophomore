@@ -1,0 +1,1 @@
+{'company_name': '上海倍增智能科技有限公司', 'job_name': '测试工程师', 'geography': '上海-宝山区', 'bonus': ['包吃', '全勤奖', '节日福利', '绩效奖金'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131984534.html?rc=03'}

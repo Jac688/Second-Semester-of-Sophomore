@@ -1,0 +1,1 @@
+{'company_name': '上海觅炽信息科技有限公司', 'job_name': '全栈工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/131919799.html?rc=03'}

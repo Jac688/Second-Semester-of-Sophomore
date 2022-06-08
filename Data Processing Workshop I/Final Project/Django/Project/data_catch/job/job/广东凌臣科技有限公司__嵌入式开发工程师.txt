@@ -1,0 +1,1 @@
+{'company_name': '广东凌臣科技有限公司', 'job_name': '嵌入式开发工程师', 'geography': '中山-小榄镇', 'bonus': ['五险一金', '节日福利'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/131049358.html?rc=03'}

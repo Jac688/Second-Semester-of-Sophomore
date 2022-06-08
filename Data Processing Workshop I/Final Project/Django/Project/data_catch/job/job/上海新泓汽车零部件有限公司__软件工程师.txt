@@ -1,0 +1,1 @@
+{'company_name': '上海新泓汽车零部件有限公司', 'job_name': '软件工程师', 'geography': '上海', 'bonus': ['五险一金', '员工旅游', '定期体检', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/123306502.html?rc=03'}

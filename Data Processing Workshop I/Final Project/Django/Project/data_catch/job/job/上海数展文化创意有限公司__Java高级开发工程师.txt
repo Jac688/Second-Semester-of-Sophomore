@@ -1,0 +1,1 @@
+{'company_name': '上海数展文化创意有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海-闵行区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122469717.html?rc=03'}

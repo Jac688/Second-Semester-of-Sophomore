@@ -1,0 +1,1 @@
+{'company_name': '广东省国际工程咨询有限公司', 'job_name': 'IT项目经理', 'geography': '广州', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/110821476.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': 'Python开发工程师 — 变现业务', 'geography': '北京', 'bonus': ['弹性工作', '六险一金', '免费三餐', '租房补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/104618787.html?rc=03'}

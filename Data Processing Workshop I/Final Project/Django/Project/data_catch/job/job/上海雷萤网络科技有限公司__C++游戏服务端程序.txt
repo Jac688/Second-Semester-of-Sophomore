@@ -1,0 +1,1 @@
+{'company_name': '上海雷萤网络科技有限公司', 'job_name': 'C++游戏服务端程序', 'geography': '上海-松江区', 'bonus': ['五险一金', '员工旅游', '专业培训', '出国机会'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/117915602.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海宜闻教育科技有限公司', 'job_name': 'Java高级开发工程师工作地点：上海或昆山', 'geography': '昆山', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/kunshan/126881849.html?rc=03'}

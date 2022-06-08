@@ -1,0 +1,1 @@
+{'company_name': '南京泛在地理信息产业研究院有限公司', 'job_name': '研发', 'geography': '南京-栖霞区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129609526.html?rc=03'}

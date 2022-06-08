@@ -1,0 +1,1 @@
+{'company_name': '广州佳途科技股份有限公司', 'job_name': '数据分析师市场准入方向&重庆上班', 'geography': '异地招聘', 'bonus': ['周末双休', '加班补贴', '带薪年假', '五险一金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/131263937.html?rc=03'}

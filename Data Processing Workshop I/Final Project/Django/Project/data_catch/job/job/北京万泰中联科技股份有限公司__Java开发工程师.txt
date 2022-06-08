@@ -1,0 +1,1 @@
+{'company_name': '北京万泰中联科技股份有限公司', 'job_name': 'Java开发工程师', 'geography': '北京-丰台区', 'bonus': ['周末双休', '五险一金', '节日福利', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129822416.html?rc=03'}

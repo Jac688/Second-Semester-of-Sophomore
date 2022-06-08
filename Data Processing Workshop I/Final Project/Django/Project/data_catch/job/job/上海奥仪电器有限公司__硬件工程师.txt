@@ -1,0 +1,1 @@
+{'company_name': '上海奥仪电器有限公司', 'job_name': '硬件工程师', 'geography': '杭州-西湖区', 'bonus': ['年终奖金', '弹性工作', '绩效奖金', '带薪休假'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131648559.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波唐狮网络科技有限公司', 'job_name': 'IT专员', 'geography': '宁波', 'bonus': ['五险一金', '高温补贴', '周末双休', '食堂'], 'salary': 0.42, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/112366577.html?rc=03'}

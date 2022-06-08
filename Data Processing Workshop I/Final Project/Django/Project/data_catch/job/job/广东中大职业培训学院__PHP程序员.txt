@@ -1,0 +1,1 @@
+{'company_name': '广东中大职业培训学院', 'job_name': 'PHP程序员', 'geography': '广州-天河区', 'bonus': ['带薪年假', '五险一金', '绩效奖金', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122387453.html?rc=03'}

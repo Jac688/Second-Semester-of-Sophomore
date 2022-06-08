@@ -1,0 +1,1 @@
+{'company_name': '上海艾杰飞人力资源有限公司', 'job_name': '日企嵌入式开发工程师(编号127765)', 'geography': '北京', 'bonus': ['国家法定休假', '五险一金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128811711.html?rc=03'}

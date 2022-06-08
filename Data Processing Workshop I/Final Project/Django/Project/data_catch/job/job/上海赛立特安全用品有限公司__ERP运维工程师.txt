@@ -1,0 +1,1 @@
+{'company_name': '上海赛立特安全用品有限公司', 'job_name': 'ERP运维工程师', 'geography': '上海-普陀区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129786039.html?rc=03'}

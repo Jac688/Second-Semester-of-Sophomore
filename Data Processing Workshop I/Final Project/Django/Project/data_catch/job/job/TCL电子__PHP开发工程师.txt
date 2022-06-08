@@ -1,0 +1,1 @@
+{'company_name': 'TCL电子', 'job_name': 'PHP开发工程师', 'geography': '惠州-仲恺区', 'bonus': ['带薪年假', '五险一金', '包吃', '包住宿'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/huizhou/128977383.html?rc=03'}

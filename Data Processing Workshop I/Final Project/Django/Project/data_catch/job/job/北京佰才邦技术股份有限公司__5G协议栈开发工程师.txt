@@ -1,0 +1,1 @@
+{'company_name': '北京佰才邦技术股份有限公司', 'job_name': '5G协议栈开发工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '员工旅游', '定期体检', '大牛带队'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/116215410.html?rc=03'}

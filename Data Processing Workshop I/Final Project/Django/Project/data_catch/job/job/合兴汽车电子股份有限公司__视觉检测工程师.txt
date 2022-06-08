@@ -1,0 +1,1 @@
+{'company_name': '合兴汽车电子股份有限公司', 'job_name': '视觉检测工程师', 'geography': '温州', 'bonus': ['带薪年假', '节日福利', '五险一金', '加班费'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/wenzhou/113621984.html?rc=03'}

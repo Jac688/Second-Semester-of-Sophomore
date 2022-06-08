@@ -1,0 +1,1 @@
+{'company_name': '创耀苏州通信科技股份有限公司', 'job_name': '数字后端高级工程师', 'geography': '珠海', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/zhuhai/129856366.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '慧石上海测控科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海-青浦区', 'bonus': ['五险一金', '做五休二', '员工旅游', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/110457357.html?rc=03'}

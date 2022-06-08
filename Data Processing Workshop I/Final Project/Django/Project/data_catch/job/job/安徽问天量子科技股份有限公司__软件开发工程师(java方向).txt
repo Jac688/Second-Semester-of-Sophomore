@@ -1,0 +1,1 @@
+{'company_name': '安徽问天量子科技股份有限公司', 'job_name': '软件开发工程师(java方向)', 'geography': '天津', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/tianjin/131534922.html?rc=03'}

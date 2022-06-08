@@ -1,0 +1,1 @@
+{'company_name': '广州新次方文化科技有限公司', 'job_name': 'IT经理税后30k+', 'geography': '广州-花都区', 'bonus': ['节日福利', '包吃', '五险一金', '年终奖金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/124508770.html?rc=03'}

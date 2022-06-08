@@ -1,0 +1,1 @@
+{'company_name': '多科智能装备常熟有限公司', 'job_name': '软 件 工 程 师', 'geography': '常熟', 'bonus': ['包吃', '五险一金', '专业培训', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/changshu/131110348.html?rc=03'}

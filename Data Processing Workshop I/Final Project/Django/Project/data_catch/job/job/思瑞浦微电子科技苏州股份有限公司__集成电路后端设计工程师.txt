@@ -1,0 +1,1 @@
+{'company_name': '思瑞浦微电子科技苏州股份有限公司', 'job_name': '集成电路后端设计工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '通讯补贴'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128771025.html?rc=03'}

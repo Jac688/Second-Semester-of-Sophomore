@@ -1,0 +1,1 @@
+{'company_name': '上海汉相企业管理咨询有限公司', 'job_name': '财务系统支持', 'geography': '上海-黄浦区', 'bonus': ['五险一金', '专业培训', '定期体检', '员工旅游'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129339081.html?rc=03'}

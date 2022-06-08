@@ -1,0 +1,1 @@
+{'company_name': '南宁西岸枫谷商务数据有限公司', 'job_name': 'web前端开发', 'geography': '南宁', 'bonus': ['员工旅游', '绩效奖金', '年终奖金', '五险'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/nanning/78066784.html?rc=03'}

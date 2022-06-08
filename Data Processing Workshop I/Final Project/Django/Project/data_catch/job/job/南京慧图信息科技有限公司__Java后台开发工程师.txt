@@ -1,0 +1,1 @@
+{'company_name': '南京慧图信息科技有限公司', 'job_name': 'Java后台开发工程师', 'geography': '南京-栖霞区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/111434965.html?rc=03'}

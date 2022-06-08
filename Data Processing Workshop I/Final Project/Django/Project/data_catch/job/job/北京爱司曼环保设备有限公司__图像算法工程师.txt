@@ -1,0 +1,1 @@
+{'company_name': '北京爱司曼环保设备有限公司', 'job_name': '图像算法工程师', 'geography': '北京-通州区', 'bonus': ['绩效奖金', '定期体检', '专业培训', '五险'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/124326546.html?rc=03'}

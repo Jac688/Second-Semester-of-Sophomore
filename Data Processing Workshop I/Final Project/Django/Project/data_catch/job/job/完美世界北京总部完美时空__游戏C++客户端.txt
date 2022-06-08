@@ -1,0 +1,1 @@
+{'company_name': '完美世界北京总部完美时空', 'job_name': '游戏C++客户端', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '员工旅游', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131010791.html?rc=03'}

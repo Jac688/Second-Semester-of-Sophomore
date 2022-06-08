@@ -1,0 +1,1 @@
+{'company_name': '南京纳加软件股份有限公司', 'job_name': 'Java开发工程师', 'geography': '南京-江北新区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130568531.html?rc=03'}

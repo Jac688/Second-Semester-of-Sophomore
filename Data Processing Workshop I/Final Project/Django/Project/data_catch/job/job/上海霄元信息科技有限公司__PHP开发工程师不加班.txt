@@ -1,0 +1,1 @@
+{'company_name': '上海霄元信息科技有限公司', 'job_name': 'PHP开发工程师不加班', 'geography': '郑州-管城回族区', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/zhengzhou/126855259.html?rc=03'}

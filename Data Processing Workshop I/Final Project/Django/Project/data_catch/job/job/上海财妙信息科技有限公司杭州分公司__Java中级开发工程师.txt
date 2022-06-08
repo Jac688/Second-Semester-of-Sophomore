@@ -1,0 +1,1 @@
+{'company_name': '上海财妙信息科技有限公司杭州分公司', 'job_name': 'Java中级开发工程师', 'geography': '杭州-西湖区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128492439.html?rc=03'}

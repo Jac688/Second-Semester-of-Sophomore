@@ -1,0 +1,1 @@
+{'company_name': '北京东方石油设备有限公司', 'job_name': '石油钻采装备智能化产品研发工程师', 'geography': '北京-昌平区', 'bonus': ['五险一金', '包吃', '免费班车', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129158950.html?rc=03'}

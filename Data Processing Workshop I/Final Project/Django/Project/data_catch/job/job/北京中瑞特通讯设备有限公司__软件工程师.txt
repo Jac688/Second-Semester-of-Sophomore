@@ -1,0 +1,1 @@
+{'company_name': '北京中瑞特通讯设备有限公司', 'job_name': '软件工程师', 'geography': '北京-海淀区', 'bonus': ['周末双休', '节日福利', '五险一金', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131507138.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'HONOR荣耀手机营销项目', 'job_name': '数据运营电商项目', 'geography': '杭州', 'bonus': ['五险一金', '定期体检', '弹性工作', '绩效奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/128507375.html?rc=03'}

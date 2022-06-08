@@ -1,0 +1,1 @@
+{'company_name': '丹阳末底改电子商务有限公司', 'job_name': 'PHP开发工程师', 'geography': '镇江-润州区', 'bonus': ['五险一金', '员工旅游', '周末双休', '早午餐'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/zhenjiang/121794397.html?rc=03'}

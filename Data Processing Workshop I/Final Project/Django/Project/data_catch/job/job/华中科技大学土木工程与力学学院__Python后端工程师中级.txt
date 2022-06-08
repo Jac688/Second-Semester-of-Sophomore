@@ -1,0 +1,1 @@
+{'company_name': '华中科技大学土木工程与力学学院', 'job_name': 'Python后端工程师中级', 'geography': '武汉', 'bonus': ['五险一金', '绩效奖金', '交通补贴', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/128423626.html?rc=03'}

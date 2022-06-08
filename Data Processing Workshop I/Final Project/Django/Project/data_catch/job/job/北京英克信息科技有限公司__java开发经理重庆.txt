@@ -1,0 +1,1 @@
+{'company_name': '北京英克信息科技有限公司', 'job_name': 'java开发经理重庆', 'geography': '重庆-渝中区', 'bonus': ['五险一金', '餐饮补贴', '通讯补贴', '出差补贴'], 'salary': 1.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/127616738.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川南格尔生物科技有限公司', 'job_name': '软件工程师', 'geography': '深圳', 'bonus': ['五险一金', '过节福利费', '专业培训', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128669670.html?rc=03'}

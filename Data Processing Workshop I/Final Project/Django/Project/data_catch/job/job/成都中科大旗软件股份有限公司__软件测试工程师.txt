@@ -1,0 +1,1 @@
+{'company_name': '成都中科大旗软件股份有限公司', 'job_name': '软件测试工程师', 'geography': '成都-高新区', 'bonus': ['五险一金', '餐饮补贴', '交通补贴', '绩效奖金'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/117090878.html?rc=03'}

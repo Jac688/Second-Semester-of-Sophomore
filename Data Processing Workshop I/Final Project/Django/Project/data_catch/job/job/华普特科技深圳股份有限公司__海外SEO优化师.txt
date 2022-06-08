@@ -1,0 +1,1 @@
+{'company_name': '华普特科技深圳股份有限公司', 'job_name': '海外SEO优化师', 'geography': '深圳-宝安区', 'bonus': ['五险一金', '员工旅游', '年终奖金', '定期体检'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/127377033.html?rc=03'}

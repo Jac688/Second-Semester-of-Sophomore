@@ -1,0 +1,1 @@
+{'company_name': '上海美嘉林软件科技股份有限公司', 'job_name': 'Java软件工程师(初中级)', 'geography': '上海', 'bonus': ['五险一金', '员工旅游', '餐饮补贴', '年终奖金'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/69840077.html?rc=03'}

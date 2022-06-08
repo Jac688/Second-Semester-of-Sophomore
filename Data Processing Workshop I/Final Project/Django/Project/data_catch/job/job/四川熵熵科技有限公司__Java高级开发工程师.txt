@@ -1,0 +1,1 @@
+{'company_name': '四川熵熵科技有限公司', 'job_name': 'Java高级开发工程师', 'geography': '成都-天府新区', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/124922263.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '伟博视讯北京科技有限公司', 'job_name': '高级软件工程师VC类', 'geography': '北京-海淀区', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/70779161.html?rc=03'}

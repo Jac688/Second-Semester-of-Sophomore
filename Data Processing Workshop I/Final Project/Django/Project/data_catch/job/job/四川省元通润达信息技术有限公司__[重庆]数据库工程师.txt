@@ -1,0 +1,1 @@
+{'company_name': '四川省元通润达信息技术有限公司', 'job_name': '[重庆]数据库工程师', 'geography': '异地招聘', 'bonus': ['员工旅游', '交通补贴', '通讯补贴', '定期体检'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130005730.html?rc=03'}

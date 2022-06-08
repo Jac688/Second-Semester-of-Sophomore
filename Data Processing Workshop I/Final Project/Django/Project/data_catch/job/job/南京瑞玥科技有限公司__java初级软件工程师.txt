@@ -1,0 +1,1 @@
+{'company_name': '南京瑞玥科技有限公司', 'job_name': 'java初级软件工程师', 'geography': '苏州', 'bonus': ['带薪年假', '节日福利', '餐饮补贴', '绩效奖金'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/104314917.html?rc=03'}

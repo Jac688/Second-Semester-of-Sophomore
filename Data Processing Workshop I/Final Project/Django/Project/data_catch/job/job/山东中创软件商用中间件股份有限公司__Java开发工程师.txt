@@ -1,0 +1,1 @@
+{'company_name': '山东中创软件商用中间件股份有限公司', 'job_name': 'Java开发工程师', 'geography': '佛山-南海区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131012107.html?rc=03'}

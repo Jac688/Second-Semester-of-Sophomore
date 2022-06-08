@@ -1,0 +1,1 @@
+{'company_name': '广州赛泽科技有限公司', 'job_name': '网易游戏Windows客户端开发工程师CC', 'geography': '广州-天河区', 'bonus': ['节日福利', '五险一金', '餐饮补贴', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130295522.html?rc=03'}

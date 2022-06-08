@@ -1,0 +1,1 @@
+{'company_name': '南京特望科技有限公司', 'job_name': '南京web前端开发工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128798139.html?rc=03'}

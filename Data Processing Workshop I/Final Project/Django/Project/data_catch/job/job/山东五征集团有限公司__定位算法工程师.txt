@@ -1,0 +1,1 @@
+{'company_name': '山东五征集团有限公司', 'job_name': '定位算法工程师', 'geography': '异地招聘', 'bonus': ['五险一金', '餐饮补贴', '年终奖金', '定期体检'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/rizhao/131032205.html?rc=03'}

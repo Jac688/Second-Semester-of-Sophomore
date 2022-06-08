@@ -1,0 +1,1 @@
+{'company_name': '北京宏诚创新科技有限公司', 'job_name': '前端开发工程师', 'geography': '苏州-姑苏区', 'bonus': ['五险一金', '补充医疗保险', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/132172216.html?rc=03'}

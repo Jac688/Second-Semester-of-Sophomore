@@ -1,0 +1,1 @@
+{'company_name': '华中科技大学无锡研究院', 'job_name': '机器人系统开发工程师光机电所', 'geography': '无锡', 'bonus': ['五险一金', '专业培训', '年终奖金', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuxi/130959025.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': 'ShopEx上海商派网络科技有限公司', 'job_name': '技术经理', 'geography': '上海-徐汇区', 'bonus': ['五险一金', '补充公积金', '绩效奖金', '年终奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127180672.html?rc=03'}

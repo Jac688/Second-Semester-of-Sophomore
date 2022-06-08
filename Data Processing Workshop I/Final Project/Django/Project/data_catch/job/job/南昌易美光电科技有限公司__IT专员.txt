@@ -1,0 +1,1 @@
+{'company_name': '南昌易美光电科技有限公司', 'job_name': 'IT专员', 'geography': '南昌-青山湖区', 'bonus': ['带薪年假', '免费班车', '弹性工作', '包住宿'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/131197589.html?rc=03'}

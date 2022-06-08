@@ -1,0 +1,1 @@
+{'company_name': '小精灵天津环保科技集团有限公司', 'job_name': 'JAVA开发工程师', 'geography': '深圳-宝安区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/129095444.html?rc=03'}

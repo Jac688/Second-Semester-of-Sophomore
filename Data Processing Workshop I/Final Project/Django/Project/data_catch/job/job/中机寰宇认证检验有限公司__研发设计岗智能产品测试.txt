@@ -1,0 +1,1 @@
+{'company_name': '中机寰宇认证检验有限公司', 'job_name': '研发设计岗智能产品测试', 'geography': '北京-大兴区', 'bonus': ['交通补贴', '餐饮补贴', '通讯补贴', '专业培训'], 'salary': 1.67, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128189108.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '中国国际金融股份有限公司', 'job_name': '大数据开发工程师', 'geography': '北京', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/beijing/89414954.html?rc=03'}

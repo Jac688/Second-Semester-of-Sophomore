@@ -1,0 +1,1 @@
+{'company_name': '哈尔滨优智科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '哈尔滨', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/harbin/58457582.html?rc=03'}

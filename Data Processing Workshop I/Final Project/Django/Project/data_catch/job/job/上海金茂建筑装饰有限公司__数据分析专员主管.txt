@@ -1,0 +1,1 @@
+{'company_name': '上海金茂建筑装饰有限公司', 'job_name': '数据分析专员主管', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '定期体检'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125408601.html?rc=03'}

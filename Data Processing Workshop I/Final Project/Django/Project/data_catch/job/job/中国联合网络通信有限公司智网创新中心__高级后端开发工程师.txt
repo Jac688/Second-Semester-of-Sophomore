@@ -1,0 +1,1 @@
+{'company_name': '中国联合网络通信有限公司智网创新中心', 'job_name': '高级后端开发工程师', 'geography': '北京-海淀区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/128789801.html?rc=03'}

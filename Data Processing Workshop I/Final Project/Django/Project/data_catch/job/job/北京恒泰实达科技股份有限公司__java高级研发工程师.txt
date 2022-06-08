@@ -1,0 +1,1 @@
+{'company_name': '北京恒泰实达科技股份有限公司', 'job_name': 'java高级研发工程师', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '定期体检', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/125447015.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '安客诚信息服务上海有限公司', 'job_name': '电商数据分析师', 'geography': '上海-徐汇区', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/110786519.html?rc=03'}

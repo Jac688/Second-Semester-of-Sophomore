@@ -1,0 +1,1 @@
+{'company_name': '上海津洋航运经纪有限公司', 'job_name': 'Web前端开发工程师(中高级', 'geography': '重庆-渝北区', 'bonus': ['做五休二', '周末双休', '弹性工作', '带薪年假'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/123911184.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广西新豪智云技术股份有限公司', 'job_name': '大数据开发工程师', 'geography': '南宁-青秀区', 'bonus': ['周末双休', '住房公积金', '带薪年假', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/130543591.html?rc=03'}

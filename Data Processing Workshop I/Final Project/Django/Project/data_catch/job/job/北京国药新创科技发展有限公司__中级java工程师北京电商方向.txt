@@ -1,0 +1,1 @@
+{'company_name': '北京国药新创科技发展有限公司', 'job_name': '中级java工程师北京电商方向', 'geography': '北京-朝阳区', 'bonus': ['五险一金', '补充医疗保险', '交通补贴', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130089839.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '云鹊医疗科技上海有限公司', 'job_name': 'Java高级开发工程师', 'geography': '上海-浦东新区', 'bonus': ['补充医疗保险', '五险一金', '定期体检', '弹性工作'], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/124213754.html?rc=03'}

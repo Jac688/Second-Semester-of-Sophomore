@@ -1,0 +1,1 @@
+{'company_name': '字节跳动', 'job_name': '音频战略高级经理', 'geography': '北京', 'bonus': ['下午茶', '团队氛围好', '扁平管理', '免费三餐'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131370942.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广西殊诚众服信息技术有限公司', 'job_name': 'JAVA助理工程师实习', 'geography': '南宁', 'bonus': ['节假日福利', '年终奖金'], 'salary': 0.2, 'detail_url': 'https://msearch.51job.com/jobs/nanning/128808939.html?rc=03'}

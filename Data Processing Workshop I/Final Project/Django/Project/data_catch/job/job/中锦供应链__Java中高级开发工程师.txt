@@ -1,0 +1,1 @@
+{'company_name': '中锦供应链', 'job_name': 'Java中高级开发工程师', 'geography': '成都-高新区', 'bonus': ['绩效奖金', '年终奖金', '餐饮补贴', '带薪年假'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/127627446.html?rc=03'}

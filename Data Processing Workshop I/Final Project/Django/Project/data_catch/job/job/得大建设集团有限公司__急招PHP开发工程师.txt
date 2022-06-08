@@ -1,0 +1,1 @@
+{'company_name': '得大建设集团有限公司', 'job_name': '急招PHP开发工程师', 'geography': '长沙-长沙县', 'bonus': ['员工旅游', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/changsha/120548009.html?rc=03'}

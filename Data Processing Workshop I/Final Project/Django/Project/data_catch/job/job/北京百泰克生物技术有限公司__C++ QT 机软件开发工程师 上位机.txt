@@ -1,0 +1,1 @@
+{'company_name': '北京百泰克生物技术有限公司', 'job_name': 'C++ QT 机软件开发工程师 上位机', 'geography': '上海-杨浦区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128281951.html?rc=03'}

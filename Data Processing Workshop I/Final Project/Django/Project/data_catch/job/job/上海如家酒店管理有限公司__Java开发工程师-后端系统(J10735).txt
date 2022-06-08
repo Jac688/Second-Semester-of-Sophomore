@@ -1,0 +1,1 @@
+{'company_name': '上海如家酒店管理有限公司', 'job_name': 'Java开发工程师-后端系统(J10735)', 'geography': '上海-徐汇区', 'bonus': ['节日福利', '各种活动', '五险一金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/132175928.html?rc=03'}

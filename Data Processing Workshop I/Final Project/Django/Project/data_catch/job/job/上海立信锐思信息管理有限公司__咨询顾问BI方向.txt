@@ -1,0 +1,1 @@
+{'company_name': '上海立信锐思信息管理有限公司', 'job_name': '咨询顾问BI方向', 'geography': '上海-黄浦区', 'bonus': ['专业培训', '五险一金', '员工旅游', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/128708616.html?rc=03'}

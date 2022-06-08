@@ -1,0 +1,1 @@
+{'company_name': '上海康恩贝医药有限公司', 'job_name': '数据支持(IT信息技术', 'geography': '上海', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/125849572.html?rc=03'}

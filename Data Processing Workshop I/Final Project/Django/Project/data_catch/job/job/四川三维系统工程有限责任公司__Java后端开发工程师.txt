@@ -1,0 +1,1 @@
+{'company_name': '四川三维系统工程有限责任公司', 'job_name': 'Java后端开发工程师', 'geography': '成都-青羊区', 'bonus': ['五险一金', '周末双休'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/123241845.html?rc=03'}

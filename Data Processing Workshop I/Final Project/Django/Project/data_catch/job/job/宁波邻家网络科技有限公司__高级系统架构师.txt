@@ -1,0 +1,1 @@
+{'company_name': '宁波邻家网络科技有限公司', 'job_name': '高级系统架构师', 'geography': '宁波', 'bonus': ['高于市场薪酬', '周末双休', '弹性工作制度', '一年两次调薪'], 'salary': 3.33, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/121660490.html?rc=03'}

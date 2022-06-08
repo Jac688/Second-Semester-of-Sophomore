@@ -1,0 +1,1 @@
+{'company_name': '南华期货股份有限公司', 'job_name': '期权风控员', 'geography': '杭州-上城区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129952109.html?rc=03'}

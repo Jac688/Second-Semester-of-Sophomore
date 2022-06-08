@@ -1,0 +1,1 @@
+{'company_name': '上海金盏企业管理有限公司深圳分公司', 'job_name': '初级JAVA工程师', 'geography': '深圳-福田区', 'bonus': ['五险一金', '节日福利', '做五休二', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/131099731.html?rc=03'}

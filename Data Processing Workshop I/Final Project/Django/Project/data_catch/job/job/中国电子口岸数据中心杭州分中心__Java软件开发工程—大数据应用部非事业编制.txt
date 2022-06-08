@@ -1,0 +1,1 @@
+{'company_name': '中国电子口岸数据中心杭州分中心', 'job_name': 'Java软件开发工程—大数据应用部非事业编制', 'geography': '杭州-上城区', 'bonus': ['五险一金', '交通补贴', '年终奖金', '专业培训'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/129249360.html?rc=03'}

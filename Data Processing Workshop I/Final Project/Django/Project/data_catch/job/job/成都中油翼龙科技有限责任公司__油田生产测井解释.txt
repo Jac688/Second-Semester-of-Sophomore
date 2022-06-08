@@ -1,0 +1,1 @@
+{'company_name': '成都中油翼龙科技有限责任公司', 'job_name': '油田生产测井解释', 'geography': '成都', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/63978352.html?rc=03'}

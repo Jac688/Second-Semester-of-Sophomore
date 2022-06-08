@@ -1,0 +1,1 @@
+{'company_name': '合肥英泽信息科技有限公司', 'job_name': '遥感算法工程师Python', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130488303.html?rc=03'}

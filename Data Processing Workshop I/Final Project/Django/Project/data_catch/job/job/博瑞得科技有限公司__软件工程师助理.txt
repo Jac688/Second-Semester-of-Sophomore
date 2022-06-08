@@ -1,0 +1,1 @@
+{'company_name': '博瑞得科技有限公司', 'job_name': '软件工程师助理', 'geography': '重庆', 'bonus': ['绩效奖金', '五险一金', '定期体检', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/124318142.html?rc=03'}

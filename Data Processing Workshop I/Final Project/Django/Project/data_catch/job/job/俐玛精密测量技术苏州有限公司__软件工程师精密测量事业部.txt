@@ -1,0 +1,1 @@
+{'company_name': '俐玛精密测量技术苏州有限公司', 'job_name': '软件工程师精密测量事业部', 'geography': '苏州-吴中区', 'bonus': ['五险一金', '餐饮补贴', '绩效奖金', '带薪年假'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/123034371.html?rc=03'}

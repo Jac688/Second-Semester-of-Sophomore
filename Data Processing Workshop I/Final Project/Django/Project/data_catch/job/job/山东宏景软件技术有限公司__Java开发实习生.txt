@@ -1,0 +1,1 @@
+{'company_name': '山东宏景软件技术有限公司', 'job_name': 'Java开发实习生', 'geography': '济南-长清区', 'bonus': ['做五休二', '五险一金', '周末双休', '弹性工作'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/jinan/131386526.html?rc=03'}

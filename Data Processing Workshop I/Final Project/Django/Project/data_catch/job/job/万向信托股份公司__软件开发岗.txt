@@ -1,0 +1,1 @@
+{'company_name': '万向信托股份公司', 'job_name': '软件开发岗', 'geography': '杭州', 'bonus': [], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/60794501.html?rc=03'}

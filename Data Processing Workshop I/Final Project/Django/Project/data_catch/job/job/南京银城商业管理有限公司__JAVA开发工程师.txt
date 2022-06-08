@@ -1,0 +1,1 @@
+{'company_name': '南京银城商业管理有限公司', 'job_name': 'JAVA开发工程师', 'geography': '南京-鼓楼区', 'bonus': ['五险一金', '带薪年假', '周末双休', '节日福利'], 'salary': 1.3, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/128088855.html?rc=03'}

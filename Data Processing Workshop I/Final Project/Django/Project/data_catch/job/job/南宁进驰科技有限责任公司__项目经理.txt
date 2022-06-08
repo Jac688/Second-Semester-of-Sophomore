@@ -1,0 +1,1 @@
+{'company_name': '南宁进驰科技有限责任公司', 'job_name': '项目经理', 'geography': '南宁-兴宁区', 'bonus': ['五险', '周末双休'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/112376390.html?rc=03'}

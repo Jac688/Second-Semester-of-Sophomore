@@ -1,0 +1,1 @@
+{'company_name': '北京国商逸品文化传媒有限公司', 'job_name': 'Python开发工程师接受应届生', 'geography': '北京-海淀区', 'bonus': [], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126897947.html?rc=03'}

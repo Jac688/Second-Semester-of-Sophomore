@@ -1,0 +1,1 @@
+{'company_name': '四川雏鹰未来航空科技有限公司', 'job_name': '技术工程师', 'geography': '异地招聘', 'bonus': ['周末双休', '带薪年假', '绩效奖金', '全勤奖'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/130945755.html?rc=03'}

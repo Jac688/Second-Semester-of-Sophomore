@@ -1,0 +1,1 @@
+{'company_name': '上海迅元信息科技有限公司', 'job_name': '嵌入式软件工程师cc++', 'geography': '苏州-工业园区', 'bonus': ['五险一金', '餐饮补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/89161545.html?rc=03'}

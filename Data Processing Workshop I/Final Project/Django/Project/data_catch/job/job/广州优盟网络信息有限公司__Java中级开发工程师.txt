@@ -1,0 +1,1 @@
+{'company_name': '广州优盟网络信息有限公司', 'job_name': 'Java中级开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '周末双休', '年终奖金', '老板同事nice'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/120963636.html?rc=03'}

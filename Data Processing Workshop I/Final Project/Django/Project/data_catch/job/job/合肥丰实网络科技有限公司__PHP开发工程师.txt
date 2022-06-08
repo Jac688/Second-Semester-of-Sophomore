@@ -1,0 +1,1 @@
+{'company_name': '合肥丰实网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '合肥', 'bonus': ['年终奖金', '包两餐', '五险', '带薪年假'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hefei/130393251.html?rc=03'}

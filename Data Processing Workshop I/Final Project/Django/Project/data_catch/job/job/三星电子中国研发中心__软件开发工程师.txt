@@ -1,0 +1,1 @@
+{'company_name': '三星电子中国研发中心', 'job_name': '软件开发工程师', 'geography': '南京-雨花台区', 'bonus': ['五险一金', '弹性工作', '员工旅游', '餐饮补贴'], 'salary': 1.25, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/115290649.html?rc=03'}

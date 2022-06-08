@@ -1,0 +1,1 @@
+{'company_name': '中山市天启智能科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '异地招聘', 'bonus': ['员工旅游', '年终奖金', '补充医疗保险', '专业培训'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/119043102.html?rc=03'}

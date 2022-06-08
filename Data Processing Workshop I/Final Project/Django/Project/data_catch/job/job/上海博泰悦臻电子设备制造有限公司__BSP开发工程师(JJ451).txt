@@ -1,0 +1,1 @@
+{'company_name': '上海博泰悦臻电子设备制造有限公司', 'job_name': 'BSP开发工程师(JJ451)', 'geography': '南京-浦口区', 'bonus': ['五险一金', '团队氛围好', '餐补', '弹性工作'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/122485984.html?rc=03'}

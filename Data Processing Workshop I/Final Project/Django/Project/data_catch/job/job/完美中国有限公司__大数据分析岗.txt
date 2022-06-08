@@ -1,0 +1,1 @@
+{'company_name': '完美中国有限公司', 'job_name': '大数据分析岗', 'geography': '中山-石岐区', 'bonus': ['五险一金', '带薪年假', '周末双休', '生日节日福利'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/zhongshan/131173500.html?rc=03'}

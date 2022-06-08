@@ -1,0 +1,1 @@
+{'company_name': '广州市雅江光电设备有限公司', 'job_name': '软件工程师', 'geography': '广州-花都区', 'bonus': ['周末双休', '带薪年假', '包吃', '包三餐'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122160283.html?rc=03'}

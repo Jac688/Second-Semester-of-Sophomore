@@ -1,0 +1,1 @@
+{'company_name': '上海头趣科技有限公司', 'job_name': '软件工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '餐饮补贴'], 'salary': 1.08, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/103165849.html?rc=03'}

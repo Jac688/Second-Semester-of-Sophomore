@@ -1,0 +1,1 @@
+{'company_name': '上海蓝载信息科技有限公司', 'job_name': 'Software Engineer 软件工程师', 'geography': '上海-浦东新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/104036184.html?rc=03'}

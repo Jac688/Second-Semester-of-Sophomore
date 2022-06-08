@@ -1,0 +1,1 @@
+{'company_name': '广州淦源智能科技有限公司', 'job_name': 'Unity3d开发工程师', 'geography': '广州-番禺区', 'bonus': ['五险一金', '员工旅游', '专业培训', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/119274814.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '华峰集团有限公司', 'job_name': 'c++中级开发工程师', 'geography': '南京-江宁区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/120988167.html?rc=03'}

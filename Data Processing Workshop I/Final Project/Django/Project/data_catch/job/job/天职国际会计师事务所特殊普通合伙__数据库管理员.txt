@@ -1,0 +1,1 @@
+{'company_name': '天职国际会计师事务所特殊普通合伙', 'job_name': '数据库管理员', 'geography': '北京-海淀区', 'bonus': ['五险一金', '通讯补贴', '绩效奖金', '年底双薪'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/beijing/129420640.html?rc=03'}

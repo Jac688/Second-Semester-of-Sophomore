@@ -1,0 +1,1 @@
+{'company_name': '北京中创信测科技股份有限公司', 'job_name': '后端开发工程师PythonGo', 'geography': '重庆-江北区', 'bonus': ['五险一金', '补充医疗保险', '带薪年假', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/123839549.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '南京力瑞科电气有限公司', 'job_name': '软件开发工程师(20W年薪', 'geography': '南京-雨花台区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125049091.html?rc=03'}

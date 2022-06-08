@@ -1,0 +1,1 @@
+{'company_name': '北信源系统集成有限公司', 'job_name': '高级运维工程师', 'geography': '南京', 'bonus': ['周末双休', '弹性工作', '带薪年假', '五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130244410.html?rc=03'}

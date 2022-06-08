@@ -1,0 +1,1 @@
+{'company_name': '北京九辰智能医疗设备有限公司', 'job_name': '后端开发工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '绩效奖金'], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/126993265.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '前海大同深圳智能科技有限公司', 'job_name': '语音遥控软件工程师', 'geography': '深圳-南山区', 'bonus': ['五险一金', '员工旅游', '股票期权', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/112831972.html?rc=03'}

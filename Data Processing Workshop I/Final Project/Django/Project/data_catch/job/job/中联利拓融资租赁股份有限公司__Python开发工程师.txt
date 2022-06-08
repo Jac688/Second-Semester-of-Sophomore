@@ -1,0 +1,1 @@
+{'company_name': '中联利拓融资租赁股份有限公司', 'job_name': 'Python开发工程师', 'geography': '上海-浦东新区', 'bonus': ['做五休二', '周末双休', '带薪年假', '免费班车'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129054906.html?rc=03'}

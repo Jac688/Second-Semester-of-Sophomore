@@ -1,0 +1,1 @@
+{'company_name': '北控水务集团', 'job_name': '系统高级工程师(J12146)', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/130750578.html?rc=03'}

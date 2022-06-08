@@ -1,0 +1,1 @@
+{'company_name': '广东永鸿信息咨询有限公司', 'job_name': '数据分析专员', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '带薪年假'], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/132103832.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '恩智浦中国管理有限公司', 'job_name': 'SoC verification engineer', 'geography': '苏州', 'bonus': [], 'salary': -1, 'detail_url': 'https://msearch.51job.com/jobs/suzhou/132330554.html?rc=03'}

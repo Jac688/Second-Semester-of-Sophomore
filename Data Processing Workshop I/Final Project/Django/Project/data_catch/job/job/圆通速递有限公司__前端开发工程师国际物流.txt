@@ -1,0 +1,1 @@
+{'company_name': '圆通速递有限公司', 'job_name': '前端开发工程师国际物流', 'geography': '上海-青浦区', 'bonus': ['五险一金', '免费班车', '专业培训', '绩效奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/127352251.html?rc=03'}

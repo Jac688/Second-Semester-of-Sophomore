@@ -1,0 +1,1 @@
+{'company_name': '华南智能机器人创新研究院', 'job_name': '软件工程师', 'geography': '佛山-顺德区', 'bonus': ['五险一金', '专业培训'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131292090.html?rc=03'}

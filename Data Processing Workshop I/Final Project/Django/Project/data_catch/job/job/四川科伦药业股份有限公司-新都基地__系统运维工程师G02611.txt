@@ -1,0 +1,1 @@
+{'company_name': '四川科伦药业股份有限公司-新都基地', 'job_name': '系统运维工程师G02611', 'geography': '成都-新都区', 'bonus': ['五险一金', '免费班车', '餐饮补贴', '通讯补贴'], 'salary': 7.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/128678343.html?rc=03'}

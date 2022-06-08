@@ -1,0 +1,1 @@
+{'company_name': '广州华起教育科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '年终奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/113882985.html?rc=03'}

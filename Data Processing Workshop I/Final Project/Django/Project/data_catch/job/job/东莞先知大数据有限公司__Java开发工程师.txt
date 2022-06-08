@@ -1,0 +1,1 @@
+{'company_name': '东莞先知大数据有限公司', 'job_name': 'Java开发工程师', 'geography': '东莞-东城区', 'bonus': ['绩效奖金', '年终奖金', '交通补贴', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130736185.html?rc=03'}

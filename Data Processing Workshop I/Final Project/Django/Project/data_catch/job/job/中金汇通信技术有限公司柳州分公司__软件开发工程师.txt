@@ -1,0 +1,1 @@
+{'company_name': '中金汇通信技术有限公司柳州分公司', 'job_name': '软件开发工程师', 'geography': '异地招聘', 'bonus': ['五险一金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/nanning/128221281.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '威胜集团有限公司', 'job_name': 'Java开发工程师', 'geography': '长沙-岳麓区', 'bonus': ['五险一金', '带薪年假', '绩效奖金', '节日福利'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/changsha/128373688.html?rc=03'}

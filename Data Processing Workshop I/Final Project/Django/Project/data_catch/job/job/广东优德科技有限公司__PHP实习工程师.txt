@@ -1,0 +1,1 @@
+{'company_name': '广东优德科技有限公司', 'job_name': 'PHP实习工程师', 'geography': '广州-海珠区', 'bonus': ['绩效奖金', '年终奖金', '股票期权', '弹性工作'], 'salary': 0.3, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/98206103.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广州奥松电子有限公司', 'job_name': '研发总监传感器', 'geography': '广州-黄埔区', 'bonus': ['五险一金', '餐饮补贴', '股票期权', '年终奖金'], 'salary': 3.0, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/122194459.html?rc=03'}

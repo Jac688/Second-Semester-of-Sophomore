@@ -1,0 +1,1 @@
+{'company_name': '中国移动通信集团设计院有限公司江苏分公司', 'job_name': 'IT开发岗', 'geography': '南京-鼓楼区', 'bonus': [], 'salary': 0.83, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/129843266.html?rc=03'}

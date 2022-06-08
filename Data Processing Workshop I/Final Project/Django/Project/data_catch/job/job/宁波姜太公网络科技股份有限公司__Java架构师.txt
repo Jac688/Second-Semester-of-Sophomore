@@ -1,0 +1,1 @@
+{'company_name': '宁波姜太公网络科技股份有限公司', 'job_name': 'Java架构师', 'geography': '宁波', 'bonus': ['五险一金', '员工旅游', '绩效奖金', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/130397516.html?rc=03'}

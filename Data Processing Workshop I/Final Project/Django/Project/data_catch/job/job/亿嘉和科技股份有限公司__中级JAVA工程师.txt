@@ -1,0 +1,1 @@
+{'company_name': '亿嘉和科技股份有限公司', 'job_name': '中级JAVA工程师', 'geography': '南京-雨花台区', 'bonus': [], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/127648066.html?rc=03'}

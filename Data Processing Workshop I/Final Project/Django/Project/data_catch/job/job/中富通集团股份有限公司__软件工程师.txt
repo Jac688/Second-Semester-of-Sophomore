@@ -1,0 +1,1 @@
+{'company_name': '中富通集团股份有限公司', 'job_name': '软件工程师', 'geography': '福州', 'bonus': ['五险一金', '节日福利', '员工旅游', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/128973627.html?rc=03'}

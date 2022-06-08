@@ -1,0 +1,1 @@
+{'company_name': '广东尚睿网络技术有限公司', 'job_name': '见习前端开发工程师', 'geography': '东莞-松山湖区', 'bonus': ['定期体检', '员工旅游', '交通补贴', '餐饮补贴'], 'salary': 0.4, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/130260390.html?rc=03'}

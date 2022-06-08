@@ -1,0 +1,1 @@
+{'company_name': '北京中科信软科技有限公司', 'job_name': '周末IT讲师', 'geography': '北京', 'bonus': [], 'salary': 2.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/62955492.html?rc=03'}

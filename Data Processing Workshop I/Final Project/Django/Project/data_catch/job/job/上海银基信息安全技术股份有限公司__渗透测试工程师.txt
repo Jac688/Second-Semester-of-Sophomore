@@ -1,0 +1,1 @@
+{'company_name': '上海银基信息安全技术股份有限公司', 'job_name': '渗透测试工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '员工旅游', '股票期权', '年终奖金'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/101761364.html?rc=03'}

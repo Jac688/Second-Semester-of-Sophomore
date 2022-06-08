@@ -1,0 +1,1 @@
+{'company_name': '广州唤醒她科技有限公司', 'job_name': 'PHP程序员', 'geography': '广州-白云区', 'bonus': ['年终奖金', '带薪年假', '节日福利', '不加班'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130504866.html?rc=03'}

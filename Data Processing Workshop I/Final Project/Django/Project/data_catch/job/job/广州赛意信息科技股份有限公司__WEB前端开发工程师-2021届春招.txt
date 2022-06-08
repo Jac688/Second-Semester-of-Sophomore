@@ -1,0 +1,1 @@
+{'company_name': '广州赛意信息科技股份有限公司', 'job_name': 'WEB前端开发工程师-2021届春招', 'geography': '佛山', 'bonus': [], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/foshan/128722492.html?rc=03'}

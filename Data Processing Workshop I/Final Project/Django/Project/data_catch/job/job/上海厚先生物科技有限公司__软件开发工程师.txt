@@ -1,0 +1,1 @@
+{'company_name': '上海厚先生物科技有限公司', 'job_name': '软件开发工程师', 'geography': '异地招聘', 'bonus': ['员工旅游', '交通补贴', '餐饮补贴', '通讯补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129968656.html?rc=03'}

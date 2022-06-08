@@ -1,0 +1,1 @@
+{'company_name': '南京阿葛斯新能源科技有限公司', 'job_name': 'C++开发工程师', 'geography': '南京', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/132087472.html?rc=03'}

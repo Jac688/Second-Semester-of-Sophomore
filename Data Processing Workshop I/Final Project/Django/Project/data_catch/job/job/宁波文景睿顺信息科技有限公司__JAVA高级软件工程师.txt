@@ -1,0 +1,1 @@
+{'company_name': '宁波文景睿顺信息科技有限公司', 'job_name': 'JAVA高级软件工程师', 'geography': '宁波-高新区', 'bonus': ['五险一金', '弹性工作'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131019679.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '宁波市海曙区得育教育培训学校', 'job_name': '编程老师', 'geography': '湖州-吴兴区', 'bonus': [], 'salary': 0.45, 'detail_url': 'https://msearch.51job.com/jobs/huzhou/123550643.html?rc=03'}

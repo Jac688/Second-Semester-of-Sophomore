@@ -1,0 +1,1 @@
+{'company_name': '北京中星微电子有限公司', 'job_name': 'Web技术开发工程师', 'geography': '上海-闵行区', 'bonus': ['五险一金', '补充公积金', '免费班车', '交通补贴'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130100084.html?rc=03'}

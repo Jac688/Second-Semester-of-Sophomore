@@ -1,0 +1,1 @@
+{'company_name': '上海智远弘业智能技术股份有限公司', 'job_name': '嵌入式软件工程师', 'geography': '上海-浦东新区', 'bonus': ['五险一金', '地铁沿线', '专业培训', '团队带教'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/122961290.html?rc=03'}

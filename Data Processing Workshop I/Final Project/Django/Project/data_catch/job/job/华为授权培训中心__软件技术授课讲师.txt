@@ -1,0 +1,1 @@
+{'company_name': '华为授权培训中心', 'job_name': '软件技术授课讲师', 'geography': '南昌-西湖区', 'bonus': ['五险一金', '年终奖金', '专业培训', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/nanchang/125785897.html?rc=03'}

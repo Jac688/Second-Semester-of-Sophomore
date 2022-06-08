@@ -1,0 +1,1 @@
+{'company_name': '安健科技重庆有限公司', 'job_name': '嵌入式软件工程师', 'geography': '重庆-九龙坡区', 'bonus': ['五险一金', '定期体检', '餐饮补贴', '年终奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/130230585.html?rc=03'}

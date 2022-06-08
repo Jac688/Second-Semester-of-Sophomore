@@ -1,0 +1,1 @@
+{'company_name': '东冠集团有限公司', 'job_name': 'JAVA开发工程师信息公司', 'geography': '杭州', 'bonus': ['绩效奖金', '包住宿', '高温补贴', '五险一金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/131206417.html?rc=03'}

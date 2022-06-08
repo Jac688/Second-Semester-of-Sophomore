@@ -1,0 +1,1 @@
+{'company_name': '四川凯普顿信息技术股份有限公司', 'job_name': 'JAVA', 'geography': '成都-武侯区', 'bonus': ['五险一金', '餐饮补贴', '专业培训', '绩效奖金'], 'salary': 1.1, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/129289987.html?rc=03'}

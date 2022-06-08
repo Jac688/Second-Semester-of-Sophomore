@@ -1,0 +1,1 @@
+{'company_name': '广东蓝鲸软件有限公司', 'job_name': 'Java架构师', 'geography': '东莞-松山湖区', 'bonus': ['五险一金', '包住宿', '包吃', '绩效奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/dongguan/132134322.html?rc=03'}

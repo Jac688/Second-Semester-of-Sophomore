@@ -1,0 +1,1 @@
+{'company_name': '北京有信智汇科技有限公司', 'job_name': '嵌入式软件工程师', 'geography': '北京-通州区', 'bonus': ['五险一金', '绩效奖金', '年终奖金', '定期体检'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131011865.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京寺库商贸有限公司', 'job_name': '财务Java开发工程师', 'geography': '北京-朝阳区', 'bonus': [], 'salary': 2.5, 'detail_url': 'https://msearch.51job.com/jobs/beijing/131945698.html?rc=03'}

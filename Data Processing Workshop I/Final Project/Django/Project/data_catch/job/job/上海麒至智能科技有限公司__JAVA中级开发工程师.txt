@@ -1,0 +1,1 @@
+{'company_name': '上海麒至智能科技有限公司', 'job_name': 'JAVA中级开发工程师', 'geography': '青岛-崂山区', 'bonus': ['五险一金', '年终奖金', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/qingdao/111454817.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '北京聘多多科技有限公司', 'job_name': 'Java开发工程师重庆', 'geography': '重庆-渝北区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chongqing/132278455.html?rc=03'}

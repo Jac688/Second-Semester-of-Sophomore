@@ -1,0 +1,1 @@
+{'company_name': '上海深屹网络科技有限公司', 'job_name': 'PHP开发工程师', 'geography': '上海-长宁区', 'bonus': ['五险一金', '弹性工作', '专业培训', '绩效奖金'], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/100995890.html?rc=03'}

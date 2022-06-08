@@ -1,0 +1,1 @@
+{'company_name': '上海旭诚知识产权代理有限公司', 'job_name': 'Java开发工程师软件工程师(jianzhi)', 'geography': '上海', 'bonus': ['五险一金', '专业培训', '员工旅游', '餐饮补贴'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/129511113.html?rc=03'}

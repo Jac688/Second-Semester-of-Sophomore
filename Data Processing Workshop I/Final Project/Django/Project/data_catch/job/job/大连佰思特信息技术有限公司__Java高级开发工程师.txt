@@ -1,0 +1,1 @@
+{'company_name': '大连佰思特信息技术有限公司', 'job_name': 'Java高级开发工程师', 'geography': '大连', 'bonus': [], 'salary': 0.9, 'detail_url': 'https://msearch.51job.com/jobs/dalian/132213125.html?rc=03'}

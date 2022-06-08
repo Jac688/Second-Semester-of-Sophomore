@@ -1,0 +1,1 @@
+{'company_name': '北京三维天地科技股份有限公司武汉分公司', 'job_name': 'C++开发工程师(J10752)', 'geography': '武汉-洪山区', 'bonus': ['五险一金', '交通补贴', '餐饮补贴', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/wuhan/131119745.html?rc=03'}

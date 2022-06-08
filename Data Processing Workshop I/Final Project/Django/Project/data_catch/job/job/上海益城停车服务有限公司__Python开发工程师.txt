@@ -1,0 +1,1 @@
+{'company_name': '上海益城停车服务有限公司', 'job_name': 'Python开发工程师', 'geography': '南京', 'bonus': ['五险一金', '绩效奖金', '年终奖金'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/130512123.html?rc=03'}

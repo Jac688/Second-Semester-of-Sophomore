@@ -1,0 +1,1 @@
+{'company_name': '南京德阳科技有限公司', 'job_name': 'Java初级工程师', 'geography': '南京-鼓楼区', 'bonus': [], 'salary': 0.5, 'detail_url': 'https://msearch.51job.com/jobs/nanjing/125082395.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '吉林省汐望电子商务有限公司', 'job_name': 'PHP程序员', 'geography': '长春-朝阳区', 'bonus': ['绩效奖金', '节日福利', '专业培训', '餐饮补贴'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/changchun/131947187.html?rc=03'}

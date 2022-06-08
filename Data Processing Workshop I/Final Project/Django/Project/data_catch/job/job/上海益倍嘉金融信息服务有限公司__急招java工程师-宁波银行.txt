@@ -1,0 +1,1 @@
+{'company_name': '上海益倍嘉金融信息服务有限公司', 'job_name': '急招java工程师-宁波银行', 'geography': '宁波-江北区', 'bonus': ['五险一金', '弹性工作', '绩效奖金'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/131649236.html?rc=03'}

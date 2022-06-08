@@ -1,0 +1,1 @@
+{'company_name': '北京鼎汉技术集团股份有限公司', 'job_name': 'C++软件工程师', 'geography': '成都-高新区', 'bonus': [], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/123780603.html?rc=03'}

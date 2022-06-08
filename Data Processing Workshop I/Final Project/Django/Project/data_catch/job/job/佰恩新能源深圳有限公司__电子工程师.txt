@@ -1,0 +1,1 @@
+{'company_name': '佰恩新能源深圳有限公司', 'job_name': '电子工程师', 'geography': '深圳-龙岗区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/shenzhen/128274535.html?rc=03'}

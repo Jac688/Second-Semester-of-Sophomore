@@ -1,0 +1,1 @@
+{'company_name': '宁波小遛共享信息科技有限公司', 'job_name': '中级java工程师', 'geography': '宁波', 'bonus': ['交通补贴', '团建', '生日福利', '全勤奖'], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/ningbo/123104217.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '四川众鹏科技有限公司', 'job_name': 'Java开发工程师中高级', 'geography': '成都-高新区', 'bonus': ['五险一金', '绩效奖金', '年底双薪', '定期体检'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/131039884.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '广东七洲科技股份有限公司', 'job_name': 'Java后端开发工程师', 'geography': '广州-天河区', 'bonus': ['五险一金', '员工旅游', '通讯补贴', '绩效奖金'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/guangzhou/130016534.html?rc=03'}

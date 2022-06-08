@@ -1,0 +1,1 @@
+{'company_name': '上海裕生特种线材有限公司', 'job_name': '软件工程师', 'geography': '上海-青浦区', 'bonus': ['年终奖金', '通讯补贴', '包住宿', '节日福利'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/shanghai/130368031.html?rc=03'}

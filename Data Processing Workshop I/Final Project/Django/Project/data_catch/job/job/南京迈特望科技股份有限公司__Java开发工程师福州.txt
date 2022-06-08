@@ -1,0 +1,1 @@
+{'company_name': '南京迈特望科技股份有限公司', 'job_name': 'Java开发工程师福州', 'geography': '福州-鼓楼区', 'bonus': [], 'salary': 1.2, 'detail_url': 'https://msearch.51job.com/jobs/fuzhou/129043539.html?rc=03'}

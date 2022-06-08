@@ -1,0 +1,1 @@
+{'company_name': '四川新银商务咨询有限公司', 'job_name': '编程课导老师+底薪4k+五险一金', 'geography': '成都-青羊区', 'bonus': ['专业培训', '绩效奖金', '年终奖金', '员工旅游'], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132081308.html?rc=03'}

@@ -1,0 +1,1 @@
+{'company_name': '上海韦晴软件科技有限公司', 'job_name': '中高级JAVA开发工程师(佛山)', 'geography': '佛山-南海区', 'bonus': ['年终奖金', '绩效奖金', '五险一金', '员工旅游'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/foshan/131023954.html?rc=03'}

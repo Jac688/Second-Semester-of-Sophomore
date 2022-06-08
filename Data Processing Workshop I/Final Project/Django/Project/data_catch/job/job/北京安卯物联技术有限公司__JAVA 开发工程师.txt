@@ -1,0 +1,1 @@
+{'company_name': '北京安卯物联技术有限公司', 'job_name': 'JAVA 开发工程师', 'geography': '北京-大兴区', 'bonus': ['五险一金', '通讯补贴', '定期体检', '年终奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/beijing/112697247.html?rc=03'}

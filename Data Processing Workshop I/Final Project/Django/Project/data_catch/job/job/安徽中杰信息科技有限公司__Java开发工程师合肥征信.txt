@@ -1,0 +1,1 @@
+{'company_name': '安徽中杰信息科技有限公司', 'job_name': 'Java开发工程师合肥征信', 'geography': '合肥-包河区', 'bonus': ['五险一金', '餐饮补贴', '定期体检', '员工旅游'], 'salary': 0.6, 'detail_url': 'https://msearch.51job.com/jobs/hefei/132098384.html?rc=03'}

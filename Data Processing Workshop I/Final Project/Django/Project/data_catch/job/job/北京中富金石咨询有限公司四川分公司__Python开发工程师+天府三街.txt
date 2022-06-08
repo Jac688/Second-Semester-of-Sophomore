@@ -1,0 +1,1 @@
+{'company_name': '北京中富金石咨询有限公司四川分公司', 'job_name': 'Python开发工程师+天府三街', 'geography': '成都-高新区', 'bonus': ['周末双休', '带薪年假', '五险一金', '绩效奖金'], 'salary': 1.0, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132008990.html?rc=03'}

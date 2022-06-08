@@ -1,0 +1,1 @@
+{'company_name': '上海工物太未科技有限公司', 'job_name': '嵌入式软件开发技术岗', 'geography': '成都-双流区', 'bonus': ['五险一金', '定期体检', '带薪年假', '节日福利'], 'salary': 1.5, 'detail_url': 'https://msearch.51job.com/jobs/chengdu/132179304.html?rc=03'}

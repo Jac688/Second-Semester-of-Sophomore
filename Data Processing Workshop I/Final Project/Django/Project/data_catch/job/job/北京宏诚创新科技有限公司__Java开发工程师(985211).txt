@@ -1,0 +1,1 @@
+{'company_name': '北京宏诚创新科技有限公司', 'job_name': 'Java开发工程师(985211)', 'geography': '北京-通州区', 'bonus': [], 'salary': 0.7, 'detail_url': 'https://msearch.51job.com/jobs/beijing/125197736.html?rc=03'}

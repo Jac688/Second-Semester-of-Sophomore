@@ -1,0 +1,1 @@
+{'company_name': '上海申和热磁电子有限公司', 'job_name': '市场分析师', 'geography': '杭州-江干区', 'bonus': ['做五休二', '带薪年假', '五险一金', '包吃'], 'salary': 0.8, 'detail_url': 'https://msearch.51job.com/jobs/hangzhou/127586414.html?rc=03'}
